@@ -1,0 +1,402 @@
+[
+ {
+  "id": "thatcher",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "searle",
+  "i": 5,
+  "weak": false
+ },
+ {
+  "id": "mandelbrot",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "binding",
+  "i": 4,
+  "weak": true
+ },
+ {
+  "id": "kegan",
+  "i": 5,
+  "weak": false
+ },
+ {
+  "id": "quantumcomp",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "streams",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "libet",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "levine",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "braitenberg",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "cyc",
+  "i": 1,
+  "weak": true
+ },
+ {
+  "id": "boltzmannmachine",
+  "i": 1,
+  "weak": true
+ },
+ {
+  "id": "bischof",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "sicp",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "autopoiesis",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "pdp",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "hot",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "brooks",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "cogarch",
+  "i": 3,
+  "weak": true
+ },
+ {
+  "id": "edelman",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "gwt",
+  "i": 2,
+  "weak": true
+ },
+ {
+  "id": "occ",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "mysterianism",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "penrose",
+  "i": 6,
+  "weak": false
+ },
+ {
+  "id": "ncc",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "witten",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "wheeler",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "schmidhuber",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "harnad",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "dennett",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "embodied",
+  "i": 3,
+  "weak": false
+ },
+ {
+  "id": "singularity",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "damasio",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "groupsel",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "chalmers",
+  "i": 3,
+  "weak": false
+ },
+ {
+  "id": "pearce",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "block",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "doerner",
+  "i": 3,
+  "weak": false
+ },
+ {
+  "id": "hypercomputation",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "matrix",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "agi",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "wolfram",
+  "i": 8,
+  "weak": false
+ },
+ {
+  "id": "airisk",
+  "i": 5,
+  "weak": false
+ },
+ {
+  "id": "simulation",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "metzinger",
+  "i": 8,
+  "weak": false
+ },
+ {
+  "id": "iit",
+  "i": 6,
+  "weak": false
+ },
+ {
+  "id": "drescher",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "panpsychism",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "watts",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "friston",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "haidt",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "kahneman",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "fields",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "deutsch",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "deeplearning",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "vervaeke",
+  "i": 1,
+  "weak": true
+ },
+ {
+  "id": "ast",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "ackley",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "her",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "exmachina",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "tegmark",
+  "i": 2,
+  "weak": true
+ },
+ {
+  "id": "aaronson",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "hoffman",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "thooft",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "illusionism",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "westworld",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "bengio",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "llm",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "chollet",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "levin",
+  "i": 4,
+  "weak": false
+ },
+ {
+  "id": "bitter",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "nca",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "olah",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "seth",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "marcus",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "thagard",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "butlin",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "chirimuuta",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "shanahan",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "lerchner",
+  "i": 0,
+  "weak": true
+ }
+]

@@ -77,11 +77,16 @@ input[type=search] { font: inherit; color: var(--text); background: var(--bg); b
 .chk input { accent-color: var(--accent); margin: 0 4px 0 0; vertical-align: -2px; }
 #world.strict #edges path.weak { display: none; }
 #world.strict .node.weak { opacity: .3; }
+#world.landmarks:not(.focus) .node:not(.lm) { opacity: .25; }
+#world.landmarks:not(.focus) #edges path { opacity: .12; }
+#world.landmarks:not(.focus) #edges path.lm { opacity: 1; stroke: var(--muted); }
+#world.landmarks .node.lm { transform: scale(1.45); z-index: 3; box-shadow: inset 0 0 0 1px var(--text); }
 #world.strict.focus .node.weak.hi { opacity: 1; }
 
 #panel { position: fixed; top: 0; right: 0; bottom: 0; width: var(--pw, 460px); max-width: 100vw; background: var(--bg);
   border-left: 1px solid var(--muted); padding: 0 22px 60px; overflow-y: auto; z-index: 10; display: none; }
 #panel.open { display: block; }
+#panel p.start { margin: 0 0 6px; }
 /* invisible grab strip on the panel's left edge, for resizing it (wide screens only) */
 #psize { position: fixed; top: 0; bottom: 0; right: calc(var(--pw, 460px) - 5px); width: 10px; z-index: 11; cursor: col-resize; touch-action: none; display: none; }
 #panel.open + #psize { display: block; }
@@ -142,7 +147,7 @@ input[type=search] { font: inherit; color: var(--text); background: var(--bg); b
     <button class="btn" id="reset">reset<span class="deskhint"> layout</span></button>
     <button class="btn" id="theme"></button>
   </div>
-  <p style="margin:8px 0 0"><span class="key"></span>builds on &nbsp; <span class="key against"></span>argues against &nbsp; <span class="key related"></span>related &nbsp; <label class="chk"><input type="checkbox" id="strict">only highly likely</label></p>
+  <p style="margin:8px 0 0"><span class="key"></span>builds on &nbsp; <span class="key against"></span>argues against &nbsp; <span class="key related"></span>related &nbsp; <label class="chk"><input type="checkbox" id="strict">only highly likely</label> &nbsp; <label class="chk"><input type="checkbox" id="landmarks">landmarks</label></p>
   </div>
 </div>
 
@@ -351,6 +356,20 @@ function connHtml(id) {
     return `<div class="conn">${words[e.kind][e.b === id ? 0 : 1]} <button class="btn" data-go="${other}">${esc(byId[other].title)}</button>${e.note ? ': ' + esc(e.note) : ''}${e.conf ? ' ' + confHtml(e.conf, '· ') : ''}</div>`;
   }).join('');
 }
+// start here: one page to read, and one moment where joscha bach talks about it
+function startHtml(s) {
+  if (!s || !(s.read || s.hear)) return '';
+  const a = (u, txt) => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(txt)}</a>`;
+  let h = `<div class="lab">start here</div>`;
+  if (s.read) h += `<p class="start">read: ${a(s.read.url, s.read.name)}</p>`;
+  if (s.hear) {
+    const r = s.hear, at = r.at ? ', from ' + esc(r.at) : '';
+    if (r.weak) h += `<p class="start">mentioned by joscha bach in: ${a(r.url, r.src)}${at}</p>`;
+    else h += `<p class="start">joscha bach on it: ${a(r.url, r.src)}${at}</p>` +
+      `<div class="q"><div class="txt">${r.v ? '“' + esc(r.q) + '”' : esc(r.q)}</div><div class="srcline">${r.v ? 'verbatim' : 'paraphrase'}</div></div>`;
+  }
+  return h;
+}
 function select(id) {
   selected = id; paint();
   const p = el('panel');
@@ -367,6 +386,7 @@ function select(id) {
     if (lead.author) h += `<p class="small">${esc(lead.author)}</p>`;
     h += `<p class="take">${esc(lead.tldr)}</p>` + confLine(lead);
   }
+  h += startHtml(n.start);
   const c = connHtml(id);
   if (c) h += `<div class="lab">connections</div>` + c;
   if (lead) h += srcs(lead);
@@ -399,6 +419,13 @@ function setStrict(on) {
   if (selected) { const st = el('panel').scrollTop; select(selected); el('panel').scrollTop = st; } else paint();
 }
 el('strict').onchange = e => setStrict(e.target.checked);
+// landmarks: the 20 most connected cards, enlarged, with the lines between them; everything else recedes
+const LM = new Set(D.nodes.map(n => n.id).sort((a, b) => (adj[b] || []).length - (adj[a] || []).length).slice(0, 20));
+LM.forEach(id => nodeEl[id].classList.add('lm'));
+EDGES.forEach(e => { if (LM.has(e.a) && LM.has(e.b)) e.el.classList.add('lm'); });
+function setLandmarks(on) { el('landmarks').checked = on; world.classList.toggle('landmarks', on); localStorage.setItem('bach-map-landmarks', on ? '1' : '0'); }
+el('landmarks').onchange = e => setLandmarks(e.target.checked);
+setLandmarks(localStorage.getItem('bach-map-landmarks') === '1');
 setStrict(strict);
 el('tobach').onclick = () => { select('cimc'); centerOn('cimc', 0.7); };
 el('reset').onclick = () => { saved = {}; localStorage.removeItem(PKEY); D.nodes.forEach(n => { pos[n.id] = { ...home[n.id] }; place(n.id); }); EDGES.forEach(e => e.el.setAttribute('d', pathFor(e))); };

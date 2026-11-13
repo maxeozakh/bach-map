@@ -1,0 +1,642 @@
+{
+ "animism": {
+  "i": 2,
+  "weak": false
+ },
+ "greekgods": {
+  "i": 0,
+  "weak": false
+ },
+ "genesis": {
+  "i": 0,
+  "weak": false
+ },
+ "pythagoras": {
+  "i": 0,
+  "weak": false
+ },
+ "logos": {
+  "i": 1,
+  "weak": false
+ },
+ "buddhism": {
+  "i": 1,
+  "weak": false
+ },
+ "plato": {
+  "i": 3,
+  "weak": false
+ },
+ "aristotle": {
+  "i": 2,
+  "weak": false
+ },
+ "stoicism": {
+  "i": 0,
+  "weak": false
+ },
+ "christianity": {
+  "i": 1,
+  "weak": false
+ },
+ "aquinas": {
+  "i": 3,
+  "weak": false
+ },
+ "golem": {
+  "i": 0,
+  "weak": false
+ },
+ "descartes": {
+  "i": 5,
+  "weak": false
+ },
+ "occasionalism": {
+  "i": 0,
+  "weak": true
+ },
+ "empiricism": {
+  "i": 2,
+  "weak": false
+ },
+ "idealism": {
+  "i": 3,
+  "weak": false
+ },
+ "leibniz": {
+  "i": 4,
+  "weak": false
+ },
+ "lamettrie": {
+  "i": 2,
+  "weak": false
+ },
+ "enlightenment": {
+  "i": 0,
+  "weak": false
+ },
+ "kant": {
+  "i": 1,
+  "weak": true
+ },
+ "utilitarianism": {
+  "i": 2,
+  "weak": false
+ },
+ "hegel": {
+  "i": 0,
+  "weak": false
+ },
+ "celltheory": {
+  "i": 0,
+  "weak": true
+ },
+ "darwin": {
+  "i": 0,
+  "weak": true
+ },
+ "dubois": {
+  "i": 0,
+  "weak": true
+ },
+ "cantor": {
+  "i": 1,
+  "weak": true
+ },
+ "epiphenomenalism": {
+  "i": 1,
+  "weak": false
+ },
+ "brentano": {
+  "i": 0,
+  "weak": true
+ },
+ "emergence": {
+  "i": 0,
+  "weak": false
+ },
+ "wundt": {
+  "i": 0,
+  "weak": true
+ },
+ "frege": {
+  "i": 3,
+  "weak": true
+ },
+ "peano": {
+  "i": 1,
+  "weak": false
+ },
+ "james": {
+  "i": 0,
+  "weak": true
+ },
+ "brouwer": {
+  "i": 0,
+  "weak": false
+ },
+ "russell": {
+  "i": 0,
+  "weak": false
+ },
+ "husserl": {
+  "i": 1,
+  "weak": false
+ },
+ "hilbert": {
+  "i": 0,
+  "weak": false
+ },
+ "wittgenstein": {
+  "i": 5,
+  "weak": false
+ },
+ "freud": {
+  "i": 0,
+  "weak": false
+ },
+ "qualia": {
+  "i": 2,
+  "weak": false
+ },
+ "goedel": {
+  "i": 6,
+  "weak": false
+ },
+ "tarski": {
+  "i": 1,
+  "weak": true
+ },
+ "turing": {
+  "i": 0,
+  "weak": false
+ },
+ "lambda": {
+  "i": 0,
+  "weak": false
+ },
+ "skinner": {
+  "i": 2,
+  "weak": false
+ },
+ "mcculloch": {
+  "i": 0,
+  "weak": true
+ },
+ "schroedinger": {
+  "i": 1,
+  "weak": false
+ },
+ "vonneumann": {
+  "i": 0,
+  "weak": false
+ },
+ "shannon": {
+  "i": 1,
+  "weak": false
+ },
+ "cybernetics": {
+  "i": 3,
+  "weak": false
+ },
+ "physicalism": {
+  "i": 0,
+  "weak": false
+ },
+ "morpho": {
+  "i": 1,
+  "weak": false
+ },
+ "piaget": {
+  "i": 0,
+  "weak": true
+ },
+ "dartmouth": {
+  "i": 2,
+  "weak": true
+ },
+ "mountcastle": {
+  "i": 0,
+  "weak": false
+ },
+ "everett": {
+  "i": 0,
+  "weak": true
+ },
+ "minsky": {
+  "i": 10,
+  "weak": false
+ },
+ "chomsky": {
+  "i": 0,
+  "weak": false
+ },
+ "functionalism": {
+  "i": 0,
+  "weak": false
+ },
+ "lem": {
+  "i": 3,
+  "weak": false
+ },
+ "solomonoff": {
+  "i": 2,
+  "weak": false
+ },
+ "ivakhnenko": {
+  "i": 1,
+  "weak": true
+ },
+ "symbolic": {
+  "i": 1,
+  "weak": false
+ },
+ "eliza": {
+  "i": 0,
+  "weak": true
+ },
+ "leary": {
+  "i": 0,
+  "weak": true
+ },
+ "digital": {
+  "i": 0,
+  "weak": false
+ },
+ "conway": {
+  "i": 0,
+  "weak": true
+ },
+ "mirror": {
+  "i": 0,
+  "weak": false
+ },
+ "pribram": {
+  "i": 0,
+  "weak": true
+ },
+ "dreyfus": {
+  "i": 0,
+  "weak": true
+ },
+ "gaia": {
+  "i": 2,
+  "weak": false
+ },
+ "nagel": {
+  "i": 0,
+  "weak": true
+ },
+ "fodor": {
+  "i": 0,
+  "weak": false
+ },
+ "grossberg": {
+  "i": 1,
+  "weak": true
+ },
+ "dawkins": {
+  "i": 1,
+  "weak": false
+ },
+ "jaynes": {
+  "i": 0,
+  "weak": false
+ },
+ "schank": {
+  "i": 0,
+  "weak": true
+ },
+ "sloman": {
+  "i": 0,
+  "weak": true
+ },
+ "hofstadter": {
+  "i": 0,
+  "weak": false
+ },
+ "lucid": {
+  "i": 0,
+  "weak": false
+ },
+ "thatcher": {
+  "i": 0,
+  "weak": true
+ },
+ "searle": {
+  "i": 5,
+  "weak": false
+ },
+ "mandelbrot": {
+  "i": 0,
+  "weak": false
+ },
+ "binding": {
+  "i": 4,
+  "weak": true
+ },
+ "kegan": {
+  "i": 5,
+  "weak": false
+ },
+ "quantumcomp": {
+  "i": 0,
+  "weak": false
+ },
+ "streams": {
+  "i": 0,
+  "weak": false
+ },
+ "libet": {
+  "i": 0,
+  "weak": true
+ },
+ "levine": {
+  "i": 0,
+  "weak": true
+ },
+ "braitenberg": {
+  "i": 0,
+  "weak": true
+ },
+ "cyc": {
+  "i": 1,
+  "weak": true
+ },
+ "boltzmannmachine": {
+  "i": 1,
+  "weak": true
+ },
+ "bischof": {
+  "i": 0,
+  "weak": true
+ },
+ "sicp": {
+  "i": 0,
+  "weak": false
+ },
+ "autopoiesis": {
+  "i": 0,
+  "weak": true
+ },
+ "pdp": {
+  "i": 0,
+  "weak": false
+ },
+ "hot": {
+  "i": 0,
+  "weak": false
+ },
+ "brooks": {
+  "i": 0,
+  "weak": true
+ },
+ "cogarch": {
+  "i": 3,
+  "weak": true
+ },
+ "edelman": {
+  "i": 1,
+  "weak": false
+ },
+ "gwt": {
+  "i": 2,
+  "weak": true
+ },
+ "occ": {
+  "i": 0,
+  "weak": true
+ },
+ "mysterianism": {
+  "i": 0,
+  "weak": false
+ },
+ "penrose": {
+  "i": 6,
+  "weak": false
+ },
+ "ncc": {
+  "i": 0,
+  "weak": false
+ },
+ "witten": {
+  "i": 0,
+  "weak": true
+ },
+ "wheeler": {
+  "i": 0,
+  "weak": true
+ },
+ "schmidhuber": {
+  "i": 0,
+  "weak": false
+ },
+ "harnad": {
+  "i": 0,
+  "weak": false
+ },
+ "dennett": {
+  "i": 2,
+  "weak": false
+ },
+ "embodied": {
+  "i": 3,
+  "weak": false
+ },
+ "singularity": {
+  "i": 0,
+  "weak": false
+ },
+ "damasio": {
+  "i": 0,
+  "weak": true
+ },
+ "groupsel": {
+  "i": 0,
+  "weak": false
+ },
+ "chalmers": {
+  "i": 3,
+  "weak": false
+ },
+ "pearce": {
+  "i": 0,
+  "weak": false
+ },
+ "block": {
+  "i": 0,
+  "weak": false
+ },
+ "doerner": {
+  "i": 3,
+  "weak": false
+ },
+ "hypercomputation": {
+  "i": 0,
+  "weak": false
+ },
+ "matrix": {
+  "i": 0,
+  "weak": true
+ },
+ "agi": {
+  "i": 0,
+  "weak": true
+ },
+ "wolfram": {
+  "i": 8,
+  "weak": false
+ },
+ "airisk": {
+  "i": 5,
+  "weak": false
+ },
+ "simulation": {
+  "i": 0,
+  "weak": false
+ },
+ "metzinger": {
+  "i": 8,
+  "weak": false
+ },
+ "iit": {
+  "i": 6,
+  "weak": false
+ },
+ "drescher": {
+  "i": 0,
+  "weak": true
+ },
+ "panpsychism": {
+  "i": 0,
+  "weak": false
+ },
+ "watts": {
+  "i": 0,
+  "weak": true
+ },
+ "friston": {
+  "i": 2,
+  "weak": false
+ },
+ "haidt": {
+  "i": 0,
+  "weak": false
+ },
+ "kahneman": {
+  "i": 0,
+  "weak": true
+ },
+ "fields": {
+  "i": 0,
+  "weak": true
+ },
+ "deutsch": {
+  "i": 0,
+  "weak": false
+ },
+ "deeplearning": {
+  "i": 0,
+  "weak": false
+ },
+ "vervaeke": {
+  "i": 1,
+  "weak": true
+ },
+ "ast": {
+  "i": 2,
+  "weak": false
+ },
+ "ackley": {
+  "i": 0,
+  "weak": false
+ },
+ "her": {
+  "i": 1,
+  "weak": false
+ },
+ "exmachina": {
+  "i": 0,
+  "weak": false
+ },
+ "tegmark": {
+  "i": 2,
+  "weak": true
+ },
+ "aaronson": {
+  "i": 0,
+  "weak": true
+ },
+ "hoffman": {
+  "i": 0,
+  "weak": false
+ },
+ "thooft": {
+  "i": 0,
+  "weak": true
+ },
+ "illusionism": {
+  "i": 2,
+  "weak": false
+ },
+ "westworld": {
+  "i": 2,
+  "weak": false
+ },
+ "bengio": {
+  "i": 1,
+  "weak": false
+ },
+ "llm": {
+  "i": 2,
+  "weak": false
+ },
+ "chollet": {
+  "i": 0,
+  "weak": false
+ },
+ "levin": {
+  "i": 4,
+  "weak": false
+ },
+ "bitter": {
+  "i": 0,
+  "weak": true
+ },
+ "nca": {
+  "i": 0,
+  "weak": false
+ },
+ "olah": {
+  "i": 1,
+  "weak": false
+ },
+ "seth": {
+  "i": 0,
+  "weak": false
+ },
+ "marcus": {
+  "i": 0,
+  "weak": false
+ },
+ "thagard": {
+  "i": 1,
+  "weak": false
+ },
+ "butlin": {
+  "i": 0,
+  "weak": true
+ },
+ "chirimuuta": {
+  "i": 0,
+  "weak": true
+ },
+ "shanahan": {
+  "i": 0,
+  "weak": true
+ },
+ "lerchner": {
+  "i": 0,
+  "weak": true
+ }
+}

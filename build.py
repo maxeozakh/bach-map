@@ -9,6 +9,7 @@ import json, os, re, sys, time, urllib.parse, urllib.request
 from collections import defaultdict
 from nodes import N, MAIN, DROP, TLDR_FIX, AUTHOR_FIX, AUTHOR_BY_FACET
 from edges import E
+import start_here
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 R = os.path.join(HERE, "research")
@@ -278,6 +279,10 @@ for a, b_, kind, note in out["edges"]:
 merged[("bach", "cimc")][3] = "the institute's hypothesis rests on his conductor model, his functionalism and the idea that consciousness comes first"
 
 keep = [slim(n) for n in kept]
+for n, k in zip(kept, keep):
+    h = None if n.get("own") else start_here.hear(n["id"], n["facets"])
+    if h and h["at"] is not None: h["at"] = start_here.clock(h["at"])
+    k["start"] = dict(read=start_here.read(n["id"], n["facets"][0]["label"]), hear=h)
 
 # ---- confidence: each level follows from what the source check found (research/confidence/), not from a rating
 CONF = json.load(open(os.path.join(HERE, "research", "confidence", "confidence.json")))
@@ -359,6 +364,14 @@ for n in keep:
                 src = f"[{m['src']}]({m['url']})" if m["url"] else m["src"]
                 md.append(f"- {'verbatim' if m['v'] else 'paraphrase'}, {src}{', ' + m['date'] if m['date'] else ''}: {m['q']}")
             md.append("")
+        if i == 0 and n.get("start"):
+            s = n["start"]
+            if s["read"]: md += [f"start here, read: [{s['read']['name']}]({s['read']['url']})", ""]
+            if s["hear"]:
+                r = s["hear"]
+                link = f"[{r['src']}]({r['url']})" + (f", from {r['at']}" if r["at"] else "")
+                md += [f"start here, mentioned by joscha bach in: {link}" if r["weak"] else
+                       f"start here, joscha bach on it: {link} ({'verbatim' if r['v'] else 'paraphrase'}): {r['q']}", ""]
         if i == 0 and md_adj[n["id"]]:
             md += ["connections:", ""]
             for e, other, outgoing in sorted(md_adj[n["id"]], key=lambda x: md_year[x[1]]):

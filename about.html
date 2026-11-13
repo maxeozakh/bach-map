@@ -51,9 +51,10 @@ th { font-size: 13px; }
 <h2 id="read">how to read it</h2>
 <ul>
   <li><b>the board</b>: time runs left to right in nine eras, and fields run top to bottom, from myth and religion down to ethics and AI risk. each card is a thinker, a work or an idea</li>
-  <li><b>a card</b>: click it to open it. the summary of the idea comes first, then what it connects to, then its other parts and, for joscha bach and his institute, quotes with their sources</li>
+  <li><b>a card</b>: click it to open it. the summary of the idea comes first, then "start here": one page to read and, where one exists, the moment joscha bach talks about it, then what it connects to, then its other parts and, for joscha bach and his institute, quotes with their sources</li>
   <li><b>connections</b>: a solid line means the later point builds on the earlier one, a dashed line that it argues against it, a dotted line that the two are related. clicking a card lights up its lines and dims the rest</li>
   <li><b>confidence</b>: every summary and every connection ends with one of three words, highly likely, likely or possible, and usually a link to the page it was checked against. "only highly likely" hides the connections and card sections below that level and fades the cards whose summary is below it</li>
+  <li><b>landmarks</b>: enlarges the 20 cards with the most connections and the lines between them, and fades the rest. it is counted from the map, so it shows what is central to this map, not to the field</li>
 </ul>
 
 <h2 id="confidence">what the confidence words mean</h2>
@@ -72,6 +73,7 @@ th { font-size: 13px; }
   <li><b>summaries</b>: written by claude fable 5.2 from its general background knowledge about each idea, then checked against a source as described above. not bach's words</li>
   <li><b>connections</b>: written by claude fable 5.2 from general knowledge, not taken from the transcripts, then checked against a source as described above. which idea 'builds on' which is often a judgement call</li>
   <li><b>quotes</b>: the ones marked "verbatim" were matched against the transcripts; "paraphrase" ones are claude fable 5.2's rewording</li>
+  <li><b>start here</b>: the page to read is the most introductory of the pages the two source checks opened for the summary, encyclopedias first; it is chosen by rule, not by judgement. the joscha bach quote was picked by gpt 5.6 sol from the card's transcript mentions, as the one that says the most about the idea; it can only choose among real quotes. where all of them mention the idea only in passing, the card just names the talk. where the transcript has timings (most youtube and CCC talks), the quote was found in it and the link starts there, a couple of seconds early</li>
   <li><b>years</b>: approximate for older items</li>
   <li><b>review</b>: on 13 november 2026 claude fable 5.2 re-read every summary and connection and made about 45 corrections</li>
 </ul>

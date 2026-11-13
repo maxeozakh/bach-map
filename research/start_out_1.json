@@ -1,0 +1,402 @@
+[
+ {
+  "id": "animism",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "greekgods",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "genesis",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "pythagoras",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "logos",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "buddhism",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "plato",
+  "i": 3,
+  "weak": false
+ },
+ {
+  "id": "aristotle",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "stoicism",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "christianity",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "aquinas",
+  "i": 3,
+  "weak": false
+ },
+ {
+  "id": "golem",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "descartes",
+  "i": 5,
+  "weak": false
+ },
+ {
+  "id": "occasionalism",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "empiricism",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "idealism",
+  "i": 3,
+  "weak": false
+ },
+ {
+  "id": "leibniz",
+  "i": 4,
+  "weak": false
+ },
+ {
+  "id": "lamettrie",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "enlightenment",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "kant",
+  "i": 1,
+  "weak": true
+ },
+ {
+  "id": "utilitarianism",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "hegel",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "celltheory",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "darwin",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "dubois",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "cantor",
+  "i": 1,
+  "weak": true
+ },
+ {
+  "id": "epiphenomenalism",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "brentano",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "emergence",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "wundt",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "frege",
+  "i": 3,
+  "weak": true
+ },
+ {
+  "id": "peano",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "james",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "brouwer",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "russell",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "husserl",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "hilbert",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "wittgenstein",
+  "i": 5,
+  "weak": false
+ },
+ {
+  "id": "freud",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "qualia",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "goedel",
+  "i": 6,
+  "weak": false
+ },
+ {
+  "id": "tarski",
+  "i": 1,
+  "weak": true
+ },
+ {
+  "id": "turing",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "lambda",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "skinner",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "mcculloch",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "schroedinger",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "vonneumann",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "shannon",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "cybernetics",
+  "i": 3,
+  "weak": false
+ },
+ {
+  "id": "physicalism",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "morpho",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "piaget",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "dartmouth",
+  "i": 2,
+  "weak": true
+ },
+ {
+  "id": "mountcastle",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "everett",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "minsky",
+  "i": 10,
+  "weak": false
+ },
+ {
+  "id": "chomsky",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "functionalism",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "lem",
+  "i": 3,
+  "weak": false
+ },
+ {
+  "id": "solomonoff",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "ivakhnenko",
+  "i": 1,
+  "weak": true
+ },
+ {
+  "id": "symbolic",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "eliza",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "leary",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "digital",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "conway",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "mirror",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "pribram",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "dreyfus",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "gaia",
+  "i": 2,
+  "weak": false
+ },
+ {
+  "id": "nagel",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "fodor",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "grossberg",
+  "i": 1,
+  "weak": true
+ },
+ {
+  "id": "dawkins",
+  "i": 1,
+  "weak": false
+ },
+ {
+  "id": "jaynes",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "schank",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "sloman",
+  "i": 0,
+  "weak": true
+ },
+ {
+  "id": "hofstadter",
+  "i": 0,
+  "weak": false
+ },
+ {
+  "id": "lucid",
+  "i": 0,
+  "weak": false
+ }
+]
