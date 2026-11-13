@@ -19,11 +19,12 @@ const IMG = path.join(HERE, '..', 'img'), STILL = path.join(HERE, 'frames-gif');
 const frozen = {};
 fs.mkdirSync(STILL, { recursive: true });
 for (const f of fs.readdirSync(IMG)) {
+  if (!fs.statSync(path.join(IMG, f)).isFile()) continue;
   const fd = fs.openSync(path.join(IMG, f), 'r'), head = Buffer.alloc(4); fs.readSync(fd, head, 0, 4, 0); fs.closeSync(fd);
   if (head.toString('latin1') !== 'GIF8') continue;
   const out = path.join(STILL, f.replace(/\.[^.]+$/, '') + '.png');
   if (!fs.existsSync(out)) execFileSync('ffmpeg', ['-y', '-loglevel', 'error', '-i', path.join(IMG, f), '-frames:v', '1', out]);
-  frozen['img/' + f] = pathToFileURL(out).href;
+  frozen['img/' + f] = frozen['img/p/' + f.replace(/\.[^.]+$/, '') + '.webp'] = pathToFileURL(out).href;
 }
 
 async function open() {

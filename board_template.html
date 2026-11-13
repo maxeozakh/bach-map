@@ -222,13 +222,15 @@ const world = el('world'), svg = el('edges');
 world.style.width = WW + 'px'; world.style.height = WH + 'px';
 svg.setAttribute('width', WW); svg.setAttribute('height', WH);
 let html = '';
+// img/t/ and img/p/ hold resized WebP copies of img/ (make_images.py): t for cards, p for the panel
+const sized = (src, d) => src.startsWith('img/') ? src.replace(/^img\//, `img/${d}/`).replace(/\.\w+$/, '.webp') : src;
 ERAS.forEach((e, i) => { html += `<div class="eralab" style="left:${ex[i]}px">${esc(e[2])}<span>${esc(e[3])}</span></div>`;
   if (i) html += `<div class="vrule" style="left:${ex[i] - ERAGAP / 2}px;height:${WH}px"></div>`; });
 LANES.forEach((l, i) => { html += `<div class="lanelab" style="top:${ly[i]}px">${esc(l[1])}</div>`;
   if (i) html += `<div class="rule" style="top:${ly[i] - LANEGAP / 2}px;width:${WW}px"></div>`; });
 D.nodes.forEach(n => {
   html += `<div class="node${n.theme === 'bach' ? ' own' : ''}${n.facets[0] && !strong(n.facets[0]) ? ' weak' : ''}" data-id="${n.id}" title="${esc(n.title)}">` +
-    (n.img ? `<img src="${n.img}" alt="" loading="lazy" draggable="false">` : '') +
+    (n.img ? `<img src="${sized(n.img, 't')}" alt="" loading="lazy" draggable="false">` : '') +
     `<div class="yr">${esc(n.label)}</div><div class="name">${esc(n.title)}</div></div>`;
 });
 world.insertAdjacentHTML('beforeend', html);
@@ -383,7 +385,7 @@ function select(id) {
   const p = el('panel');
   if (!id) { p.classList.remove('open'); return; }
   const n = byId[id];
-  let h = `<div class="closebar"><button class="btn" id="close">close</button></div>` + (n.img ? `<img src="${n.img}" alt="">` : '') +
+  let h = `<div class="closebar"><button class="btn" id="close">close</button></div>` + (n.img ? `<img src="${sized(n.img, 'p')}" alt="">` : '') +
     `<h3>${esc(n.title)}</h3><p>${esc(n.label)}, ${esc(LANENAME(n))}</p>` + schoolHtml(n);
   // order: the main idea first, then what it connects to, then the detail (quotes and the other facets)
   const srcs = f => f.mentions.length ? `<div class="lab">sources</div>` + f.mentions.map(quoteHtml).join('') : '';

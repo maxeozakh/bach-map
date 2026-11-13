@@ -10,6 +10,7 @@ from collections import defaultdict
 from nodes import N, MAIN, DROP, TLDR_FIX, AUTHOR_FIX, AUTHOR_BY_FACET
 from edges import E
 import start_here
+import make_images
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 R = os.path.join(HERE, "research")
@@ -175,6 +176,7 @@ for f in FILES:
 
 # ---- images
 IMG = os.path.join(HERE, "img")
+make_images.run()
 UA = {"User-Agent": "bach-map-personal-notes/1.0 (local research page)"}
 
 
