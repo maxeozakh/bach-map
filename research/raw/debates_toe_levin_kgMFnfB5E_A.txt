@@ -1,0 +1,3234 @@
+# source: https://www.youtube.com/watch?v=kgMFnfB5E_A
+# generated=True lang=en
+[0:00:00] Michael Levin's work on regulating
+[0:00:01] intractable pattern formation in living
+[0:00:03] systems has made him one of the most
+[0:00:05] compelling biologists of our time in
+[0:00:07] Translation this means that his team is
+[0:00:09] sussing out how to develop limbs
+[0:00:10] regenerate limbs how to generate minds
+[0:00:12] and even life extension by manipulating
+[0:00:14] electric signals rather than genetics or
+[0:00:16] epigenetics his work is something that I
+[0:00:18] consider to be worthy of a Nobel Prize
+[0:00:20] and I don't think I've said that about
+[0:00:21] anyone on the podcast Michael Levin's
+[0:00:23] previous podcast on toe is in the
+[0:00:24] description that's a solo episode with
+[0:00:26] him where we go into a two-hour Deep
+[0:00:28] dive as well as there's a Theo locution
+[0:00:30] so that is him and another guest just
+[0:00:31] like today except between Carl friston
+[0:00:34] and Chris fields on Consciousness
+[0:00:35] yoshibak is widely considered to be the
+[0:00:37] Pinnacle of an AI researcher dealing
+[0:00:39] with emotion modeling and multi-agent
+[0:00:41] systems a large focus of boxes to build
+[0:00:44] a model of the Mind from strong AI
+[0:00:46] speaking of Mind Bach is one of the most
+[0:00:48] inventive Minds in the field of computer
+[0:00:50] science and has appeared several times
+[0:00:51] on toll prior again there's a solo
+[0:00:53] episode there's also a theologution
+[0:00:55] between yoshibak and Donald Hoffman on
+[0:00:57] Consciousness and yo shabach and John
+[0:00:59] vervaki also on in reality biology has
+[0:01:01] much to teach us about artificial
+[0:01:03] intelligence and vice versa this
+[0:01:05] discussion between two brilliant
+[0:01:07] researchers is something that I'm
+[0:01:08] extremely
+[0:01:09] lucky blessed fortunate to be a part of
+[0:01:12] as well as us as collective as an
+[0:01:14] audience that are fortunate enough to
+[0:01:15] witness approximately 30 minutes into
+[0:01:17] the conversation you'll see two sponsors
+[0:01:19] they are Masterworks and Roman I implore
+[0:01:22] you not to skip it as firstly watching
+[0:01:24] it supports toe directly and then
+[0:01:26] secondly they're fascinating companies
+[0:01:27] in and of themselves additionally you'll
+[0:01:30] hear from one more Trade coffee around
+[0:01:31] the one and a half hour mark thank you
+[0:01:33] and enjoy this theolocution between
+[0:01:35] yoshabak and Michael Levin welcome both
+[0:01:38] Professor Michael Evan and yoshabak it's
+[0:01:41] an honor to have you on the toll podcast
+[0:01:42] again both of you and then together
+[0:01:44] right now thank you it's great to be
+[0:01:46] here
+[0:01:47] likewise I enjoy very much being here
+[0:01:49] and look forward to this conversation I
+[0:01:51] look forward to it as well so we'll
+[0:01:53] start off with the question of what is
+[0:01:55] it that you Michael find most
+[0:01:57] interesting about yosho's work and then
+[0:01:59] Yoshi will go for you toward Michael
+[0:02:01] yeah
+[0:02:03] um I really enjoy the uh the breadth so
+[0:02:05] so I've been looking I think I've
+[0:02:07] probably read almost everything on your
+[0:02:08] on your website you know the short kind
+[0:02:10] of blog pieces and everything and uh
+[0:02:12] yeah I'm I'm uh I'm I'm a big fan of of
+[0:02:15] the breadth of of tackling a lot of the
+[0:02:18] different issues that you do with
+[0:02:19] respect to uh you know computation and
+[0:02:22] and cognition and Ai and uh you know and
+[0:02:25] ethics and everything I I really like
+[0:02:27] that aspect of it so
+[0:02:28] then you're sure yeah my apologies my
+[0:02:32] blog is not up to date I haven't uh
+[0:02:36] done any updates for a few years now on
+[0:02:39] it I think
+[0:02:40] um so of course I'm still in the Pro
+[0:02:44] process of progressing and having new
+[0:02:46] ideas and the ideas that I had in recent
+[0:02:50] years I have a great overlap with a lot
+[0:02:53] of the things that you are working on
+[0:02:55] and when I listen to your Lex podcast
+[0:02:59] last night there were many thoughts that
+[0:03:02] you had that I had stumbled on
+[0:03:04] um
+[0:03:05] uh that I've never heard from anybody
+[0:03:07] else and so I found this very
+[0:03:09] fascinating and thought
+[0:03:11] um maybe let's look at some of these
+[0:03:12] thoughts first and then go from there
+[0:03:14] and expand
+[0:03:16] um Beyond those ideas but uh I for
+[0:03:19] instance found after thinking about how
+[0:03:22] cells work
+[0:03:23] kind of obvious but missed by most
+[0:03:25] people in Neuroscience or in science in
+[0:03:27] general is that every cell has the
+[0:03:29] ability to send multiple message types
+[0:03:33] and receive multiple message types and
+[0:03:35] do this conditionally and learn an
+[0:03:37] average conditions to do that and to
+[0:03:38] modulate this also every cell is an
+[0:03:41] individual reinforcement learning agent
+[0:03:43] single-sided animal that tries to
+[0:03:45] survive by cooperating with its
+[0:03:47] environment gets most of its rewards
+[0:03:48] from its environment
+[0:03:50] and as a result this means that every
+[0:03:53] cell can in principle function like a
+[0:03:55] neuron it can fulfill the same learning
+[0:03:58] and information processing tasks as a
+[0:04:00] new one the only difference that exists
+[0:04:02] with respect to neurons or the main
+[0:04:04] difference is that they cannot do this
+[0:04:07] over very long distances because they
+[0:04:09] are mostly connected only to the cells
+[0:04:12] that are directly adjacent of course new
+[0:04:14] ones also only communicate to adjacent
+[0:04:16] cells but the adjacency of neurons is
+[0:04:18] such that they have Excellence parts of
+[0:04:20] the cell that reach very far through the
+[0:04:22] organism so in some sense in your one is
+[0:04:24] a telegraph cell that uses very specific
+[0:04:28] messages that are encoded in a way like
+[0:04:31] Morsi signals in extremely short high
+[0:04:33] energy bursts that allow to send
+[0:04:35] messages over the very long distances
+[0:04:37] very quickly to move the muscles of an
+[0:04:40] animal at the limit of what physics
+[0:04:42] allows
+[0:04:43] so it can compete with other animals and
+[0:04:45] search for food and in order to make
+[0:04:48] that happen it also needs to have a
+[0:04:50] model of the world that gets updated at
+[0:04:52] this higher rate so there is going to be
+[0:04:54] an information processing system that is
+[0:04:56] duplicating basically this cellular
+[0:04:58] brain that is made from all the other
+[0:05:00] cells in the body of the organism and at
+[0:05:03] some point these two systems get
+[0:05:04] decoupled they have their own codes
+[0:05:06] their own language so to speak and but
+[0:05:09] it still makes sense I guess to see the
+[0:05:11] brain as a telegraphic extension of the
+[0:05:14] community of cells in the body and for
+[0:05:16] me this Insight that I stumbled on just
+[0:05:19] because means and motive that Evolution
+[0:05:21] would equip cells with doing that
+[0:05:23] information processing if the organism
+[0:05:25] is long enough lives long enough and if
+[0:05:27] the cells share common genetic Destiny
+[0:05:29] so they can get attuned to each other in
+[0:05:31] an organism that basically every
+[0:05:34] organism has the potential to become
+[0:05:36] intelligent and if it gets old enough to
+[0:05:39] process enough data to get to a very
+[0:05:43] high degree of understanding of its
+[0:05:46] environment in principle so of course a
+[0:05:49] normal houseplant is not going to get
+[0:05:51] very old with compared to us because the
+[0:05:53] information processing is so much slower
+[0:05:55] so they're not going to be very smart
+[0:05:57] but at the level of ecosystems it's
+[0:06:00] conceivable that there is quite
+[0:06:02] considerable intelligence and then I
+[0:06:04] stumbled on this notion that our
+[0:06:06] ancestors thought that one day in
+[0:06:09] Fairyland equals seven years in human
+[0:06:11] land which is taught in the Artemis and
+[0:06:15] also I just at some point I revised my
+[0:06:18] notion of what the spirit is for
+[0:06:20] instance is a spirit is it's an old bird
+[0:06:22] for the operating system for an
+[0:06:24] autonomous robot
+[0:06:26] and the event this word was invented the
+[0:06:29] um only autonomous robots that were
+[0:06:31] known were people and plants and animals
+[0:06:33] and nation states and ecosystems
+[0:06:35] right whatever no robots built by people
+[0:06:38] yet but uh there was this pattern of
+[0:06:41] control in it that people could observe
+[0:06:44] that was not directly tied to the
+[0:06:46] hardware that was realized by the
+[0:06:48] hardware but disembodied in a way and
+[0:06:51] this notion of several is something that
+[0:06:53] we lost after the enlightenment when we
+[0:06:55] tried to deal with the
+[0:06:57] um wrong Christian metaphysics and
+[0:07:00] Superstition that came with it and threw
+[0:07:03] out a lot of babies with the bath water
+[0:07:04] and suddenly we basically lost a lot of
+[0:07:06] Concepts especially this concept of
+[0:07:08] software that existed before in a way
+[0:07:11] this a software being a control pattern
+[0:07:13] or a pattern of course a structure that
+[0:07:16] exists at a certain level of course
+[0:07:17] graining as some type of very very
+[0:07:20] specific physical law that he exists by
+[0:07:22] looking at reality from a certain angle
+[0:07:26] and what I liked about your work is that
+[0:07:30] you systematically have focused on this
+[0:07:33] direction of what their can do that a
+[0:07:36] cell is an agent and that levels of
+[0:07:38] agency emerge in the interaction between
+[0:07:40] cells and and you use a very clear
+[0:07:43] language and uh clear Concepts and you
+[0:07:46] obviously are driven by questions that
+[0:07:48] you want to answer which is unusual in
+[0:07:50] science I found that most of our
+[0:07:52] contemporaries in science get broken it
+[0:07:55] if it doesn't happen earlier during the
+[0:07:57] PHD into people who apply methods in
+[0:08:01] teams instead of people who join
+[0:08:04] Academia because they think it's the
+[0:08:05] most valuable thing they can do with
+[0:08:06] their lives to pursue questions that
+[0:08:09] they are interested and want to make
+[0:08:10] progress on
+[0:08:12] all right Michael there's plenty to
+[0:08:14] respond to yeah yeah lots of lots of
+[0:08:16] ideas
+[0:08:17] um yeah I think I think it's very uh
+[0:08:19] your point is very interesting about you
+[0:08:21] know what what it really what really
+[0:08:23] fundamentally is the difference between
+[0:08:24] neurons and other cells of course
+[0:08:26] evolutionarily they're reusing Machinery
+[0:08:28] that has been around for a very long
+[0:08:30] time since the time of bacteria
+[0:08:32] basically right so our multi our
+[0:08:34] unicellular ancestors had a lot of the
+[0:08:36] same machinery and and even I mean of
+[0:08:39] course axons are very can be very long
+[0:08:40] but but uh there are sort of
+[0:08:43] intermediate structures right there are
+[0:08:45] tunneling nanotubes and things that
+[0:08:47] allow cells to connect to maybe five or
+[0:08:49] ten diameter cell diameters away right
+[0:08:51] so so not terribly long but but also not
+[0:08:53] immediate neighbors necessarily so that
+[0:08:55] kind of architecture has been around for
+[0:08:57] a while and people like roll so well
+[0:08:59] look at
+[0:09:00] um
+[0:09:01] but a very brain-like electrical
+[0:09:04] signaling in bacterial Colony so this is
+[0:09:06] you know I think I think Evolution began
+[0:09:09] to reuse this toolkit specifically of
+[0:09:12] using this kind of communication to
+[0:09:15] scale up
+[0:09:16] um with the computational and other
+[0:09:18] kinds of um other kinds of uh tricks uh
+[0:09:22] yeah a really long time ago you know and
+[0:09:24] I like to I like to imagine that if
+[0:09:25] somebody had come to the people who were
+[0:09:28] inventing connectionism and the first
+[0:09:30] you know sort of perceptrons and neural
+[0:09:32] networks and so on if somebody had come
+[0:09:33] to them and said oh by the way sorry you
+[0:09:36] know we're with the biologists we we got
+[0:09:37] it wrong it's not the thinking isn't in
+[0:09:39] the brain it's in the liver and so then
+[0:09:41] the question is what would they do right
+[0:09:42] what would they have changed anything
+[0:09:44] about what they're doing and we said ah
+[0:09:46] now we have to rethink our model or with
+[0:09:48] is that fine who cares uh this is
+[0:09:50] exactly the same the same model
+[0:09:51] everything works just as well so I often
+[0:09:53] I often think about that that that
+[0:09:55] question what exactly do we mean by by
+[0:09:58] neurons and isn't it interesting that we
+[0:10:01] are able to to steal most of the tools
+[0:10:03] the concepts the Frameworks the the math
+[0:10:07] from neuroscience and apply it to
+[0:10:09] problems in other spaces so not movement
+[0:10:12] in three-dimensional space with muscles
+[0:10:13] but for example movement through
+[0:10:15] amorphous space right anatomical
+[0:10:16] amorphous space the techniques can't
+[0:10:18] tell the difference we use all the same
+[0:10:20] stuff optogenetics neurotransmitter
+[0:10:22] signaling we model active inference and
+[0:10:25] uh we see perceptual by stability you
+[0:10:28] name it you know we take Concepts from
+[0:10:30] from neuroscience and we apply it out
+[0:10:32] elsewhere in the body and uh generally
+[0:10:35] speaking uh everything works exactly the
+[0:10:37] same and that shows this I think what
+[0:10:40] you were saying that there's this really
+[0:10:41] interesting uh kind of um symmetry
+[0:10:45] between these these uh that that a lot
+[0:10:48] of the distinctions that we've been
+[0:10:49] making are you know in terms of having
+[0:10:50] different departments and different PHD
+[0:10:52] programs and other things that say you
+[0:10:54] know this is neuroscience this is
+[0:10:55] developmental biology a lot of these
+[0:10:57] things are just not um uh not as not as
+[0:11:00] firm distinctions as we used to think
+[0:11:03] yeah I suspect that people who insist on
+[0:11:06] strong disciplinary boundaries do this
+[0:11:08] out of of a protective impulse and what
+[0:11:12] I noticed by I was studying many
+[0:11:13] disciplines when I was young that
+[0:11:16] um the different methodologies are so
+[0:11:19] incompatible across fields that when I
+[0:11:22] was studying philosophy
+[0:11:23] um by or psychology I felt that computer
+[0:11:26] scientists would be laughing about the
+[0:11:28] methods that each of these fields are
+[0:11:30] using to justify what they're doing and
+[0:11:33] this I think is indicative of a defect
+[0:11:36] because if you take science into the
+[0:11:39] current regime of regulating it entirely
+[0:11:42] by peer review there is no external
+[0:11:44] Authority even the grand authorities are
+[0:11:46] mostly fields or people who have been
+[0:11:48] trained in The Sciences in existing
+[0:11:51] paradigms and then are finding the
+[0:11:52] continuation of those paradigms from the
+[0:11:54] outside
+[0:11:55] this um
+[0:11:57] meta paradigmatic thinking it does not
+[0:12:00] really exist that much in a
+[0:12:02] peer-reviewed paradigm and ultimately
+[0:12:04] when you do peer review for a couple
+[0:12:06] Generations it also means that if your
+[0:12:08] peers deteriorate there is nothing who
+[0:12:09] pulls your science back
+[0:12:11] and uh what I missed specifically in a
+[0:12:14] lot of the way which Neuroscience is
+[0:12:16] done is what you call the engineering
+[0:12:18] stance
+[0:12:19] and this engineering sense is very
+[0:12:22] powerful and you get it automatically
+[0:12:23] when you're a computer scientist because
+[0:12:25] you don't really care about language is
+[0:12:26] it written in what you care in is what
+[0:12:28] causal pattern is realized and how can
+[0:12:31] this be realized and how could I do it
+[0:12:34] how would I do it how can Evolution do
+[0:12:36] it what it means are it is disposal and
+[0:12:38] this determines the search space for the
+[0:12:40] things that I'm looking for but this
+[0:12:42] requires that I think in causal systems
+[0:12:44] and this thinking and causal systems is
+[0:12:47] not impossible to it's possible not to
+[0:12:50] do for a computer scientist
+[0:12:52] but it is unusual outside of computer
+[0:12:54] science and once you realize that it's
+[0:12:57] it's very weird and suddenly you have
+[0:12:59] Notions that try to replace causal
+[0:13:01] structure with say evidence and then you
+[0:13:04] notice that uh for instance evidence
+[0:13:06] medicine is is not about uh
+[0:13:09] probabilities of how something is
+[0:13:11] realized and must work like you see
+[0:13:12] people on the cruise ship getting
+[0:13:14] infected over distances and you think oh
+[0:13:16] this must be upward but no there is no
+[0:13:19] peer control study so there is no
+[0:13:20] evidence that it's airport and when you
+[0:13:22] look at resistive planes from the
+[0:13:24] outside like in this case the medical
+[0:13:26] profession or the medical messaging and
+[0:13:29] decision making or um I get terrified
+[0:13:32] because it directly affects us and in
+[0:13:35] terms of Neuroscience um of course
+[0:13:37] there's more theoretical for the most
+[0:13:39] part but there must be a reason why it's
+[0:13:41] for the most part a theoretical because
+[0:13:43] why there is no causal model that
+[0:13:46] clinicians can use to explain uh what is
+[0:13:49] happening in certain syndromes that
+[0:13:51] people are exhibiting and I noticed this
+[0:13:54] when I go to a doctor and even at a
+[0:13:58] reputable institution like Stanford that
+[0:14:01] most of the neuroscientists at some
+[0:14:02] level there are of most of the
+[0:14:05] neurologists that I'm talking towards us
+[0:14:07] at some level dual lists that they uh
+[0:14:09] don't have causal model of of the way in
+[0:14:13] which the brain is realizing things and
+[0:14:15] a lot of studies which discover that
+[0:14:18] very simple mechanisms like the ability
+[0:14:21] of human beings to use grammatical
+[0:14:22] structure are actually reflected in the
+[0:14:24] brain this is so amazing would have
+[0:14:26] thought
+[0:14:28] foreign
+[0:14:31] developments that existed in computer
+[0:14:33] science have letters on a completely
+[0:14:35] different track there is uh the
+[0:14:36] perceptron is vaguely inspired by what
+[0:14:40] the brain might be doing but I think
+[0:14:42] it's it's really a toy model or a
+[0:14:44] caricature of what cells are doing and
+[0:14:46] not in the sense that it's inferior it's
+[0:14:48] amazing what you can put forth with the
+[0:14:51] modern perceptron variations right the
+[0:14:54] current machine learning systems are
+[0:14:56] mind-blowing and what they can do but
+[0:14:59] they don't do it like biological
+[0:15:00] organisms at all it's it's very
+[0:15:02] different cells do not form change in
+[0:15:05] which they wait uh sums of real numbers
+[0:15:09] that there is something going on that is
+[0:15:12] roughly similar to it but there's a
+[0:15:14] self-organizing system that designs
+[0:15:15] itself from the inside out not by a
+[0:15:17] measure learning principle that applies
+[0:15:19] to the outside and updates weights after
+[0:15:21] reading and comparing them and Computing
+[0:15:23] gradients to the system so this
+[0:15:25] perspective of local surf organization
+[0:15:27] by reinforcement agents that try to
+[0:15:30] trade rewards with each other that is a
+[0:15:33] perspective that I find totally
+[0:15:35] fascinating and I wish this would have
+[0:15:37] come and from Neuroscience into computer
+[0:15:40] science but it hasn't there are some
+[0:15:43] people which have thought about these
+[0:15:44] ideas to some degree but there's been
+[0:15:46] very little cross-pollination and I
+[0:15:48] think all this talk of Neuroscience uh
+[0:15:51] influencing computer science is mostly
+[0:15:53] visual thinking
+[0:15:55] yeah it's also uh I find uh this you
+[0:15:58] know what you were saying about the
+[0:16:00] different disciplines it's it's kind of
+[0:16:02] amazing how uh well when I when I give a
+[0:16:05] talk
+[0:16:06] um I can always tell which department
+[0:16:07] I'm in by by which part of the talk
+[0:16:10] makes people uncomfortable and upset and
+[0:16:12] it's always different depending on which
+[0:16:13] department it is right so so there are
+[0:16:15] things you can say in one Department
+[0:16:16] that are completely obvious and you say
+[0:16:18] this in the in another group of people
+[0:16:19] and they they throw tomatoes they think
+[0:16:21] this is just crazy for instance
+[0:16:22] uh for for instance um I could I could
+[0:16:26] uh say in you know in in a neuroscience
+[0:16:28] Department I could say uh information
+[0:16:31] can be processed is without changes in
+[0:16:34] gene expression you don't need changes
+[0:16:35] in gene expression to process
+[0:16:36] information because the the the
+[0:16:38] processing inside a neural network that
+[0:16:40] runs on the physics of of action
+[0:16:42] potentials right so I mean so right so
+[0:16:45] so you can do all kinds of interesting
+[0:16:46] information processing and you don't
+[0:16:47] need genetic change sort of
+[0:16:48] transcriptional or genetic change for
+[0:16:50] that if I say the same thing in a
+[0:16:51] molecular genetics department that say
+[0:16:53] hey these cells could be processing tons
+[0:16:55] of information long before the the
+[0:16:57] transcriptome ever finds out about it
+[0:16:58] this is this is considered you know just
+[0:17:00] just completely wild because because
+[0:17:02] it's thought that that that most of the
+[0:17:04] hard work or in fact all of the hard
+[0:17:06] work is done in in gene regulatory
+[0:17:08] circuits and things like that right
+[0:17:10] there are other other examples if I say
+[0:17:12] um uh here's a uh here's a collection of
+[0:17:15] cells that communicate electrically to
+[0:17:17] to remember a particular spatial pattern
+[0:17:20] again molecular cell biology that's what
+[0:17:24] do you mean how can how can a collection
+[0:17:25] of cells remember a spatial pattern but
+[0:17:27] again in Neuroscience or in in an
+[0:17:29] engineering department yeah of course
+[0:17:30] the the of course they have electrical
+[0:17:32] circuits that remember patterns and can
+[0:17:34] do pattern completion and things like
+[0:17:36] that so
+[0:17:38] um you know views of views of causality
+[0:17:40] views of uh just just lots of things
+[0:17:42] like that that are that are very obvious
+[0:17:43] uh to one group of people is completely
+[0:17:46] taboo elsewhere so that that that
+[0:17:49] distinction and and and and yeah and as
+[0:17:51] as you as Joshua just said
+[0:17:54] um it impacts it impacts everything it
+[0:17:56] impacts education it impacts grants you
+[0:17:58] know Grant reviews because when these
+[0:18:01] kind of interdisciplinary grants come up
+[0:18:03] the study sections have a really hard
+[0:18:06] time finding people that can actually
+[0:18:07] review them because what often happens
+[0:18:09] is you'll find you'll you'll get a some
+[0:18:11] kind of computational biology Grant and
+[0:18:14] you put a proposal and you'll have some
+[0:18:16] people on the on the panel who are
+[0:18:18] biologists and some people who are the
+[0:18:19] computational folks and it's very hard
+[0:18:21] to get people that actually can
+[0:18:23] appreciate both sides of it and
+[0:18:25] understand what's happening together
+[0:18:27] right so they will sort of each critique
+[0:18:28] a certain part of it and the other part
+[0:18:30] they say I don't know what this is and
+[0:18:32] and as a result grants like that don't
+[0:18:35] tend to not have a champion you know one
+[0:18:37] person who can say no I get I get the
+[0:18:39] whole thing and I I think it's really
+[0:18:40] good or not
+[0:18:42] so yeah it's uh even to the point where
+[0:18:45] I I'm often asked you know when when
+[0:18:47] people want to you list me somewhere
+[0:18:49] they'll say so so what what what are you
+[0:18:52] you know what kind of what kind of uh
+[0:18:53] what's your field and I I never know how
+[0:18:55] to answer that question you know this
+[0:18:57] day it's been 30 years I still don't
+[0:18:58] know how to answer that question I I
+[0:18:59] just can't boil it down to one you know
+[0:19:01] it just wouldn't make any sense to to
+[0:19:03] say any of the traditional um you know
+[0:19:06] the traditional fields
+[0:19:07] so what do you say yosha when someone
+[0:19:09] asks you what field you're in
+[0:19:11] and it depends on who's asking
+[0:19:13] so for instance I found it quite useful
+[0:19:18] to sometimes say and
+[0:19:20] sorry I'm not a philosopher
+[0:19:23] um
+[0:19:24] but uh but this or
+[0:19:26] um I'm not that interested in machine
+[0:19:28] learning and I'm I did publish papers in
+[0:19:31] philosophy and in machine learning but
+[0:19:33] it's not my specialty in the sense that
+[0:19:36] I need to identify with it and
+[0:19:39] um in some sense I guess that these
+[0:19:41] categories are important when you try to
+[0:19:43] write a grant proposal or when you try
+[0:19:46] to find a job in a particular
+[0:19:48] institution and they need to fill a
+[0:19:50] position but for me it's more what
+[0:19:53] questions am I interested and what is
+[0:19:55] the thing that I want to make progress
+[0:19:56] on or what is the thing that I want to
+[0:19:58] build right now
+[0:19:59] and uh I guess that in terms of the
+[0:20:03] intersection I'm a cognitive scientist
+[0:20:07] so I was asking Michael prior to you
+[0:20:10] joining yosha why is that Michael that
+[0:20:12] you were doing podcasts and if I
+[0:20:14] understand correctly part of the reason
+[0:20:15] was because you think out loud and you
+[0:20:16] like to hear the other person's thoughts
+[0:20:18] and take notes and it Spurs your own and
+[0:20:20] firstly like Michael you can correct me
+[0:20:21] if that's incorrect and then secondly
+[0:20:23] yoksha I'm curious for an answer for
+[0:20:25] this the same question what is it that
+[0:20:27] you get out of doing podcasts other than
+[0:20:30] say some marketing for if you were
+[0:20:32] promoting something which I don't
+[0:20:33] imagine you are currently
+[0:20:35] uh no I'm not bucketing anything I uh
+[0:20:39] what I like about podcasts is the
+[0:20:42] ability to publish something in a format
+[0:20:46] that is engaging to an interesting to
+[0:20:48] people who actually care about it
+[0:20:50] I like this informal way of uh holding
+[0:20:54] on to some ideas and also like
+[0:20:56] conversations is a medium to develop
+[0:20:58] thought is this space in which we can
+[0:21:01] reflect on each other look into each
+[0:21:04] other's minds interact with the ideas of
+[0:21:06] others in real time uh the production
+[0:21:09] format of a podcast creates a certain
+[0:21:12] focus of the conversation that can be
+[0:21:13] useful and it's a pleasant kind of
+[0:21:16] tangent that focuses you to stay on task
+[0:21:19] and I also found that uh it's genuinely
+[0:21:23] useful to some people like uh with the
+[0:21:25] feedback that I get is that uh people
+[0:21:28] tell me I had this really important
+[0:21:31] question and I found this allowed me to
+[0:21:34] make a progress on it and I feel much
+[0:21:36] better now about these questions I uh
+[0:21:38] just clarified something for me that has
+[0:21:41] plagued me for years and
+[0:21:43] um put me on track to solving it or this
+[0:21:45] is inspired the following work so it's a
+[0:21:48] form of uh publishing ideas and getting
+[0:21:50] them into circulation in our Global
+[0:21:53] Health Minds that is very informal in a
+[0:21:56] way but it's not useless and also it's
+[0:21:59] uh believes me in in this instance at
+[0:22:02] least of the work of cutting editing and
+[0:22:05] so on uh but anyway so I'm very grateful
+[0:22:07] that you provide the service of curating
+[0:22:09] our conversation and putting a little
+[0:22:12] form that is useful to other people
+[0:22:15] yeah yeah there's something well the two
+[0:22:17] two things I was thinking of one is that
+[0:22:19] uh you know I mean I have conversations
+[0:22:21] with people all day long about these
+[0:22:22] issues right so people in my lab
+[0:22:24] collaborators whatever and most of
+[0:22:26] course the vast majority of those
+[0:22:27] conversations are not recorded and they
+[0:22:29] just sort of disappear into the ether
+[0:22:31] and then I I take something away from it
+[0:22:33] and the other person takes something
+[0:22:34] away from it but I've often thought that
+[0:22:36] wouldn't it be wouldn't isn't it a shame
+[0:22:38] that all of this is uh just just kind of
+[0:22:40] disappears and it would be amazing to to
+[0:22:42] have have a record of it and of course
+[0:22:44] not every conversation is you know as
+[0:22:45] gold but but but a lot of them are are
+[0:22:48] useful and interesting and uh there are
+[0:22:51] plenty of people that um could could be
+[0:22:53] interested in could could benefit from
+[0:22:55] it so so I really like this aspect that
+[0:22:57] uh we can have conversations and then
+[0:22:59] they are you know sort of canned and
+[0:23:00] they're out there for uh for for people
+[0:23:03] who are who are interested the other
+[0:23:04] kind of um aspect of it which I don't
+[0:23:06] really understand but but it's kind of
+[0:23:08] neat is that if when somebody when
+[0:23:11] somebody asks me to uh pre-record a talk
+[0:23:13] it takes crazy amount of time because
+[0:23:16] because I keep stopping and realizing I
+[0:23:19] could have said that better let me start
+[0:23:20] from the beginning and and it's just
+[0:23:21] it's it's an incredible ordeal whereas
+[0:23:24] something like this that's real time uh
+[0:23:26] I'm sure has as many you know mistakes
+[0:23:29] and things that I would have rather
+[0:23:30] fixed later but but you can't do that
+[0:23:31] right so you just sort of go with it and
+[0:23:33] that's it and then it's done and you can
+[0:23:34] move on so so I like I like that
+[0:23:36] real-time aspect of it because it just
+[0:23:38] it just helps you to get the ideas out
+[0:23:40] without getting hung up and and trying
+[0:23:42] to redo things 50 times
+[0:23:45] yeah it's a format that allows
+[0:23:46] tentativity if we have published we have
+[0:23:50] culture in sciences that requires us to
+[0:23:54] publish the things that we can hope to
+[0:23:56] prove and make the best proof that we
+[0:23:58] can but when we have anything
+[0:24:00] complicated especially when we take our
+[0:24:02] engineering stance we often cannot prove
+[0:24:05] how things work
+[0:24:07] instead our answers are in the realm of
+[0:24:10] the possible and we need to discuss the
+[0:24:11] possibilities and there is a value in
+[0:24:14] understanding these possibilities to
+[0:24:16] direct our future experiments and the
+[0:24:19] Practical work that we do to see what's
+[0:24:21] actually the case and we don't really
+[0:24:23] have a publication format for that right
+[0:24:25] we don't get neuroscientists to publish
+[0:24:29] their ideas on how the mind works
+[0:24:30] because nobody has a theory that they
+[0:24:32] can prove and as a result there is
+[0:24:34] basically a vacuum where theories should
+[0:24:35] be and the theory building happens
+[0:24:37] informally in conversations that
+[0:24:40] basically requires personal contact
+[0:24:41] which is a big issue once conference has
+[0:24:45] been virtual because that contact
+[0:24:46] diminished and you get a lot of
+[0:24:49] important ideas by reading the
+[0:24:50] Publications and so on but this uh what
+[0:24:53] could be or connecting the dots or
+[0:24:55] possibilities or ideas that might be
+[0:24:57] proven wrong later that we just exchange
+[0:24:59] as in the status of ideas that is
+[0:25:01] something that has a good place and a
+[0:25:03] podcast
+[0:25:04] now is this podcast some not this toe
+[0:25:07] podcast but podcasts in general
+[0:25:08] something new so for instance I was
+[0:25:11] thinking about this and I well podcasts
+[0:25:13] go back a while and Brogan invented this
+[0:25:14] long-form format or popularized it
+[0:25:16] however on television there are
+[0:25:19] interviews so there's Oprah and those
+[0:25:21] are long one hour they're 60 minutes and
+[0:25:23] then back in the 90s there was a three
+[0:25:26] and a half hour it's essentially a
+[0:25:28] podcast it's like Charlie Rose three and
+[0:25:30] a half hour conversation it's like a
+[0:25:32] Theo location with Freeman Dyson Daniel
+[0:25:34] Dennett Stephen J Gould like the Rupert
+[0:25:38] sheldrake all of those on the same one
+[0:25:41] format it's essentially a podcast
+[0:25:43] talking about metaphysics like man oh
+[0:25:46] man I can't believe that got published
+[0:25:47] and then also I think about it well did
+[0:25:49] Plato have the first podcast
+[0:25:51] because he's just publishing these
+[0:25:52] dialogues and you read them but it's not
+[0:25:54] as if maybe he would have published it
+[0:25:55] in video I think Plato was the first
+[0:25:57] podcaster
+[0:25:58] so is there something new about this
+[0:26:00] format of podcasting that wasn't there
+[0:26:02] before or what's new about it I think
+[0:26:05] it's like it's like vlogging uh blogging
+[0:26:07] is also not new right being able to
+[0:26:09] write text that you publish uh and uh
+[0:26:12] people can follow about your writing and
+[0:26:15] so on did exist in some sense before but
+[0:26:18] uh the internet made it possible to
+[0:26:20] publish this for everyone do you don't
+[0:26:22] need a publisher anymore and you don't
+[0:26:25] know your TV studio anymore you don't
+[0:26:26] need a broadcast station that is
+[0:26:28] recording your talk show and sends it to
+[0:26:30] an audience there is no competition with
+[0:26:32] other talk Source because uh there is no
+[0:26:35] limitations on how many people can
+[0:26:37] broadcast at the same time and this
+[0:26:40] allows an enormous diversity and of
+[0:26:42] thoughts and small Productions that are
+[0:26:45] done at a very low cost lowering the
+[0:26:48] threshold for putting something out
+[0:26:50] there and seeing what happens so in this
+[0:26:52] sense it's the ecosystem that emerged is
+[0:26:54] new because a variable change that
+[0:26:57] changed the cost of producing a talk
+[0:26:59] show
+[0:27:00] all right
+[0:27:02] Michael you agree
+[0:27:03] um yeah yeah I mean yes that and and all
+[0:27:06] of that and also just the fact that you
+[0:27:09] know uh as you as you just said uh these
+[0:27:12] kind of like long form things were
+[0:27:13] fairly rare so most of the time if
+[0:27:15] you're going to be in one of the
+[0:27:16] traditional media they tell you okay
+[0:27:18] you've got the you've got you know three
+[0:27:20] minutes uh you know we're gonna cut all
+[0:27:22] this stuff and we're gonna boil it down
+[0:27:23] to three minutes and this this is often
+[0:27:25] incredibly frustrating and and I
+[0:27:27] understand I mean we're drowned in
+[0:27:28] information and so so there's obviously
+[0:27:31] a place for very short statement on
+[0:27:32] things but the kind of stuff that we're
+[0:27:34] talking about uh cannot be boiled down
+[0:27:36] to to you know TV sound bites or
+[0:27:39] anything it's just not and and so so the
+[0:27:41] ability to have these long-form things
+[0:27:43] so that anybody who wants to really dig
+[0:27:45] in can hear what the actual thought is
+[0:27:47] as opposed to something that's that's
+[0:27:49] been just uh you know boiled into into a
+[0:27:52] very um very very short statement I
+[0:27:54] think is is invaluable just being able
+[0:27:57] to have it out there for people to find
+[0:27:58] now a brief note from two sponsors this
+[0:28:01] is a considerably easy sponsor because
+[0:28:03] some of you watching this are losing
+[0:28:05] your hair and it's not because you have
+[0:28:06] a you have trouble understanding the
+[0:28:07] content so you're pulling it out it
+[0:28:09] happens to approximately half of all men
+[0:28:10] it's uncomfortable but there are methods
+[0:28:12] to help and even to stop the process of
+[0:28:15] balding Roman offers clinically proven
+[0:28:17] medication to help treat hair loss all
+[0:28:19] of course from the comfort and privacy
+[0:28:21] of your own home Roman offers
+[0:28:22] prescription medication and
+[0:28:24] over-the-counter treatments they also
+[0:28:26] offer specially formulated shampoos and
+[0:28:28] conditioners with ingredients that
+[0:28:29] fortify and moisturize the hair to look
+[0:28:31] fuller research shows that 80 of men who
+[0:28:34] use prescription hair loss medication
+[0:28:35] had no further hair loss after two years
+[0:28:37] Roman is licensed and the whole process
+[0:28:40] is straightforward and discreet plans
+[0:28:42] start at twenty dollars a month
+[0:28:44] currently Roman has a special offer for
+[0:28:46] toe listeners that is you use the link
+[0:28:49] ro.co Kurt c-u-r-t to get 20 off your
+[0:28:53] first order again that's ro.co
+[0:28:56] c-u-r-t the link is in the description
+[0:28:58] and you get 20 off as the toe project
+[0:29:00] grows we get plenty of sponsor is coming
+[0:29:02] and I thought you know this one is a
+[0:29:04] fascinating company our new sponsor is
+[0:29:06] Masterworks Masterworks is the only
+[0:29:08] platform that allows you to invest in
+[0:29:10] multi-million dollar works of art by
+[0:29:12] Picasso bansky and more Masterworks has
+[0:29:15] given you access to invest in Fine Art
+[0:29:17] which is usually only accessible to
+[0:29:18] multi-millionaires or billionaires the
+[0:29:20] art that you see hanging in museums can
+[0:29:23] now be partially owned by you the
+[0:29:25] inventive Parts is that you don't need
+[0:29:26] to know the details of art or investing
+[0:29:28] Masterworks makes the whole process
+[0:29:29] straightforward with a clean interface
+[0:29:31] and exceptional customer service they
+[0:29:33] are innovating as more traditional
+[0:29:35] Investments suffer last month we
+[0:29:36] verified a cell which had a 21.5 percent
+[0:29:39] return so for instance if you were to
+[0:29:41] put ten thousand dollars in you would
+[0:29:42] now have twelve thousand Welcome to our
+[0:29:43] new sponsor Masterworks and the link to
+[0:29:45] them is in the description just so you
+[0:29:46] know there's in fact a wait list to join
+[0:29:48] their platform right now however total
+[0:29:50] listeners can skip the wait list by
+[0:29:52] visiting the link in the description as
+[0:29:54] well as by using the promo code theories
+[0:29:56] of everything again the link is in the
+[0:29:58] description you can see important
+[0:30:00] regulation A disclosures at Masterworks
+[0:30:01] dot com slash CD what some stance of
+[0:30:05] yours some belief that has changed most
+[0:30:07] drastically in the past few years let's
+[0:30:09] say three and it could be anywhere from
+[0:30:11] something abstruse and academic to more
+[0:30:13] colloquial like I didn't realize the
+[0:30:14] value of children or I overvalued
+[0:30:17] children now I'm stuck with them like
+[0:30:18] geez that was a mistake
+[0:30:20] yeah so something where I changed my
+[0:30:22] mind was RNA based memory transfer
+[0:30:25] and uh I think it's a super interesting
+[0:30:28] idea in this context because it's uh
+[0:30:31] close to uh stuff that Michael has been
+[0:30:33] working on and is interested in uh there
+[0:30:36] have been some experiments in the Soviet
+[0:30:38] Union I think in the 70s where
+[0:30:41] scientists look planaria uh trained them
+[0:30:46] to learn something I think they were
+[0:30:47] learned how to be afraid of electric
+[0:30:49] shocks and things like that and then
+[0:30:51] they put their uh the brains into a
+[0:30:53] blender extracted the iron a injected
+[0:30:55] other planaria visit and these other
+[0:30:57] planaria had learned it
+[0:30:59] and I I learned about this as a kid when
+[0:31:02] I in the 1980s read Soviet science
+[0:31:05] fiction into Twitter I grew up in
+[0:31:06] Eastern Germany and the evil scientist
+[0:31:09] uh harvested the brains of geniuses and
+[0:31:14] injected himself is RNA extracted from
+[0:31:17] these brains and thereby acquired the
+[0:31:20] skills and even though I'm pretty sure
+[0:31:22] it probably doesn't work if you if you
+[0:31:25] do it at this level
+[0:31:27] this was inspired by this original
+[0:31:29] research and I later heard nothing about
+[0:31:33] this anymore and so I dismissed it as uh
+[0:31:37] similar things as I read in Sputnik and
+[0:31:41] other Russian Publications which create
+[0:31:42] their own methodological Universe about
+[0:31:44] ball lightning that is authentic and
+[0:31:48] possibly sentient and so on and
+[0:31:50] dismissed this all as basically Another
+[0:31:52] Universe of another Reader's Digest
+[0:31:54] culture that is producing its own ideas
+[0:31:56] that then later on get dissolved once
+[0:31:58] science advanced answers because
+[0:32:00] everybody knows it's it's synapses it's
+[0:32:02] connections between neurons that matter
+[0:32:03] the RNA is not that important for the
+[0:32:05] information processing might change some
+[0:32:07] state but you cannot learn something by
+[0:32:09] extracting RNA and re-injecting it into
+[0:32:11] the next organism because how would that
+[0:32:13] work if it's done in the synapses
+[0:32:16] and uh then recently there were some
+[0:32:18] papers which replicated uh the original
+[0:32:20] research and has been replicated from
+[0:32:22] time to time
+[0:32:24] in different types of organisms but to
+[0:32:28] my knowledge not in of course macaques
+[0:32:31] or not even mice but so it's not clear
+[0:32:34] if their brains work according to the
+[0:32:36] same principles as planaria but planaria
+[0:32:39] are not
+[0:32:41] extremely simple organisms only a
+[0:32:43] handful of neurons there are something
+[0:32:45] intermediate with some their main
+[0:32:47] architecture is different from ours and
+[0:32:49] their functioning principles of their
+[0:32:51] neurons might be slightly different but
+[0:32:53] it's worse following this idea and going
+[0:32:55] down that rabbit hole and then I looked
+[0:32:58] for my computer science engineering
+[0:33:00] perspective and I realized that there
+[0:33:02] are always things about the synaptic
+[0:33:04] story that uh I find confusing because
+[0:33:07] they're very difficult to implement
+[0:33:10] so for instance weight sharing as a
+[0:33:12] computer scientist I require weight
+[0:33:14] sharing I don't know how to get around
+[0:33:16] this if I want to entrain myself as
+[0:33:19] computational Primitives in a local area
+[0:33:21] of of my brain for instance the ability
+[0:33:23] to rotate something which rotation is
+[0:33:25] some operator that I apply on a pattern
+[0:33:28] that allows this pattern to be
+[0:33:31] represented in a slightly different way
+[0:33:33] to have this object rotated a few
+[0:33:35] degrees but an object doesn't consist of
+[0:33:38] a single point it consists of many
+[0:33:39] features that all need to get the same
+[0:33:42] rotation applied to them using the same
+[0:33:44] mathematical Primitives so how do you
+[0:33:47] implement the same operator across an
+[0:33:49] entire brain area do you make many many
+[0:33:53] copies of the same pattern and computer
+[0:33:55] scientists solve that with so-called
+[0:33:57] convolutional neural networks which
+[0:33:59] basically use the same weights again and
+[0:34:02] again in different areas using only
+[0:34:04] training them once and making them
+[0:34:06] available everywhere and that would be
+[0:34:08] very difficult to implement and synapses
+[0:34:11] maybe there are ways but it's not
+[0:34:14] straightforward another thing is if we
+[0:34:16] see how training Works in babies they
+[0:34:18] learn something and then they get rid of
+[0:34:21] the Surplus synopsis initially they have
+[0:34:22] much more connectivity than they need
+[0:34:24] and uh when they get uh after they've
+[0:34:27] trained they optimize the way in which
+[0:34:29] the wiring works by discarding the
+[0:34:32] things they don't need to compute what
+[0:34:34] they want to compute so it's like
+[0:34:36] calling the synapses it does not uh
+[0:34:39] freeze or Edge the learning into the
+[0:34:41] brain but it optimizes the energy usage
+[0:34:43] of the brain another issue is that
+[0:34:45] patterns of activation are not
+[0:34:47] completely stable in the brain they in
+[0:34:49] the cortex if you look you find that
+[0:34:51] they might be moving the next day or
+[0:34:53] even rotate a little bit which is also
+[0:34:55] difficult to do with synapses you cannot
+[0:34:57] read out the weights and copy them
+[0:34:58] somewhere else in an easy
+[0:35:00] straightforward fashion and another
+[0:35:02] issue is defragmentation if you learn
+[0:35:05] for instance your body map into a brain
+[0:35:07] area
+[0:35:08] and then somebody changes your body map
+[0:35:10] because you have an accident and lose a
+[0:35:11] finger or somebody gives you an
+[0:35:13] artificial limp and you start to
+[0:35:15] integrate this into your body map how do
+[0:35:17] you shift all the representations around
+[0:35:19] how do you make space for something else
+[0:35:21] and move it or also initially when you
+[0:35:23] set up your Maps via happier learning
+[0:35:26] how do you make sure that the
+[0:35:27] neighborhoods are always correct and you
+[0:35:29] don't need to realign anything and I
+[0:35:31] guess you need some kind of realignment
+[0:35:33] and uh all these things seem to be
+[0:35:35] possible when you switch to a different
+[0:35:37] paradigm
+[0:35:38] and uh this so if you take this RNA
+[0:35:41] basically seriously go down this wrapper
+[0:35:44] tool what you get is
+[0:35:47] um the neurons are not learning a local
+[0:35:49] function over its neighbors but they are
+[0:35:52] learning how to respond to the shape of
+[0:35:53] an incoming activation front
+[0:35:55] right the spatial temporal pattern in
+[0:35:57] their neighborhood and they are densely
+[0:35:59] enough connected so the enabled is just
+[0:36:01] the space around them and in this space
+[0:36:04] they basically interpret this according
+[0:36:07] to a certain topology to say this uh is
+[0:36:10] maybe a convolution that gives me two
+[0:36:12] and a half D or it gives me 2D or 1D or
+[0:36:14] whatever the type of function is that
+[0:36:16] they want to compute and they learn how
+[0:36:20] to fire in this in response to those
+[0:36:23] patterns and thereby modulate the
+[0:36:25] patterns when they're passed on so the
+[0:36:27] neurons act as something like a
+[0:36:28] self-modulating ether so which waveforms
+[0:36:31] propagate that perform the computations
+[0:36:34] and they store the responses to the
+[0:36:37] distributions of incoming signals
+[0:36:39] possibly in RNA so you have little mix
+[0:36:43] tapes little tape fragments that they
+[0:36:45] store in the Soma and that you can make
+[0:36:48] more of very cheaply and easily if they
+[0:36:50] are successful mixtapes and their useful
+[0:36:52] computational Primitives that they
+[0:36:53] discovered and they can distribute this
+[0:36:55] to other neurons through the entire
+[0:36:57] cortex so new ones of the same type will
+[0:37:00] gain the knowledge to apply the same
+[0:37:02] computational Primitives
+[0:37:04] and that is something I don't know if
+[0:37:06] the brain is doing that and of the human
+[0:37:08] brain is using these principles or if
+[0:37:10] it's using them a lot and how important
+[0:37:11] this is and how many other mechanisms
+[0:37:13] exist but it's a mechanism that we
+[0:37:15] haven't so my knowledge tried very much
+[0:37:17] in Ai and computer science
+[0:37:19] and it would work there is something
+[0:37:22] that is a very close analog that is a
+[0:37:25] neural cellular automaton
+[0:37:27] here so basically instead of learning
+[0:37:29] weight uh weight shifts or weight
+[0:37:31] changes between adjacent new ones what
+[0:37:33] you learn is
+[0:37:34] um Global functions that tell neurons on
+[0:37:37] how to respond to patterns in the
+[0:37:40] neighborhood
+[0:37:41] and these functions are the same for
+[0:37:44] every point in your Matrix
+[0:37:46] and you can learn arbitrary functions in
+[0:37:48] this way and what's nice about is that
+[0:37:51] you only need to learn computational
+[0:37:53] Primitives once our kubernetworks need
+[0:37:56] to learn the same linear algebra over
+[0:37:59] and over again in many different corners
+[0:38:01] of the neural network because you need a
+[0:38:03] vector algebra for many kinds of
+[0:38:05] operations that we perform like for
+[0:38:07] instance operations in space
+[0:38:08] where we shift things around or rotate
+[0:38:11] them and if they could change exchange
+[0:38:14] these useful
+[0:38:15] um operations with each other and just
+[0:38:17] apply an operator whenever the
+[0:38:19] environment uh dictates that this would
+[0:38:21] be a good idea to try to apply this
+[0:38:23] operator right now in this context that
+[0:38:25] could speed up learning it could make uh
+[0:38:27] training much more sample efficient
+[0:38:28] right so something super interesting to
+[0:38:31] try and this is one of the rabbit holes
+[0:38:33] I recently fell down whenever I changed
+[0:38:35] my thinking based on some experiment
+[0:38:38] from Neuroscience that doesn't have very
+[0:38:41] big impact for for the mainstream of
+[0:38:43] Neuroscience but that I found reflected
+[0:38:46] in Michael's work with planaria
+[0:38:49] yeah that's that's super interesting
+[0:38:51] stuff um I I can sprinkle a few a few
+[0:38:54] details onto this um uh the original so
+[0:38:57] so the original finding in planaria was
+[0:39:00] um was a guy named James McConnell in
+[0:39:02] the in in Michigan actually in the US
+[0:39:04] and and then that was in the 60s the
+[0:39:06] early 60s and then there were some
+[0:39:08] really interesting Russian work um that
+[0:39:10] that picked it up after that uh we
+[0:39:12] reproduced some of it recently in using
+[0:39:14] modern uh modern quantitative uh
+[0:39:17] Automation and and things like this but
+[0:39:19] one of the one of the really cool
+[0:39:20] aspects of this and there's a whole
+[0:39:22] Community by the way with um you know
+[0:39:24] people like uh Randy gallistel and Sam
+[0:39:26] gershman and um you know of course
+[0:39:27] glansman David glansman and people who
+[0:39:30] are that that story of memory in the in
+[0:39:32] the precise details of the um of the
+[0:39:34] synapses is that that story is really
+[0:39:36] starting to crack actually for a number
+[0:39:38] of reasons but one of the one of the
+[0:39:39] cool things that that was done in the
+[0:39:41] Russian work and it was also done later
+[0:39:43] on by um uh Doug Blackiston who's who's
+[0:39:46] in my lab now as a staff scientist and
+[0:39:48] other people is this this you can
+[0:39:50] certain certain animals that go through
+[0:39:52] larval stages right so you can take so
+[0:39:54] what the Russians were using um beetle
+[0:39:56] beetle larvae and uh and Doug and other
+[0:39:58] people used uh used used moths and
+[0:40:01] butterflies so what happens is you train
+[0:40:03] you train the larva right so so here
+[0:40:05] you've got a butterfly a caterpillar so
+[0:40:07] so this caterpillar lives in a
+[0:40:09] two-dimensional world it's a soft-bodied
+[0:40:10] robot it lives in a two-dimensional
+[0:40:12] world that eats leaves and so on right
+[0:40:13] and so you train this thing for a
+[0:40:15] particular task well during
+[0:40:17] metamorphosis it needs to become a moth
+[0:40:19] or butterfly which it lives in a
+[0:40:21] three-dimensional world plus it's a
+[0:40:23] hard-bodied creature so so the
+[0:40:24] controller is completely different right
+[0:40:26] for running this for running a
+[0:40:27] caterpillar versus a butterfly so so
+[0:40:29] during that process what happens is the
+[0:40:31] brain is basically dissolved so most of
+[0:40:34] the connections are broken most of the
+[0:40:35] cells are gone they die uh you you put
+[0:40:37] together a brand new brain itself
+[0:40:39] assembles and you can ask all sorts of
+[0:40:41] interesting philosophical questions of
+[0:40:43] what it's like to be a creature whose
+[0:40:44] brain is undergoing this massive change
+[0:40:46] uh but the information remains and and
+[0:40:49] so one can ask okay this is you know
+[0:40:51] certainly for computer science it's it's
+[0:40:53] amazing to have a cop to have to have a
+[0:40:55] memory medium that can survive this
+[0:40:57] radical re Remodeling and reconstruction
+[0:41:00] and there's there's the RNA story but
+[0:41:03] but also
+[0:41:04] um uh you had mentioned you know does
+[0:41:06] this does this work from for mammals so
+[0:41:08] there was a guy in the 70s and 80s there
+[0:41:10] was a there was a guy named George Ungar
+[0:41:12] who did tons of he's got tons of papers
+[0:41:14] he uh reproduced it in rats so so his
+[0:41:18] was fear of the dark and he actually
+[0:41:21] um by by establishing this essay and
+[0:41:23] then
+[0:41:24] um uh you know fractionating their
+[0:41:25] brains and and extracting this this
+[0:41:28] activity now he thought it was a peptide
+[0:41:30] not not RNA so he he ended up with a
+[0:41:32] with a thing called uh scottophobin
+[0:41:34] which turns out to be I think an eight
+[0:41:36] mer peptide or something and the claim
+[0:41:39] was that you can transfer this
+[0:41:40] scotophobia you can synthesize it and
+[0:41:42] then transfer it from brain to brain and
+[0:41:44] and that's and that's you know that's
+[0:41:46] that's that's what he thought it was and
+[0:41:47] then of course I think David glansman
+[0:41:49] favors RNA again but yeah I agree with
+[0:41:52] you I think I think that's a that's a
+[0:41:53] that's a super important story of how it
+[0:41:56] is that this kind of information can
+[0:41:59] survive uh just just massive uh
+[0:42:01] remodeling of the of the cognitive
+[0:42:03] substrate in planaria what we what we
+[0:42:05] did and and planaria you know they they
+[0:42:07] have a true centralized brain they have
+[0:42:09] all the same neurotransmitters that we
+[0:42:11] have they're not as simple a simple
+[0:42:12] organism
+[0:42:14] um what we did was McConnell's first
+[0:42:15] experiments which is to train them on
+[0:42:17] something and we train them to recognize
+[0:42:19] a laser etched um kind of bumpy pattern
+[0:42:22] on the bottom of the dish to recognize
+[0:42:24] that that's where their food was going
+[0:42:25] to be found so they made this
+[0:42:26] association between this pattern and the
+[0:42:28] and getting food and then we cut their
+[0:42:30] heads off and and we took the Tails and
+[0:42:33] the Tails sit there for 10 days doing
+[0:42:34] nothing and then eventually they grow a
+[0:42:36] new brain and what happens is that
+[0:42:38] information is then imprinted onto the
+[0:42:40] new brain and then and then you can
+[0:42:41] recover behavioral you know evidence
+[0:42:44] that they remember the information
+[0:42:46] so so that's pretty cool too because it
+[0:42:48] suggests that well we don't know if the
+[0:42:51] information is everywhere or if it's in
+[0:42:53] other places in the peripheral nervous
+[0:42:55] system or in this you know in the Nerf
+[0:42:57] core that we don't know where it is yet
+[0:42:58] but it's clear that it can move around
+[0:43:01] that the information can move around in
+[0:43:03] the body because it can be in the
+[0:43:04] posterior half and then imprinted onto
+[0:43:06] the brain which actually drives all the
+[0:43:08] all the behaviors
+[0:43:09] so thinking about that I I totally agree
+[0:43:11] that this is this is a really important
+[0:43:13] rabbit hole for asking but but it has it
+[0:43:16] there's an interesting puzzle here which
+[0:43:17] which is which is this you know it's one
+[0:43:20] thing to remember things that are
+[0:43:24] evolutionarily uh adaptive like fear of
+[0:43:27] the dark and things like this but
+[0:43:29] imagine and this hasn't really been done
+[0:43:31] well but imagine for a moment if we
+[0:43:33] could train them to something that is
+[0:43:35] completely novel let's say let's say we
+[0:43:37] train them um uh three yellow life
+[0:43:40] flashes means so take a step to your
+[0:43:42] left otherwise you get shocked something
+[0:43:43] like that and let's say they learn to do
+[0:43:44] it we haven't done this yet but let's
+[0:43:46] say let's say this could be could work
+[0:43:48] one of the big uh puzzles is going to be
+[0:43:50] when you extract whatever it is that you
+[0:43:52] extract let's say it's RNA or protein
+[0:43:54] whatever it is you stick it into the
+[0:43:56] brain of a recipient host and in order
+[0:43:59] for that memory to transfer one of the
+[0:44:01] things that the host has to be able to
+[0:44:02] do is has to be able to decode it in
+[0:44:04] order to decode it it's one thing if we
+[0:44:06] share the same code book and by
+[0:44:08] Evolution we could have this same code
+[0:44:10] book for things that come up all the
+[0:44:11] time like fear of the dark fear you know
+[0:44:13] things like that but how do you how how
+[0:44:16] would the recipient look at a a a a
+[0:44:18] weird sort of you know some some kind of
+[0:44:20] crazy hairpin RNA structure and look at
+[0:44:22] and and analyze it and be like oh yes
+[0:44:24] that's three light flashes and then uh
+[0:44:27] step to the left I see so you would need
+[0:44:28] to be able to interpret somehow this the
+[0:44:31] structure and convert it back to the
+[0:44:33] behavior and for and for behaviors that
+[0:44:35] are truly arbitrary that might be I I
+[0:44:37] don't know actually how that would work
+[0:44:39] and so so I think the frontier of this
+[0:44:42] field is going to be to have a really uh
+[0:44:45] convincing demonstration of of a
+[0:44:48] transfer of a memory that doesn't have a
+[0:44:50] plausible pre-existing shared
+[0:44:52] evolutionary decoding because because
+[0:44:54] otherwise you have a you have a real
+[0:44:56] puzzle as to how the how the the
+[0:44:57] decoding is going to work so this this
+[0:44:59] idea and and then and then even without
+[0:45:01] the transfer you can also think of it a
+[0:45:03] different way every memory is like a
+[0:45:06] message is like basically a transplanted
+[0:45:08] message from your past self to your
+[0:45:09] future self meaning that you still have
+[0:45:11] to decode your memories whatever your
+[0:45:12] memories are in an important sense you
+[0:45:14] have to you know those engrams you have
+[0:45:16] to decode them somehow so
+[0:45:18] um that that whole issue of of encoding
+[0:45:20] and decoding whatever the substrate of
+[0:45:22] memory is is you know maybe one of the
+[0:45:24] most important questions there are
+[0:45:26] one of the ways I we can think about
+[0:45:29] these engrams I think that there are
+[0:45:31] priors that condition what kinds of
+[0:45:34] features are being spawned in which
+[0:45:37] context for instance when we see a new
+[0:45:40] scene the way that perception seems to
+[0:45:42] be working is that we uh spawn lots lots
+[0:45:46] of feature controllers that then
+[0:45:47] organize into objects that are
+[0:45:49] controlled at the level of the scene
+[0:45:51] and uh this is basically a game engine
+[0:45:54] that is forming in our brain that is
+[0:45:56] creating a population of interacting
+[0:45:59] objects that are tuned to track our
+[0:46:02] perceptual data at the lowest level so
+[0:46:04] all the patterns that we get from our
+[0:46:05] retina and so on uh are samples noisy
+[0:46:09] samples
+[0:46:10] um that are difficult to interpret but
+[0:46:12] we are matching them into these
+[0:46:13] hierarchies of features that are
+[0:46:15] translated into objects that assign
+[0:46:18] every feed a feature to exactly one
+[0:46:20] object and every pixel so to speak to
+[0:46:23] exactly one except in the case of
+[0:46:25] transparency and use this to interpret
+[0:46:28] the scene that is happening in front of
+[0:46:29] us and when we are in the dark
+[0:46:31] what happens is that we spawn lots of
+[0:46:33] object controllers without being able to
+[0:46:35] disprove them because there is no data
+[0:46:38] that forces us to reject them and if you
+[0:46:40] have a vivid imagination especially as a
+[0:46:43] child you will feel this Darkness
+[0:46:45] automatically with lots of objects many
+[0:46:47] of which will be scary
+[0:46:49] and so I think that lots of the fear of
+[0:46:52] the dark doesn't need a lot of encoding
+[0:46:54] in our brain it is just an artifact of
+[0:46:57] the fact that there are scary things in
+[0:46:59] the world which I learned to represent
+[0:47:01] at an early age and that we cannot
+[0:47:03] disprove them that they just will just
+[0:47:04] spawn
+[0:47:06] I remember this vividly as a child that
+[0:47:08] whenever I had to go into the dark
+[0:47:10] basement to uh get some food in our
+[0:47:14] house uh in the countryside that this
+[0:47:17] Darkness automatically filled with all
+[0:47:19] sorts of shapes and things and
+[0:47:20] possibilities
+[0:47:22] and it took me later to learn that uh
+[0:47:25] you need to be much more afraid of the
+[0:47:27] ghosts that can hide in the light
+[0:47:30] so what would be the implications of if
+[0:47:32] you were able to transfer memory for
+[0:47:34] something that's
+[0:47:35] not trivial so nothing that's like an
+[0:47:37] archetype of fear of the dark between
+[0:47:40] a mammal like rats
+[0:47:44] and when I say transfer memory I mean in
+[0:47:46] this way that you blend up the brain or
+[0:47:47] you and also can you explain what's
+[0:47:49] meant by I think I understand what it
+[0:47:51] means to blend the brain of a planaria
+[0:47:52] but I don't think that's the same
+[0:47:53] process that's going on in rats maybe it
+[0:47:55] is they they well ongar did exactly the
+[0:47:58] same thing he would train rats for
+[0:48:00] particular tasks he would extract the
+[0:48:01] brain literally liquefy to extract the
+[0:48:04] chemical contents uh he would then
+[0:48:06] either inject the whole extract or a
+[0:48:09] filtered extract where you would divide
+[0:48:10] it up you'd fractionated so here's the
+[0:48:12] rnas here's the proteins here you know
+[0:48:15] other things uh and and then he would
+[0:48:17] inject that liquid directly into the
+[0:48:19] brains of recipient rats so you know
+[0:48:22] when you do that you lose you lose
+[0:48:25] spatial structure on the input because
+[0:48:27] you just Blended your brain whatever
+[0:48:28] spatial structure otherwise you just
+[0:48:30] destroyed it also on the recipient you
+[0:48:34] just you just inject it it's not you
+[0:48:36] know you're not finding that particular
+[0:48:37] place where you're going to stick that
+[0:48:39] you just inject this this thing right in
+[0:48:41] the middle of the brain who knows where
+[0:48:42] it goes you know where the fluid goes is
+[0:48:44] it sort of there's no spatial
+[0:48:45] specificity there whatsoever so if that
+[0:48:48] works uh what you're counting on is the
+[0:48:52] ability of the brain to take up
+[0:48:54] information via a completely novel route
+[0:48:57] so it's not information that's for
+[0:48:59] example visual right visual information
+[0:49:01] the accounts it comes in exactly the
+[0:49:03] same place all the time right there are
+[0:49:05] there are there are optic nerves that
+[0:49:06] connect to the same place in the in the
+[0:49:08] brain and that's where that information
+[0:49:09] arrives if you bathe the brain in some
+[0:49:12] sort of uh informational extract you're
+[0:49:15] basically asking the cells to take it up
+[0:49:17] almost as as a primitive animal would
+[0:49:19] with taste or touch you right that's
+[0:49:21] kind of distributed all over the body
+[0:49:23] and you can sort of pick it up anywhere
+[0:49:24] and then you have to process this
+[0:49:26] information so so you've got those
+[0:49:28] issues right off the bat right that
+[0:49:29] you've destroyed the incoming spatial
+[0:49:31] structure you you can't really count on
+[0:49:33] where it's going to land in the brain
+[0:49:35] and and then the third thing is as you
+[0:49:38] just mentioned is the idea that
+[0:49:40] especially if we start with information
+[0:49:42] that isn't any that is is that is so um
+[0:49:45] uh kind of uh specific and
+[0:49:50] um
+[0:49:51] you know kind of uh invented you know
+[0:49:54] that free light flashes means move to
+[0:49:56] your left I mean there's never there's
+[0:49:57] never been an evolutionary reason to
+[0:49:59] have that encoded like as you just said
+[0:50:01] having a fear of the dark is absolutely
+[0:50:02] a natural kind of thing that shows that
+[0:50:04] that you can expect but and then there
+[0:50:06] are many other things like that but but
+[0:50:08] something something as as contrived as
+[0:50:10] as you know three light flashes and then
+[0:50:12] you move to your left there's no reason
+[0:50:13] to think that we have a built-in way to
+[0:50:16] recognize that so when you as a as a
+[0:50:18] recipient brain are handed this weird uh
+[0:50:20] molecule with a particular structure or
+[0:50:23] or a set of molecules uh being able to
+[0:50:25] analyze that having the cells in your
+[0:50:27] brain or or other parts of the body
+[0:50:29] actually that could Analyze That and
+[0:50:31] recover that original information would
+[0:50:34] be extremely puzzling I actually don't
+[0:50:35] know how that would work and I'm a big
+[0:50:37] fan of of unlikely sounding experiments
+[0:50:40] that have implications if they would
+[0:50:41] work so this is something that uh that I
+[0:50:44] think should absolutely be done and um
+[0:50:47] and you know at some point we'll we'll
+[0:50:48] do it but we haven't done it yet but so
+[0:50:51] how far did the research in my school
+[0:50:52] what is the complexity of things that
+[0:50:55] could be transmitted via this road the I
+[0:50:58] as as I I don't remember everything that
+[0:51:01] he did uh the vast majority of he he did
+[0:51:06] not
+[0:51:07] um go
+[0:51:08] far to test all the complexities what he
+[0:51:11] tried to do was because as you can
+[0:51:12] imagine he faced incredible opposition
+[0:51:14] right so so everybody you know sort of
+[0:51:16] wanted to critique this thing so he
+[0:51:18] spent all of his time on he picked one
+[0:51:21] simple assay which was this fear of the
+[0:51:23] dark thing and then he just he just
+[0:51:25] bashed it for for 20 years uh to just
+[0:51:28] finally try to kind of crack that into
+[0:51:30] the into the Paradigm he did not
+[0:51:32] um as far as I know do lots of different
+[0:51:34] assays to try and make it more complex I
+[0:51:37] think uh I think it you know it's it's
+[0:51:39] very ripe for for investigation uh this
+[0:51:42] is the kind of did anyone else build
+[0:51:43] upon his work
+[0:51:44] um not that I know I mean I mean David
+[0:51:46] glansman is the best modern person who
+[0:51:48] works on this right so he does aplizia
+[0:51:50] and he you know and he does RNA so so he
+[0:51:53] favors um he favors RNA
+[0:51:55] um there's a little bit of work from um
+[0:51:57] in Israel with C elegans uh he's kind of
+[0:52:01] looking into that it uh there's related
+[0:52:04] work that has to do with cryogenics
+[0:52:06] which is this this you know this idea
+[0:52:08] idea that that if if it is if if
+[0:52:11] memories are a particular kind of
+[0:52:13] dynamic electrical State then some sort
+[0:52:16] of cryogenic freezing is probably going
+[0:52:18] to disrupt that whereas if it's a stable
+[0:52:20] molecule then it should survive so again
+[0:52:24] I think there are people interested in
+[0:52:25] that aspect of it but I'm not sure
+[0:52:27] um I'm not sure they've done anything
+[0:52:29] with it there's also a goraf uh
+[0:52:32] venkataraman I think he's oh yes yes
+[0:52:35] yeah yeah yeah yeah he uh taught me that
+[0:52:38] uh he has been working on this for
+[0:52:40] several years but he said It's
+[0:52:42] sociologically Tricky and that's to me
+[0:52:45] fascinating that we should care about
+[0:52:48] that what does he mean by that what do
+[0:52:51] you care about what stupid people think
+[0:52:53] uh if this uh possibility exists that
+[0:52:56] this works the upside is so big that
+[0:52:58] it's criminal to not research this I I
+[0:53:01] think it's a disaster that you can read
+[0:53:03] uh introductory textbooks on your
+[0:53:05] residence and never ever hear about any
+[0:53:07] of these experiments yeah yeah like uh
+[0:53:09] everybody who gets the introductory
+[0:53:11] stuff on Neuroscience only knows about
+[0:53:13] uh information stored in the connect
+[0:53:16] home and this leads to for instance the
+[0:53:19] blue brain project if that if RNA based
+[0:53:22] memory transfer is a thing then this
+[0:53:24] entire project is doomed and because you
+[0:53:27] cannot get the story out of uh just
+[0:53:29] recording the contact home or the most
+[0:53:31] of the research right now is focused on
+[0:53:33] reconstructing The Chronic tone as as it
+[0:53:36] was circuitry and hoping that we can get
+[0:53:38] the functionality of information
+[0:53:40] processing and to use the specificity of
+[0:53:43] the particular brain what it has learned
+[0:53:45] from the connections between neurons but
+[0:53:48] what if it turns out this doesn't matter
+[0:53:50] what is if you just need a connection
+[0:53:53] that dense enough and so basically
+[0:53:55] stochastic lattice that is somewhat
+[0:53:56] randomly wired and what matters is what
+[0:53:59] the new ones are doing with the
+[0:54:00] information that they're getting through
+[0:54:02] this ether to this lattice right this
+[0:54:04] changes the entire way in which we need
+[0:54:05] to look at things and if this
+[0:54:07] possibility exists and if this
+[0:54:09] possibility it's just one percent but
+[0:54:11] there is some experimentice points in
+[0:54:13] this direction it is not
+[0:54:16] um it's ridiculous to not pursue this
+[0:54:17] with high pressure and focus on it and
+[0:54:20] support research that goes in this
+[0:54:22] direction basically what's useful is not
+[0:54:25] so much answering questions in science
+[0:54:26] it's discovering questions it's
+[0:54:28] discovering new uncertainty reducing the
+[0:54:31] uncertainty is much easier than
+[0:54:33] discovering new areas of where you
+[0:54:34] thought that you were certain
+[0:54:36] but that allow you to get new insights
+[0:54:39] and it seems to me that a lot of
+[0:54:41] Neuroscience is stuck that does not
+[0:54:43] produce uh results that seem to
+[0:54:45] accumulate in an obvious way towards a
+[0:54:48] theory on how the brain processes
+[0:54:50] information yeah so the Neuroscience I
+[0:54:53] just don't deliver input to the
+[0:54:56] researchers and add the Transformer is
+[0:54:58] not the result of uh reading a lot of
+[0:55:00] Neuroscience it's really mostly the
+[0:55:03] result of people thinking about
+[0:55:05] statistics of data processing and it
+[0:55:09] would be great if we would focus on
+[0:55:11] ideas that are promising and new and
+[0:55:14] that have the power to shake existing
+[0:55:16] paradigms yeah this is you know this is
+[0:55:19] this is so important and it's not just
+[0:55:21] Neuroscience in developmental biology we
+[0:55:24] have exactly the same thing and and I'll
+[0:55:26] just give you two two very simple
+[0:55:27] examples of it where and I tell the
+[0:55:29] students when I when I give talks to
+[0:55:31] students I say isn't it amazing that
+[0:55:33] that in in your whole
+[0:55:36] course of biology in your developmental
+[0:55:37] biology textbook there's not a mention
+[0:55:39] of any of this because it completely um
+[0:55:42] uh just undermines a lot of the basic
+[0:55:44] assumptions so here's a couple of
+[0:55:46] examples one one example is that as of
+[0:55:49] trophic memory and deer so there are
+[0:55:51] species of deer that every year they
+[0:55:53] regenerate that you know the whole so
+[0:55:55] they make this antler rack on their
+[0:55:56] heads the whole thing falls off and then
+[0:55:57] it regrows the next year so these two
+[0:56:01] guys bubenic which are the Father and
+[0:56:04] Son team that did these experiments for
+[0:56:06] 40 years and actually have all these
+[0:56:08] antlers in my lab now because when when
+[0:56:09] the younger one retired I asked he sent
+[0:56:12] me all these things all these antlers
+[0:56:14] the idea is this um what you can do is
+[0:56:16] you take a knife and somewhere in this
+[0:56:19] Branch structure you you make a wound
+[0:56:21] and the bone will heal and you get a
+[0:56:23] little callous and that's you know
+[0:56:25] that's it for that year then the whole
+[0:56:26] thing drops off and then next year
+[0:56:30] it starts to grow and it will make an
+[0:56:31] ectopic tine an ectopic Branch at the
+[0:56:34] point where you injured it last year and
+[0:56:36] this goes on for five or six years and
+[0:56:38] then eventually it goes away and and and
+[0:56:40] you get a normal normal rack again and
+[0:56:43] so the the amazing thing about it is
+[0:56:45] that you know as you you could you can
+[0:56:48] you can the the the standard models for
+[0:56:50] for patterning for morphogenesis are
+[0:56:52] these kind of um Gene regulatory
+[0:56:54] networks and and you know genetic um
+[0:56:56] Kinds of Kinds of uh biochemical
+[0:56:58] gradients and so on you know if you try
+[0:57:00] to try to come up with a with a with a
+[0:57:02] model for this so for for encoding an
+[0:57:05] arbitrary Point within a branch
+[0:57:07] structure that your cells at the scalp
+[0:57:09] have to remember for months after the
+[0:57:11] whole thing is dropped off and then not
+[0:57:13] only remember it but then implement it
+[0:57:15] so that when the bone starts to grow
+[0:57:17] something says oh yes that's the you
+[0:57:19] know the start another another time
+[0:57:20] growing to your left exactly exactly
+[0:57:22] here right trying to trying to make a
+[0:57:24] model of this using the standard tools
+[0:57:26] of the field is uh just just incredibly
+[0:57:29] difficult and and this is that that's
+[0:57:31] and there are other examples of this but
+[0:57:32] this kind of
+[0:57:33] non-non-genetic memory that's just very
+[0:57:35] difficult to explain with standard
+[0:57:37] models the other thing which is any I
+[0:57:39] think an even bigger Scandal is the
+[0:57:41] whole situation with planaria
+[0:57:43] um
+[0:57:43] planaria some species of planaria the
+[0:57:46] way they reproduce is they tear
+[0:57:47] themselves in half each half regenerates
+[0:57:49] the missing piece and now you've got two
+[0:57:51] that's how they reproduce so if you're
+[0:57:52] going to do that what you end up
+[0:57:54] avoiding is weissman's barrier this idea
+[0:57:56] that when we get mutations in our body
+[0:57:58] our children don't inherit those
+[0:58:00] mutations right so this means that any
+[0:58:02] mutation that doesn't kill the stem cell
+[0:58:04] in the body gets Amplified as that cell
+[0:58:06] contributes to regrowing the worm so
+[0:58:08] every as a result of this for for 400
+[0:58:11] million years these planaria have
+[0:58:12] accumulative mutations their genomes are
+[0:58:14] an incredible mess their cells are
+[0:58:16] basically mixoploid that meaning meaning
+[0:58:18] they're like a tumor every cell has a
+[0:58:20] different number of chromosomes
+[0:58:21] potentially they just they just look
+[0:58:23] look you know it just looks horrible as
+[0:58:25] an end result you've got an animal that
+[0:58:27] is Immortal incredibly good at
+[0:58:30] regenerating with 100 Fidelity and very
+[0:58:33] resistant to cancer now this is all of
+[0:58:36] this is the exact opposite of the
+[0:58:37] message you get uh from from from a
+[0:58:40] typical course through through biology
+[0:58:42] which it says that what is the genome
+[0:58:43] for The genome is for setting your body
+[0:58:45] structure if you mess with the genome
+[0:58:47] that information goes away you get you
+[0:58:50] get aging you get cancer right why does
+[0:58:52] the animal with the worst genome have
+[0:58:54] the the the best anatomical Fidelity I
+[0:58:57] mean that's just that and and I think we
+[0:58:58] actually as of as of you know a few
+[0:59:00] months ago we actually I think have some
+[0:59:01] insight into this but but but it's been
+[0:59:03] bugging me for for years and this is the
+[0:59:05] kind of thing that nobody ever talks
+[0:59:07] about because it it goes against the
+[0:59:09] general Assumption of what of what
+[0:59:11] genomes actually do and and what they're
+[0:59:13] for and you know this this complete lack
+[0:59:14] of uh correlation between the genome in
+[0:59:17] fact an anti-correlation between the
+[0:59:18] genome quality and the incredible
+[0:59:20] ability of this of this animal to uh to
+[0:59:23] to to to to have a healthy Anatomy yeah
+[0:59:25] what is that Insight that you mentioned
+[0:59:27] you acquired a few months ago
+[0:59:28] preliminary so so okay uh in the in the
+[0:59:31] name of uh you know throwing out uh kind
+[0:59:33] of new unproven ideas right so this is
+[0:59:35] you know this this is this is just my my
+[0:59:37] conjecture we've we've done some we've
+[0:59:39] done some computational modeling of it
+[0:59:41] which which I initially this was a um a
+[0:59:44] very uh clever student that I work with
+[0:59:46] named lakshman who I did did some models
+[0:59:49] with me and uh uh I initially thought it
+[0:59:52] was a bug and then I realized that no
+[0:59:53] actually this is this is this is the
+[0:59:55] feature the idea is this imagine so so
+[0:59:58] we've been working for a long a long
+[1:00:00] time on a concept of
+[1:00:02] um competency among embryonic parts and
+[1:00:05] what this means is basically the idea
+[1:00:07] that uh there are there are um
+[1:00:10] homeostatic feedback loops among various
+[1:00:13] cells and tissues and organs that
+[1:00:16] attempt to reach specific outcomes in
+[1:00:19] anatomical amorphous space despite
+[1:00:21] various perturbations so the idea is
+[1:00:23] that if you have a tadpole and you do
+[1:00:25] something to it whether by a mutation or
+[1:00:27] by a drug or something you do something
+[1:00:29] to it where the eye is a little
+[1:00:31] off-kilter or the mouth is a little off
+[1:00:33] all of these organs pretty much know
+[1:00:35] where they're supposed to be they will
+[1:00:37] try to minimize distance from other um
+[1:00:39] landmarks and they will Remodel and
+[1:00:41] eventually you get a normal frog so that
+[1:00:42] so that they will they will sort of
+[1:00:44] um a a recover the correct uh Anatomy
+[1:00:48] despite starting off in the wrong
+[1:00:49] position or even things like changes in
+[1:00:51] the number of cells or the size of cells
+[1:00:53] they're really good at getting their job
+[1:00:55] done despite various changes right so
+[1:00:58] okay so they have these competencies to
+[1:00:59] optimize specific uh things like like
+[1:01:02] their position and structure and things
+[1:01:04] like that
+[1:01:05] so uh so so that's so that's competency
+[1:01:07] now now here's here's the interesting
+[1:01:09] thing
+[1:01:09] imagine that you have a species that uh
+[1:01:13] has some some degree of that competency
+[1:01:16] and so you've got an individual of that
+[1:01:18] species comes up for selection uh
+[1:01:21] Fitness is high looks pretty good but
+[1:01:23] here's the problem selection doesn't
+[1:01:25] know whether the fitness is high because
+[1:01:27] his genome was amazing or the fitness is
+[1:01:30] high because the genome was actually so
+[1:01:31] so but the competency sort of made up
+[1:01:34] for it and now everything kind of got
+[1:01:35] back to where it needs to go so what the
+[1:01:38] competency apparently does is Shield
+[1:01:40] information from Evolution about the
+[1:01:43] actual genome it makes it harder to pick
+[1:01:45] the best genomes because you're
+[1:01:47] individuals that perform well don't
+[1:01:49] necessarily have the best genomes what
+[1:01:51] they do have is competency so what
+[1:01:55] happens and what happens in our
+[1:01:56] simulations is that when if you start
+[1:01:59] off with even a little bit of that
+[1:02:00] competency Evolution loses some power in
+[1:02:04] selecting the best genomes but it but
+[1:02:06] but where all the work tends to happen
+[1:02:08] is increasing the competency
+[1:02:10] so then the competency goes up so the
+[1:02:12] cells are even better at and the tissues
+[1:02:14] are even better at getting the job done
+[1:02:15] despite the bad genome that makes it
+[1:02:18] even worse that that that that that that
+[1:02:20] makes it even harder for for evolution
+[1:02:23] to see the best genomes which relieves
+[1:02:25] some of the pressure on having a good
+[1:02:26] genome but it basically puts all the
+[1:02:29] pressure on being really competent so
+[1:02:31] you've got this so so basically what
+[1:02:32] happens is that uh the the the genetic
+[1:02:36] fitness basically levels out at a really
+[1:02:39] sub-optimal level and in fact the
+[1:02:41] pressure is off of it so so it's
+[1:02:43] tolerant all kinds of craziness but the
+[1:02:45] competency and the mechanisms of
+[1:02:47] Competency get get pushed up really high
+[1:02:49] so in many animals and but there are
+[1:02:53] other factors that sort of push against
+[1:02:54] this ratchet but it becomes it becomes a
+[1:02:56] positive feedback loop it becomes a
+[1:02:57] ratchet for Optimal Performance despite
+[1:03:00] a sub-optimal genome and so in some
+[1:03:03] animals this sort of evens out at a
+[1:03:06] particular point but I think what
+[1:03:07] happened in planaria is that this whole
+[1:03:10] process ran away to its ultimate
+[1:03:12] conclusion the ultimate conclusion is
+[1:03:14] the competency algorithm became so good
+[1:03:17] that basically whatever the genome is
+[1:03:20] it's really good at creating and
+[1:03:22] maintaining a proper worm because it is
+[1:03:24] already being evolved in the presence of
+[1:03:27] a genome whose quality we cannot control
+[1:03:28] so so in computer science speak it's
+[1:03:31] kind of like um and Steve Frank put me
+[1:03:33] onto this analogy it's kind of like what
+[1:03:35] happens in raid arrays when you have a
+[1:03:37] nice raid array where the software makes
+[1:03:40] sure that you don't lose any data the
+[1:03:42] pressure is off to have really uh really
+[1:03:44] high quality media and so now you can
+[1:03:47] tolerate you can tolerate media with
+[1:03:48] lots of mistakes because because the
+[1:03:50] software takes care of it in the in the
+[1:03:52] raid and the on the architecture takes
+[1:03:54] care of it so so basically what happens
+[1:03:56] is you've got this animal where that uh
+[1:03:59] that runaway uh feedback loop went went
+[1:04:02] so far that the algorithm is amazing and
+[1:04:05] it's been it's been uh evolved
+[1:04:08] specifically for the ability to do what
+[1:04:10] it needs to do even though the hardware
+[1:04:12] is kind of crap and and it's it's
+[1:04:15] incredibly tolerant so this has a number
+[1:04:16] of implications that that to my
+[1:04:18] knowledge have never been explained
+[1:04:19] before for example in every kind every
+[1:04:22] other kind of animal you can you can
+[1:04:24] call a stock Center and you can get
+[1:04:26] mutants so you can get mice with with
+[1:04:28] kinky kind of Kink tails you can get
+[1:04:31] flies with red eyes and you can get uh
+[1:04:34] chickens without toes and you can get
+[1:04:36] you know humans come with that it has
+[1:04:38] various you know albinos and things you
+[1:04:40] can you can there's there's always
+[1:04:41] mutants that you can get uh planaria
+[1:04:43] there are no there are no abnormal lines
+[1:04:47] of planaria anywhere except for the only
+[1:04:49] exception is our two-headed line and
+[1:04:51] that that one's not genetic that one's
+[1:04:52] that one's bioelectric so so isn't it
+[1:04:55] amazing that that that nobody has been
+[1:04:57] able despite despite a hundred and you
+[1:04:59] know I don't know 120 years of
+[1:05:01] experiments with planaria nobody has
+[1:05:03] isolated a uh a line of planaria that is
+[1:05:07] anything other than a perfect planarian
+[1:05:08] I think this is why I think it's because
+[1:05:10] they have been actually selected for
+[1:05:12] being able to do what they need to do
+[1:05:13] despite the fact that there the the
+[1:05:15] hardware is just very junky and so so
+[1:05:18] that's my that's my current that's my
+[1:05:20] current current take on it and and and
+[1:05:22] really uh it puts more kind of more
+[1:05:26] emphasis on on on the algorithm and the
+[1:05:28] decision making among that cellular
+[1:05:30] Collective of what what you know what
+[1:05:33] are we going to build and what's the
+[1:05:34] algorithm for for making sure that we're
+[1:05:35] all working to build the correct thing
+[1:05:38] so if you translate this idea into
+[1:05:40] computer science a way to look at it is
+[1:05:42] imagine that you find some computers
+[1:05:45] that have
+[1:05:47] um artists that are very very noisy and
+[1:05:50] where the heart is basically makes lots
+[1:05:52] and lots of mistakes in encoding things
+[1:05:54] and bits often flip and so on and you
+[1:05:57] will find that these computers still
+[1:05:58] work and they work on pretty much the
+[1:06:00] same way as the other computers that you
+[1:06:02] have and there is an orthodox sect of
+[1:06:06] computer scientists that thinks uh it is
+[1:06:08] necessary that uh the every bit on the
+[1:06:10] hard disk is completely reliable or
+[1:06:13] reliable to such a degree that you only
+[1:06:15] have a mistake once every 100 trillion
+[1:06:18] copies and you can have an error
+[1:06:20] correction quote running on the hard
+[1:06:22] disk at the low level that corrects this
+[1:06:23] and after some point it doesn't become
+[1:06:25] efficient anymore so you need to have
+[1:06:27] reliable hard disks to be able to have
+[1:06:29] computers that work like this but uh how
+[1:06:31] would these other computers work and it
+[1:06:34] basically means that you create a
+[1:06:36] virtual structure on top of the noisy
+[1:06:38] structure that is correcting for
+[1:06:40] whatever degree of um uncertainty you
+[1:06:43] have or the degree of Randomness that
+[1:06:45] gets injected into your substrate David
+[1:06:48] Dave Eckley has a very nice metaphor for
+[1:06:51] this you know maybe yeah yeah he's a I
+[1:06:55] think a beautiful artist who explores
+[1:06:58] complexity by tinkering with
+[1:07:00] computational models I really find this
+[1:07:02] work very inspiring and he has this idea
+[1:07:04] of best effort Computing so in his view
+[1:07:06] our own nervous system is a best effort
+[1:07:09] computer it's one that does not rely on
+[1:07:11] the other neurons around you working
+[1:07:13] perfectly uh but make an effort to be
+[1:07:17] better than random and then you stack
+[1:07:20] the improbabilities empirically by
+[1:07:22] having a system that evolves to measure
+[1:07:25] in effect the unreliability of its
+[1:07:28] components and then stack the
+[1:07:31] probabilities until you get the system
+[1:07:33] to be deterministic enough to do what
+[1:07:35] you're doing with what to do with it
+[1:07:36] right so you uh if you have a system
+[1:07:40] that is as in a planaria inherently very
+[1:07:42] noisy where the genome is an unreliable
+[1:07:45] witness of what should be done and the
+[1:07:47] body you just need to interpret it in a
+[1:07:50] way that Stacks the probabilities that
+[1:07:52] is evaluating things with much more
+[1:07:55] error tolerance and maybe this is always
+[1:07:58] the case maybe there is a Continuum
+[1:08:00] um maybe not it's also possible that
+[1:08:02] there is some kind of phase shift where
+[1:08:03] your switch from organisms with reliable
+[1:08:06] genomes to organisms with noisy genomes
+[1:08:08] and you would basically use a completely
+[1:08:10] different way to construct the organism
+[1:08:11] as a result but it's a it's a very
+[1:08:13] interesting hypothesis then to see if if
+[1:08:16] this is a radical thing or a gradual
+[1:08:18] thing that happens on all organisms to
+[1:08:20] some degree yeah what I also like about
+[1:08:23] this uh description that you give about
+[1:08:25] how the organism emerges it maps on in
+[1:08:28] some sense also in how perception Works
+[1:08:31] in in our own mind at the moment measure
+[1:08:34] learning is mostly focused on
+[1:08:35] recognizing images
+[1:08:37] so our individual frames and the you
+[1:08:40] feed in information frame by frame and
+[1:08:42] the information is relatively
+[1:08:44] disconnected from a system like Delhi 2
+[1:08:47] is trained by giving it several hundreds
+[1:08:49] of millions of images
+[1:08:51] and they are disconnected the they're
+[1:08:52] not adjacent images in the space of
+[1:08:54] images and a baby could not probably
+[1:08:56] learn from giving 600 million images in
+[1:08:59] a dark room and only looking at this
+[1:09:01] introduce the structure of the world
+[1:09:02] from this whereas Delhi can which gives
+[1:09:05] Testament to the power of our
+[1:09:07] statistical methods and Hardware that we
+[1:09:09] have that far surpasses I think the
+[1:09:11] combined power and valuability of brains
+[1:09:14] which probably would not be able to
+[1:09:15] integrate so much information over such
+[1:09:17] a big distance
+[1:09:18] for us the world is learnable because
+[1:09:20] it's adjacent frames are correlated
+[1:09:22] basically information gets preserved in
+[1:09:25] the world so time and we only need to
+[1:09:28] learn the way in which the information
+[1:09:29] gets transmogorified
+[1:09:31] and these transformifications of
+[1:09:33] information means that we have a dynamic
+[1:09:34] World in which the static image is an
+[1:09:37] exception the identity function is a
+[1:09:38] special case of how the universe changes
+[1:09:40] and we mostly learn change we just got
+[1:09:43] visited by my cat and my cat has
+[1:09:46] difficulty to recognize static objects
+[1:09:48] compared to moving objects where it's
+[1:09:49] much much easier to see a moving ball
+[1:09:51] than a ball that is laying still yeah
+[1:09:54] and it's because it's much easier to
+[1:09:55] segment it out the environment when it
+[1:09:57] moves right so the task of learning on a
+[1:10:00] moving environmental Dynamic environment
+[1:10:01] is much easier because it imposes
+[1:10:03] constraints on the world and so how do
+[1:10:06] we represent a moving world compared to
+[1:10:09] a static well the semantics of features
+[1:10:11] changes and the uh an object is
+[1:10:14] basically composed of features that are
+[1:10:16] there can be objects themselves and the
+[1:10:18] scene is the decomposition of all the
+[1:10:21] features that we see into a complete set
+[1:10:23] of objects that explain the entirety of
+[1:10:25] the scene and the interaction between
+[1:10:27] them and causality is the interaction
+[1:10:29] between objects right and in a static
+[1:10:32] image these objects don't do anything
+[1:10:33] they don't interact with each other they
+[1:10:35] just stand in some kind of relationship
+[1:10:37] that you need to infer which is super
+[1:10:38] difficult because you only have this
+[1:10:40] static snapshot and so the features are
+[1:10:43] classifiers that tell you how to whether
+[1:10:46] a feature is a hand or a foot or a pen
+[1:10:48] or a Sun or a flashlight or whatever and
+[1:10:52] how they relate to the larger scene in
+[1:10:54] which again you have a static
+[1:10:56] relationship in which you need to
+[1:10:57] classify the objects based on the
+[1:10:59] features that contribute to them and you
+[1:11:01] need to find some kind of description
+[1:11:02] where you interpret the features which
+[1:11:04] are usually ambiguous and could be many
+[1:11:05] different things depending on the
+[1:11:07] context which you interpret them into
+[1:11:09] one optimal Global configuration right
+[1:11:11] but if scene is moving this changes a
+[1:11:14] little bit what happens now is that the
+[1:11:16] features become operators they're no
+[1:11:18] longer classifiers that tell you how
+[1:11:20] your internal State needs to change how
+[1:11:22] your world needs to change or your
+[1:11:24] simulation of the universe in your mind
+[1:11:25] needs to change to track the sensory
+[1:11:27] patterns right so a feature now is an
+[1:11:30] change operator a transformation
+[1:11:33] and uh the feature is in some sense a
+[1:11:36] controller that tells you how the bits
+[1:11:38] are moving and in your local model of
+[1:11:39] the universe and they are organized in a
+[1:11:42] hierarchy of controllers
+[1:11:44] and these controllers need to be turned
+[1:11:46] on and off at the level of the scene and
+[1:11:48] they have a lot of flexibility once you
+[1:11:50] have them they can move around in the
+[1:11:51] scene they're basically no
+[1:11:52] self-organizing self-stabilizing
+[1:11:54] entities in the same way as the mouse is
+[1:11:57] moving around in your organism a feature
+[1:11:59] can move around in the organism and
+[1:12:01] shift itself around to communicate with
+[1:12:03] other features until they negotiate a
+[1:12:05] valid interpretation of reality
+[1:12:08] that's that's incredibly interesting
+[1:12:10] because I you know as soon as you
+[1:12:12] started saying that uh I was starting to
+[1:12:15] think that the the virtualization that
+[1:12:18] enables right so the earlier part of
+[1:12:20] which we're saying the virtualization of
+[1:12:22] um
+[1:12:24] uh the the information that allows you
+[1:12:27] to
+[1:12:28] um deal with with unreliable hardware
+[1:12:30] and everything the the bioelectric uh
+[1:12:33] circuits that we deal with are a great
+[1:12:35] candidate for that because actually we
+[1:12:36] see exactly that we see a bioelectric
+[1:12:39] pattern that is very resistant to
+[1:12:41] changes in the details and make sure
+[1:12:43] that everybody does the right thing
+[1:12:44] under a wide range of you know different
+[1:12:46] defects and so on but but but even more
+[1:12:49] than that the other thing that what you
+[1:12:50] were just um emphasizing this the fact
+[1:12:52] that we learned the Delta right and that
+[1:12:54] and that we're looking for change very
+[1:12:56] interesting if you if you pivot the
+[1:12:58] whole thing from the temporal domain to
+[1:13:00] the spatial domain so so in development
+[1:13:02] what we we when we look at these
+[1:13:05] bioelectric patterns now now these
+[1:13:08] patterns are across space not across
+[1:13:10] time so so on like a neuroscience where
+[1:13:11] everything is kind of in the temporal
+[1:13:13] domain for neurons these things these
+[1:13:15] are voltage static voltage patterns
+[1:13:17] across tissue right across the whole
+[1:13:19] thing so for the longest time you know
+[1:13:22] we asked this question how are these
+[1:13:24] read out what how do cells actually read
+[1:13:26] these because because one possibility
+[1:13:28] early this was a very early hypothesis
+[1:13:30] you know 20 years ago was that maybe the
+[1:13:33] local voltage tells every cell what to
+[1:13:35] be so it's like a paint by numbers kind
+[1:13:37] of thing and every and and each voltage
+[1:13:39] you know each voltage value corresponds
+[1:13:42] to some kind of outcome that turned out
+[1:13:44] to be false what we did find is that
+[1:13:46] there and we have computational models
+[1:13:48] of how this works now
+[1:13:51] um what is read out is the Delta the
+[1:13:54] difference between regions it doesn't
+[1:13:56] care nobody cares about what the
+[1:13:58] absolute voltage is what what what is
+[1:13:59] read out in terms of outcomes for for
+[1:14:02] Downstream cell Behavior gene expression
+[1:14:04] all that what is actually right out is
+[1:14:06] the voltage difference between two
+[1:14:07] adjacent domains so that is exactly
+[1:14:10] actually what it's doing just in a
+[1:14:11] spatial domain it it only keys off of
+[1:14:13] the Delta and what is in what is learned
+[1:14:16] from that is um exactly just as as you
+[1:14:19] as you were saying it modifies uh the
+[1:14:21] controller for for what's Downstream of
+[1:14:23] that and there may be multiple ones that
+[1:14:25] are sort of moving around in Cohen
+[1:14:27] having I mean it's a very it's a very
+[1:14:29] compelling
+[1:14:30] um picture actually and way to look at
+[1:14:31] some of the some of the simulations that
+[1:14:34] that we've been doing about how the
+[1:14:36] bioelectric data are interpreted by the
+[1:14:38] rest of the cells you know it's very
+[1:14:40] interesting could we take a couple of
+[1:14:42] couple minute break yeah sure I'll get a
+[1:14:45] new coffee all right
+[1:14:46] speaking of coffee a brief note from our
+[1:14:48] sponsor
+[1:14:49] coffee helps me work it helps me fast
+[1:14:52] from carbs it's become one of the best
+[1:14:54] parts of my day consistently that's why
+[1:14:56] I'm delighted that we're collaborating
+[1:14:57] with Trade coffee they partner with top
+[1:14:59] independent Roasters to Freshly roast
+[1:15:01] and send the finest coffee in the
+[1:15:04] country directly to your home on your
+[1:15:06] preferred schedule this matters to me as
+[1:15:08] I work from home their team of experts
+[1:15:10] do all the work testing hundreds of
+[1:15:12] disparate coffees to land on a final
+[1:15:15] curated collection of 450 exceptional
+[1:15:18] coffees I chose these three and the team
+[1:15:20] at Trade coffee worked to create a
+[1:15:22] special lineup for theories of
+[1:15:24] everything for the tow audience based on
+[1:15:26] some questions they asked me such as how
+[1:15:28] much caffeine do I enjoy and what's the
+[1:15:30] bitterness ratio Etc you can get that
+[1:15:32] line up or if that's not let's say your
+[1:15:34] cup of coffee then you can take your own
+[1:15:36] quiz on their website to find a set that
+[1:15:39] matches your specific profile if you'd
+[1:15:41] like to support small businesses and
+[1:15:43] Brew the best cup of coffee you've ever
+[1:15:44] made at home then it's time to try Trade
+[1:15:47] coffee right now trade is offering our
+[1:15:49] listeners thirty dollars off your first
+[1:15:52] order plus free shipping at
+[1:15:54] drinktrade.com everything that's
+[1:15:58] drinktrade.com everything for thirty
+[1:16:01] dollars off so Professor Levin use the
+[1:16:04] word competence earlier and I'd like you
+[1:16:06] to Define that
+[1:16:07] yeah
+[1:16:08] um
+[1:16:09] I in order to Define it uh I I want to
+[1:16:12] put out two two concepts to this one one
+[1:16:15] idea is that to me and this goes back to
+[1:16:19] what we were talking about before is the
+[1:16:20] engineering stance on things I
+[1:16:24] think that useful cognitive claims such
+[1:16:28] as something you know when you say this
+[1:16:30] system has whatever or it can whatever
+[1:16:32] right as far as various types of
+[1:16:34] cognitive capacities I think those kind
+[1:16:36] of claims are really engineering uh
+[1:16:38] claims that is when you tell me that
+[1:16:41] something is competent at a particular
+[1:16:43] level maybe right so so you can think
+[1:16:45] about like like wiener and rosenberg's
+[1:16:47] scale of
+[1:16:48] cognition that goes from simple um you
+[1:16:51] know simple passive materials and then
+[1:16:53] reflexes and then all the way up to kind
+[1:16:55] of second order metacognition and all
+[1:16:57] that when you tell me that something is
+[1:16:59] on that ladder and where it is what
+[1:17:01] you're really telling me is if I want to
+[1:17:04] predict Its Behavior or I want to use it
+[1:17:06] in an engineering context or I want to
+[1:17:08] interact with it or relate to it in some
+[1:17:10] way this is what I can expect so right
+[1:17:13] so that's what you really telling me so
+[1:17:14] all of these terms what they really are
+[1:17:16] are engineering protocols so if you tell
+[1:17:19] me that something has the capacity to do
+[1:17:22] um a associate of learning or or
+[1:17:25] whatever what you're telling me is that
+[1:17:26] hey you can do something more with this
+[1:17:28] than you could with a mechanical clock
+[1:17:30] you can provide certain types of uh
+[1:17:33] stimuli or experiences and you can
+[1:17:35] expect that to do this or that
+[1:17:36] afterwards or if you tell me that
+[1:17:38] something is a um a homeous you know a
+[1:17:40] homeostat that means that hey I can
+[1:17:43] count on it to keep some variable in at
+[1:17:46] a particular range without having to be
+[1:17:48] there myself to control it all the way
+[1:17:50] it has a certain autonomy now how much
+[1:17:51] right and if you tell me that something
+[1:17:53] is really intelligent and it can do XYZ
+[1:17:55] then I know that okay you're telling me
+[1:17:57] that it has even more autonomous
+[1:17:59] behavior in certain contexts so so all
+[1:18:01] of these terms to me what they really
+[1:18:02] are they're not and that has an
+[1:18:04] important implication the implication is
+[1:18:06] that they're Observer dependent that
+[1:18:08] that that that you you've picked some
+[1:18:10] kind of problem space you've picked uh
+[1:18:13] some kind of perspective and from that
+[1:18:15] problem problem space in that
+[1:18:16] perspective you're telling me that with
+[1:18:18] with sort of given certain goal States
+[1:18:21] this system has that much competency to
+[1:18:23] pursue those gold States and different
+[1:18:25] observers can have different views on
+[1:18:27] this for any given system so for example
+[1:18:28] somebody might look at a brain like
+[1:18:31] let's say a human brain and say well I'm
+[1:18:33] pretty sure the only thing this is this
+[1:18:34] is a paperweight so it's really pretty
+[1:18:36] much just competent in going down
+[1:18:38] gravitational gradient so all I can do
+[1:18:39] is hold down paper that's it and
+[1:18:41] somebody else will look at and say ah
+[1:18:43] you missed the whole point you missed
+[1:18:44] the whole point this thing is
+[1:18:45] competencies in behavioral space and
+[1:18:46] linguistic space right so these are all
+[1:18:49] um empirically testable uh engineering
+[1:18:52] claims about what you can expect the
+[1:18:54] system to do so when I say competency
+[1:18:56] what I mean is we specify a space a
+[1:18:59] problem space and at the time when we
+[1:19:01] were talking about this the problem
+[1:19:02] space that I was talking about was the
+[1:19:05] the anatomical morphe space that was the
+[1:19:07] space we were talking about so so the
+[1:19:09] space of possible anatomical
+[1:19:10] configurations and specifically
+[1:19:12] navigating that morph of space so you
+[1:19:14] start off as an egg or you start off as
+[1:19:17] a damaged limb or whatever and you
+[1:19:19] navigate that morphe space into the
+[1:19:22] correct structure so so when I say
+[1:19:23] competency I mean you have the ability
+[1:19:25] to deploy certain kinds of tricks to
+[1:19:28] navigate that amorphous space with some
+[1:19:31] level of uh performance that I can count
+[1:19:34] on and so the competency might be really
+[1:19:36] low or it might be really high then I
+[1:19:38] would have to make specific claims about
+[1:19:40] what I mean here's an example of a
+[1:19:42] compound and there are many you know if
+[1:19:43] you just think about the Behavioral
+[1:19:44] Science of navigation there are many
+[1:19:46] competencies you can think about does it
+[1:19:48] you know does it does it know ahead of
+[1:19:50] time where it's going does it have a
+[1:19:51] memory of where it's been or is it a
+[1:19:54] very simple you know sort of reflex arc
+[1:19:56] is all it has or um here's one one
+[1:19:59] example of a pretty cool competency that
+[1:20:01] um that that a lot of biological systems
+[1:20:04] have
+[1:20:04] if we take some cells that are in the
+[1:20:08] tail of a tadpole and we
+[1:20:11] give them a particular we we modify
+[1:20:14] their ion channels uh with such that
+[1:20:16] they now acquire
+[1:20:19] um a a the goal of navigating to an eye
+[1:20:22] fate in more in in this morphe space
+[1:20:24] meaning that they're going to make an
+[1:20:25] eye these things in fact will create an
+[1:20:27] eye and they'll make an eye in the tail
+[1:20:28] on the gut wherever you want but one of
+[1:20:30] the cool and so that's already pretty
+[1:20:32] pretty cool but but one of the amazing
+[1:20:34] aspects is if I only modify a few cells
+[1:20:38] not enough to make an actual eye just
+[1:20:40] just a handful of cells and we've done
+[1:20:42] this and you can see this work
+[1:20:43] one of the competencies they have is to
+[1:20:46] recruit local neighbors that were
+[1:20:48] themselves not in any way manipulated to
+[1:20:51] help them achieve that goal it's a
+[1:20:53] little bit like in an ant colony right
+[1:20:54] there's a there's this idea of
+[1:20:55] Recruitment and ants and termites is an
+[1:20:57] idea of recruitment where where
+[1:20:58] individuals can can recruit others and
+[1:21:00] you know talk about a flexible
+[1:21:01] collective intelligence this is it this
+[1:21:03] is they they you you've re-specified the
+[1:21:05] goal for that set of cells but one of
+[1:21:08] the things that they do without us
+[1:21:09] telling them how to do it or having to
+[1:21:11] micromanage it they already have the
+[1:21:13] competency to recruit as many cells as
+[1:21:16] they need to get the job done so that's
+[1:21:18] a very nice for an engineer that's a
+[1:21:20] very nice competency because it means
+[1:21:22] that I don't need to worry about taking
+[1:21:24] care of getting exactly the right number
+[1:21:26] of cells if I'm if I'm a little bit over
+[1:21:29] that's fine if I'm way under also fine
+[1:21:31] the system has that competency of
+[1:21:33] recruiting other cells to get the job
+[1:21:35] done so so that's what I so that's what
+[1:21:37] I meant so to me to make an um any kind
+[1:21:39] of a cognitive claim you have to specify
+[1:21:40] the problem space you have to specify
+[1:21:43] the goal goal towards which it's
+[1:21:45] expressing competencies and that may
+[1:21:47] right and and then and then you can make
+[1:21:49] a claim about well how competent is it
+[1:21:51] to get to that goal and somebody I wish
+[1:21:53] I could remember who it was but somebody
+[1:21:54] made this really nice analogy about kind
+[1:21:56] of the ends of that spectrum they said
+[1:21:58] two magnets try to get together and
+[1:22:00] Romeo and Juliet try to get together but
+[1:22:03] the degree of flexible problem solving
+[1:22:05] that you can expect out of those two
+[1:22:06] systems is incredibly different and
+[1:22:09] within that range there are all kinds of
+[1:22:11] in-between systems that may be better or
+[1:22:12] worse and may deploy different kinds of
+[1:22:14] strategies you know can they avoid local
+[1:22:16] Optima can they have a memory of the
+[1:22:18] where they've been can they look further
+[1:22:20] than their local environment a million
+[1:22:22] different things so that's that's what I
+[1:22:23] meant by competency it's it's it's it's
+[1:22:25] a claim about what and what an engineer
+[1:22:28] can expect the system to do given a
+[1:22:30] particular problem space in a particular
+[1:22:32] goal that you think it's uh trying to
+[1:22:34] reach
+[1:22:35] so the way in which you use the word
+[1:22:37] competency could be treated as the
+[1:22:42] capacity of a system for adaptive
+[1:22:43] control
+[1:22:46] yeah yeah yeah
+[1:22:48] one uh issue that I have with the notion
+[1:22:51] of goals and goal directedness is that
+[1:22:53] sometimes you only have a tendency in a
+[1:22:55] system to go in a certain direction and
+[1:22:58] so it's it's directed but the goal is
+[1:23:00] something that can be emergent sometimes
+[1:23:03] it's not sometimes there is an explicit
+[1:23:05] representation in the system of a
+[1:23:06] discrete event that is associated or a
+[1:23:08] class of events this fulfilling a
+[1:23:10] certain condition that the system has
+[1:23:12] committed itself to and if you don't
+[1:23:13] have that you don't have a proper goal
+[1:23:15] but in real systems it's difficult to
+[1:23:17] say I mean when do we pursue goals right
+[1:23:20] sometimes we just are vaguely hungry are
+[1:23:22] moving towards the kitchen because we
+[1:23:24] hope that something will
+[1:23:26] opportunistically emerge that will deal
+[1:23:28] with this vague tendency in our Behavior
+[1:23:31] we could also say we have the goal of
+[1:23:33] finding food but uh that is a
+[1:23:35] rationalization that is maybe stretching
+[1:23:37] sick sometimes yeah so uh sometimes a
+[1:23:40] better distinction for me is
+[1:23:42] going from a simple controller to an
+[1:23:44] agent and I try to because we are very
+[1:23:47] good at discovering agency in the world
+[1:23:49] what does it actually mean when we
+[1:23:51] discover agency and when we discover our
+[1:23:53] own agency and start to amplify it
+[1:23:56] um
+[1:23:56] by making models of who we are and how
+[1:23:59] we deal with the world and with others
+[1:24:00] and so on the minimal definition of
+[1:24:03] agent that I found it's a controller for
+[1:24:04] future States
+[1:24:06] the thermostat doesn't have a goal by
+[1:24:08] itself right it just has a Target value
+[1:24:11] and a sensor that tells the deviation
+[1:24:14] from the target value and when that
+[1:24:15] exceeds a certain threshold the heating
+[1:24:18] is turned on and if it goes below a
+[1:24:21] certain threshold the heating is turned
+[1:24:22] off again and this is it so the
+[1:24:24] thermostat is not an age and it only
+[1:24:26] reacts to the present frame it's only a
+[1:24:29] reactive system
+[1:24:30] whereas an agent is proactive which
+[1:24:33] means that it's trying to um not just
+[1:24:36] minimize the current deviation from the
+[1:24:38] target value but the integral over at
+[1:24:41] the time span previously the future
+[1:24:43] deviation so it builds an expectation
+[1:24:45] about how uh an action is going to
+[1:24:49] change this trajectory of the universe
+[1:24:51] and over that trajectory it tries to
+[1:24:54] figure out some measure of how big the
+[1:24:57] compound Target deviation is going to be
+[1:24:59] and so as a result you get a branching
+[1:25:02] universe and the branches in this
+[1:25:03] universe some of these branches depend
+[1:25:05] on actions that are available to you and
+[1:25:08] that translate into decisions that you
+[1:25:09] can make that uh move you into more or
+[1:25:13] less preferable wealth States and
+[1:25:15] suddenly you have a system with emergent
+[1:25:16] beliefs desires and intentions but to
+[1:25:19] make that happen to move from a
+[1:25:22] controller to agency and agent has been
+[1:25:25] a controller with an integrated setpoint
+[1:25:27] generator and the ability to control
+[1:25:30] future states that requires that you can
+[1:25:33] make models that are counterfactual so
+[1:25:36] because the future universe doesn't
+[1:25:38] exist right now you need to create a
+[1:25:41] counterfactual universe The Future model
+[1:25:43] of the future Universe maybe even a
+[1:25:45] model of the past universe that allows
+[1:25:46] you to reason about possible for future
+[1:25:48] universes and so on and to make these
+[1:25:50] counter factual causal models of the
+[1:25:53] universe you need to have a turing
+[1:25:54] machine
+[1:25:55] so without a computer without something
+[1:25:58] that is too incomplete that insulates
+[1:26:00] you from the causal structure of your
+[1:26:02] substrate that allows you to build
+[1:26:05] representations regardless of what the
+[1:26:07] universe says right now around you right
+[1:26:09] you need to have that machine and the
+[1:26:11] simplest uh system in nature that has
+[1:26:14] turing machine integrated is the cell
+[1:26:17] so uh it's very difficult to find a
+[1:26:19] system in nature that is an agent that
+[1:26:22] is not made from cells as a result
+[1:26:25] maybe there are systems in nature that
+[1:26:27] are able to uh compute things and make
+[1:26:29] models but uh I I'm not aware of any so
+[1:26:33] the simplest one that I know that can do
+[1:26:35] this reliably is the cells or
+[1:26:37] arrangement of sets and that can possess
+[1:26:41] agency which is interesting thing that
+[1:26:44] explains this coincidence that living
+[1:26:46] things are agents and vice versa that
+[1:26:49] the agent that we discover are mostly
+[1:26:51] living things or there are robots that
+[1:26:53] have computers built into them or uh
+[1:26:56] virtual robots that have that rely on
+[1:26:59] computation so the ability to make
+[1:27:01] models of the future is the prerequisite
+[1:27:04] for agency and to make arbitrary models
+[1:27:06] which means structures that embody uh
+[1:27:09] causal uh simulations of some sort that
+[1:27:13] requires computation
+[1:27:16] yeah yeah um you know I'm on board with
+[1:27:19] that with that ladder of that that
+[1:27:21] taxonomy uh of of uh
+[1:27:24] of of goals and so on one one
+[1:27:26] interesting thing about uh about goals
+[1:27:28] and as you say some are emergent and and
+[1:27:30] some are not there's a there's an
+[1:27:32] interesting uh planarian
+[1:27:34] um uh version of this which is which is
+[1:27:36] this we
+[1:27:37] we made this hypothesis about so so with
+[1:27:41] implant area you chop it up into pieces
+[1:27:42] and every piece regenerates exactly the
+[1:27:44] right rest of the work right so if it's
+[1:27:46] if if you chop it into pieces each piece
+[1:27:48] will have one head one tail so and then
+[1:27:51] and then of course what happens is it
+[1:27:53] stops when it when it may when it
+[1:27:55] reaches a correct planarian then then it
+[1:27:57] stops and so so we started to think that
+[1:28:00] there are two there are a couple of
+[1:28:01] possibilities one possibility is that
+[1:28:03] this is a purely emergent process and
+[1:28:06] that the goal of rebuilding ahead is is
+[1:28:08] an emergent thing that comes about as a
+[1:28:10] consequence of other things or could
+[1:28:12] there be a an actual explicit
+[1:28:14] representation of what a correct
+[1:28:16] planarian is that serves as a set point
+[1:28:18] as an encoded as an explicitly encoded
+[1:28:20] set point for these cells to follow and
+[1:28:22] and because it's a cellular a collective
+[1:28:24] we're communicating electrically we
+[1:28:27] thought well maybe maybe what it's doing
+[1:28:29] is basically storing a memory of what
+[1:28:32] did you like you would in in a neural
+[1:28:34] circuit you're storing a memory of what
+[1:28:36] it should be so we started looking for
+[1:28:38] this and this is what we found and this
+[1:28:39] is this is kind of I think one type of
+[1:28:42] one one important type of goal in a in a
+[1:28:45] goal seeking system is is a is a goal
+[1:28:48] that you can rewrite without changing
+[1:28:51] the hardware and the system will now
+[1:28:52] pursue that goal instead of something
+[1:28:54] else in a purely emergent system that
+[1:28:56] doesn't work right if you have a
+[1:28:57] cellular automaton or a fractal or
+[1:28:59] something that that does some kind of
+[1:29:01] complex thing if you want to change what
+[1:29:02] that complex thing is you have to figure
+[1:29:04] out what the local rule how to change
+[1:29:05] the local rules that's very hard in most
+[1:29:07] cases but what we found in planaria is
+[1:29:09] that we can literally using a voltage
+[1:29:12] reporter die we can look at the worm and
+[1:29:15] we can see now the pattern the the and
+[1:29:18] it's a distributed pattern but we can
+[1:29:19] see the pattern that tells this animal
+[1:29:21] how many heads it's supposed to have and
+[1:29:23] what you can do is you can go in and
+[1:29:25] using a a brief transient uh
+[1:29:29] manipulation of the ion Channels with
+[1:29:31] drugs with ION channel drugs that and we
+[1:29:33] have a computational model that tells
+[1:29:35] you what those drugs should be that
+[1:29:37] bring briefly changes the electrical
+[1:29:39] state of the circuit but the circuit is
+[1:29:41] amazing it's it it once you've changed
+[1:29:43] that state it holds so so by default it
+[1:29:46] in a standard planarian it always says
+[1:29:48] one head but but it's kind of like a
+[1:29:50] flip-flop in that when you you
+[1:29:51] temporarily shift it it holds and you
+[1:29:53] can push it to a to a state that says
+[1:29:55] two heads so now something very
+[1:29:57] interesting happens
+[1:29:58] um two interesting things one is that if
+[1:30:00] you if you take those worms and you cut
+[1:30:02] those into pieces you get two-headed
+[1:30:04] worms even though the genetics are the
+[1:30:06] hardware is all wild type there's
+[1:30:07] nothing wrong with Hardware all the
+[1:30:09] proteins are the same all the genetics
+[1:30:10] is the same but the electric circuit now
+[1:30:12] says make two heads instead of one and
+[1:30:14] so this is in in an interesting way it
+[1:30:17] is an explicit goal because you can
+[1:30:19] rewrite it because much like with your
+[1:30:21] thermostat there's an interface for
+[1:30:22] changing what the goal state is and then
+[1:30:24] you don't even need to know how the rest
+[1:30:25] of the thermostat works as long as you
+[1:30:26] know how to use your how to modify that
+[1:30:28] interface the system takes care of the
+[1:30:30] rest the other interesting thing is and
+[1:30:32] and I love what you said about the
+[1:30:34] counter factuals what you can do is you
+[1:30:37] can change that electrical pattern in an
+[1:30:39] intact worm
+[1:30:41] and not cut it for a long time and if
+[1:30:44] you do that when you look at that
+[1:30:45] pattern that is a counter factual
+[1:30:47] pattern because that two-headed pattern
+[1:30:49] is not a readout of the current state it
+[1:30:52] says two heads but the animal only has
+[1:30:54] one head it's a normal planarian so the
+[1:30:56] that pattern memory is not a readout of
+[1:30:59] what the animal is doing right now it is
+[1:31:01] a representation of what the animal will
+[1:31:03] do in the future if it happens to get
+[1:31:05] injured and you may never cut it or you
+[1:31:07] may cut it but if you do then the
+[1:31:09] pattern becomes uh then the cells
+[1:31:11] consult a pattern and build a two-headed
+[1:31:13] worm and then it becomes a you know the
+[1:31:15] current state but until then it's this
+[1:31:17] weird like primitive
+[1:31:19] um uh it's a primitive counterfactual
+[1:31:21] system because it's able to a body of a
+[1:31:23] planarian is able to store at least two
+[1:31:26] different
+[1:31:27] representations of what probably many
+[1:31:30] more but we found two so far what a
+[1:31:32] correct planarian should look like it
+[1:31:33] can have a memory of a one-headed
+[1:31:35] planarian or a memory of a two-headed
+[1:31:36] planarian and and and both of those can
+[1:31:39] live in exactly the same Hardware in
+[1:31:41] exactly the same the same body the other
+[1:31:43] kind of cool thing about this and um
+[1:31:46] I'll just mention this even though this
+[1:31:48] is this is you know disclaimer this is
+[1:31:50] not published yet so this is uh you know
+[1:31:52] take all this with a grain of salt the
+[1:31:54] the but but the the latest thing you can
+[1:31:56] do is you can actually treat it with
+[1:31:58] some of the same compounds that are used
+[1:32:00] in uh Neuroscience in in humans and in
+[1:32:03] rats as memory blockers so so things
+[1:32:06] that block recall or or memory
+[1:32:08] consolidation and when you do that you
+[1:32:10] can make the animal forget how many
+[1:32:12] heads it's supposed to have and then
+[1:32:13] they basically turn into a featureless
+[1:32:14] circle when when you can just wipe you
+[1:32:17] can just wipe the the pattern memory
+[1:32:18] completely with it using exactly the
+[1:32:20] same techniques you would use in a in a
+[1:32:22] rat or a human they just forget what to
+[1:32:24] do when they turn into they fail to
+[1:32:26] break Symmetry and they just become a
+[1:32:27] Circle so yeah I I think I think what
+[1:32:31] you were saying is is right on with with
+[1:32:33] this this ability to uh store
+[1:32:35] counterfactual states that are not true
+[1:32:37] now but may represent
+[1:32:39] aspects of the of the future I think
+[1:32:41] that's that's a very important capacity
+[1:32:44] another important notion is a constraint
+[1:32:46] uh constraint satisfaction a constraint
+[1:32:49] is a rule that tells you uh whether two
+[1:32:52] things are compatible or not and the
+[1:32:54] constraint is satisfied if they're
+[1:32:55] compatible so you basically have a
+[1:32:57] number of conditions that you establish
+[1:32:59] by measuring that somehow for instance
+[1:33:01] uh whether you have a head or multiple
+[1:33:04] heads and you try to find a solution
+[1:33:07] where you can end up with exactly one
+[1:33:09] head and if you end up with exactly one
+[1:33:11] head based on the starting State then
+[1:33:13] you have managed to find a way to
+[1:33:15] satisfy your constraints and so in a
+[1:33:18] sense uh what you call a competency is
+[1:33:21] the ability of a system to take a region
+[1:33:24] of this of states of the space of the
+[1:33:27] universe some basically some local
+[1:33:30] region of possible state that the Euros
+[1:33:32] can be in and move that region to a
+[1:33:36] smaller region that is acceptable so the
+[1:33:39] basically there is a region on the
+[1:33:40] universe State space where you have only
+[1:33:42] one head
+[1:33:43] and there's a larger region where you
+[1:33:44] don't have any head at all but the
+[1:33:46] starting state of your organism and then
+[1:33:48] you try to get from A to B so you get
+[1:33:50] from this larger region to the one in
+[1:33:52] which you want to be of course if you
+[1:33:55] have one head you want to stay in the
+[1:33:56] region in which you have one head which
+[1:33:58] of course is usually much easier but the
+[1:34:00] ability basically to condense the space
+[1:34:02] to get to Bridge Over many regions into
+[1:34:06] the target region is what comes down to
+[1:34:09] this this is what this competency is the
+[1:34:11] system basically has an emergent wanting
+[1:34:13] to go in this region and it's trying to
+[1:34:15] move there and so there are constraints
+[1:34:17] on the level of the substrate
+[1:34:19] uh that are battling with the functional
+[1:34:21] constraints that the organism wants to
+[1:34:23] realize to fulfill its function and
+[1:34:25] sometimes uh you cannot satisfy this and
+[1:34:28] you end up with two heads because you
+[1:34:29] don't know which one you'll get rid of
+[1:34:30] or how to digest one of the heads and so
+[1:34:33] on and you end up with some Siamese twin
+[1:34:37] and uh so this this is an interesting
+[1:34:40] constraint that you have to solve for
+[1:34:42] when you are dealing with reality and
+[1:34:44] how you battle with the substrate until
+[1:34:46] you get to the functional solution that
+[1:34:49] you evolve for
+[1:34:50] yeah it's that's that's interesting I
+[1:34:53] mean we we've also found that there are
+[1:34:56] so so we look at exactly this uh the the
+[1:35:00] navigation this kind of navigation and
+[1:35:02] Morpher space how you get from here to
+[1:35:03] there and what paths are possible to get
+[1:35:05] from here to there and so on one of the
+[1:35:07] things that we found is that there are
+[1:35:10] regions of that space that belong to
+[1:35:12] other species and you can you can push a
+[1:35:15] a planarian with a standard wild type
+[1:35:18] genome into the goal state of a
+[1:35:20] completely different species so we can
+[1:35:22] get them to grow ahead so there's a
+[1:35:23] species that normally has a triangular
+[1:35:25] head you can make it grow a round head
+[1:35:27] like a like an like a different species
+[1:35:28] or or a flathead or whatever uh you can
+[1:35:32] so those are about 100 100 to 150
+[1:35:35] million years of evolutionary distance
+[1:35:37] and you can do it you know within within
+[1:35:40] a few days just by um by by perturbing
+[1:35:43] that electrical circuit so that it lands
+[1:35:45] in the wrong space and then outside of
+[1:35:47] that there are regions that don't belong
+[1:35:50] to planaria at all so planaria are
+[1:35:52] normally nice and flat we can make we've
+[1:35:54] made planarians that are they look like
+[1:35:56] a they are cylinder like like a ski cap
+[1:35:58] you know they become like a like a like
+[1:35:59] a hemisphere or really weird ones that
+[1:36:02] are spiky they're they're like a ball
+[1:36:04] with spikes on it they're all kinds of
+[1:36:05] other uh regions in that space that you
+[1:36:07] can that you can push them to uh and so
+[1:36:11] those are new those are not species that
+[1:36:13] they diverge from those are no one's
+[1:36:15] ever said to my knowledge that's yes
+[1:36:17] there's no such there are no such
+[1:36:18] species
+[1:36:19] um it's easier to you know and we've
+[1:36:21] done this in frog too you can you can
+[1:36:22] push tadpoles to make it to look like
+[1:36:25] those of other species
+[1:36:27] um or you can make you know I mean
+[1:36:29] that's a whole interesting thing for
+[1:36:30] evolution anyway right what one species
+[1:36:32] birth defect is a pretty is a perfectly
+[1:36:34] reasonable different species so we can
+[1:36:36] make we can make tadpoles with a rounded
+[1:36:39] tail which for a xenopus tadpole is a
+[1:36:42] terrible Tale But for zebrafish that's
+[1:36:44] exactly the right tale so you can sort
+[1:36:46] of Imagine imagine right Evolution uh
+[1:36:49] manipulating the different information
+[1:36:51] processing whether whether by the
+[1:36:53] bioelectrical circuits or other other
+[1:36:55] Machinery uh that help the system
+[1:36:57] explore that morphe space and you know
+[1:37:00] start to
+[1:37:01] uh this is start to start to move away
+[1:37:04] from from whatever the you know that
+[1:37:05] speciation is moving away from your
+[1:37:07] standard attractor that you usually land
+[1:37:09] on how does this relate to intelligence
+[1:37:12] well intelligence is the ability to make
+[1:37:15] models and and usually in the service of
+[1:37:17] control at least that's the way I would
+[1:37:19] uh explain intelligence
+[1:37:22] there are other definitions but it's the
+[1:37:24] simplest one that I found it also
+[1:37:26] accounts for the fact that many
+[1:37:27] intelligent people are not very good at
+[1:37:29] getting things done uh that's it's
+[1:37:31] basically an intelligence and goal
+[1:37:33] rationality are support orthogonal
+[1:37:36] and excessive intelligence is often a
+[1:37:38] prosthesis for bad regulation have you
+[1:37:41] read the intelligence trap
+[1:37:44] no okay the author makes a similar case
+[1:37:47] and he's coming on shortly essentially
+[1:37:49] saying that there are certain traps that
+[1:37:51] people with high IQs have that are not
+[1:37:53] beneficial for them as biological beings
+[1:37:55] they're mainly cognitive biases so for
+[1:37:58] instance it's extremely interesting so
+[1:37:59] let's just give one of the biases to say
+[1:38:01] you're either liberal biased or you're
+[1:38:03] conservative biased and then you were to
+[1:38:05] give a test where there's some data that
+[1:38:07] says that on the surface it shows that
+[1:38:09] the data shows that gun control prevents
+[1:38:10] gun violence well the Liberals are more
+[1:38:13] likely to say yes this data does show
+[1:38:15] that but if you're conservative you're
+[1:38:17] more likely to find oh actually the
+[1:38:19] subtleties in the data show that gun
+[1:38:20] control increases gun violence and then
+[1:38:23] they thought okay well let's just switch
+[1:38:25] this to make it such that The
+[1:38:26] Superficial data suggests that gun
+[1:38:28] control increases violence you need to
+[1:38:31] look at the data carefully to show that
+[1:38:32] it actually prevents violence well the
+[1:38:33] conservatives in that case would be more
+[1:38:35] quickly to say oh look the gun control
+[1:38:37] increases violence and the Liberals
+[1:38:39] would find the the loophole well that's
+[1:38:41] one of the reasons why I don't mind
+[1:38:43] interviewing people who are biased
+[1:38:45] because to me they're more able to find
+[1:38:47] a justification for something that that
+[1:38:49] may be true but I or and others are so
+[1:38:52] well we all have our own biases we're so
+[1:38:55] inclined in some other direction that we
+[1:38:56] just we're blind to it but anyway the
+[1:38:59] point is to affirm what you're saying
+[1:39:00] yosha okay so I know Michael has a hard
+[1:39:02] cut off at 2PM so I want to ask the
+[1:39:04] question for AGI that is artificial
+[1:39:07] general intelligence it seems as though
+[1:39:09] we're far away or that our current
+[1:39:11] methods of machine learning and what we
+[1:39:14] learn in Neuroscience or or what we
+[1:39:16] learn in computer science is something
+[1:39:18] that we're missing some paradigm shift
+[1:39:20] or we're missing some new techniques is
+[1:39:22] there something from Michael's work
+[1:39:23] Yoshi I'm asking you this and then
+[1:39:25] Michael please respond is there
+[1:39:26] something from Michael's work that you
+[1:39:28] think can be applied to the development
+[1:39:30] of AGI if such a creature mind can exist
+[1:39:33] because there are some arguments against
+[1:39:35] it so first of all I don't know how far
+[1:39:37] we are for the HEI it could be that the
+[1:39:39] existing private names are sufficient to
+[1:39:40] brute force it
+[1:39:41] but we don't know that yet right so
+[1:39:43] we're going to find out in the next few
+[1:39:45] months uh but it could also be that we
+[1:39:48] need to rewrite the stack to build
+[1:39:49] systems that work in real time that are
+[1:39:51] entangled with the environment that can
+[1:39:53] build uh shared representations with the
+[1:39:56] environment and uh that we need to
+[1:39:58] rewrite the stack and there are actually
+[1:40:00] a number of questions that I'd like to
+[1:40:02] ask Michael
+[1:40:04] um what uh I noticed that Michael is
+[1:40:07] wisely reluctant to use certain words
+[1:40:09] like Consciousness a lot and it's
+[1:40:11] because a lot of people are very
+[1:40:13] opinionated about what these concepts
+[1:40:14] mean and you first have to deal with
+[1:40:16] these opinions before you come down to
+[1:40:18] saying oh here I have the following
+[1:40:20] proposal for implementing reflexive
+[1:40:21] attention as a tool to form coherence
+[1:40:24] and a representation and this leads to
+[1:40:27] the same phenomena as what you call
+[1:40:29] consciousness
+[1:40:30] right so uh that is is a detailed
+[1:40:33] discussion maybe you don't want to have
+[1:40:34] that discussion in every Foreman rather
+[1:40:36] than uh that and then having this
+[1:40:37] discussion you may be looking at uh how
+[1:40:40] to create coherence using a reflexive
+[1:40:42] attention process that makes a real-time
+[1:40:44] model of what it's attending to and the
+[1:40:47] fact that it's attending to it so it
+[1:40:48] remains coherent but for itself so this
+[1:40:51] is a concrete thing but uh I wonder how
+[1:40:54] to implement this in a self-organized
+[1:40:56] fashion if the substrate that you have
+[1:40:58] are individual agents and there is a
+[1:41:00] similarity here between societies and
+[1:41:04] brains and social networks
+[1:41:07] that is uh if you have
+[1:41:09] self-interested agents in a way that try
+[1:41:12] to survive
+[1:41:13] and that get their rewards from other
+[1:41:15] agents that are similar to them
+[1:41:17] structurally
+[1:41:19] and and they have the capacity to learn
+[1:41:22] to some degree
+[1:41:23] and that capacity is sufficient so they
+[1:41:27] can in the aggregate learn arbitrary
+[1:41:30] programs arbitrary computable functions
+[1:41:34] and it's efficient enough so they can
+[1:41:37] Converge on the functions that they need
+[1:41:38] to to as a group reap rewards that apply
+[1:41:42] to the whole group because they have a
+[1:41:44] shared Destiny like the poor little
+[1:41:46] cells that are locked in the same skull
+[1:41:47] and they are all going to die together
+[1:41:49] if they up so they have to get
+[1:41:52] along they have to form an organization
+[1:41:54] that is Distributing rewards among each
+[1:41:56] other and this gives us a search space
+[1:41:58] for possible systems that can exist and
+[1:42:01] the search space is mostly given I think
+[1:42:04] by the minimal agent that is able to
+[1:42:08] learn how to distribute rewards
+[1:42:09] efficiently
+[1:42:11] while doing something useful using these
+[1:42:13] rewards to change how you do something
+[1:42:15] useful so you have an emerging form of
+[1:42:17] governance in these systems there's not
+[1:42:20] some centralized control that is imposed
+[1:42:22] on the system from the outside as an
+[1:42:24] existing machine learning approaches and
+[1:42:25] AI approaches but this is this only is
+[1:42:28] an emergent pattern in the interactions
+[1:42:30] between the individual small units small
+[1:42:32] reinforcement learning agents and this
+[1:42:35] control architecture leads to
+[1:42:37] hierarchical government it's not fully
+[1:42:39] decentralized in any way there are
+[1:42:41] centralized structures that distribute
+[1:42:42] rewards for instance via the
+[1:42:44] dopaminergic system and very centralized
+[1:42:46] top-down Manner and that's because every
+[1:42:48] regulation has an optimal layer where it
+[1:42:50] needs to take place some stuff needs to
+[1:42:52] be decided very high up some stuff needs
+[1:42:54] to be optimally regulated very low down
+[1:42:56] depending on the incentives game
+[1:42:58] theoretically a government is an agent
+[1:43:00] that imposes an offset on your payoff
+[1:43:02] metrics to make your Nash equilibrium
+[1:43:06] compatible with the globally best
+[1:43:08] outcome
+[1:43:10] right so to to do this you need to have
+[1:43:12] agents that are sensitive to rewards
+[1:43:14] it's super interesting to think about
+[1:43:16] these reward infrastructures Elon Musk
+[1:43:18] has bought Twitter I think because he
+[1:43:20] has realized that Twitter is the network
+[1:43:22] of among all the social networks that is
+[1:43:24] closest to a global brain
+[1:43:27] it's totally mind-blowing to realize
+[1:43:29] that he basically trades a bunch of
+[1:43:30] frothy stock for the opportunity to
+[1:43:33] become Pope pope of a religion that has
+[1:43:36] more active participants than
+[1:43:38] Catholicism even right daily
+[1:43:40] practitioning people who enter this
+[1:43:42] church and think together and it's a
+[1:43:44] thing that is completely incoherent at
+[1:43:45] this point almost and completely
+[1:43:46] incorrect the bubbles of sentience but
+[1:43:49] for the most part this thing is just
+[1:43:50] screeching at itself
+[1:43:52] and now the SD question can we fix the
+[1:43:54] incentives of Twitter to turn it into a
+[1:43:56] global brain
+[1:43:57] and a Elon Musk is global brain build he
+[1:43:59] believes that this is the case and
+[1:44:01] that's the experiment that he is trying
+[1:44:03] to do which makes me super excited right
+[1:44:05] this might fail is a very big chance
+[1:44:07] that it fails but there is also the
+[1:44:09] chance that we get the global brain that
+[1:44:11] we get emerging collective intelligence
+[1:44:13] it is working in real time using the
+[1:44:15] internet in a way that didn't exist
+[1:44:17] before so super fascinating thing that
+[1:44:19] might happen here and it's fascinating
+[1:44:22] that very few people are seeing this
+[1:44:24] that Elon Musk is crazy enough to to
+[1:44:26] spend 44 billion dollars on that
+[1:44:29] experiment just because he can and has
+[1:44:31] nothing else to do with things it's
+[1:44:32] meaningful to do it more meaningful than
+[1:44:34] having so much money in the bank right
+[1:44:36] so this makes me interested in this test
+[1:44:41] bed for rewards and this is something
+[1:44:43] that translates into the way in which
+[1:44:44] society is organized because social
+[1:44:46] media is not different from society not
+[1:44:48] separate from it problem of governing
+[1:44:50] social media is exactly the same thing
+[1:44:52] as governing a society you need a right
+[1:44:54] form of government you need a legal
+[1:44:56] system ultimately you need
+[1:44:58] representation and all these issues
+[1:45:00] right it's not just the moderation team
+[1:45:01] and the same thing is also true for the
+[1:45:04] brain what is the government of the
+[1:45:06] brain that emerges in what Gary Edelman
+[1:45:09] calls neural Darwinism among different
+[1:45:11] forms of organization in the mind until
+[1:45:13] you have a model of a self-organizing
+[1:45:15] agent that discovers that what it's
+[1:45:17] Computing is driving the behavior of an
+[1:45:19] agent in the real world and discovers a
+[1:45:20] first person perspective and so on how
+[1:45:22] does that work how can we get a system
+[1:45:24] that is looking for the right incentive
+[1:45:26] architecture and that is basically the
+[1:45:29] main topic where I I think that where
+[1:45:32] Michael's research is pointing from from
+[1:45:35] my perspective that is super interesting
+[1:45:37] we have this overlap between the looking
+[1:45:40] at cells and looking at the world and of
+[1:45:42] humans and animals and stuff in general
+[1:45:47] yeah yeah so super interesting um we so
+[1:45:51] so Chris fields and I are are working on
+[1:45:54] a model of of on a framework to
+[1:45:57] understand the the
+[1:45:59] where where
+[1:46:01] um Collective agents first come from
+[1:46:03] right oh well how Auto police is how do
+[1:46:05] they organize themselves and we've we've
+[1:46:08] we've we've got a model already about
+[1:46:11] this idea of of rewards and sells
+[1:46:13] rewarding other cells with with
+[1:46:15] neurotransmitters and things like this
+[1:46:17] to keep copies of themselves nearby
+[1:46:19] because they're the most predictable so
+[1:46:21] so this idea of reducing surprise well
+[1:46:23] what's the least surprising thing it's a
+[1:46:25] copy of yourself and so you can sort of
+[1:46:27] this with Chris calls it the Imperial
+[1:46:29] model of multicellularity but one thing
+[1:46:31] to really think about here is Imagine an
+[1:46:34] embryo this is a um an amniote embryo
+[1:46:37] let's say a human or or a bird or
+[1:46:39] something like that and what you have
+[1:46:40] there is you have a flat disk of fifty
+[1:46:43] to ten thousand fifty thousand cells and
+[1:46:46] when people look at it you say what is
+[1:46:48] that they say it's an embryo one one
+[1:46:50] embryo well the reason it's one embryo
+[1:46:52] is that under normal conditions what's
+[1:46:54] going to happen is that in this in this
+[1:46:57] disc one cell is symmetry breaking one
+[1:47:00] cell is going to decide that it's the
+[1:47:02] organizer it's going to do local
+[1:47:03] activation long range inhibition it's
+[1:47:05] going to tell all the other cells you're
+[1:47:07] not the organizer I'm the organizer and
+[1:47:09] as a result you get one special point
+[1:47:11] that uh begins uh the a process that's
+[1:47:15] going to walk through this amorphous
+[1:47:17] space and create a particular
+[1:47:19] large-scale structure with two eyes and
+[1:47:21] four legs and whatever else it's going
+[1:47:22] to have but here's the interesting thing
+[1:47:25] those cells that's not really one embryo
+[1:47:27] that's that's um a weird kind of
+[1:47:29] Freudian ocean of potentiality what I
+[1:47:32] mean by that is if you take and I did
+[1:47:34] this as a grad student you can take a
+[1:47:35] needle and you can put a little scratch
+[1:47:37] through that blastoderm put a little
+[1:47:39] scratch through it what will happen is
+[1:47:41] the cells on either side of that scratch
+[1:47:43] don't feel each other they don't hear
+[1:47:45] each other's signals so that symmetry
+[1:47:47] breaking process will happen twice once
+[1:47:49] on each end and then when it heals
+[1:47:51] together what you end up with is two
+[1:47:53] conjoined twins because because each
+[1:47:55] side organized an embryo and now you've
+[1:47:57] got two conjoined twins now many
+[1:48:00] interesting things happen there uh one
+[1:48:03] is that every cell is some other cells
+[1:48:06] in external environment so in order to
+[1:48:08] make an embryo you have to self-organize
+[1:48:11] A system that puts an arbitrary boundary
+[1:48:13] between itself and the outside world you
+[1:48:15] have to decide where do I end and the
+[1:48:17] world begins and it's not given to you
+[1:48:19] uh you know somehow um from outside for
+[1:48:22] a biological system every biological
+[1:48:24] system has to figure this out for itself
+[1:48:25] unlike modern robotics or whatever where
+[1:48:27] it's very clear here's where you are
+[1:48:29] here's where the world is these are your
+[1:48:30] reflectors these are your sensors here's
+[1:48:32] the boundary of the outside world living
+[1:48:34] things don't have any of that they have
+[1:48:35] to figure out all of this out from
+[1:48:36] scratch the benefit to being able to
+[1:48:39] figure it out from scratch having to
+[1:48:41] figure out from scratch is that you are
+[1:48:43] then compatible with all kinds of weird
+[1:48:46] initial conditions for example if I
+[1:48:47] separate you in half you can make two
+[1:48:49] you can make twins you don't you don't
+[1:48:51] have a failure you know a total failure
+[1:48:52] because now you have half the number of
+[1:48:54] cells you can make twins you can make
+[1:48:55] triplets but probably you know many more
+[1:48:58] than that so if you ask the question you
+[1:49:00] look at that um blasted room and you ask
+[1:49:02] how many individuals are there you
+[1:49:04] actually don't know it could be zero it
+[1:49:06] could be one it could be some small
+[1:49:07] number of individuals that process of
+[1:49:10] Auto releases has to happen and and and
+[1:49:13] here all the here are a number of things
+[1:49:15] that that are uniquely biological that
+[1:49:17] that I think relate to the kind of
+[1:49:20] flexibility plasticity uh that you need
+[1:49:22] for for for AGI in whatever space it
+[1:49:25] doesn't have to be the same space that
+[1:49:27] we work in but your your boundaries are
+[1:49:30] not set for you by an outside Creator
+[1:49:32] you have to figure out where your
+[1:49:33] boundaries are where is the outside
+[1:49:34] world so you make hypotheses about where
+[1:49:37] you end and where the world begins you
+[1:49:39] don't actually know what your structure
+[1:49:41] is kind of like Bond guards robots from
+[1:49:42] 2006 where they didn't know their
+[1:49:44] structure and they had to make
+[1:49:45] hypotheses about well do I have wheels
+[1:49:47] do I have legs what do I have and then
+[1:49:49] make a model based on basically babbling
+[1:49:52] right like the way that babies babble so
+[1:49:55] so you have to figure out you have to
+[1:49:56] make a model of of where the boundary is
+[1:49:58] you have to make a model of what your
+[1:50:00] structure is you are energy limited
+[1:50:02] which most the most Ai and Robotics
+[1:50:04] nowadays are not when your energy and
+[1:50:06] time limited it means that you cannot
+[1:50:09] pay attention to everything you are
+[1:50:11] forced to coarse grain in some way and
+[1:50:13] lose a lot of information and compress
+[1:50:14] it down so you have to you have to
+[1:50:16] choose a lens a coarse graining lens on
+[1:50:19] the world and figure out how you're
+[1:50:20] going to represent things
+[1:50:22] um uh and and all of this has to and and
+[1:50:25] there are many more things that we could
+[1:50:27] talk about but all of these things are
+[1:50:29] self-constructions from the from the
+[1:50:31] very beginning and and then and then you
+[1:50:33] have to you have to uh you start to act
+[1:50:35] in various in various spaces which again
+[1:50:37] are not predefined for you you have to
+[1:50:40] solve problems that are metabolic
+[1:50:41] physiological anatomical maybe
+[1:50:43] behavioral if you have muscles
+[1:50:45] um but but nobody's telling nobody's
+[1:50:48] defining the space for you
+[1:50:50] um for example if you're a bacterium a
+[1:50:51] Chris field zupo points this out if
+[1:50:53] you're a bacterium and you're in some
+[1:50:54] sort of chemical gradient you want to
+[1:50:57] increase the amount of sugar in your
+[1:50:59] environment you could act in
+[1:51:01] three-dimensional Space by physically
+[1:51:02] swimming up the gradient or you can act
+[1:51:05] in transcriptional Space by turning on
+[1:51:07] other genes that are better at
+[1:51:08] converting whatever sugar happens to be
+[1:51:10] around and that solves your your
+[1:51:12] metabolic problem instead of right so
+[1:51:13] you have these hybrid problem spaces so
+[1:51:16] all of this I think what what
+[1:51:18] contributes in a strong sense to all the
+[1:51:20] things that that we were just talking
+[1:51:21] about is the fact that everything is in
+[1:51:23] in biology is self-constructed from the
+[1:51:25] beginning you can't rely on you don't
+[1:51:27] know ahead of time when you're a new
+[1:51:28] creature Born Into the world and we have
+[1:51:30] many I have many examples of of this
+[1:51:32] kind of stuff you don't know how many
+[1:51:34] cells you have how big your cells are
+[1:51:35] you can't count on any of the priors so
+[1:51:38] you have this like weird thing that
+[1:51:39] Evolution makes these these machines
+[1:51:42] that don't take the past history too
+[1:51:45] seriously it doesn't over train on them
+[1:51:46] it makes problem-solving machines that
+[1:51:49] use whatever Hardware you have this is
+[1:51:50] why we can make weird chimeras and and
+[1:51:53] and cyborgs and and you can mix things
+[1:51:55] and mix and match the biology in every
+[1:51:57] in every way with other living things or
+[1:52:00] with with non-living things because all
+[1:52:03] of this is interoperable because it does
+[1:52:04] not make assumptions about what you have
+[1:52:06] to have it tries to solve whatever
+[1:52:08] problem it's given it plays the hands
+[1:52:10] that it's dealt and um that that that
+[1:52:13] results in uh that assumption that you
+[1:52:16] cannot uh you cannot trust what you come
+[1:52:19] into the world with you cannot assume
+[1:52:20] that the hardware is what it is it gives
+[1:52:22] rise to a lot of that intelligence I
+[1:52:24] think and a lot of that plasticity so if
+[1:52:27] you translate this into necessary
+[1:52:28] insufficient conditions what seems to be
+[1:52:31] necessary for the emergence of general
+[1:52:34] intelligence in bunch of cells or units
+[1:52:37] is that basically each of them is a
+[1:52:41] small agent which means it's able to
+[1:52:44] behave with an expectation of minimizing
+[1:52:46] future Target value deviations so it
+[1:52:49] learns that the configurations
+[1:52:50] environment that signal anticipated
+[1:52:52] reward next thing these units need to be
+[1:52:55] not just agents that need to be
+[1:52:57] connected to each other
+[1:52:58] and they need to get their Rewards or
+[1:53:01] proxy rewards something that allows them
+[1:53:03] to anticipate whether the organism is
+[1:53:04] going to feed them in the future from
+[1:53:06] other units that also adaptive
+[1:53:09] so you need multiple message types and
+[1:53:12] the ability to recognize and send them
+[1:53:14] with a certain degree of reliability
+[1:53:17] uh what else do you need you need enough
+[1:53:19] of them of course
+[1:53:21] what what's not clear to me is how
+[1:53:23] deterministic do the units need to be
+[1:53:25] how much memory do they need to be or
+[1:53:27] which way how much State can they store
+[1:53:29] how much uh
+[1:53:31] how deep in time does the indeed
+[1:53:33] recollection need to go and how much
+[1:53:35] forward in time do they need to be able
+[1:53:37] to form expectations so basically how
+[1:53:40] large is this activation front that they
+[1:53:43] can or this or the shape of the
+[1:53:45] distribution that they can learn
+[1:53:47] and have to learn to make this whole
+[1:53:49] thing happen
+[1:53:50] and so basically the conditions that are
+[1:53:53] necessary are relatively simple
+[1:53:56] if you just wait for long enough and get
+[1:53:58] a search assistance to percolate I
+[1:54:00] imagine that the compound agency will at
+[1:54:02] some level emerge on the system just in
+[1:54:05] the competition of
+[1:54:07] um possibilities in the same way as
+[1:54:09] emerging agency has emerged on Twitter
+[1:54:11] in a way with
+[1:54:13] um devoke religion in a way that people
+[1:54:15] who are starting to shift around their
+[1:54:18] behavior to maximize likes and retweets
+[1:54:20] and there was no external reward that
+[1:54:22] was given on Twitter so as a result a
+[1:54:24] local structure emerged a local agency
+[1:54:26] that was Shifting the rewards by itself
+[1:54:28] an emerging causal structure that was in
+[1:54:31] some sense in Dawn what causation
+[1:54:33] going to organize groups of people into
+[1:54:35] a behavioral things it's really
+[1:54:39] interesting to look at better as
+[1:54:41] something like a mind at some level
+[1:54:44] right it's working slower but it would
+[1:54:46] probably be possible to make a
+[1:54:47] simulation of these Dynamics in a more
+[1:54:50] abstract way and to use this for
+[1:54:51] arbitrary problem solving
+[1:54:53] and so what would an experiment look
+[1:54:56] like in which we start with these
+[1:54:58] necessary conditions and narrow down the
+[1:55:00] sufficient conditions yeah
+[1:55:03] yeah yeah very very right on and that's
+[1:55:06] I mean yeah we're doing some of that
+[1:55:07] stuff uh some of that kind of modeling I
+[1:55:09] apologize I've got a I've got a um I've
+[1:55:12] gotta run here thank you both for coming
+[1:55:14] out for this I appreciate it thank you
+[1:55:15] so much and thank you for bringing us
+[1:55:16] together so a great great conversation I
+[1:55:18] really enjoyed it so yeah thank you
+[1:55:20] anyways I've enjoyed it very much thank
+[1:55:22] you thank you thank you so much thanks
+[1:55:24] Russia the podcast is now concluded
+[1:55:26] thank you for watching if you haven't
+[1:55:28] subscribed or clicked on that like
+[1:55:30] button now would be a great time to do
+[1:55:31] so as each subscribe and like helps
+[1:55:35] YouTube push this content to more people
+[1:55:36] also I recently found out that external
+[1:55:39] links count plenty toward the algorithm
+[1:55:41] which means that when you share on
+[1:55:43] Twitter on Facebook on Reddit
+[1:55:45] Etc it shows YouTube that people are
+[1:55:47] talking about this outside of YouTube
+[1:55:49] which in turn greatly AIDS the
+[1:55:51] Distribution on YouTube as well if you'd
+[1:55:53] like to support more conversations like
+[1:55:55] this then do consider visiting
+[1:55:57] theoriesofeverything.org again it's
+[1:55:59] support from the sponsors and you that
+[1:56:01] allow me to work on top full time you
+[1:56:04] get early access to ad-free audio
+[1:56:06] episodes there as well every dollar
+[1:56:08] helps far more than you may think either
+[1:56:10] way your viewership is generosity enough
+[1:56:12] thank you

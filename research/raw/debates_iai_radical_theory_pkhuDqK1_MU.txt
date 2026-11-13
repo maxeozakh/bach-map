@@ -1,0 +1,398 @@
+# source: https://www.youtube.com/watch?v=pkhuDqK1_MU
+# generated=True lang=en
+[0:00:00] Consciousness is a simulated state it
+[0:00:01] can only exist in dreams not in
+[0:00:04] [Music]
+[0:00:08] physics what do we mean by Consciousness
+[0:00:11] the confusion that we have with
+[0:00:12] Consciousness is that we think it's must
+[0:00:14] be a physical thing because it's really
+[0:00:16] existing but for to really exist things
+[0:00:19] don't need to be physically implemented
+[0:00:21] for instance money is not physical right
+[0:00:23] yet you cannot explain our reality if
+[0:00:25] you assume that money doesn't exist it
+[0:00:27] is implemented in reality it's
+[0:00:29] implemented using uh little sheets of
+[0:00:31] paper that we print numbers on in bank
+[0:00:33] accounts in computers and so on and so
+[0:00:35] on and we use it to structure reality it
+[0:00:36] has causal power money is a pattern with
+[0:00:39] CA of power that exists because we
+[0:00:40] project it in a stable way into the
+[0:00:42] world right and money exists as if it
+[0:00:45] was real it's virtual in a way but it's
+[0:00:48] implemented in such a way that it works
+[0:00:50] and our mental states are in the same
+[0:00:52] category they are virtual there is exist
+[0:00:54] as if if you zoom in and you see the
+[0:00:56] matter interacting you see just these
+[0:00:58] patterns in the activation between
+[0:00:59] neurons neurons are not conscious they
+[0:01:01] physical mechanisms right brains are not
+[0:01:04] conscious but for a brain it would be
+[0:01:05] very useful to know what it would be
+[0:01:07] like if there was a person that cared
+[0:01:08] and perceived everything as it happens
+[0:01:11] and so they create a simulation of this
+[0:01:12] that exists virtually as if a dream and
+[0:01:16] we exist in that dream Consciousness is
+[0:01:17] a simulated state it can only exist in
+[0:01:19] dreams not in physics and this is this
+[0:01:22] big conundrum that we experience we
+[0:01:23] notice that we exist in a dream right
+[0:01:25] it's a big conspiracy magic is possible
+[0:01:27] and yet the physicists tell us that it's
+[0:01:29] not physics is talking about a parent
+[0:01:31] universe that is made out of Arcane
+[0:01:33] mathematics quantum mechanics and so on
+[0:01:35] we can never visit this parent Universe
+[0:01:37] because in physics you cannot be
+[0:01:38] conscious you can only be conscious in a
+[0:01:40] dream and physics has the property of
+[0:01:42] creating brains and organisms that can
+[0:01:44] dream and Machines of other
+[0:01:47] types our perception of reality is a
+[0:01:50] trans in a dream we can deconstruct it
+[0:01:52] if you wake up we realize it's just a
+[0:01:54] representation so but can we compare our
+[0:01:57] digital computers at all to human brains
+[0:01:59] and at super different and there are
+[0:02:01] human brains not too complicated like an
+[0:02:03] individual neuron is so complicated that
+[0:02:05] you would need at least a 12 layer
+[0:02:06] neural network to understand what it's
+[0:02:08] doing in with respect to its input and
+[0:02:10] output right so how many computers would
+[0:02:13] it take to emulate a human brain if an
+[0:02:14] individual neuron is already so
+[0:02:16] complicated this would be an
+[0:02:17] astronomical number right but we also
+[0:02:19] need to ask from the other direction how
+[0:02:21] many brains would it take to emulate a
+[0:02:23] computer like this how many human brains
+[0:02:25] would you need if you want to run Meco
+[0:02:26] without flaws also an astronomical
+[0:02:28] number right because our brain is very
+[0:02:30] mushy very slow very noisy very
+[0:02:34] unreliable and so when we want to get a
+[0:02:36] better handle of how to compare this it
+[0:02:39] usually take an example like this when
+[0:02:41] stable diffusion uh came out the Bates
+[0:02:43] of stability AI that was learning a
+[0:02:46] diffusion model to make sense of all the
+[0:02:47] visual data they put millions of
+[0:02:49] pictures into this and found the
+[0:02:50] statistical regularities in them so you
+[0:02:52] can prompt this and generate an
+[0:02:54] arbitrary picture and this model
+[0:02:56] contains an entire visual Universe at a
+[0:02:58] much higher Fidelity in depths and
+[0:02:59] variety than a human brain it has all
+[0:03:01] celebrities all dinosaurs all spaceships
+[0:03:04] all Artistic Styles everything is in
+[0:03:05] there you can download it it's the first
+[0:03:07] version was 2
+[0:03:08] gigabytes it's quite depressing 80% of
+[0:03:11] what your brain is doing is in 2
+[0:03:13] gigabytes and it's actually much
+[0:03:16] more so uh to just to get an idea of how
+[0:03:19] simple we actually are we're just very
+[0:03:21] very efficient using this mushy
+[0:03:23] substrate so of course these systems are
+[0:03:26] designed in a very different way we have
+[0:03:28] an outside in design and computers they
+[0:03:30] stabilized by our sub that we build
+[0:03:32] deterministically so it's behaving in a
+[0:03:35] very
+[0:03:36] well fashioned way we know what it's
+[0:03:38] going to do in every moment and uh the
+[0:03:40] training is decoupled we give it static
+[0:03:42] data it's not interacting with the world
+[0:03:43] while it's training it is based on a
+[0:03:45] prediction Paradigm and it uses machine
+[0:03:47] learning training algorithms and our
+[0:03:49] mind is very different our brains are
+[0:03:51] using an inside out design it's self
+[0:03:53] organizing it's coupled with the
+[0:03:54] environment in real time it's optimizing
+[0:03:56] for coherence and it's continuously
+[0:03:58] developing itself so Tech technological
+[0:04:00] design is this outside in where you have
+[0:04:01] a desk where you understand everything
+[0:04:02] you understand all your tools and then
+[0:04:04] you are extending this by building an
+[0:04:06] additional mechanism that extends your
+[0:04:07] desk and gives it more functionality and
+[0:04:10] in nature this is the other way around
+[0:04:12] you have a seed for instance the seeding
+[0:04:14] of a tree that is by itself not a tree
+[0:04:15] yet but it wants to become a tree and to
+[0:04:17] do this it needs to colonize a chaotic
+[0:04:19] environment subdue it turn it into
+[0:04:21] something that it understands that it
+[0:04:22] can work with and one way of doing this
+[0:04:25] is it splits into lots of units that
+[0:04:26] behave pretty much the same so they
+[0:04:28] become predictable and then it creates
+[0:04:30] some kind of scalable Colony that is
+[0:04:31] becoming larger and larger and this is
+[0:04:34] how this Inside Out design Works in
+[0:04:36] nature and also in our own
+[0:04:38] mind if you look at the individual
+[0:04:40] neuron these are Mouse neurons embryonal
+[0:04:42] ones you see they are all singles set
+[0:04:43] animals that try to survive each of them
+[0:04:45] self directed and they have to link up
+[0:04:47] and find an organization among each
+[0:04:49] other that works or otherwise they will
+[0:04:50] St to death and this is how it works
+[0:04:53] it's completely inside out and there so
+[0:04:56] there was a branch in computer science
+[0:04:57] that looked at these principles of self
+[0:04:59] organ iation so far it didn't get really
+[0:05:01] far but it already started with steing
+[0:05:03] looked at reaction diffusion patterns
+[0:05:06] chemical reactions that give you regular
+[0:05:07] patterns that can be dynamic and looked
+[0:05:09] can we use them to understand
+[0:05:10] computation and self-organizing systems
+[0:05:13] and uh then some people like Alex Morin
+[0:05:16] who's working at Google in Zurich build
+[0:05:17] simulations that are more modern that uh
+[0:05:20] try to generate such patterns in a
+[0:05:21] general case and um then I come this
+[0:05:25] idea of cellular automata by conve and
+[0:05:27] others where we buil computation and a
+[0:05:29] systematic way out of simple uh systems
+[0:05:31] that only look at the state of their
+[0:05:33] neighbors of their environment and then
+[0:05:34] change State accordingly to what they
+[0:05:36] observe in their environment and the
+[0:05:38] biologist Mike Levan is working with
+[0:05:40] this expanding this into neural cellular
+[0:05:42] automata they explain development in
+[0:05:44] organism but also possibly the self
+[0:05:46] organization our brain and so we can
+[0:05:49] already take this to learn for instance
+[0:05:50] textures and so on would be really
+[0:05:52] interesting is to try if you can learn
+[0:05:54] arbitrary functions to control Behavior
+[0:05:56] with that self organizing principles and
+[0:05:58] uh the uh neuroscientist Jerry Adelman
+[0:06:01] suggests that our genome is not encoding
+[0:06:04] very specific architecture for our brain
+[0:06:06] instead in everybody's mind there is an
+[0:06:08] evolution going on an original
+[0:06:10] competition between different forms of
+[0:06:11] governance and there is only enough
+[0:06:13] information in genome to bias that
+[0:06:15] competition so it converges relatively
+[0:06:17] quickly into the right architecture so
+[0:06:19] it's every mind is an evolving system
+[0:06:21] everyone has an individual Evolution our
+[0:06:23] mind for structure and I suspect that
+[0:06:26] Consciousness is very very instrumental
+[0:06:28] there because it's this main principle
+[0:06:30] of the organization we typically think
+[0:06:32] that Consciousness is extremely
+[0:06:33] sophisticated maybe only we have it it's
+[0:06:36] super rare in nature uh it's really the
+[0:06:38] Pinnacle of things but you don't get
+[0:06:40] conscious after the PHD right you become
+[0:06:42] conscious before you can track a finger
+[0:06:45] so uh you also noticed if somebody is
+[0:06:47] not getting conscious as an infant
+[0:06:49] they're not getting anywhere they remain
+[0:06:50] a vegetable and while we are not
+[0:06:51] conscious we cannot actually learn right
+[0:06:54] so it seems to be simple learning
+[0:06:55] algorithm in nature for a self
+[0:06:57] organizing system that's a hypothesis I
+[0:06:59] don't know that's true but I think it's
+[0:07:01] very tempting to think like this that
+[0:07:02] Consciousness comes first not last in
+[0:07:05] mental
+[0:07:06] organization and uh so maybe it's more
+[0:07:08] simple than perception and thinking and
+[0:07:10] everything else and all the other stuff
+[0:07:12] comes from the organization that
+[0:07:13] Consciousness uh imposes on it it's much
+[0:07:16] more ubiquitous in nature than we think
+[0:07:18] and maybe uh we are not the first ones
+[0:07:19] to discover on this and I suspect that
+[0:07:22] this theory has always been hidden in
+[0:07:24] plain sight there is a text that is uh
+[0:07:27] the old dis known copy of it is um
+[0:07:29] something like 100 to 200 years before
+[0:07:32] Christ and uh it was integrated into the
+[0:07:35] Hebrew Books probably around 500 BC but
+[0:07:38] it might be uh a lot older than this
+[0:07:42] apparently and this uh text is the first
+[0:07:44] chapter of Genesis and if you ever read
+[0:07:47] this text it's very cryptic much more
+[0:07:49] than the others right this describes
+[0:07:50] this H Elohim hovering over this uh
+[0:07:53] waters before there's anything else
+[0:07:55] where there's no no space No Time No
+[0:07:58] Light No Darkness but there's already
+[0:07:59] water and then it builds a firmament
+[0:08:01] that separates the waters above the
+[0:08:02] firmament from below the firmament and
+[0:08:04] you know how the whole thing end it
+[0:08:05] creates Us in its own image I don't like
+[0:08:07] anything like a spirit hovering over the
+[0:08:08] waters right uh what does this mean uh
+[0:08:12] also where these people confused right
+[0:08:14] telling a story about the creation of a
+[0:08:16] physical Universe by a supernatural
+[0:08:18] being what kind of experiments do they
+[0:08:19] claim to have made did they talk to a
+[0:08:21] burning bush in which universe is this
+[0:08:23] valid experiment but who would believe
+[0:08:26] that maybe this is there something else
+[0:08:28] maybe the story actually mean is a
+[0:08:30] six-step theory about the emergence of
+[0:08:33] uh Consciousness and cognition in a mind
+[0:08:35] because the universe that we are in is a
+[0:08:37] dream right we dream this universe that
+[0:08:39] we are in there are no colors and sounds
+[0:08:40] and emotions and facial expressions in
+[0:08:42] physics they all exist in our minds as
+[0:08:44] ways to make sense of reality and the
+[0:08:47] physical Universe back then when this
+[0:08:48] text was written was not a thing people
+[0:08:50] haven't discovered this idea of
+[0:08:51] describing Universe this short
+[0:08:53] differential equations instead they
+[0:08:56] realized we are in a dream and that so
+[0:08:57] they observed in themselves and in
+[0:08:59] others and their children how the stream
+[0:09:01] is forming and so this all starts out
+[0:09:04] with Consciousness hovering over the
+[0:09:06] substrate we now know that the substrate
+[0:09:08] are neurons they didn't know that so
+[0:09:09] they just used the word substrate and
+[0:09:11] the next people didn't know what
+[0:09:12] substrate means so they translated as
+[0:09:14] water and so Consciousness forms on the
+[0:09:17] substrate and substrate is analized into
+[0:09:20] and then we make a separation this
+[0:09:21] firmament between two areas of the
+[0:09:23] substrate one is the world model the
+[0:09:26] stuff that we perceive as stuff in space
+[0:09:27] perception which de later calls res
+[0:09:30] extensa and everything else is ideas
+[0:09:32] thoughts Reflections that are
+[0:09:34] asynchronous to our perception that
+[0:09:35] happen independently of it and they're
+[0:09:38] clearly separated right because if you
+[0:09:39] were perceiving your thoughts you would
+[0:09:41] be hallucinating them and you could not
+[0:09:43] function so you have a clear separation
+[0:09:45] between the world and the ideas sphere
+[0:09:47] and in this all text the world is called
+[0:09:50] Earth and the other one Heaven the
+[0:09:52] sphere of ideas so the next thing is it
+[0:09:54] uh figures out to create oscillations in
+[0:09:56] there and it takes the intensity of the
+[0:09:58] oscillation as you see is its brightness
+[0:10:00] with the color of the day and the
+[0:10:01] flatness of this uh contrast with dark
+[0:10:04] in this way it now has a continuous
+[0:10:06] Dimension and by combining Dimensions we
+[0:10:07] can create objects and the first object
+[0:10:10] it makes is by combining two Dimension
+[0:10:11] is the plane and the plane gets
+[0:10:13] associated with the ground and the baby
+[0:10:15] happly crawls on the ground and makes
+[0:10:16] sense of it in 2D and at some point it's
+[0:10:19] able to discover the third dimension and
+[0:10:21] now it can reason about how to build a
+[0:10:22] tower for instance which very small
+[0:10:24] babies cannot really understand and then
+[0:10:27] it figures out how to make solid objects
+[0:10:29] in liquid and organic shapes and so on
+[0:10:31] and it understands how lighting change
+[0:10:33] over time and becomes invariant against
+[0:10:35] changes in lighting and then it creates
+[0:10:37] all the plants and the animals and gives
+[0:10:39] them all their names right again this is
+[0:10:42] not physical objects it's objects in spa
+[0:10:44] in your mind that have
+[0:10:45] names and then it's also creating a
+[0:10:48] model of the interest of the organism
+[0:10:50] and it realizes that the purpose of the
+[0:10:52] exercise is to navigate the organism in
+[0:10:55] the world and then at some point it
+[0:10:58] identifies as the organ ISM and we see
+[0:11:00] this in children typically happening
+[0:11:01] between 2 and a half and 5 years old
+[0:11:03] that they talk about themselves in the
+[0:11:05] first person before that they can
+[0:11:07] already talk and they talk about
+[0:11:08] themselves in a third person and I don't
+[0:11:10] think that's because I is such a
+[0:11:11] complicated word or because they never
+[0:11:13] hear anybody using it it is I think
+[0:11:15] because they do not identify in the
+[0:11:17] first person before they make this
+[0:11:19] switch before the switch to this
+[0:11:21] different spirit that is created in the
+[0:11:23] image of the original Consciousness but
+[0:11:25] is something that thinks of itself as
+[0:11:27] man as woman and woman something that
+[0:11:28] ident ifies as a human being right so we
+[0:11:31] are basically created by our
+[0:11:33] Consciousness by our infant baby
+[0:11:34] Consciousness in our mind and then put
+[0:11:37] into this world in the simulation world
+[0:11:38] that our mind is creating and then we
+[0:11:40] forget that we created this world in our
+[0:11:42] own mind and identify as this human
+[0:11:44] being that is in this world and it's
+[0:11:46] subjected to it and at some point we can
+[0:11:49] start meditating or we take acid and
+[0:11:51] then wake up from this again and realize
+[0:11:53] oh my God I'm actually not that self
+[0:11:54] model I'm not that self that self is
+[0:11:57] just a model of a person that doesn't
+[0:11:58] actually exist it's a story that My Mind
+[0:12:00] Is Telling itself and I'm actually the
+[0:12:03] universe I'm everything and then you
+[0:12:05] wake up a little bit more and you
+[0:12:06] realize oh no I'm actually the thing
+[0:12:07] that generates it all I am the generator
+[0:12:10] of everything that I'm interacting with
+[0:12:12] that makes sense to me right so what
+[0:12:16] Consciousness is basically creating is a
+[0:12:18] very sophisticated natural learning
+[0:12:20] algorithm a self-perpetuating
+[0:12:21] intelligent recurrent information
+[0:12:24] Transformer abbreviated
+[0:12:27] spirit Spirit is basically organizing
+[0:12:29] software agent oh my God we have just
+[0:12:31] rediscovered
+[0:12:33] something there are software agents in
+[0:12:35] nature a software agent is a causal
+[0:12:38] pattern that is able to change things
+[0:12:40] but it's not physical right the software
+[0:12:42] in this computer is not physical but
+[0:12:43] it's causal it can change things and
+[0:12:45] it's stable and if it's in nature it
+[0:12:47] needs to be self-stabilizing it needs to
+[0:12:49] entrain itself on the substrate and
+[0:12:50] control the substrate so it can be
+[0:12:52] implemented and it's a very interesting
+[0:12:54] perspective if we realize that the
+[0:12:55] actual invariance in living things is
+[0:12:57] not the molecules of this cells or the
+[0:13:00] mechanisms or the genes but the software
+[0:13:02] that is running on them that's a very
+[0:13:04] interesting perspective it's basically
+[0:13:07] animism to continue watching this video
+[0:13:09] click the link in the top left or in the
+[0:13:11] description below or visit I a.tv for
+[0:13:14] more debates and talks from the world's
+[0:13:16] leading thinkers on today's biggest
+[0:13:18] ideas

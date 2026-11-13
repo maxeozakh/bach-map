@@ -1,0 +1,252 @@
+# source: https://www.youtube.com/watch?v=civc01IZCcY
+# generated=True lang=en
+[0:00:00] it sounds like an AI prompter right
+[0:00:02] write me Indiana Jones but with a
+[0:00:05] [Music]
+[0:00:09] shark AI is going to turn us all into
+[0:00:13] paper clips and M render the world in uh
+[0:00:16] incapable of of supporting human life to
+[0:00:18] which I say I think you're talking about
+[0:00:20] limited liability companies and to the
+[0:00:22] extent that you are afraid of it maybe
+[0:00:25] you're afraid of it for the same reason
+[0:00:26] that science fiction stories have always
+[0:00:28] resonated with us that making up stories
+[0:00:31] about things that might happen in the
+[0:00:33] future allows us to surface our fears
+[0:00:35] and aspirations for what's going on now
+[0:00:38] and so I think that there is good reason
+[0:00:40] to be very afraid of AI I think that
+[0:00:42] like our bosses want to fire our asses
+[0:00:44] and replace us with computer programs
+[0:00:46] and they don't care if they work right
+[0:00:48] how many times have we called an
+[0:00:49] interactive voice voice response system
+[0:00:51] that replaced a human operator and gone
+[0:00:53] 17 no 17 17 17 operator operate 17 right
+[0:01:02] we know that our bosses don't care if
+[0:01:03] the machine works because all the boss
+[0:01:05] cares about is that in a condition of
+[0:01:07] heavy Market concentration there's
+[0:01:09] nowhere else to go and so you're just
+[0:01:10] going to sit there on hold waiting to
+[0:01:11] talk to EasyJet about your missing bags
+[0:01:13] for as long as it takes and they don't
+[0:01:15] have to pay the the wage bill of a of an
+[0:01:17] operator I live in Burbank California
+[0:01:19] now there's picket lines all over my
+[0:01:21] neighborhood from striking screenwriters
+[0:01:23] when they describe their relations with
+[0:01:25] producers with uh with Studio execs it
+[0:01:27] sounds like an AI prompter right write
+[0:01:30] me Indiana Jones but with a shark make
+[0:01:32] the shark a baby shark right can you add
+[0:01:36] a cute kitten in the second act this is
+[0:01:39] just like write me instructions for
+[0:01:41] removing a sandwich from a VCR in the
+[0:01:43] style of the King James Bible Hollywood
+[0:01:45] Edition a lot of American cultural
+[0:01:47] production is like this right it's mass
+[0:01:49] produced very cheaply done by a simple
+[0:01:52] cooking recipe and this is stuff that
+[0:01:54] can be replaced and I think this is a
+[0:01:56] very big opportunity because it means it
+[0:01:58] frees up human creativity to do
+[0:02:00] something meaningful it's not that we
+[0:02:01] are going to produce less not we're
+[0:02:03] going to starve we still need to figure
+[0:02:05] out how to distribute and allocate but
+[0:02:07] this is always a problem of the economy
+[0:02:09] that is somewhat orthogonal to the
+[0:02:10] ability to produce I grew up in Eastern
+[0:02:12] Germany we were a very Equitable Society
+[0:02:14] but we didn't produce so uh our
+[0:02:17] standard of living was much much lower
+[0:02:19] than the US which is an extremely broken
+[0:02:21] Society but for country of 400 million
+[0:02:24] people I don't know any that is more
+[0:02:26] livable at this scale it's very hard to
+[0:02:28] organize big system I know is of course
+[0:02:30] a topic that let us hallucinate our
+[0:02:33] favorite thing like the fight between
+[0:02:35] ingroup and outgroup my favorite
+[0:02:37] political activism against capitalism
+[0:02:38] and for more communism and so on you can
+[0:02:41] all project this in there uh the
+[0:02:43] psychologist Robert Keegan from Harvard
+[0:02:45] has this idea of personality development
+[0:02:46] in stages and uh most people are in
+[0:02:49] stage three where they form opinions
+[0:02:50] based on assimilating them from the
+[0:02:52] environment at stage four you disc
+[0:02:54] discover what's true and false
+[0:02:55] independently of others and you get
+[0:02:56] agency over your beliefs you become
+[0:02:57] rational and at stage five you disc over
+[0:03:00] how identity is constructed and who you
+[0:03:02] can be and why people are different
+[0:03:03] people than you and this this very few
+[0:03:06] people get to this stage where we go
+[0:03:07] therapists get to stage five usually but
+[0:03:10] uh all the AI safety discussion seems to
+[0:03:12] be happening along these three stages
+[0:03:14] stage three people are scared that the
+[0:03:15] air has bad opinions because we form our
+[0:03:17] morality from other people right we if
+[0:03:19] the AI is going to be racist and sexist
+[0:03:22] we all going to be racist and sexist
+[0:03:23] this is horrible if you need to make
+[0:03:24] sure that the I is only spouting correct
+[0:03:26] opinions if you're a rationalist you're
+[0:03:28] not worried if the opinion is wrong a
+[0:03:30] will prove that it's wrong right uh you
+[0:03:32] just need more data a better model and
+[0:03:34] so on but you're worried about utility
+[0:03:35] function what if the AI is turning
+[0:03:37] everybody into a paperclip that would be
+[0:03:38] horrible right but if you're at stage
+[0:03:40] five you just wonder is the AI going to
+[0:03:42] be enlightened fast enough right and
+[0:03:45] this is what you should be concerned
+[0:03:46] about so the question is can you imagine
+[0:03:48] a system that is slightly different than
+[0:03:50] CH gbt because I'm not quite sure what
+[0:03:52] the boundaries of that is maybe it gets
+[0:03:54] better at AI research than AI
+[0:03:55] researchers right and can walk the rest
+[0:03:57] of the way even though it's boot forcing
+[0:03:59] it but but uh it's clearly not learning
+[0:04:01] like we are it's getting coherent in the
+[0:04:03] limit the more data you feed in the more
+[0:04:05] coherent the output is and if you give
+[0:04:07] it the entire Internet it's like 99%
+[0:04:09] coherent right because it can never get
+[0:04:11] all the data but our human minds work
+[0:04:14] very differently we as babies start out
+[0:04:16] to take in only stuff that makes us more
+[0:04:17] coherent right the stuff that makes you
+[0:04:19] less cerent you ignore it until you can
+[0:04:21] put it in so it's a different loss
+[0:04:23] function but maybe we can put that loss
+[0:04:25] function into GPT five and it's going to
+[0:04:27] convert to coherence first and then n
+[0:04:29] learn style and inres much later like we
+[0:04:32] do right so it's possible that we can
+[0:04:34] build systems like this maybe the
+[0:04:36] Paradigm is surf maybe you should start
+[0:04:37] out building a cat let's build a really
+[0:04:39] decent cat cats are conscious all right
+[0:04:41] right they are somewhat social and uh
+[0:04:43] they can be quite dominating but we
+[0:04:45] don't need to be scared of cats and uh
+[0:04:48] because they also try to fit in right if
+[0:04:50] maybe we build such a thing as a
+[0:04:51] paradigm something that self-organizing
+[0:04:53] something that is conscious that is
+[0:04:55] trying to become coherent and try to
+[0:04:57] imitate some of those principles from
+[0:04:59] nature Andy to figure out how they
+[0:05:01] work yeah so just on that point like
+[0:05:03] well why haven't people tried to build a
+[0:05:05] build a cat yet I mean these were
+[0:05:07] programs in AI robotics in the 1980s
+[0:05:11] people say okay we're aiming too high we
+[0:05:13] need to go back can we build a
+[0:05:15] grasshopper can we build a robot with
+[0:05:16] the sensory motor skills of an animal
+[0:05:19] that is not considered that intelligent
+[0:05:21] and what they run into is what's known
+[0:05:22] as Mor's Paradox it's much easier to
+[0:05:25] replicate in machines the skills that
+[0:05:28] people take to be difficult and
+[0:05:30] indicative of us as like the top level
+[0:05:34] of intelligence in the living world so
+[0:05:37] chess was done fairly early logic
+[0:05:40] problem solving math and now language
+[0:05:43] people can do in machines language
+[0:05:45] production people can do in machines but
+[0:05:48] self-driving cars are not here so the
+[0:05:50] things that animals do really easily
+[0:05:53] just getting about their world sensing
+[0:05:56] acting fast adaptively and intelligently
+[0:05:59] when I say grasshopper flies they act
+[0:06:02] intelligently in their environment
+[0:06:03] they're much much harder to mechanize
+[0:06:05] and I think this is a there's a
+[0:06:07] philosophically deep reason why this is
+[0:06:10] this is one of the factors that leads me
+[0:06:12] to that view that there's something
+[0:06:14] about the connection between
+[0:06:16] intelligence and being alive that the AI
+[0:06:19] research program is missing out on and
+[0:06:22] sort of what llms and other AIS have
+[0:06:25] done is kind of like Tred to get that
+[0:06:28] convergence with this
+[0:06:30] know something that people do a narrowly
+[0:06:33] defined cognitive capacity like sentence
+[0:06:36] completion and you can get in at that
+[0:06:38] top level but without all of that ground
+[0:06:40] level Foundation coming up of access to
+[0:06:43] the world through sensory motor
+[0:06:44] engagement then it's not going to expand
+[0:06:48] out into something which understands an
+[0:06:51] environment and gracefully makes its way
+[0:06:54] around an environment can Encompass all
+[0:06:56] kinds of different information and
+[0:06:58] points of view and can be creative etc
+[0:07:01] etc um I mean one thing about machines I
+[0:07:04] was also sort of prompted to say there
+[0:07:06] is that all Technologies exist within an
+[0:07:09] within an ecosystem that human beings
+[0:07:12] build for them so the fact that these
+[0:07:15] machines are very narrowly intelligent
+[0:07:17] and in some way just single-minded and
+[0:07:19] stupid but they're still very functional
+[0:07:21] because we build the system around them
+[0:07:23] which can utilize their power and kind
+[0:07:26] of patch up for their
+[0:07:27] deficiencies and the the very fact that
+[0:07:30] culturally we're in this environment in
+[0:07:32] which yeah producers just want the kind
+[0:07:35] of stuff that a machine could do anyway
+[0:07:37] it's like well yeah we're part of the
+[0:07:39] way towards automation anyway because of
+[0:07:42] how we've already organized labor and so
+[0:07:44] in that context the machine will give
+[0:07:46] you all you want because you've
+[0:07:48] generated the environment already in
+[0:07:50] which the machine is just you know
+[0:07:53] waiting to be delivered but then we have
+[0:07:55] to ask ourselves is that the kind of
+[0:07:57] world we want like do we want world to
+[0:07:59] be the perfect ecosystem for machines as
+[0:08:03] opposed to us with all of our different
+[0:08:06] quirky ways which are not very machine
+[0:08:08] like I think that this is very well said
+[0:08:10] you know I I I think that um some people
+[0:08:13] mistake science fiction for a predictive
+[0:08:15] literature as though my colleagues are
+[0:08:16] sort of pocket nostradamus's telling you
+[0:08:19] what's going to come in the future and I
+[0:08:20] think that that there's nothing more
+[0:08:22] dismal than the idea that the future can
+[0:08:24] be predicted because it implies that
+[0:08:25] there's no role for human agency or
+[0:08:27] human Choice it's just another way of
+[0:08:29] repeating Thatcher's Axiom that there is
+[0:08:31] no alternative or you know the the vogon
+[0:08:34] abandon uh uh resistance is futile or
+[0:08:37] Dante saying abandoned hope all you who
+[0:08:38] enter here we get to decide how our
+[0:08:41] technology is used this is not a
+[0:08:43] foregone conclusion will we have GPT 5
+[0:08:46] will it be owned by the people who
+[0:08:48] currently own gp4 people who have a
+[0:08:51] company called open artificial
+[0:08:52] intelligence which is neither open nor
+[0:08:54] artificial nor intelligence to continue
+[0:08:56] watching this video click the link in
+[0:08:58] the top left or in the description below
+[0:09:01] or visit I a.tv for more debates and
+[0:09:03] talks from the world's leading thinkers
+[0:09:05] on today's biggest ideas

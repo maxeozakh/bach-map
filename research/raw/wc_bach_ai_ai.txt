@@ -1,0 +1,26 @@
+AI and Cognition - Joscha Bach You are using an outdated browser. Please upgrade your browser to improve your experience.
+AI and Cognition
+ How to build an artificially intelligent plant
+Ever wondered how to infuse an ordinary houseplant with some intelligence, while keeping its personality?
+ On Marvin Minsky
+Marvin Minsky has passed away from us last night. Nobody else in the 20th century has influenced our work and our way of looking at what makes us human like Marvin did.
+ Why Artificial Intelligence won’t just be a bit smarter than humans
+If we ever build intelligent systems that are somewhat comparable to human performance, it is almost impossible for them to remain at a near-human levels.
+ A tale of two machines
+How is it possible that we can be conscious of a universe that at the same time computes us? How can we observe the progression of a universe that we are part of?
+ Jaron Lanier pisses me off
+Jaron Lanier dismisses the prospect of human-like AI. This could be interesting if he did not do it on faulty technical premises and ridiculous cultural arguments; Lanier is intellectually fraudulent.
+ A puzzle game that makes us build a complete computer
+If you should happen to be interested in how to turn an abstracted version of basic electronic circuitry into a puzzle game, read on.
+ My first look into the Julia language
+Julia is a rather new programming language; it started out in 2009 and is being developed by bunch of scientific programmers at the MIT.
+ Old Wire Frame AI
+On the fourth day, we dug up the old wire machine. Y had discovered it first: A stunning and brilliantly constructed, entirely mechanical computer…
+ Some vague ideas on building a secure email service
+A secure email service should not only encrypt messages end-to-end, but also meta-data. It should work without disclosing senders and recipients to third parties, and work asynchronously. Here is a possible solution.
+ Another Perversion of Human Thought Processes
+My first word was… GOTO. At least as far as programming languages are concerned. It turns out that GOTO captures a fundemental thing about how our computers work, and how our minds don’t work.
+ Don’t Care about Meaning
+Here’s a short email exchange with Caryn, on the common mix-up of meaning and relevance, kept for myself and posteriority.
+ Why the western world view abhors Artificial Intelligence
+AI violates some of the basic metaphysical intuitions of Western thinking. Cultural opposition to AI is probably grounded in Christian dualism.

@@ -1,0 +1,1 @@
+{"errors":[{"location":"query","param":"limit","value":50,"msg":"Invalid value"},{"location":"query","param":"offset","value":"50","msg":"Invalid value"}]}

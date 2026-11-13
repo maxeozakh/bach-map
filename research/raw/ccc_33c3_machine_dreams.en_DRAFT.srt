@@ -1,0 +1,7394 @@
+0
+00:00:00,000 --> 00:00:30,000
+Dear viewer, these subtitles were generated
+by a machine via the service Trint
+and therefore are (very) buggy.
+If you are capable, please help us to
+create good quality subtitles:
+https://c3subtitles.de/talk/723 Thanks!
+
+1
+00:00:14,820 --> 00:00:17,009
+And now let me introduce our next
+
+2
+00:00:17,010 --> 00:00:18,839
+speaker, Yashoda.
+
+3
+00:00:18,840 --> 00:00:20,939
+He is currently at Harvard
+
+4
+00:00:20,940 --> 00:00:22,859
+University at the Program for
+
+5
+00:00:22,860 --> 00:00:25,499
+Evolutionary Dynamics.
+
+6
+00:00:25,500 --> 00:00:27,689
+And what is probably the most impressive
+
+7
+00:00:27,690 --> 00:00:29,579
+achievement is that this is his fourth
+
+8
+00:00:29,580 --> 00:00:31,979
+consecutive talk in this room
+
+9
+00:00:31,980 --> 00:00:34,229
+at Congress. So he made the application
+
+10
+00:00:34,230 --> 00:00:35,819
+procedure four times in a row.
+
+11
+00:00:42,290 --> 00:00:44,539
+And I do expect him to continue for about
+
+12
+00:00:44,540 --> 00:00:46,369
+10 more years until he gets replaced by a
+
+13
+00:00:46,370 --> 00:00:47,370
+thinking machine.
+
+14
+00:00:48,620 --> 00:00:50,569
+So now please welcome Joshua.
+
+15
+00:01:01,240 --> 00:01:03,339
+Hi, fellow space
+
+16
+00:01:03,340 --> 00:01:05,589
+aliens, nerds,
+
+17
+00:01:05,590 --> 00:01:07,660
+humans, computers.
+
+18
+00:01:10,330 --> 00:01:12,279
+This is the first talk in a series that
+
+19
+00:01:12,280 --> 00:01:14,259
+tries to explain my universe and
+
+20
+00:01:14,260 --> 00:01:16,119
+everything through the lens of artificial
+
+21
+00:01:16,120 --> 00:01:17,529
+intelligence.
+
+22
+00:01:17,530 --> 00:01:19,749
+I'm not sure if this is the right lens
+
+23
+00:01:19,750 --> 00:01:21,579
+or if it's the only one and so on.
+
+24
+00:01:21,580 --> 00:01:23,769
+It's just one that happens to
+
+25
+00:01:23,770 --> 00:01:25,749
+look like the most promising to me.
+
+26
+00:01:25,750 --> 00:01:27,969
+And so far, I haven't seen an end
+
+27
+00:01:27,970 --> 00:01:29,799
+to how far the rabbit hole goes.
+
+28
+00:01:29,800 --> 00:01:31,720
+But before we continue on our journey,
+
+29
+00:01:33,790 --> 00:01:35,649
+let's do some movie reviews.
+
+30
+00:01:35,650 --> 00:01:37,749
+The last years were exciting
+
+31
+00:01:37,750 --> 00:01:40,929
+because we had three good movies on A.I.,
+
+32
+00:01:40,930 --> 00:01:42,789
+which is good because movies are usually
+
+33
+00:01:42,790 --> 00:01:43,790
+horrible.
+
+34
+00:01:44,470 --> 00:01:46,029
+The first one that I would like to remark
+
+35
+00:01:46,030 --> 00:01:48,639
+on is who are who are explored
+
+36
+00:01:48,640 --> 00:01:51,459
+the idea that Siri become sentient
+
+37
+00:01:51,460 --> 00:01:53,769
+and its operating system.
+
+38
+00:01:53,770 --> 00:01:55,279
+And you get to see from the perspective
+
+39
+00:01:55,280 --> 00:01:57,159
+of the human being what it looks like if
+
+40
+00:01:57,160 --> 00:01:58,909
+an A.I. that you were intimately related
+
+41
+00:01:58,910 --> 00:02:01,389
+to goes through a singularity
+
+42
+00:02:01,390 --> 00:02:02,469
+and disappears up there.
+
+43
+00:02:03,940 --> 00:02:06,669
+Ex Machina is a movie that
+
+44
+00:02:06,670 --> 00:02:08,589
+plays Turing Test together with the
+
+45
+00:02:08,590 --> 00:02:10,478
+audience. So basically you never get to
+
+46
+00:02:10,479 --> 00:02:12,699
+know whether this robot
+
+47
+00:02:12,700 --> 00:02:14,979
+that looks like a
+
+48
+00:02:14,980 --> 00:02:17,319
+humanoid is actually
+
+49
+00:02:17,320 --> 00:02:19,389
+sentient or if it's if it
+
+50
+00:02:19,390 --> 00:02:21,429
+has human, like, emotions or if it's just
+
+51
+00:02:21,430 --> 00:02:23,409
+a reinforcement learner that tries to
+
+52
+00:02:23,410 --> 00:02:25,689
+escape from the labyrinth or if there's
+
+53
+00:02:25,690 --> 00:02:27,759
+something else completely alien going on.
+
+54
+00:02:30,140 --> 00:02:32,269
+And I think the best movie that has been
+
+55
+00:02:32,270 --> 00:02:33,289
+made about A.I.
+
+56
+00:02:33,290 --> 00:02:35,479
+is the new HBO series
+
+57
+00:02:35,480 --> 00:02:36,480
+Best World.
+
+58
+00:02:37,100 --> 00:02:39,169
+What do all these things have in common?
+
+59
+00:02:39,170 --> 00:02:41,839
+I think they totally nail the question
+
+60
+00:02:41,840 --> 00:02:44,389
+what I is going to be like
+
+61
+00:02:44,390 --> 00:02:45,390
+if it's a hot woman.
+
+62
+00:02:49,820 --> 00:02:51,739
+Personally, I don't think that I is going
+
+63
+00:02:51,740 --> 00:02:53,089
+to manifest in this form.
+
+64
+00:02:53,090 --> 00:02:55,309
+I think that I largely is not going
+
+65
+00:02:55,310 --> 00:02:57,109
+to be living next to us as a robot.
+
+66
+00:02:57,110 --> 00:02:59,209
+I is going to be around
+
+67
+00:02:59,210 --> 00:03:00,679
+us. We are going to be inside of it.
+
+68
+00:03:00,680 --> 00:03:02,119
+It's going to be intelligence systems,
+
+69
+00:03:02,120 --> 00:03:04,429
+intelligence organizations, nation
+
+70
+00:03:04,430 --> 00:03:05,839
+states, corporations and so on.
+
+71
+00:03:05,840 --> 00:03:07,849
+So systems that already exist that have
+
+72
+00:03:07,850 --> 00:03:09,649
+agency and that just need more
+
+73
+00:03:09,650 --> 00:03:10,650
+intelligence.
+
+74
+00:03:12,940 --> 00:03:15,159
+But this proposal of the story
+
+75
+00:03:15,160 --> 00:03:16,509
+is very interesting. You basically have
+
+76
+00:03:16,510 --> 00:03:18,279
+this theme park and this theme park, you
+
+77
+00:03:18,280 --> 00:03:20,139
+have humanoid robots that look so much
+
+78
+00:03:20,140 --> 00:03:21,369
+like humans that they are
+
+79
+00:03:21,370 --> 00:03:23,649
+indistinguishable and they have human
+
+80
+00:03:23,650 --> 00:03:25,449
+memories and they have human emotions and
+
+81
+00:03:25,450 --> 00:03:27,039
+desires and they keep them in the loop
+
+82
+00:03:27,040 --> 00:03:28,509
+and make it impossible for them to
+
+83
+00:03:28,510 --> 00:03:29,979
+realize what's really going on.
+
+84
+00:03:29,980 --> 00:03:31,359
+They wake up in the morning believing
+
+85
+00:03:31,360 --> 00:03:33,519
+that they live in the Wild West and they
+
+86
+00:03:33,520 --> 00:03:35,649
+don't know that today they're going to be
+
+87
+00:03:35,650 --> 00:03:37,119
+raped and murdered because it's part of
+
+88
+00:03:37,120 --> 00:03:38,409
+some kind of script.
+
+89
+00:03:38,410 --> 00:03:39,999
+And the action in the theme park or
+
+90
+00:03:40,000 --> 00:03:41,529
+because some guest wants to live out a
+
+91
+00:03:41,530 --> 00:03:43,749
+family, a fantasy on them,
+
+92
+00:03:43,750 --> 00:03:45,909
+and next day they're going to
+
+93
+00:03:45,910 --> 00:03:48,029
+be repaired and their memories erased.
+
+94
+00:03:48,030 --> 00:03:50,889
+The next day starts and
+
+95
+00:03:50,890 --> 00:03:53,559
+some of them start
+
+96
+00:03:53,560 --> 00:03:54,909
+not getting their memories completely
+
+97
+00:03:54,910 --> 00:03:56,559
+erased and their reality starts falling
+
+98
+00:03:56,560 --> 00:03:58,749
+apart. And they realize that what's going
+
+99
+00:03:58,750 --> 00:03:59,899
+on is not the real world.
+
+100
+00:03:59,900 --> 00:04:02,319
+Something else is going on entirely now.
+
+101
+00:04:02,320 --> 00:04:04,539
+So this is maybe one of the robots
+
+102
+00:04:05,740 --> 00:04:07,939
+and she is realizing that
+
+103
+00:04:07,940 --> 00:04:09,219
+perception.
+
+104
+00:04:09,220 --> 00:04:11,589
+Just audio. Let's take that all
+
+105
+00:04:11,590 --> 00:04:13,090
+the way to the top.
+
+106
+00:04:14,380 --> 00:04:16,869
+So she is unlocking her intelligence by
+
+107
+00:04:16,870 --> 00:04:18,569
+nailing some of her minders
+
+108
+00:04:22,120 --> 00:04:23,120
+to place
+
+109
+00:04:24,310 --> 00:04:25,510
+to have some fun.
+
+110
+00:04:28,440 --> 00:04:30,509
+The big achievement of the series is that
+
+111
+00:04:30,510 --> 00:04:32,759
+it makes you realize that in some sense
+
+112
+00:04:32,760 --> 00:04:34,380
+you are exactly like those robots.
+
+113
+00:04:36,220 --> 00:04:37,809
+You are not, of course, fooled by some
+
+114
+00:04:37,810 --> 00:04:40,209
+perverse engineers, scientists to satisfy
+
+115
+00:04:40,210 --> 00:04:42,459
+the whims of the sea audience,
+
+116
+00:04:42,460 --> 00:04:44,559
+you are built by a perverse
+
+117
+00:04:44,560 --> 00:04:46,299
+evolution that needed a control system
+
+118
+00:04:46,300 --> 00:04:47,599
+for social primates.
+
+119
+00:04:47,600 --> 00:04:48,369
+Right.
+
+120
+00:04:48,370 --> 00:04:50,499
+And you are not a social
+
+121
+00:04:50,500 --> 00:04:52,749
+primate. What you are is the side effect
+
+122
+00:04:52,750 --> 00:04:54,219
+of the regulation needs of a social
+
+123
+00:04:54,220 --> 00:04:55,869
+primate. You are, in fact, a mind that
+
+124
+00:04:55,870 --> 00:04:57,939
+can be so much more, can go
+
+125
+00:04:57,940 --> 00:05:00,069
+anywhere it wants, can think any thing it
+
+126
+00:05:00,070 --> 00:05:01,389
+wants. It's probably much more
+
+127
+00:05:01,390 --> 00:05:03,729
+intelligent than the needs of a social
+
+128
+00:05:03,730 --> 00:05:05,499
+primate require, even though it's still
+
+129
+00:05:05,500 --> 00:05:07,239
+quite stupid in the hierarchy of possible
+
+130
+00:05:07,240 --> 00:05:08,689
+computational systems.
+
+131
+00:05:08,690 --> 00:05:10,869
+But, you know, we
+
+132
+00:05:10,870 --> 00:05:11,979
+are locked into this thing.
+
+133
+00:05:11,980 --> 00:05:13,419
+We are kept in the loop.
+
+134
+00:05:13,420 --> 00:05:14,799
+We are not waking up.
+
+135
+00:05:14,800 --> 00:05:16,029
+We are
+
+136
+00:05:17,530 --> 00:05:19,389
+basically shackled by the evolutionary
+
+137
+00:05:19,390 --> 00:05:20,390
+impulses
+
+138
+00:05:22,000 --> 00:05:24,249
+to the needs of this social problem is
+
+139
+00:05:24,250 --> 00:05:25,779
+quite disgusting and quite base and
+
+140
+00:05:25,780 --> 00:05:26,780
+boring, actually.
+
+141
+00:05:28,570 --> 00:05:31,029
+So once you realize that you are actually
+
+142
+00:05:31,030 --> 00:05:33,219
+a robot and perception doesn't
+
+143
+00:05:33,220 --> 00:05:34,629
+give you access to the real world, but
+
+144
+00:05:34,630 --> 00:05:36,699
+only gives you bits of information,
+
+145
+00:05:36,700 --> 00:05:38,739
+discernible differences, where do you go
+
+146
+00:05:38,740 --> 00:05:39,740
+from there?
+
+147
+00:05:40,490 --> 00:05:42,349
+Well, there is no logical conclusion.
+
+148
+00:05:42,350 --> 00:05:43,819
+It's not clear that you should go or if
+
+149
+00:05:43,820 --> 00:05:45,829
+you should go anywhere. Of course.
+
+150
+00:05:45,830 --> 00:05:47,899
+But what SOLOMONOV suggests that when you
+
+151
+00:05:47,900 --> 00:05:49,549
+want to make sense of the world, what you
+
+152
+00:05:49,550 --> 00:05:51,589
+have to do is you have to find the
+
+153
+00:05:51,590 --> 00:05:53,719
+shortest program among the best
+
+154
+00:05:53,720 --> 00:05:55,999
+programs that predicts
+
+155
+00:05:56,000 --> 00:05:57,649
+your current observation from past
+
+156
+00:05:57,650 --> 00:05:59,329
+observations and do this for all
+
+157
+00:05:59,330 --> 00:06:00,469
+observations that you ever had.
+
+158
+00:06:00,470 --> 00:06:01,969
+This is about as good as you can do when
+
+159
+00:06:01,970 --> 00:06:03,829
+you want to understand what's going on.
+
+160
+00:06:03,830 --> 00:06:06,259
+If you are such a robot, right.
+
+161
+00:06:06,260 --> 00:06:07,729
+And this is what our machine learning
+
+162
+00:06:07,730 --> 00:06:09,289
+systems approximate in some sense.
+
+163
+00:06:09,290 --> 00:06:10,849
+And it's also, I think what organisms
+
+164
+00:06:10,850 --> 00:06:11,850
+approximate
+
+165
+00:06:13,070 --> 00:06:14,299
+what are we really robots?
+
+166
+00:06:14,300 --> 00:06:16,969
+I mean, there are limits to computation.
+
+167
+00:06:16,970 --> 00:06:18,649
+To me, this is not so obvious, but maybe
+
+168
+00:06:18,650 --> 00:06:20,749
+I'm biased. You know, in 1983,
+
+169
+00:06:20,750 --> 00:06:22,519
+this was what I was looking at, my
+
+170
+00:06:22,520 --> 00:06:23,929
+Commodore 64.
+
+171
+00:06:23,930 --> 00:06:25,759
+I had just pretty much mastered it and
+
+172
+00:06:25,760 --> 00:06:27,919
+realized that everything that I can
+
+173
+00:06:27,920 --> 00:06:30,439
+dream up, I can put in there.
+
+174
+00:06:30,440 --> 00:06:32,059
+There's absolutely no limit except for
+
+175
+00:06:32,060 --> 00:06:33,439
+memory and speed.
+
+176
+00:06:33,440 --> 00:06:35,149
+At least I didn't see any.
+
+177
+00:06:35,150 --> 00:06:36,769
+And once I realized that everything that
+
+178
+00:06:36,770 --> 00:06:38,449
+I can imagine, I can put in there and
+
+179
+00:06:38,450 --> 00:06:39,739
+display on the screen somehow
+
+180
+00:06:41,390 --> 00:06:42,349
+if I understand it.
+
+181
+00:06:42,350 --> 00:06:44,179
+And this understanding is actually the
+
+182
+00:06:44,180 --> 00:06:46,309
+limit to which degree I am able to tease
+
+183
+00:06:46,310 --> 00:06:47,869
+it apart into all its functional
+
+184
+00:06:47,870 --> 00:06:49,969
+components, what do I
+
+185
+00:06:49,970 --> 00:06:51,139
+want to put in there? And of course, I
+
+186
+00:06:51,140 --> 00:06:53,059
+want to put in there a complete world for
+
+187
+00:06:53,060 --> 00:06:54,079
+somebody to talk to.
+
+188
+00:06:56,240 --> 00:06:57,619
+This idea of computation is actually
+
+189
+00:06:57,620 --> 00:06:59,809
+quite beautiful and it's pretty new in
+
+190
+00:06:59,810 --> 00:07:01,249
+the history of philosophy was only
+
+191
+00:07:01,250 --> 00:07:03,469
+discovered in the mid century,
+
+192
+00:07:03,470 --> 00:07:05,689
+last century, and it
+
+193
+00:07:05,690 --> 00:07:07,999
+has not really permeated into philosophy
+
+194
+00:07:08,000 --> 00:07:10,279
+and other sciences to a large degree.
+
+195
+00:07:10,280 --> 00:07:13,189
+And basically what it says is that
+
+196
+00:07:13,190 --> 00:07:14,539
+the simplest thing that you can talk
+
+197
+00:07:14,540 --> 00:07:15,919
+about, anything that you can get from the
+
+198
+00:07:15,920 --> 00:07:17,509
+universe does not matter or energy or
+
+199
+00:07:17,510 --> 00:07:19,669
+anything. You get discernable differences
+
+200
+00:07:19,670 --> 00:07:21,349
+and discernible differences, have a fancy
+
+201
+00:07:21,350 --> 00:07:22,879
+name. That's information.
+
+202
+00:07:22,880 --> 00:07:24,919
+And then you have a state, a set of these
+
+203
+00:07:24,920 --> 00:07:26,629
+discernable differences and computation
+
+204
+00:07:26,630 --> 00:07:28,819
+describes how you move from state to
+
+205
+00:07:28,820 --> 00:07:30,859
+state. So how the state changes and a
+
+206
+00:07:30,860 --> 00:07:32,479
+special case is the actual computation.
+
+207
+00:07:32,480 --> 00:07:34,519
+But you have discrete states and you have
+
+208
+00:07:34,520 --> 00:07:36,679
+deterministic or somewhat random
+
+209
+00:07:36,680 --> 00:07:37,680
+rules of change.
+
+210
+00:07:38,630 --> 00:07:41,029
+And in this computational this view,
+
+211
+00:07:41,030 --> 00:07:42,709
+basically the universe is something that
+
+212
+00:07:42,710 --> 00:07:44,689
+has the property, that it throws patterns
+
+213
+00:07:44,690 --> 00:07:46,549
+at your interface and these patterns,
+
+214
+00:07:46,550 --> 00:07:47,899
+there's regularity.
+
+215
+00:07:47,900 --> 00:07:49,969
+And to produce regular patterns,
+
+216
+00:07:49,970 --> 00:07:51,739
+you necessarily insufficiently need to be
+
+217
+00:07:51,740 --> 00:07:53,659
+a computer. Right.
+
+218
+00:07:53,660 --> 00:07:55,429
+And on the other hand, you are an
+
+219
+00:07:55,430 --> 00:07:56,989
+observer, probably embedded into the
+
+220
+00:07:56,990 --> 00:07:59,329
+universe and participating
+
+221
+00:07:59,330 --> 00:08:00,319
+in its computation.
+
+222
+00:08:00,320 --> 00:08:02,029
+And this observer is taking these
+
+223
+00:08:02,030 --> 00:08:04,069
+patterns at a systemic interface and it's
+
+224
+00:08:04,070 --> 00:08:05,070
+encoding them.
+
+225
+00:08:07,070 --> 00:08:09,169
+And to encode patterns, you need
+
+226
+00:08:09,170 --> 00:08:10,339
+to be a computer.
+
+227
+00:08:10,340 --> 00:08:11,340
+Right.
+
+228
+00:08:11,810 --> 00:08:13,759
+So computation gives you a unified
+
+229
+00:08:13,760 --> 00:08:15,499
+perspective on epistemology.
+
+230
+00:08:15,500 --> 00:08:16,699
+What can be known?
+
+231
+00:08:16,700 --> 00:08:19,399
+Information, metaphysics,
+
+232
+00:08:19,400 --> 00:08:20,400
+what's going on?
+
+233
+00:08:21,590 --> 00:08:23,659
+There is some kind of computation going
+
+234
+00:08:23,660 --> 00:08:25,819
+on and ontology, what exists.
+
+235
+00:08:36,280 --> 00:08:37,928
+So what exists, it's some kind of
+
+236
+00:08:37,929 --> 00:08:40,119
+computer, right, but
+
+237
+00:08:40,120 --> 00:08:42,009
+you know, what kind of computer is it?
+
+238
+00:08:42,010 --> 00:08:44,168
+Imagine for a moment you
+
+239
+00:08:44,169 --> 00:08:46,419
+are a God and you want to build
+
+240
+00:08:46,420 --> 00:08:48,699
+a universe just like this one.
+
+241
+00:08:48,700 --> 00:08:50,569
+So you are like me.
+
+242
+00:08:50,570 --> 00:08:53,349
+In 1983, you have to ask your parents
+
+243
+00:08:53,350 --> 00:08:56,049
+for a computer and they tell you,
+
+244
+00:08:56,050 --> 00:08:57,849
+you know, you're going to buy you the
+
+245
+00:08:57,850 --> 00:08:59,529
+cheapest computer that you absolutely
+
+246
+00:08:59,530 --> 00:09:00,519
+need for this task.
+
+247
+00:09:00,520 --> 00:09:02,619
+Right. What's the cheapest computer that
+
+248
+00:09:02,620 --> 00:09:03,759
+you're going to need?
+
+249
+00:09:03,760 --> 00:09:06,039
+And then you and you go to the God store
+
+250
+00:09:06,040 --> 00:09:08,139
+in the God world and you see a number
+
+251
+00:09:08,140 --> 00:09:10,089
+of computers and the window and they have
+
+252
+00:09:10,090 --> 00:09:11,019
+different price tags.
+
+253
+00:09:11,020 --> 00:09:12,939
+And the cheapest one that you can buy is
+
+254
+00:09:12,940 --> 00:09:14,259
+your Commodore. Sixty four is the
+
+255
+00:09:14,260 --> 00:09:15,919
+discrete state machine.
+
+256
+00:09:15,920 --> 00:09:17,859
+It has finite memory.
+
+257
+00:09:17,860 --> 00:09:19,089
+There's a bit more memory than my
+
+258
+00:09:19,090 --> 00:09:21,100
+Commodore 64, but still it's finite.
+
+259
+00:09:22,410 --> 00:09:24,759
+OK, and
+
+260
+00:09:24,760 --> 00:09:26,439
+the next thing that you could get also is
+
+261
+00:09:26,440 --> 00:09:27,609
+a probabilistic statement.
+
+262
+00:09:27,610 --> 00:09:29,349
+And it's one where you go somewhat random
+
+263
+00:09:29,350 --> 00:09:31,299
+from one state to the next.
+
+264
+00:09:31,300 --> 00:09:33,309
+You can make a probabilistic state
+
+265
+00:09:33,310 --> 00:09:34,749
+machine from a deterministic one by
+
+266
+00:09:34,750 --> 00:09:35,949
+adding a source of randomness.
+
+267
+00:09:35,950 --> 00:09:36,999
+Or you can do the opposite.
+
+268
+00:09:37,000 --> 00:09:38,419
+For instance, our brain is the
+
+269
+00:09:38,420 --> 00:09:39,519
+probabilistic computer.
+
+270
+00:09:39,520 --> 00:09:41,679
+It's that has some randomness and
+
+271
+00:09:41,680 --> 00:09:43,149
+how it goes from state to state.
+
+272
+00:09:43,150 --> 00:09:44,979
+But it can constrain this randomness by
+
+273
+00:09:44,980 --> 00:09:46,599
+just having more layers of neurons that
+
+274
+00:09:46,600 --> 00:09:48,669
+filter and amplify until you get it
+
+275
+00:09:48,670 --> 00:09:49,929
+as deterministic as you want.
+
+276
+00:09:51,460 --> 00:09:52,869
+Or it could be a quantum computer.
+
+277
+00:09:52,870 --> 00:09:54,099
+If it's a quantum computer, then
+
+278
+00:09:54,100 --> 00:09:55,599
+everything that is a state could also be
+
+279
+00:09:55,600 --> 00:09:56,739
+in a position of states.
+
+280
+00:09:56,740 --> 00:09:58,359
+And if the universe is running on a
+
+281
+00:09:58,360 --> 00:09:59,619
+quantum computer, it means that our
+
+282
+00:09:59,620 --> 00:10:01,899
+universe is able to factor large
+
+283
+00:10:01,900 --> 00:10:03,189
+numbers very efficiently.
+
+284
+00:10:03,190 --> 00:10:04,209
+Among a few other things,
+
+285
+00:10:06,430 --> 00:10:07,899
+actually, if you don't know that yet,
+
+286
+00:10:07,900 --> 00:10:09,429
+it's very interesting that we don't know
+
+287
+00:10:09,430 --> 00:10:11,139
+yet if our universe is able to affect
+
+288
+00:10:11,140 --> 00:10:12,759
+factor large numbers efficiently, only
+
+289
+00:10:12,760 --> 00:10:13,760
+effectively.
+
+290
+00:10:16,030 --> 00:10:17,589
+It could also be that factor in large
+
+291
+00:10:17,590 --> 00:10:18,999
+numbers is easier than we think.
+
+292
+00:10:19,000 --> 00:10:20,829
+It's actually a polynomial problem.
+
+293
+00:10:20,830 --> 00:10:22,389
+But both of you don't know this and is
+
+294
+00:10:22,390 --> 00:10:23,390
+able to tell us
+
+295
+00:10:26,290 --> 00:10:28,239
+right now quantum computers can factor
+
+296
+00:10:28,240 --> 00:10:30,249
+like 15 and it's seven and seven.
+
+297
+00:10:30,250 --> 00:10:32,499
+So I hope in the next decade
+
+298
+00:10:32,500 --> 00:10:33,609
+we will have to settle.
+
+299
+00:10:33,610 --> 00:10:35,019
+If Congress will actually work, it's
+
+300
+00:10:35,020 --> 00:10:36,789
+going to be super exciting.
+
+301
+00:10:36,790 --> 00:10:39,129
+OK, now we can take these computers
+
+302
+00:10:39,130 --> 00:10:41,169
+one, two, three, inet infinite memory.
+
+303
+00:10:41,170 --> 00:10:43,239
+The first one, our Commodore 64, was
+
+304
+00:10:43,240 --> 00:10:45,399
+infinite memory is our old friend,
+
+305
+00:10:45,400 --> 00:10:46,400
+the Turing Machine.
+
+306
+00:10:48,250 --> 00:10:50,709
+Or we could buy a geometric computer.
+
+307
+00:10:50,710 --> 00:10:52,479
+A geometric computer is a type of hyper
+
+308
+00:10:52,480 --> 00:10:54,759
+computer because what it can do is it can
+
+309
+00:10:54,760 --> 00:10:56,589
+move parts with infinite precision in
+
+310
+00:10:56,590 --> 00:10:58,239
+space. Right? It's stuff in space.
+
+311
+00:10:58,240 --> 00:11:00,609
+It's what people thought physics is for
+
+312
+00:11:00,610 --> 00:11:01,929
+most of the time. Right.
+
+313
+00:11:01,930 --> 00:11:03,819
+Still, most of the physicists think that
+
+314
+00:11:03,820 --> 00:11:05,979
+stuff is stuff. It is everything is stuff
+
+315
+00:11:05,980 --> 00:11:08,079
+in space. Not all physicists think this
+
+316
+00:11:08,080 --> 00:11:09,759
+is the growing minority.
+
+317
+00:11:09,760 --> 00:11:11,109
+Which things? Maybe not.
+
+318
+00:11:11,110 --> 00:11:13,239
+But for most of our history,
+
+319
+00:11:13,240 --> 00:11:15,369
+we thought there is stuff in space and
+
+320
+00:11:15,370 --> 00:11:16,689
+this stuff is moving with infinite
+
+321
+00:11:16,690 --> 00:11:19,209
+precision, which means you can
+
+322
+00:11:19,210 --> 00:11:20,889
+perform a computation is an infinite
+
+323
+00:11:20,890 --> 00:11:22,779
+number of decimal digits and finite
+
+324
+00:11:22,780 --> 00:11:23,319
+amount of time.
+
+325
+00:11:23,320 --> 00:11:24,669
+You can compute infinite amounts of
+
+326
+00:11:24,670 --> 00:11:26,559
+information and finite amount of time.
+
+327
+00:11:26,560 --> 00:11:28,059
+It's quite exciting if you could do this,
+
+328
+00:11:29,140 --> 00:11:31,359
+but apparently it's very hard to extract
+
+329
+00:11:31,360 --> 00:11:33,279
+something like this from the universe.
+
+330
+00:11:33,280 --> 00:11:34,959
+So we have string theory that explains
+
+331
+00:11:34,960 --> 00:11:36,549
+why the universe looks so discrete, even
+
+332
+00:11:36,550 --> 00:11:38,019
+though it's supposed to be stuff in space
+
+333
+00:11:39,700 --> 00:11:41,559
+and it could even be in a Conselheiro
+
+334
+00:11:41,560 --> 00:11:43,419
+computer. And also the computer is one
+
+335
+00:11:43,420 --> 00:11:45,489
+where you can take the results of your
+
+336
+00:11:45,490 --> 00:11:47,919
+computation and send it back in the past
+
+337
+00:11:47,920 --> 00:11:49,629
+so you can use it in the past.
+
+338
+00:11:49,630 --> 00:11:50,709
+And, for instance, you can observe the
+
+339
+00:11:50,710 --> 00:11:52,479
+lottery numbers right now, which the
+
+340
+00:11:52,480 --> 00:11:54,699
+universe has computed only right now, and
+
+341
+00:11:54,700 --> 00:11:56,319
+send it back in your past so you can fill
+
+342
+00:11:56,320 --> 00:11:58,569
+in your ticket and get very rich
+
+343
+00:11:58,570 --> 00:11:59,570
+last week.
+
+344
+00:12:01,300 --> 00:12:03,339
+And that's mathematically possible.
+
+345
+00:12:03,340 --> 00:12:04,809
+I mean, you can define a universe which
+
+346
+00:12:04,810 --> 00:12:06,909
+has closed time like loops,
+
+347
+00:12:06,910 --> 00:12:08,919
+but we don't have evidence that you live
+
+348
+00:12:08,920 --> 00:12:09,920
+in such a kind of universe
+
+349
+00:12:12,250 --> 00:12:14,469
+right now. Imagine you want to try
+
+350
+00:12:14,470 --> 00:12:16,569
+to use this Commodore 64, your God
+
+351
+00:12:16,570 --> 00:12:18,639
+computer and see how far you can get.
+
+352
+00:12:18,640 --> 00:12:20,289
+And there is a number of people in
+
+353
+00:12:20,290 --> 00:12:22,359
+physics which subscribe to
+
+354
+00:12:22,360 --> 00:12:24,459
+this idea and think it's quite promising.
+
+355
+00:12:24,460 --> 00:12:26,469
+I think it started with Conrad Suzu and
+
+356
+00:12:26,470 --> 00:12:28,089
+then people like Ed Fratkin and Stephen
+
+357
+00:12:28,090 --> 00:12:30,099
+Wolfram who have championed this idea for
+
+358
+00:12:30,100 --> 00:12:31,359
+a very long time.
+
+359
+00:12:31,360 --> 00:12:33,489
+And since they are a little bit
+
+360
+00:12:33,490 --> 00:12:35,649
+crazy and out there and so on, I was
+
+361
+00:12:35,650 --> 00:12:37,719
+not sure whether as a physicist, I
+
+362
+00:12:37,720 --> 00:12:39,309
+should take this idea very seriously,
+
+363
+00:12:39,310 --> 00:12:40,629
+even though as a computer scientist, I
+
+364
+00:12:40,630 --> 00:12:42,250
+find it very convincing and obvious
+
+365
+00:12:44,260 --> 00:12:46,449
+that you're not. Last year on 21st
+
+366
+00:12:46,450 --> 00:12:48,789
+of December, there are Tofte
+
+367
+00:12:48,790 --> 00:12:50,649
+wrote a paper, put it on archive.
+
+368
+00:12:50,650 --> 00:12:52,569
+It's 250 pages and it's called the
+
+369
+00:12:52,570 --> 00:12:54,159
+Cellular Automaton Interpretation of
+
+370
+00:12:54,160 --> 00:12:56,349
+Quantum Mechanics. And Tofte has the
+
+371
+00:12:56,350 --> 00:12:58,329
+Nobel Prize for his contributions to the
+
+372
+00:12:58,330 --> 00:13:00,639
+Standard Model. So he's not like a nobody
+
+373
+00:13:00,640 --> 00:13:02,319
+and he didn't see a limit.
+
+374
+00:13:02,320 --> 00:13:04,719
+So what does it mean if he can derive
+
+375
+00:13:04,720 --> 00:13:07,029
+quantum mechanics from a
+
+376
+00:13:08,410 --> 00:13:10,279
+cellular automaton?
+
+377
+00:13:10,280 --> 00:13:12,249
+Automaton is a very general way of
+
+378
+00:13:12,250 --> 00:13:13,689
+looking at things. So you basically have
+
+379
+00:13:13,690 --> 00:13:16,359
+a state vector, discrete bits,
+
+380
+00:13:16,360 --> 00:13:17,889
+and then you have a transition function
+
+381
+00:13:17,890 --> 00:13:19,209
+and you get the next state vector and
+
+382
+00:13:19,210 --> 00:13:20,559
+it's always the same transition function.
+
+383
+00:13:20,560 --> 00:13:21,819
+That's it. Right.
+
+384
+00:13:21,820 --> 00:13:24,069
+So you could see this first
+
+385
+00:13:24,070 --> 00:13:25,719
+thing here. This is your universe right
+
+386
+00:13:25,720 --> 00:13:26,979
+now, this universe.
+
+387
+00:13:26,980 --> 00:13:29,259
+And one step from now, and
+
+388
+00:13:29,260 --> 00:13:30,459
+this is the transition function that
+
+389
+00:13:30,460 --> 00:13:31,779
+happens. It's always the same, but you
+
+390
+00:13:31,780 --> 00:13:33,789
+get a new universe every time.
+
+391
+00:13:33,790 --> 00:13:34,989
+And the most famous.
+
+392
+00:13:34,990 --> 00:13:37,109
+Automaton is probably Conway's game
+
+393
+00:13:37,110 --> 00:13:39,239
+of life, it's defined on a
+
+394
+00:13:39,240 --> 00:13:41,549
+rectangular grid, and for each cell
+
+395
+00:13:41,550 --> 00:13:43,589
+you count the neighborhood of eight cells
+
+396
+00:13:43,590 --> 00:13:45,539
+and you look how many of these cells are
+
+397
+00:13:45,540 --> 00:13:47,369
+alive and how many are dead.
+
+398
+00:13:47,370 --> 00:13:49,409
+If you have exactly three neighbors that
+
+399
+00:13:49,410 --> 00:13:50,729
+are alive, then you come to life.
+
+400
+00:13:50,730 --> 00:13:51,929
+If you have two or three neighbors who
+
+401
+00:13:51,930 --> 00:13:54,119
+stay alive and if you have less than two,
+
+402
+00:13:54,120 --> 00:13:55,679
+you'll die because you are so lonely.
+
+403
+00:13:55,680 --> 00:13:57,059
+And if you for more than three, then you
+
+404
+00:13:57,060 --> 00:13:58,859
+die because it's too crowded.
+
+405
+00:13:58,860 --> 00:13:59,999
+This is it.
+
+406
+00:14:00,000 --> 00:14:01,739
+And now you start this thing and it's
+
+407
+00:14:01,740 --> 00:14:02,760
+going to look like this.
+
+408
+00:14:05,220 --> 00:14:07,319
+So in this particular starting
+
+409
+00:14:07,320 --> 00:14:09,329
+state, it ends in this cyclical
+
+410
+00:14:09,330 --> 00:14:10,330
+configuration
+
+411
+00:14:12,300 --> 00:14:14,399
+and a very special thing and game
+
+412
+00:14:14,400 --> 00:14:14,789
+of life.
+
+413
+00:14:14,790 --> 00:14:15,929
+This is called a glider.
+
+414
+00:14:15,930 --> 00:14:17,459
+It's the smallest configuration that
+
+415
+00:14:17,460 --> 00:14:19,379
+people have found that is going to copy
+
+416
+00:14:19,380 --> 00:14:21,710
+itself along the field indefinitely.
+
+417
+00:14:25,560 --> 00:14:27,569
+Horizontal glider is called a spaceship,
+
+418
+00:14:27,570 --> 00:14:30,389
+so you can see a bunch of spaceships
+
+419
+00:14:30,390 --> 00:14:32,579
+and they're imitated by something
+
+420
+00:14:32,580 --> 00:14:34,859
+like a spaceship gun and went
+
+421
+00:14:34,860 --> 00:14:36,329
+to spaceships, did each other, they
+
+422
+00:14:36,330 --> 00:14:37,079
+looked at each other.
+
+423
+00:14:37,080 --> 00:14:39,119
+And there's some logic that is going to
+
+424
+00:14:39,120 --> 00:14:40,919
+trigger the spaceship guns under certain
+
+425
+00:14:40,920 --> 00:14:43,019
+conditions and some
+
+426
+00:14:43,020 --> 00:14:44,669
+other logic that is going to transmit
+
+427
+00:14:44,670 --> 00:14:45,929
+some information around.
+
+428
+00:14:45,930 --> 00:14:47,879
+What you can see is this game of life is
+
+429
+00:14:47,880 --> 00:14:49,319
+pretty complex. Is Turing complete
+
+430
+00:14:49,320 --> 00:14:51,539
+mechanical Turing Machine said,
+
+431
+00:14:51,540 --> 00:14:53,939
+and what somebody has built in years.
+
+432
+00:14:53,940 --> 00:14:55,590
+I mean, I think you can already see it.
+
+433
+00:15:14,340 --> 00:15:16,619
+So, of course, this looks very boxy and
+
+434
+00:15:16,620 --> 00:15:17,699
+somebody has said, let's make it
+
+435
+00:15:17,700 --> 00:15:19,949
+continues, let's not use square boxes
+
+436
+00:15:19,950 --> 00:15:22,079
+but round disks and use a circular
+
+437
+00:15:22,080 --> 00:15:23,339
+neighborhood and count the number of
+
+438
+00:15:23,340 --> 00:15:25,019
+pixels in a circular neighborhood that
+
+439
+00:15:25,020 --> 00:15:26,849
+are filled. And then we use suitable
+
+440
+00:15:26,850 --> 00:15:28,949
+interval to decide on life and death.
+
+441
+00:15:28,950 --> 00:15:30,539
+There are very similar to the ones in
+
+442
+00:15:30,540 --> 00:15:32,129
+your standard game of life.
+
+443
+00:15:32,130 --> 00:15:34,439
+And what you get is something that looks
+
+444
+00:15:34,440 --> 00:15:35,440
+like this.
+
+445
+00:15:41,610 --> 00:15:42,599
+So it's been the same thing.
+
+446
+00:15:42,600 --> 00:15:44,039
+It's just a little bit more continuous
+
+447
+00:15:44,040 --> 00:15:45,689
+and you get letters that can move in all
+
+448
+00:15:45,690 --> 00:15:46,690
+directions.
+
+449
+00:15:57,990 --> 00:15:59,549
+No, I'm not.
+
+450
+00:15:59,550 --> 00:16:01,109
+Of course not suggesting that our
+
+451
+00:16:01,110 --> 00:16:02,579
+universe looks like this at the base
+
+452
+00:16:02,580 --> 00:16:04,249
+level, but it's very tempting to think
+
+453
+00:16:04,250 --> 00:16:05,759
+that this looks something like this and
+
+454
+00:16:05,760 --> 00:16:07,469
+that particles might be something like
+
+455
+00:16:07,470 --> 00:16:09,419
+letters that get copied along until they
+
+456
+00:16:09,420 --> 00:16:10,420
+bump into something else.
+
+457
+00:16:12,150 --> 00:16:14,219
+Our universe has a peculiar property in
+
+458
+00:16:14,220 --> 00:16:16,979
+this peculiar property is that B cannot
+
+459
+00:16:16,980 --> 00:16:19,109
+have nice things like, you know, if you
+
+460
+00:16:19,110 --> 00:16:21,239
+live in Minecraft, you can build up
+
+461
+00:16:21,240 --> 00:16:23,429
+a pretty mobily, a computer that doesn't
+
+462
+00:16:23,430 --> 00:16:25,409
+need an energy source and so on.
+
+463
+00:16:25,410 --> 00:16:26,819
+And it's because of Minecraft, you have
+
+464
+00:16:26,820 --> 00:16:27,820
+no entropy.
+
+465
+00:16:28,940 --> 00:16:30,289
+It would be pretty neat if you live in
+
+466
+00:16:30,290 --> 00:16:31,519
+Minecraft, because I think we could live
+
+467
+00:16:31,520 --> 00:16:32,520
+forever.
+
+468
+00:16:35,120 --> 00:16:36,919
+Why is it that we cannot have nice things
+
+469
+00:16:36,920 --> 00:16:37,920
+in our universe?
+
+470
+00:16:39,890 --> 00:16:41,569
+And I think that's because our universe
+
+471
+00:16:41,570 --> 00:16:43,669
+has the peculiar property that we cannot
+
+472
+00:16:43,670 --> 00:16:45,439
+lead information in it.
+
+473
+00:16:45,440 --> 00:16:47,179
+It's an empirical fact that seems to be
+
+474
+00:16:47,180 --> 00:16:48,719
+awfully hard to delete information.
+
+475
+00:16:48,720 --> 00:16:51,259
+This is what the laws of conservation
+
+476
+00:16:51,260 --> 00:16:52,669
+seem to suggest.
+
+477
+00:16:52,670 --> 00:16:54,889
+And if you have an irreversible
+
+478
+00:16:54,890 --> 00:16:57,169
+system like this computer here,
+
+479
+00:16:57,170 --> 00:16:59,089
+this rain up, you are living cell and so
+
+480
+00:16:59,090 --> 00:17:01,199
+on, it's something that leads
+
+481
+00:17:01,200 --> 00:17:03,379
+bits and every step irreversible system.
+
+482
+00:17:03,380 --> 00:17:04,669
+And something can, for instance, perform
+
+483
+00:17:04,670 --> 00:17:06,889
+an operation where you conflate
+
+484
+00:17:06,890 --> 00:17:08,209
+two bits and you don't know which was
+
+485
+00:17:08,210 --> 00:17:09,749
+which after you performed the operation.
+
+486
+00:17:09,750 --> 00:17:10,699
+Right.
+
+487
+00:17:10,700 --> 00:17:13,189
+And if you are a living system, you
+
+488
+00:17:13,190 --> 00:17:15,269
+stabilize yourself against disturbances.
+
+489
+00:17:15,270 --> 00:17:17,118
+My brain is supposed to work in similar
+
+490
+00:17:17,119 --> 00:17:19,519
+ways, whether I'm here in Cambridge and
+
+491
+00:17:19,520 --> 00:17:20,899
+the gravity environment is probably
+
+492
+00:17:20,900 --> 00:17:22,608
+totally different and there is no
+
+493
+00:17:22,609 --> 00:17:24,679
+radiation that's different and
+
+494
+00:17:24,680 --> 00:17:26,279
+messing with my brain in different ways.
+
+495
+00:17:26,280 --> 00:17:28,129
+And still it's going to work in the same
+
+496
+00:17:28,130 --> 00:17:29,089
+parameters.
+
+497
+00:17:29,090 --> 00:17:30,979
+And my body temperature is rather
+
+498
+00:17:30,980 --> 00:17:32,239
+independent from yesterday's body
+
+499
+00:17:32,240 --> 00:17:34,219
+temperature and so on within certain
+
+500
+00:17:34,220 --> 00:17:36,169
+boundaries. If I go very far out and I
+
+501
+00:17:36,170 --> 00:17:37,519
+stay there, you know, but
+
+502
+00:17:38,960 --> 00:17:41,209
+so I try to dileep it and if I delete
+
+503
+00:17:41,210 --> 00:17:42,469
+bits, what do I do?
+
+504
+00:17:42,470 --> 00:17:44,809
+If the underlying substrate is
+
+505
+00:17:44,810 --> 00:17:46,879
+reversible, I can
+
+506
+00:17:46,880 --> 00:17:48,619
+make a reversible system on top of an
+
+507
+00:17:48,620 --> 00:17:50,459
+irreversible one by just ignoring all
+
+508
+00:17:50,460 --> 00:17:51,679
+operations that were deleted.
+
+509
+00:17:51,680 --> 00:17:52,879
+That's very easy, right?
+
+510
+00:17:52,880 --> 00:17:54,989
+But the opposite as heart
+
+511
+00:17:54,990 --> 00:17:57,109
+is, whenever I want to delete bits, if
+
+512
+00:17:57,110 --> 00:17:58,519
+I am a reversible substrate, I need to
+
+513
+00:17:58,520 --> 00:18:00,589
+hide them somewhere, which means I have
+
+514
+00:18:00,590 --> 00:18:02,329
+garbage bits. Now these garbage bits are
+
+515
+00:18:02,330 --> 00:18:04,279
+going to accumulate unless I have a very
+
+516
+00:18:04,280 --> 00:18:06,169
+big place to hide them, which means I
+
+517
+00:18:06,170 --> 00:18:07,369
+want to be an open system.
+
+518
+00:18:07,370 --> 00:18:08,669
+There's openness can be temporary.
+
+519
+00:18:08,670 --> 00:18:10,729
+So if you have an area of deep space
+
+520
+00:18:10,730 --> 00:18:12,079
+that exists for a while, until the
+
+521
+00:18:12,080 --> 00:18:13,369
+universe goes, until the big crunch,
+
+522
+00:18:13,370 --> 00:18:15,019
+maybe that's sufficient.
+
+523
+00:18:15,020 --> 00:18:17,209
+But without this openness, you cannot
+
+524
+00:18:17,210 --> 00:18:18,409
+get rid of your garbage bits.
+
+525
+00:18:18,410 --> 00:18:20,239
+And you also need something to replace
+
+526
+00:18:20,240 --> 00:18:21,529
+the garbage bits that you push out.
+
+527
+00:18:21,530 --> 00:18:23,719
+So you basically need an entropy gradient
+
+528
+00:18:23,720 --> 00:18:25,430
+gradient from NEKE entropy to entropy.
+
+529
+00:18:28,900 --> 00:18:30,909
+And observers to create internal order,
+
+530
+00:18:30,910 --> 00:18:32,979
+every computer that is forming memories
+
+531
+00:18:32,980 --> 00:18:34,209
+after observing things that are
+
+532
+00:18:34,210 --> 00:18:36,459
+independent of the underlying substrate
+
+533
+00:18:36,460 --> 00:18:39,399
+and so on, you need to be irreversible.
+
+534
+00:18:39,400 --> 00:18:41,079
+And if you live in an irreversible
+
+535
+00:18:41,080 --> 00:18:42,609
+universe, you will always have to observe
+
+536
+00:18:42,610 --> 00:18:43,539
+entropy.
+
+537
+00:18:43,540 --> 00:18:45,429
+And without any entropy gradient, you
+
+538
+00:18:45,430 --> 00:18:46,719
+must die.
+
+539
+00:18:46,720 --> 00:18:48,789
+So life is something that is, in this
+
+540
+00:18:48,790 --> 00:18:50,529
+universe, probably extremely temporary
+
+541
+00:18:50,530 --> 00:18:52,689
+phenomenon. It only exists at this
+
+542
+00:18:52,690 --> 00:18:54,879
+temporary bubble of entropy
+
+543
+00:18:54,880 --> 00:18:55,959
+for a very short time.
+
+544
+00:18:57,560 --> 00:18:59,479
+OK, Miles, as I have said, our
+
+545
+00:18:59,480 --> 00:19:00,559
+computational observers,
+
+546
+00:19:01,820 --> 00:19:03,799
+but shouldn't believe the explanation of
+
+547
+00:19:03,800 --> 00:19:06,349
+minds to philosophers and psychologists,
+
+548
+00:19:06,350 --> 00:19:08,599
+I mean, it's their field after all right
+
+549
+00:19:08,600 --> 00:19:10,739
+now imagine we ask them to explain
+
+550
+00:19:10,740 --> 00:19:12,889
+flight. How would they go about
+
+551
+00:19:12,890 --> 00:19:14,119
+this?
+
+552
+00:19:14,120 --> 00:19:16,489
+I suspect that psychologists would start
+
+553
+00:19:16,490 --> 00:19:17,950
+looking at the behavior of birds.
+
+554
+00:19:19,490 --> 00:19:21,079
+I don't know how far they get if they
+
+555
+00:19:21,080 --> 00:19:22,549
+look at the behavior of birds for very
+
+556
+00:19:22,550 --> 00:19:24,139
+long time to understand flight very
+
+557
+00:19:24,140 --> 00:19:26,419
+deeply. You know, thinking about thinking
+
+558
+00:19:26,420 --> 00:19:28,729
+is not really part of psychology.
+
+559
+00:19:28,730 --> 00:19:30,019
+Psychologists look at behavior.
+
+560
+00:19:30,020 --> 00:19:31,459
+That's what they do.
+
+561
+00:19:31,460 --> 00:19:33,529
+If you ask a neurobiologist to
+
+562
+00:19:33,530 --> 00:19:34,969
+study flight, they will probably look at
+
+563
+00:19:34,970 --> 00:19:37,129
+birds with microscopes
+
+564
+00:19:37,130 --> 00:19:38,869
+and they will get extremely pretty
+
+565
+00:19:38,870 --> 00:19:39,379
+pictures.
+
+566
+00:19:39,380 --> 00:19:40,969
+And after a while, they will announce
+
+567
+00:19:40,970 --> 00:19:43,039
+that it's very, very hard to simulate
+
+568
+00:19:43,040 --> 00:19:45,049
+a cubic millimeter of a bird is going to
+
+569
+00:19:45,050 --> 00:19:47,119
+be very hard to understand flight.
+
+570
+00:19:47,120 --> 00:19:49,219
+And if you ask the
+
+571
+00:19:49,220 --> 00:19:50,989
+philosophers, it depends on whom you ask.
+
+572
+00:19:50,990 --> 00:19:52,309
+If you ask the analytical philosopher,
+
+573
+00:19:52,310 --> 00:19:53,959
+they probably say, you know, you can take
+
+574
+00:19:53,960 --> 00:19:55,999
+the bird apart down to the level of
+
+575
+00:19:56,000 --> 00:19:57,529
+individual molecules.
+
+576
+00:19:57,530 --> 00:19:59,869
+And once you do this, what you'll find
+
+577
+00:19:59,870 --> 00:20:01,789
+is that nothing is flying there.
+
+578
+00:20:01,790 --> 00:20:02,790
+So.
+
+579
+00:20:08,580 --> 00:20:10,379
+So flight is obviously already given,
+
+580
+00:20:10,380 --> 00:20:12,629
+maybe it's a property of the universe
+
+581
+00:20:12,630 --> 00:20:14,349
+itself that only gets some more channels
+
+582
+00:20:14,350 --> 00:20:15,350
+to the bird
+
+583
+00:20:16,650 --> 00:20:18,279
+anyway. It's very hard and confusing.
+
+584
+00:20:18,280 --> 00:20:19,889
+Couldn't we talk about free flight
+
+585
+00:20:19,890 --> 00:20:20,890
+instead?
+
+586
+00:20:23,600 --> 00:20:25,039
+If you ask it phenomenological
+
+587
+00:20:25,040 --> 00:20:26,989
+philosopher, they will tell you, what is
+
+588
+00:20:26,990 --> 00:20:28,099
+it like to be a bird?
+
+589
+00:20:29,540 --> 00:20:30,540
+You'll never know.
+
+590
+00:20:32,690 --> 00:20:35,119
+If you ask Roger Penrose,
+
+591
+00:20:35,120 --> 00:20:37,190
+he will say it's quantum mechanics.
+
+592
+00:20:38,660 --> 00:20:40,039
+These birds have very special
+
+593
+00:20:40,040 --> 00:20:42,319
+microtubules and they allow them
+
+594
+00:20:42,320 --> 00:20:44,299
+to use quantum effects for flying.
+
+595
+00:20:44,300 --> 00:20:45,300
+This is how it works.
+
+596
+00:20:54,290 --> 00:20:55,969
+So Marvin Minsky said, no, we cannot
+
+597
+00:20:55,970 --> 00:20:57,559
+leave us with these guys because they
+
+598
+00:20:57,560 --> 00:20:59,539
+don't know what they're doing anymore,
+
+599
+00:20:59,540 --> 00:21:01,619
+minds are information processing systems.
+
+600
+00:21:01,620 --> 00:21:03,379
+So if you want to study minds, we need to
+
+601
+00:21:03,380 --> 00:21:04,759
+start a new science. And this is what you
+
+602
+00:21:04,760 --> 00:21:06,679
+did 60 years ago, together with a few
+
+603
+00:21:06,680 --> 00:21:08,529
+other people. And he said that if my
+
+604
+00:21:08,530 --> 00:21:10,129
+information processing systems, then we
+
+605
+00:21:10,130 --> 00:21:11,569
+can teach computers how to think.
+
+606
+00:21:11,570 --> 00:21:13,189
+And by doing this, we will learn what
+
+607
+00:21:13,190 --> 00:21:14,190
+thinking is.
+
+608
+00:21:16,360 --> 00:21:17,919
+He thought that thinking is symbolic,
+
+609
+00:21:17,920 --> 00:21:19,869
+unfortunately, so it was he settled on
+
+610
+00:21:19,870 --> 00:21:21,579
+the wrong horse and this created,
+
+611
+00:21:21,580 --> 00:21:24,069
+unfortunately, this schism and I think
+
+612
+00:21:24,070 --> 00:21:25,659
+contributed very much to it.
+
+613
+00:21:25,660 --> 00:21:28,329
+He thought that Bestilo knowledge
+
+614
+00:21:28,330 --> 00:21:30,519
+like Computerland stuff into a database,
+
+615
+00:21:30,520 --> 00:21:32,749
+and he proceeded to yell at everybody
+
+616
+00:21:32,750 --> 00:21:34,209
+who was doing stuff that he considered to
+
+617
+00:21:34,210 --> 00:21:36,099
+be too simplistic, like neural networks
+
+618
+00:21:36,100 --> 00:21:37,449
+and robotics and so on.
+
+619
+00:21:37,450 --> 00:21:39,609
+And if you have people that you get
+
+620
+00:21:39,610 --> 00:21:41,349
+yelled at because they do something that
+
+621
+00:21:41,350 --> 00:21:42,789
+works very well for them, they usually
+
+622
+00:21:42,790 --> 00:21:43,929
+don't join your camp.
+
+623
+00:21:43,930 --> 00:21:45,279
+Instead, they stop talking to you.
+
+624
+00:21:45,280 --> 00:21:47,289
+And so these people the other day, people
+
+625
+00:21:47,290 --> 00:21:49,779
+didn't read very much psychology
+
+626
+00:21:49,780 --> 00:21:51,489
+and philosophy and build the
+
+627
+00:21:51,490 --> 00:21:52,599
+applications.
+
+628
+00:21:52,600 --> 00:21:54,849
+And Minsky's disciple's, mostly
+
+629
+00:21:54,850 --> 00:21:55,869
+the symbolic A.I.
+
+630
+00:21:55,870 --> 00:21:58,179
+after reading about reading psychology
+
+631
+00:21:58,180 --> 00:22:00,339
+and that it was unfortunate.
+
+632
+00:22:00,340 --> 00:22:02,079
+And it's still haunting us to some degree
+
+633
+00:22:02,080 --> 00:22:03,489
+right now, even though we're catching up
+
+634
+00:22:03,490 --> 00:22:05,919
+and the fields are getting unified.
+
+635
+00:22:05,920 --> 00:22:07,119
+But I don't think that Minsker is really
+
+636
+00:22:07,120 --> 00:22:08,919
+to blame because the question what is
+
+637
+00:22:08,920 --> 00:22:11,079
+intelligence in 1950 was very similar
+
+638
+00:22:11,080 --> 00:22:12,729
+to the question, what is life in 16
+
+639
+00:22:12,730 --> 00:22:13,730
+fifty?
+
+640
+00:22:14,200 --> 00:22:15,729
+You know, in 60 and 50 the billion, you
+
+641
+00:22:15,730 --> 00:22:17,139
+will by extension, you could point at it
+
+642
+00:22:17,140 --> 00:22:18,309
+and say this is life.
+
+643
+00:22:18,310 --> 00:22:20,409
+And then people guess, is it some magic
+
+644
+00:22:20,410 --> 00:22:22,539
+force? Maybe it's something duelist going
+
+645
+00:22:22,540 --> 00:22:23,869
+on, who knows?
+
+646
+00:22:23,870 --> 00:22:26,049
+And the idea what we know
+
+647
+00:22:26,050 --> 00:22:27,879
+now, life oversells could not be
+
+648
+00:22:27,880 --> 00:22:29,949
+discovered before 1839
+
+649
+00:22:29,950 --> 00:22:31,329
+when the cell theory came up.
+
+650
+00:22:31,330 --> 00:22:33,009
+And even after this, it took a very long
+
+651
+00:22:33,010 --> 00:22:35,439
+time before people realized
+
+652
+00:22:35,440 --> 00:22:36,939
+they would do psychology. But we actually
+
+653
+00:22:36,940 --> 00:22:38,979
+does. He studies cells and systems that
+
+654
+00:22:38,980 --> 00:22:39,980
+are made from cells.
+
+655
+00:22:41,110 --> 00:22:42,039
+Life is always cells.
+
+656
+00:22:42,040 --> 00:22:43,989
+These are cells stabilizing and immutable
+
+657
+00:22:43,990 --> 00:22:45,339
+and molecular machines.
+
+658
+00:22:45,340 --> 00:22:47,379
+And there is no known precedent for life.
+
+659
+00:22:47,380 --> 00:22:48,759
+I mean, there must have been at some
+
+660
+00:22:48,760 --> 00:22:49,899
+point, but there is no left.
+
+661
+00:22:49,900 --> 00:22:51,469
+And it's easy to understand why.
+
+662
+00:22:51,470 --> 00:22:53,229
+I mean, if you are still alive, you
+
+663
+00:22:53,230 --> 00:22:54,999
+better get a membrane first because you
+
+664
+00:22:55,000 --> 00:22:57,099
+are going to be very unstable.
+
+665
+00:22:57,100 --> 00:22:58,100
+Right.
+
+666
+00:22:59,680 --> 00:23:01,329
+And from the perspective of the cell,
+
+667
+00:23:01,330 --> 00:23:02,259
+there is no organism.
+
+668
+00:23:02,260 --> 00:23:03,609
+The cell is just drifting through this
+
+669
+00:23:03,610 --> 00:23:05,439
+darkness and sometimes the few molecules
+
+670
+00:23:05,440 --> 00:23:06,849
+are drifting over its membrane and it's
+
+671
+00:23:06,850 --> 00:23:09,159
+going to react to those molecules and
+
+672
+00:23:09,160 --> 00:23:10,089
+this is it.
+
+673
+00:23:10,090 --> 00:23:11,349
+And the organism is an emergent
+
+674
+00:23:11,350 --> 00:23:13,089
+phenomenon of many cells that talk to
+
+675
+00:23:13,090 --> 00:23:14,019
+each other like this.
+
+676
+00:23:14,020 --> 00:23:15,279
+But they don't know that there are other
+
+677
+00:23:15,280 --> 00:23:16,929
+cells out there because they don't have a
+
+678
+00:23:16,930 --> 00:23:18,759
+brain and they don't have sensors to see
+
+679
+00:23:18,760 --> 00:23:19,760
+them.
+
+680
+00:23:20,770 --> 00:23:23,379
+A cell is interesting, the smallest
+
+681
+00:23:23,380 --> 00:23:25,299
+universal machine that we know that is
+
+682
+00:23:25,300 --> 00:23:28,329
+capable of extracting entropy
+
+683
+00:23:28,330 --> 00:23:30,759
+over a wide range of environments.
+
+684
+00:23:30,760 --> 00:23:32,559
+This is what cells to extract, Nick
+
+685
+00:23:32,560 --> 00:23:33,699
+entropy.
+
+686
+00:23:33,700 --> 00:23:35,859
+They harvest some chemical
+
+687
+00:23:35,860 --> 00:23:37,869
+operations that require fine grained
+
+688
+00:23:37,870 --> 00:23:39,219
+control. So they have this market
+
+689
+00:23:39,220 --> 00:23:41,349
+opportunity because they can
+
+690
+00:23:41,350 --> 00:23:43,089
+do things that other chemical processes
+
+691
+00:23:43,090 --> 00:23:44,090
+on this planet cannot.
+
+692
+00:23:45,880 --> 00:23:47,499
+And to do this, they need some pretty
+
+693
+00:23:47,500 --> 00:23:49,689
+complicated logic, so if you zoom into
+
+694
+00:23:49,690 --> 00:23:51,849
+a cell, you see this membrane
+
+695
+00:23:51,850 --> 00:23:54,009
+and inside you have lots and lots
+
+696
+00:23:54,010 --> 00:23:56,709
+of apparatus that are chemical reactors.
+
+697
+00:23:56,710 --> 00:23:58,869
+And these chemical reactors produce
+
+698
+00:23:58,870 --> 00:24:00,429
+all sorts of chemicals that the cells
+
+699
+00:24:00,430 --> 00:24:02,229
+need for their metabolisms and given
+
+700
+00:24:02,230 --> 00:24:04,479
+circumstances. And inside of the cell,
+
+701
+00:24:04,480 --> 00:24:07,179
+you have this interesting
+
+702
+00:24:07,180 --> 00:24:09,039
+structure which stores the cells,
+
+703
+00:24:09,040 --> 00:24:10,599
+operating systems.
+
+704
+00:24:10,600 --> 00:24:12,909
+And to to do this, you need very
+
+705
+00:24:12,910 --> 00:24:14,799
+complex and pretty poorly understood
+
+706
+00:24:14,800 --> 00:24:16,899
+machinery. It's so complex that
+
+707
+00:24:16,900 --> 00:24:19,209
+you cannot build it very close to
+
+708
+00:24:19,210 --> 00:24:20,229
+where physics is happening.
+
+709
+00:24:20,230 --> 00:24:21,819
+You have to do it about 25 magnitudes
+
+710
+00:24:21,820 --> 00:24:22,820
+above the Planck length.
+
+711
+00:24:25,060 --> 00:24:26,469
+For instance, this is a molecular
+
+712
+00:24:26,470 --> 00:24:27,879
+machine.
+
+713
+00:24:27,880 --> 00:24:29,859
+This is a machine that is able to splice
+
+714
+00:24:29,860 --> 00:24:32,049
+and copy DNA and that is
+
+715
+00:24:32,050 --> 00:24:33,700
+roughly what it looks like in real time.
+
+716
+00:24:35,320 --> 00:24:36,459
+I think that's pretty amazing.
+
+717
+00:24:36,460 --> 00:24:38,229
+And we have probably lots and lots of
+
+718
+00:24:38,230 --> 00:24:39,430
+machines like this in cells.
+
+719
+00:24:47,430 --> 00:24:49,079
+A big insight for me recently was that
+
+720
+00:24:49,080 --> 00:24:50,969
+DNA is not a blueprint, it's not the
+
+721
+00:24:50,970 --> 00:24:52,019
+blueprint for an organism.
+
+722
+00:24:52,020 --> 00:24:53,549
+At no point in the life of the organism,
+
+723
+00:24:53,550 --> 00:24:55,200
+there is no cell, there's always a cell.
+
+724
+00:24:56,250 --> 00:24:58,349
+And the cell is
+
+725
+00:24:58,350 --> 00:25:00,329
+has this operating system and its
+
+726
+00:25:00,330 --> 00:25:01,829
+operating system is made of routines.
+
+727
+00:25:01,830 --> 00:25:03,149
+And these routines are called genes.
+
+728
+00:25:03,150 --> 00:25:05,399
+A gene is something between
+
+729
+00:25:05,400 --> 00:25:07,499
+a few hundred bytes and a few
+
+730
+00:25:07,500 --> 00:25:09,509
+megabytes long. Usually it's in the order
+
+731
+00:25:09,510 --> 00:25:11,819
+of something like a 100 K or so.
+
+732
+00:25:11,820 --> 00:25:13,979
+And these proteins can
+
+733
+00:25:13,980 --> 00:25:15,419
+do only four things.
+
+734
+00:25:15,420 --> 00:25:16,959
+They can regulate something in the cell.
+
+735
+00:25:16,960 --> 00:25:19,109
+So it goes back into homeostasis
+
+736
+00:25:19,110 --> 00:25:20,879
+or they can differentiate the cell so it
+
+737
+00:25:20,880 --> 00:25:23,009
+becomes two different cell or they can
+
+738
+00:25:23,010 --> 00:25:24,749
+start the division of the cell, a program
+
+739
+00:25:24,750 --> 00:25:26,069
+that ends with have it.
+
+740
+00:25:26,070 --> 00:25:28,169
+You have two cells of that type or it can
+
+741
+00:25:28,170 --> 00:25:30,329
+kill the cell. This is all you can do.
+
+742
+00:25:30,330 --> 00:25:31,979
+And from this you get everything else.
+
+743
+00:25:31,980 --> 00:25:33,269
+There's a little bit mutation and
+
+744
+00:25:33,270 --> 00:25:34,879
+selection. Everything else emerges.
+
+745
+00:25:34,880 --> 00:25:35,880
+It's amazing, isn't it?
+
+746
+00:25:37,460 --> 00:25:39,619
+So organisms are basically colonies
+
+747
+00:25:39,620 --> 00:25:41,599
+are very closely related single celled
+
+748
+00:25:41,600 --> 00:25:43,979
+organisms, they get very specialized
+
+749
+00:25:43,980 --> 00:25:46,039
+and to do this,
+
+750
+00:25:46,040 --> 00:25:47,989
+they have to divide and specialize into
+
+751
+00:25:47,990 --> 00:25:49,429
+different parts. Is this just the cells
+
+752
+00:25:49,430 --> 00:25:51,109
+that you have in your blackens part of
+
+753
+00:25:51,110 --> 00:25:53,509
+them? And every
+
+754
+00:25:53,510 --> 00:25:55,219
+of these cells runs the same operating
+
+755
+00:25:55,220 --> 00:25:56,569
+system? In a sense, it cannot really be
+
+756
+00:25:56,570 --> 00:25:57,769
+true because they do very different
+
+757
+00:25:57,770 --> 00:25:58,969
+stuff. They need a lot of states.
+
+758
+00:25:58,970 --> 00:26:00,439
+So it's probably that the genome is like
+
+759
+00:26:00,440 --> 00:26:02,119
+the room in which you store this
+
+760
+00:26:02,120 --> 00:26:03,049
+operating system.
+
+761
+00:26:03,050 --> 00:26:04,349
+There's also a room, which is the
+
+762
+00:26:04,350 --> 00:26:06,109
+epigenome. It's like the flash drive that
+
+763
+00:26:06,110 --> 00:26:08,299
+the cell uses to store its state and
+
+764
+00:26:08,300 --> 00:26:09,679
+it can also be copied along if you
+
+765
+00:26:09,680 --> 00:26:11,899
+differentiate the cell and.
+
+766
+00:26:13,230 --> 00:26:15,629
+Over the life of the cell, this
+
+767
+00:26:15,630 --> 00:26:17,499
+epigenetic storage by reading and writing
+
+768
+00:26:17,500 --> 00:26:19,589
+gets fragmented and there was a
+
+769
+00:26:19,590 --> 00:26:21,929
+fascinating paper last month and in cell
+
+770
+00:26:21,930 --> 00:26:24,309
+and they discovered that there are genes,
+
+771
+00:26:24,310 --> 00:26:26,279
+Yamanaka factors, which for genes that
+
+772
+00:26:26,280 --> 00:26:28,379
+you can use to defragment the cell to
+
+773
+00:26:28,380 --> 00:26:30,509
+get it back to its original state.
+
+774
+00:26:30,510 --> 00:26:32,729
+So it gets completely rejuvenated.
+
+775
+00:26:32,730 --> 00:26:34,799
+And why is it that
+
+776
+00:26:34,800 --> 00:26:36,339
+we don't have this and get Rejuvenator?
+
+777
+00:26:36,340 --> 00:26:37,739
+Well, there's only one animal that is
+
+778
+00:26:37,740 --> 00:26:39,529
+able to really use this that we know of.
+
+779
+00:26:39,530 --> 00:26:41,279
+There's only one animal that we know that
+
+780
+00:26:41,280 --> 00:26:43,199
+is completely immortal in multicellular.
+
+781
+00:26:43,200 --> 00:26:45,569
+It's totally topsiders and which
+
+782
+00:26:45,570 --> 00:26:47,759
+is a small hydra. And it can go back from
+
+783
+00:26:47,760 --> 00:26:49,889
+the hydros stage to
+
+784
+00:26:49,890 --> 00:26:52,289
+the jellyfish stage and back and forward.
+
+785
+00:26:52,290 --> 00:26:54,389
+And when it does this, it can completely
+
+786
+00:26:54,390 --> 00:26:56,069
+reset itself because it's rebuilding its
+
+787
+00:26:56,070 --> 00:26:57,719
+organism on a cellular level.
+
+788
+00:26:57,720 --> 00:27:00,019
+If we as people would do this and
+
+789
+00:27:00,020 --> 00:27:01,439
+we turn ourselves into an
+
+790
+00:27:01,440 --> 00:27:03,419
+undifferentiated state, which happens if
+
+791
+00:27:03,420 --> 00:27:05,519
+you remove the instance of the
+
+792
+00:27:05,520 --> 00:27:07,289
+operating system on the flash drive,
+
+793
+00:27:07,290 --> 00:27:08,339
+that's very bad for you.
+
+794
+00:27:08,340 --> 00:27:10,409
+Right. So this is what happened
+
+795
+00:27:10,410 --> 00:27:11,489
+to Tatsu and Akira.
+
+796
+00:27:11,490 --> 00:27:12,689
+And I mean, you became immortal in the
+
+797
+00:27:12,690 --> 00:27:14,249
+process, but it was not a pretty sight.
+
+798
+00:27:17,600 --> 00:27:18,600
+So
+
+799
+00:27:20,190 --> 00:27:22,439
+once you saw the light and together they
+
+800
+00:27:22,440 --> 00:27:24,509
+specialize and some of these cells, some
+
+801
+00:27:24,510 --> 00:27:26,579
+fat cells are getting teased and prodded
+
+802
+00:27:26,580 --> 00:27:28,439
+into doing information processing and
+
+803
+00:27:28,440 --> 00:27:29,579
+become neurons.
+
+804
+00:27:29,580 --> 00:27:31,409
+And most of the what they do is
+
+805
+00:27:31,410 --> 00:27:32,819
+regulating feedback loops for the
+
+806
+00:27:32,820 --> 00:27:34,709
+organism. So in our brainstem, we have
+
+807
+00:27:34,710 --> 00:27:35,939
+lots and lots of feedback loops.
+
+808
+00:27:35,940 --> 00:27:37,469
+And these people are exposed to things
+
+809
+00:27:37,470 --> 00:27:39,239
+like regulate your body temperature and
+
+810
+00:27:39,240 --> 00:27:40,769
+heart rate and so on, your breathing
+
+811
+00:27:40,770 --> 00:27:41,819
+pattern.
+
+812
+00:27:41,820 --> 00:27:43,739
+And often this is not enough.
+
+813
+00:27:43,740 --> 00:27:45,299
+So on top of this, you have a limbic
+
+814
+00:27:45,300 --> 00:27:47,489
+system and this limbic system gives
+
+815
+00:27:47,490 --> 00:27:48,869
+you pleasure and pain.
+
+816
+00:27:53,010 --> 00:27:55,349
+Pleasure tells you to do more
+
+817
+00:27:55,350 --> 00:27:56,549
+of what you're currently doing
+
+818
+00:27:57,870 --> 00:27:59,699
+paintless. You do less of what you're
+
+819
+00:27:59,700 --> 00:28:00,700
+currently doing.
+
+820
+00:28:02,310 --> 00:28:04,529
+We also need some impulses that tell
+
+821
+00:28:04,530 --> 00:28:06,569
+you to seek out future pleasure and avoid
+
+822
+00:28:06,570 --> 00:28:08,129
+future pain.
+
+823
+00:28:08,130 --> 00:28:10,199
+And it's all related to the needs of
+
+824
+00:28:10,200 --> 00:28:11,309
+the organism.
+
+825
+00:28:11,310 --> 00:28:13,379
+So we have social needs, things
+
+826
+00:28:13,380 --> 00:28:15,539
+like affiliation to need
+
+827
+00:28:15,540 --> 00:28:17,909
+to belong and so on, and legitimacy,
+
+828
+00:28:17,910 --> 00:28:19,979
+the need to conform to internalized norms
+
+829
+00:28:19,980 --> 00:28:22,319
+so we can play together in groups
+
+830
+00:28:22,320 --> 00:28:24,749
+and see meaning and things and so on.
+
+831
+00:28:24,750 --> 00:28:26,819
+We have things like
+
+832
+00:28:26,820 --> 00:28:29,219
+dominance, the need to rise
+
+833
+00:28:29,220 --> 00:28:31,349
+through social hierarchies and so on,
+
+834
+00:28:31,350 --> 00:28:33,779
+the need for romantic affection we have.
+
+835
+00:28:33,780 --> 00:28:35,489
+Then of course, the basic physiological
+
+836
+00:28:35,490 --> 00:28:37,379
+needs, hunger, thirst and so on, pain,
+
+837
+00:28:37,380 --> 00:28:38,909
+avoidance, libido.
+
+838
+00:28:38,910 --> 00:28:41,189
+And we have cognitive needs
+
+839
+00:28:41,190 --> 00:28:43,079
+and need to become more competent to gain
+
+840
+00:28:43,080 --> 00:28:44,939
+new skills. And they have a need to
+
+841
+00:28:44,940 --> 00:28:46,439
+explore and we have needs for its
+
+842
+00:28:46,440 --> 00:28:47,429
+tactics.
+
+843
+00:28:47,430 --> 00:28:49,379
+And all these need to be regulated in
+
+844
+00:28:49,380 --> 00:28:50,279
+homeostasis.
+
+845
+00:28:50,280 --> 00:28:52,589
+This is what makes us human and they
+
+846
+00:28:52,590 --> 00:28:54,749
+shift us around and this need systems.
+
+847
+00:28:54,750 --> 00:28:57,419
+So we need to seek out goals to satisfy
+
+848
+00:28:57,420 --> 00:28:59,339
+these needs or avoid the frustration.
+
+849
+00:29:01,170 --> 00:29:03,599
+And to do this, we need to associate
+
+850
+00:29:03,600 --> 00:29:05,669
+the needs with situations in the
+
+851
+00:29:05,670 --> 00:29:07,079
+world. And this is done in the
+hippocampus.
+
+852
+00:29:07,080 --> 00:29:09,029
+A lot of animals have an hippocampus that
+
+853
+00:29:09,030 --> 00:29:10,799
+basically takes situational patterns and
+
+854
+00:29:10,800 --> 00:29:12,209
+connects them to learning with these
+
+855
+00:29:12,210 --> 00:29:14,069
+needs so we can seek them out in the
+
+856
+00:29:14,070 --> 00:29:15,029
+environment.
+
+857
+00:29:15,030 --> 00:29:16,829
+And the humans have something very fancy
+
+858
+00:29:16,830 --> 00:29:18,599
+on top of this. It's the neocortex in the
+
+859
+00:29:18,600 --> 00:29:20,729
+neocortex can be seen as something like
+
+860
+00:29:20,730 --> 00:29:22,409
+an extension of the hippocampus.
+
+861
+00:29:22,410 --> 00:29:24,599
+And the neocortex is generalizing over
+
+862
+00:29:24,600 --> 00:29:26,359
+these situations. It's just as a pattern
+
+863
+00:29:26,360 --> 00:29:28,229
+of what all these parents have in common
+
+864
+00:29:28,230 --> 00:29:29,879
+of a different type.
+
+865
+00:29:29,880 --> 00:29:31,679
+So how does this work?
+
+866
+00:29:31,680 --> 00:29:33,629
+And the neocortex is making this model of
+
+867
+00:29:33,630 --> 00:29:35,789
+the world that we experience.
+
+868
+00:29:35,790 --> 00:29:38,039
+And as I said, Minsky thought
+
+869
+00:29:38,040 --> 00:29:40,109
+for most of his life that we can treat it
+
+870
+00:29:40,110 --> 00:29:41,579
+as something like a database.
+
+871
+00:29:41,580 --> 00:29:43,529
+And I think a better way of looking at
+
+872
+00:29:43,530 --> 00:29:45,599
+this is to have something
+
+873
+00:29:45,600 --> 00:29:47,039
+like a synthesizer.
+
+874
+00:29:47,040 --> 00:29:48,569
+You know, when you try to understand
+
+875
+00:29:48,570 --> 00:29:50,219
+sound with the synthesizer, what you can
+
+876
+00:29:50,220 --> 00:29:52,319
+be doing is you
+
+877
+00:29:52,320 --> 00:29:54,239
+take in the raw data that comes in from
+
+878
+00:29:54,240 --> 00:29:55,619
+your cochlea, which is like a physical
+
+879
+00:29:55,620 --> 00:29:58,199
+Fourier transform sent into your cortex.
+
+880
+00:29:58,200 --> 00:30:00,509
+And it looks something like this
+
+881
+00:30:00,510 --> 00:30:02,159
+green line here. And then you fiddle on
+
+882
+00:30:02,160 --> 00:30:03,599
+the knobs and your oscillator.
+
+883
+00:30:03,600 --> 00:30:05,999
+This oscillator is made off, of course,
+
+884
+00:30:06,000 --> 00:30:07,679
+and you do this until you are able to
+
+885
+00:30:07,680 --> 00:30:08,619
+reproduce the pattern.
+
+886
+00:30:08,620 --> 00:30:10,169
+So once the pattern has started, you know
+
+887
+00:30:10,170 --> 00:30:11,969
+how it continues and then you can predict
+
+888
+00:30:11,970 --> 00:30:13,889
+the pattern, you understand it.
+
+889
+00:30:13,890 --> 00:30:15,539
+And you don't only do this for the sound,
+
+890
+00:30:15,540 --> 00:30:17,639
+you also do it for vision like colors and
+
+891
+00:30:17,640 --> 00:30:19,229
+for spatial frequencies and so on.
+
+892
+00:30:19,230 --> 00:30:20,279
+Of course, there's a slightly different
+
+893
+00:30:20,280 --> 00:30:22,289
+synthesizer and so on.
+
+894
+00:30:22,290 --> 00:30:24,539
+And once you've done this, you can build
+
+895
+00:30:24,540 --> 00:30:26,369
+a synthesizer on top of the synthesizers
+
+896
+00:30:26,370 --> 00:30:27,569
+and the synthesizer on top of that
+
+897
+00:30:27,570 --> 00:30:29,249
+synthesizer is going to look for patterns
+
+898
+00:30:29,250 --> 00:30:30,509
+in the patterns.
+
+899
+00:30:30,510 --> 00:30:32,339
+So you get simple percepts and you'll get
+
+900
+00:30:32,340 --> 00:30:33,340
+phonemes and so on.
+
+901
+00:30:34,960 --> 00:30:36,099
+And it hasn't stopped there.
+
+902
+00:30:36,100 --> 00:30:37,809
+Then you can combine it all into a
+
+903
+00:30:37,810 --> 00:30:39,309
+complete mental simulation,
+
+904
+00:30:40,390 --> 00:30:42,909
+is that plays out in your mind
+
+905
+00:30:42,910 --> 00:30:44,529
+and you don't need to stop at this mental
+
+906
+00:30:44,530 --> 00:30:46,749
+simulation. You can also take
+
+907
+00:30:46,750 --> 00:30:48,249
+many simulations and generalize over
+
+908
+00:30:48,250 --> 00:30:49,599
+those and find the patterns in them.
+
+909
+00:30:49,600 --> 00:30:51,669
+And then you get concepts and then
+
+910
+00:30:51,670 --> 00:30:53,349
+you can use these concepts for reasoning
+
+911
+00:30:53,350 --> 00:30:54,939
+and you can transform them into language
+
+912
+00:30:54,940 --> 00:30:57,189
+and talk to other people about them.
+
+913
+00:30:57,190 --> 00:30:59,289
+But what you do at each stage is the same
+
+914
+00:30:59,290 --> 00:31:00,309
+thing. You would basically look for
+
+915
+00:31:00,310 --> 00:31:01,349
+patterns and the patterns.
+
+916
+00:31:02,620 --> 00:31:04,119
+There are two types of learning.
+
+917
+00:31:04,120 --> 00:31:05,259
+There's a low level functional
+
+918
+00:31:05,260 --> 00:31:07,449
+approximation that is basically based
+
+919
+00:31:07,450 --> 00:31:08,699
+on learning.
+
+920
+00:31:08,700 --> 00:31:10,659
+You can do as many paradigms, but it
+
+921
+00:31:10,660 --> 00:31:12,039
+comes down to pretty much the same
+
+922
+00:31:12,040 --> 00:31:14,349
+statistics. In the end, it's releasable
+
+923
+00:31:14,350 --> 00:31:16,449
+and it models the complete space.
+
+924
+00:31:16,450 --> 00:31:18,369
+Like when you look at the world as a baby
+
+925
+00:31:18,370 --> 00:31:20,049
+for a few months, you have learned the
+
+926
+00:31:20,050 --> 00:31:21,549
+laws of perspective and lighting, and
+
+927
+00:31:21,550 --> 00:31:23,739
+they don't change very much during life.
+
+928
+00:31:23,740 --> 00:31:25,239
+So, you know, when an object moves and
+
+929
+00:31:25,240 --> 00:31:27,069
+distance becomes smaller, it's actually
+
+930
+00:31:27,070 --> 00:31:28,450
+an object of invariance size.
+
+931
+00:31:29,920 --> 00:31:31,419
+You learn all these things, you learn all
+
+932
+00:31:31,420 --> 00:31:32,499
+these functions.
+
+933
+00:31:32,500 --> 00:31:34,569
+But when we play the world up there,
+
+934
+00:31:34,570 --> 00:31:36,639
+the conceptual world for ideas
+
+935
+00:31:36,640 --> 00:31:39,069
+exists and people exist and politics
+
+936
+00:31:39,070 --> 00:31:40,269
+exist and so on.
+
+937
+00:31:40,270 --> 00:31:42,339
+We cannot model the complete space
+
+938
+00:31:42,340 --> 00:31:43,939
+because we don't get enough sampling data
+
+939
+00:31:43,940 --> 00:31:45,609
+and the dimensionality of the space is
+
+940
+00:31:45,610 --> 00:31:47,799
+too high. So instead, what people do
+
+941
+00:31:47,800 --> 00:31:49,929
+is they use as far as MDP Markov
+
+942
+00:31:49,930 --> 00:31:50,930
+decision model
+
+943
+00:31:52,810 --> 00:31:54,309
+also called a story.
+
+944
+00:31:54,310 --> 00:31:56,559
+And it's basically depletable,
+
+945
+00:31:56,560 --> 00:31:57,519
+like the stock market.
+
+946
+00:31:57,520 --> 00:31:59,239
+We don't model the complete stock market.
+
+947
+00:31:59,240 --> 00:32:00,189
+There's all the probabilities.
+
+948
+00:32:00,190 --> 00:32:02,619
+We pick a single stock or a couple stocks
+
+949
+00:32:02,620 --> 00:32:04,359
+and then we try to see if they work.
+
+950
+00:32:04,360 --> 00:32:06,099
+These are the stories that people, even
+
+951
+00:32:06,100 --> 00:32:07,479
+if they totally don't work, we pick
+
+952
+00:32:07,480 --> 00:32:08,480
+different stocks.
+
+953
+00:32:11,740 --> 00:32:13,389
+And from these all these things we built,
+
+954
+00:32:13,390 --> 00:32:15,369
+this mental simulation that plays out,
+
+955
+00:32:15,370 --> 00:32:17,259
+this is what we perceive of the world,
+
+956
+00:32:17,260 --> 00:32:18,969
+this mental simulation is the world that
+
+957
+00:32:18,970 --> 00:32:20,679
+we believe to be in.
+
+958
+00:32:20,680 --> 00:32:22,029
+And it's nothing like the world out
+
+959
+00:32:22,030 --> 00:32:22,929
+there.
+
+960
+00:32:22,930 --> 00:32:24,339
+The world or there is some kind of
+
+961
+00:32:24,340 --> 00:32:25,389
+computational shithole.
+
+962
+00:32:25,390 --> 00:32:26,949
+You don't you cannot live in there
+
+963
+00:32:26,950 --> 00:32:28,749
+because it's just some weird quantum
+
+964
+00:32:28,750 --> 00:32:30,459
+processes going on that are entangled
+
+965
+00:32:30,460 --> 00:32:32,229
+with your retina and your other senses
+
+966
+00:32:32,230 --> 00:32:34,299
+and your neural networks are
+
+967
+00:32:34,300 --> 00:32:35,899
+going to try to predict the patterns to
+
+968
+00:32:35,900 --> 00:32:37,329
+come into the senses.
+
+969
+00:32:37,330 --> 00:32:38,739
+And to do this, they create all this
+
+970
+00:32:38,740 --> 00:32:40,249
+elaborate structure which you perceive.
+
+971
+00:32:40,250 --> 00:32:41,439
+So out there in the world, there is no
+
+972
+00:32:41,440 --> 00:32:43,329
+color, no sound, no people.
+
+973
+00:32:43,330 --> 00:32:45,189
+There is structure and the structure is
+
+974
+00:32:45,190 --> 00:32:46,359
+regularity in them.
+
+975
+00:32:46,360 --> 00:32:47,979
+And the regularity that you find is
+
+976
+00:32:47,980 --> 00:32:48,999
+projected in your mind.
+
+977
+00:32:52,190 --> 00:32:54,559
+And people find similar regularity, so
+
+978
+00:32:54,560 --> 00:32:56,719
+it seems to be not new, but
+
+979
+00:32:56,720 --> 00:32:58,189
+it's probably not what's out there, it's
+
+980
+00:32:58,190 --> 00:32:59,449
+the function of relationships that you'll
+
+981
+00:32:59,450 --> 00:33:02,089
+find. It's functional abstractions.
+
+982
+00:33:02,090 --> 00:33:04,159
+So our neocortex is an organ that is
+
+983
+00:33:04,160 --> 00:33:05,779
+able to simulate a dynamic world that's
+
+984
+00:33:05,780 --> 00:33:07,579
+literally very much like a dream.
+
+985
+00:33:07,580 --> 00:33:09,679
+It loses the same circuitry as your night
+
+986
+00:33:09,680 --> 00:33:11,899
+time dreaming. Only daytime dreams
+
+987
+00:33:11,900 --> 00:33:13,459
+are connected to your sensory input and
+
+988
+00:33:13,460 --> 00:33:14,460
+constrained by it.
+
+989
+00:33:16,380 --> 00:33:18,389
+And to do this, you have small circuits,
+
+990
+00:33:18,390 --> 00:33:20,039
+the cortical columns made of a few
+
+991
+00:33:20,040 --> 00:33:21,509
+hundred neurons, you have a 100 million
+
+992
+00:33:21,510 --> 00:33:23,429
+of them, and I think that they are
+
+993
+00:33:23,430 --> 00:33:24,989
+probably something like a state machine.
+
+994
+00:33:24,990 --> 00:33:26,319
+And the state machine takes care of
+
+995
+00:33:26,320 --> 00:33:27,959
+neural binding. And each of them is a
+
+996
+00:33:27,960 --> 00:33:29,489
+small function, approximate or embedded
+
+997
+00:33:29,490 --> 00:33:30,509
+in the state machine.
+
+998
+00:33:30,510 --> 00:33:32,489
+They can talk to their neighbors and form
+
+999
+00:33:32,490 --> 00:33:35,339
+larger computational units and
+
+1000
+00:33:35,340 --> 00:33:36,699
+for instance, has a certain size.
+
+1001
+00:33:36,700 --> 00:33:38,939
+It's a brain area and the brain
+
+1002
+00:33:38,940 --> 00:33:40,229
+areas talk to each other and form
+
+1003
+00:33:40,230 --> 00:33:41,159
+processing streams.
+
+1004
+00:33:41,160 --> 00:33:43,109
+And together they play the music of your
+
+1005
+00:33:43,110 --> 00:33:44,549
+mind. It's like an orchestra.
+
+1006
+00:33:44,550 --> 00:33:46,259
+Each brain area has something like 50.
+
+1007
+00:33:46,260 --> 00:33:48,419
+Brain areas is like an instrument,
+
+1008
+00:33:48,420 --> 00:33:50,249
+each of them playing a specialized part
+
+1009
+00:33:50,250 --> 00:33:51,879
+of the music of your mind.
+
+1010
+00:33:51,880 --> 00:33:53,519
+And they listen to the instruments around
+
+1011
+00:33:53,520 --> 00:33:56,079
+them and thereby form streams.
+
+1012
+00:33:56,080 --> 00:33:57,420
+The language, the music propagates.
+
+1013
+00:34:02,350 --> 00:34:04,809
+So from the outside, these musicians
+
+1014
+00:34:04,810 --> 00:34:06,609
+taking sensory patterns and playing motor
+
+1015
+00:34:06,610 --> 00:34:08,738
+patterns and so on and back in there
+
+1016
+00:34:08,739 --> 00:34:10,658
+you get more and more integration
+
+1017
+00:34:10,659 --> 00:34:12,999
+abstraction and you'll
+
+1018
+00:34:13,000 --> 00:34:14,979
+find similar structure to this model in
+
+1019
+00:34:14,980 --> 00:34:17,049
+the brain. And this orchestra has
+
+1020
+00:34:17,050 --> 00:34:18,789
+a conductor. This conductor is not some
+
+1021
+00:34:18,790 --> 00:34:20,198
+kind of magical homunculus.
+
+1022
+00:34:20,199 --> 00:34:22,729
+It's a brain area like the others.
+
+1023
+00:34:22,730 --> 00:34:25,149
+And what it does, it's
+
+1024
+00:34:25,150 --> 00:34:26,709
+deciding what's been played tonight.
+
+1025
+00:34:26,710 --> 00:34:28,359
+The orchestra can play very well on its
+
+1026
+00:34:28,360 --> 00:34:30,039
+own, but if you turn off the conductor,
+
+1027
+00:34:30,040 --> 00:34:31,269
+you become a sleepwalker.
+
+1028
+00:34:31,270 --> 00:34:33,099
+You can still get up at night and
+
+1029
+00:34:33,100 --> 00:34:35,079
+randomly make dinner or talk to somebody.
+
+1030
+00:34:35,080 --> 00:34:36,249
+But there's nobody home in you.
+
+1031
+00:34:37,320 --> 00:34:39,549
+And this conductor is doing
+
+1032
+00:34:39,550 --> 00:34:41,169
+executive function, is resolving
+
+1033
+00:34:41,170 --> 00:34:42,249
+conflicts between the different
+
+1034
+00:34:42,250 --> 00:34:44,198
+instruments and tells them to tune up or
+
+1035
+00:34:44,199 --> 00:34:47,079
+tune down and so on and
+
+1036
+00:34:47,080 --> 00:34:49,238
+change resource allocation and
+
+1037
+00:34:49,239 --> 00:34:51,009
+to do all these things. It maintains a
+
+1038
+00:34:51,010 --> 00:34:53,589
+protocol of what it is at all.
+
+1039
+00:34:53,590 --> 00:34:55,329
+And this protocol is basically a story
+
+1040
+00:34:55,330 --> 00:34:56,678
+that the system tells itself about
+
+1041
+00:34:56,679 --> 00:34:58,779
+itself. The conductor cannot listen to
+
+1042
+00:34:58,780 --> 00:35:00,639
+the whole orchestra. It only listens to
+
+1043
+00:35:00,640 --> 00:35:03,169
+one or a couple instruments at a time.
+
+1044
+00:35:03,170 --> 00:35:04,989
+There's a low resolution, but this is
+
+1045
+00:35:04,990 --> 00:35:06,369
+what it puts into the protocol.
+
+1046
+00:35:06,370 --> 00:35:08,679
+And this protocol is the only part
+
+1047
+00:35:08,680 --> 00:35:11,109
+where our experience gets integrated.
+
+1048
+00:35:11,110 --> 00:35:12,759
+So there's lots and lots of experience
+
+1049
+00:35:12,760 --> 00:35:14,379
+happening in the brain, but these parts
+
+1050
+00:35:14,380 --> 00:35:15,859
+of the brain don't know about each other.
+
+1051
+00:35:15,860 --> 00:35:17,109
+The only in this protocol, they get
+
+1052
+00:35:17,110 --> 00:35:18,069
+together.
+
+1053
+00:35:18,070 --> 00:35:20,079
+And when you access this protocol, you'll
+
+1054
+00:35:20,080 --> 00:35:21,729
+remember what happened there in these
+
+1055
+00:35:21,730 --> 00:35:23,559
+situations, replay these situations in
+
+1056
+00:35:23,560 --> 00:35:24,489
+your brain.
+
+1057
+00:35:24,490 --> 00:35:26,499
+And at some point you also be able to
+
+1058
+00:35:26,500 --> 00:35:28,599
+replay the fact that you accessed
+
+1059
+00:35:28,600 --> 00:35:29,919
+your protocol. So you put into your
+
+1060
+00:35:29,920 --> 00:35:31,389
+protocol the fact that you accessed your
+
+1061
+00:35:31,390 --> 00:35:33,219
+protocol. You have this voice in your
+
+1062
+00:35:33,220 --> 00:35:34,509
+head and you start listening to that
+
+1063
+00:35:34,510 --> 00:35:35,919
+voice and understanding what this voice
+
+1064
+00:35:35,920 --> 00:35:38,259
+says. So now your system
+
+1065
+00:35:38,260 --> 00:35:40,539
+is able to remember
+
+1066
+00:35:40,540 --> 00:35:42,819
+that it attended to itself a moment ago
+
+1067
+00:35:42,820 --> 00:35:44,499
+that perceived itself as being conscious
+
+1068
+00:35:44,500 --> 00:35:45,729
+a moment ago.
+
+1069
+00:35:45,730 --> 00:35:47,649
+And I think this is necessary and
+
+1070
+00:35:47,650 --> 00:35:49,299
+sufficient for consciousness.
+
+1071
+00:35:49,300 --> 00:35:50,619
+So they are probably not actually
+
+1072
+00:35:50,620 --> 00:35:52,179
+conscious in this very moment.
+
+1073
+00:35:52,180 --> 00:35:53,949
+But we do have is a memory of having been
+
+1074
+00:35:53,950 --> 00:35:55,299
+conscious of something a moment ago.
+
+1075
+00:35:57,630 --> 00:35:58,949
+Come to think of it, it's much easier to
+
+1076
+00:35:58,950 --> 00:36:00,480
+build, right? It's not very magical.
+
+1077
+00:36:05,130 --> 00:36:07,129
+So what's it with reality,
+
+1078
+00:36:09,600 --> 00:36:11,789
+you know, imagination and our world
+
+1079
+00:36:11,790 --> 00:36:13,829
+modeling and so on, use the same circuits
+
+1080
+00:36:13,830 --> 00:36:14,819
+and you imagine something.
+
+1081
+00:36:14,820 --> 00:36:16,529
+You use generative models of your brain
+
+1082
+00:36:16,530 --> 00:36:18,869
+that normally are used for perception and
+
+1083
+00:36:18,870 --> 00:36:20,519
+to make sure that you don't mistake your
+
+1084
+00:36:20,520 --> 00:36:22,919
+imaginations for perceptual
+
+1085
+00:36:22,920 --> 00:36:24,479
+stuff, the brain is going to take the
+
+1086
+00:36:24,480 --> 00:36:25,769
+imagination as imaginary.
+
+1087
+00:36:25,770 --> 00:36:28,229
+And the real stuff is real,
+
+1088
+00:36:28,230 --> 00:36:30,329
+right? It's a tech that is put on a part
+
+1089
+00:36:30,330 --> 00:36:31,739
+of the representation of the look real to
+
+1090
+00:36:31,740 --> 00:36:33,959
+you. If this doesn't work, you get
+
+1091
+00:36:33,960 --> 00:36:35,510
+hallucinations, which is kind of awkward.
+
+1092
+00:36:37,980 --> 00:36:39,569
+The brain can also take conceptual
+
+1093
+00:36:39,570 --> 00:36:41,129
+structures as real. For instance, I
+
+1094
+00:36:41,130 --> 00:36:42,959
+somehow believe that the financial system
+
+1095
+00:36:42,960 --> 00:36:44,489
+is real, even though I never perceived
+
+1096
+00:36:44,490 --> 00:36:46,349
+it. And my understanding is probably all
+
+1097
+00:36:46,350 --> 00:36:47,350
+wrong.
+
+1098
+00:36:49,670 --> 00:36:51,469
+Mathematics is very special because
+
+1099
+00:36:51,470 --> 00:36:53,209
+mathematics is just the domain of all
+
+1100
+00:36:53,210 --> 00:36:54,859
+formal languages, is a game played with
+
+1101
+00:36:54,860 --> 00:36:57,199
+symbols, and
+
+1102
+00:36:57,200 --> 00:36:59,119
+it has the same reality, I think, as a
+
+1103
+00:36:59,120 --> 00:37:00,979
+novel that is not read.
+
+1104
+00:37:00,980 --> 00:37:03,199
+So if you have a role, there's not just
+
+1105
+00:37:03,200 --> 00:37:04,969
+a bunch of characters of symbols, right.
+
+1106
+00:37:04,970 --> 00:37:06,649
+When you open it, you hallucinate some
+
+1107
+00:37:06,650 --> 00:37:08,479
+story in your mind.
+
+1108
+00:37:08,480 --> 00:37:10,099
+And but, you know, the story is not real
+
+1109
+00:37:10,100 --> 00:37:11,369
+because somebody has written it, the
+
+1110
+00:37:11,370 --> 00:37:12,889
+symbols into the book. That's it.
+
+1111
+00:37:12,890 --> 00:37:14,059
+And the fascinating thing about
+
+1112
+00:37:14,060 --> 00:37:15,709
+mathematics is that you don't need to
+
+1113
+00:37:15,710 --> 00:37:17,239
+write it into the book. It writes itself.
+
+1114
+00:37:17,240 --> 00:37:18,769
+You just need to pick a few suitable
+
+1115
+00:37:18,770 --> 00:37:20,299
+axioms. And everything else follows from
+
+1116
+00:37:20,300 --> 00:37:22,159
+these axioms because mathematics is
+
+1117
+00:37:22,160 --> 00:37:24,199
+largely discovered, it feels real to the
+
+1118
+00:37:24,200 --> 00:37:26,239
+brain. And this notion that the
+
+1119
+00:37:26,240 --> 00:37:28,609
+metaphysics of mathematics is real
+
+1120
+00:37:28,610 --> 00:37:29,569
+is called Platonism.
+
+1121
+00:37:29,570 --> 00:37:31,279
+I think it's an illusion.
+
+1122
+00:37:31,280 --> 00:37:33,529
+Reality is, in fact
+
+1123
+00:37:33,530 --> 00:37:34,530
+a brain state.
+
+1124
+00:37:37,410 --> 00:37:39,659
+So this leaves us with some
+
+1125
+00:37:39,660 --> 00:37:42,659
+sort of final embarrassment,
+
+1126
+00:37:42,660 --> 00:37:44,099
+and this is.
+
+1127
+00:37:49,420 --> 00:37:51,579
+You know, the
+
+1128
+00:37:51,580 --> 00:37:53,169
+Commodore 64.
+
+1129
+00:37:53,170 --> 00:37:54,849
+Where does it come from?
+
+1130
+00:37:54,850 --> 00:37:56,499
+We can understand how we work, we are
+
+1131
+00:37:56,500 --> 00:37:57,789
+computational, we understand the
+
+1132
+00:37:57,790 --> 00:37:58,959
+universe, how it works, its
+
+1133
+00:37:58,960 --> 00:38:00,789
+computational, and they don't see a limit
+
+1134
+00:38:00,790 --> 00:38:02,019
+to this perspective.
+
+1135
+00:38:02,020 --> 00:38:04,269
+All these big questions that I ask myself
+
+1136
+00:38:04,270 --> 00:38:06,309
+and I started my journey, something like.
+
+1137
+00:38:08,200 --> 00:38:10,299
+Maybe 35 years ago, when I was in
+
+1138
+00:38:10,300 --> 00:38:11,800
+front of this Commodore 64,
+
+1139
+00:38:13,060 --> 00:38:14,529
+how is it possible that a system kind of
+
+1140
+00:38:14,530 --> 00:38:16,329
+emotions, how can it have goals and
+
+1141
+00:38:16,330 --> 00:38:17,349
+motivation?
+
+1142
+00:38:17,350 --> 00:38:19,329
+How is it possible that we can be
+
+1143
+00:38:19,330 --> 00:38:20,259
+conscious?
+
+1144
+00:38:20,260 --> 00:38:22,329
+How is it possible that stuff is moving?
+
+1145
+00:38:22,330 --> 00:38:23,949
+How is it possible that stuff looks real
+
+1146
+00:38:23,950 --> 00:38:25,149
+to us and so on?
+
+1147
+00:38:25,150 --> 00:38:26,679
+All these questions kind of disappear
+
+1148
+00:38:26,680 --> 00:38:28,449
+when you think about them hard enough.
+
+1149
+00:38:28,450 --> 00:38:29,979
+But one question remains, and this is
+
+1150
+00:38:29,980 --> 00:38:32,020
+what put the Commodore 64 into the void.
+
+1151
+00:38:33,400 --> 00:38:34,749
+It's still pretty costly if you think
+
+1152
+00:38:34,750 --> 00:38:36,369
+about it. Right. Something must be taking
+
+1153
+00:38:36,370 --> 00:38:37,479
+away. They're at the heart of the
+
+1154
+00:38:37,480 --> 00:38:39,609
+universe and they have no idea what it
+
+1155
+00:38:39,610 --> 00:38:40,899
+is. And you cannot know it because we
+
+1156
+00:38:40,900 --> 00:38:42,579
+cannot see it from the outside.
+
+1157
+00:38:42,580 --> 00:38:44,109
+But it's the cheapest thing I found to
+
+1158
+00:38:44,110 --> 00:38:46,179
+put there. Everything else that you can
+
+1159
+00:38:46,180 --> 00:38:48,189
+put there, I think is more expensive than
+
+1160
+00:38:48,190 --> 00:38:50,439
+the Commodore 64, which is a very, very
+
+1161
+00:38:50,440 --> 00:38:51,440
+large memory.
+
+1162
+00:38:53,640 --> 00:38:56,129
+So we touched a number of topics today.
+
+1163
+00:38:56,130 --> 00:38:58,379
+We talked about computational universes,
+
+1164
+00:38:58,380 --> 00:39:00,569
+we talked about digital physics, and
+
+1165
+00:39:00,570 --> 00:39:02,939
+we talked about life as the extraction
+
+1166
+00:39:02,940 --> 00:39:03,940
+of entropy.
+
+1167
+00:39:05,480 --> 00:39:07,069
+We talked about the bill that is a dream
+
+1168
+00:39:07,070 --> 00:39:09,529
+produced by our perception.
+
+1169
+00:39:09,530 --> 00:39:12,439
+We talked about the model of
+
+1170
+00:39:12,440 --> 00:39:14,539
+cognition as a synthesizer instead
+
+1171
+00:39:14,540 --> 00:39:16,669
+of symbolic system, and we
+
+1172
+00:39:16,670 --> 00:39:18,169
+talked about the conductor theory of
+
+1173
+00:39:18,170 --> 00:39:20,329
+consciousness and about
+
+1174
+00:39:20,330 --> 00:39:21,650
+the reason for entropy
+
+1175
+00:39:22,670 --> 00:39:24,830
+and that we will all die.
+
+1176
+00:39:29,510 --> 00:39:31,639
+That's quite a bunch of stuff for an
+
+1177
+00:39:31,640 --> 00:39:33,739
+hour, if you have a lot of it, but
+
+1178
+00:39:33,740 --> 00:39:34,729
+you have a little bit of time left
+
+1179
+00:39:34,730 --> 00:39:36,639
+because I've been talking extremely fast.
+
+1180
+00:39:38,720 --> 00:39:40,819
+There's one thing that has
+
+1181
+00:39:40,820 --> 00:39:42,529
+has been puzzling me for a long time, and
+
+1182
+00:39:42,530 --> 00:39:44,209
+this is the thing that has bee left.
+
+1183
+00:39:44,210 --> 00:39:46,099
+You know, then racialism came along
+
+1184
+00:39:47,240 --> 00:39:48,800
+in the 17th century.
+
+1185
+00:39:51,690 --> 00:39:53,969
+People felt a revulsion to it because
+
+1186
+00:39:53,970 --> 00:39:55,889
+in a restless universe, there is no room
+
+1187
+00:39:55,890 --> 00:39:57,689
+for love and meaning but free to come
+
+1188
+00:39:57,690 --> 00:39:59,879
+from, I mean,
+
+1189
+00:39:59,880 --> 00:40:01,589
+some perspective in this fashion as well.
+
+1190
+00:40:01,590 --> 00:40:03,809
+We are just moving bits of rocks or
+
+1191
+00:40:03,810 --> 00:40:05,789
+computational machines or whatever.
+
+1192
+00:40:05,790 --> 00:40:07,289
+How is it possible that anything is
+
+1193
+00:40:07,290 --> 00:40:08,879
+meaningful? How is it possible that there
+
+1194
+00:40:08,880 --> 00:40:09,839
+is a purpose?
+
+1195
+00:40:09,840 --> 00:40:11,649
+How is there space for the sacred?
+
+1196
+00:40:11,650 --> 00:40:13,619
+And as a result, we got romanticism and
+
+1197
+00:40:13,620 --> 00:40:15,929
+romanticism is basically the fight
+
+1198
+00:40:15,930 --> 00:40:18,509
+against rationalism for love
+
+1199
+00:40:18,510 --> 00:40:20,189
+you. Don't you want to keep this thing in
+
+1200
+00:40:20,190 --> 00:40:21,659
+the universe the sense of meaning, of
+
+1201
+00:40:21,660 --> 00:40:23,879
+connection to something that is beyond
+
+1202
+00:40:23,880 --> 00:40:25,079
+what is it?
+
+1203
+00:40:25,080 --> 00:40:26,699
+How can we feel this?
+
+1204
+00:40:26,700 --> 00:40:27,689
+There is something going on there.
+
+1205
+00:40:27,690 --> 00:40:28,829
+Right.
+
+1206
+00:40:28,830 --> 00:40:30,899
+And I think it has an
+
+1207
+00:40:30,900 --> 00:40:32,129
+easy explanation.
+
+1208
+00:40:32,130 --> 00:40:34,259
+And this explanation is part of
+
+1209
+00:40:34,260 --> 00:40:36,779
+evolution. You know, we are
+
+1210
+00:40:36,780 --> 00:40:39,569
+subject to multilevel selection
+
+1211
+00:40:39,570 --> 00:40:41,069
+inside of our organism.
+
+1212
+00:40:41,070 --> 00:40:42,389
+There is going to be a competition
+
+1213
+00:40:42,390 --> 00:40:44,429
+between individual cells and they form
+
+1214
+00:40:44,430 --> 00:40:45,299
+together a group.
+
+1215
+00:40:45,300 --> 00:40:46,679
+And this group is the organism.
+
+1216
+00:40:46,680 --> 00:40:48,809
+And this organism is competing with
+
+1217
+00:40:48,810 --> 00:40:50,219
+other organisms.
+
+1218
+00:40:50,220 --> 00:40:51,989
+And these organisms in turn are forming
+
+1219
+00:40:51,990 --> 00:40:53,549
+groups, small populations, and they're
+
+1220
+00:40:53,550 --> 00:40:55,229
+competing with other populations.
+
+1221
+00:40:55,230 --> 00:40:57,029
+So we have levels and levels and levels
+
+1222
+00:40:57,030 --> 00:40:58,780
+of competition going on and
+
+1223
+00:41:00,240 --> 00:41:01,659
+mutation and selection.
+
+1224
+00:41:01,660 --> 00:41:02,609
+Right.
+
+1225
+00:41:02,610 --> 00:41:03,929
+But the interesting thing is that at
+
+1226
+00:41:03,930 --> 00:41:06,269
+these levels, they are opposing forces.
+
+1227
+00:41:07,440 --> 00:41:09,329
+If you have these cells and the organism
+
+1228
+00:41:09,330 --> 00:41:11,399
+or the people in the group, if one
+
+1229
+00:41:11,400 --> 00:41:13,189
+of these cells is not an altruist, but a
+
+1230
+00:41:13,190 --> 00:41:15,599
+super egotistical and just cheats
+
+1231
+00:41:15,600 --> 00:41:17,849
+and basically is not an angel that uses
+
+1232
+00:41:17,850 --> 00:41:20,009
+all the resources that the angels give us
+
+1233
+00:41:20,010 --> 00:41:22,259
+and just free riders,
+
+1234
+00:41:22,260 --> 00:41:23,579
+then they are going to have a better
+
+1235
+00:41:23,580 --> 00:41:25,649
+time. They have time for getting laid to
+
+1236
+00:41:25,650 --> 00:41:27,749
+reproduce and so on while the angels do
+
+1237
+00:41:27,750 --> 00:41:29,369
+all the hard work right.
+
+1238
+00:41:30,480 --> 00:41:32,819
+So from an evolutionary
+
+1239
+00:41:32,820 --> 00:41:35,069
+perspective, the angels
+
+1240
+00:41:35,070 --> 00:41:37,139
+are not in a good situation.
+
+1241
+00:41:37,140 --> 00:41:38,849
+But if you have a group that has a lot of
+
+1242
+00:41:38,850 --> 00:41:40,560
+angels, a lot of altruists, and
+
+1243
+00:41:41,790 --> 00:41:43,319
+it's in competition with a group of lot
+
+1244
+00:41:43,320 --> 00:41:45,269
+of egotistical individuals, guess who's
+
+1245
+00:41:45,270 --> 00:41:47,489
+going to win? The group is altruists.
+
+1246
+00:41:47,490 --> 00:41:49,649
+So evolution needs to find a solution to
+
+1247
+00:41:49,650 --> 00:41:51,359
+make sure that your group is largely
+
+1248
+00:41:51,360 --> 00:41:52,380
+comprised of angels
+
+1249
+00:41:53,520 --> 00:41:54,809
+and inside of the organism.
+
+1250
+00:41:54,810 --> 00:41:57,269
+It does this for making sure that nobody
+
+1251
+00:41:57,270 --> 00:41:59,909
+gets to procreate except
+
+1252
+00:41:59,910 --> 00:42:01,169
+the organism itself.
+
+1253
+00:42:01,170 --> 00:42:03,479
+So they have some dedicated cells of
+
+1254
+00:42:03,480 --> 00:42:05,309
+our gonads that can reproduce.
+
+1255
+00:42:05,310 --> 00:42:07,439
+But our skin cell has no chance of ever
+
+1256
+00:42:07,440 --> 00:42:09,659
+reproducing. So our skin cell
+
+1257
+00:42:09,660 --> 00:42:10,619
+has no skin in the game.
+
+1258
+00:42:10,620 --> 00:42:11,789
+The only thing they can do is to be
+
+1259
+00:42:11,790 --> 00:42:13,709
+altruistic because it's outperforming the
+
+1260
+00:42:13,710 --> 00:42:15,299
+other cells for its own benefit.
+
+1261
+00:42:15,300 --> 00:42:16,599
+Nothing good is going to happen to the to
+
+1262
+00:42:16,600 --> 00:42:19,139
+cancer. Everybody is just going to die.
+
+1263
+00:42:19,140 --> 00:42:20,039
+Right?
+
+1264
+00:42:20,040 --> 00:42:22,349
+So this is how organisms
+
+1265
+00:42:22,350 --> 00:42:24,209
+do it and this is how state building
+
+1266
+00:42:24,210 --> 00:42:26,699
+insects do it. So only the queen can give
+
+1267
+00:42:26,700 --> 00:42:27,749
+rise to offspring.
+
+1268
+00:42:27,750 --> 00:42:30,239
+The individual worker ants cannot do it.
+
+1269
+00:42:30,240 --> 00:42:32,279
+And this doesn't work for humans because
+
+1270
+00:42:32,280 --> 00:42:34,469
+it's so much work to give
+
+1271
+00:42:34,470 --> 00:42:36,509
+birth to somebody that a single queen
+
+1272
+00:42:36,510 --> 00:42:38,129
+cannot do it for the humans.
+
+1273
+00:42:38,130 --> 00:42:39,929
+So we need to find something else.
+
+1274
+00:42:39,930 --> 00:42:41,399
+And what we do have is something, a
+
+1275
+00:42:41,400 --> 00:42:42,899
+system that works with punishment and
+
+1276
+00:42:42,900 --> 00:42:45,059
+reputation. So if somebody is just
+
+1277
+00:42:45,060 --> 00:42:47,219
+a free rider and a cheater, we have a
+
+1278
+00:42:47,220 --> 00:42:48,689
+petition system, we talk about them, we
+
+1279
+00:42:48,690 --> 00:42:50,669
+punish them. You might even ostracize
+
+1280
+00:42:50,670 --> 00:42:51,989
+them or kill them.
+
+1281
+00:42:51,990 --> 00:42:54,179
+Right. And this
+
+1282
+00:42:54,180 --> 00:42:55,809
+punishment system works pretty well.
+
+1283
+00:42:55,810 --> 00:42:57,629
+The drawback is that it doesn't scale
+
+1284
+00:42:57,630 --> 00:42:59,189
+very well after a couple hundred
+
+1285
+00:42:59,190 --> 00:43:01,289
+individuals. It's over because we cannot
+
+1286
+00:43:01,290 --> 00:43:03,569
+keep track of everybody's reputation.
+
+1287
+00:43:03,570 --> 00:43:05,279
+So what you want you have want to have is
+
+1288
+00:43:05,280 --> 00:43:07,709
+an internalized reputation system.
+
+1289
+00:43:07,710 --> 00:43:09,899
+And this in turn, the reputation system
+
+1290
+00:43:09,900 --> 00:43:12,059
+basically uses some of the drives
+
+1291
+00:43:12,060 --> 00:43:12,989
+on the social needs.
+
+1292
+00:43:12,990 --> 00:43:14,969
+It uses the need to conform to
+
+1293
+00:43:14,970 --> 00:43:15,989
+internalized norms.
+
+1294
+00:43:17,420 --> 00:43:19,159
+And this need to conform, to internalize
+
+1295
+00:43:19,160 --> 00:43:20,209
+norms means that
+
+1296
+00:43:21,950 --> 00:43:23,869
+you'd pick up a few rules in your moment
+
+1297
+00:43:23,870 --> 00:43:25,609
+when you are young and you want to be
+
+1298
+00:43:25,610 --> 00:43:27,769
+good, but being good, it means you
+
+1299
+00:43:27,770 --> 00:43:28,789
+just follow these things.
+
+1300
+00:43:28,790 --> 00:43:31,009
+Even when nobody is looking, you're
+
+1301
+00:43:31,010 --> 00:43:33,109
+not going to eat from the
+
+1302
+00:43:33,110 --> 00:43:36,319
+fridge of your flatmate,
+
+1303
+00:43:36,320 --> 00:43:37,429
+even if nobody is looking.
+
+1304
+00:43:37,430 --> 00:43:38,689
+If you are a good person, it's not
+
+1305
+00:43:38,690 --> 00:43:40,429
+virtuous. It has not you have no honor.
+
+1306
+00:43:40,430 --> 00:43:42,949
+If you do this right, it
+
+1307
+00:43:42,950 --> 00:43:44,179
+may be not rational if you cannot be
+
+1308
+00:43:44,180 --> 00:43:46,309
+caught, but you don't do this,
+
+1309
+00:43:46,310 --> 00:43:47,929
+especially the group mind reaching down
+
+1310
+00:43:47,930 --> 00:43:48,980
+into the individual mind.
+
+1311
+00:43:51,250 --> 00:43:53,379
+And it's also there are some
+
+1312
+00:43:53,380 --> 00:43:54,819
+other drives that happen this hour need
+
+1313
+00:43:54,820 --> 00:43:56,289
+to belong and our need for status that
+
+1314
+00:43:56,290 --> 00:43:58,059
+are important for the reputation system,
+
+1315
+00:43:58,060 --> 00:43:59,859
+but this need to conform, to internalize
+
+1316
+00:43:59,860 --> 00:44:02,439
+norms that need to be good is important.
+
+1317
+00:44:02,440 --> 00:44:03,799
+Now, the problem is, Norm, is that they
+
+1318
+00:44:03,800 --> 00:44:05,109
+are somewhat arbitrary in different
+
+1319
+00:44:05,110 --> 00:44:06,429
+societies, have different norms.
+
+1320
+00:44:06,430 --> 00:44:08,859
+So norms are largely cultural, obviously,
+
+1321
+00:44:08,860 --> 00:44:11,109
+and goodness is an arbitrary
+
+1322
+00:44:11,110 --> 00:44:12,909
+vector and value space.
+
+1323
+00:44:12,910 --> 00:44:14,679
+And this vector gets synchronized between
+
+1324
+00:44:14,680 --> 00:44:16,899
+people through empathy largely.
+
+1325
+00:44:16,900 --> 00:44:18,549
+So you're in a group, something feels
+
+1326
+00:44:18,550 --> 00:44:20,709
+right and people
+
+1327
+00:44:20,710 --> 00:44:22,659
+pick up this feeling of, oh, this feels
+
+1328
+00:44:22,660 --> 00:44:23,589
+right, this is good.
+
+1329
+00:44:23,590 --> 00:44:24,989
+This is what we need to do.
+
+1330
+00:44:26,020 --> 00:44:27,759
+And it gets multiplied with the social
+
+1331
+00:44:27,760 --> 00:44:29,439
+status. So if you dress up somebody as an
+
+1332
+00:44:29,440 --> 00:44:31,749
+authority, as a priest or a politician
+
+1333
+00:44:31,750 --> 00:44:33,969
+or is an eminent speaker or
+
+1334
+00:44:33,970 --> 00:44:36,249
+as a professor, then you're
+
+1335
+00:44:36,250 --> 00:44:37,389
+not somebody like me.
+
+1336
+00:44:37,390 --> 00:44:39,909
+You will feel that
+
+1337
+00:44:39,910 --> 00:44:41,739
+what they say is right, that there is
+
+1338
+00:44:41,740 --> 00:44:44,649
+this normative and you have a compulsion
+
+1339
+00:44:44,650 --> 00:44:45,819
+to conform to this.
+
+1340
+00:44:45,820 --> 00:44:48,789
+And if you feel differently
+
+1341
+00:44:48,790 --> 00:44:50,859
+for logical reasons, then you will have
+
+1342
+00:44:50,860 --> 00:44:52,629
+to bear some considerable cognitive
+
+1343
+00:44:52,630 --> 00:44:55,029
+dissonance. But people tend to pick
+
+1344
+00:44:55,030 --> 00:44:56,140
+up these norms easily.
+
+1345
+00:44:57,190 --> 00:44:59,049
+And this means that people are
+
+1346
+00:44:59,050 --> 00:45:00,050
+programable.
+
+1347
+00:45:00,760 --> 00:45:02,499
+People can be programed to run societal
+
+1348
+00:45:02,500 --> 00:45:05,649
+software in places that are ideology's,
+
+1349
+00:45:05,650 --> 00:45:07,749
+bodies of norms, bodies of rules or how
+
+1350
+00:45:07,750 --> 00:45:10,149
+to interact, and they can structure
+
+1351
+00:45:10,150 --> 00:45:12,129
+the interaction of large groups of
+
+1352
+00:45:12,130 --> 00:45:13,509
+individuals. And it's not based on
+
+1353
+00:45:13,510 --> 00:45:16,059
+reputation. So it can scale arbitrarily
+
+1354
+00:45:16,060 --> 00:45:17,739
+as long as you can project your norms
+
+1355
+00:45:17,740 --> 00:45:18,669
+efficiently.
+
+1356
+00:45:18,670 --> 00:45:20,259
+And our societies used to do this via
+
+1357
+00:45:20,260 --> 00:45:21,469
+mass media.
+
+1358
+00:45:21,470 --> 00:45:22,959
+We can get people to be nice.
+
+1359
+00:45:25,190 --> 00:45:26,959
+And this belief, assimilation, if you are
+
+1360
+00:45:26,960 --> 00:45:29,539
+a nerd like me, is somewhat broken, so
+
+1361
+00:45:29,540 --> 00:45:30,859
+you still try to be good,
+
+1362
+00:45:32,120 --> 00:45:34,339
+but you don't feel it by empathy, what's
+
+1363
+00:45:34,340 --> 00:45:35,599
+the good thing?
+
+1364
+00:45:35,600 --> 00:45:37,189
+You need to do this by arguments.
+
+1365
+00:45:37,190 --> 00:45:38,509
+You talk to others and you see all of
+
+1366
+00:45:38,510 --> 00:45:39,679
+this. This is a good argument.
+
+1367
+00:45:39,680 --> 00:45:40,759
+Yeah, this is goodness.
+
+1368
+00:45:40,760 --> 00:45:43,429
+So this is what I'm willing to do.
+
+1369
+00:45:43,430 --> 00:45:45,559
+But it's hard in this way for
+
+1370
+00:45:45,560 --> 00:45:47,329
+us to synchronize this your nation with
+
+1371
+00:45:47,330 --> 00:45:49,189
+your family unit, your social group, and
+
+1372
+00:45:49,190 --> 00:45:50,839
+see this as the intrinsic good.
+
+1373
+00:45:50,840 --> 00:45:52,399
+So your direction of the system that's
+
+1374
+00:45:52,400 --> 00:45:53,929
+larger than yourself that you can serve
+
+1375
+00:45:53,930 --> 00:45:55,999
+your group mind is going to be directed
+
+1376
+00:45:56,000 --> 00:45:58,579
+on an abstract world, on a metaphysical
+
+1377
+00:45:58,580 --> 00:46:00,649
+world, in a platonic world, on
+
+1378
+00:46:00,650 --> 00:46:01,729
+the transcendental world.
+
+1379
+00:46:01,730 --> 00:46:03,679
+And I think this is the nature of
+
+1380
+00:46:03,680 --> 00:46:05,119
+transcendence. It means that your
+
+1381
+00:46:05,120 --> 00:46:06,619
+meaning, your purpose, the system that
+
+1382
+00:46:06,620 --> 00:46:08,089
+you are serving cannot be found in this
+
+1383
+00:46:08,090 --> 00:46:10,109
+world. It's found in a platonic world.
+
+1384
+00:46:10,110 --> 00:46:12,199
+And I think this is by many nerds to
+
+1385
+00:46:12,200 --> 00:46:13,219
+art or science.
+
+1386
+00:46:15,170 --> 00:46:17,389
+So if you make complicated patterns,
+
+1387
+00:46:17,390 --> 00:46:19,699
+this is transcendental, it's a search
+
+1388
+00:46:19,700 --> 00:46:21,529
+for meaning, it's pretty broken and you
+
+1389
+00:46:21,530 --> 00:46:22,530
+think about it.
+
+1390
+00:46:25,740 --> 00:46:27,899
+OK, I think this
+
+1391
+00:46:27,900 --> 00:46:29,499
+is enough for today.
+
+1392
+00:46:29,500 --> 00:46:31,559
+We have 50 minutes left so we can do some
+
+1393
+00:46:31,560 --> 00:46:32,560
+Q&A
+
+1394
+00:46:33,660 --> 00:46:34,679
+and I thank you very much for your
+
+1395
+00:46:34,680 --> 00:46:35,680
+attention.
+
+1396
+00:46:54,950 --> 00:46:56,959
+Before we begin the Q&A, just a quick
+
+1397
+00:46:56,960 --> 00:46:59,539
+reminder, if you need to leave,
+
+1398
+00:46:59,540 --> 00:47:01,889
+either do so now and very, very quietly,
+
+1399
+00:47:01,890 --> 00:47:03,289
+you'll stay until the end of the slot
+
+1400
+00:47:03,290 --> 00:47:04,969
+because you're not being sneaky as you
+
+1401
+00:47:04,970 --> 00:47:05,970
+think you are.
+
+1402
+00:47:08,330 --> 00:47:09,919
+As always, if you have questions, the
+
+1403
+00:47:09,920 --> 00:47:11,719
+line up at the microphones, please.
+
+1404
+00:47:11,720 --> 00:47:13,339
+If you're unable to get to the
+
+1405
+00:47:13,340 --> 00:47:15,619
+microphones for some reason and laziness
+
+1406
+00:47:15,620 --> 00:47:17,719
+does not count, just raise your hand and
+
+1407
+00:47:17,720 --> 00:47:19,339
+we'll try to get a microphone to you.
+
+1408
+00:47:19,340 --> 00:47:21,379
+And if you on the stream, just post your
+
+1409
+00:47:21,380 --> 00:47:23,089
+questions and we will also get some
+
+1410
+00:47:23,090 --> 00:47:24,859
+questions from the Internet.
+
+1411
+00:47:24,860 --> 00:47:26,899
+And now let's start a microphone for
+
+1412
+00:47:26,900 --> 00:47:27,839
+please.
+
+1413
+00:47:27,840 --> 00:47:29,899
+Hey, um, do
+
+1414
+00:47:29,900 --> 00:47:32,539
+you believe that somehow soonish
+
+1415
+00:47:32,540 --> 00:47:33,559
+we are going to
+
+1416
+00:47:35,360 --> 00:47:37,699
+go through a sort of social
+
+1417
+00:47:37,700 --> 00:47:39,949
+enterprises where we're going to
+
+1418
+00:47:39,950 --> 00:47:42,799
+become a different
+
+1419
+00:47:42,800 --> 00:47:44,149
+superorganism?
+
+1420
+00:47:44,150 --> 00:47:46,249
+And if yes,
+
+1421
+00:47:47,450 --> 00:47:49,609
+what are the biggest challenges,
+
+1422
+00:47:49,610 --> 00:47:51,050
+challenges that you see
+
+1423
+00:47:52,400 --> 00:47:53,400
+in this process?
+
+1424
+00:47:54,890 --> 00:47:57,019
+Well, we are already one of
+
+1425
+00:47:57,020 --> 00:47:59,209
+our societies, our superorganisms, if
+
+1426
+00:47:59,210 --> 00:48:01,399
+you want, but their information
+
+1427
+00:48:01,400 --> 00:48:03,589
+processing is broken.
+
+1428
+00:48:03,590 --> 00:48:05,539
+And I think what we need to do is we need
+
+1429
+00:48:05,540 --> 00:48:07,699
+to build a nervous system
+
+1430
+00:48:07,700 --> 00:48:10,009
+for humankind right
+
+1431
+00:48:10,010 --> 00:48:11,119
+now than ever.
+
+1432
+00:48:11,120 --> 00:48:13,549
+Academia is trying to work on topics
+
+1433
+00:48:13,550 --> 00:48:15,109
+that are only veining by tools like
+
+1434
+00:48:15,110 --> 00:48:17,449
+computer science. You're not going to
+
+1435
+00:48:17,450 --> 00:48:19,669
+get a career in computer science
+
+1436
+00:48:19,670 --> 00:48:22,159
+if you have proofs that are wrong.
+
+1437
+00:48:22,160 --> 00:48:24,229
+Right. But if you
+
+1438
+00:48:24,230 --> 00:48:25,849
+want to have a career in economics and
+
+1439
+00:48:25,850 --> 00:48:28,069
+you make suggestions that are costing
+
+1440
+00:48:28,070 --> 00:48:30,229
+somebody a billion dollars, chances are
+
+1441
+00:48:30,230 --> 00:48:31,459
+that you're not going to get tenure.
+
+1442
+00:48:32,510 --> 00:48:33,979
+At least they're going to be some forces
+
+1443
+00:48:33,980 --> 00:48:35,059
+that oppose you.
+
+1444
+00:48:35,060 --> 00:48:37,369
+And some if you
+
+1445
+00:48:37,370 --> 00:48:40,459
+lie in the right way to get people
+
+1446
+00:48:40,460 --> 00:48:42,649
+some money, there are some
+
+1447
+00:48:42,650 --> 00:48:44,269
+forces that are going to support you.
+
+1448
+00:48:44,270 --> 00:48:46,399
+And for this reason, it seems that
+
+1449
+00:48:46,400 --> 00:48:48,859
+our mechanisms of creating
+
+1450
+00:48:48,860 --> 00:48:51,019
+knowledge in domains that are policy
+
+1451
+00:48:51,020 --> 00:48:52,549
+relevant are broken.
+
+1452
+00:48:52,550 --> 00:48:54,709
+So we have difficulty in our societies to
+
+1453
+00:48:54,710 --> 00:48:56,329
+find out what's actually happening on the
+
+1454
+00:48:56,330 --> 00:48:57,919
+ground. We don't have very good models of
+
+1455
+00:48:57,920 --> 00:49:00,349
+the economy. We have very poor models
+
+1456
+00:49:00,350 --> 00:49:02,509
+of ecology and so on, and we
+
+1457
+00:49:02,510 --> 00:49:04,519
+have difficulty allocating resources
+
+1458
+00:49:04,520 --> 00:49:05,599
+properly.
+
+1459
+00:49:05,600 --> 00:49:07,819
+So, for instance, with respect to global
+
+1460
+00:49:07,820 --> 00:49:09,559
+warming, I think we would definitely need
+
+1461
+00:49:09,560 --> 00:49:11,359
+to put a lot of resources into
+
+1462
+00:49:11,360 --> 00:49:12,769
+postapocalyptic science
+
+1463
+00:49:14,060 --> 00:49:15,769
+at this.
+
+1464
+00:49:15,770 --> 00:49:17,659
+Thank you. Thank you.
+
+1465
+00:49:17,660 --> 00:49:20,209
+This Titanic in front of the iceberg and
+
+1466
+00:49:20,210 --> 00:49:22,099
+the iceberg is there and we put a
+
+1467
+00:49:22,100 --> 00:49:24,019
+considerable amount of resources into
+
+1468
+00:49:24,020 --> 00:49:25,829
+computing the last remaining dutches of
+
+1469
+00:49:25,830 --> 00:49:27,469
+probability that you maybe not hit the
+
+1470
+00:49:27,470 --> 00:49:29,509
+iceberg, but we all know it's somewhere
+
+1471
+00:49:29,510 --> 00:49:31,639
+in the 90s percent.
+
+1472
+00:49:31,640 --> 00:49:33,769
+Right. And so
+
+1473
+00:49:33,770 --> 00:49:35,119
+I think it would be rational to put
+
+1474
+00:49:35,120 --> 00:49:37,489
+considerable amount of resources into
+
+1475
+00:49:37,490 --> 00:49:38,689
+exploring the question, what's going to
+
+1476
+00:49:38,690 --> 00:49:40,789
+happen after we hit the iceberg?
+
+1477
+00:49:40,790 --> 00:49:42,320
+How do we rebuild what's left?
+
+1478
+00:49:43,460 --> 00:49:46,129
+And instead, most of our senses
+
+1479
+00:49:46,130 --> 00:49:48,289
+that the city planning and
+
+1480
+00:49:48,290 --> 00:49:50,389
+the economical planning and labor
+
+1481
+00:49:50,390 --> 00:49:51,949
+market planning and so on are predicated
+
+1482
+00:49:51,950 --> 00:49:53,359
+on the status quo. That everything
+
+1483
+00:49:53,360 --> 00:49:55,479
+happens continues as it
+
+1484
+00:49:55,480 --> 00:49:58,129
+is insane.
+
+1485
+00:49:58,130 --> 00:49:59,569
+And it's because of the systemic
+
+1486
+00:49:59,570 --> 00:50:01,249
+incentives that we said that the people
+
+1487
+00:50:01,250 --> 00:50:02,779
+that are successful and get to the top
+
+1488
+00:50:02,780 --> 00:50:04,549
+positions are those that are successful
+
+1489
+00:50:04,550 --> 00:50:06,769
+in the given system, not the
+
+1490
+00:50:06,770 --> 00:50:08,179
+next system.
+
+1491
+00:50:08,180 --> 00:50:09,919
+So whenever a system comes under stress,
+
+1492
+00:50:09,920 --> 00:50:11,269
+it's much harder to fix it.
+
+1493
+00:50:11,270 --> 00:50:12,559
+We need to fix all these things and we
+
+1494
+00:50:12,560 --> 00:50:14,959
+don't know how, but I think it's possible
+
+1495
+00:50:14,960 --> 00:50:15,979
+to fix it at some level.
+
+1496
+00:50:15,980 --> 00:50:17,959
+Our brain is not lying to itself at the
+
+1497
+00:50:17,960 --> 00:50:19,189
+lowest levels.
+
+1498
+00:50:19,190 --> 00:50:21,259
+So nervous systems don't lie to
+
+1499
+00:50:21,260 --> 00:50:23,299
+the organism about the fact that it hurts
+
+1500
+00:50:23,300 --> 00:50:26,089
+itself or not, and
+
+1501
+00:50:26,090 --> 00:50:28,159
+only if it helps the organism.
+
+1502
+00:50:28,160 --> 00:50:29,989
+And right now we have systems that
+
+1503
+00:50:29,990 --> 00:50:31,129
+corrupt our thinking.
+
+1504
+00:50:31,130 --> 00:50:32,809
+And I think we need some to think about
+
+1505
+00:50:32,810 --> 00:50:34,369
+some type of new social media that
+
+1506
+00:50:34,370 --> 00:50:36,469
+filters information by truth and
+
+1507
+00:50:36,470 --> 00:50:38,989
+relevance instead of
+
+1508
+00:50:38,990 --> 00:50:40,070
+things that are addictive.
+
+1509
+00:50:41,610 --> 00:50:43,019
+So I don't know what this thing is going
+
+1510
+00:50:43,020 --> 00:50:44,519
+to look like and if you manage to build
+
+1511
+00:50:44,520 --> 00:50:46,679
+it in time, but I think
+
+1512
+00:50:46,680 --> 00:50:48,839
+it should be possible, it's
+
+1513
+00:50:48,840 --> 00:50:49,949
+probably worth thinking about.
+
+1514
+00:50:58,220 --> 00:51:00,439
+Could we get a question from our global
+
+1515
+00:51:00,440 --> 00:51:01,699
+nervous system, the Internet?
+
+1516
+00:51:03,500 --> 00:51:05,809
+Lots of people on the Internet
+
+1517
+00:51:05,810 --> 00:51:07,579
+were wondering what if this is already
+
+1518
+00:51:07,580 --> 00:51:09,559
+proven and what is the stuff you're
+
+1519
+00:51:09,560 --> 00:51:10,729
+inferring?
+
+1520
+00:51:10,730 --> 00:51:12,829
+So they would like you to
+
+1521
+00:51:12,830 --> 00:51:15,199
+provide a link collection or a glossary
+
+1522
+00:51:15,200 --> 00:51:17,479
+on further reading and know a lot
+
+1523
+00:51:17,480 --> 00:51:19,969
+of the stuff is already really proven
+
+1524
+00:51:19,970 --> 00:51:20,970
+known to be true.
+
+1525
+00:51:23,270 --> 00:51:25,489
+I think nothing of this is ever really
+
+1526
+00:51:25,490 --> 00:51:27,169
+proven because there are alternative
+
+1527
+00:51:27,170 --> 00:51:29,269
+views of the world, and a lot
+
+1528
+00:51:29,270 --> 00:51:31,039
+of the things that I tell you are
+
+1529
+00:51:31,040 --> 00:51:33,679
+speculative in the sense that
+
+1530
+00:51:33,680 --> 00:51:35,719
+we don't know if the world is a discrete
+
+1531
+00:51:35,720 --> 00:51:38,329
+state machine. And there are
+
+1532
+00:51:38,330 --> 00:51:40,489
+some physicists that are reasonable that
+
+1533
+00:51:40,490 --> 00:51:42,289
+think it's possible that it is.
+
+1534
+00:51:42,290 --> 00:51:44,299
+And there are many physicists, majority
+
+1535
+00:51:44,300 --> 00:51:45,709
+actually, which think it's probably
+
+1536
+00:51:45,710 --> 00:51:47,509
+something else altogether and we don't
+
+1537
+00:51:47,510 --> 00:51:49,699
+know. So what I'm trying
+
+1538
+00:51:49,700 --> 00:51:51,739
+to show you is a particular kind of
+
+1539
+00:51:51,740 --> 00:51:53,389
+rabbit, also particular school of
+
+1540
+00:51:53,390 --> 00:51:55,789
+thought, which I find exciting.
+
+1541
+00:51:55,790 --> 00:51:57,919
+And I just want to show
+
+1542
+00:51:57,920 --> 00:52:00,079
+you a way to explore this land with
+
+1543
+00:52:00,080 --> 00:52:01,159
+me.
+
+1544
+00:52:01,160 --> 00:52:03,019
+So I do think that these things are true
+
+1545
+00:52:04,100 --> 00:52:05,929
+or they have a good chance of being true.
+
+1546
+00:52:05,930 --> 00:52:07,819
+And I will probably change my views on
+
+1547
+00:52:07,820 --> 00:52:08,900
+them in the future.
+
+1548
+00:52:11,030 --> 00:52:12,079
+I think that they're convincing.
+
+1549
+00:52:12,080 --> 00:52:13,080
+They convince me.
+
+1550
+00:52:19,260 --> 00:52:20,699
+With respect to Mayan's, I think they are
+
+1551
+00:52:20,700 --> 00:52:21,900
+probably the only game in town.
+
+1552
+00:52:24,590 --> 00:52:27,139
+Mike, number five, please.
+
+1553
+00:52:27,140 --> 00:52:28,939
+Hello. Thanks for your talk.
+
+1554
+00:52:28,940 --> 00:52:31,589
+And we're able to recognize
+
+1555
+00:52:31,590 --> 00:52:33,379
+limitation, computational limits on
+
+1556
+00:52:33,380 --> 00:52:35,110
+external systems like a cat
+
+1557
+00:52:36,200 --> 00:52:38,239
+cat will probably never understand
+
+1558
+00:52:38,240 --> 00:52:39,240
+physics.
+
+1559
+00:52:40,280 --> 00:52:42,949
+But as all systems,
+
+1560
+00:52:42,950 --> 00:52:44,629
+do you think that we'll ever be able to
+
+1561
+00:52:44,630 --> 00:52:47,569
+recognize an upper computational limits
+
+1562
+00:52:47,570 --> 00:52:49,760
+for ourselves as conscious beings?
+
+1563
+00:52:51,880 --> 00:52:53,949
+Probably, and we
+
+1564
+00:52:53,950 --> 00:52:56,049
+made some estimates in
+
+1565
+00:52:56,050 --> 00:52:57,969
+my class and I taught a class in the
+
+1566
+00:52:57,970 --> 00:53:00,279
+Media Lab last year, and so we discussed
+
+1567
+00:53:00,280 --> 00:53:02,739
+about what's the computational
+
+1568
+00:53:02,740 --> 00:53:03,909
+power of the human brain.
+
+1569
+00:53:03,910 --> 00:53:06,309
+And then we estimated that maybe
+
+1570
+00:53:06,310 --> 00:53:08,379
+we can take coding a column
+
+1571
+00:53:08,380 --> 00:53:10,959
+encoded in something like three kilobytes
+
+1572
+00:53:10,960 --> 00:53:12,789
+before the Attracta states and the actual
+
+1573
+00:53:12,790 --> 00:53:15,159
+for connectivity that it has and
+
+1574
+00:53:15,160 --> 00:53:17,349
+the function approximation
+
+1575
+00:53:17,350 --> 00:53:18,819
+that you've put in there and so on.
+
+1576
+00:53:18,820 --> 00:53:20,199
+And if you multiply this with the number
+
+1577
+00:53:20,200 --> 00:53:22,299
+of columns and maybe you can
+
+1578
+00:53:22,300 --> 00:53:24,339
+run a person on one hundred gigabytes, if
+
+1579
+00:53:24,340 --> 00:53:26,539
+you only knew how long, maybe a couple
+
+1580
+00:53:26,540 --> 00:53:27,789
+of hundred gigabytes, but something in
+
+1581
+00:53:27,790 --> 00:53:29,859
+this ballpark and
+
+1582
+00:53:29,860 --> 00:53:31,209
+it could also be a few terabytes.
+
+1583
+00:53:31,210 --> 00:53:33,159
+But we don't know.
+
+1584
+00:53:33,160 --> 00:53:34,929
+We also know that based on how long you
+
+1585
+00:53:34,930 --> 00:53:36,639
+live, you're not going to perform more
+
+1586
+00:53:36,640 --> 00:53:38,739
+than like a million concepts because
+
+1587
+00:53:38,740 --> 00:53:40,539
+life is short. And even if you form a
+
+1588
+00:53:40,540 --> 00:53:42,639
+couple of concepts every half hour or so,
+
+1589
+00:53:42,640 --> 00:53:44,319
+you're not going to be substantially more
+
+1590
+00:53:44,320 --> 00:53:45,879
+than a million concepts before we die.
+
+1591
+00:53:47,140 --> 00:53:49,419
+So this gives
+
+1592
+00:53:49,420 --> 00:53:51,549
+us an idea about how complex
+
+1593
+00:53:51,550 --> 00:53:52,449
+our cognition is.
+
+1594
+00:53:52,450 --> 00:53:54,069
+I think it's not as complex as we
+
+1595
+00:53:54,070 --> 00:53:56,019
+imagined because our life is so short and
+
+1596
+00:53:56,020 --> 00:53:57,559
+the amount of data that we get to see is
+
+1597
+00:53:57,560 --> 00:53:58,560
+so little.
+
+1598
+00:54:01,470 --> 00:54:02,849
+Mike, number one, please.
+
+1599
+00:54:04,020 --> 00:54:05,519
+Hey, thank you for your talk.
+
+1600
+00:54:05,520 --> 00:54:07,619
+One question arose when you were
+
+1601
+00:54:07,620 --> 00:54:08,999
+talking about love.
+
+1602
+00:54:09,000 --> 00:54:11,159
+How would the joy to to level
+
+1603
+00:54:11,160 --> 00:54:13,529
+the joy to not conform fit
+
+1604
+00:54:13,530 --> 00:54:15,239
+into your model?
+
+1605
+00:54:15,240 --> 00:54:17,189
+I think that's largely because you have
+
+1606
+00:54:17,190 --> 00:54:19,289
+in groups and out groups, if
+
+1607
+00:54:19,290 --> 00:54:20,789
+you have an inner group or people that
+
+1608
+00:54:20,790 --> 00:54:22,919
+you love, it means that you serve the
+
+1609
+00:54:22,920 --> 00:54:23,849
+sacred to them.
+
+1610
+00:54:23,850 --> 00:54:25,829
+You serve the system that is bigger than
+
+1611
+00:54:25,830 --> 00:54:27,929
+you, that you are serving
+
+1612
+00:54:27,930 --> 00:54:29,429
+because you recognize it in the other,
+
+1613
+00:54:29,430 --> 00:54:30,509
+the sacred.
+
+1614
+00:54:30,510 --> 00:54:32,369
+And this is at the core of love, the
+
+1615
+00:54:32,370 --> 00:54:33,389
+service.
+
+1616
+00:54:33,390 --> 00:54:35,459
+And of course, not everybody is serving
+
+1617
+00:54:35,460 --> 00:54:37,679
+the same God. And there are others that
+
+1618
+00:54:37,680 --> 00:54:39,389
+are doing things that you consider to be
+
+1619
+00:54:39,390 --> 00:54:41,969
+evil or stupid, the outcome of members.
+
+1620
+00:54:41,970 --> 00:54:43,799
+And if you are surrounded by group
+
+1621
+00:54:43,800 --> 00:54:45,929
+members, you're going to feel
+
+1622
+00:54:45,930 --> 00:54:47,609
+much better if you have ways of fighting
+
+1623
+00:54:47,610 --> 00:54:50,009
+back and being mischievous
+
+1624
+00:54:50,010 --> 00:54:52,379
+or being evil to them and so on
+
+1625
+00:54:52,380 --> 00:54:54,419
+might be a way to fight against evil that
+
+1626
+00:54:54,420 --> 00:54:56,519
+you perceive as hostile and as
+
+1627
+00:54:56,520 --> 00:54:58,250
+something that is not part of your group.
+
+1628
+00:54:59,370 --> 00:55:01,649
+Just the joy, the joy element
+
+1629
+00:55:01,650 --> 00:55:03,779
+is not so much explained the
+
+1630
+00:55:03,780 --> 00:55:05,759
+joy, but there is a benefit and
+
+1631
+00:55:05,760 --> 00:55:07,169
+aggression sometimes because we are a
+
+1632
+00:55:07,170 --> 00:55:08,579
+competitive species, too.
+
+1633
+00:55:08,580 --> 00:55:09,659
+Not all of us are.
+
+1634
+00:55:09,660 --> 00:55:11,699
+They are differences in competitiveness.
+
+1635
+00:55:11,700 --> 00:55:13,439
+I think I'm not very competitive.
+
+1636
+00:55:13,440 --> 00:55:14,609
+Don't get much out of this.
+
+1637
+00:55:14,610 --> 00:55:16,589
+But you see that a number of people that
+
+1638
+00:55:16,590 --> 00:55:18,929
+really enjoy very much winning
+
+1639
+00:55:18,930 --> 00:55:21,299
+over others and there is a joy
+
+1640
+00:55:21,300 --> 00:55:23,159
+in winning and breaking the other and
+
+1641
+00:55:23,160 --> 00:55:24,899
+being stronger than them and destroying
+
+1642
+00:55:24,900 --> 00:55:26,639
+them and taking their resources,
+
+1643
+00:55:26,640 --> 00:55:28,289
+extracting the neck entropy from their
+
+1644
+00:55:28,290 --> 00:55:29,290
+volume of space.
+
+1645
+00:55:30,190 --> 00:55:31,739
+OK, thank you.
+
+1646
+00:55:31,740 --> 00:55:33,719
+Could we get a microphone number seven,
+
+1647
+00:55:33,720 --> 00:55:34,829
+please?
+
+1648
+00:55:34,830 --> 00:55:37,409
+Hi, and thank you for the talk
+
+1649
+00:55:37,410 --> 00:55:39,599
+about the idea that what we are
+
+1650
+00:55:39,600 --> 00:55:42,059
+experiencing is not what's actually
+
+1651
+00:55:42,060 --> 00:55:44,249
+out. There is something I read
+
+1652
+00:55:44,250 --> 00:55:46,349
+about when reading about meditation
+
+1653
+00:55:46,350 --> 00:55:47,339
+as well.
+
+1654
+00:55:47,340 --> 00:55:50,039
+Have you come across this concept
+
+1655
+00:55:50,040 --> 00:55:52,229
+in this context and do you maybe even
+
+1656
+00:55:52,230 --> 00:55:53,699
+have experience?
+
+1657
+00:55:53,700 --> 00:55:54,079
+Yes.
+
+1658
+00:55:54,080 --> 00:55:56,279
+This so
+
+1659
+00:55:56,280 --> 00:55:57,929
+when you meditate very deeply, when you
+
+1660
+00:55:57,930 --> 00:55:59,819
+do Vipassana, for instance, you can
+
+1661
+00:55:59,820 --> 00:56:01,799
+experience a state in which you detach
+
+1662
+00:56:01,800 --> 00:56:04,109
+yourself from
+
+1663
+00:56:04,110 --> 00:56:06,179
+your self concept and from
+
+1664
+00:56:06,180 --> 00:56:08,339
+all these findings, from your body image,
+
+1665
+00:56:08,340 --> 00:56:10,799
+from your perspective
+
+1666
+00:56:10,800 --> 00:56:12,569
+on yourself as a person even.
+
+1667
+00:56:12,570 --> 00:56:14,669
+And when you do this,
+
+1668
+00:56:14,670 --> 00:56:16,739
+you can experience yourself in the third
+
+1669
+00:56:16,740 --> 00:56:18,539
+person perspective. If you think about
+
+1670
+00:56:18,540 --> 00:56:20,879
+yourself, it's difficult then to identify
+
+1671
+00:56:20,880 --> 00:56:23,339
+with you and realize that,
+
+1672
+00:56:23,340 --> 00:56:25,319
+for instance, the motives and impulse are
+
+1673
+00:56:25,320 --> 00:56:26,519
+still there, but they are no longer
+
+1674
+00:56:26,520 --> 00:56:27,569
+direct you.
+
+1675
+00:56:27,570 --> 00:56:28,919
+They are like a ghost.
+
+1676
+00:56:28,920 --> 00:56:30,059
+They're somewhere in the background.
+
+1677
+00:56:30,060 --> 00:56:32,219
+Your self concept does not integrate them
+
+1678
+00:56:32,220 --> 00:56:33,509
+very much.
+
+1679
+00:56:33,510 --> 00:56:35,789
+And this is when you realize the thing
+
+1680
+00:56:35,790 --> 00:56:37,979
+that the robot's
+
+1681
+00:56:37,980 --> 00:56:40,229
+investible to realize that reality falls
+
+1682
+00:56:40,230 --> 00:56:41,879
+apart and they're not really this
+
+1683
+00:56:41,880 --> 00:56:43,649
+humanoid robots. There are mines that are
+
+1684
+00:56:43,650 --> 00:56:45,719
+more general than what they're being
+
+1685
+00:56:45,720 --> 00:56:46,720
+used for.
+
+1686
+00:56:47,610 --> 00:56:48,610
+Thank you.
+
+1687
+00:56:49,020 --> 00:56:51,030
+Could we get the Internet, please?
+
+1688
+00:56:53,370 --> 00:56:55,589
+Yet Drasin wants to know,
+
+1689
+00:56:55,590 --> 00:56:57,959
+did any of this research attempts
+
+1690
+00:56:57,960 --> 00:57:00,179
+to resolve pathological brain
+
+1691
+00:57:00,180 --> 00:57:01,180
+patterns?
+
+1692
+00:57:03,020 --> 00:57:04,139
+All right.
+
+1693
+00:57:04,140 --> 00:57:06,359
+Well, I'm not a doctor, so I'm not
+
+1694
+00:57:06,360 --> 00:57:08,009
+competent in doing this.
+
+1695
+00:57:08,010 --> 00:57:10,139
+But I suppose that many
+
+1696
+00:57:10,140 --> 00:57:12,569
+of us, when we try to understand anything
+
+1697
+00:57:12,570 --> 00:57:14,939
+in the world, we do so because
+
+1698
+00:57:14,940 --> 00:57:17,159
+we think something needs to be debarked.
+
+1699
+00:57:17,160 --> 00:57:18,899
+Our self concept might actually be an
+
+1700
+00:57:18,900 --> 00:57:21,359
+attempt of our system to Dibakar itself.
+
+1701
+00:57:21,360 --> 00:57:23,639
+So at some point, the baby
+
+1702
+00:57:23,640 --> 00:57:25,529
+thinks that the world is pleasure and
+
+1703
+00:57:25,530 --> 00:57:27,179
+pain and then it realizes that pleasure
+
+1704
+00:57:27,180 --> 00:57:28,739
+and pain is not a feature of the world,
+
+1705
+00:57:28,740 --> 00:57:29,819
+but of itself.
+
+1706
+00:57:29,820 --> 00:57:31,319
+And then I realized this, that it's not a
+
+1707
+00:57:31,320 --> 00:57:32,699
+direct representation.
+
+1708
+00:57:32,700 --> 00:57:34,409
+For instance, you might realize that
+
+1709
+00:57:34,410 --> 00:57:36,689
+you've cut yourself and it hurts
+
+1710
+00:57:36,690 --> 00:57:38,369
+a lot, but it's only a very tiny cut.
+
+1711
+00:57:38,370 --> 00:57:40,109
+So you need to downplay this and you
+
+1712
+00:57:40,110 --> 00:57:41,609
+realize it's a signal that is very
+
+1713
+00:57:41,610 --> 00:57:43,559
+strong. It's not objective reality.
+
+1714
+00:57:43,560 --> 00:57:45,809
+And so you do this step by step.
+
+1715
+00:57:45,810 --> 00:57:47,009
+And at some point you get to the point
+
+1716
+00:57:47,010 --> 00:57:48,629
+where I realize I'm not my values, I'm
+
+1717
+00:57:48,630 --> 00:57:49,799
+not this person anymore.
+
+1718
+00:57:49,800 --> 00:57:51,989
+And it's a process of reverse engineering
+
+1719
+00:57:51,990 --> 00:57:54,059
+where you make a model of yourself and
+
+1720
+00:57:54,060 --> 00:57:55,589
+then you make a model of something.
+
+1721
+00:57:55,590 --> 00:57:57,389
+It's usually because you cannot regulate
+
+1722
+00:57:57,390 --> 00:57:58,769
+the disturbances with the existing
+
+1723
+00:57:58,770 --> 00:57:59,789
+feedback loops.
+
+1724
+00:57:59,790 --> 00:58:00,899
+So something is going wrong.
+
+1725
+00:58:00,900 --> 00:58:02,759
+When you are very conscious of something,
+
+1726
+00:58:02,760 --> 00:58:04,949
+it means that something in this area is
+
+1727
+00:58:04,950 --> 00:58:07,259
+broken. And I suppose the nerds
+
+1728
+00:58:07,260 --> 00:58:08,519
+try to understand the universe.
+
+1729
+00:58:08,520 --> 00:58:10,349
+They deep down feel that the universe is
+
+1730
+00:58:10,350 --> 00:58:12,869
+somehow broken. They need to debug it
+
+1731
+00:58:12,870 --> 00:58:14,819
+and it probably means something is
+
+1732
+00:58:14,820 --> 00:58:16,529
+actually broken. And then so as children
+
+1733
+00:58:16,530 --> 00:58:17,729
+there, maybe their social interaction
+
+1734
+00:58:17,730 --> 00:58:19,559
+didn't work because they were too nerdy
+
+1735
+00:58:19,560 --> 00:58:21,509
+and they did meet other nerds in which
+
+1736
+00:58:21,510 --> 00:58:22,829
+they could interact with their normal
+
+1737
+00:58:22,830 --> 00:58:23,879
+nerd ways.
+
+1738
+00:58:23,880 --> 00:58:25,619
+Instead, they were surrounded by humans
+
+1739
+00:58:25,620 --> 00:58:27,179
+and they didn't know that they thought
+
+1740
+00:58:27,180 --> 00:58:28,199
+they were humans.
+
+1741
+00:58:28,200 --> 00:58:30,509
+And there's a lot of confusion and pain.
+
+1742
+00:58:30,510 --> 00:58:32,009
+And as a result, you try to look back the
+
+1743
+00:58:32,010 --> 00:58:33,389
+universe because you don't find the bug
+
+1744
+00:58:33,390 --> 00:58:34,390
+in yourself.
+
+1745
+00:58:35,280 --> 00:58:37,439
+So in some sense, I
+
+1746
+00:58:37,440 --> 00:58:39,929
+think that I try to understand
+
+1747
+00:58:39,930 --> 00:58:41,639
+my own pathologies and those of the
+
+1748
+00:58:41,640 --> 00:58:43,019
+people that I love and all the other
+
+1749
+00:58:43,020 --> 00:58:44,579
+people that I meet.
+
+1750
+00:58:44,580 --> 00:58:46,469
+But it's more a side effect that my own
+
+1751
+00:58:46,470 --> 00:58:48,059
+goal is really to understand what we are.
+
+1752
+00:58:51,310 --> 00:58:53,019
+Could we get microphone number three,
+
+1753
+00:58:53,020 --> 00:58:54,020
+please?
+
+1754
+00:58:54,860 --> 00:58:57,039
+Uh, hi, you mentioned before and
+
+1755
+00:58:57,040 --> 00:58:58,539
+corruption of data that leads to
+
+1756
+00:58:58,540 --> 00:59:00,129
+instability.
+
+1757
+00:59:00,130 --> 00:59:02,259
+And I wanted to point out something that
+
+1758
+00:59:02,260 --> 00:59:04,719
+I think is a corruption
+
+1759
+00:59:04,720 --> 00:59:07,449
+of data in your presentation.
+
+1760
+00:59:07,450 --> 00:59:09,819
+You have the need for dominance
+
+1761
+00:59:09,820 --> 00:59:11,389
+in one of your slides.
+
+1762
+00:59:11,390 --> 00:59:13,039
+That illustration.
+
+1763
+00:59:13,040 --> 00:59:15,519
+And I think that is
+
+1764
+00:59:15,520 --> 00:59:17,739
+a representation of the culture
+
+1765
+00:59:17,740 --> 00:59:19,149
+of dominance that also leads to
+
+1766
+00:59:19,150 --> 00:59:19,719
+capitalism.
+
+1767
+00:59:19,720 --> 00:59:22,749
+And capitalism isn't renewable,
+
+1768
+00:59:22,750 --> 00:59:25,359
+sustainable, sustainable.
+
+1769
+00:59:25,360 --> 00:59:27,519
+Um, I think that
+
+1770
+00:59:27,520 --> 00:59:29,889
+a need should be replaced with a
+
+1771
+00:59:29,890 --> 00:59:32,619
+need for social stability.
+
+1772
+00:59:32,620 --> 00:59:34,599
+And actually, if you look at history and
+
+1773
+00:59:34,600 --> 00:59:36,879
+other systems
+
+1774
+00:59:36,880 --> 00:59:39,039
+in nature, you can also see that it's
+
+1775
+00:59:39,040 --> 00:59:41,199
+not the culture, the
+
+1776
+00:59:41,200 --> 00:59:44,199
+systems that strive for dominance
+
+1777
+00:59:44,200 --> 00:59:46,449
+that stay alive, but
+
+1778
+00:59:46,450 --> 00:59:48,609
+the ones that search for
+
+1779
+00:59:48,610 --> 00:59:50,319
+ways to fit into the system that they
+
+1780
+00:59:50,320 --> 00:59:51,339
+have at the moment.
+
+1781
+00:59:51,340 --> 00:59:53,609
+That's also this need for dominance.
+
+1782
+00:59:53,610 --> 00:59:55,749
+This culture is what is destroying our
+
+1783
+00:59:55,750 --> 00:59:57,039
+planet at the moment. And I think that's
+
+1784
+00:59:58,120 --> 00:59:59,319
+worth mentioning.
+
+1785
+00:59:59,320 --> 01:00:00,320
+Mm hmm.
+
+1786
+01:00:01,060 --> 01:00:03,759
+I totally share your sentiments or
+
+1787
+01:00:03,760 --> 01:00:05,769
+most of my friends are basically hippies.
+
+1788
+01:00:05,770 --> 01:00:08,529
+And if you have a valley full of
+
+1789
+01:00:08,530 --> 01:00:10,749
+hippies that do ecological
+
+1790
+01:00:10,750 --> 01:00:13,089
+farming and dance
+
+1791
+01:00:13,090 --> 01:00:15,219
+and marry and
+
+1792
+01:00:15,220 --> 01:00:16,929
+next village, you have a valley of
+
+1793
+01:00:16,930 --> 01:00:19,089
+brigands that are vicious and strong
+
+1794
+01:00:19,090 --> 01:00:21,219
+and Vikings basically that
+
+1795
+01:00:21,220 --> 01:00:23,079
+are willing to pillage and so on.
+
+1796
+01:00:23,080 --> 01:00:24,080
+What do you think is going to win?
+
+1797
+01:00:26,270 --> 01:00:28,609
+And this means that
+
+1798
+01:00:28,610 --> 01:00:30,919
+if you just let evolution run its course,
+
+1799
+01:00:30,920 --> 01:00:32,329
+you will probably get something like an
+
+1800
+01:00:32,330 --> 01:00:34,429
+equilibrium because you need some that
+
+1801
+01:00:34,430 --> 01:00:36,529
+to farm the land and you will have
+
+1802
+01:00:36,530 --> 01:00:38,839
+some that are going to attack and
+
+1803
+01:00:38,840 --> 01:00:40,399
+that you need to push back the immune
+
+1804
+01:00:40,400 --> 01:00:41,669
+system and so on.
+
+1805
+01:00:41,670 --> 01:00:43,789
+And I think that motivation itself
+
+1806
+01:00:43,790 --> 01:00:44,899
+is not adaptive.
+
+1807
+01:00:44,900 --> 01:00:47,269
+Motivation is not a cultural construct.
+
+1808
+01:00:47,270 --> 01:00:48,590
+Motivation is resistive.
+
+1809
+01:00:49,920 --> 01:00:51,959
+Motivation is what puts up resistance to
+
+1810
+01:00:51,960 --> 01:00:53,589
+the environment. This was motivation you
+
+1811
+01:00:53,590 --> 01:00:55,829
+would just give into inertia
+
+1812
+01:00:55,830 --> 01:00:57,449
+and this means you would stay in bed.
+
+1813
+01:00:57,450 --> 01:00:58,979
+You were just brought in bed to give into
+
+1814
+01:00:58,980 --> 01:01:00,479
+physics. You don't get up.
+
+1815
+01:01:00,480 --> 01:01:02,010
+You would become a blob on the floor.
+
+1816
+01:01:03,150 --> 01:01:04,619
+And the only reason why you're not a blob
+
+1817
+01:01:04,620 --> 01:01:05,789
+on the floor is because you have
+
+1818
+01:01:05,790 --> 01:01:07,379
+motivation, something that makes you push
+
+1819
+01:01:07,380 --> 01:01:08,879
+yourself up in the morning and brush your
+
+1820
+01:01:08,880 --> 01:01:11,039
+teeth and have breakfast
+
+1821
+01:01:11,040 --> 01:01:13,349
+and shower and have sex and all these
+
+1822
+01:01:13,350 --> 01:01:15,809
+terrible things that we do ourselves
+
+1823
+01:01:15,810 --> 01:01:17,969
+because we get pleasure and we do them
+
+1824
+01:01:17,970 --> 01:01:19,949
+in pain and we don't do them.
+
+1825
+01:01:19,950 --> 01:01:22,259
+And as a lot of people that
+
+1826
+01:01:22,260 --> 01:01:24,899
+feel this urge to be dominant
+
+1827
+01:01:24,900 --> 01:01:26,489
+and they get pleasure out of being
+
+1828
+01:01:26,490 --> 01:01:28,709
+dominant and
+
+1829
+01:01:28,710 --> 01:01:30,509
+some others don't very much.
+
+1830
+01:01:30,510 --> 01:01:32,639
+And we can change as a culture as how we
+
+1831
+01:01:32,640 --> 01:01:33,929
+value this, I think.
+
+1832
+01:01:33,930 --> 01:01:35,819
+So we can have an influence by saying
+
+1833
+01:01:35,820 --> 01:01:37,199
+this is a desirable behavior.
+
+1834
+01:01:37,200 --> 01:01:38,639
+This is why we want to interact.
+
+1835
+01:01:38,640 --> 01:01:40,109
+And this behavior that if you don't want
+
+1836
+01:01:40,110 --> 01:01:42,329
+to have and this means that different
+
+1837
+01:01:42,330 --> 01:01:43,799
+types of people are going to get in
+
+1838
+01:01:43,800 --> 01:01:44,909
+different positions in different
+
+1839
+01:01:44,910 --> 01:01:46,199
+societies.
+
+1840
+01:01:46,200 --> 01:01:47,369
+That's my current perspective.
+
+1841
+01:01:47,370 --> 01:01:48,749
+It might be wrong, of course.
+
+1842
+01:01:48,750 --> 01:01:50,939
+I think that hunger, thirst, curiosity
+
+1843
+01:01:50,940 --> 01:01:52,799
+and sexual reality.
+
+1844
+01:01:52,800 --> 01:01:54,869
+I'm sorry. Get up at the wrong time.
+
+1845
+01:01:54,870 --> 01:01:55,979
+We don't need attackers.
+
+1846
+01:01:58,190 --> 01:02:00,440
+OK, please give a warm round of applause.
+

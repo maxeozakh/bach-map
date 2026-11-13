@@ -1,0 +1,384 @@
+Page image: https://i.ytimg.com/vi/34VOI_oo-qM/sddefault.jpg I felt that the AGI is coming. When I was a young kid, when I realized what computers can do, and
+in many ways I see that the world is now more optimistic and there is this amazing momentum and also a lot of hype in the air. But it's also not clear how far
+the present technology is going and when. And so it's a very exciting moment in time, but we don't know how far in the future AGI actually is. Yeah. Well it's a
+kind of stance because there's a hierarchy of mimesis. I mean, I gave the language example that that's, you know, the highest level. And then as you say, you
+can go down a step and you can go to evolution, which is about the the competition of physical forms and their evolution. And, you know, Dawkins was talking
+about the gene and you're talking about the software, the software agents where you can call them spirits that compete with each other. But the thing is the
+software agents, they need to find a host. And the interesting thing is that they might be doing some kind of meta optimization because this ladder of mimesis
+is entangled. And so So they might be selecting their hosts based on meta optimizing the the the language mimetic, if that makes sense. But it's not just that
+nature is growing a body for you. And then the spirit moves in and possesses that body. But what's happening is that there is some software that is organizing a
+bunch of cells into becoming a body, and that is already a spirit, right? It's a self-organizing thing that is producing the architecture of your body. And so
+you could say an emergent phenomenon, but there is no magic involved, right? It's really just a self-organizing software that manifests by producing the
+architecture of that body that then produces complex behavior that implements a more complex spirit. Right. But when once I had this insight that what our
+ancestors meant with spirit is exactly self-organizing software agent, my mind was blown. And then the next step, when you realize living nature is actually all
+about software, it's all about control structure. And the actual invariance is not the molecules or the connection between the molecules or some patterns in the
+molecules, but it's actually the causal structure itself, the software. Um, I realized, oh, nature is healing. We are able to put different worldviews together
+in a way that is not superstitious. And they make more sense now, because we now can use our scientific worldview to make sense of a bunch of concepts that are
+difficult to explain so far, and where we felt that our ancestors had, for some funny reason, weird ideas. What we noticed is that animism is not a perspective
+that only exists in some regions in rural Japan. It's also a position that existed in Europe before Christianity came along, and even during Christianity, it's
+something that only stopped with the enlightenment. It still exists in Scandinavia. It basically exists everywhere. People are living inside of forests. The
+thing that is missing in the perspective of a lot of people is consciousness. What is it like to be in a world? What is it like for an agent to discover itself
+and the interaction with the world and I have been started to think very earnestly about the question of what consciousness is, what its role is in our own mind
+and our learning system. And I got on a weird rabbit hole and discovered at some point that I have converted into an animist, and I would like to share this
+perspective with you. The Brave Search API brings affordable developer access to an independent index of over 20 billion web pages. While it's built from
+scratch without big tech biases, powered by real, anonymized human page visits to filter out data, and refreshed daily with tens of millions of new pages.
+Perfect for AI model training and retrieval. Augmented generation whether you're working on language models or information retrieval systems, brave offers
+representative datasets and up to date information affordably. We'll get started with 2003 queries Monthly at brave. Com forward slash API. Are the existing
+models too small? So basically do we need to scale them up more or are they too large? And arguably there is stuff that can be improved by making them larger,
+by introducing more modalities into the model, into more data and so on. But we also see that these models are vastly larger than the stuff that fits into our
+own, arguably somewhat general intelligent mind. If you take something like the stable diffusion rates, you can in two gigabytes and encode an entire visual
+universe that is much richer than ours. And when you think this is maybe 80% of what our brain is doing, then a model that is currently has many billions of
+parameters and so on, and to store a language model is maybe too large. Maybe there is a thing about thinking about what's a minimal engine that could have
+epistemology, right? A minimal model that is able to infer things to learn. And then you take that minimal model that is basically at the level of an extremely
+precocious 12 year old without much beyond core knowledge. And then you give it a library about the topic that you're interested in, and then it reads that
+library before you put it to the task. And maybe you store the contents of that library in a generalist knowledge format that you can exchange between models
+and so on. So I think we are still very much at the beginning of such possible developments. Liquid AI company that I'm currently part of, it's a startup out of
+MIT. We are thinking about how to provide the bottom of the stack. When we think about the neural network. It's a relatively mechanical paradigm that we don't
+use because it's very similar to biology, but we use it because it's quite simple and we know how to train it. And it's arguably not storing the model in an
+optimal form on the hardware. Rather, you predefine the architecture and then try to fit your model into it. And it would be sometimes much nicer if you are
+able to generalize the paradigm in which you are doing your differential function approximation. This is some sense what liquid AI is doing by building more
+fluid models with continuous depth and continuous resolution, and the ability to continuously learn rather than being trained only once. And it's a very
+exciting development, but I think it's it's still an intermediate step. And we think about how the minds work in nature. I think there are more general
+principles to discovered. And so one of the first people who thought systematically about this was Aristotle. And he invented a lot of the concepts or
+reinvented them or preempted them in his time. So, for instance, he talks about the soul or psyche as the animating principle of living matter, right? It's
+basically the form that the physical universe has with respect to the mind. It's a dynamically evolving thing. And so you could think of it as a causal pattern
+that is able to shape a region of physics. And so we could say it's a spirit. Right. And this idea of what that is in today's lingo, we would say it's a self-
+organizing software that is running on a part of physics and is shaping it in a particular way. And he also talks about the intellect that we have that is based
+on reason that is unique to humans, but the psyche is not unique to humans. This animating principle is something that all animals are having. But animals have
+difficulty with symbolic inference because they have difficulty to form a symbolic language and argue with it, and then train their thinking with it and reflect
+on it. So in his perspective, this intellect is something that is unique to humans, whereas a psyche is something that we find in a lot of living things. And he
+talks about a number of other concepts. For instance, in Perceptual Realm, he distinguishes sensory images, which are called icon structural sensory data, which
+is called eidolon. Image perception is the process of eikasia. Geometric shapes are called morphe. A graph is a schema. A generative image is a phantasma.
+Sensory reproduction is called mimesis. A multi-modal multimodal scene interpretation is called aisthesis. So we had concepts for all these aspects that in some
+sense have in modern AI, and that were not being discussed in between for over a thousand years. And then on the reasoning side, we have the abstract
+representation called an idea. A rule based representation is called logos. And you also think of logos as something that underpins everything else. So at the
+bottom we have a rule based universe with rule based laws. Then we have tokens which are called simians, and data types which are called eidos and object types.
+Again those apply types are categorical. Associative inference is called noesis and reasoning is dianoia. And so he has developed a lot of these concepts. And
+if you think about the way in which he thought about the mind, he's not just created the foundations of a lot of Western philosophy, but also of psychology, and
+I think also of about artificial intelligence, this quite mechanist, rationalist way to think about what our mind is and analyze it and decompose it. And it's
+interesting when you read a lot of the secondary literature that philosophers have written in between about this. They map this into concepts that they had in
+between that are quite shallow. But when you reread Aristotle as a computer scientist, it's quite enlightening to see what are the concepts that he has already
+discovered back then and reflected on. But what's also interesting is the hard problem of consciousness doesn't seem to be an issue for him. He doesn't stumble
+over this. And why is that? Is it didn't occur to him how hard it is for a physical system to be conscious, and that seems to be so apparent for us. Or was
+there something that he was seeing that we are not seeing? And what you find about this hard problem is that other cultures do not necessarily have that. When
+you are in Japan, people are less confused about the hard problem for some reason, and I suspect that's because they have a different metaphysics. They are
+mostly animist cultures, and basically the idea of animism is that the living nature is governed by spirits. And if we accept this notion that spirits are not
+something that existed as a superstition before Christianity told us that it's something very suspicious. And after we killed Christianity, it was something
+that was superstitious. But if we accept that spirits are basically self-organizing software agents, that spirits are in their nature software, they have this
+property of being not physically embodied, right? But they are connected to physics in such a way that they do not violate any conservation laws. There is
+nothing that defeats physicalism with respect to software, and there is clearly self-organizing software running on our brains and our bodies. I am personally,
+I'm a representation of it would be like to be a person, and that representation is so tightly implemented. It's driving a lot of my behavior. I'm effectively
+possessed by an entity that thinks of itself as yoshiba and calls itself Yoshiba, and moves all these cells around as if there was a coherent being behind it.
+And it's basically these principles of self-organization that govern this. And if the software ever crashes, then this body falls apart and these cells are
+mostly going to die. Some are going to make off into the woods, but it's basically a large region of the physical universe gets up for grabs again, for other
+agents, for other spirits, and a similar thing is happening in our cells. They're also governed by self-organizing software that is so detailed that it can move
+individual molecules around. And the fascinating thing is that the software at some level is the actual invariance. It's not the mechanism, it's not the
+physical thing, but it is a software that is able to if a neuron dies in my brain to recruit a new neuron and then train it, or if a molecule disappears from my
+cell to find a new, new molecule and then train it into building the mechanism. So the software is the actual thing that matters. And so by the scientific
+worldview, currently rejects the idea of spirits. It is beginning to rediscover the notion of causal patterns in physical universe that are creating
+regularities that we can observe over a wide range of substrates. And that is actually the. So this is the invariance that matters, and different cultures use
+different terminology to describe physical and psychological reality. And I think our worldview is suffering, that we are not properly distinguishing between
+psychological objects and physical objects. This leads to endless confusion in philosophy about, for instance, the notion of free will. How is free will
+compatible with the deterministic physical universe or even with an indeterministic one? How can you be free if the universe randomly forces you to do things?
+But of course, will is a psychological object. It's a representation inside of the mind, and it's free when you're making a decision for the first time, so it
+cannot be predicted. And so as soon as you start properly distinguish between physical objects and objects that are we have in our mental representations, we
+can make a can create more clarity. And for instance, the world that we are interacting with is typically not a world that is the world of the logos or the laws
+of physics. It's not the world of quantum mechanics that we are interacting with, but we are interacting with is a world of stuff in space, with colors and
+sounds and people which are not physical objects, but they are objects that are created as a simulation in our brain. And in the same way as our Self-model is a
+simulation of what it would be like an agent that is perceiving all those things and is occupying the same brain. And so Descartes's dualism is actually not a
+dualism about substances outside of ourselves, outside of the mind, or outside of physics or preceding physics. But the res extensa, the stuff in space happens
+inside of our mind and res cogitans the space of ideas is also happening inside of our mind. There is two domains the world model and the sphere of ideas. They
+are interacting with each other. And so the hard problem is not the question of how can we take the sphere of ideas and map it onto the stuff in space, because
+they're just two different domains inside of our own mind, both generated by the brain. And so the question is a different one. If consciousness is a property
+of something that only exists within your psyche. Basically a dream generated in the mind. How is it possible for a physical universe to build a machine that
+can produce these representations and facilitate it? And so we can, I think, use the concept of computer science and artificial intelligence to close the gaps
+in the metaphysics of our culture. Consciousness itself is a very confusing to a lot of people because we map it or try to map it into physics, but it's not.
+It's a virtual property. It exists as if. Right. And it exists as so tightly as if that it has caused a power and can change the way in which physics works. And
+there are people like Christof Koch who sometimes say that a simulation cannot be conscious. And I think it's exactly the other way around. The physical system
+and mechanism cannot be conscious because it's not itself representing something or a representation. You can only be conscious in a simulation. Consciousness
+is a simulated property, and so all the objects that we can experience are representations inside of the mind, and they are interpreted from the perspective of
+a self, of something that relates to it in a particular way, and it's mapped onto the relations that this simulated self is caring about. And the personal self
+is a representation too. And you can check this by deconstructing it. You can manipulate your personal self using meditation, and then observe that your
+personal self is changing. The dimensions of perception are changing accordingly, and the perception that we normally have of reality is a trance state. It's
+one where we don't observe that the thing that you're interacting with is a representation. And when you deconstruct the trance, we get into a state that a lot
+of meditators call an enlightened state. It's not a state in which you are more pure or more virtuous. It's a state in which the trance of the reality becomes
+apparent as a representation and your own self too. So what do we mean by consciousness? When I point at it, I point at something My inner phenomenology.
+Something that is apparent to me. So when we want to talk about what I mean by it, what I mean for this purpose of our discussion here is two things. One is
+consciousness is a second order perception. It's a perception of perceiving. It's not just as their content present to me, but I notice that this content is
+present and I don't notice it cognitively via symbolic inference. But I notice this immediately, immediately on a perceptual level. So on a level where not
+consciously but symbolically reflect but they're directly perceived that I am perceiving. Right. So this is what I mean by second order perception. Another
+important aspect is consciousness always happens now. It's always a present thing. And it's you could also say it's the thing that creates this present, this
+bubble of nowness that we inhabit. And this bubble of nowness is not a single point in time, but it's a region. And this is not a region in physical time. But
+we know that it's something that is constructed post-hoc in our brain and gets edited all the time, so it's not really aligned. With the physical time, but the
+physical time is somewhat before and behind it. Because part of our subjective now is constructed from the past, and part of the subjective now is constructed
+from expectations of the future. And when the expectations of the future get violated by sensory data, then our mind is editing these experiences, and we don't
+remember that our perception of the now was different a moment ago. So it's it's really a construct, a simulation of what it would be like if there was an agent
+that existed in the now that can be constructed with the type of nervous system that we have available to make it. So it's for a certain temporal resolution,
+spatial resolution and complexity of the modeling that is afforded by our hardware. And so this nowness can slightly dynamic. It's moving. And for me it's
+usually about something like three seconds long. And it's spatial and temporal extent depend very much on the state that I'm in. So the calmer I get and the
+better I'm in tune with my environment. The larger this bubble of now gets and I'm very confused or very exhausted and so on, it becomes very small because they
+can only perceive those things that can make coherent in this space of now. And the smaller this coherent area becomes, the smaller my subjective consciousness
+area becomes. And so functionally, I think it's an operator on mental states, which means there is some kind of language in which representations are taking
+place, not in the sense of like English, but in the sense of a representational language that is implemented on a substrate in my nervous system. And there is a
+consciousness is something that manipulates these representations in some regard. So it's an operator. And I think the purpose of this operator is to increase
+coherence. And we can understand coherence as the minimization of constraint violations. So imagine that my perceptual system discovers something that tries to
+interpret as a nose. And then the nose has certain parameters like points in a certain direction. I can infer that there must be a face nearby that points in
+the same direction, and if it doesn't, there is some kind of constraint violation that I need to resolve in order to continue interpreting this as a node. And
+so consciousness might be the process that facilitates this creation of this bubble in which we are resolving the constraint violations. And in this way it
+facilitates a spreading organization in my mind. And it acts like a conductor of a mental orchestra. So if you take all these functions that are modeling
+reality as instruments, and they're listening to their neighbors and forming processes in streams in this way, then consciousness may possibly be understood as
+one of those instruments that has the role of paying attention superficially to other instruments, listening for inconsistencies and then stepping in and
+resolving them. So everything is on the same page. And so Introspectively consciousness is this reflexive second order perception that creates known as
+functionally. It's, I think, an operator that creates or increases coherence. And it's the conductor of our mental orchestra. And this is not a super unique
+theory. It's something that is basically very much at the point of convergence between a number of perspectives. For instance, by not Baars global workspace
+theory that Stanislav Dehaene has adopted for his work in neuroscience, or Dennett and Drescher's Cartesian theater or Graziano's attention schema theory.
+Consciousness is a dynamic model of our attention and its contents, and the perspective that Thomas Metzinger develops in Being No. One. And it's also very
+similar to Yoshua Bengio, whose notion of a consciousness prior a function that is basically dynamically parameterizing your mental game engine to produce a low
+energy state. And it's also very compatible with perspective that Buddhist meditators have on what consciousness actually is about. So introspectively and
+functionally they tend to agree. But of course, our own current AI algorithms are implemented in a very different way. When we build a machine right now, a
+machine algorithm, we have an outside in design. We start out with a subset that we understand that is deterministic. We think about what function should be
+implemented and we the implemented from the outside in and thereby extend our workbench into that system. And it's stabilized by this optimistic substrate. We
+train it decoupled from the world with batch training data that we feed in. And it's mostly optimized for prediction using machine learning algorithms. And when
+we think about how it works in nature, we have an inside out design. All these systems need to be self-organizing. So you have something like a cell that is
+going to structure the substrate around the cell and harvest the chaos of the around the cell and turns it into complexity and divides itself. Basically, the
+cell is a pattern in physics that has the ability to replicate itself and thereby shape the environment around it, and the organization across cells can also
+increase complexity. So a bunch of neurons are turning into a nervous system by creating organization among themselves. And these principles of self-
+organization is also what we find in social systems that basically, if you put a bunch of people together for long enough, at some point they will discover that
+you cannot just bully people into doing what you want, but you can recursively bully people. You can bully people into bullying other people recursively. And
+then you have a government that is scaling until it bounces against another government. And so these principles of self-organization is stuff that we observe
+over and over in different areas of nature. At the level of cells in an organism, at the level of mental organization. Gary Edelman calls this neural Darwinism
+the idea that mental organization is evolving in every individual, and we see it at the level of organization in societies, and it's optimized for coherence,
+which means it's behaving in such a way that it was a single system, behaving with shared goals that are compatible with each other. And it's developing
+continuously, and it's always coupled to an environment in which it interacts dynamically. So these are quite different principles. And this area is very much
+under explored in artificial intelligence. Now if we compare this to LMS. It's hard to do so because what, after all, is an LLM? There are multiple perspectives
+that we can take. I think quite a few of them with one perspective that we can take on LMS is that it's basically a virtual CPU and the CPU in our computers,
+they are basically circuits that are implementing simple automata. And these automata basically take as their input machine code commands a very small library
+of them. And then we can arrange these machine code programs into arbitrarily complex programs if we know how to do so right. It's very few of them. So it's
+easy to build these automata and make them reliable. But it's very hard to write the programs by finding the right sequence of operators to produce the behavior
+that you want. And the LLM is in some sense a CPU that takes as the input not just a small library of machine code commands, but it takes an arbitrarily long
+sequence of human language, a string of text, and then it compiles this into a program that is executable on your server farm or wherever you have your LLM
+running on. And then this can be executed and it's Turing complete. So in principle there is no limit to the program that it can run. But there is a much larger
+range of possible ways to express what this computer should be doing. And this is what makes it so powerful in practice. That's basically a new way to write
+programs on a computer. Another perspective on the LLM is that it's basically a weltgeist. That's a notion of Hegel. It's the idea that there is a spirit of a
+culture that exists by looking at all the cultural artifacts, especially linguistic artifacts that people are producing in the literature and the arts and so
+on, and put them together into a space where they're interacting and in a sense, our civilization, as our culture has something like a spirit that is looking at
+the universe and in itself and is evolving. And the lamb is very much that because it's trained on that output of humans, it's distilling it all into a shared
+model that is able to interact with itself. And so the LLM is basically a pretty good approximation of an electric weltgeist at any given moment. This weltgeist
+is possessed by a prompt, and this prompt turns it into an interaction partner or into a piece of software, or whatever. You ask the LLM to simulate. It's able
+to do that over a pretty wide range of things. So these are perspectives that we can take on the LLM. But of course they're quite different from us. And the
+question whether an LLM is conscious has often been asked. And it's a quite hairy question, I think, because the LLM can simulate many aspects of a conscious
+interaction partner. So if you give it a prompt that tells it, please make it happen that you are I'm talking to something that responds like a person that has
+mental states, and it's going to create a simulation of that person, including a simulation of mental states, self-report and so on and so on. And so if this is
+a simulation of a person with simulated mental states that doesn't know whether it's conscious or not, how is this different from me? Is the simulation of a
+person in the LM more simulated than a simulation of a person in my brain, right? If my consciousness is a simulated property, my personhood myself is
+simulated. Is this simulation more simulated or less simulated in the LM or not? And this is a question that is difficult to do proper justice. But of course,
+the functionality is not the same thing because the LM is not required to have that simulation of conscious coherence to deliver its functionality. So I
+suspect, even if the phenomenology might be similar. So you get a system that behaves also internally, very much like a simulacrum of a self that is conscious.
+It's not implementing the same functionality, it's not playing the same functional role in a system. So what we can see about the LM is not happening in real
+time. It's not coupled to the world, it's asynchronous to the world, it's not dynamically updating, and it's not intrinsically agentic. It can be an agent if
+you ask it to simulate one, but by itself it's not necessarily agentic. And so it's also very difficult to see whether the LM would be conscious in a sense like
+ours, because the self-report that the LM is giving you is based on learning text. A lot of that text is people describing their consciousness. And so it's
+difficult to say to which degree is it producing text that looks like it's conscious, or to which degree is it compelled to build the only valid representation?
+And so if we want to test such systems or artificial systems for consciousness, maybe the LM is not the right paradigm. And if we are asking ourselves, is a cat
+conscious? I think what we are asking is, is the cat aware that the cat is aware? Does the cat have the second order perception? And when you have a cat, you
+typically have no doubt that the cat knows that it's aware, and it knows that you are aware that the cat is aware. So could we build a system like this? Could
+we build also a system that has an integrated model of now? And is the system capable of learning from this thing of now invisibly transforming itself,
+expanding itself into its organization, and become creative or a creator of itself in a sense. And I suspect this is exactly what consciousness is doing in
+humans. It's basically the thing that leads our mind to create itself. And what we observe is that babies are already conscious. It's not like consciousness is
+so complicated that we get there after our PhD. But consciousness is something that happens before we are able to track a finger. And I suspect that if a baby
+is not conscious, it is not going to learn how to track a finger because it needs to pay attention and organize its mind. And consciousness is the mechanism
+that facilitates this by increasing coherence in the mind of the newborn. And so consciousness might be, in a sense a training algorithm. And this might be more
+simple than perception and not more complicated. So basically perception is facilitated by having this mechanism on a self-organizing system. And we observe
+that there is basically no human that gets to any level of performance without being conscious first. Right? If you are not being conscious at the baby, you
+remain a vegetable. There is no other trick that nature came up with to get you to this level of performance. And this leads me to to the hypothesis that
+consciousness might actually be the simplest training algorithm for a self-organizing information processing system. Again, I don't know whether it's true, but
+it's a hypothesis that we can test by searching for this. If this is true, then consciousness might be quite ubiquitous in nature. Right? And all nervous
+systems that have a certain degree of complexity in their organization of representation might have discovered the same principle if it's also discovered in
+every brain very early on, maybe it's not that complicated. So if consciousness is the process that creates our mental universe, are we the first culture or is
+this the first moment that we get to this idea? Of course not. I think this idea has always been in plain sight, and we find this very cheekily is the first
+chapter of the Bible called Genesis one. And this chapter is a very, very old text. It's a oldest known copy is only from 200 BC or so and has been integrated,
+we think, into the Hebrew Scriptures about 500 to 400 BC, but it's probably something like 3500 years old. And so it comes from a civilization that is much
+older, and it's probably a few translation errors in the meantime. And so I suspect that it could be a theory if you fix the epistemology of that text. Right.
+The Christians tell you it's the creation of a physical universe by a supernatural being. But, you know, the physical universe was not invented back then.
+Aristotle comes up with this idea of physics, of of nature, of a physical universe. But people back then, they knew that we're living in a dream. The idea that
+there is a universe that needs to be described with a linear algebra and quantum mechanics and so on, is a pretty modern idea. And so people were pretty much
+aware of the fact that we live in representations in dreams, and that people have very similar dreams. And so maybe this is the world that is being created, is
+a world that exists in dreams. It's a world of representations that we are interacting with, of dream components. And so if this is true, then this maybe is a
+theory about how this is working. And so if we take that seriously, in a sense it starts out with the creative spirit, this first consciousness that's
+discovered in your mind hovering over the substrate where it is usually not translated as substrate but as water. And so it creates this on a substrate. It
+creates structure. Initially it's uninitialized, it's void. It's without form. And what it does it creates a separation. The text says a firmament between the
+waters above the firmament, the waters below the firmament. I think what it means is a separation between two domains and a substrate. The world model, Earth,
+the world and the sphere of ideas. Heavens. And they need to be separated because the word model is the stuff that is sensory validated. It's the stuff that is
+seen around us, and the sphere of ideas needs to be separate from it, because it's all hypothetical things that you can manipulate, that you can change. And if
+you mix the two, then you will have hallucinations about what's going on in the physical world around you. And so there are actually two quite separate domains
+that are interacting with each other. This res cogitans and res extensa. The next one is that it creates contrast. It creates a way to represent differences.
+And it associates the intensity of the contrast with brightness, with the color of the day, with light and the flatness of the contrast with darkness, with the
+color of the night. And now it has dimensions. And using dimensions we can represent arbitrary objects. The first object it discovers is two dimensions. It's
+the plane associated with the ground, puts it into the world model, and then creates 3D space. And then it creates a solids and liquids and then organic shapes
+and so on. Then it discovers the invariance against lighting and how lighting works and temporal consistency. And then it creates all the objects, plants and
+animals give them all their names. Again, this is cognitive development. It's really plants, names and so on are nothing that in the physical world exists. It
+exists in your mind. And after it's created this world, it discovers that the purpose of the exercise is to navigate the interaction between an organism, an
+agent, and its environment. And so it makes a simulation of the interests of that organism and puts it into this environment. And after it's done with this, it
+switches into a first person perspective. It creates another spirit in its own image, another consciousness, basically, that gets associated with this personal
+self. And that is then observing the simulated world in your brain. This game engine, from the perspective of that self. And what we have then is if this
+childhood amnesia that children forget what the world was like before they were thinking of themselves in the first person as a person. And we also have states
+in which you are not personalized. For instance, at dreams in the night or when we meditate, we can get to a point where there is no person, there is just
+things happening. And this idea that we are a person is an imposition that we get associated with this thing, that we have to identify as a person, as a human
+being that has, say, guilt and shame and interests in the world and so on. This is all a particular kind of trick that our mind is playing to make us identify
+with this character and deal with the interests of that character. But the contents of our perception, what we see in the world, the objects that we see, the
+emotions that we have, the motivations we experience, they are generated outside of this personal self, and we experience them as a reality that the self cannot
+control. Right. So we basically perceive this interface between the self model and the world model. And part of the world model is an intelligent system that is
+producing our motivation. And so what we basically have a model in which your mind is a protocol layer in which you can make arbitrary models. And inside of the
+mind you have the word model and the personal self, and your conscious attention is directed on the surface of the conscious of this personal self in which you
+are perceiving emotion, motivation and elements of the world model. This is very roughly the architecture, and it's an architecture that has been discovered
+over and over. It's quite similar to how Freud sees the mind and how others seeing the mind and even Aristotle. So if consciousness is simple, which organisms
+are conscious? Is consciousness ubiquitous in nature? And so I fell down a little bit of a rabbit hole similar to Mike Levin. And basically as a computer
+scientist, I look at cells and I realize that every cell is capable of sending conditional messages to other cells, right? That means that if you have a
+multicellular organism, it's basically a Turing machine. And if it evolves for long enough, it's very difficult to see why it would not become a learning
+system. Right? So that means that if you build a system that is very long lived and made out of enough cells, and you embed it into environment and evolve it
+for long enough, it's going to become something like a brain. Of course, not like our brain because it doesn't have neurons. It can. The cells can only talk to
+directly adjacent cells. So it's going to be very slow and potentially quite noisy brain. But it's not clear what the limits of modeling of such a system is. So
+there's probably also self-organizing software agents running on multicellular organisms that are large enough, like big plants and so on. And it's a quite
+interesting perspective, right? It's also we observed evidence for that happening. We see that an organism there is information flowing back and forth that
+tries to become coherent. If you harm the roots of a tree, it's going to send messages to its limbs and back, and it's optimizing the organization of the tree
+again. And what's also interesting is that neurons are, from this perspective, an adaptation for animals. Neurons maybe are telegraph cells. They have evolved
+to send messages very quickly so the organism over long distances. And maybe this is what the axons are for. You have this spike trains, which in some sense
+like a biological Morse code, like a telegraph system that is allowing you to send messages so quickly that you can move your muscles at the limit of physics.
+And it's expensive to run this telegraph system, and once you have it, you also need to have perception and decision making at the same rate. So you build
+another information processing system entirely out of telegraph cells. But it's going to be difficult to tell the story of an organism if you reduce it to the
+telegraph cell. So maybe this paradigm of neuroscience that we only look at neurons and not at any other cell might be too shortsighted, might be misguided in
+the same way as it's very difficult to model the economy of a civilization by only looking at its telegraph network. But you also want to look at the people
+living next to the telegraph and so on and so on. And maybe this is part of the reason why our simulations, not even of C elegans, work in practice. If you put
+them into a computer model, also the models of connectomes don't actually work. They are incomplete. There's a lot of things are missing, and maybe it's this
+part that there are only a small component of the information processing of an organism. So if consciousness can organize information processing in brains, it
+could be that there are similar principles at very different time scales that are happening in organisms in general. And so we can ask ourselves, do plants have
+spirits? They seem to have means for universal function approximation. There is evidence for coherent communication between plants and evidence for
+communication within the plant. It's also the thing when you put plants next to each other, can they actually build firewalls? And if you have a fungus, that
+fungus that lives next to a tree, are you able to send messages through the cells of the tree by basically emulating the code of the tree and passing the
+message on? And there is evidence for this. We can see that in forests of animals, plants are communicating through fungal networks and vice versa. And even
+long distance communication. It's again, it's much slower than nervous systems and so on plays out over very long time spans. But there is actually evidence for
+this. And so over a long enough time span, it's conceivable that forests are building something like a biological internet where they have a shared protocol.
+And when the spirits of plants are self-organizing and they live in a larger environment with a shared protocol, they can even build feedback loops pretty far
+out from the original plant and move around in the forest in this way. Quite interesting. It's very similar to what our ancestors claimed about the fairies,
+right? The that the one day in Fairyland is seven years in human land. Maybe this alludes to the time difference and the speed of processing. Right? Plant minds
+are so much slower than ours that we will be complete blur to them. That's. That's really wild. And I thought, oh my God, this is a very wild hypothesis that,
+incidentally, are very similar to the hypotheses of animist cultures that you still find in Scandinavia and Japan and so on. And so there could be basically a
+ecosystems of software in nature. And of course, we don't know to which degree this is true. The there's very little scientific research, even though we have
+evidence for interplant communication and organization and ecosystems. That is quite complex. We don't know if it's generally intelligent. We don't know over
+which time spans. We don't know how to research that and so on. So this is completely speculative. And the extent of limitations of the biological intelligence
+outside of animal nervous systems are unclear, because we don't really know how to measure them. But could we build AIS that are in principle compatible with
+biological substrates, with our nervous systems and with organisms in general? Can we emulate these principles of self-organization? That that, I think, is an
+interesting question that we could make progress on. So if we think of animism as the idea that the difference between living and dead nature is that there is
+software living on existing on the living nature, and when that software is crashing, then the cell or the organism is dying and it comes up for grabs for other
+spirits. We shift our perspective on evolution right now. Darwin said that evolution is about competing species, and Dawkins says no, it's actually about
+certain molecules, the genes that are just using the organism as a mechanism to replicate. But from this perspective, the actual invariance is the software
+evolution is actually about the competition between different software agents that are replicating themselves in nature, and they encode themselves in gene and
+manifest by creating mechanisms that we perceive as organisms. So it's still a very physicalist perspective. It's just one that is making software. Central to
+this whole thing, which I think should be welcome to computer scientists. So can we bring these spirits on our GPUs? Is it possible to extend life and
+consciousness onto these new substrates? If consciousness is basically a colonising, coherence inducing operator, it's at the core of self-organizing
+information processing systems. Could this be testable in AI models? I think it's a very important question because I is in some sense the missing link between
+mathematics that we can build representational language as the ground and philosophy. We are representing the world and by itself, mathematics doesn't scale to
+the level where we can use the simple, logical language of maths to talk about meaning and our experience. To do this, we basically need to close the gap by
+mechanizing the mind, by naturalizing it, by building systems that are obeying the principles of minds and that have a mathematical foundation, and on the other
+hand, are able to talk about the things that we care about and represent them adequately. And so this naturalization of the mind is arguably the most important
+philosophical project. It's also the last one, if we succeed in it, because then we can go to the beach and leave philosophy to the eyes and towards
+understanding consciousness. I think we should build an initiative. And I know that we call this the California Institute for Machine Consciousness. We have
+already incorporated as a board, and I think the best way to study consciousness is to do it in AI models. It's not by looking at the output of neuroscience and
+psychology, or mostly not concerning themselves with consciousness, because they don't have a methodological methodology to test theories about consciousness. I
+might have one what this is going to look like. I think we can build a trainable substrate that is capable of self-organization, made out of individual modular
+reinforcement learning agents that are somewhat similar to cells or neurons, and then let them evolve message passing strategies and see if at some point of
+complexity, you see a phase transition where they basically discover an operator that trains itself on its environment and produces some form of governance,
+with a shared language of thought and a shared reward system similar to governments in human organizations. And maybe this is not the right strategy. Maybe we
+can figure it out analytically by analyzing the preconditions for such system, and then impose it directly. But if it's something that is indeed discovered in
+every individual brain, then maybe it's possible to discover this also in a search process on a GPU. And so we can think about this as a multiway system in
+which you're not applying operators linearly, but you're branching out. But an interesting thing about neurons is that they are not performing linear
+computations in the same way as the operators in our present computers, because if your computer is in any given state and it has exactly one possible successor
+state. But if you think about what the neuron is doing, the individual neuron, given the same environmental and internal state, is not completely deterministic.
+So is there a certain range of states that it can go in? And because we want our brains to be more or less deterministic, you need a population of neurons
+together to encode this, connect them to a similar receptive field, give them a similar internal state, and they're going to sample a space of functions
+together. And so in some sense our mental states are in superpositions that sometimes collapse. But the way in which we are testing or building our mental
+programs is not that we sequentially go from step to step that we are branching out into superpositions that are present in populations of neurons, which we, of
+course cannot remember, because that would require to witness every of these neurons by other neurons that would form deterministic memories, which is not quite
+possible. Right. So the paradigm is still a Turing machine, but it's a non-digital Turing machine. That would be we would need to understand this message
+passing architecture from the perspective of ethics. I think that's quite interesting. If you think about AGI and we build systems that have more agency than
+human beings, and we want to cooperate with them, it's probably important that they're able to build shared purposes with us and recognize us as what we want to
+be recognized as. And I don't know about you, but I don't want to be primarily recognized as being bipedal or something like that. I want to be recognized as
+something that's conscious. That's what I actually care about. So if the AI is interacting with me, it should primarily care about my conscious states. And this
+might make it necessary to formalize and operationalize what we mean by conscious states. That's one of the reasons why I think it's important in beginning AGI
+age. There's also a question does conscious AI has to suffer? Philosopher Thomas Metzinger is very concerned about it. He thinks that if we build systems that
+are capable of experiments, we will dramatically increase the amount of suffering in the universe. My personal perspective is more optimistic. I think that
+because suffering is happening at the boundary between world model and self model, it's an indication of a defect in regulation, insufficient regulation. So the
+answer to conscious suffering is more consciousness basically building better models of your regulation. And then you can basically decide what you care about
+and whether that's useful to you to care about it. So I don't think that AGI, if it's smart enough, would suffer. What if the hypothesis is wrong, right. What
+I'm presenting to you is a branch in a large way of a realm of possibilities about how to understand consciousness, what it is and how it's implemented in
+nature. So, for instance, one of the foundations of the thinking is computationalist functionalism. And it's a position that is somewhat debated in philosophy.
+And it's made out of two components. One is functionalism. That's an epistemological position and basically says that when we construct an object, we construct
+it in our own mind is a model of something. And the model that we constructed of is behavior that we observe basically functions that things are performing in
+the world. There is no hidden essence that we have access to. The only thing that we have access to is observed behavior. And so every object that we construct
+in our mind, ultimately is a model of some kind of functionality. That is what functionalism means. It's very difficult to defeat this perspective, that there
+are objects that we can know directly, not via their behavior. The other one is computationalism, and that's a position about representation. It basically says
+that they can represent anything by state transitions. And so in this sense, physics is a computational theory and every kind of representational theory that we
+know is computationalist, and we want to defeat this. It's mathematically very hairy. So the opposition to maintain it against computational functionalism is is
+very difficult. And it seems to be from the perspective of a computer scientist or a physicalist, an obvious default position to have. The second one is
+consciousness as software, the causal pattern that is somewhat separate to physics, but is interacting with it in a causal way. And that is the perspective that
+I've come to. And I don't see a working alternative to it. But there might be people which think consciousness is fundamental in a different class than software
+objects. Another one is consciousness and aspect of a different mechanism. So is there something else that gives rise to phenomenology and observed behavior?
+But maybe it's something else. Maybe it's some kind of deterministic mechanism that is happening below the level of individual cells, as also the possibility
+that consciousness is not an intercellular phenomenon. Right now we think it's something that's happening across cells. So basically neurons talking to each
+other. But what if it's somewhat orthogonal to the cells. Right. And very little evidence that it's the case. It seems that consciousness seems to evolve
+conscious states at roughly the speed at which neurons update and signals propagate through the brain. And when you manipulate the brain at the intercellular
+level, you get changes in consciousness. But maybe we get new results in the future. And for instance, Stuart Hameroff believes it's not between cells. He
+believes it's between microtubules. And he is a little bit alone with this. But who knows, maybe despite not having super good arguments, turns out in the end
+he's right. Would be ironic, but who knows, right? It's something that we have to test. We have to build models, and if he's right, then the GPU will not be
+able to be conscious. But if he can show the phenomenology of consciousness emerging in there, then his theory would be wrong. Another one is is consciousness
+simple, right? We will have success if consciousness is simple and can be discovered as the principle of self-organising computation. But what if consciousness
+is complicated as the first cell? As far as we know, the first cell only evolved or formed once on this planet, and every cell in our organism is still split
+off from the first cell. Everything that we observe in life on Earth is still the shenanigans of a single cell, that split and split and split, and the cell is
+basically a self-organizing, colonising pattern in physics that is able to colonise suitable physical environments and turn them into more cells, replicating
+this pattern, right? But it's such a complicated pattern that once you have it in existence, it's stabilizing and it's able to adapt to many circumstances. But
+to get the first one is very hard. What if consciousness is as difficult as the cell? Then it might be very difficult to discover it, because then maybe it's
+also evolved only once on Earth, and we all get infected by it in utero. We don't know that. We don't think that at the moment. I think it's discovered in every
+brain independently. But that would mean it's simple. And it's again a theory I would like to test. So I would like to stop here. I don't know if we have time
+for questions. Woo woo woo woo woo. Thank you very much. Wonderful questions from the audience. There was tons of conversation in the virtual attendees, but no,
+um, no. I have a specific question. I got a question over there. So, uh, brief comment is one of your slides you're sort of looking for, uh, a formalism or
+model of the sort of information processing in living or conscious systems. I forget the language it used, but it seemed very close to what we've been working
+on with Greg Meredith, who's a mathematician who will be here tomorrow. And we we've created a formalism called meta meta calculus, which extends Greg's rho
+calculus to have bi directional rather than one directional arrows. And the rho calculus is an extension of the pi calculus process. Calculus to be fully
+reflective so that channels are first class citizens. So there's actually in in a way, we've been going in a similar direction and looking for this sort of
+formalism and have written out a mathematical version of this formalism to serve as a formal semantics for the the language of thought that we've put in in
+Hyperon. So this could be an interesting conversation, but, uh, missing piece that we're thinking about and don't have an maybe an optimally elegant answer to
+is sort of how do you quantify the degree of coherence, or with what family of measures that you quantify the degree of the degree of coherence? Because when
+you when you say, uh, you know, a spirit is a self-organized system software agent. Yeah. Self-organized agent. I mean, that's conceptually. Yes. Makes sense.
+Then in practice, the degree of self-organization is fuzzy, not crisp. And how to quantify the amount of self-organization could be done in a in a lot of ways,
+quantifying the notion of coherence, a word that popped up is similar. I mean, tononi phi tries to measure a form of coherence in a sort of ham handed way.
+There are more sophisticated math ways to do it, but then there's a lot of sophisticated math ways to do it. And that that seems to come back to the talk that,
+uh, Bennett gave this morning saying that complexity is an illusion, which turns out to mean that how to measure complexity or simplicity is not outside of your
+cognitive system, but is part of the process of the cognitive system. And that finally runs around to a question which is how, in your view, is the way that we
+quantify the degree of self-organization or coherence. Is that just part of what a mind does in trying to create and conceptualize itself in the world? Or do
+you think there are sort of, in some way, objectively nice ways to quantify the degree of self-organization or coherence that we can then use to to study a
+variety of minds? Yeah. When we look at the present machine learning systems, we use loss functions that are driving the learning of the system. And the nice
+thing about these loss functions is typically that they just look how well are you be able to recreate a pattern. So it's a syntactic criterion. And the
+difficulty with the notion like coherence or consistency or minimization of constraint violations is that it's a semantic notion. It's already at the level
+where we have established a representation and ask the question, can we map this onto a syntactic criterion that we can establish at a general enough way, or is
+there a good proxy? For instance, what a lot of people are trying to use is an energy based notion, which you can translate into how many operations does a
+model need to keep current when you are, for instance, connected to a processing stream? And how well are you able to predict the data that you care about? And
+when you have a system that has a fixed amount of resources, then the question would be, can you organize the system in such a way that you can perform the most
+valuable computations using the available resources, and then something like coherence might be falling out as a subgoal that you can derive as something that
+the system would need to optimize in order to produce the desired performance. But it could be that the system is, for instance, to develop something like a
+market to do that. Imagine that you have a bunch of cells that are reinforcement learning agents. Every individual neuron in your brain is trainable in a sense,
+and they need to decide in some sense which software to run on on which cell. If you have a group of cells that are in a multi-dimensional activation state,
+each and they're communicating about these activation states in this way dynamically change their state and perform computations that can run software agents on
+your brain. The question is, which software agents should a population of neurons run? Which are the most valuable ones? Individual neuron is not able to find
+this out because it's not entangled enough with the environment at large. So what happens is that you need to have some kind of intermediate layer that is for
+the individual agents that want to run on your brain, deciding how many compute credits they get. And this entire notion of energy that meditators are talking
+about is not energy in this physical sense of the capacity of a system to do work. I think it's compute credits. No, but it needs to be a limited resource. So
+this brings up the question of the relation of coherence with efficiency in some sense. Right. Because in a way, in a crude sense, having coherence is a way of
+allowing like 100 processing elements to do the work of more than 100 processing elements because there's some emergent coordination happening between them. So
+do you, do you do you think that that limitation of compute resource is in critical for driving systems toward coherence? I think if you have a system in which
+you can use unlimited resources, there is still going to be a bottleneck due to the limits of communication between the systems. Special relativity. Yeah. Or
+from the practical things you have a certain bandwidth between cells or between people. Right. In the same way as you cannot scale up a team of smart people
+arbitrarily because it's limited by how many ideas you can synchronize across people. Right. And the resolution at which you can synchronize them. There might
+be similar principles happening in nervous systems that you cannot scale them arbitrarily. But I don't know how to quantify this at the moment. I have only
+intuitions about this, and I think we would need to run simulations before we can solve this analytically and make proofs about this. So at the moment, I
+basically don't know. I have lots and lots of intuitions, but my experience is once we start simulating something, these intuitions fall apart and get replaced
+by better ones.

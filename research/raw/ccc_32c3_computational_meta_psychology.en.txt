@@ -1,0 +1,394 @@
+*preroll music* Herald: Our next talk is going to be about AI and it's going to be about proper AI. It's not going to be about deep learning or buzz word bingo.
+It's going to be about actual psychology. It's going to be about computational metapsychology. And now please welcome Joscha! *applause* Joscha: Thank you. I'm
+interested in understanding how the mind works, and I believe that the most foolproof perspective at looking ... of looking at minds is to understand that they
+are systems that if you saw patterns at them you find meaning. And you find meaning in those in very particular ways and this is what makes us who we are. So
+they way to study and understand who we are in my understanding is to build models of information processing that constitutes our minds. Last year about the
+same time, I've answered the four big questions of philosophy: "Whats the nature of reality?", "What can be known?", "Who are we?", "What should we do?" So now,
+how can I top this? *applause* I'm going to give you the drama that divided a planet. Some of a very, very big events, that happened in the course of last year,
+so I couldn't tell you about it before. What color is the dress *laughs**applause* I mean ahmm... If you have.. do not have any mental defects you can clearly
+see it's white and gold. Right? [voices from audience] Turns out, ehmm.. most people seem to have mental defects and say it is blue and black. I have no idea
+why. Well Ok, I have an idea, why that is the case. Ehmm, I guess that you got too, it has to do with color renormalization and color renormalization happens
+differently apparently in different people. So we have different wireing to renormalize the white balance. And it seems to work in real world situations in
+pretty much the same way, but not necessarily for photographs. Which have only very small fringe around them, which gives you hint about the lighting situation.
+And that's why you get this huge divergencies, which is amazing! So what we see that our minds can not know objective truths in any way. Outside of mathematics.
+They can generate meaning though. How does this work? I did robotic soccer for a while, and there you have the situation, that you have a bunch of robots, that
+are situated on a playing field. And they have a model of what goes on in the playing field. Physics generates data for their sensors. They read the bits of the
+sensors. And then they use them to.. erghmm update the world model. And sometimes we didn't want to take the whole playing field along, and the physical robots,
+because they are expensive and heavy and so on. Instead if you just want to improve the learning and the game play of the robots you can use the simulations. So
+we've wrote a computer simulation of the playing field and the physics, and so on, that generates pretty some the same data, and put the robot mind into the
+simulator robot body, and it works just as well. That is, if you the robot, because you can not know the difference if you are the robot. You can not know
+what's out there. The only thing that you get to see is what is the structure of the data at you system bit interface. And then you can derive model from this.
+And this is pretty much the situation that we are in. That is, we are minds that are somehow computational, they are able to find regularity in patterns, and
+they are... we.. seem to have access to something that is full of regularity, so we can make sense out of it. [ghulp, ghulp] Now, if you discover that you are
+in the same situation as these robots, basically you discover that you are some kind of apparently biological robot, that doesn't have direct access to the
+world of concepts. That has never actually seen matter and energy and other people. All it got to see was little bits of information, that were transmitted
+through the nerves, and the brain had to make sense of them, by counting them in elaborate ways. What's the best model of the world that you can have with this?
+What will the state of affairs, what's the system that you are in? And what are the best algorithms that you should be using, to fix your world model. And this
+question is pretty old. And I think that has been answered for the first time by Ray Solomonoff in the 1960. He has discovered an algorithm, that you can apply
+when you discover that you are an robot, and all you have is data. What is the world like? And this algorithm is basically a combination of induction and
+Occam's razor. And we can mathematically prove that we can not do better than Solomonoff induction. Unfortunately, Solomonoff induction is not quite computable.
+But everything that we are going to do is some... is going to be some approximation of Salomonoff induction. So our concepts can not really refer to the facts
+in the world out there. We do not get the truth by referring to stuff out there, in the world. We get meaning by suitably encoding the patterns at our systemic
+interface. And AI has recently made a huge progress in encoding data at perceptual interfaces. Deep learning is about using a stacked hierarchy of feature
+detectors. That is, we use pattern detectors and we build them into a networks that are arranged in hundreds of layers. And then we adjust the links between
+these layers. Usually some kind of... using some kind of gradient descent. And we can use this to classify for instance images and parts of speech. So, we get
+to features that are more and more complex, they started as very, very simple patterns. And then get more and more complex, until we get to object categories.
+And now this systems are able in image recognition task, to approach performance that is very similar to human performance. Also what is nice is that it seems
+to be somewhat similar to what the brain seems to be doing in visual processing. And if you take the activation in different levels of these networks and you
+erghm... improve the... that... erghmm... enhance this activation a little bit, what you get is stuff that look very psychedelic. Which may be similar to what
+happens, if you put certain illegal substances into people, and enhance the activity on certain layers of their visual processing. [BROKEN AUDIO]If you want to
+classify the differences what we do if we want quantify this you filter out all the invariences in the data. The pose that she has, the lighting, the dress that
+she is on.. has on, her facial expression and so on. And then we go to only to this things that is left after we've removed all the nuance data. But what if
+we... erghmm want to get to something else, for instance if we want to understand poses. Could be for instance that we have several dancers and we want to
+understand what they have in common. So our best bet is not just to have a single classification based filtering, but instead what we want to have is to take
+the low level input and get a whole universe of features, that is interrelated. So we have different levels of interrelations. At the lowest levels we have
+percepts. On the slightly higher level we have simulations. And on even higher level we have concept landscape. How does this representation by simulation work?
+Now imagine you want to understand sound. [Ghulp] If you are a brain and you want to understand sound you need to model it. Unfortunatly we can not really model
+sound with neurons, because sound goes up to 20kHz, or if you are old like me maybe to 12 kHz. 20 kHz is what babies could do. And... neurons do not want to do
+20 kHz. That's way too fast for them. They like something like 20 Hz. So what do you do? You need to make a Fourier transform. The Fourier transform measures
+the amount of energy at different frequencies. And because you can not do it with neurons, you need to do it in hardware. And turns out this is exactly what we
+are doing. We have this cochlea which is this snail like thing in our ears, and what it does, it transforms energy of sound in different frequency intervals
+into energy measurments. And then gives you something like what you see here. And this is something that the brain can model, so we can get a neurosimulator
+that tries to recreate this patterns. And we can predict the next input from the cochlea that then understand the sound. Of course if you want to understand
+music, we have to go beyond understanding sound. We have to understand the transformations that sound can have if you play it at different pitch. We have to
+arrange the sound in the sequence that give you rhythms and so on. And then we want to identify some kind of musical grammar that we can use to again control
+the sequencer. So we have stucked structures. That simulate the world. And once you've learned this model of music, once you've learned the musical grammar, the
+sequencer and the sounds. You can get to the structure of the individual piece of music. So, if you want to model the world of music. You need to have the
+lowest level of percepts then we have the higher level of mental simulations. And... which give the sequences of the music and the grammars of music. And beyond
+this you have the conceptual landscape that you can use to describe different styles of music. And if you go up in the hierarchy, you get to more and more
+abstract models. More and more conceptual models. And more and more analytic models. And this are causal models at some point. This causal models can be weakly
+deterministic, basically associative models, which tell you if this state happens, it's quite probable that this one comes afterwords. Or you can get to a
+strongly determined model. Strongly determined model is one which tells you, if you are in this state and this condition is met, You are are going to go exactly
+in this state. If this condition is not met, or a different condition is met, you are going to this state. And this is what we call an alghorithm. it's.. now we
+are on the domain of computation. Computation is slightly different from mathematics. It's important to understand this. For a long time people have thought
+that the universe is written in mathematics. Or that.. minds are mathematical, or anything is mathematical. In fact nothing is mathematical. Mathematics is just
+the domain of formal languages. It doesn't exist. Mathematics starts with a void. You throw in a few axioms, and if you've chosen a nice axioms, then you get
+infinite complexity. Most of which is not computable. In mathematics you can express arbitrary statements, because it's all about formal languages. Many of this
+statements will not make sense. Many of these statements will make sense in some way, but you can not test whether they make sense, because they're not
+computable. Computation is different. Computation can exist. It's starts with an initial state. And then you have a transition function. You do the work. You
+apply the transition function, and you get into the next state. Computation is always finite. Mathematics is the kingdom of specification. And computation is
+the kingdom of implementation. It's very important to understand this difference. All our access to mathematics of course is because we do computation. We can
+understand mathematics, because our brain can compute some parts of mathematics. Very, very little of it, and to very constrained complexity. But enough, so we
+can map some of the infinite complexity and noncomputability of mathematics into computational patterns, that we can explore. So computation is about doing the
+work, it's about executing the transition function. Now we've seen that mental representation is about concepts, mental simulations, conceptual representations
+and this conceptual representations give us concept spaces. And the nice thing about this concept spaces is that they give us an interface to our mental
+representations, We can use to address and manipulate them. And we can share them in cultures. And this concepts are compositional. We can put them together, to
+create new concepts. And they can be described using higher dimensional vector spaces. They don't do simulation and prediction and so on, but we can capture
+regularity in our concept wisdom. With this vector space you can do amazing things. For instance, if you take the vector from "King" to "Queen" is pretty much
+the same vector as to.. between "Man" and "Woman" And because of this properties, because it's really a high dimentional manifold this concepts faces, we can do
+interesting things, like machine translation without understanding what it means. That is without doing any proper mental representation, that predicts the
+world. So this is a type of meta representation, that is somewhat incomplete, but it captures the landscape that we share in a culture. And then there is
+another type of meta representation, that is linguistic protocols. Which is basically a formal grammar and vocabulary. And we need this linguistic protocols to
+transfer mental representations between people. And we do this by basically scanning our mental representation, disassembling them in some way or disambiguating
+them. And then we use it as discrete string of symbols to get it to somebody else, and he trains an assembler, that reverses this process, and build something
+that is pretty similar to what we intended to convey. And if you look at the progression of AI models, it pretty much went the opposite direction. So AI started
+with linguistic protocols, which were expressed in formal grammars. And then it got to concepts spaces, and now it's about to address percepts. And at some
+point in near future it's going to get better at mental simulations. And at some point after that we get to attention directed and motivationally connected
+systems, that make sense of the world. that are in some sense able to address meaning. This is the hardware that we have can do. What kind of hardware do we
+have? That's a very interesting question. It could start out with a question: How difficult is it to define a brain? We know that the brain must be somewhere
+hidden in the genome. The genome fits on a CD ROM. It's not that complicated. It's easier than Microsoft Windows. *laughter* And we also know, that about 2% of
+the genome is coding for proteins. And maybe about 10% of the genome has some kind of stuff that tells you when to switch protein. And the remainder is mostly
+garbage. It's old viruses that are left over and has never been properly deleted and so on. Because there are no real code revisions in the genome. So how much
+of this 10% that is 75 MB code for the brain. We don't really know. What we do know is we share almost all of this with mice. Genetically speaking human is a
+pretty big mouse. With a few bits changed, so.. to fix some of the genetic expressions And that is most of the stuff there is going to code for cells and
+metabolism and how your body looks like and so on. But if you look at erghmm... how much is expressed in the brain and only in the brain, in terms of proteins
+and so on. We find it's about... well of the 2% it's about 5%. That is only the 5% of the 2% that is only in the brain. And another 5% of the 2% is
+predominantly in the brain. That is more in the brain than anywhere else. Which gives you some kind of thing like a lower bound. Which means to encode a brain
+genetically base on the hardware that we are using. We need something like at least 500 kB of code. Actually ehmm.. this... we very conservative lower bound.
+It's going to be a little more I guess. But it sounds surprisingly little, right? But in terms of scientific theories this is a lot. I mean the universe,
+according to the core theory of the quantum mechanics and so on is like so much of code. It's like half a page of code. That's it. That's all you need to
+generate the universe. And if you want to understand evolution it's like a paragraph. It's couple lines you need to understand evolutionary process. And there
+is a lots, lots of details, that's you get afterwards. Because this process itself doesn't define how the animals are going to look like, and in similar way
+is.. the code of the universe doesn't tell you what this planet is going to look like. And what you guys are going to look like. It's just defining the
+rulebook. And in the same sense genome defines the rulebook, by which our brain is build. erghmmm,.. The brain boots itself into developer process, and this
+booting takes some time. So subliminal learning in which initial connections are forged And basic models are build of the world, so we can operate in it. And
+how long does this booting take? I thing it's about 80 mega seconds. That's the time that a child is awake until it's 2.5 years old. By this age you understand
+Star Wars. And I think that everything after understanding Star Wars is cosmetics. *laughter**applause* You are going to be online, if you get to arrive old age
+for about 1.5 giga seconds. And in this time I think you are going to get not to watch more than 5 milion concepts. Why? I don't know real... If you look at
+this child. If a child would be able to form a concept let say every 5 minutes, then by the time it's about 4 years old, it's going to have something like 250
+thousands concepts. And... so... a quarter million. And if we extrapolate this into our lifetime, at some point it slows down, because we have enough concepts,
+to describe the world. Maybe it's something... It's I think it's less that 5 million. How much storage capacity does the brain has? I think that the... the
+estimates are pretty divergent, The lower bound is something like a 100 GB, And the upper bound is something like 2.5 PB. There is even... even some higher
+outliers this.. If you for instance think that we need all those synaptic vesicle to store information, maybe even more fits into this. But the 2.5 PB is
+usually based on what you need to code the information that is in all the neurons. But maybe the neurons do not really matter so much, because if the neuron
+dies it's not like the word is changing dramatically. The brain is very resilient against individual neurons failing. So the 100 GB capacity is much more what
+you actually store in the neurons. If you look at all the redundancy that you need. And I think this is much closer to the actual Ballpark figure. Also if you
+want to store 5 hundred... 5 million concepts, and maybe 10 times or 100 times the number of percepts, on top of this, this is roughly the Ballpark figure that
+you are going to need. So our brain is a prediction machine. It... What it does is it reduces the entropy of the environment, to solve whatever problems you are
+encountering, if you don't have a... feedback loop, to fix them. So normally if something happens, we have some kind of feedback loop, that regulates our
+temperature or that makes problems go away. And only when this is not working we employ recognition. And then we start this arbitrary computational processes,
+that is facilitated by the neural cortex. And this.. arhmm.. neural cortex has really do arbitrary programs. But it can do so with only with very limited
+complexity, because really you just saw, it's not that complex. The modeling of the world is very slow. And it's something that we see in our eye models. To
+learn the basic structure of the world takes a very long time. To learn basically that we are moving in 3D and objects are moving, and what they look like. Once
+we have this basic model, we can get to very, very quick understanding within this model. Basically encoding based on the structure of the world, that we've
+learned. And this is some kind of data compression, that we are doing. We use this model, this grammar of the world, this simulation structures that we've
+learned, to encode the world very, very efficently. How much data compression do we get? Well... if you look at the retina. The retina get's data in the order
+of about 10Gb/s. And the retina already compresses these data, and puts them into optic nerve at the rate of about 1Mb/s This is what you get fed into visual
+cortex. And the visual cortex does some additional compression, and by the time it gets to layer four of the first layer of vision, to V1. We are down to
+something like 1Kb/s. So if we extrapolate this, and you get live to the age of 80 years, and you are awake for 2/3 of your lifetime. That is you have your eyes
+open for 2/3 of your lifetime. The stuff that you get into your brain, via your visual perception is going to be only 2TB. Only 2TB of visual data. Throughout
+all your lifetime. That's all you are going to get ever to see. Isn't this depressing? *laughter* So I would really like to eghmm.. to tell you, choose wisely
+what you are going to look at. *laughter* Ok. Let's look at this problem of neural compositionality. Our brains has this amazing thing that they can put meta
+representation together very, very quickly. For instance you read a page of code, you compile it in you mind into some kind of program it tells you what this
+page is going to do. Isn't that amazing? And then you can forget about this, disassemble it all, and use the building blocks for something else. It's like
+legos. How you can do this with neurons? Legos can do this, because they have a well defined interface. They have all this slots, you know, that fit together in
+well defined ways. How can neurons do this? Well, neurons can maybe learn the interface of other neurons. But that's difficult, because every neuron looks
+slightly different, after all this... some kind of biologically grown natural stuff. *laughter* So what you want to do is, you want to encapsulate this erhmm...
+diversity of the neurons to make the predictable. To give them well defined interface. And I think that nature solution to this is cortical columns. Cortical
+column is a circuit of between 100 and 400 neurons. And this circuit has some kind of neural network, that can learn stuff. And after it has learned particular
+function, and in between, it's able to link up these other cortical columns. And we have about 100 million of those. Depending on how many neurons you assume is
+in there, it's... erghmm we guess it's something, at least 20 million and maybe something like a 100 million. And this cortical columns, what they can do, is
+they can link up like lego bricks, and then perform, by transmitting information between them, pretty much arbitrary computations. What kind of computation?
+Well... Solomonoff induction. And... they have some short range links, to their neighbors. Which comes almost for free, because erghmm.. well, they are
+connected to them, they are direct neighborhood. And they have some long range connectivity, so you can combine everything in your cortex with everything. So
+you need some kind of global switchboard. Some grid like architecture of long range connections. They are going to be more expensive, they are going to be
+slower, but they are going to be there. So how can we optimize what these guys are doing? In some sense it's like an economy. It's not enduring based system, as
+we often use in machine learning. It's really an economy. You have... The question is, you have a fixed number of elements, how can you do the most valuable
+stuff with them. Fixed resources, most valuable stuff, the problem is economy. So you have an economy of information brokers. Every one of these guys, this
+little cortical columns, is very simplistic information broker. And they trade rewards against neg entropy, Against reducing entropy in the... in the world. And
+to do this, as we just saw that they need some kind of standardized interface. And internally, to use this interface they are going to have some kind of state
+machine. And then they are going to pass messages between each other. And what are these messages? Well, it's going to be hard to discover these messages, by
+looking at brains. Because it's very difficult to see in brains, what the are actually doing. you just see all these neurons. And if you would be waiting for
+neuroscience, to discover anything, we wouldn't even have gradient descent or anything else. We wouldn't have neuron learning. We wouldn't have all this
+advances in AI. Jürgen Schmidhuber said that the biggest, the last contribution of neuroscience to artificial intelligence was about 50 years ago. That's
+depressing, and it might be overemphasizing the unimportance of neuroscience, because neuroscience is very important, once you know what are you looking for.
+You can actually often find this, and see whether you are on the right track. But it's very difficult to take neuroscience to understand how the brain is
+working. Because it's really like understanding flight by looking at birds through a microscope. So, what are these messages? You are going to need messages,
+that tell these cortical columns to join themselves into a structure. And to unlink again once they're done. You need ways that they can request each other to
+perform computations for them. You need ways they can inhibit each other when they are linked up. So they don't do conflicting computations. Then they need to
+tell you whether the computation, the result of the computation that the are asked to do is probably false. Or whether it's probably true, but you still need to
+wait for others, to tell you whether the details worked out. Or whether it's confirmed true that the concepts that they stand for is actually the case. And then
+you want to have learning, to tell you how well this worked. So you will have to announce a bounty, that tells them to link up and kind of reward signal that
+makes do computation in the first place. And then you want to have some kind of reward signal once you got the result as an organism. But you reach your goal if
+you made the disturbance go away or what ever you consume the cake. And then you will have some kind of reward signal that's you give everybody. That was
+involved in this. And this reward signal facilitates learning, so the.. difference between the announce reward and consumption reward is the learning signal for
+these guys. So they can learn how to play together, and how to do the Solomonoff induction. Now, I've told you that Solomonoff induction is not computable. And
+it's mostly because of two things, First of all it's needs infinite resources to compare all the possible models. And the other one is that we do not know the
+priori probability for our Bayesian model. If we do not know how likely unknown stuff is in the world. So what we do instead is, we set some kind of
+hyperparameter, Some kind of default priori probability for concepts, that are encoded by cortical columns. And if we set these parameters very low, then we are
+going to end up with inferences that are quite probable. For unknown things. And then we can test for those. If we set this parameter higher, we are going to be
+very, very creative. But we end up with many many theories, that are difficult to test. Because maybe there are too many theories to test. Basically every of
+these cortical columns will now tell you, when you ask them if they are true: "Yes I'm probably true, but i still need to ask others, to work on the details" So
+these others are going to be get active, and they are being asked by the asking element: "Are you going to be true?", and they say "Yeah, probably yes, I just
+have to work on the details" and they are going to ask even more. So your brain is going to light up like a christmas tree, and do all these amazing
+computations, and you see connections everywhere, most of them are wrong. You are basically in psychotic state if your hyperparameter is too high. You're brain
+invents more theories that it can disproof. Would it actually sometimes be good to be in this state? You bet. So i think every night our brain goes in this
+state. We turn up this hyperparameter. We dream. We get all kinds weird connections, and we get to see connections, that otherwise we couldn't be seeing. Even
+though... because they are highly improbable. But sometimes they hold, and we see... "Oh my God, DNA is organized in double helix". And this is what we remember
+in the morning. All the other stuff is deleted. So we usually don't form long term memories in dreams, if everything goes well. If you accidentally trip this
+up.. your modulators, for instance by consuming illegal substances, or because you just gone randomly psychotic you was basically entering a dreaming state I
+guess. You get to a state when the brain starts inventing more concepts that it can disproof. So you want to have a state where this is well balanced. And the
+difference between highly creative people, and very religious people is probably a different setting of this hyperparameter. So I suspect that people that
+people that are genius, like people like Einstein and so on, do not simply have better neurons than others. What they mostly have is a slightly hyperparameter,
+that is very finely tuned, so they can get better balance than other people in finding theories that might be true, but can still be disprooven. So
+inventiveness could be a hyperparameter in the brain. If you want to measure the quality of belief that we have we are going to have to have some kind of some
+cost function which is based on motivational system. And to identify if belief is good or not we can abstract criteria, for instance how well does it predict
+the wourld, or how about does it reduce uncertainty in the world, or is it consistency and sparse. And then of course utility, how about does it help me to
+satisfy my needs. And the motivational system is going to evaluate all this things by giving a signal. And the first signal.. kind of signal is the possible
+rewards if we are able to compute the task. And this is probably done by dopamine. So we have a very small area in the brain, substantia nigra, and the ventral
+tegmental area, and they produce dopamine. And this get fed into lateral frontal cortext and the frontal lobe, which control attention, and tell you what things
+to do. And if we have successfully done what you wanted to do, we consume the rewards. And we do this with another signal which is serotonine. It's also
+announce to motivational system, to this very small are the Raphe nuclei. And it feeds into all the areas of the brain where learning is necessary. A connection
+is strengthen once you get to result. These two substances are emitted by the motivational system. The motivational system is a bunch of needs, essentially you
+regulate it below the cortext. They are not part of your mental representations. They are part of something that is more primary than this. This is what makes
+us go, this is what makes us human. This is not our rationality, this is what we want. And the needs are physiological, they are social, they are cognitive. And
+you pretty much born with them. They can not be totally adaptive, because if we were adaptive, we wouldn't be doing anything. The needs are resistive. They are
+pushing us against the world. If you wouldn't have all this needs, If you wouldn't have this motivational system, you would just be doing what best for you.
+Which means collapse on the ground, be a vegetable, rod, give into gravity. Instead you do all this unpleasant things, to get up in the morning, you eat, you
+have sex, you do all this crazy things. And it's only because the motivational system forces you to. The motivational system takes this bunch of matter, and
+makes us to do all these strange things, just so genomes get replicated and so on. And... so to do this, we are going to build resistance against the world. And
+the motivational system is in a sense forcing us, to do all this things by giving us needs, and the need have some kind of target value and current value. If we
+have a differential between the target value and current value, we perceive some urgency to do something about the need. And when the target value approaches
+the current value we get the pleasure, which is a learning signal. If it gets away from it we get a displeasure signal, which is also a learning signal. And we
+can use this to structure our understanding of the world. To understand what goals are and so on. Goals are learned. Needs are not. To learn we need success and
+failure in the world. But to do things we need anticipated reward. So it's dopamine that's makes brain go round. Dopamine makes you do things. But in order to
+do this in the right way, you have to make sure, that the cells can not produce dopamine themselves. If they do this they can start to drive others to work for
+them. You are going to get something like bureaucracy in your neural cortext, where different bosses try to set up others to they own bidding and pitch against
+other groups in nerual cortext. It's going to be horrible. So you want to have some kind of central authority, that make sure that the cells do not produce
+dopamine themselves. It's only been produce in very small area and then given out, and pass through the system. And after you're done with it's going to be
+gone, so there is no hoarding of the dopamine. And in our society the role of dopamine is played by money. Money is not reward in itself. It's in some sense way
+that you can trade against the reward. You can not eat money. You can take it later and take a arbitrary reward for it. And in some sense money is the dopamine
+that makes organizations and society, companies and many individuals do things. They do stuff because of money. But money if you compare to dopamine is pretty
+broken, because you can hoard it. So you are going to have this cortical columns in the real world, which are individual people or individual corporations. They
+are hoarding the dopamine, they sit on this very big pile of dopamine. They are starving the rest of the society of the dopamine. They don't give it away, and
+they can make it do it's bidding. So for instance they can pitch substantial part of society against understanding of global warming. because they profit of
+global warming or of technology that leads to global warming, which is very bad for all of us. *applause* So our society is a nervous system that lies to
+itself. How can we overcome this? Actually, we don't know. To do this we would need to have some kind of centrialized, top-down reward motivational system. We
+have this for instance in the military, you have this system of military rewards that you get. And this are completely controlled from the top. Also within
+working organizations you have this. In corporations you have centralized rewards, it's not like rewards flow bottom-up, they always flown top-down. And there
+was an attempt to model society in such a way. That was in Chile in the early 1970, the Allende government had the idea to redesign society or economy in
+society using cybernetics. So Allende invited a bunch of cyberneticians to redesign the Chilean economy. And this was meant to be the control room, where
+Allende and his chief economists would be sitting, to look at what the economy is doing. We don't know how this would work out, because we know how it ended. In
+1973 there was this big putsch in Chile, and this experiment ended among other things. Maybe it would have worked, who knows? Nobody tried it. So, there is
+something else what is going on in people, beyond the motivational system. That is: we have social criteria, for learning. We also check if our ideas are
+normativly acceptable. And this is actually a good thing, because individual may shortcut the learning through communication. Other people have learned stuff
+that we don't need to learn ourselves. We can build on this, so we can accelerate learning by many order of magnitutde, which makes culture possible. And which
+makes many anything possible, because if you were on your own you would not be going to find out very much in your lifetime. You know how they say? Everything
+that you do, you do by standing on the shoulders of giants. Or on a big pile of dwarfs it works either way. *laughter**applause* Social learning usually
+outperforms individual learning. You can test this. But in the case of conflict between different social truths, you need some way to decide who to believe. So
+you have some kind of reputation estimate for different authority, and you use this to check whom you believe. And the problem of course is this in existing
+society, in real society, this reputation system is going to reflect power structure, which may distort your belief systematically. Social learning therefore
+leads groups to synchronize their opinions. And the opinions become ...get another role. They become important part of signalling which group you belong to. So
+opinions start to signal group loyalty in societies. And people in this, and that's the actual world, they should optimize not for getting the best possible
+opinions in terms of truth. They should guess... they should optimize for doing... having the best possible opinion, with respect to agreement with their peers.
+If you have the same opinion as your peers, you can signal them that you are the part of their ingroup, they are going to like you. If you don't do this,
+chances are they are not going to like you. There is rarely any benefit in life to be in disagreement with your boss. Right? So, if you evolve an opinion
+forming system in these curcumstances, you should be ending up with an opinion forming system, that leaves you with the most usefull opinion, which is the
+opinion in your environment. And it turns out, most people are able to do this effortlessly. *laughter* They have an instinct, that makes them adapt the
+dominant opinion in their social environment. It's amazing, right? And if you are nerd like me, you don't get this. *lauging**applause* So in the world out
+there, explanations piggyback on you group allegiance. For instance you will find that there is a substantial group of people that believes the minimum wage is
+good for the economy and for you and another one believes that its bad. And its pretty much aligned with political parties. Its not aligned with different
+understandings of economy, because nobody understands how the economy works. And if you are a nerd you try to understand the world in terms of what is true and
+false. You try to prove everything by putting it in some kind of true and false level and if you are not a nerd you try to get to right and wrong you try to
+understand whether you are in alignment with what's objectively right in your society, right? So I guess that nerds are people that have a defect in there
+opinion forming system. *laughing* And usually that's maladaptive and under normal circumstances nerds would mostly be filtered from the world, because they
+don't reproduce so well, because people don't like them so much. *laughing* And then something very strange happened. The computer revolution came along and
+suddenly if you argue with the computer it doesn't help you if you have the normatively correct opinion you need to be able to understand things in terms of
+true and false, right? *applause* So now we have this strange situation that the weird people that have this offensive, strange opinions and that really don't
+mix well with the real normal people get all this high paying jobs and we don't understand how is that happening. And it's because suddenly our maladapting is a
+benefit. But out there there is this world of the social norms and it's made of paperwalls. There are all this things that are true and false in a society that
+make people behave. It's like this japanese wall, there. They made palaces out of paper basically. And these are walls by convention. They exist because people
+agree that this is a wall. And if you are a hypnotist like Donald Trump you can see that these are paper walls and you can shift them. And if you are a nerd
+like me you can not see these paperwalls. If you pay closely attention you see that people move and then suddenly middair they make a turn. Why would they do
+this? There must be something that they see there and this is basically a normative agreement. And you can infer what this is and then you can manipulate it and
+understand it. Of course you can't fix this, you can debug yourself in this regard, but it's something that is hard to see for nerds. So in some sense they have
+a superpower: they can think straight in the presence of others. But often they end up in their living room and people are upset. *laughter* Learning in a
+complex domain can not guarantee that you find the global maximum. We know that we can not find truth because we can not recognize whether we live on a plain
+field or on a simulated plain field. But what we can do is, we can try to approach a global maximum. But we don't know if that is the global maximum. We will
+always move along some kind of belief gradient. We will take certain elements of our belief and then give them up for new elements of a belief based on
+thinking, that this new element of belief is better than the one we give up. So we always move along some kind of gradient. and the truth does not matter, the
+gradient matters. If you think about teaching for a moment, when I started teaching I often thought: Okay, I understand the truth of the subject, the students
+don't, so I have to give this to them and at some point I realized: Oh, I changed my mind so many times in the past and I'm probably not going to stop changing
+it in the future. I'm always moving along a gradient and I keep moving along a gradient. So I'm not moving to truth, I'm moving forward. And when we teach our
+kids we should probably not think about how to give them truth. We should think about how to put them onto an interesting gradient, that makes them explore the
+world, world of possible beliefs. *applause* And this possible beliefs lead us into local minima. This is inevitable. This are like valleys and sometimes this
+valleys are neighbouring and we don't understand what the people in the neighbouring valley are doing unless we are willing to retrace the steps they have been
+taken. And if you want to get from one valley into the next, we will have to have some kind of energy that moves us over the hill. We have to have a trajectory
+were every step works by finding reason to give up bit of our current belief and adopt a new belief, because it's somehow more useful, more relevant, more
+consistent and so on. Now the problem is that this is not monotonous we can not guarantee that we're always climbing, because the problem is, that the beliefs
+themselfs can change our evaluation of the belief. It could be for instance that you start believing in a religion and this religion could tell you: If you give
+up the belief in the religion, you're going to face eternal damnation in hell. As long as you believe in the religion, it's going to be very expensive for you
+to give up the religion, right? If you truly belief in it. You're now caught in some kind of attractor. Before you believe the religion it is not very dangerous
+but once you've gotten into the attractor it's very, very hard to get out. So these belief attractors are actually quite dangerous. You can get not only to
+chaotic behaviour, where you can not guarantee that your current belief is better than the last one but you can also get into beliefs that are almost impossible
+to change. And that makes it possible to program people to work in societies. Social domains are structured by values. Basically a preference is what makes you
+do things, because you anticipate pleasure or displeasure, and values make you do things even if you don't anticipate any pleasure. These are virtual rewards.
+They make us do things, because we believe that is stuff that is more important then us. This is what values are about. And these values are the source of what
+we would call true meaning, deeper meaning. There is something that is more important than us, something that we can serve. This is what we usually perceive as
+meaningful life, it is one which is in the serves of values that are more important than I myself, because after all I'm not that important. I'm just this
+machine that runs around and tries to optimize its pleasure and pain, which is kinda boring. So my PI has puzzled me, my principle investigator in the Havard
+department, where I have my desk, Martin Nowak. He said, that meaning can not exist without god; you are either religious, or you are a nihilist. And this guy
+is the head of the department for evolutionary dynamics. Also he is a catholic.. *chuckling* So this really puzzled me and I tried to understand what he meant
+by this. Typically if you are a good atheist like me, you tend to attack gods that are structured like this, religious gods, that are institutional, they are
+personal, they are some kind of person. They do care about you, they prescribe norms, for instance don't mastrubate it's bad for you. Many of this norms are
+very much aligned with societal institutions, for instance don't questions the authorities, god wants them to be ruling above you and be monogamous and so on
+and so on. So they prescribe norms that do not make a lot of sense in terms of beings that creates world every now and then, but they make sense in terms of
+what you should be doing to be a functioning member of society. And this god also does things like it creates world, they like to manifest as burning shrubbery
+and so on. There are many books that describe stories that these gods have allegedly done. And it's very hard to test for all these features which makes this
+gods very improbable for us. And makes Atheist very dissatisfied with these gods. But then there is a different kind of god. This is what we call the spiritual
+god. This spiritual god is independent of institutions, it still does care about you. It's probably conscious. It might not be a person. There are not that many
+stories, that you can consistently tell about it, but you might be able to connect to it spiritually. Then there is a god that is even less expensive. That is
+god as a transcendental principle and this god is simply the reason why there is something rather then nothing. This god is the question the universe is the
+answer to, this is the thing that gives meaning. Everything else about it is unknowable. This is the god of Thomas of Aquinus. The God that Thomas of Aquinus
+discovered is not the god of Abraham this is not the religious god. It's a god that is basically a principle that us ... the universe into existence. It's the
+one that gives the universe it's purpose. And because every other property is unknowable about this, this god is not that expensive. Unfortunately it doesn't
+really work. I mean Thomas of Aquinus tried to prove god. He tried to prove an necessary god, a god that has to be existing and I think we can only prove a
+possible god. So if you try to prove a necessary god, this god can not exist. Which means your god prove is going to fail. You can only prove possible gods. And
+then there is an even more improper god. And that's the god of Aristotle and he said: "If there is change in the universe, something in going to have to change
+it." There must be something that moves it along from one state to the next. So I would say that is the primary computational transition function of the
+universe. *laughing**applause* And Aristotle discovered it. It's amazing isn't it? We have to have this because we can not be conscious in a single state. We
+need to move between states to be conscious. We need to be processes. So we can take our gods and sort them by their metaphysical cost. The 1st degree god would
+be the first mover. The 2nd degree god is the god of purpose and meaning. 3rd degree god is the spiritual god. And the 4th degree god is this bound to religious
+institutions, right? So if you take this statement from Martin Nowak, "You can not have meaning without god!" I would say: yes! You need at least a 2nd degree
+god to have meaning. So objective meaning can only exist with a 2nd degree god. *chuckling* And subjective meaning can exist as a function in a cognitive system
+of course. We don't need objective meaning. So we can subjectively feel that there is something more important to us and this makes us work in society and makes
+us perceive that we have values and so on, but we don't need to believe that there is something outside of the universe to have this. So the 4th degree god is
+the one that is bound to religious institutions, it requires a belief attractor and it enables complex norm prescriptions. It my theory is right then it should
+be much harder for nerds to believe in a 4th degree god then for normal people. And what this god does it allows you to have state building mind viruses.
+Basically religion is a mind virus. And the amazing thing about these mind viruses is that they structure behaviour in large groups. We have evolved to live in
+small groups of a few 100 individuals, maybe somthing like a 150. This is roughly the level to which reputation works. We can keep track of about 150 people and
+after this it gets much much worse. So in this system where you have reputation people feel responsible for each other and they can keep track of their doings
+and society kind of sort of works. If you want to go beyond this, you have to right a software that controls people. And religions were the first software, that
+did this on a very large scale. And in order to keep stable they had to be designed like operating systems in some sense. They give people different roles like
+insects in a hive. And they have even as part of this roles is to update this religion but it has to be done very carefully and centrally because otherwise the
+religion will split apart and fall together into new religions or be overcome by new ones. So there is some kind of evolutionary dynamics that goes on with
+respect to religion. And if you look the religions, there is actually a veritable evolution of religions. So we have this Israelic tradition and the Mesoputanic
+mythology that gave rise to Judaism. *applause* It's kind of cool, right? *laughing* Also history totally repeats itself. *roaring laughter**applause* Yeah, it
+totally blew my mind when I discovered this. *laughter* Of course the real tree of programming languages is slightly more complicated, And the real tree of
+religion is slightly more complicated. But still its neat. So if you want to immunize yourself against mind viruses, first of all you want to check yourself
+whether you are infected. You should check: Can I let go of my current beliefs without feeling that meaning departures me and I feel very terrible, when I let
+go of my beliefs. Also you should check: All the other people around there that don't share my belief, are they either stupid, or crazy, or evil? If you think
+this chances are you are infected by some kind of mind virus, because they are just part of the out group. And does your god have properties that you know but
+you did not observe. So basically you have a god of 2nd or 3rd degree or higher. In this case you also probably got a mind virus. There is nothing wrong with
+having a mind virus, but if you want to immunize yourself against this people have invented rationalism and enlightenment, basically to act as immunization
+against mind viruses. *loud applause* And in some sense its what the mind does by itself because, if you want to understand how you go wrong, you need to have a
+mechanism that discovers who you are. Some kind of auto debugging mechanism, that makes the mind aware of itself. And this is actually the self. So according to
+Robert Kegan: "The development of ourself is a process, in which we learn who we are by making thing explicit", by making processes that are automatic visible
+to us and by conceptualize them so we no longer identify with them. And it starts out with understanding that there is only pleasure and pain. If you are a
+baby, you have only pleasure and pain you identify with this. And then you turn into a toddler and the toddler understands that they are not their pleasure and
+pain but they are their impulses. And in the next level if you grow beyond the toddler age you actually know that you have goals and that your needs and
+impulses are there to serve goals, but its very difficult to let go of the goals, if you are a very young child. And at some point you realize: Oh, the goals
+don't really matter, because sometimes you can not reach them, but we have preferences, we have thing that we want to happen and thing that we do not want to
+happen. And then at some point we realize that other people have preferences, too. And then we start to model the world as a system where different people have
+different preferences and we have to navigate this landscape. And then we realize that this preferences also relate to values and we start to identify with this
+values as members of society. And this is basically the stage if you are an adult being, that you get into. And you can get to a stage beyond that, especially
+if you have people this, which have already done this. And this means that you understand that people have different values and what they do naturally flows out
+of them. And this values are not necessarily worse than yours they are just different. And you learn that you can hold different sets of values in your mind at
+the same time, isn't that amazing? and understand other people, even if they are not part of your group. If you get that, this is really good. But I don't think
+it stops there. You can also learn that the stuff that you perceive is kind of incidental, that you can turn it of and you can manipulate it. And at some point
+you also can realize that yourself is only incidental that you can manipulate it or turn it of. And that your basically some kind of consciousness that happens
+to run a brain of some kind of person, that navigates the world in terms to get rewards or avoid displeasure and serve values and so on, but it doesn't really
+matter. There is just this consciousness which understands the world. And this is the stage that we typically call enlightenment. In this stage you realize that
+you are not your brain, but you are a story that your brain tells itself. *applause* So becoming self aware is a process of reverse engineering your mind. Its a
+different set of stages in which to realize what goes on. So isn't that amazing. AI is a way to get to more self awareness? I think that is a good point to stop
+here. The first talk that I gave in this series was 2 years ago. It was about how to build a mind. Last year I talked about how to get from basic computation to
+consciousness. And this year we have talked about finding meaning using AI. I wonder where it goes next. *laughter* *applause* Herald: Thank you for this
+amazing talk! We now have some minutes for Q&A. So please line up at the microphones as always. If you are unable to stand up for some reason please very very
+visibly rise your hand, we should be able to dispatch an audio angle to your location so you can have a question too. And also if you are locationally disabled,
+you are not actually in the room if you are on the stream, you can use IRC or twitter to also ask questions. We also have a person for that. We will start at
+microphone number 2. Q: Wow that's me. Just a guess! What would you guess, when can you discuss your talk with a machine, in how many years? Joscha: I don't
+know! As a software engineer I know if I don't have the specification all bets are off, until I have the implementation. *laughter* So it can be of any order of
+magnitude. I have a gut feeling but I also know as a software engineer that my gut feeling is usually wrong, *laughter* until I have the specification. So the
+question is if there are silver bullets? Right now there are some things that are not solved yet and it could be that they are easier to solve than we think,
+but it could be that they're harder to solve than we think. Before I stumbled on this cortical self organization thing, I thought it's going to be something
+like maybe 60, 80 years and now I think it's way less, but again this is a very subjective perspective. I don't know. Herald: Number 1, please! Q: Yes, I wanted
+to ask a little bit about metacognition. It seems that you kind of end your story saying that it's still reflecting on input that you get and kind of working
+with your social norms and this and that, but Colberg for instance talks about what he calls a postconventional universal morality for instance, which is
+thinking about moral laws without context, basically stating that there is something beyond the relative norm that we have to each other, which would only be
+possible if you can do kind of, you know, meta cognition, thinking about your own thinking and then modifying that thinking. So kind of feeding back your own
+ideas into your own mind and coming up with stuff that actually can't get ... well processing external inputs. Joscha: Mhm! I think it's very tricky. This
+project of defining morality without societies exists longer than Kant of course. And Kant tried to give this internal rules and others tried to. I find this
+very difficult. From my perspective we are just moving bits of rocks. And this bits of rocks they are on some kind of dust mode in a galaxy out of trillions of
+galaxies and how can there be meaning? It's very hard for me to say: One chimpanzee species is better than another chimpanzee species or a particular monkey is
+better than another monkey. This only happens within a certain framework and we have to set this framework. And I don't think that we can define this framework
+outside of a context of social norms, that we have to agree on. So objectively I'm not sure if we can get to ethics. I only think that is possible based on some
+kind of framework that people have to agree on implicitly or explicitly. Herald: Microphone number 4, please. Q: Hi, thank you, it was a fascinating talk. I
+have 2 thought that went through my mind. And the first one is that it's so convincing the models that you present, but it's kind of like you present another
+metaphor of understanding the brain which is still something that we try to grasp on different levels of science basically. And the 2nd one is that your
+definition of the nerd who walks and doesn't see the walls is kind of definition... or reminds me Richard Rortys definition of the ironist which is a person who
+knows that their vocabulary is finite and that other people have also a finite vocabulary and then that obviously opens up the whole question of meaning making
+which has been discussed in so many other disciplines and fields. And I thought about Darridas deconstruction of ideas and thoughts and Butler and then down the
+rabbit hole to Nietzsche and I was just wondering, if you could maybe map out other connections where basically not AI helping us to understand the mind, but
+where already existing huge, huge fields of science, like cognitive process coming from the other end could help us to understand AI. Joscha: Thank you, the
+tradition that you mentioned Rorty and Butler and so on are part of a completely different belief attractor in my current perspective. That is they are mostly
+social constructionists. They believe that reality at least in the domains of the mind and sociality are social constructs they are part of social agreement.
+Personally I don't think that this is the case. I think that patterns that we refer to are mostly independent of your mind. The norms are part of social
+constructs, but for instance our motivational preferences that make us adapt or reject norms, are something that builds up resistance to the environment. So
+they are probably not part of social agreement. And the only thing I can invite you to is try to retrace both of the different belief attractors, try to retrace
+the different paths on the landscape. All this thing that I tell you, all of this is of course very speculative. These are that seem to be logical to me at this
+point in my life. And I try to give you the arguments why I think that is plausible, but don't believe in them, question them, challenge them, see if they work
+for you! I'm not giving you any truth. I'm just going to give you suitable encodings according to my current perspective. Q:Thank you! *applause* Herald: The
+internet, please! Signal angel: So, someone is asking if in this belief space you're talking about how is it possible to get out of local minima? And very
+related question as well: Should we teach some momentum method to our children, so we don't get stuck in a local minima. Joscha: I believe at some level it's
+not possible to get out of a local minima. In an absolute sense, because you only get to get into some kind of meta minimum, but what you can do is to retrace
+the path that you took whenever you discover that somebody else has a fundamentally different set of beliefs. And if you realize that this person is basically a
+smart person that is not completely insane but has reasons to believe in their beliefs and they seem to be internally consistent it's usually worth to retrace
+what they have been thinking and why. And this means you have to understand where their starting point was and how they moved from their current point to their
+starting point. You might not be able to do this accurately and the important thing is also afterwards you discover a second valley, you haven't discovered the
+landscape inbetween. But the only way that we can get an idea of the lay of the land is that we try to retrace as many paths as possible. And if we try to teach
+our children, what I think what we should be doing is: To tell them how to explore this world on there own. It's not that we tell them this is the valley,
+basically it's given, it's the truth, but instead we have to tell them: This is the path that we took. And these are the things that we saw inbetween and it is
+important to be not completely naive when we go into this landscape, but we also have to understand that it's always an exploration that never stops and that
+might change everything that you believe now at a later point. So for me it's about teaching my own children how to be explorers, how to understand that
+knowledge is always changing and it's always a moving frontier. *applause* Herald: We are unfortunately out of time. So, please once again thank Joscha!
+*applause* Joscha: Thank you! *applause* *postroll music* subtitles created by c3subtitles.de Join, and help us!

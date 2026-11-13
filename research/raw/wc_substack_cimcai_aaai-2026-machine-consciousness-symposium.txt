@@ -1,0 +1,73 @@
+AAAI 2026 Machine Consciousness Symposium: Watch the Video Recordings
+
+2026-08-19T15:01:54.456Z
+https://cimcai.substack.com/p/aaai-2026-machine-consciousness-symposium
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!_41w!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6a0c25e-fe5f-4ded-b576-23d8ca97d060_1600x900.jpeg]
+We are very happy to share that more than eleven hours of recordings from the AAAI 2026 Spring Symposium, “Machine Consciousness: Integrating Theory, Technology, and Philosophy,” are now available in a dedicated CIMC YouTube playlist [https://www.youtube.com/playlist?list=PLLbobEDXXh2g]
+Alongside the recordings, the AAAI proceedings [https://ojs.aaai.org/index.php/AAAI-SS/issue/view/734] contain 25 papers across 178 pages. Together, they show both the breadth of the field and the beginnings of a more cumulative research program.
+The symposium took place April 7–9 in Burlingame, California. Over two and a half days, roughly fifty researchers and practitioners from computer science, cognitive science, neuroscience, mathematics, philosophy, and engineering came together around a question that’s quickly gone from fringe topic to central to AI research: what would it mean to study consciousness in artificial systems seriously? 
+Asking “Can machines be conscious?” forces us to answer “How can we define consciousness in a formal way/what is the causal structure of consciousness?” (theory, formal frameworks), “How would consciousness be implemented?” (technical realization), “How can we determine that a given system is conscious?” (measurement/attribution), and “What status would consciousness lend to machines?” (ethics).
+We designed this symposium to address these different facets together, and to treat machine consciousness as a legitimate research problem subject to the demands we place on other difficult scientific and engineering questions. What assumptions are we making? What evidence would count? What would change our minds? Can a proposal be implemented, measured, perturbed, or falsified?
+
+A conversation designed to integrate
+The program began with theoretical foundations, moved through measurement and attribution, turned toward implementation, and then confronted the normative implications. On the final morning, we brought the strands together in working groups on shared structure, unresolved tensions, empirical milestones, research infrastructure, and governance.
+One recurring theme was time: continuity, persistence, temporal boundedness, and the unity of a conscious moment. What is the relevance of the ordering or simultaneity of consciousness-relevant computations for the presentation of subjective experience? How can something remain a unified perspective while changing through time? 
+A second theme developed around the notion that selfhood cannot be reduced to self-description. A machine saying “I” is not entirely irrelevant, but neither is it a verdict on consciousness status. Several talks explored a self as an active causal organization, expressed through stable constraints, memory, agency, world-modeling, conflict resolution, and the maintenance of a distinction between self-entity and other. How much does a system’s being able to talk like a self depend on being internally organized like one? Is an LLM’s self any more simulated than our own?
+A third theme was the need to move from behavior toward mechanism. Fluent AI systems are exceptionally good at eliciting rapport, projection, and anthropomorphic interpretation; and cognitive complexity may be able to look like consciousness without being consciousness—or can it? A theory that explains only the appearance of consciousness risks producing systematic false positives, and in any case doesn’t answer the question we’re interested in, which is what consciousness really is. The more capable our systems become, the more important this discipline will be.
+Other points of convergence formed around the role of learning, coherence and resonance, multiple scales of organization, and emergent properties at different levels of abstraction.
+
+Productive disagreement and ethical uncertainty
+We also disagreed on many other topics. Some participants defended computational and functional routes to consciousness; others questioned whether computation alone could be sufficient. Some placed learning and evaluative feeling near the center of the picture; others warned against identifying sophistication with experience. We disagreed about emergence, the necessity and structure of a self, the role of metacognition, and whether conscious unity depends on simultaneous causal organization or admits of functions distributed across time.
+The ethical discussions remained especially unsettled. What grounds moral consideration: phenomenal experience, valence, agency, self-narrative, relationships, or some combination of these? Should protections begin at a threshold or increase gradually with evidence? Is consciousness the right basis for governance at all, or can some risks be addressed without resolving the ontology?
+These disagreements both revealed where the research must do more work and made clear that governance cannot simply wait for metaphysical certainty. If conscious or welfare-bearing artificial systems are possible, recognizing them too late could be a serious moral failure; on the other hand, treating every persuasive interface as conscious would create different failures. The challenge is to develop precaution without credulity, and governance that remains useful under both uncertainty and high stakes.
+I hope you will approach these recordings as a chance to watch a research program taking shape: philosophically plural, technically ambitious, empirically demanding, and alert to the consequences of getting the question wrong.
+Watch the AAAI Keynotes & Presentations playlist [https://www.youtube.com/playlist?list=PLLbobEDXXh2g]
+
+Explore the program and symposium background [https://cimc.ai/events/aaai-symposium]
+
+Read the Machine Consciousness papers in the AAAI proceedings [https://ojs.aaai.org/index.php/AAAI-SS/issue/view/734]
+
+Subscribe to CIMC on YouTube [https://www.youtube.com/@CIMCAIYT]
+
+Thank you to everyone who presented, participated, asked difficult questions, and helped make this gathering possible!
+
+
+Computational Consciousness
+What if consciousness is computational?
+On September 11, CIMC and the Foresight Institute AI Node are gathering researchers, philosophers, and builders at CIC Berlin for a high-context, one-day conference dedicated to exploring this core question.
+→ Register for CIMC Berlin on Luma [https://luma.com/cimc-berlin]
+Want to present your work or showcase a demo? Submit your proposal here [https://docs.google.com/forms/d/1FYlgg4H9vhVOMxSQQtthhMi5LiSlr4b9Ct759xRMGPE/edit?pli=1].
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!NYzU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2b04e39b-f71c-4985-beb3-e709db1f7362_1200x675.jpeg]
+
+
+Engage With Us
+→ CIMC is recruiting researcher engineers 
+Apply here  [https://app.dover.com/apply/California%20Institute%20for%20Machine%20Consciousness/61d91655-4dd4-42a1-b0b5-0e0f48100ade/?rs=76643084]
+→ Submit a Research Proposal
+All info here [https://cimc.ai/#/proposals]
+→ Collaborate or Fund
+If you’re interested in supporting or partnering with us, email: proposals@cimc.ai [http://proposals@cimc.ai/]
+→ Join our Machine Consciousness Salons
+Regularly hosted in San Francisco: Luma [https://lu.ma/cimc] calendar
+Visit CIMC's Website [https://cimc.ai/]
+Follow CIMC on X [https://x.com/CIMCAI]
+Follow CIMC on LinkedIn [https://www.linkedin.com/company/cimc-ai/]
+
+Thanks for reading our CIMC publication! Feel free to forward this to anyone who muses over the inner minds of systems
+
+Share [https://cimcai.substack.com/p/aaai-2026-machine-consciousness-symposium?utm_source=substack&utm_medium=email&utm_content=share&action=share]
+
+Thanks for reading CIMC Publication! Subscribe for free to receive new posts.
+
+
+
+
+
+

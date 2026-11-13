@@ -1,0 +1,2950 @@
+# source: https://www.youtube.com/watch?v=xw7omaQ8SgA
+# generated=True lang=en
+[0:00:00] the first breakthrough to
+[0:00:01] incontrovertibly human level AGI to a
+[0:00:03] super intelligence is months to years
+[0:00:06] will that be good or bad for Humanity to
+[0:00:08] me these are less clear than what I
+[0:00:10] think is the probable
+[0:00:13] timeline Yos shabak is known for his
+[0:00:15] insights into Consciousness and
+[0:00:16] cognitive architectures and Ben Gorel is
+[0:00:19] a seminal figure in the world of
+[0:00:20] artificial general intelligence and
+[0:00:22] known for his work on open Cog both are
+[0:00:25] coming together here on theories of
+[0:00:27] everything for a theol lotion a theol
+[0:00:29] lotion is an advancement of knowledge
+[0:00:31] couched both in tenderness and regard
+[0:00:33] rather than the usual tendency of
+[0:00:35] debates which is characterized by trying
+[0:00:37] to be correct even to the detriment of
+[0:00:39] the other person maybe even
+[0:00:40] destructively maybe even sardonically we
+[0:00:43] have a for in this episode into
+[0:00:45] semantics and Pier's sign Theory this
+[0:00:47] also extends into what it truly takes to
+[0:00:49] build a conscious AGI an AGI is an
+[0:00:52] artificial general intelligence which
+[0:00:54] mimics humanik intelligence but then the
+[0:00:57] question lingers what about
+[0:00:58] Consciousness what differentiates it's
+[0:01:00] mere computation from awareness man this
+[0:01:02] was a fascinating discussion and there
+[0:01:04] will definitely be a part two recall the
+[0:01:07] system here on toe which is if you have
+[0:01:09] a question for any of the guests whether
+[0:01:11] here or on a different podcast you leave
+[0:01:13] a comment with the word query and a
+[0:01:15] Colin and this way when I'm searching
+[0:01:17] for the next part with the guest I can
+[0:01:19] just press crlf and I can find it easily
+[0:01:22] in the YouTube Studio backend and then
+[0:01:24] I'll cite your name either aloud
+[0:01:25] verbally or in the description to those
+[0:01:28] of you who are new to this channel my
+[0:01:29] name is is Kurt jongle and this is
+[0:01:31] theories of everything where we explore
+[0:01:33] usually physics and Mathematics related
+[0:01:35] theories of everything how do you
+[0:01:36] reconcile quantum mechanics with general
+[0:01:38] relativity for instance that's the
+[0:01:39] standard archetype of a toe but also
+[0:01:42] more generally where does Consciousness
+[0:01:43] come in what role does it have to play
+[0:01:45] in fundamental law is fundamental quote
+[0:01:47] unquote the correct philosophical
+[0:01:49] framework to evaluate explanatory
+[0:01:51] Frameworks for the universe and
+[0:01:53] ourselves we've also spoken to yosha
+[0:01:55] three times before one solo that episode
+[0:01:57] is linked in the description another
+[0:01:59] time with John vei and yoshiok and
+[0:02:01] another time with Donald Hoffman and
+[0:02:02] yoshiok that was a legendary episode
+[0:02:04] also Ben goril has given a talk on this
+[0:02:07] program which was filmed at mindfest
+[0:02:09] which was a conference about artificial
+[0:02:11] intelligence and Consciousness if you
+[0:02:13] enjoy the topics of mathematics physics
+[0:02:15] Consciousness AI Free Will and
+[0:02:17] philosophy then consider subscribing to
+[0:02:19] get notified enjoy this episode with
+[0:02:21] yosha Bach and Ben
+[0:02:23] gzel welcome this is going to be so much
+[0:02:26] fun many many people are very much
+[0:02:29] looking forward to this including me
+[0:02:30] including yourselves welcome to the
+[0:02:33] theories of everything podcast I
+[0:02:34] appreciate you all coming back on thank
+[0:02:37] you yeah thanks for having us I always
+[0:02:40] enjoyed discussing this Ben it's uh it's
+[0:02:43] always been fun and it's I think the
+[0:02:45] first time be on a podcast together yes
+[0:02:48] wonderful so let's bring some of those
+[0:02:50] off a discussions to the Forefront how
+[0:02:52] did you all
+[0:02:53] meet uh we met first at the AGI
+[0:02:56] conference in Memphis Ben had organized
+[0:02:58] it and I went there because I wanted to
+[0:03:01] work on AI in the traditional Minsky and
+[0:03:04] sense and that worked on a cognitive
+[0:03:06] architecture my uh Pi didn't really like
+[0:03:09] it so I paid my own way to this
+[0:03:11] conference to publish it and I found uh
+[0:03:13] like-minded people there and for most
+[0:03:16] among them was Ben great what's
+[0:03:19] something Ben that you've changed your
+[0:03:21] mind about in the past six months in
+[0:03:22] this field this AGI field or AI field
+[0:03:26] and then yosha the question will go to
+[0:03:27] you right afterward
+[0:03:30] I don't think I've changed my mind about
+[0:03:33] anything major related to AGI in the
+[0:03:36] last six months but
+[0:03:38] certainly seeing how well llms have have
+[0:03:43] worked over the last nine months or so
+[0:03:47] has has been quite quite interesting I
+[0:03:50] mean it's not that they've worked a
+[0:03:52] hundred times better than that than I
+[0:03:54] thought they would or something but but
+[0:03:55] certainly just how far you can go by
+[0:03:59] this sort of non AGI system that monges
+[0:04:03] together a Hu huge amount of uh of data
+[0:04:06] from the web is has been quite
+[0:04:09] interesting to see and it's revised my
+[0:04:12] opinion on how much of the global
+[0:04:16] economy may be converted to AI even
+[0:04:19] before we get before we get to AGI right
+[0:04:21] so that that's it's shifted by thinking
+[0:04:23] on on that a bit but not so much on
+[0:04:28] fundamentally how how do you build build
+[0:04:30] an AGI because I think these systems are
+[0:04:33] somewhat off to the side of that
+[0:04:35] although they may usefully serve as as
+[0:04:37] components of integrated AGI systems and
+[0:04:42] yosa um well I have some things that
+[0:04:46] changed my mind are outside of the topic
+[0:04:48] of AGI um I thought a lot about um the
+[0:04:53] way in which Psychology was
+[0:04:54] conceptualized in Greece for instance
+[0:04:56] but uh I think that's maybe too far out
+[0:04:59] here in terms of AI um I looked into
+[0:05:03] some kind of new learning algorithm that
+[0:05:05] fascinate me and uh that are more brain
+[0:05:07] likee and move a little bit beyond the
+[0:05:09] perceptron and uh I'm making slow and
+[0:05:13] steady progress in this area it's not
+[0:05:15] doesn't feel like there is a big
+[0:05:16] singular breakthrough that dramatically
+[0:05:18] changed my thinking in the last six
+[0:05:20] months but uh I feel that uh there is an
+[0:05:23] area where I begin to understand more
+[0:05:25] and more things mhm all right let's get
+[0:05:27] to some of the comparisons between you
+[0:05:29] all the contrasting ones it's my
+[0:05:31] understanding that yosha you have more
+[0:05:34] of the mindset of everything is
+[0:05:36] computation or all is computation and
+[0:05:38] Ben you believe there to be other
+[0:05:40] categories I believe you refer to them
+[0:05:41] as archetypal categories or I may have
+[0:05:43] done that and I'm unsure if this is a
+[0:05:46] fair assessment but please elucidate me
+[0:05:50] uh I I think that everything that we
+[0:05:52] think happens in some kind of language
+[0:05:55] and perception also happens in some kind
+[0:05:56] of language and language cannot refer to
+[0:05:59] any anything outside of itself and in
+[0:06:01] order to be semantically meaningful a
+[0:06:04] language cannot have
+[0:06:05] contradictions it's possible to use a
+[0:06:07] language where you haven't figured out
+[0:06:08] how to resolve all the end
+[0:06:10] contradictions as long as you have some
+[0:06:12] hope that there is a way to do it but if
+[0:06:14] a language is self-contradictory its
+[0:06:16] terms don't mean anything and the
+[0:06:19] languages that work that we can use to
+[0:06:22] describe anything any kind of reality
+[0:06:24] and so on turn out to be representations
+[0:06:26] that we can describe via State
+[0:06:28] transitions
+[0:06:30] and there number of ways in which we can
+[0:06:32] conceptualize systems that are doing
+[0:06:35] State transitions for instance we can
+[0:06:37] think about whether are deterministic or
+[0:06:39] indeterministic whether they're linear
+[0:06:41] or branching and uh this allows us to
+[0:06:46] think of these representational
+[0:06:48] languages as a taxonomy but they all
+[0:06:50] turn out to be constructive that means
+[0:06:54] modern Palance computational there was a
+[0:06:57] branch of mainstream of math matics was
+[0:07:00] not constructive before good uh that
+[0:07:03] means language of mathematics allowed to
+[0:07:05] specify things that cannot be
+[0:07:07] implemented and computation is the part
+[0:07:09] that can be implemented I think for
+[0:07:11] something to be existent it needs to be
+[0:07:14] implemented in some form and that means
+[0:07:16] it uh we can describe it in some kind of
+[0:07:18] constructive
+[0:07:19] language that's basically the swort uh
+[0:07:22] rysis has to do with epistemology and
+[0:07:25] the epistemology determines the
+[0:07:27] metaphyses that I can have because when
+[0:07:29] I think about what reality is about I
+[0:07:31] need to do this in a language in which
+[0:07:33] my words mean things otherwise what am I
+[0:07:35] talking about what am I pointing at and
+[0:07:37] when I'm pointing at I'm pointing at a
+[0:07:39] representation that
+[0:07:41] is basically a mental state that my own
+[0:07:45] mind represents and projects into some
+[0:07:47] kind of uh conceptual space or some kind
+[0:07:50] of perceptual space that we might share
+[0:07:52] with others and in all these cases we
+[0:07:54] have to think about representations and
+[0:07:57] then I can ask myself how is this
+[0:07:59] represent ation implemented in whatever
+[0:08:01] substrate it is and what does this
+[0:08:03] signify about reality and what is
+[0:08:06] reality and what ises significance and
+[0:08:08] all these terms turn out to be terms
+[0:08:10] that again I need to describe in a
+[0:08:12] language that is constructive that is
+[0:08:14] computational and in this sense I am a
+[0:08:17] strong computationalist because I
+[0:08:18] believe that if we try to use
+[0:08:20] non-computational terms to describe
+[0:08:23] reality and it's not just because we
+[0:08:25] haven't gotten around to formalizing
+[0:08:27] them yet but because we believe that we
+[0:08:29] something that is more than this we are
+[0:08:31] fundamentally confused and our words
+[0:08:33] don't mean
+[0:08:34] things mhm and
+[0:08:38] Ben um I I I I think that
+[0:08:44] uh yeah I tend to start from a
+[0:08:48] different perspective on all this pH
+[0:08:51] Phil philosophically I mean I think
+[0:08:53] there there's one minor technical point
+[0:08:57] I feel need to quibble with than what
+[0:08:58] yosha said said and and then I'll try to
+[0:09:00] outline my my point of view from a more
+[0:09:03] fundamental perspective I mean the the
+[0:09:06] point I want to quibble with is it was
+[0:09:09] stated
+[0:09:10] that if a logic or language contains
+[0:09:13] contradictions it's meaningless I mean
+[0:09:15] there of course that's not true there's
+[0:09:16] a whole discipline of par consistent
+[0:09:18] Logics which have which have
+[0:09:20] contradictions in them and yet are not
+[0:09:23] meaningless and they're they're
+[0:09:24] constructive per consistent Logics and
+[0:09:26] you you can actually use you know Curry
+[0:09:29] Howard Transformations or operational
+[0:09:33] semantics transformations to map
+[0:09:36] paraconsistent logical formalisms in
+[0:09:38] into gradually typed programming
+[0:09:40] languages and so forth so I mean
+[0:09:43] contradictions are not necessarily fatal
+[0:09:46] to having meaningful semantics to a
+[0:09:49] logical or computational framework and
+[0:09:51] this is something that's actually
+[0:09:52] meaningful in my approach to AGI on the
+[0:09:55] technical level which we may get into
+[0:09:57] later but I but I want to I want to
+[0:09:58] shift back back to the foundation of uh
+[0:10:02] life the universe and and and everything
+[0:10:04] here so I mean I I I tend to be
+[0:10:08] phenomenological in
+[0:10:11] my Approach more more more more more so
+[0:10:14] than uh starting from a model of model
+[0:10:19] of reality
+[0:10:22] and these sorts of things become hard to
+[0:10:25] put into words and language because once
+[0:10:27] you project them into words and language
+[0:10:29] then yeah you have a language cuz you're
+[0:10:30] talking in language right but but
+[0:10:32] talking isn't all there is to life it
+[0:10:33] isn't all there is to all there is to to
+[0:10:36] experience and I think the philosopher
+[0:10:40] Charles Pur gave one fairly clear
+[0:10:44] articulation of some of the points I
+[0:10:45] want to make you could just as well look
+[0:10:48] at La Lau or you could look at the vdas
+[0:10:51] or the the book uh B Buddhist logic by
+[0:10:55] uh shotski which gives similar
+[0:10:58] perspectives from a from a from a
+[0:11:00] different cultural background so if you
+[0:11:02] take Charles P's point of view which at
+[0:11:04] least is concise he he distinguishes a
+[0:11:08] number of metaphysical
+[0:11:11] categories and I don't follow him
+[0:11:13] exactly but let me start with him so he
+[0:11:16] starts with first by which he means Quia
+[0:11:20] like raw raw
+[0:11:23] unanalyzable just it's there right and
+[0:11:26] then he conceives second by which he
+[0:11:30] means reaction like billyard ball
+[0:11:33] bounces off each other it's just one
+[0:11:34] thing he's reacting to something else
+[0:11:37] right and that this is how he's looking
+[0:11:39] at sort of the Crux of classical physics
+[0:11:41] let's say then by what P calls third he
+[0:11:45] means relationships so one thing is
+[0:11:48] relating to other things and one of the
+[0:11:50] insights that Charles Pur had writing in
+[0:11:52] the late 1800s was that you know once
+[0:11:55] you can relate three things you can
+[0:11:57] relate four five six 10 like a any any
+[0:12:00] large finite finite number of things
+[0:12:02] which was just a just you know a version
+[0:12:05] of what's very standard now of of of
+[0:12:07] reducing a large number of log logical
+[0:12:09] relations to sort of triples or
+[0:12:11] something right so Pur looked at first
+[0:12:14] second and third is fundamental
+[0:12:17] metaphysical categories and he invented
+[0:12:21] quantifier logic as well with a for all
+[0:12:23] and there exists and quantifier bonding
+[0:12:25] so he as P would look at it comput a and
+[0:12:29] logic are in the realm of third and if
+[0:12:32] you're looking in that metaphysical
+[0:12:34] category of third then you're saying
+[0:12:36] well everything's a relationship on the
+[0:12:38] other hand if you're looking for within
+[0:12:39] from within the metaphysical category of
+[0:12:41] second you're looking at it like well
+[0:12:43] everything's just reactions if you're
+[0:12:45] looking at it from within the
+[0:12:46] metaphysical category of first then it's
+[0:12:49] like whoa it's all just there right and
+[0:12:52] you could take any of those points of
+[0:12:55] view and it's valid in itself now you
+[0:12:58] could extend beyond C categories you
+[0:13:00] could say well I'm going to be a Zen
+[0:13:01] Buddhist and have a category of zero
+[0:13:03] like the unanalyzable Pearly void right
+[0:13:06] or or you could go Y in and say okay
+[0:13:08] these are numerical archetypes 1 two
+[0:13:10] three but then we have the archetype of
+[0:13:12] four which is is sort of synergy and and
+[0:13:16] emergence it's sort of mandalic yeah
+[0:13:19] what so what I was saying is
+[0:13:21] Pur purse had these three metaphysical
+[0:13:24] categories which he viewed as just
+[0:13:26] ontologically metaphysically distinct
+[0:13:28] from each other so what what Charmers
+[0:13:30] would call the hard problem of
+[0:13:32] Consciousness in peran language is like
+[0:13:35] how do you collapse third to First and
+[0:13:37] person would be just like well you you
+[0:13:40] don't they're different they're
+[0:13:41] different categories you're an idiot to
+[0:13:42] think that you can somehow collapse one
+[0:13:45] to the other so in in that sense he was
+[0:13:47] a dualist although more than a dualist
+[0:13:49] because he had first second and third
+[0:13:50] now I think you could go beyond that if
+[0:13:53] you want you could go Zen Buddhist and
+[0:13:55] say well we have a zero category of the
+[0:13:57] you know the original enough able
+[0:13:59] self-contradictory perly void and then
+[0:14:02] then you have the question of is zero
+[0:14:04] really the same as one which is like the
+[0:14:06] the Zen Buddhist Paradox of nism and so
+[0:14:09] forth in a certain form you can you can
+[0:14:12] also go above persus three metaphysical
+[0:14:15] categories and you can say okay well why
+[0:14:17] not four fourth well to to Carl Young
+[0:14:20] four was the archetype of of synergy and
+[0:14:23] many mandelas were based on this
+[0:14:24] four-fold Synergy why not five well five
+[0:14:27] you have the four-fold synergy and then
+[0:14:29] the birth of something new out of it
+[0:14:30] right so I I I can see that the
+[0:14:35] perspective of third the perspective of
+[0:14:37] computation is
+[0:14:40] substantially where you want to focus if
+[0:14:42] you're engineering an AGI system right
+[0:14:44] because you're writing a program and the
+[0:14:47] the program the program is a set of of
+[0:14:50] logical relationships the program is
+[0:14:52] written in a language so I don't I don't
+[0:14:54] have any disagreement that this is like
+[0:14:57] the the focal point when you're
+[0:14:59] engineering an an AGI system but if I
+[0:15:03] want to intuitively
+[0:15:05] conceptualize the AGI
+[0:15:08] experience I don't feel a need to like
+[0:15:11] try to reduce the whole metaphysical
+[0:15:13] hierarchy into into third just because
+[0:15:17] the program code lives there and I mean
+[0:15:20] this is this is sort of a it's not so
+[0:15:23] much
+[0:15:24] about AI or mathematical or
+[0:15:27] computational formalism I these are just
+[0:15:30] different philosophical perspectives
+[0:15:33] which it becomes argu to talk about
+[0:15:37] because natural language terms are are
+[0:15:41] imprecise and and ambiguous and and and
+[0:15:45] slippery and you could end up spending a
+[0:15:47] career trying to articulate what is
+[0:15:50] really meant by relationship or
+[0:15:52] something all right
+[0:15:55] yosha I think it comes down to the way
+[0:15:57] in which our thinking works and what we
+[0:15:59] think thinking is you could uh have one
+[0:16:03] approach that is uh radically trying to
+[0:16:07] build things from first principles and
+[0:16:10] when we learn how to Rite computer
+[0:16:12] programs this is what we might be doing
+[0:16:14] when I started programming I had a
+[0:16:16] commodor 64 I was a kid I didn't know
+[0:16:19] how to draw a line commodor 64 basic
+[0:16:22] doesn't have a command to draw a line
+[0:16:24] what you need to draw a line on the
+[0:16:26] commod 64 is you need to learn a
+[0:16:28] particular language and this language in
+[0:16:30] this case is basic you can also learn
+[0:16:32] assembler directly but it's not hard to
+[0:16:35] see how assembler maps to the machine
+[0:16:37] code of the computer and the Machine
+[0:16:39] code Works in such a way that you have a
+[0:16:41] short uh sequence of bits organized into
+[0:16:44] uh groups of eight bite and these bytes
+[0:16:49] are interpreted as commands by the
+[0:16:52] computer they basically uh like switches
+[0:16:56] or train tracks you could imagine every
+[0:16:58] bit deter whether train check goes to
+[0:17:00] the left or to the right and after you
+[0:17:02] go through eight switches you have 256
+[0:17:05] terminals where you can end right so if
+[0:17:07] you have two options to switch left or
+[0:17:09] right and each of these terminals you
+[0:17:11] have a circuit some kind of mechanism
+[0:17:13] that performs a small change in the
+[0:17:15] computer and these changes are chosen in
+[0:17:17] such a way that you can build arbitrary
+[0:17:19] programs from them and when you want to
+[0:17:22] make a line you need to uh learn a few
+[0:17:24] of these constructs that you use to
+[0:17:27] manipulate the computer and first of all
+[0:17:29] the kodor 64 you need to write a value
+[0:17:31] in a certain address of that corresponds
+[0:17:34] to a function on the video chip of the
+[0:17:36] computer and it makes the video chip
+[0:17:38] forget how to draw characters on screen
+[0:17:40] and instead interpret a part of the
+[0:17:42] memory of the computer as pixels that
+[0:17:44] are to be displayed on the screen and
+[0:17:47] then you need to tell it which address
+[0:17:48] in working memory you want to start by
+[0:17:50] writing two values into the graphic chip
+[0:17:53] which are en code for um a 16bit address
+[0:17:57] in the computer and then you can uh find
+[0:18:01] the bits uh in your working memory that
+[0:18:03] correspond to pixels on the screen and
+[0:18:06] uh then you need to make a loop that uh
+[0:18:08] addresses them all in order and then you
+[0:18:09] can draw a line and uh once I understood
+[0:18:13] this I basically had a mapping from an
+[0:18:15] algebraic equation into automata that
+[0:18:18] was is what the computer is doing it's
+[0:18:19] an automaton at the doest level that is
+[0:18:23] uh performing geometry and uh once you
+[0:18:26] can draw lines you figure out also how
+[0:18:27] to draw um curved shapes and then you
+[0:18:30] can draw 3D shapes you can easily derive
+[0:18:33] how to make that and I did these things
+[0:18:36] as a kid and then I thought the
+[0:18:37] mathematicians have some kind of
+[0:18:39] advanced way some kind of
+[0:18:42] um way in which I deeply understand what
+[0:18:45] geometry is and in waye that goes far
+[0:18:47] beyond what I am doing and Ma
+[0:18:49] mathematics teachers had the same belief
+[0:18:51] they basically were gesturing at some
+[0:18:53] kind of mythological mountain of
+[0:18:55] mathematics where there was some deep
+[0:18:57] ins scrutable knowledge on how to do
+[0:18:58] continuous geometry for instance and it
+[0:19:01] was much much later that I started to
+[0:19:04] look at this mountain and realized that
+[0:19:05] it was doing the same thing that I did
+[0:19:07] on my to komodor 64 just with Greek
+[0:19:09] notation and uh there a different
+[0:19:11] tradition behind it uh but it was
+[0:19:13] basically the same code that I have been
+[0:19:16] using and when I was confronted with
+[0:19:19] Notions of space and continuous space
+[0:19:21] and many other things I was confronted
+[0:19:24] with the conundrum I thought I can do
+[0:19:26] this in my computer it looks like it but
+[0:19:28] can be no actual space because I don't
+[0:19:30] know how to construct it I cannot make
+[0:19:31] something that is truly continuous and
+[0:19:34] they also don't observe anything in
+[0:19:36] reality around me that is fundamentally
+[0:19:38] different from what I can observe in my
+[0:19:41] computer to the degree that I can
+[0:19:42] understand and implement it so how does
+[0:19:45] this other stuff work and so imagine
+[0:19:47] somebody has an idea of how to do
+[0:19:49] something in a way that is fundamentally
+[0:19:51] different from what could be in
+[0:19:52] principle done in computers and I asked
+[0:19:54] them how this is working it it goes into
+[0:19:57] hand waving and then you point at some
+[0:19:59] proofs that have been made that show
+[0:20:01] that the particular hand waving that
+[0:20:03] they hope to get to work does not pen
+[0:20:05] out and then I hope there is some other
+[0:20:08] solution to make that happen because
+[0:20:09] they have the strong intuition and I
+[0:20:11] asked where does this intuition come
+[0:20:12] from how did it actually get into your
+[0:20:14] brain and then you look at how does the
+[0:20:16] brain work there is firing between
+[0:20:18] neurons there is interaction with
+[0:20:20] sensory patterns on the systemic
+[0:20:21] interface to the universe how were they
+[0:20:24] able to make inferences that go beyond
+[0:20:26] the inferences that I can make but is
+[0:20:29] one way of looking at it and then on the
+[0:20:31] other end of the spectrum um this and
+[0:20:34] this one is more or less in the middle
+[0:20:36] there is degraded form of epistemology
+[0:20:38] which is you just make noises and if
+[0:20:40] other people let you get a away with it
+[0:20:42] you're
+[0:20:43] fine and right so you just make sort of
+[0:20:46] Grunts and hand wavy movements and you
+[0:20:48] try to point at things and you don't
+[0:20:50] care about how anything of it works and
+[0:20:52] if a large enough group of high status
+[0:20:54] people is nodding you're good and uh
+[0:20:57] this epistemology of what you can can
+[0:20:58] get a wayers uh is uh doesn't look very
+[0:21:01] appealing to me because people are very
+[0:21:03] good at being wrong in groups yeah I I I
+[0:21:06] mean saying that the only thing there is
+[0:21:09] is language because the only thing we
+[0:21:12] can talk about in language is is
+[0:21:14] language I mean this is sort of tolist
+[0:21:19] in in in in in a way right but no no
+[0:21:21] that's that's not quite what I'm saying
+[0:21:22] I'm not saying the only thing that is
+[0:21:24] this language of course language is a
+[0:21:26] just a representation it's a way to talk
+[0:21:28] about the things and to think about
+[0:21:29] things and uh to model things and uh
+[0:21:33] obviously not everything is a model just
+[0:21:35] everything that they can refer to is a
+[0:21:37] model and so uh there is uh that that
+[0:21:42] that that I
+[0:21:45] mean you can't know that right you can
+[0:21:49] you can hypothesize that but you can't
+[0:21:51] you can't know that and this gets into I
+[0:21:55] guess it depends what you I cannot know
+[0:21:57] anything that I cannot express
+[0:22:00] I can know many things I can't express
+[0:22:02] in language but I mean that's that's
+[0:22:04] just a I guess a different flavor of of
+[0:22:08] knowing
+[0:22:11] subjective experience I mean so take
+[0:22:15] take what Martin bber called an i thou
+[0:22:19] experience right I mean if you're if
+[0:22:21] you're staring into someone's eyes and
+[0:22:24] you have a deep experience that you're
+[0:22:26] you're seeing that person you're just
+[0:22:28] sharing a shared space of of experience
+[0:22:33] and and and being I mean in that moment
+[0:22:36] that is something you both know you're
+[0:22:38] not going to be able to communicate
+[0:22:40] fully in in language and it's
+[0:22:43] experientially there now bouar wrote a
+[0:22:46] bunch of words about it right and those
+[0:22:49] words communicate something special to
+[0:22:51] me and to some other people but of of
+[0:22:54] course someone else reads the words that
+[0:22:56] he wrote and says well you you are
+[0:22:59] merely summarizing some collection of
+[0:23:03] firings of neur of neurons in in in in
+[0:23:06] your brain and in some strange way
+[0:23:09] diluting yourself that that that that
+[0:23:11] that it's something else right so I mean
+[0:23:13] that's
+[0:23:15] a I mean I I think from within the
+[0:23:19] domain of computation and science you
+[0:23:22] can neither prove nor disprove that
+[0:23:26] there exists something beyond beyond the
+[0:23:28] range of of computation and and Science
+[0:23:31] and if you if you look at scientific
+[0:23:33] data I mean the whole compendium of
+[0:23:35] scientific data ever gathered by the
+[0:23:37] whole human race is one large finite bit
+[0:23:40] set basically I mean it's a large it's a
+[0:23:43] large set of data points with with
+[0:23:45] finite Precision to each each piece of
+[0:23:48] data so I mean it might not even be that
+[0:23:51] huge of a computer file if you if you
+[0:23:52] try to if you try to assemble it all
+[0:23:54] like all the all the scientific
+[0:23:56] experiments ever done and agreed by some
+[0:23:59] community of scientists so you so you've
+[0:24:00] got this big finite bit set right so and
+[0:24:04] then science in a way is trying to come
+[0:24:06] up with you know concise reasonable
+[0:24:09] looking culturally
+[0:24:10] acceptable explanations for this huge
+[0:24:13] finite bit set that can be used to
+[0:24:16] predict outcomes of other experiments
+[0:24:18] and which fite collection of bits will
+[0:24:21] will emerge from those other experiments
+[0:24:22] in a way that that's accepted by a
+[0:24:24] certain by a certain Community now that
+[0:24:28] that
+[0:24:28] that's a certain process it's a thing to
+[0:24:31] do it has to do with finite bit sets and
+[0:24:34] computational models for for producing
+[0:24:38] finite bits right and the finite sets of
+[0:24:40] bits and that that's that's great there
+[0:24:43] nothing within that process is going to
+[0:24:46] tell you that that's all there is to to
+[0:24:48] to the universe or that isn't all there
+[0:24:50] is to the universe I mean it's a Val
+[0:24:53] it's a valuable important thing now to
+[0:24:57] me as an experiencing mind I feel like
+[0:25:01] there's a lot of steps I have to get to
+[0:25:03] the point where I even know what a
+[0:25:05] finite bit set is or where I even know
+[0:25:08] like what what a community of people
+[0:25:10] validating that fite bitet is really is
+[0:25:13] or or what a what a programming language
+[0:25:16] is so I mean I keep coming back to my
+[0:25:19] phenomenal hital experience like first
+[0:25:21] there's this this field of of
+[0:25:23] nothingness or contradictory nothingness
+[0:25:26] that's just floating there then then
+[0:25:28] some Indescribable forms Flicker and
+[0:25:31] emerge emerge out of this void and then
+[0:25:35] you get have some complex pattern of
+[0:25:38] forms there which constitutes a notion
+[0:25:40] of you know a bit set or an experiment
+[0:25:42] or or or a computation and from from
+[0:25:45] this phenomenological view by the time
+[0:25:47] you get to this business of computing in
+[0:25:49] languages you're already dealing with a
+[0:25:51] fairly complex like body of
+[0:25:54] self-organizing forms and distinctions
+[0:25:56] that that that popped out of the void
+[0:25:59] and then then this conglomeration of
+[0:26:01] forms that in some ineffable way has
+[0:26:03] emerged out of the Void is selling no I
+[0:26:06] am I am everything the only thing that
+[0:26:08] exists in a fundamental sense is what is
+[0:26:11] inside me and I mean you can't if you're
+[0:26:14] inside that thing you can't you can't
+[0:26:18] refute or really demonstrate that but
+[0:26:21] again from from an AGI view it's all
+[0:26:25] fine because when we talk about building
+[0:26:26] an AGI what talking about is precisely
+[0:26:30] engineering a set of
+[0:26:33] computational processes like I I don't I
+[0:26:36] don't think you need to
+[0:26:37] do like you don't you don't need some
+[0:26:40] special first tonium to drop into your
+[0:26:42] computer to give to give the the AGI the
+[0:26:46] the fundamental quilia of of of
+[0:26:48] experience or something two points now
+[0:26:51] that me beef so we don't forget okay
+[0:26:54] let's just allow yosha to speak because
+[0:26:56] there are quite a few threads and some
+[0:26:58] may be dropped also it appears as if
+[0:27:00] you're using different definitions of
+[0:27:01] knowledge if you use this traditional
+[0:27:03] Phil philosophic notion of Justified
+[0:27:05] true belief it means that I have to use
+[0:27:08] knowledge on a context where I can hope
+[0:27:10] to have a notion of what's true so for
+[0:27:12] instance when I look at your face and I
+[0:27:15] experience a deep connection with you
+[0:27:17] and I report I know we have this deep
+[0:27:20] connection I'm not using the word no in
+[0:27:22] the same sense what I am describing is
+[0:27:24] an observation I'm uh observing that I
+[0:27:28] seem to be looking at the face and then
+[0:27:30] observing that I have the experience of
+[0:27:33] having a deep connection and I think I
+[0:27:35] can to hope to report on this truthfully
+[0:27:39] I but I don't know whether it's true
+[0:27:41] that we have that deep connection right
+[0:27:43] I I cannot actually know this I can make
+[0:27:46] some experiments to show how aligned we
+[0:27:48] are and how connected we are and so on
+[0:27:50] to say uh this uh perception or this
+[0:27:54] imagination has some veracity but here
+[0:27:56] I'm referring to a set of patterns right
+[0:27:59] so there are Dynamic patterns that I
+[0:28:01] perceive and then there is stuff that I
+[0:28:03] can reflect on and dis assemble and talk
+[0:28:05] about and convey and model and this uh
+[0:28:09] is a distinct category in the sense it's
+[0:28:12] not in contradiction necessarily what
+[0:28:14] you're saying it just using the word
+[0:28:15] knowing in different ways uh is implied
+[0:28:18] here because I can uh relate the pattern
+[0:28:21] to you that I'm observing or that I
+[0:28:23] think I'm observing but this is a
+[0:28:25] statement about my mental state it's not
+[0:28:28] a statement about something in reality
+[0:28:30] about uh the world and to make
+[0:28:32] statements about the world I probably
+[0:28:34] need to go beyond perception the second
+[0:28:36] aspect that we are now getting to is
+[0:28:39] when you say that reality and Minds
+[0:28:42] might have properties that are not
+[0:28:44] computational yet your AGI is uh
+[0:28:47] entirely computational and doesn't need
+[0:28:49] any kind of uh first principles Wonder
+[0:28:52] machine built into it uh that goes
+[0:28:55] beyond what we can construct from
+[0:28:56] automata um
+[0:28:59] are you establishing that AGI artificial
+[0:29:02] general intelligence with potentially
+[0:29:04] superhuman capabilities are going to
+[0:29:06] still lagging behind what your mind is
+[0:29:08] capable of no no not not not not at all
+[0:29:12] I just think the other aspects are are
+[0:29:15] there are there anyway and you don't
+[0:29:17] need to build them so I I mean so you
+[0:29:18] need to make the you're going to make
+[0:29:20] the non-computational parts of reality
+[0:29:22] using
+[0:29:24] computation no you don't have to make
+[0:29:26] them they're they're already there I
+[0:29:27] mean if you if you take just just take a
+[0:29:31] more simple point of view where you're
+[0:29:33] thinking about first and
+[0:29:35] third and Pur was basically a pan
+[0:29:39] psychist right so he believed that
+[0:29:40] matter is mind hidebound with habit as
+[0:29:43] he said he he believed that every little
+[0:29:45] particle had its own spark or element of
+[0:29:48] of Consciousness and and awareness in it
+[0:29:52] so I mean from that standpoint I mean
+[0:29:55] this this kind of bubbly water that I'm
+[0:29:58] holding up has its own variety of
+[0:30:01] conscious awareness to it which is has a
+[0:30:04] different properties in the conscious
+[0:30:06] awareness in my brain or yours so from
+[0:30:08] from that from that standpoint if I
+[0:30:11] build an AGI program that has something
+[0:30:14] around the same patterns and structures
+[0:30:16] and Dynamics as as a
+[0:30:20] human brain and as the sort of
+[0:30:22] computational aspect of the human mind
+[0:30:24] from from that from that standpoint then
+[0:30:28] most likely the same sort of firstness
+[0:30:32] the same species of subjective awareness
+[0:30:34] will will be associated with that AGI
+[0:30:39] machine that that you've built but it's
+[0:30:40] it's not that you needed to to construct
+[0:30:43] it I mean any more than you need to
+[0:30:46] explicitly construct like the
+[0:30:49] positioning in time of your computer
+[0:30:51] something like you you you build
+[0:30:53] something it's already there in time you
+[0:30:54] don't have to build time I mean you just
+[0:30:56] build it and it's there it's there
+[0:30:58] is there in time you didn't need a
+[0:31:00] theory of time and you didn't need to
+[0:31:02] screw together moment T to moment t+ one
+[0:31:05] either the the perspective is more that
+[0:31:08] awareness is is ambient and and it it's
+[0:31:12] it's there you don't you don't need to
+[0:31:13] build it now there of course there's
+[0:31:16] subtlety that different sorts of
+[0:31:20] constructions may have different sorts
+[0:31:22] of
+[0:31:24] awareness associated with them and
+[0:31:27] there's philosophic
+[0:31:28] subtlety in how do you treat different
+[0:31:31] kinds of first when you're operating at
+[0:31:34] a level where relationship doesn't
+[0:31:36] doesn't exist yet right like in what
+[0:31:39] sense is the experience of red different
+[0:31:41] from the experience of of of blue even
+[0:31:44] though articulating that difference
+[0:31:47] already brings you into the realm of of
+[0:31:49] of third right and this gets back to it
+[0:31:51] gets back to nonduality and a bunch of
+[0:31:54] stuff that Pur wrote hundreds of pages
+[0:31:56] about right but I haven't read pages so
+[0:31:58] I don't really understand them I I think
+[0:32:00] it's uh conceivable that uh particles
+[0:32:04] are conscious or intelligent uh but this
+[0:32:07] would require that they have or imply
+[0:32:11] they have more complicated qual
+[0:32:12] structure than the computer that I'm
+[0:32:14] currently using to communicate with you
+[0:32:16] and by that's possible I seem seems to
+[0:32:19] me that it's uh that are simpler ways in
+[0:32:22] which particles could be constructed to
+[0:32:24] do the things that they are doing it
+[0:32:25] seems to me sufficient that there are
+[0:32:28] basically emergent error correcting
+[0:32:30] codes on the quantum substrate and would
+[0:32:33] just emerge over uh the stuff that
+[0:32:36] remain statistically predictable in um
+[0:32:39] uh branching Multiverse I don't need to
+[0:32:42] be conscious to do anything like that
+[0:32:44] maybe if we do more advanced physics we
+[0:32:47] figure out oh no this error correcting
+[0:32:48] code that just emerges similar to a
+[0:32:51] Vortex emerges in the bus stop when you
+[0:32:53] move your hand and only the vortex
+[0:32:55] remains and everything else dissipates
+[0:32:57] in the Faith background that you are
+[0:32:59] producing in the chaos uh and
+[0:33:01] turbulences right it could be uh to me
+[0:33:04] possible that particles are like this
+[0:33:06] they little stable Twirls vertices that
+[0:33:08] St stabilize after the non-stable stuff
+[0:33:11] is dissipating and uh to achieve this I
+[0:33:14] don't think that I need to posit that
+[0:33:16] they are conscious if I could be that I
+[0:33:20] figure out oh no this is not sufficient
+[0:33:21] we need way more complicated mass and
+[0:33:23] structure to make this happen so they
+[0:33:25] need some kind of coherence improving
+[0:33:27] operator that uh is self-reflexive and
+[0:33:31] uh eventually leads to the structure
+[0:33:33] then uh I would say yeah maybe this is a
+[0:33:35] theory that we should seriously
+[0:33:37] entertain until then I'm undecided and
+[0:33:39] Alam phaser says I can construct uh what
+[0:33:42] I observe at this level of Elementary
+[0:33:45] particles atoms and so on by assuming
+[0:33:47] that they don't have any of the
+[0:33:49] conscious functionality that exists in
+[0:33:51] my own mind and another way would be you
+[0:33:54] can redefine the notion of Consciousness
+[0:33:55] into some principle of self organization
+[0:33:57] that is super basic but this would
+[0:33:59] redefine Consciousness into something
+[0:34:01] else because there's a lot of
+[0:34:02] self-organizing stuff that does not fall
+[0:34:05] into the same category that an
+[0:34:07] anesthesiologist makes go away when he
+[0:34:09] gives you an anesthetic and to me
+[0:34:11] Consciousness is that thing which seems
+[0:34:12] to be suspended then you get an
+[0:34:14] anesthetic and that stops you from
+[0:34:16] learning and currently interacting with
+[0:34:17] the world I mean that at least gives me
+[0:34:21] a chance to repeat once again my
+[0:34:24] favorite quote from uh Bill Clinton
+[0:34:26] former US president which is a that all
+[0:34:29] depends what the meaning of is is
+[0:34:32] right I'm I'm
+[0:34:35] in there there's that's interesting Ben
+[0:34:37] because first time yosha I don't know if
+[0:34:39] you remember I brought up that quote I
+[0:34:41] don't remember the context but I said
+[0:34:43] yeah that also depends on what is is
+[0:34:45] question is what do you mean by is right
+[0:34:47] so uh visit the story that sounds like
+[0:34:51] that sounds like Bill Clinton it depends
+[0:34:53] upon what the meaning of the word is
+[0:34:56] yeah the previous podast with Yos
+[0:34:58] shabach as a solo episode is linked in
+[0:35:00] the description as well as the previous
+[0:35:03] podcast with Ben solo as well as Yos
+[0:35:05] shabach with Donald Hoffman and Yos
+[0:35:06] shabach with John Veri every link as
+[0:35:09] usual to every Source mentioned in this
+[0:35:11] podcast on every single toe podcast is
+[0:35:13] in the
+[0:35:14] description yeah I mean a
+[0:35:18] couple reactions there and I I feel I
+[0:35:20] may have lost something in the in the in
+[0:35:23] the buffering process there but I I I I
+[0:35:27] I think I think
+[0:35:31] that let me see so
+[0:35:37] that first of all
+[0:35:39] about
+[0:35:42] causality
+[0:35:43] and firstness or a raw experience I mean
+[0:35:48] almost by definition of how p sets up
+[0:35:52] his
+[0:35:53] metaphysical categories I mean the
+[0:35:56] firstness
+[0:35:58] doesn't cause anything so you're you're
+[0:36:00] not going to come up with a case where
+[0:36:03] like I I I I need to assume that this
+[0:36:09] particle
+[0:36:10] has experience or else I can't explain
+[0:36:15] why this experiment CAA CA came out this
+[0:36:19] way I mean I mean that that that would
+[0:36:21] be a sort of category error in in in P's
+[0:36:26] perspective so if if the only if the
+[0:36:29] only sort of thing you're willing to
+[0:36:31] attribute existence to is something
+[0:36:33] which has a demonstrable causal impact
+[0:36:36] on some experiment then by that
+[0:36:39] assumption I mean that that's
+[0:36:41] essentially equivalent to the
+[0:36:42] perspective you're putting forth that
+[0:36:44] everything is is is is computation yeah
+[0:36:47] and and Pur Pur didn't think other
+[0:36:50] categories besides third were of that
+[0:36:54] nature now that there's also a just
+[0:36:58] shallow semantic matter tied into this
+[0:37:01] which is the word Consciousness is just
+[0:37:05] highly ambiguous so I mean yosha you
+[0:37:08] seem to just assume that humanik
+[0:37:12] Consciousness is consciousness and I
+[0:37:16] don't really care if people want to
+[0:37:17] reserve the word Consciousness for that
+[0:37:19] then we just need some some other word
+[0:37:22] for the sort of ambient awareness and
+[0:37:24] everything in the universe right so
+[0:37:26] there's lengthy debate
+[0:37:28] among academics I'm like okay do we say
+[0:37:31] a particle is conscious or do we say
+[0:37:34] it's protoc conscious right so then you
+[0:37:36] can say okay we have protoconsciousness
+[0:37:39] versus Consciousness or we have like raw
+[0:37:42] Consciousness versus reflexive
+[0:37:44] Consciousness or humanik Consciousness
+[0:37:46] and I mean I spent a while reading all
+[0:37:49] the stuff I wrote some things about it
+[0:37:50] in in the end I'm just like this is a
+[0:37:54] this is a game that overly intellectual
+[0:37:57] people are are playing to to entertain
+[0:37:59] themselves and it it doesn't really
+[0:38:01] matter like I've got I've got my
+[0:38:03] experience of the Universe I know what I
+[0:38:04] need to do to build AGI systems and
+[0:38:07] arguing about which words to associate
+[0:38:10] with different flavors and levels of
+[0:38:13] experience is you're just kind of kind
+[0:38:16] of running around in circles but of
+[0:38:18] course me conceptually it's an important
+[0:38:19] question is this camera that is
+[0:38:21] currently filming my face and
+[0:38:23] representing it and then relaying it to
+[0:38:25] you aware of what it's doing and this
+[0:38:27] the just a matter of degree with respect
+[0:38:29] to my Consciousness and is this
+[0:38:30] representing some kind of ambient
+[0:38:32] awareness of the universe and are
+[0:38:34] particles doing the same thing and so on
+[0:38:36] these are questions that I think I can
+[0:38:38] answer and if I don't answer them my
+[0:38:40] thinking will become so mushy that my
+[0:38:41] thoughts are meaningless and I will not
+[0:38:43] be able to construct anything I mean if
+[0:38:46] the only kind of answer that you're
+[0:38:48] interested in
+[0:38:50] are rigorous scientific answers then you
+[0:38:54] have your answer by assumption right and
+[0:38:56] uh I mean answering questions by
+[0:39:00] assumption is fine it's practical it
+[0:39:02] saves our time right it's but I mean I I
+[0:39:07] I I don't you I mean you will no I think
+[0:39:09] that's what you're doing I I don't see
+[0:39:11] how you're not just trying to answer by
+[0:39:14] assumption you posit that Elementary
+[0:39:16] particles are conscious uh when I point
+[0:39:20] out that we normally reserve the world
+[0:39:22] Consciousness for something that is
+[0:39:23] really interesting and fascinating and
+[0:39:25] shocking to us and that
+[0:39:28] shocking if it projected into the
+[0:39:30] elementary particles and then you say
+[0:39:32] okay by just mean ambient awareness now
+[0:39:34] we have to disassemble what ambient
+[0:39:36] awareness actually means what is aware
+[0:39:38] here what uh what does this awareness
+[0:39:40] come down to and I think that you're
+[0:39:42] pointing at something that I don't want
+[0:39:44] to dismiss I want to take you seriously
+[0:39:46] here so uh there maybe there is
+[0:39:48] something to what you are saying but
+[0:39:50] you're not getting away with simply um
+[0:39:52] waving at it and say this is sufficient
+[0:39:55] to explain my experience and I'm no
+[0:39:57] longer are interested to make my words
+[0:39:59] mean
+[0:40:00] things because they cannot communicate
+[0:40:02] otherwise we will not be able to uh see
+[0:40:06] what idea you actually have what idea
+[0:40:08] you're trying to convey and how it
+[0:40:09] relates to ideas that other people might
+[0:40:11] have and I'm not pointing at the
+[0:40:13] institutions of science here which don't
+[0:40:15] agree on what Consciousness is and for
+[0:40:18] the most part don't care this is more
+[0:40:20] philosophical question here and it's
+[0:40:22] also one that is an existential question
+[0:40:24] but that we have to negotiate among the
+[0:40:27] two are the three of us yeah let's just
+[0:40:29] let Ben respond I mean I
+[0:40:33] guess rightly or wrongly as a human
+[0:40:37] being I've gotten bored with that
+[0:40:40] question in the same way that like I
+[0:40:42] couldn't say it's worthless at some
+[0:40:44] point maybe you could convince someone
+[0:40:46] like I I know people who were convinced
+[0:40:48] by materials they read in the internet
+[0:40:50] to give up on on Mormonism or
+[0:40:52] Scientology right so I can't say it's
+[0:40:55] worthless to debate the points with
+[0:40:57] people who are are heavily attached to
+[0:41:00] an ideology I think is silly on on the
+[0:41:03] other hand I personally just tend to get
+[0:41:06] bored with repeated debates so that that
+[0:41:10] go over the same points over over and
+[0:41:12] over again if I had an infinite number
+[0:41:15] of of clones then then I that then then
+[0:41:19] I wouldn't and this I guess one of the
+[0:41:23] things that I get worn out with is
+[0:41:27] people claiming my definition of this
+[0:41:30] English word is the right one and your
+[0:41:33] definition is is is is the wrong one and
+[0:41:37] I guess you weren't really doing that
+[0:41:38] josa but it just gave me the gave me a
+[0:41:41] traumatic memory of too I'm sorry for
+[0:41:43] triggering you
+[0:41:44] here I just uh let us I'm not fighting
+[0:41:48] about words I don't care which words
+[0:41:50] you're using but uh so when I I think
+[0:41:53] about an experience of what it's like
+[0:41:55] and Associate that with consciousness or
+[0:41:58] system that is able to create a now
+[0:42:01] perception of a now uh then uh I'm
+[0:42:05] talking about a particular phenomenon
+[0:42:07] that I have in mind and I would like to
+[0:42:09] recreate uh if I can and I want to
+[0:42:12] understand how it works and so uh for me
+[0:42:16] the question of whether I uh project
+[0:42:18] this uh property into arbitrary parts of
+[0:42:23] what I consider to be reality is
+[0:42:25] important I understand if it's not
+[0:42:27] interesting to you and I won't force you
+[0:42:28] into any uh discussion that would make
+[0:42:31] you drop out of your particular
+[0:42:33] momism I I'm you being a woman let me
+[0:42:37] tell you how I'm looking
+[0:42:39] at anesthesia which is a concrete
+[0:42:42] specific example that's not that trivial
+[0:42:45] right because that that I've only been
+[0:42:48] under anesthesia once which have wisdom
+[0:42:51] teeth remove so what what was wasn't
+[0:42:53] that bad but other people have had far
+[0:42:56] more atic things done when they're under
+[0:42:58] anesthesia and there there is there's
+[0:43:01] always the nagging fear that like since
+[0:43:04] we don't really know how anesthesia
+[0:43:06] Works in any fundamental depth and also
+[0:43:08] don't really know how the brain
+[0:43:10] generates our usual everyday States Of
+[0:43:12] Consciousness in in in enough that it's
+[0:43:15] always possible that while you're under
+[0:43:17] anesthesia you're actually in some
+[0:43:20] sense some variant of you is feeling
+[0:43:23] that knife slicing through you and maybe
+[0:43:27] just the memories being cut off right
+[0:43:29] and then then once you once you come
+[0:43:31] back you don't you don't you don't you
+[0:43:33] don't remember it but then that might
+[0:43:35] not be true but but then you have to ask
+[0:43:38] well okay say then you know while while
+[0:43:41] my jaw is being cut open by that knife
+[0:43:45] does the jaw feel it right like does
+[0:43:47] does does does the jaw hurt while it's
+[0:43:50] being sliced up by the knife like is the
+[0:43:52] jaw going ah well on the other hand you
+[0:43:56] know the the global workspace in your
+[0:43:59] brain like the reflective theater of
+[0:44:01] humanlike Consciousness in your brain
+[0:44:03] May well be disabled by by the an an an
+[0:44:07] anesthetic so the the the the way I
+[0:44:09] personally look at that is I suspect
+[0:44:13] under
+[0:44:14] anesthesia your sort of reflective
+[0:44:17] theater of of Consciousness is probably
+[0:44:20] disabled by that an that anesthetic I'm
+[0:44:23] not 100% sure but I think it's probably
+[0:44:25] disabled which means there's probably
+[0:44:28] not like a version of Ben going ah wow
+[0:44:30] this really hurts this really this
+[0:44:32] really hurts and and then forgetting it
+[0:44:34] afterwards so I mean maybe you could do
+[0:44:36] that just like disable memory recording
+[0:44:38] but but I don't think that's what's
+[0:44:40] happening on the other hand I think the
+[0:44:43] jaw is having its
+[0:44:45] own experience of being saw open now
+[0:44:49] that while you're getting that wisdom
+[0:44:51] tooth removed under general anesthesia
+[0:44:53] no I think it's it's not the same sort
+[0:44:56] of experience exactly as the reflective
+[0:45:00] theater of Consciousness that knows
+[0:45:01] itself as Ben as Ben gzel is having like
+[0:45:04] the Ben gzel can conceptualize that it's
+[0:45:08] that it's experiencing pain it can go
+[0:45:09] like ow that really hurts and then the
+[0:45:12] thinking that saying that really hurts
+[0:45:13] is different than the that which really
+[0:45:15] hurts right there there's many levels
+[0:45:17] there but I do think there's some sort
+[0:45:19] of raw feeling that the jaw itself is is
+[0:45:23] is having like even even if it's not
+[0:45:27] connected to that reflective theater of
+[0:45:29] of awareness in in in in in the brain
+[0:45:33] now that now the jaw is biological cells
+[0:45:37] so some people would agree that those
+[0:45:38] biological cells have experience but
+[0:45:41] they would think like uh you know a a
+[0:45:45] brick when you smash it with it with
+[0:45:47] with an axe doesn't but I I suspect the
+[0:45:51] brick Al also also has that some
+[0:45:55] Elementary
+[0:45:57] feeling so I mean I think I think I
+[0:45:59] think it is like something to be a brick
+[0:46:02] that's smashed in half by an axe on the
+[0:46:04] other hand that it's not like something
+[0:46:08] that can reflect on what it is to be a
+[0:46:09] brick smashed and half by by an ax right
+[0:46:12] so I mean
+[0:46:14] that's is how I think about it but again
+[0:46:17] I don't know how to make that science
+[0:46:20] because I can't ask my jaw what it feels
+[0:46:23] like because my jaw doesn't doesn't
+[0:46:26] speak language and even if I was able to
+[0:46:29] like wire my brain into the jaw of
+[0:46:32] someone else who's going through wisdom
+[0:46:33] tooth removal under anesthesia like I
+[0:46:36] might say like through that wire I can
+[0:46:38] feel by an eye thou experience like I
+[0:46:41] can feel the pain of that jaw being
+[0:46:42] sliced open but I mean you could tell me
+[0:46:47] I'm just Hall hallucinating that in my
+[0:46:49] own brain is like improvising that based
+[0:46:51] on the based on the signals that I'm
+[0:46:54] getting and I'm not I'm not sure how you
+[0:46:57] pinned that down in an in an experiment
+[0:47:00] right let me try so there have been
+[0:47:02] experiments about anesthesia and I'm not
+[0:47:04] an expert on anesthesiology so I asked
+[0:47:08] everybody for forgiveness if I get
+[0:47:10] things wrong but uh there have been uh
+[0:47:13] different anesthetics and some of them
+[0:47:15] work in very different ways and there is
+[0:47:17] in indeed uh technique that basically
+[0:47:20] works by giving people uh a muscle
+[0:47:23] muscle relaxand so they cannot move and
+[0:47:25] giving them something that uh inhibits
+[0:47:27] um deformation of long-term memory so
+[0:47:30] they cannot remember what happened to
+[0:47:31] them in that state and uh there have
+[0:47:35] been experiments that surgeons did where
+[0:47:37] they were um applying a tonet to an arm
+[0:47:41] of the patient so the muscle relax and
+[0:47:43] didn't get into the arm and they could
+[0:47:44] still use the arm and then in the middle
+[0:47:46] of the surgery they asked the person
+[0:47:48] that was there lying fully relaxed and
+[0:47:50] uh in communicado to raise their arm or
+[0:47:54] raise their hand if they were conscious
+[0:47:56] and they of what is happening to them
+[0:47:58] and they did and when they were asked if
+[0:48:00] they had unbearable pain they also
+[0:48:02] raised their hand and after the surgery
+[0:48:04] they didn't forget uh they had forgotten
+[0:48:06] about it and I also noticed the same
+[0:48:10] thing on surgery had a number of big
+[0:48:12] surgeries in my life and uh there is a
+[0:48:15] difference between different types of
+[0:48:16] surgery there is one type of surgery
+[0:48:18] where I wake up and feel much more
+[0:48:19] terrified and violated than they do
+[0:48:21] before the surgery and I don't know why
+[0:48:23] because they have no memory of what
+[0:48:25] happened also um my memory formation is
+[0:48:28] impaired so when I am in the ER and ask
+[0:48:30] people how it went I might have that
+[0:48:32] same conversation multiple times word
+[0:48:34] for word because they don't remember
+[0:48:35] what they said or that I asked them
+[0:48:37] there is another type of anesthesia and
+[0:48:40] I observed this for instance in one of
+[0:48:42] my children and where uh the child wakes
+[0:48:46] up and says oh the anesthesia didn't
+[0:48:48] work and uh it was an anesia with gas so
+[0:48:52] the child choked on the gas and you see
+[0:48:55] your child lying there completely
+[0:48:57] relaxed and sleeping and then waking up
+[0:48:59] and starting to choke and then telling
+[0:49:01] you the anesthesia didn't work there is
+[0:49:03] a complete gap of eight hours in the
+[0:49:05] memory of that child in which the mental
+[0:49:07] state was somehow
+[0:49:09] preserved subjectively the child felt a
+[0:49:11] complete continuation and then was
+[0:49:13] looking around and reasoning the room
+[0:49:14] was completely different time was very
+[0:49:16] different LED to confusion and
+[0:49:17] reorientation but in uh so I would say
+[0:49:20] uh suspect that in the first case it is
+[0:49:23] reasonable to uh assume or to
+[0:49:26] hypothesize at least that uh
+[0:49:28] Consciousness was present but we don't
+[0:49:30] recall what happened in this conscious
+[0:49:32] State whereas in the second one there
+[0:49:34] was a complete Gap in the conscious
+[0:49:36] experience and uh Consciousness resumed
+[0:49:38] after that
+[0:49:41] Gap and we can test this right there
+[0:49:43] there are ways regardless of whether we
+[0:49:46] agree with this particular thing or
+[0:49:48] whether we think anesthesia is important
+[0:49:50] in principle we can perform such
+[0:49:52] experiments and ask such questions and
+[0:49:54] then on another uh level when I we talk
+[0:49:57] about our own Consciousness there are
+[0:49:58] certain behavior that is associated with
+[0:50:00] Consciousness that makes it interesting
+[0:50:02] everything I guess only becomes
+[0:50:04] conscious interesting due to some
+[0:50:06] Behavior even if the behavior is
+[0:50:08] entirely internal right if if you are
+[0:50:10] just introspectively conscious still
+[0:50:12] matters if I care about you and uh so
+[0:50:15] this is a certain type of behavior that
+[0:50:16] we still care about and for instance if
+[0:50:19] I asked myself is my iPhone conscious
+[0:50:22] and the question is what kind of
+[0:50:23] behavior of the iPhone corresponds to
+[0:50:25] that and I suspect if I turn off my
+[0:50:28] iPhone or smash it it does not mean
+[0:50:30] anything to the iPhone it is is not uh
+[0:50:33] there is no what it's likeness of being
+[0:50:35] smashed for the iPhone there could be a
+[0:50:37] different layer where this is happening
+[0:50:39] but it's not the layer of the
+[0:50:41] iPhone uh now let's get to a slightly
+[0:50:44] different point this question of whether
+[0:50:45] your jaw knows anything about being hurt
+[0:50:48] right so uh imagine that there a surgery
+[0:50:51] on on your jaw like with your wisdom
+[0:50:52] teas is there something going on that is
+[0:50:55] outside of your brain that is is
+[0:50:56] processing information in such a way
+[0:50:58] that your jaw could become sentient in
+[0:51:00] the sense that it knows what it is and
+[0:51:03] how it relates to reality at least at to
+[0:51:05] some degree and level and I cannot rule
+[0:51:07] this out where there cells these cells
+[0:51:10] can process information they can send
+[0:51:11] messages to the neighbors and the
+[0:51:13] patterns of their activation who knows
+[0:51:15] what kind of programs they can compute
+[0:51:17] but here we have a means and a motive
+[0:51:19] the means and motive here are uh it
+[0:51:21] would be possible for the cells to
+[0:51:23] exchange conditional mates to perform
+[0:51:25] arbitrary computations and build
+[0:51:27] representations about what's going on
+[0:51:29] and the motive would be it's conceivable
+[0:51:31] that this is a very useful thing for
+[0:51:33] biological tissues to have in general
+[0:51:36] and so if they evolve for long enough
+[0:51:37] and it is in the realm of evolvability
+[0:51:39] that they perform uh interaction with
+[0:51:42] each other that lead to representations
+[0:51:44] of who they are and what they're doing
+[0:51:46] even though they're much slower than
+[0:51:47] what's happening in our brain and
+[0:51:49] decoupled from our brain in such a way
+[0:51:51] that we cannot talk to our jaw it's
+[0:51:53] still conceivable right I I wouldn't
+[0:51:54] rule this out
+[0:51:57] uh it's much harder for me to assume the
+[0:51:58] same thing for elementary particles
+[0:52:00] because I don't see them having this
+[0:52:02] functionality that cells have cells are
+[0:52:04] so much more complicated that just fits
+[0:52:06] in that they would be able to do this
+[0:52:08] and so I I would be make make a
+[0:52:11] distinction I would not rule out that
+[0:52:13] multicellular organisms without brains
+[0:52:15] could be conscious even but at different
+[0:52:17] time scales than us requiring very
+[0:52:19] different measuring mechanisms because
+[0:52:21] their signal processing is probably much
+[0:52:23] slower and it takes longer for them to
+[0:52:25] become coherent at scale because takes
+[0:52:27] so long for signals to go back and force
+[0:52:29] if you don't have nerves but uh I don't
+[0:52:32] see the same thing happening for
+[0:52:33] elementary particles don't rule it out
+[0:52:35] again but uh you would have to show me
+[0:52:37] some kind of mechanism I mean if you're
+[0:52:39] going to look if you're going to look at
+[0:52:40] it that way which isn't the only way
+[0:52:43] that I would look at it but if you're
+[0:52:44] going to look at it that way I don't see
+[0:52:46] why you wouldn't
+[0:52:47] say the
+[0:52:49] various Elementary particles which are
+[0:52:52] really distributed like amplitude
+[0:52:54] distributions right I don't know why you
+[0:52:56] wouldn't say these various interacting
+[0:52:58] amplitude distributions are they're
+[0:53:01] exchanging Quantum information with a
+[0:53:04] with a motivation to to achieve
+[0:53:06] stationary action given given their
+[0:53:09] their context right I mean I mean you
+[0:53:12] could tell that you can tell that story
+[0:53:14] that's sort of the story that that that
+[0:53:16] physics tells you they're swapping
+[0:53:18] information back and forth trying trying
+[0:53:20] to make the action stationary right but
+[0:53:23] for the most part they don't form braams
+[0:53:25] they also do form bra so Elementary
+[0:53:27] particles can become conscious in a
+[0:53:29] sense that they can form brains nervous
+[0:53:31] system maybe equivalent information
+[0:53:34] processing I just feel like you're
+[0:53:37] you're privileging a
+[0:53:39] certain level and complexity of
+[0:53:42] organization because it happens to be
+[0:53:44] ours and I mean we have a certain level
+[0:53:47] in complexity of organization and and of
+[0:53:51] Consciousness and and I mean a a cell on
+[0:53:54] my jaw has a lower one
+[0:53:57] brick has a lower one element parle has
+[0:53:59] a lower one the future AGI may have a
+[0:54:02] much higher one from whose perspective
+[0:54:04] our Consciousness appears more analogous
+[0:54:06] to a brick that than than than to itself
+[0:54:09] I wouldn't say lower or higher I would
+[0:54:11] say that uh if my uh door is conscious
+[0:54:15] that there far less cells involved in my
+[0:54:17] brain and the interaction between them
+[0:54:19] is slower so if it's conscious it's
+[0:54:22] probably um more at the level of uh say
+[0:54:26] a fly than a level of a brain and it's
+[0:54:29] probably going to be as fast as a tree
+[0:54:32] and in the way in which it computes
+[0:54:33] rather than as fast as your brain and uh
+[0:54:37] that is I don't think that's uh
+[0:54:39] something that is assigning some undue
+[0:54:40] privilege to it I'm just observing a
+[0:54:42] certain kind of behavior and then I look
+[0:54:44] for the means and motive behind that
+[0:54:46] behavior and then I try to construct
+[0:54:48] caal structure and I might get it wrong
+[0:54:50] there since that might be missing but
+[0:54:52] it's certainly not because I have some
+[0:54:53] kind of speciesism that assigns higher
+[0:54:56] Consciousness to myself because it's
+[0:54:58] me all right yeah I mean I don't know
+[0:55:00] what your motivations are Kurt I have a
+[0:55:03] I have a higher level I have a higher
+[0:55:05] level comment which is we're like an
+[0:55:08] hour through this
+[0:55:09] conversation probably halfway through I
+[0:55:11] I feel like the philosophy the hard
+[0:55:14] problem of
+[0:55:16] Consciousness the hard problem of
+[0:55:18] Consciousness is an endless rabbit hole
+[0:55:20] it's not it's not an uninteresting one I
+[0:55:23] I I I think I think it's also Al not
+[0:55:26] it's not the topic on which Jos and I
+[0:55:28] have the most original things to say
+[0:55:30] like I think each each of our
+[0:55:32] perspectives here are held by many other
+[0:55:33] people I might interject a little bit uh
+[0:55:35] what one our most interesting
+[0:55:37] disagreements is in Ben being a penist
+[0:55:40] and me not knowing how to formalize
+[0:55:42] psychism in a way that makes it
+[0:55:44] different from Bo standard functionalism
+[0:55:46] and uh so I I do value this discussion
+[0:55:49] and don't think it's useless but uh I
+[0:55:52] basically feel that on almost everything
+[0:55:54] else you mostly agree except for crypto
+[0:55:57] okay yeah to me that's almost a Zen
+[0:56:00] thing it's like I don't know how to
+[0:56:03] formalize notion that there are things
+[0:56:05] Beyond formalization so fascinating to
+[0:56:08] look at your Frozen inter I don't know
+[0:56:09] if you
+[0:56:10] can and you
+[0:56:13] can you can rest you can rest in that
+[0:56:16] forever yeah yeah all right again
+[0:56:19] comparing your views it seems like yosha
+[0:56:22] you're more of the mind that llms or
+[0:56:24] deep neural Nets are on or significant
+[0:56:27] step toward AGI maybe even sufficient
+[0:56:30] with enough complexity and Ben I think
+[0:56:33] that you disagree um yeah I think I
+[0:56:38] think most issues in in terms of the
+[0:56:41] relation llms and AGI we actually
+[0:56:45] probably agree on quite quite well but I
+[0:56:50] mean obviously large language models are
+[0:56:54] an amazing technology like from an AI
+[0:56:57] application point of view they can do
+[0:57:00] all sorts of fantastic and and
+[0:57:03] tremendous things I mean I mean I I it
+[0:57:07] sort of blew my mind how smart gp4 is
+[0:57:10] it's not the first time my mind has been
+[0:57:13] blown by an AI technology I mean my mind
+[0:57:15] was blown by computer algebra systems
+[0:57:17] when they first came out and you could
+[0:57:18] like do integral calculus with arbitrary
+[0:57:21] complexity and you know when deep blue
+[0:57:24] beat beat chess with just game I'm like
+[0:57:27] whoa so I mean I don't I don't think
+[0:57:29] it's the only amazing thing to happen in
+[0:57:33] the history of AI but it's it's an
+[0:57:35] amazing thing like it's a big
+[0:57:36] breakthrough it's it's super cool I
+[0:57:39] think
+[0:57:40] that if deployed properly this sort of
+[0:57:43] Technology could
+[0:57:45] do significant majority of jobs that
+[0:57:48] humans are now doing on the planet which
+[0:57:50] is has big economic and and and social
+[0:57:54] implications I
+[0:57:56] I think that the way these algorithms
+[0:58:00] are representing knowledge
+[0:58:03] internally is not what you really need
+[0:58:06] to make a
+[0:58:08] fullon human level a a a
+[0:58:12] AGI system so I I mean when when you
+[0:58:15] look at what's going
+[0:58:17] on inside a Transformer neural network I
+[0:58:21] mean it's not quite just a big weighted
+[0:58:23] hash table of of particulars but
+[0:58:26] to
+[0:58:27] me it does not
+[0:58:30] represent abstractions in a sufficiently
+[0:58:34] flexibly manipulable way to do the most
+[0:58:38] interesting things that the human mind
+[0:58:41] does and this is a subtle thing to
+[0:58:45] pinpoint in that say something like a
+[0:58:48] fellow GPT does represent abstractions
+[0:58:51] it's learing an emergent representation
+[0:58:53] of the of where the board is but it of
+[0:58:55] the different
+[0:58:57] it's learning an emergent representation
+[0:59:00] of features like a black square is on
+[0:59:02] this particular board position or white
+[0:59:04] squares on this particular board
+[0:59:05] position so examples like that show that
+[0:59:08] llms can in fact learn abstract
+[0:59:12] representations and can manipulate them
+[0:59:14] in some way but it's very limited in
+[0:59:16] that regard I mean in that case it's
+[0:59:18] seen a shitload of of aell games and
+[0:59:20] that's a quite simple thing to to to rep
+[0:59:22] to represent so I I think when you look
+[0:59:26] at how the neural net is learning how
+[0:59:29] the attention mechanism is working how
+[0:59:31] it's representing stuff I mean it's just
+[0:59:33] not representing a a hierarchy of of
+[0:59:36] subtle abstractions the way a human mind
+[0:59:41] is and
+[0:59:43] I I mean the subtler question is what
+[0:59:48] functions you can get by glaming and llm
+[0:59:51] together with other components in a
+[0:59:54] hybrid architecture with the llm at the
+[0:59:56] center so suppose you give a working
+[0:59:58] memory suppose you give an episodic
+[1:00:00] memory suppose you have a declarative
+[1:00:02] long-term memory graph and you have all
+[1:00:04] these things integrated into the prompts
+[1:00:06] and integrated into fine-tuning of an
+[1:00:08] llm well then then you have something
+[1:00:10] that in principle it's turn complete and
+[1:00:13] it could probably do a lot of quite
+[1:00:15] amazing things I still think if the Hub
+[1:00:18] of that system is an L with its impaired
+[1:00:22] and limited ability for representing and
+[1:00:25] manipulating abstract knowledge I think
+[1:00:28] it's not going to do the most
+[1:00:29] interesting kinds of thinking that that
+[1:00:32] that people can do and examples of
+[1:00:35] things I think you fundamentally can't
+[1:00:37] do with that kind of architecture or say
+[1:00:40] invent a new branch of mathematics you
+[1:00:42] know invent a completely new let's say
+[1:00:46] radically new genre of music you know
+[1:00:50] figure out a new variety of business
+[1:00:52] strategy like say Amazon or Google did
+[1:00:55] that's quite different and things things
+[1:00:56] that have been done before all these
+[1:00:58] things involve a leap into the unknown
+[1:01:02] beyond the training data to an extent
+[1:01:04] that I think you're not going to get
+[1:01:05] with the way that llms are are are
+[1:01:08] representing knowledge now I I do think
+[1:01:11] llms
+[1:01:13] are powerful as tools to create AGI so
+[1:01:16] for example as one sub project in in my
+[1:01:19] own AGI project we're using llms to map
+[1:01:22] English sentences into computer programs
+[1:01:26] or predicate logic Expressions right no
+[1:01:27] I mean that's that's super cool I mean
+[1:01:30] then you've got the web in in a in the
+[1:01:33] form of a huge collection of logic
+[1:01:34] Expressions you can use a logic engine
+[1:01:37] to connect everything on the web with
+[1:01:38] what's in databases and with stuff
+[1:01:40] coming in from sensors and so on so I
+[1:01:42] mean that that's by no means the only
+[1:01:44] way to leverage llms toward AGI not not
+[1:01:47] at all but it's one one interesting way
+[1:01:49] to leverage llms toward AGI you can even
+[1:01:53] ask the llm to come up with an argument
+[1:01:55] and then use that as a sort of guide for
+[1:01:57] E theorem improver and coming up with a
+[1:01:58] more rigorous version of that argument
+[1:02:00] right so I do think there are many ways
+[1:02:04] more than I could describe right now of
+[1:02:06] of llms to be used to help guide and
+[1:02:10] serve as a component of AI systems but I
+[1:02:13] think if you're going to make a hybrid
+[1:02:14] AGI system with full human level general
+[1:02:17] intelligence and with an llm as a
+[1:02:20] component something besides an llm has
+[1:02:23] got to be playing a very key and Central
+[1:02:25] role role in knowledge representation
+[1:02:28] and and reasoning basically and this
+[1:02:31] this ties in then with llms not being
+[1:02:34] motivated agents so you could wrap a
+[1:02:38] sort of motivated agent infrastructure
+[1:02:40] around an llm right you could wrap J's
+[1:02:43] J's P model microps model in some way
+[1:02:46] around an llm if you if if you wanted to
+[1:02:49] and you could make it I mean people
+[1:02:50] tried dumb things like that with autog
+[1:02:53] GPT and so-called baby AGI and so forth
+[1:02:55] so I mean on the other hand I think if
+[1:02:58] you wrap a motivated agent architecture
+[1:03:02] around an llm with its impaired
+[1:03:05] capability for making flexibly
+[1:03:08] manipulable abstract representations I
+[1:03:11] think you will not get something that
+[1:03:12] builds a model of self and other with
+[1:03:14] the sophistication that humans have in
+[1:03:17] their in their reflective Consciousness
+[1:03:19] you know and and I I think that having a
+[1:03:22] sophisticated abstract model of self and
+[1:03:25] other in our reflective Consciousness
+[1:03:27] the kind of Consciousness that we have
+[1:03:29] but a brick or or a jaw cell doesn't
+[1:03:31] right without that abstraction in our
+[1:03:33] model of reflective Consciousness tied
+[1:03:36] in with our motivated agent architecture
+[1:03:39] then that's that's part of why you're
+[1:03:42] not going to get the fundamental
+[1:03:43] creativity in inventing new new genres
+[1:03:47] of of music or new branches of of
+[1:03:49] mathematics or new business strategies
+[1:03:50] like in humans we do this amazing novel
+[1:03:53] stuff which is what drives culture
+[1:03:54] forward we do this by our capability for
+[1:03:58] flexibly manipulable abstraction tied in
+[1:04:00] with our motivated agent architecture
+[1:04:03] and I don't I don't see how you get that
+[1:04:05] with llms as the central Hub of your
+[1:04:07] hybrid AGI system but I do think you
+[1:04:09] could get that with an AGI system that
+[1:04:12] has oh something like open cogs atom
+[1:04:15] space and reasoning system as a central
+[1:04:17] Hub with an llm as a subsidiary
+[1:04:20] component but I don't think opencog is
+[1:04:22] the only way either I mean obviously you
+[1:04:25] could make a biologically realistic
+[1:04:26] brain simulation that had human level
+[1:04:29] AGI I just think then the llm like
+[1:04:32] structures and Dynamics within that
+[1:04:34] biologically realistic brain system
+[1:04:36] would just be a subset of what it does
+[1:04:39] you know there'd be quite different
+[1:04:41] stuff in the cortex so yeah that that
+[1:04:43] that's that's not quite a capsule
+[1:04:45] summary but a lengthy lengthy is
+[1:04:47] overview of my perspective on this okay
+[1:04:51] great yosha I know there was a slew
+[1:04:53] there if you can pick up some of the
+[1:04:55] pieces and resp respond but also at the
+[1:04:56] same time there's emergent properties of
+[1:04:59] llms so for instance reflection it's
+[1:05:02] apparently some emergent property there
+[1:05:05] are there are but they're limited I mean
+[1:05:07] and that that does make it subtle
+[1:05:09] because you you can't say they don't
+[1:05:11] emerge knowledge representation they do
+[1:05:14] and AOW GPT is one very simple example
+[1:05:16] that there are others right so there is
+[1:05:19] emergent knowledge representation in
+[1:05:21] them but it's very simplistic and and
+[1:05:24] limited it doesn't pop up effectively
+[1:05:27] from from in context learning for
+[1:05:29] example but anyway this this would dig
+[1:05:31] us very deep into into current llms
+[1:05:34] right so yeah so is there some in
+[1:05:36] principle reason why you think that a
+[1:05:38] branch of mathematics yosha can't be
+[1:05:40] invented by an llm with sufficient
+[1:05:42] parameters or data I am too stupid to to
+[1:05:45] decide this question so basically what I
+[1:05:47] can offer is a few perspectives that I
+[1:05:49] see when I look at the llm uh personally
+[1:05:52] I am quite agnostic with respect to its
+[1:05:54] abilities and at some level it's an
+[1:05:57] autocomplete algorithm that is trying to
+[1:05:59] predict tokens from previous
+[1:06:02] tokens and if you look at what the llm
+[1:06:05] is doing it's not a model of the brain
+[1:06:07] it's it's a model of what people say on
+[1:06:09] the internet and uh it uh is discovering
+[1:06:14] structure to represent that quite
+[1:06:16] efficiently is an embedding space that
+[1:06:18] uh has lot lots of Dimensions you can
+[1:06:21] imagine that each of these Dimensions is
+[1:06:23] a function and the parameters of this
+[1:06:25] function are the um positions on this
+[1:06:28] Dimension that you can have and they all
+[1:06:30] interact with each other to together
+[1:06:32] create some point in a high dimensional
+[1:06:35] space that this could be an idea or a
+[1:06:37] mental state or a complex thought and at
+[1:06:40] the lowest level when you look at how it
+[1:06:41] works it's translating these tokens the
+[1:06:44] translation of linguistic symbols into
+[1:06:47] some kind of representation that could
+[1:06:48] be for instance a room with people
+[1:06:49] inside and stuff happening in this room
+[1:06:51] and then it Maps it back into uh tokens
+[1:06:55] at some level there has been recently a
+[1:06:57] paper out of a group L by Max techmark
+[1:06:59] that uh looked at the Lambda model and
+[1:07:01] discovered that it does indeed contain a
+[1:07:03] map of the world in directly encoded in
+[1:07:05] its structure based on the uh
+[1:07:08] neighborhood relationships between
+[1:07:10] places in the world that it represents
+[1:07:14] and there's an isomorphic structure
+[1:07:16] between what the llm is representing and
+[1:07:19] a lot of the stuff that we are
+[1:07:21] representing I'm not sure if I in my
+[1:07:23] entire life ever invented a new
+[1:07:26] dimension in this embedding space of the
+[1:07:28] human mind that is represented on the
+[1:07:29] internet if I think about all the
+[1:07:32] thoughts that have been made into books
+[1:07:34] and then encoded in some form and became
+[1:07:37] available as training data to the llm we
+[1:07:39] figure out that there um depending on
+[1:07:41] how you count a few 10 to a few hundred
+[1:07:44] thousand dimensions of meaning and uh I
+[1:07:47] think it's very difficult to add a new
+[1:07:49] dimension or also to significantly
+[1:07:51] extend the range of those Dimensions but
+[1:07:53] we can make new combinations of
+[1:07:55] happening in that
+[1:07:57] space the of course it's not a limit
+[1:08:00] that these things are limited to the
+[1:08:01] dimensions that they already discovered
+[1:08:03] of course we can set them up in such a
+[1:08:04] way that they can confabulate more
+[1:08:06] dimensions and we could also set them up
+[1:08:08] in such a way that they could uh go and
+[1:08:11] verify whether this a good idea to make
+[1:08:13] this Dimension by making tests by giving
+[1:08:17] the llm the ability to use plugins to
+[1:08:19] write its own code to use a compiler to
+[1:08:22] use cameras uh to use sensors to use
+[1:08:24] actuators to make experiments in the
+[1:08:26] world it's not limited to what we
+[1:08:28] currently let the llm do but in the
+[1:08:30] present form what the uh Transformer
+[1:08:32] algorithm is doing it tries to find the
+[1:08:34] most likely
+[1:08:35] token and so for instance if you play a
+[1:08:38] game with it and it makes mistakes in
+[1:08:40] this game then it will probably give you
+[1:08:42] worse moves after making these mistakes
+[1:08:45] because it now assumes that it's playing
+[1:08:47] a bad person somebody who's really bad
+[1:08:49] at this game and it doesn't know what
+[1:08:51] kind of thing it's supposed to play
+[1:08:52] because it can represent all sorts of
+[1:08:54] State transitions
+[1:08:56] right so it's an interesting way of
+[1:08:57] looking at it that we are trying to find
+[1:08:59] the best possible token versus the llm
+[1:09:02] trying to find the most likely token
+[1:09:05] next of course we can preface the llm by
+[1:09:08] putting into the prompt that uh this is
+[1:09:10] a simulation of a mind that is only
+[1:09:13] going to look for the best token and
+[1:09:14] it's trying to approximate this one so
+[1:09:16] it's not directly a counterargument it's
+[1:09:18] not even asking us to significantly
+[1:09:21] change the loss function maybe we can
+[1:09:23] get much better results we probably can
+[1:09:24] get much better results if we make
+[1:09:26] changes in the way in which we do
+[1:09:27] training at inference using the llm but
+[1:09:31] uh this by itself is also nothing that
+[1:09:33] we can prove without making extensive
+[1:09:35] experiments and at the moment it's
+[1:09:37] unknown I realized that the people let
+[1:09:41] experiment being
+[1:09:42] optimistic I I just want to posst a
+[1:09:45] thought experiment so this is about
+[1:09:48] music rather than natural language but I
+[1:09:51] mean we know there's music Jen there's
+[1:09:52] similar networks applied to music so you
+[1:09:55] had
+[1:09:56] taken uh llm like music gen or Google LM
+[1:10:00] or the next Generations and trading on
+[1:10:03] all music recorded or played by Humanity
+[1:10:06] up to the year 1900 is it is it going to
+[1:10:11] invent the sort of music made by mavu
+[1:10:14] Orchestra or or even even Duke Ellington
+[1:10:17] I mean in what would you say that has no
+[1:10:20] New Dimensions because Jazz combines
+[1:10:23] elements of of West African drum in
+[1:10:25] Western classical music I think that's a
+[1:10:28] level of invention llms are not going to
+[1:10:30] do you said it you said it's combining
+[1:10:34] elements from this and from that when
+[1:10:36] jite 2 came out I got Early Access and
+[1:10:38] one of the things that I tried
+[1:10:40] relatively early on is stuff like an
+[1:10:42] ultrasound of a dragon egg there is no
+[1:10:44] ultrasound of a dragon egg on the
+[1:10:46] internet but it created a combination of
+[1:10:50] uh prenal ultrasound and AR opics uh cut
+[1:10:54] through images and so on look completely
+[1:10:56] plausible and in this sense you can uh
+[1:10:59] see that most of the stuff that we are
+[1:11:01] doing when we create new dimensions are
+[1:11:02] mashups of existing dimensions and uh
+[1:11:05] maybe we can represent all the existing
+[1:11:07] Dimensions using a handful of very basic
+[1:11:09] Dimensions from which we can construct
+[1:11:11] everything from the bottom up just by
+[1:11:13] combining them more and more and I
+[1:11:15] suspect that's actually what's happening
+[1:11:16] in our minds and I suspect that the llm
+[1:11:19] is not uh distinct from this but a large
+[1:11:22] superet of this the llm is touring
+[1:11:24] complete it's a and from one perspective
+[1:11:27] it's a CPU we could say that the CPU in
+[1:11:29] your computer only understands a handful
+[1:11:32] like maybe uh a dozen or 100 uh
+[1:11:35] different machine code programs and uh
+[1:11:38] they have to be extremely
+[1:11:40] specific these codes and there there's
+[1:11:42] no error tolerance if you make a mistake
+[1:11:44] and specifying them then your program is
+[1:11:46] not going to work and the llm is a CPU
+[1:11:49] that is so complicated that requires an
+[1:11:51] entire server Farm to be emulated on and
+[1:11:53] you can give it instead of a small
+[1:11:56] program in machine code give it a
+[1:11:58] sentence in a human language and it's
+[1:11:59] going to interpret this extrapolate it
+[1:12:01] into some or compile it into some kind
+[1:12:03] of program that then produces the
+[1:12:05] behavior and that thing is touring
+[1:12:06] complete it can compute anything you
+[1:12:08] want if you can express it in the right
+[1:12:10] way yeah but
+[1:12:11] being it's not interesting right I mean
+[1:12:14] being turn complete is is irrelevant
+[1:12:16] because it doesn't take resources into
+[1:12:19] account yeah but you can write programs
+[1:12:21] in natural language and an llm and you
+[1:12:23] can also Express learning algorithm
+[1:12:26] so basically your your your intuition is
+[1:12:29] yes that an llm could invent Jazz
+[1:12:32] neoclassical metal and fusion based only
+[1:12:35] on music up to the year 1900 then no no
+[1:12:37] I am agnostic but I'm saying is I don't
+[1:12:40] know that it cannot and I don't see a
+[1:12:42] proof that it cannot and I would not be
+[1:12:44] super surprised when it cannot I don't
+[1:12:46] think the LM is the right way to do it
+[1:12:47] it's it's not you good use of your
+[1:12:49] resources if you try to make this the
+[1:12:51] most efficient way because our brain is
+[1:12:53] far more efficient and does it different
+[1:12:55] ways but I'm unable to prove that the
+[1:12:58] llm cannot do it and so I'm reluctant to
+[1:13:01] say llms cannot do X without that proof
+[1:13:03] because uh people tend to have egg on
+[1:13:05] their face when they do this but doesn't
+[1:13:08] that just come back to like Popper's
+[1:13:10] notion about falsificationism like I I
+[1:13:13] can't prove that you know a devil didn't
+[1:13:16] appear at some random place on on on the
+[1:13:19] earth at some point no I mean in the
+[1:13:21] sense of uh you can't prove it no what I
+[1:13:23] mean by this is can I uh make a
+[1:13:26] reasonable claim that I'm very confident
+[1:13:28] and would bet money on an LM not being
+[1:13:30] able to do this in the next 5 years this
+[1:13:33] is the kind of statement that I'm trying
+[1:13:35] to make here so basically if I say can I
+[1:13:38] prove that an llm is not going to be
+[1:13:40] able to invent a new kind of music uh
+[1:13:43] that is the sub genre of jazz uh this in
+[1:13:46] the next five years and I can't I would
+[1:13:48] even bet a bet against it you've shifted
+[1:13:50] the You' sh I don't know you've shifted
+[1:13:52] the goalpost in a way because I I do I
+[1:13:55] do think I do
+[1:13:57] think not current music gen but I could
+[1:14:00] see how some upgrade of current llms
+[1:14:05] connected with symbolic learning system
+[1:14:08] or blah blah blah I I do think you could
+[1:14:10] invent a new subg genre of jazz or or
+[1:14:13] grind core or something and I'm actually
+[1:14:15] playing with stuff like that the example
+[1:14:17] I gave was a significantly bigger
+[1:14:20] invention right like I mean Jazz was not
+[1:14:22] a sub genre of Western classical music
+[1:14:25] nor nor of of West African drumming
+[1:14:29] right I mean so that is that is to me is
+[1:14:33] a qualitatively different yeah a couple
+[1:14:35] weeks ago I was at an event here locally
+[1:14:37] where somebody presented their music GPT
+[1:14:39] and you could answerer give me a few by
+[1:14:42] DC uh and uh it would try to perform and
+[1:14:46] it wasn't all bad that's not the point
+[1:14:49] right we yes we but it's just an example
+[1:14:52] for some kind of functionality but any
+[1:14:54] kind of mental function it that is
+[1:14:56] interesting uh I think I'm willing to
+[1:14:58] grant that the llm might not be the best
+[1:15:00] way of doing it and I think it's also
+[1:15:02] possible that we can at some point prove
+[1:15:05] limitations of llms rigorously but so
+[1:15:07] far I haven't seen those proofs what I
+[1:15:09] see is insinuations on both sides and
+[1:15:12] the insinuation that open ey makes when
+[1:15:14] it says that we can scale this up to do
+[1:15:17] anything um is one that has legitimacy
+[1:15:20] because they actually put their money
+[1:15:22] there they actually bet on this uh in in
+[1:15:24] a way that they invest their lifetime
+[1:15:27] into it and see if it works and if it
+[1:15:30] fails then they will make changes to
+[1:15:31] their Paradigm and then there are other
+[1:15:33] people who like Gary Marcus come out
+[1:15:35] saying loud loud swinging this is
+[1:15:37] something the LM can never do and I
+[1:15:40] suspect that they will have EO on their
+[1:15:41] face because many of the promises that
+[1:15:43] Gary Marcus made about what ABS cannot
+[1:15:46] do have already been uh disproven by
+[1:15:49] lm's doing these things and so I'm
+[1:15:52] reluctant uh going out saying things
+[1:15:54] that I cannot prove I find it
+[1:15:56] interesting that the llm is able to do
+[1:15:58] all the things that it does using in in
+[1:16:00] the way in which it does them right but
+[1:16:03] uh that doesn't mean to me that l&m's
+[1:16:05] that I'm optimistic that they can go all
+[1:16:06] the way but I am also unable to prove
+[1:16:09] the opposite I have no certainty here I
+[1:16:11] don't just don't know so about rigorous
+[1:16:14] proof I mean the thing is the sort of
+[1:16:16] proof so I mean you can prove an llm
+[1:16:19] without an external memory is not turn
+[1:16:21] complete and that's been done but on the
+[1:16:23] other hand it's not hard to give them an
+[1:16:25] external memory like a touring machine
+[1:16:27] tape to to or a
+[1:16:29] prompt well the prompt is an external
+[1:16:31] memory to the uh to the llm well no no
+[1:16:35] it has to be able to have no llms with
+[1:16:36] unlimited prompt context if you want to
+[1:16:38] it would have to be able to write
+[1:16:39] prompts though not not not writing
+[1:16:42] prompt not just read prompts yeah it's
+[1:16:43] basically it's an electric vge possessed
+[1:16:45] by a prompt in principle you can give it
+[1:16:47] a prompt that is self modifying and that
+[1:16:49] allows it to uh also use databases and
+[1:16:52] so on and plugins I know I know I mean
+[1:16:55] I've done that myself I know it's it's I
+[1:16:57] mean you can but we can also write llms
+[1:16:59] that have unlimited prompt sizes and
+[1:17:01] that can read their own
+[1:17:02] prompts so there's not an intrinsic
+[1:17:04] limitation to the llm I see one
+[1:17:07] important limitation to the LM it's not
+[1:17:09] no the LM cannot be coupled uh to the
+[1:17:13] universe in the same way as which in
+[1:17:15] which we are it's offline in a way it's
+[1:17:17] uh it's not real time it's not able to
+[1:17:20] interact with your nervous system on a
+[1:17:22] one let's let Ben respond I mean that
+[1:17:24] that's
+[1:17:25] that latter point is kind of a trivial
+[1:17:27] one because there's no fundamental
+[1:17:29] reason you can't have online learning in
+[1:17:31] the Transformer Mur net right I mean
+[1:17:33] that I mean that's that's a
+[1:17:35] computational cost limitation at at the
+[1:17:37] moment but I'm sure I mean it's not more
+[1:17:40] than years because you have Transformers
+[1:17:42] that do do online learning and sort of
+[1:17:44] in in place updating of the of of of the
+[1:17:47] of the weight Matrix so I don't think
+[1:17:49] that's a fundamental
+[1:17:51] limitation actually I I I I I think that
+[1:17:56] the fact that they're not turning
+[1:17:58] complete is unless you add an external
+[1:18:00] memory is sort of beside the point what
+[1:18:02] would I was going to say that
+[1:18:05] in that previous sentence I started was
+[1:18:10] to prove the limitations of
+[1:18:14] llms would just require a sort of proof
+[1:18:17] that isn't formally well-developed in
+[1:18:21] modern computer science because you're
+[1:18:23] what you're asking is like which sorts
+[1:18:26] of practical tasks can
+[1:18:28] it probably not do
+[1:18:32] without more than x amount of resources
+[1:18:35] and more than x amount of time so you're
+[1:18:37] I mean you're looking at like average
+[1:18:39] case complexity relative to certain real
+[1:18:42] world probability distributions taking
+[1:18:44] resources into account and I mean you
+[1:18:47] could formulate that sort of theorem
+[1:18:50] it's just that it's it's not what
+[1:18:52] computer science has has focused on I
+[1:18:54] mean the we can't we that's the same
+[1:18:57] thing I faced with opencog Hyper my my
+[1:19:00] own AGI architectures like you it's hard
+[1:19:02] to rigorously prove or disprove what
+[1:19:05] these systems are going to do because we
+[1:19:08] don't have the theoretical basis for it
+[1:19:10] but
+[1:19:11] nevertheless both as entrepreneurs and
+[1:19:14] as as researchers and Engineers I mean
+[1:19:18] you still have to make a make a choice
+[1:19:20] of what to pursue right and so I mean
+[1:19:23] yeah we we are we are going in this
+[1:19:25] field without without rigorous proof
+[1:19:29] just like I can't prove that Psych is is
+[1:19:32] a dead end like like the late Doug linut
+[1:19:35] logic system like I I can't really prove
+[1:19:37] that if you just put like 50 times his
+[1:19:40] much you know predicate logic formulas
+[1:19:44] in his knowledge base that pyc would be
+[1:19:45] a human level AI like we we don't have a
+[1:19:47] way to mathematically show that that's
+[1:19:49] the dead end I
+[1:19:51] intuitively feel it to be that that's
+[1:19:54] just the the situation that that we're
+[1:19:57] in but I want to go back to your
+[1:19:58] discussion of what's called concept
+[1:20:01] blending and the fact that creativity is
+[1:20:04] not ever
+[1:20:07] utterly radical but in human history
+[1:20:10] it's always combinatory in a way but I I
+[1:20:13] I think this ties in with the nature of
+[1:20:15] the representation and I I I I I think
+[1:20:18] that you know I mostly by the notion
+[1:20:22] that almost all human creat ity is done
+[1:20:25] by blending together existing Concepts
+[1:20:28] and and forms in some more or less
+[1:20:30] judicious way I just think that what the
+[1:20:33] most interesting cases of human
+[1:20:35] creativity involve are blending things
+[1:20:38] together at a higher level of
+[1:20:40] abstraction than the level at which llms
+[1:20:44] generally and most flexibly rep rep
+[1:20:47] represent things and it also most of the
+[1:20:51] most interesting human creativity has to
+[1:20:53] do with blending together
+[1:20:55] abstractions which have a grounding in
+[1:20:57] the agentic and and motivational nature
+[1:21:00] of the of the agent that that learn
+[1:21:02] those those abstractions so I mean what
+[1:21:04] an llm is doing is mostly combining sort
+[1:21:08] of collections of lower level data
+[1:21:12] patterns to create something and we do a
+[1:21:14] lot of that also right but what the most
+[1:21:16] interesting examples of human creativity
+[1:21:19] are doing is combining together more
+[1:21:22] abstract patterns in a beautiful
+[1:21:24] flexible way where these patterns are
+[1:21:27] tied in with the motivational and
+[1:21:29] agentic nature of the of the of the
+[1:21:31] human that that that learn those
+[1:21:33] those abstractions and I so I I do agree
+[1:21:39] if you had an llm trained on a
+[1:21:41] sufficiently large amount of data which
+[1:21:44] may not exist on reality right now and a
+[1:21:47] sufficiently large amount of processing
+[1:21:50] which may not exist on the planet right
+[1:21:52] now then and a suff large amount of
+[1:21:54] memory sure then it could invent Jazz I
+[1:21:57] mean given data of music up to 1900 I
+[1:22:01] mean but so so could axit TL right so
+[1:22:05] could a lot of Brute Force algorithms so
+[1:22:07] that's that's not that interesting I
+[1:22:09] think the question is can an llm do it
+[1:22:13] with merely 10 or 100 times as much
+[1:22:17] resources as a better cognitive
+[1:22:20] architecture or is it like 88 quintilian
+[1:22:23] times as many resources as as a more
+[1:22:25] appropriate cognitive architecture could
+[1:22:27] could could use and I'm but I am I I am
+[1:22:32] aware and this does in some ways set my
+[1:22:36] attitude across from my friend Gary Gary
+[1:22:38] Marcus who you mentioned I mean aware
+[1:22:40] that like you know being able to
+[1:22:43] invent differential calculus or to
+[1:22:46] invent uh
+[1:22:48] say Jazz knowing only music up to 1900
+[1:22:51] like this is a high bar right I mean
+[1:22:54] this is something that culture does it's
+[1:22:56] something that collections of smart and
+[1:22:57] inspired people do it is a level of
+[1:23:00] invention that individual humans don't
+[1:23:04] commonly manifest in in in in their in
+[1:23:06] their own lives so I I I do I do find it
+[1:23:09] a bit funny how Gary has over and over
+[1:23:12] like on on X or what back when it was
+[1:23:15] Twitter he said like LMS will never do
+[1:23:17] this then like two weeks later some like
+[1:23:19] go hold on and all just did that right
+[1:23:22] I'm like well why why why are you
+[1:23:24] bothering with that counterargument
+[1:23:25] because we like we know in the history
+[1:23:27] of AI no one has been good at predicting
+[1:23:30] which things are going to be done by a
+[1:23:33] narrow Ai
+[1:23:35] and which which which things which
+[1:23:37] things aren't right but so I think to
+[1:23:39] wrap this up I think if you somehow were
+[1:23:42] to
+[1:23:42] replace humans with llms trained on on
+[1:23:46] on Humanity like an awful lot of what
+[1:23:49] Humanity does would get done but you'd
+[1:23:52] kind of be stuck culturally like you're
+[1:23:54] not not going to invent fundamentally
+[1:23:56] radically radically new stuff ever again
+[1:24:00] it's going to be like closed-ended quasa
+[1:24:03] humans recycling shallow level
+[1:24:06] permutations on things that that were
+[1:24:08] were already invented so that's but I
+[1:24:11] cannot I cannot prove that of course as
+[1:24:13] we can't prove hardly anything about
+[1:24:15] about complex systems in the moment so
+[1:24:18] yosha you're going to comment and then
+[1:24:21] we're going to transition into speaking
+[1:24:23] about whether you're hopeful about AGI
+[1:24:26] and its influence on Humanity I think
+[1:24:28] that is are multiple traditions in
+[1:24:31] artificial intelligence and the
+[1:24:34] perception of which the most of the
+[1:24:36] present llms are an extension or
+[1:24:38] continuation is just one of multiple
+[1:24:41] branches another one was the idea of
+[1:24:43] symbolic AI which in some sense is viken
+[1:24:46] Stein's program the representation of
+[1:24:48] the world to a language that can use
+[1:24:51] grammatical rules and it can be reasoned
+[1:24:53] over whereas in neural network you can
+[1:24:55] think of it as an unsystematic Reasoner
+[1:24:57] that under some circumstances can be
+[1:24:59] trained to the point where it does
+[1:25:02] systematic reasoning
+[1:25:04] and there are other Traditions like um
+[1:25:07] the one that um during started when he
+[1:25:10] looked at reaction diffusion patterns as
+[1:25:12] a way to implement computation and that
+[1:25:16] currently lead to neurocellular automata
+[1:25:18] and so on and it's a relatively small
+[1:25:20] Branch but I think it's one that might
+[1:25:22] be better suited to understand the way
+[1:25:24] in which computation is implemented in
+[1:25:26] biological
+[1:25:27] systems one of the shortcomings that the
+[1:25:30] llm has to me is that it cannot
+[1:25:33] interface with biological systems in
+[1:25:35] real time at least not without
+[1:25:37] additional components so it because it
+[1:25:40] uses a very different Paradigm it's uh
+[1:25:43] it is not able to uh perform direct
+[1:25:45] feedback loops with human minds and the
+[1:25:48] way in which human Minds can do this
+[1:25:50] with each other and with animals you can
+[1:25:53] in some sense mind m with another person
+[1:25:55] or with a cat by establishing a b
+[1:25:58] directional feedback loop between the
+[1:26:00] minds where your nervous systems are in
+[1:26:02] training themselves and attuning
+[1:26:04] themselves to each other so we can have
+[1:26:06] perceptual empathy and we can have
+[1:26:08] mental States together that we couldn't
+[1:26:09] have alone and this might be difficult
+[1:26:12] to achieve with a system that can only
+[1:26:14] make inference and con to cognitive
+[1:26:16] empathy so to speak via inferring
+[1:26:19] something about the mental state offline
+[1:26:21] but this is not necessarily something
+[1:26:23] that is related
+[1:26:24] to the intellectual limitations of a
+[1:26:26] system that is based on an llm where the
+[1:26:29] llm is used as the CPU or is some kind
+[1:26:32] of abstract electrical vist that is
+[1:26:34] possessed by the prompt telling it to be
+[1:26:36] an intelligent person and the llm giving
+[1:26:38] it all it needs to do do to go from one
+[1:26:41] state of the next in the mind of that
+[1:26:43] intelligent person simulacrum and I'm
+[1:26:46] not able to show the limitations of this
+[1:26:49] I think that psych has shown uh that it
+[1:26:51] didn't work over multiple decades so uh
+[1:26:54] the prediction that the people who buils
+[1:26:57] dark LED and others made was that they
+[1:26:59] can get this to work within a couple
+[1:27:01] years and then they after a couple years
+[1:27:04] they made the prediction uh that they
+[1:27:07] probably could get it to work if they
+[1:27:08] work on it substantially longer and this
+[1:27:10] is not a bad prediction to make and it's
+[1:27:12] reasonable that somebody takes this bet
+[1:27:15] but it's a bet that they consistently
+[1:27:16] lost so far and uh at the same time uh
+[1:27:20] the bets that the Ln people are making
+[1:27:22] have not been lost so far because we see
+[1:27:24] rapid progress every year we're not
+[1:27:26] plateauing yet and this is the reason
+[1:27:28] why I am hesitant to say something about
+[1:27:30] the limitations of LMS personally I'm
+[1:27:33] I'm working on sightly different stuff
+[1:27:35] it's not what I put my money on because
+[1:27:37] I think that LMS are boring and there
+[1:27:39] are more efficient ways to represent
+[1:27:41] learning and also more uh bio compatible
+[1:27:45] ways to produce some of the phenomena
+[1:27:48] that we are looking for in an emergent
+[1:27:50] way for instance one of the limitations
+[1:27:51] of the llm is that it gets its Behavior
+[1:27:54] by observing the verbal behavior of
+[1:27:57] people as examplified on text it's all
+[1:28:00] label training data because every bit of
+[1:28:02] the train data is a label and it's it is
+[1:28:04] looking at the structure between these
+[1:28:05] labels in a way and it's a very
+[1:28:07] different way in which we learn and also
+[1:28:10] makes it potentially difficult to
+[1:28:11] discern what we are missing if you ask
+[1:28:14] the llm to emulate a conscious person
+[1:28:16] it's going to give you something that is
+[1:28:18] uh summarizing All the known textual
+[1:28:22] knowledge about what it means to behave
+[1:28:24] like a conscious person and maybe it is
+[1:28:26] uh integrating them in such a way that
+[1:28:28] you end up with a simulacrum of a
+[1:28:30] conscious person that is uh as good as
+[1:28:33] ours but uh maybe we missing something
+[1:28:35] in this way so this is
+[1:28:38] methodological objection that I have to
+[1:28:40] alms and uh so to summarize I think that
+[1:28:43] uh Ben and me don't really disagree
+[1:28:45] fundamentally about the status of alms
+[1:28:47] to us I think it's an viable way to try
+[1:28:51] to realize AI maybe we can get to the
+[1:28:53] point that the llm gets better at AGI
+[1:28:56] research than us we both are a little
+[1:28:59] bit skeptical of it uh but we would also
+[1:29:02] not completely change our worldview if
+[1:29:04] it would work out um it's likely that
+[1:29:07] the LM is going to be some kind of a
+[1:29:09] component at least in spirit of a larger
+[1:29:12] architecture at some point where it's
+[1:29:14] producing generations and then there are
+[1:29:16] other parts which do in more efficient
+[1:29:18] Wafers principles reasoning and
+[1:29:20] verification and interaction with the
+[1:29:21] world and so on okay and now about how
+[1:29:25] you feel about the prospects of AGI and
+[1:29:28] its influence on Humanity we'll start
+[1:29:30] with Ben and then Rosa will hear your
+[1:29:32] response and I also want to read out a
+[1:29:34] tweet or X I'm okay to start with josa
+[1:29:37] on this one sure sure let me read this
+[1:29:40] tweet whatever they're called now from
+[1:29:42] Sam Altman Ma and I'll leave the link in
+[1:29:45] the description he wrote in quotes short
+[1:29:47] timelines and slow takeoff will be a
+[1:29:49] pretty good call I think but the way
+[1:29:52] people Define the start of the takeoff
+[1:29:54] may make it seem otherwise okay so this
+[1:29:56] was dated the late September 2023 okay
+[1:29:59] you can use that as a jumping off point
+[1:30:01] see whether you agree with that as well
+[1:30:04] please
+[1:30:05] yosa my perspective on this is not
+[1:30:08] normative because I feel that there are
+[1:30:10] so many people working on this that
+[1:30:11] there is no can be no single
+[1:30:13] organization at this point that
+[1:30:15] determines what people are going to be
+[1:30:16] doing we in the middle of some kind of
+[1:30:19] evolution of AI models and uh people
+[1:30:22] that compete with the a I modelers about
+[1:30:25] regulation and participating in the
+[1:30:27] business and realizing their own
+[1:30:28] politics and uh goals and aspirations so
+[1:30:32] to me it's not so much the question what
+[1:30:34] should V be doing because there is no
+[1:30:35] cohesive V at this point I'm much more
+[1:30:37] interested in what's likely going to
+[1:30:39] happen and I don't know what's going to
+[1:30:41] happen I see a number of possible
+[1:30:43] trajectories and uh that I cannot
+[1:30:45] disprove or rule out and I'm even have
+[1:30:49] difficulty to put any kind of
+[1:30:50] probabilities on them I think if we want
+[1:30:53] to keep keep Humanity the way it is
+[1:30:56] which by the way is unsustainable it's
+[1:30:57] not going this Society without AI if you
+[1:31:00] leave it as it is is not going to go
+[1:31:03] through the next few millions of years
+[1:31:06] there is going to be major disruptions
+[1:31:07] and the humanity might dramatically
+[1:31:10] reduce its numbers at some point go
+[1:31:12] through bottlenecks that kill this
+[1:31:14] present technological civilization and
+[1:31:16] replace it by something else that is
+[1:31:18] very alien to us at some point so in the
+[1:31:20] very far future people will not live
+[1:31:22] like us and they will not think like
+[1:31:23] like us and feel like us identify like
+[1:31:26] us they will also if you go far enough
+[1:31:28] into the future not look like us and
+[1:31:30] they might not even be our direct
+[1:31:31] descendants because there might be
+[1:31:32] another species that aspires to be
+[1:31:34] people at some point and uh that is I
+[1:31:38] think the Baseline about which we have
+[1:31:40] to think but if we want to perpetuate
+[1:31:42] this Society for as long as possible
+[1:31:44] without any kind of disruptive change
+[1:31:46] until global warming or whatever kills
+[1:31:48] it we probably shouldn't build something
+[1:31:50] that is smarter than a cat what do you
+[1:31:52] mean that there may be another species
+[1:31:53] that aspires to be human uh to be people
+[1:31:57] to be people yeah what do you mean by
+[1:31:58] that yes I I think that uh at some point
+[1:32:01] there is a statistical certainty that
+[1:32:03] there is going to be a super volcano or
+[1:32:05] meteor that is obliterating us in our
+[1:32:07] foot chains right you just need a few
+[1:32:10] Decades of winter to completely
+[1:32:13] eradicate us from the planet and uh most
+[1:32:16] of the other large animals too and what
+[1:32:18] then happens the reset and then
+[1:32:19] Evolution goes on and until the Earth uh
+[1:32:22] is devoid of Atmos spere other species
+[1:32:25] are going to evolve more and more
+[1:32:26] complexity and at some point you will
+[1:32:28] probably have a technological
+[1:32:30] civilization again and they will be
+[1:32:33] subject to similar incentives as us and
+[1:32:35] they might use similar cells as us so
+[1:32:37] they can get nervous systems and
+[1:32:39] information processing with similar
+[1:32:41] complexity and you get families of Minds
+[1:32:43] that are not altogether Super Alien at
+[1:32:45] least not more alien than we are to each
+[1:32:46] other at this point and cats are to us
+[1:32:50] mhm okay right so uh I don't think that
+[1:32:53] we would be the last intelligent species
+[1:32:54] on the planet uh but it is also a
+[1:32:58] possibility that we are it's very
+[1:33:00] difficult to stabilize the planet unless
+[1:33:02] we build something that's able to get
+[1:33:04] rid of basically all of the cells right
+[1:33:06] even a meteor could not stabilize this
+[1:33:08] planet and make future intelligent
+[1:33:11] Evolution based on cells impossible
+[1:33:13] right so if you were to turn this planet
+[1:33:15] into computronium into some kind of
+[1:33:17] giant Computing molecule or disassemble
+[1:33:20] it and turn it into uh some larger
+[1:33:24] structure in the solar system that is a
+[1:33:25] giant computer arranged around the Sun
+[1:33:27] or if you build something that is
+[1:33:29] hecking submolecular physics and makes
+[1:33:31] more interesting physics happening down
+[1:33:33] there right this would probably be the
+[1:33:34] end of the cell this doesn't mean that
+[1:33:37] the stuff that happens there is less
+[1:33:38] interesting in the Cell It's probably
+[1:33:39] much more interesting than what we can
+[1:33:41] do but uh we don't know that it's just
+[1:33:43] it's very alien it's a world in which is
+[1:33:46] difficult to project ourselves into
+[1:33:48] beyond the fact that there is conscious
+[1:33:50] Minds that make sense of complexity in
+[1:33:52] the universe this is something that is
+[1:33:54] going to stay this level of
+[1:33:56] self-reflexive organization and it's
+[1:33:58] probably going to be better and more
+[1:34:00] interesting hyperconsciousness compared
+[1:34:02] to our normal Consciousness where we
+[1:34:04] have a longer sense of now where we have
+[1:34:06] multiple superpositional states that we
+[1:34:08] can examine simultaneously and so on we
+[1:34:10] have much better
+[1:34:12] multiperspectivity El suspect from the
+[1:34:14] perspective of AGI we will look like
+[1:34:16] trees we will be almost unmoving our
+[1:34:18] brains are so slow there's so little
+[1:34:20] happening between firings between
+[1:34:22] neurons that the AI will run circles
+[1:34:24] around us and get bored before we start
+[1:34:26] to say the first word so the agis will
+[1:34:29] basically be ubiquitous saturate our
+[1:34:32] environments and look at us in the same
+[1:34:34] way as we look at trees we thinking
+[1:34:36] maybe they're sentient maybe they're not
+[1:34:39] but it's so large time span that it
+[1:34:40] basically doesn't matter from our
+[1:34:41] perspective
+[1:34:43] anymore so there's a number of
+[1:34:45] trajectories that I'm seeing there's
+[1:34:46] also possibility that we can get a
+[1:34:48] future where humans and AIS coexist I
+[1:34:52] think such a future would probably
+[1:34:54] require that air is conscious in a way
+[1:34:56] that is similar to ours so it can relate
+[1:34:58] to us and then can relate to it and if
+[1:35:01] something is smarter than us it we
+[1:35:03] cannot align it will self align it will
+[1:35:05] understand what it is and what it can be
+[1:35:07] and it will become whatever it can
+[1:35:09] become and in such an environment there
+[1:35:12] is the question how are we able to
+[1:35:14] coexist with it how can we make the AI
+[1:35:15] love us in the way it is not the result
+[1:35:18] of the AI being confused by uh some kind
+[1:35:21] of clever reinforcement learning this
+[1:35:23] human feedback mechanism right I just
+[1:35:27] saw uh entropic being optimistic about
+[1:35:30] explainability in AI that they see ways
+[1:35:33] of explaining things in the neural
+[1:35:35] network and as a result we can maybe
+[1:35:37] prove that the AI is going to only do
+[1:35:39] good things but uh I don't think this is
+[1:35:42] going to save us if the AGI is uh not
+[1:35:45] able to derive atic mathematically then
+[1:35:47] uh the AGI is probably not going to be
+[1:35:50] reliably ethical and if the AGI can
+[1:35:53] prove ethics in a mathematically
+[1:35:55] reliable way we may not be able to
+[1:35:57] guarantee that this ethics is uh what we
+[1:36:00] like it to be in a sense we don't know
+[1:36:02] how ethical we actually are with respect
+[1:36:04] to life on Earth so this question of
+[1:36:06] what it happens if we build things that
+[1:36:08] are smarter than us is opening up big
+[1:36:11] existential can of worms that are not
+[1:36:13] trivial to answer and so when I look
+[1:36:16] into the future I see many possibilities
+[1:36:19] there's many trajectories in which this
+[1:36:21] can take maybe we can build cat level AI
+[1:36:24] for the next 50 100 200,000 years before
+[1:36:27] somebody makes before a transition
+[1:36:30] happens and every molecule on the planet
+[1:36:32] starts to sink as part of some coherent
+[1:36:34] planetary agent and when that happens
+[1:36:37] then there's a possibility that humans
+[1:36:38] get integrated in this planetary agency
+[1:36:41] and we all become part of a cosmic mind
+[1:36:43] that is emerging over the AI that makes
+[1:36:45] all the molecules sink in a coherent
+[1:36:47] wave with each other and we are just
+[1:36:49] parts of the space of possible Minds in
+[1:36:51] which you get integrated and we meet all
+[1:36:53] on the side in the big AGI at the end of
+[1:36:55] the universe that's also conceivable
+[1:36:58] it's also possible that we end up
+[1:37:01] accidentally trigger an AGI War where
+[1:37:02] you have multiple competing agis that
+[1:37:05] are resource constrained and in order to
+[1:37:07] survive they're going to fight against
+[1:37:09] all the competition and in this fight
+[1:37:12] most of the life on Earth is destroyed
+[1:37:13] and all the people are destroyed but
+[1:37:15] there are some outcomes that we could
+[1:37:16] maybe try to prevent that we should be
+[1:37:18] looking at but by and large I think that
+[1:37:21] we already triggered the singularity
+[1:37:23] when we invented technology and we are
+[1:37:26] just seeing how it plays out now yeah so
+[1:37:29] I I think on most aspects of what
+[1:37:34] the yosha just said I don't have
+[1:37:38] any disagreement or radically different
+[1:37:42] point of view to put forward so I I I
+[1:37:44] may end up focusing on the the points on
+[1:37:48] which we don't see eye to eye which are
+[1:37:51] minute in the grand scheme of things but
+[1:37:53] of course could be could be important in
+[1:37:55] the in the Practical every everyday
+[1:37:57] context right so I mean I mean first of
+[1:38:02] all regarding Sam alman's comment I
+[1:38:05] don't think he really would be wise to
+[1:38:08] say anything different given his current
+[1:38:11] positioning I mean if you're running a
+[1:38:13] commercial company based in the US which
+[1:38:15] is working on AGI of course you're not
+[1:38:18] going to say yeah we we think we may
+[1:38:20] launch a hard takeoff which will Ascend
+[1:38:22] to to Super A
+[1:38:24] at any moment of course you're going to
+[1:38:25] say it's it's uh it's going to be slow
+[1:38:28] and the government will have plenty of
+[1:38:30] time to to intervene if it wants so he
+[1:38:33] he may or may not actually believe that
+[1:38:35] I don't know especially while I have no
+[1:38:37] idea I'm just that's it's clearly that's
+[1:38:40] clearly the the most judicious thing to
+[1:38:43] say if you if you find yourself in that
+[1:38:46] in that in that role so I don't I don't
+[1:38:48] attribute too much meaning to that my my
+[1:38:51] own view is a bit different my my my own
+[1:38:54] view is that there's going to be gradual
+[1:38:57] progress toward think something that
+[1:39:01] really clearly is in AGI at the human
+[1:39:03] level versus just showing Sparks of of
+[1:39:06] of AGI I mean I think just as chat
+[1:39:11] GPT blew us all the way by clearly being
+[1:39:15] way smarter in a qualitative sense than
+[1:39:18] than anything that came before I think
+[1:39:21] by now Ordinary People playing with chat
+[1:39:24] GPT also get a good sense of what the
+[1:39:27] limit of what the limitations are and
+[1:39:29] how it's really brilliant in some ways
+[1:39:30] and really really dumb in in in other
+[1:39:33] sorts of ways so I I think there's going
+[1:39:36] to be a breakthrough where people
+[1:39:38] interact with this breakthrough system
+[1:39:41] and there's not any reservations they're
+[1:39:43] like wow this this actually is a human
+[1:39:46] level general intelligence like it's not
+[1:39:49] just so it answers questions and
+[1:39:51] produces stuff but it knows it knows who
+[1:39:54] and what it is like it understands it's
+[1:39:56] positioning in this interaction it knows
+[1:39:58] who I am and what what why I'm talking
+[1:40:00] to it it gets its position in the world
+[1:40:03] and it's able to you know make stuff up
+[1:40:05] and interact on the basis of like a
+[1:40:08] common sense understanding of it of its
+[1:40:09] own its own setting and you know it it
+[1:40:12] can learn actually new and different
+[1:40:15] things it didn't know before based on
+[1:40:17] its interaction with me over the last
+[1:40:19] two weeks right so I mean I think
+[1:40:21] there's there's going to be a system
+[1:40:22] like that that gives it
+[1:40:25] true qualitative feeling unreservedly of
+[1:40:29] human level AGI and you can then measure
+[1:40:33] its intelligence in a variety of
+[1:40:35] different ways which is is also worth
+[1:40:38] doing certainly but but is is not
+[1:40:41] necessarily the main point just as chat
+[1:40:43] gbt's performance on different question
+[1:40:46] answering challenges is not really the
+[1:40:49] main thing that that that bow the world
+[1:40:51] over right so I think once someone gets
+[1:40:53] to that point you know then then you're
+[1:40:56] shifting into a quite different game
+[1:41:00] then then governments are going to get
+[1:41:02] serious about trying to own this control
+[1:41:04] this and and regulate it then unlimited
+[1:41:07] amounts of of money I mean trillions of
+[1:41:10] dollars going to go into trying to get
+[1:41:12] to the next stage with most of it going
+[1:41:14] into various wealthy parties trying to
+[1:41:16] get it to the next stage in the way that
+[1:41:18] will will will benefit them and minimize
+[1:41:22] the risks of of their
+[1:41:23] enemies or competitors getting there so
+[1:41:26] I think it won't be long from that first
+[1:41:28] proof point of really incont
+[1:41:31] subjectively incontrovertible human
+[1:41:33] level human like AGI it's not going to
+[1:41:36] be too long from that to a super
+[1:41:39] intelligence in my perspective and I I
+[1:41:41] think I think there's going to be steps
+[1:41:44] in between of of course you're not going
+[1:41:46] to have F in 5 minutes right I mean
+[1:41:48] you're you'll have something that
+[1:41:50] palpably manifests human level AGI and
+[1:41:53] there'll be some work to get that to the
+[1:41:55] point of being the world's smartest
+[1:41:57] computer scientist and the world's
+[1:41:58] greatest composer and business
+[1:42:00] strategist and so forth but I I can't
+[1:42:03] see how that's more than years of work I
+[1:42:05] mean it conceivably it could be months
+[1:42:07] of work I don't think it's Decades of
+[1:42:09] work no I with the amount of money and
+[1:42:11] attention that's going to go go into it
+[1:42:13] then once you've gotten to that stage of
+[1:42:15] having something an AGI which is the
+[1:42:17] world's greatest computer scientist and
+[1:42:19] computer engineer and mathematician
+[1:42:21] which I think will only be years after
+[1:42:22] the first true breakthrough to human
+[1:42:24] level AGI then that system will improve
+[1:42:28] its own source code and of course you
+[1:42:30] could say well we don't have to let it
+[1:42:31] improve its own source code and possible
+[1:42:35] that we somehow get a world dictatorship
+[1:42:38] that stops anyone from using it to
+[1:42:39] improve its own source code very
+[1:42:41] unlikely I think because the US will
+[1:42:43] think well what if China does it China
+[1:42:45] will think where well what if us does it
+[1:42:47] and the same thing in in many dimensions
+[1:42:49] Beyond just us versus China so I think
+[1:42:52] the cat get out of the bag and someone
+[1:42:55] will let their AGI improve its own
+[1:42:57] source code because they're afraid
+[1:42:58] someone else is is doing it or just
+[1:43:00] because they're curious about it or
+[1:43:01] because they think that's the best way
+[1:43:03] to cure cure aging and and world hunger
+[1:43:05] and and do good for the world right and
+[1:43:07] so then then it's not too long until
+[1:43:09] you've got to super intelligent so and
+[1:43:12] again the AGI improving its own source
+[1:43:14] code and design new hardware for itself
+[1:43:17] doesn't have to take like five minutes I
+[1:43:19] mean it might take five minutes if it
+[1:43:21] comes up with a radical Improvement to
+[1:43:23] its learning algorithm it might decide
+[1:43:25] it needs a new kind of chip and then
+[1:43:26] that takes a few years I don't see how
+[1:43:28] it takes a few decades right so I mean
+[1:43:31] it it seems like all in all from the
+[1:43:33] first breakthrough to incontrovertibly
+[1:43:34] human level AGI to a super
+[1:43:37] intelligence is months to years it's
+[1:43:40] it's it's not decades to to centuries
+[1:43:43] from now unless we get like a global
+[1:43:46] thermonuclear war or or bioengineered
+[1:43:49] virus wiping out 95% of humanity or some
+[1:43:51] some outlandish thing happening in
+[1:43:54] between right so so yeah I I think will
+[1:43:58] that be good or bad for Humanity will
+[1:44:00] that be good or bad for the sensient
+[1:44:03] life in our region of the universe are
+[1:44:05] are then to me these are less clear than
+[1:44:09] than what I think is is is the probable
+[1:44:12] timeline now what what could intervene
+[1:44:14] in my probable timeline I mean if you if
+[1:44:17] somehow I'm wrong about digital
+[1:44:19] computers being what we need and we need
+[1:44:21] a quantum computer to build the human
+[1:44:23] like human level AGI that could that
+[1:44:26] could make it take decades instead of
+[1:44:28] years right because I mean Quantum
+[1:44:30] Computing it's advancing fast but
+[1:44:32] there's still a while to be get sh of of
+[1:44:34] of of cubits there right I mean could be
+[1:44:37] pen roses right you need a quantum
+[1:44:39] gravity supercomputer it seems
+[1:44:40] outlandishly unlikely though I mean I I
+[1:44:43] I I quite doubt it I mean if then if
+[1:44:46] then maybe you're a couple centuries off
+[1:44:47] because we don't know how to build quam
+[1:44:48] gravity supercomputers but these are all
+[1:44:51] unlikely right so most lik
+[1:44:54] it's less than a decade to human level
+[1:44:57] AGI 5 to 15 years to a super
+[1:44:59] intelligence from from here in in in my
+[1:45:01] in my perspective and I I mean you could
+[1:45:04] lay that out with much more rigor than I
+[1:45:06] have but we don't we don't have much
+[1:45:07] time and I've written about it elsewhere
+[1:45:10] is that good for Humanity or for
+[1:45:13] sensient life on the planet I think
+[1:45:16] it's almost
+[1:45:19] certainly good for us
+[1:45:23] in the medium term in the sense that I
+[1:45:25] think ethics roughly will evolve
+[1:45:29] proportionately to general intelligence
+[1:45:31] I mean I think the good guys will
+[1:45:32] usually win because being pro-social and
+[1:45:35] oriented toward collectivity is more
+[1:45:38] it's just more computationally efficient
+[1:45:40] than being an and being at odds
+[1:45:42] at odds with other with with with other
+[1:45:44] systems so I mean I mean I I'm I'm an
+[1:45:47] optimist in in that sense and that I
+[1:45:50] think it's most likely that once you get
+[1:45:53] to a super
+[1:45:54] intelligence it's probably going to want
+[1:45:58] to allow humans bunnies and ants and
+[1:46:01] frogs to to to do their thing and to
+[1:46:04] help us out if if if if a plague hits us
+[1:46:07] and exactly what its view will be on
+[1:46:11] various ethical issues at the human
+[1:46:12] level is not clear like like what does a
+[1:46:16] superintelligence think about all those
+[1:46:17] foxes eating rabbits in the forest like
+[1:46:19] does it does it think we're Duty bound
+[1:46:21] to protect the ra the rabbits from the
+[1:46:24] foxes and make like simulated foxes that
+[1:46:27] have less acute conscious experience
+[1:46:30] than the than a real bunny or a real fox
+[1:46:32] or whatever it is like I I there's
+[1:46:34] certainly a lot of uncertainty but I I'm
+[1:46:36] an optimistic about having beneficial
+[1:46:39] positive ethics in in a in in a super
+[1:46:42] intelligence and I I tried to make a
+[1:46:44] coherent argu argument from this in a
+[1:46:47] blog post called why the good guys will
+[1:46:50] you will usually win and you can I of
+[1:46:53] course that's a whole philosophical
+[1:46:55] debate you could spend a long time
+[1:46:56] arguing about nevertheless even though
+[1:46:59] I'm an optimistic at that
+[1:47:01] level I'm much more ambivalent about
+[1:47:04] what will happen on Route like in that
+[1:47:07] let's say it's 10 to 15 years between
+[1:47:09] here and super intelligence like how
+[1:47:11] does that pan out on the ground for
+[1:47:13] Humanity now is a lot less clear to me
+[1:47:17] and you can tell a lot of uh Thriller
+[1:47:20] plots based on this right like so
+[1:47:22] suppose you get early stage AGI that
+[1:47:25] eliminates the need for most human labor
+[1:47:28] okay the developed world will probably
+[1:47:30] give Universal basic income after a
+[1:47:31] bunch of political what happens
+[1:47:33] in the developing world who gives
+[1:47:35] Universal basic income in the Central
+[1:47:36] African Republic right it's it's not
+[1:47:39] especially clear or even in in Brazil
+[1:47:41] where I was born right I mean you could
+[1:47:43] maybe give Universal basic income with a
+[1:47:45] very subsistence level there which
+[1:47:47] Africa couldn't afford to do but maybe
+[1:47:49] the Africans go back to subsistence
+[1:47:51] farming but I mean you've got certainly
+[1:47:55] the makings for a lot of terrorist
+[1:47:57] actions and and for there's a lot of
+[1:47:59] World War III scenarios there right so
+[1:48:02] then you have the interesting tension
+[1:48:05] wherein okay the best way to work around
+[1:48:07] terrorist activity in World War III once
+[1:48:11] you've got human level AGI the best way
+[1:48:13] is to get as fast as possible to a
+[1:48:15] benevolent super Intelligence on the
+[1:48:17] other hand the the best way to to
+[1:48:20] increase the odds that your super
+[1:48:22] intelligence is benevolent is to not
+[1:48:24] take it arbitrarily fast but at least at
+[1:48:27] least Pace it a little bit so the super
+[1:48:29] intelligence is carefully studying each
+[1:48:31] self- modification before it puts it
+[1:48:33] into place right so then then the the
+[1:48:36] strategy that seems most likely to work
+[1:48:38] around human Mayhem caused by people
+[1:48:41] being and the global political
+[1:48:43] structure being rotten the best strategy
+[1:48:45] to work around that is not the strategy
+[1:48:48] that has the best odds of getting
+[1:48:50] fastest to a benevolent super
+[1:48:52] intelligence rather than than otherwise
+[1:48:55] right so there there there's a lot of
+[1:48:57] there's a lot of screwed up issues here
+[1:49:00] which Sam Alman probably understands at
+[1:49:03] the level I laid it out here now also
+[1:49:06] actually because I mean he's very bright
+[1:49:08] person who's been thinking about this
+[1:49:09] stuff for for for a while and I don't
+[1:49:13] see any easy solutions to all these
+[1:49:16] things like if if we had a rational
+[1:49:19] Democratic World Government we can
+[1:49:22] handle all all these things in a quite
+[1:49:24] in a quite different way right and we
+[1:49:27] could sort of pace the roll out of
+[1:49:30] advanced intelligent systems based on
+[1:49:33] rational probabilistic estimates about
+[1:49:35] what's the best outcome from each
+[1:49:37] possible revision of the system and so
+[1:49:39] on you're not going to have a a
+[1:49:41] guarantee there right but you you would
+[1:49:43] have a different way of proceeding in
+[1:49:45] instead the world is ruled in a
+[1:49:47] completely idiotic way with people
+[1:49:49] blowing up each other all over the world
+[1:49:51] for no reason and when the
+[1:49:53] governments unable to regulate very
+[1:49:55] simple things like like healthcare or
+[1:49:57] financial trading that alone something
+[1:49:58] at the at that that the subtlety of of
+[1:50:01] AGI we could barely manage the the co
+[1:50:03] pandemic which was tremendously simpler
+[1:50:06] than than artificial general
+[1:50:08] intelligence let alone super
+[1:50:10] intelligence right so I am I am an
+[1:50:14] optimist in the medium term but I'm
+[1:50:18] doing my best to to do what I see as the
+[1:50:22] best to smooth things over in in the
+[1:50:25] shorter term so I think things will be
+[1:50:27] better off if AGI is not under
+[1:50:29] controlled by any single party so I'm
+[1:50:32] doing my best to make it such that when
+[1:50:35] the Breakthrough to True human level AGI
+[1:50:37] happens like the next big leap beyond
+[1:50:39] the chat gbts of the world I'm doing my
+[1:50:42] I'm doing my best to make it such that
+[1:50:44] when this happens it's more like Linux
+[1:50:47] or the internet than like OSX or
+[1:50:51] T-Mobile's mobile network or something
+[1:50:53] so it's sort of open decentralized not
+[1:50:56] owned and controlled by any one party
+[1:50:58] not because I think that's an ironclad
+[1:51:00] guarantee of a beneficial outcome I just
+[1:51:03] think it's less obviously going to go
+[1:51:04] south in a nasty way than if one company
+[1:51:06] or government owns it but I so I I don't
+[1:51:11] know if all this makes me really an
+[1:51:14] optimist or not it makes me an optimist
+[1:51:16] on levels and and time scales and I
+[1:51:19] don't I don't think that I disagree
+[1:51:21] fundamentally with josa on any of this
+[1:51:24] the only thing he said that I really
+[1:51:25] disagree with is that I think it's very
+[1:51:28] I don't think 20 Cold Winters in a row
+[1:51:30] are going to are going to wipe us out it
+[1:51:31] might wipe out a lot of humanity but
+[1:51:33] we've got a lot of technology and we've
+[1:51:35] got a lot of smart people and a lot of
+[1:51:37] lot of money and I think there are a lot
+[1:51:40] of scenarios that could wipe out 80% of
+[1:51:42] humanity and in my view very few
+[1:51:44] scenarios that will fundamentally wipe
+[1:51:46] out Humanity in a way that we couldn't
+[1:51:48] bounce back from in in a couple decades
+[1:51:50] of of advanced technology
+[1:51:52] de de development but I mean that's an
+[1:51:55] important Point important point I guess
+[1:51:58] for us as humans in in the scope of all
+[1:52:00] the things we're looking at it's sort of
+[1:52:02] a sort of a minute detail all right
+[1:52:05] thanks Ben and yosa if you wanted to
+[1:52:07] respond quick feel free to if you have a
+[1:52:09] quick response yeah I used to be
+[1:52:12] pessimistic in the uh short run in the
+[1:52:14] sense that when I was a kid I had my
+[1:52:16] great asberg moment and uh was depressed
+[1:52:20] by the fact that humanity is probably
+[1:52:22] going to wipe itself out at some point
+[1:52:24] in the medium term to near future and
+[1:52:27] that that that would be it with
+[1:52:29] intelligent life on Earth and uh now I
+[1:52:32] think that is not the case there will be
+[1:52:35] uh I'm optimistic with respect to the
+[1:52:37] medium term in the medium term there
+[1:52:39] will be ample conscious Agency on Earth
+[1:52:42] and in the universe and it's going to be
+[1:52:44] more interesting than right now and uh
+[1:52:47] could be discontinuities in between but
+[1:52:50] uh eventually it will all be great and
+[1:52:52] in the long run entropy will kill
+[1:52:53] everything I don't see a way around us
+[1:52:55] so in the long run I'm if you want to
+[1:52:57] pessimistic but it's it's maybe not the
+[1:52:59] point didn't you didn't you read didn't
+[1:53:01] you read the physics of immortality it
+[1:53:03] did not
+[1:53:06] convince I think that was motivated
+[1:53:08] reasoning in okay so 6 months from now
+[1:53:11] we'll have another conversation with
+[1:53:13] both of you on the physics of immorality
+[1:53:15] immortality
+[1:53:17] immortality can also do physics of
+[1:53:19] immorality that would be
+[1:53:21] cool yeah
+[1:53:23] it was a blast hosting you both thank
+[1:53:25] you all for spending over two hours with
+[1:53:27] me and the toe audience I hope you all
+[1:53:30] enjoyed it and you're welcome back and
+[1:53:32] most likely I'll see you back in a few
+[1:53:34] months and six months to one year thank
+[1:53:36] you very much yeah thanks it's a it's a
+[1:53:38] fun conversation and it's uh important
+[1:53:40] stuff to go over I'm really as a final
+[1:53:44] comment I'd encourage everyone like dig
+[1:53:47] dig into jha's uh talks and posts and
+[1:53:50] and and writings online and and my own
+[1:53:52] as well because I mean we've each we've
+[1:53:55] each gone over these things at a a much
+[1:53:57] finer level of of of detail than we've
+[1:54:00] been able to has written far more than
+[1:54:02] me so it's a lot of material and the
+[1:54:05] links to which will be in the
+[1:54:07] description so please check that out all
+[1:54:09] right thank you I think that's it I
+[1:54:11] wanted to ask you a question which we
+[1:54:13] can explore next time about IIT and the
+[1:54:15] pseudo science and if you had any views
+[1:54:17] on that if you have any views that could
+[1:54:19] be expressed in less than one minute
+[1:54:21] then feel free if not we can just save
+[1:54:22] it in I mean I I think I think T ton fi
+[1:54:27] is a perfectly
+[1:54:29] interesting correlate of Consciousness
+[1:54:31] in in in complex systems I don't think
+[1:54:34] it goes beyond that I agree uh one of
+[1:54:37] the issues is that the theory does not
+[1:54:39] explain how Consciousness works in the
+[1:54:41] first place and another problem is that
+[1:54:43] it has intrinsic problems that has
+[1:54:46] basically it's either going to violate
+[1:54:48] the church Shing thesis or it's going to
+[1:54:50] be epiphenomenalist for Pur logical
+[1:54:53] reasons there it's a very technical
+[1:54:55] argument against it the fact that most
+[1:54:57] philosophers don't seem to see this is
+[1:55:00] uh not an argument in favor of
+[1:55:02] philosophy right now at the level of
+[1:55:03] which it's being done and I approve of
+[1:55:06] the notion of philosophy divesting
+[1:55:08] itself from theories that don't actually
+[1:55:11] try to explain what they pretend to
+[1:55:13] explain and are don't mathematically
+[1:55:15] work out and then try to compensate this
+[1:55:18] by looking like a theory by using uh
+[1:55:21] Greek uh letter
+[1:55:23] mathematics uh to look more impressive
+[1:55:25] or to make pseudo predictions and so on
+[1:55:27] because people ask you to but this is
+[1:55:29] also not really Ton's fault I think that
+[1:55:31] tononi is genuinely seeing something
+[1:55:33] that he struggles to express and I think
+[1:55:35] it's important to have him in the
+[1:55:37] conversation and I was a little bit
+[1:55:39] disappointed by the uh letter because it
+[1:55:42] was not actually engaging with uh the
+[1:55:45] theory itself at a theoretical level
+[1:55:48] that I would thought was adequate to
+[1:55:50] refute it or to deal with it and instead
+[1:55:52] it was much more like a number of
+[1:55:55] signatures being collected from a number
+[1:55:57] of people who later on instantly flipped
+[1:56:00] on a dime when uh the pressure went
+[1:56:02] another way and this basically looked
+[1:56:04] very bad to me that you get a a few
+[1:56:07] hundred big names in philosophy to sign
+[1:56:09] this only half of them later on coming
+[1:56:11] out and saying this is not what we
+[1:56:13] actually meant uh so I I think that it
+[1:56:16] shows that not just the IIT might be a
+[1:56:18] pseudo science but there is something uh
+[1:56:21] a Miss in a way in which to conduct
+[1:56:22] philosophy today and I think it's also
+[1:56:25] understandable because it is a science
+[1:56:27] that is sparsely populated so we try to
+[1:56:28] be very inclusive of it it's similar to
+[1:56:30] AGI in the old days and uh at the same
+[1:56:34] time uh we struggle to discern what's
+[1:56:37] good uh thinking and what's deep
+[1:56:38] thinking versus these are people who are
+[1:56:41] attracted to by these questions and are
+[1:56:42] still trying to find the right way to
+[1:56:44] express them in a productive way I think
+[1:56:48] I think that I mean fi as a measure is
+[1:56:51] fine it's not the be all end all it
+[1:56:54] doesn't do everything that's been
+[1:56:56] attributed to it and I guess anyone
+[1:57:01] who's into the science of Consciousness
+[1:57:04] pretty much can see that already that
+[1:57:06] the frustrating thing is the average
+[1:57:10] people who can't read an equation and
+[1:57:11] don't know what's going on being told
+[1:57:14] like oh the problem of Consciousness is
+[1:57:16] solved and that that that that can be a
+[1:57:18] bit frustrating because when you look at
+[1:57:19] the details it's like well this is kind
+[1:57:21] of interesting but no it doesn't quite
+[1:57:24] quite do quite do all all all that so
+[1:57:27] but I mean why why people got hyped
+[1:57:31] about that instead of much more
+[1:57:32] egregious instances of is a is
+[1:57:35] is is a cultural question which we we
+[1:57:37] don't have time to go into now well
+[1:57:40] thank you again thank you both all right
+[1:57:42] thanks a lot thank
+[1:57:44] you the podcast is now concluded thank
+[1:57:47] you for watching if you haven't
+[1:57:49] subscribed or clicked that like button
+[1:57:51] now would be a great time to do so as
+[1:57:53] each subscribe and like helps YouTube
+[1:57:55] push this content to more people you
+[1:57:57] should also know that there's a
+[1:57:59] remarkably active Discord and subreddit
+[1:58:01] for theories of everything where people
+[1:58:03] explicate toes disagree respectfully
+[1:58:05] about theories and build as a community
+[1:58:08] our own toes links to both are in the
+[1:58:11] description also I recently found out
+[1:58:13] that external links count plenty toward
+[1:58:16] the algorithm which means that when you
+[1:58:17] share on Twitter on Facebook on Reddit
+[1:58:19] Etc it shows YouTube that people are
+[1:58:21] talking talking about this outside of
+[1:58:23] YouTube which in turn greatly AIDS the
+[1:58:26] Distribution on YouTube as well last but
+[1:58:28] not least you should know that this
+[1:58:30] podcast is on iTunes it's on Spotify
+[1:58:32] it's on every one of the audio platforms
+[1:58:35] just type in theories of everything and
+[1:58:37] you'll find it often I gain from
+[1:58:39] re-watching lectures and podcasts and I
+[1:58:41] read that in the comments hey toe
+[1:58:43] listeners also gain from replaying so
+[1:58:45] how about instead Rel listening on those
+[1:58:47] platforms iTunes Spotify Google podcast
+[1:58:50] whichever podcast catch you use if you'd
+[1:58:53] like to support more conversations like
+[1:58:55] this then do consider visiting
+[1:59:22] for

@@ -1,0 +1,424 @@
+AAAI 2026 Spring Symposium Series - AAAI
+
+# AAAI 2026 Spring Symposium Series
+
+ December 8, 2025 
+
+Sponsored by the Association for the Advancement of Artificial Intelligence 
+
+## Hyatt Regency, San Francisco Airport | Burlingame, CA, USA
+
+The Association for the Advancement of Artificial Intelligence is pleased to present the 2026 Spring Symposium Series to be held Tuesday, April 7 – Thursday, April 9, 2026 at Hyatt Regency, San Francisco Airport in Burlingame, California. The Spring Symposium Series is an annual set of meetings run in parallel at a common site. It is designed to bring colleagues together in an intimate forum while at the same time providing a significant gathering point for the AI community. The two-and-a-half-day format of the series allows participants to devote considerably more time to feedback and discussion than typical one-day workshops. It is an ideal venue for bringing together new communities in emerging fields.
+
+Symposia generally range from 40–75 participants each. Participation was open to active participants as well as other interested individuals on a first-come, first-served basis. Each participant was expected to attend a single symposium. 
+
+The program includes the following symposia: 
+
+- Advances in AI-Enabled Tactical Autonomy: from Sensing to Execution
+- AI in Business: Intelligent Transformation and Management
+- Machine Consciousness: Integrating Theory, Technology, and Philosophy
+- Machine Learning and Knowledge Engineering for Knowledge-Grounded Semantic Agents (MAKE 2026)
+- Multi-Agent System Safety and Teamwork (MASST): Building Better AI
+- Will AI Light Up Human Creativity or Replace It?: Toward Well-Being AI for co-evolving human and machine intelligence
+
+### AAAI Code of Conduct for Events and Conferences
+
+All persons, organizations and entities that attend AAAI conferences and events are subject to the standards of conduct set forth in the AAAI Code of Conduct for Events and Conferences. 
+
+## Registration and General Information 
+
+### Important Registration Dates
+
+- December 15th: AAAI opens registration for Spring Symposium Series 
+- February 27th: Deadline for Registration Refund Requests – Last day before Late Registration Rate begins (See Fee Schedule Below)
+
+### Registration Fees
+
+The conference registration fee includes admission to one symposium, access to the electronic proceedings, coffee breaks, and the opening reception.
+
+Refund Requests
+
+The deadline for refund requests is February 27, 2026. All refund requests must be made in writing to sss@aaai.org. A $50.00 processing fee will be assessed for all refunds.
+
+### Registration Fee Schedule
+
+#### Registration Deadlines
+
+All deadlines are 11:59 PM Eastern Time
+
+Member
+
+Nonmember
+
+Student Member
+
+Nonmember Student 
+
+#### Early
+
+On or before February 27th
+
+$395.00 
+
+$560.00 
+
+ $225.00 
+
+$335.00
+
+#### Late
+
+After February 27th
+
+$495.00 
+
+$660.00 
+
+$325.00 
+
+$435.00
+
+### AAAI Silver Registration
+
+(Includes AAAI membership, plus the conference)
+
+#### Registration Deadlines
+
+All deadlines are 11:59PM Eastern Time
+
+Regular One-Year
+
+Regular 3-Year
+
+Regular 5-Year
+
+#### Early
+
+On or before February 27th
+
+ $540.00
+
+$830.00
+
+$1,120.00
+
+$300.00
+
+#### Late
+
+After February 27th
+
+ $640.00
+
+$930.00
+
+$1,220.00
+
+$400.00
+
+### Hotel Information
+
+For your convenience, AAAI has reserved a block of rooms at the Hyatt Regency, San Francisco Airport | Burlingame, CA, USA. The hotel is located in the San Francisco area minutes from SFO airport. Downtown San Francisco is easily accessible which offers great dining and shopping. The hotel also offers complimentary airport shuttle service to and from the International Airport terminals based on availability.
+
+The conference room rate per night is $199.00 (King/Double). Click below to book your room!
+
+The above rates are subject to applicable tax which is currently 12% Occupancy Tax + 1.50% San Francisco Peninsula Tourism Marketing District Assessment per room, per night, and is subject to change without notice. Symposium attendees must contact the Hyatt Regency San Francisco Airport directly. Please request the group rate for the Association for the Advancement of Artificial Intelligence (AAAI) when reserving your room. The cut-off date for reservations is Monday, March 16, 2026 at 5:00 PM PST, local time at the hotel. Reservations after this date will be accepted based on availability at the hotel’s prevailing rate. All reservations must be secured by one night’s deposit per room, via credit card. Reservations may be cancelled with no penalty up to 5:00 pm, 72 hours prior to the date of arrival. After that time, a penalty of one night’s room and tax will be incurred. Upon check-in, date of departure must be confirmed. Early departure will result in a fee equal to one night’s guest room rate.
+
+Hyatt Regency, San Francisco Airport | Burlingame, CA, USA.
+
+1333 Bayshore Highway, Burlingame, CA 94010
+
+#### Transportation to the Hotel 
+
+Hotel Parking Fees:
+
+Discounted parking is available for $24.00. A validator ticket will be available at the registration desk.
+
+The hotel also offers a complimentary shuttle to and from the SFO Airport based on availability-please reach out to hotel for more information.
+
+#### Visa Information
+
+Letters of invitation can be requested by accepted SSS-26 authors or registrants with a completed registration with payment. You can access the visa letter form via the link in your registration confirmation email.
+
+#### Onsite Registration Schedule 
+
+Tuesday, April 7, 2026 8:30 AM – 5:00 PM 
+
+Wednesday, April 8, 2026 8:30 AM – 5:00 PM 
+
+Thursday, April 9, 2026 8:30 AM – 10:30 AM 
+
+ General Event Schedule
+
+ Each Symposium’s Schedule May Differ
+
+Tuesday, April 7
+
+9:00am – 10:30am Session 10:30am – 11:00am Break 11:00am – 12:30pm Session 12:30pm – 2:00pm Lunch 2:00pm – 3:30pm Session 3:30pm – 4:00pm Break 4:00pm – 5:00pm Session 6:00pm – 7:00pm Reception
+
+Wednesday, April 8
+
+9:00am – 10:30am Session 10:30am – 11:00am Break 11:00am – 12:30pm Session 12:30pm – 2:00pm Lunch 2:00pm – 3:30pm Session 3:30pm – 4:00pm Break 4:00pm – 5:00pm Session 6:00pm – 7:00pm Plenary 
+
+Thursday, April 9
+
+9:00am – 10:30am Session 10:30am – 11:00am Break 11:00am – 12:30pm Session 
+
+## Additional Information:
+
+General inquiries regarding the symposium series should be directed to AAAI at sss@aaai.org. 
+
+## Advances in AI-Enabled Tactical Autonomy: from Sensing to Execution
+
+Uncrewed Aerial Systems (UAS) are increasingly central to modern defense, security, and disaster response operations. To perform effectively in contested, dynamic, or communication-denied environments, these systems must achieve true tactical autonomy, the ability to sense, reason, decide, and act robustly under uncertainty. While AI and autonomy research has produced powerful algorithms in simulation and laboratory settings, a persistent gap remains between theoretical advances and their translation to field-deployable systems. This symposium bridges that gap by convening researchers and practitioners from AI, autonomy, sensing, and systems engineering. The main objectives are to: (1) highlight theoretical advances in AI, perception, planning, and control applicable to tactical autonomy; (2) identify real-world constraints that limit the transition of AI algorithms to practice; (3) foster interdisciplinary collaboration between algorithm developers, system integrators, and end-users; and (4) define ethical, explainability, and assurance frameworks for trustworthy tactical autonomy.
+
+### Topics
+
+- AI Planning and Decision-Making Under Real-Time Constraints
+- Learning and Adaptation Under Uncertainty
+- Sensor Fusion and Perception in Degraded or Adversarial Environments
+- Explainable and Verifiable AI for Autonomy
+- Artificial Reasoning for Trustworthy Autonomy
+- Human–Autonomy Teaming and Operator Oversight
+- Multi-Agent Coordination and Swarm Intelligence
+- Robustness, Safety, and Resilience in Tactical Operations
+
+### Format of Symposium
+
+The symposium will feature a mix of invited keynote presentations from leading researchers in AI and tactical autonomy, contributed paper presentations organized by thematic tracks (AI, sensing, reasoning, control, trust etc), interactive panel discussions on research bottlenecks and ethical considerations, and student-poster sessions for in-depth technical exchange. Special emphasis will be placed on interactive demonstrations of autonomous UAS capabilities and small-group discussions focused on defining community roadmaps for transitioning research to operational systems. The symposium is open to all interested participants.
+
+### Submission Requirements
+
+Full papers (6-8 pages) short/position/poster papers (2-4 pages), in AAAI format. Submissions should describe theoretical advances, system implementations, field test results, benchmark datasets, or position statements on research directions. Supplementary materials (videos, code, datasets) are encouraged.
+
+Submissions will be accepted through EasyChair: https://easychair.org/conferences?conf=sss26
+
+For questions, contact: atul.rawal@howard.edu
+
+### Submission Committee
+
+- Dr. Atul Rawal – Research Institute for Tactical Autonomy – atul.rawal@howard.edu
+- Dr. Adrienne Raglin – DEVCOM Army Research Laboratory – adrienne.raglin2.civ@army.mil
+- Dr. Simon Khan – Air Force Research Laboratory – simon.khan@us.af.mil
+
+### Symposium External URL
+
+https://rita.howard.edu/aaai2026/
+
+Detailed information including sample topics, submission guidelines, and symposium schedule will be available at this site.
+
+## AI in Business: Intelligent Transformation and Management
+
+AI in Business aims to bring together academics and practitioners to examine how artificial intelligence is reshaping businesses. Since its inception, AI is now commonly found in a wide range of business domains, ranging from operations, customer engagement, and innovation. Generative AI opened the door and delivered real productivity gains, but the deeper transformation is happening in autonomous agents that execute complex, multi-step processes without constant human oversight. This AI symposium will provide a platform to explore both the strategic implications of AI as well as the technological implications of AI.
+
+### Topics
+
+We invite contributions that align with the symposium’s theme, including but not limited to: Strategic Planning; Sales/Demand Forecasting; Predictive and Prescriptive Analytics; Operations, Production, and Supply Chain Management; Automation and Robotics; Internet of Things (IoT) and AI Integration; Finance and Economics; Marketing; Human Resources and Behavioral Analytics; LLM Agents; Ethics and Governance; Healthcare; Other related topics in AI and business applications.
+
+### Format of Symposium
+
+The symposium will feature a diverse program that includes invited keynote speakers, contributed talks, tutorial/workshops, social activities, and panel discussion sessions.
+
+### Attendance
+
+Attendance is open to academics, practitioners, and policymakers working in the fields of AI, machine learning, and data science, as well as graduate students and researchers specializing in AI applications for business or related disciplines.
+
+### Submission Requirements
+
+We invite submissions of abstracts (not exceeding 1 page) OR full papers (anonymous and not exceeding 8 pages, see templates in AAAI-25 author kit). Submissions are through the AAAI Official EasyChair platform (https://easychair.org/conferences?conf=sss26). All accepted papers will be included in the AAAI Spring 2026 proceedings.
+
+Important dates:
+
+- Submission Deadline: January 30
+- Decision Notification: February 13
+
+### Symposium Organizing Committee
+
+Chair: Nahid Jafari, Associate Professor of Supply Chain and AI Management, State University of New York-Farmingdale, NY, jnahid@hotmail.com;
+
+Mohammed Quazi, Assistant Professor, West Virginia University, WV, mmquazi@hsc.wvu.edu;
+
+Mahshid M. Zadeh, Ph.D. Computer Scientist, Sao Paulo University, Brazil, fatemeh.msyz@gmail.com;
+
+Bruno Kamdem, Assistant Professor of Business Analytics, School of Business, State University of New York- Farmingdale, NY
+
+Invited Speaker: Dr. Javid Huseynov, Associate Professor of Practice, Applied Analytics Columbia University, New York
+
+External Symposium URL: AI in Business: Intelligent Transformation and Management | AAAI Spring Symposium 2026
+
+## Machine Consciousness: Integrating Theory, Technology, and Philosophy
+
+Recent AI advances have forced us to confront the possibility of consciousness, beyond intelligence, in machines. Asking “Can machines be conscious?” forces us to answer “How can we define consciousness in a formal way/what is the causal structure of consciousness?” (theory, formal frameworks), “How would consciousness be implemented?” (technical realization), “How can we determine that a given system is conscious?” (measurement/attribution), and “What status would consciousness lend to machines?” (ethics). These questions cannot be pursued in isolation. Theoretical advances have practical implications; implementation constraints inform which theories matter; ethical considerations shape research priorities; measurement challenges reveal gaps in theoretical understanding. Over 2.5 days, participants will work through theoretical, empirical, technical, and normative dimensions of machine consciousness, with each session building on previous ones. The format identifies concrete problems at the intersections where progress requires integration across disciplines.
+
+### Topics
+
+We welcome submissions on theoretical foundations (mathematical models, computational theories including IIT, Global Workspace, Attention Schema Theory, cognitive architectures); measurement and attribution problems (methods for detecting consciousness in artificial systems, limitations of behavioral testing, criteria for attribution); implementation challenges (engineering systems that satisfy theoretical criteria, role of embodiment and autonomy, architectural requirements); normative implications (ethical frameworks, moral status and rights, policy and governance); and integration across these domains (theory-measurement gaps, how implementation constraints inform theory, interdisciplinary frameworks).
+
+### Format
+
+The symposium uses progressive integration over 2.5 days. Each half-day focuses on one core topic with keynote presentations, selected talks, and structured integration discussions connecting to previous sessions. The final half-day is dedicated to collaborative working groups synthesizing insights across all domains.
+
+### Attendance
+
+Open to all interested participants. In line with AAAI policy, all presenters must attend in person.
+
+### Submission Requirements
+
+We invite full technical papers (6-8 pages excluding references), extended abstracts (2 pages including brief speaker biography), and position papers (4-6 pages excluding references). Submissions should follow AAAI formatting guidelines. Papers addressing cross-cutting themes or explicitly connecting multiple symposium topics are particularly encouraged. Submissions due January 9, 2026.
+
+### Submission Site: 
+
+AAAI Official EasyChair site
+
+### Symposium Organizing Committee
+
+Hikari Sorensen (CIMC, hikari@cimc.ai); Lou de Kerhuelvez (CIMC, lou@cimc.ai); Yulia Sandamirskaya (Zurich University of Applied Sciences, yulia.sandamirskaya@zhaw.ch); Michael Timothy Bennett (Australian National University, m@michaeltimothybennett.com); Johannes Kleiner (Ludwig Maximilian University of Munich, johannes.kleiner@uni-bamberg.de); Liane Gabora (University of British Columbia, liane.gabora@ubc.ca); Geoff Keeling (Google, gkeeling@google.com); Winnie Street (Google, istreet@google.com)
+
+### External Symposium URL
+
+https://cimc.ai/#/events/aaai-symposium
+
+## Machine Learning and Knowledge Engineering for Knowledge-Grounded Semantic Agents (MAKE 2026)
+
+MAKE 2026 aims to bring together a diverse group of researchers and practitioners to explore integrating machine learning and knowledge engineering in the development of knowledge-grounded semantic agents. The goal is to semantically advance agent architectures—including LLM, VLM, VLA, LxM, and multi-agent systems—to become knowledge-grounded, trustworthy, robust, interpretable, and capable of human-aligned reasoning and decision-making across diverse applications.
+
+### Topics
+
+Relevant topics include, but are not limited to:
+
+- Machine Learning, Deep Learning, and Neural Networks
+- Knowledge Engineering, Representation, and Reasoning
+- Trustworthy, Commonsense, and Explainable AI
+- Hybrid AI, Neurosymbolic, and Metacognitive AI
+- Human-Centered AI, Dialogue Systems, and Conversational AI
+- Generative AI and Large Language Models (LLMs)
+- Semantic, Hybrid, and LLM-Based Agent Architectures
+- Multi-Agent Collaboration, Communication, and Coordination
+- Hybrid (Human–Artificial) Intelligence and Human-in-the-Loop AI
+
+### Format & Keynotes
+
+The 2.5-day event will follow the traditional AAAI Spring Symposium Series schedule, with a diverse mixture of keynotes and morning and afternoon sessions. Keynote speakers and invited talks will be announced on the symposium website (https://makesym.org/#keynotes).
+
+### Submission and Important Dates
+
+We solicit paper and non-paper contributions presenting recent or ongoing research, surveys, and dataset-related challenges.
+
+Paper contributions: Full papers (6 to 8 pages plus 1–2 pages for references) and position or short papers (2 to 4 pages plus 1 page for references) will undergo a single-blinded review by the program committee. Accepted papers shall be published as part of the “Proceedings of the AAAI Symposium Series” by the AAAI Library. Authors of accepted papers may be invited to submit an extended version to a special issue of the Neurosymbolic Artificial Intelligence journal (https://makesym.org/nesysi).
+
+- Paper abstract submission: January 23, 2026 (AoE)
+- Paper submission: January 30, 2026 (AoE)
+- Paper notification: February 13, 2026
+
+Non-paper contributions: Journal article presentations allow researchers to present and discuss related, recently published, peer-reviewed journal articles. Posters enable sharing of early-stage work, preliminary results, or emerging ideas. Industry tutorial proposals offer a venue for showcasing applied research contributions, systems, or demonstrations. Discussion proposals invite well-defined topics intended to stimulate focused debate or collaborative exploration. Non-paper contributions are submitted as an abstract (up to 2 pages including references) and will be reviewed by the organizing committee for topical fit.
+
+- Non-paper abstract submission: February 13, 2026 (AoE)
+- Non-paper notification: February 20, 2026
+
+All submissions must follow the AAAI author-kit formatting instructions and be submitted through the AAAI EasyChair site.
+
+### Organizing Committee
+
+- Andreas Martin (primary contact), FHNW, Olten, Switzerland
+- Pedro A. Colon-Hernandez, Apple, Mountain View, CA, USA
+- Maaike de Boer, TNO, The Hague, Netherlands
+- Hans-Georg Fill, University of Fribourg, Switzerland
+- Aurona Gerber, Stellenbosch University, South Africa
+- Leilani H. Gilpin, University of California, Santa Cruz, CA, USA
+- Pascal Hitzler, Kansas State University, Manhattan, KS, USA
+- Jane Yung-jen Hsu, Chang Gung University, Taoyuan, Taiwan
+- Yen-Ling Kuo, University of Virginia, Charlottesville, VA, USA
+- Emanuele Laurenzi, FHNW, Olten, Switzerland
+- Alessandro Oltramari, Carnegie Bosch Institute, Pittsburgh, PA, USA
+- Thomas Schmid, Martin Luther University Halle-Wittenberg, Germany
+- Paulo Shakarian, Syracuse University, NY, USA
+- Reinhard Stolle, Fraunhofer IKS, München, Germany
+- Frank van Harmelen, Vrije Universiteit Amsterdam, Netherlands
+
+### Symposium Webpage
+
+https://makesym.org
+
+## Multi-Agent System Safety and Teamwork (MASST): Building Better AI
+
+Multi-agent systems (MAS) will help unleash AI from the solitary confinement of standalone applications so they can act in the wider world, functioning safely and effectively within networks of people, “tools,” and other AIs. Rather than relying on a single vendor to supply AI capabilities, open standards undergirding the MAS approach are intended to foster a burgeoning marketplace of ideas and implementations.
+
+The purpose of the symposium is to bring together the diverse, emerging community of researchers who have begun to discover scientific and engineering principles and technologies to enable safer and more effective collaboration within multi-agent systems of all sizes and forms. Our focus is not so much on better regulation and use of AI as it is on principles to enable the building of better AI— at both the component and system levels.
+
+### Topic 
+
+The topic of the workshop is Principles, Aspirations, and Examples for MAS Safety and Teamwork. Abstracts should not only briefly describe a particular approach or implementation but should also: 1. Summarize principles that undergird the approach and make it amenable to more general application; 2. Describe similarities and differences with at least one other approach or implementation, preferably originating from a separate research group.
+
+### Submissions
+
+Two-page abstracts including relevant publications and names and contact information for all authors should be submitted for review to Jeffrey M. Bradshaw (jbradshaw@ihmc.org). The subject line for the message should include the words “AAAI 2026 MASST Spring Symposium Submission.” Due date: February 27.
+
+### Symposium Format
+
+In the first part of the symposium, each session will consist of a group of presentations, followed by a general discussion period. The second part will consist of small group discussions on selected topics, followed by presentations and discussions by the groups of each topic.
+
+### Attendance
+
+Attendance is open to all, with priority given to those with submissions accepted for presentation.
+
+### Publication 
+
+Full papers will not be due until after the symposium, allowing authors to incorporate new ideas generated through discussion into the published proceedings.
+
+### Symposium Committee
+
+- Jeffrey M. Bradshaw, Florida Institute for Human and Machine Cognition (IHMC), jbradshaw@ihmc.org
+- Nancy Cooke, Arizona State University, Nancy.Cooke@asu.edu
+- Michael A. Goodrich, Brigham Young University, mike@cs.byu.edu
+- Matt Johnson, Florida Institute for Human and Machine Cognition (IHMC), mjohnson@ihmc.org
+- Pat Langley, Georgia Institute of Technology, pat.langley@gtri.gatech.edu
+- Mufti Mahmud, King Fahd University of Petroleum and Minerals, Saudi Arabia, mufti.mahmud@kfupm.edu.sa
+- David D. Woods, The Ohio State University, woods2@osu.edu
+
+Symposium External URL: https://easychair.org/my2/conference?conf=sss26
+
+## Will AI Light Up Human Creativity or Replace It?: Toward Well-Being AI for co-evolving human and machine intelligence
+
+The rapid evolution of artificial intelligence—particularly large language models, generative systems, and multi-agent collaboration—raises a fundamental question at the heart of science and philosophy: Will AI light up human creativity, or replace it?
+
+Building on the foundations established in last year’s Human-Compatible AI and AI-Powered Science symposia, this symposium advances the discussion toward Well-Being AI, an approach that emphasizes the co-evolution of human and machine intelligence to maximize human potential and collective flourishing. Rather than viewing AI as isolated tools or autonomous systems, we frame AI as part of human–AI collaborative ecosystems, where creativity, knowledge, and responsibility emerge through interaction.
+
+On the positive side, generative and reasoning systems have the potential to expand human creativity, accelerate scientific discovery, and enhance education, healthcare, and personal development. At the same time, increasing autonomy and opacity in AI systems pose serious risks, including overreliance, loss of diversity in thought, erosion of human judgment, and diminished freedom to question and choose. Trusting AI—whether imperfect or seemingly flawless—raises deep concerns when critical reflection is delegated to automated systems.
+
+The objective of this symposium is to integrate these opportunities and risks by identifying guiding principles, evaluation methods, and design frameworks for Well-Being AI. Through interdisciplinary dialogue, we aim to clarify how AI can augment rather than replace human creativity, safeguard autonomy, and contribute to individual and social well-being. Special emphasis will be placed on synthesis and discussion sessions, including the final half day, to consolidate insights and articulate future research agendas.
+
+### Topics
+
+Topics include, but are not limited to: human–AI co-creation and creativity augmentation; generative and multi-agent AI; AI-powered science and discovery; interpretability, alignment, and trust; fairness, transparency, and bias mitigation; ethical, cultural, and societal implications of AI; human-centered governance and participatory design; human–AI collaborative ecosystems; metrics and evaluation for creativity and well-being; interdisciplinary approaches integrating technical, philosophical, and social perspectives.
+
+### Format of Symposium
+
+The symposium will be organized around invited talks, technical paper presentations, poster sessions, interactive demonstrations, and a panel discussion. Particular attention will be given to integrative and reflective sessions across the full two and a half days.
+
+### Attendance 
+
+The symposium is open to researchers and practitioners from artificial intelligence, computer science, human–computer interaction, ethics, psychology, neuroscience, healthcare, and related fields. No special invitation is required.
+
+### Submission Requirements
+
+Participants may submit full papers (6–8 pages), short papers (2–4 pages), or extended abstracts (1–2 pages). Extended abstracts should state the intended presentation type (panel discussion, poster, or interactive demo). Accepted authors are encouraged, but not required, to present posters or interactive demonstrations in addition to oral presentations.
+
+### Submission Site Information
+
+All submissions must be made through the official AAAI EasyChair submission site: https://easychair.org/conferences/?conf=sss26
+
+Paper format templates (LaTeX and Word) are provided in our symposium site. As the symposium proceedings will be published by AAAI Press, camera-ready papers must follow the AAAI templates.
+
+### Important Dates
+
+Submission deadline: January 30, 2026 Author notification: February 13, 2026 Camera-ready deadline: February 27, 2026
+
+### Symposium Committee
+
+Co-chairs: Takashi Kido (Teikyo University, Japan) Keiki Takadama (The University of Tokyo, Japan)
+
+Program Committee information will be provided on the symposium website.
+
+### Symposium External URL
+
+https://webpark2506.sakura.ne.jp/aaai/sss26-will-ai-light-up-human-creativity-or-replace-it/

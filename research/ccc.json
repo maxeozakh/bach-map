@@ -1,0 +1,3271 @@
+{
+ "sources": [
+  {
+   "id": "ccc30",
+   "title": "How to Build a Mind: Artificial Intelligence Reloaded (30C3)",
+   "date": "2013-12-29",
+   "url": "https://media.ccc.de/v/30C3_-_5526_-_en_-_saal_2_-_201312291600_-_how_to_build_a_mind_-_joscha",
+   "transcript_obtained": true,
+   "raw_file": "/Users/maksim.zakharov/mm/notes/bach-map/research/raw/ccc_30c3_how_to_build_a_mind.en.txt"
+  },
+  {
+   "id": "ccc31",
+   "title": "From Computation to Consciousness (31C3)",
+   "date": "2014-12-28",
+   "url": "https://media.ccc.de/v/31c3_-_6573_-_en_-_saal_2_-_201412281130_-_from_computation_to_consciousness_-_joscha",
+   "transcript_obtained": true,
+   "raw_file": "/Users/maksim.zakharov/mm/notes/bach-map/research/raw/ccc_31c3_from_computation_to_consciousness.en_DRAFT.txt"
+  },
+  {
+   "id": "ccc32",
+   "title": "Computational Meta-Psychology (32C3)",
+   "date": "2015-12-29",
+   "url": "https://media.ccc.de/v/32c3-7483-computational_meta-psychology",
+   "transcript_obtained": true,
+   "raw_file": "/Users/maksim.zakharov/mm/notes/bach-map/research/raw/ccc_32c3_computational_meta_psychology.en.txt"
+  },
+  {
+   "id": "ccc33",
+   "title": "Machine Dreams (33C3)",
+   "date": "2016-12-29",
+   "url": "https://media.ccc.de/v/33c3-8369-machine_dreams",
+   "transcript_obtained": true,
+   "raw_file": "/Users/maksim.zakharov/mm/notes/bach-map/research/raw/ccc_33c3_machine_dreams.en_DRAFT.txt"
+  },
+  {
+   "id": "ccc35",
+   "title": "The Ghost in the Machine (35C3)",
+   "date": "2018-12-28",
+   "url": "https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine",
+   "transcript_obtained": true,
+   "raw_file": "/Users/maksim.zakharov/mm/notes/bach-map/research/raw/ccc_35c3_ghost_in_the_machine.en.txt"
+  },
+  {
+   "id": "ccc37",
+   "title": "Synthetic Sentience (37C3)",
+   "date": "2023-12-28",
+   "url": "https://media.ccc.de/v/37c3-12167-synthetic_sentience",
+   "transcript_obtained": true,
+   "raw_file": "/Users/maksim.zakharov/mm/notes/bach-map/research/raw/ccc_37c3_synthetic_sentience.en_DRAFT.txt"
+  },
+  {
+   "id": "ccc38",
+   "title": "Self Models of Loving Grace (38C3)",
+   "date": "2024-12-28",
+   "url": "https://media.ccc.de/v/38c3-self-models-of-loving-grace",
+   "transcript_obtained": true,
+   "raw_file": "/Users/maksim.zakharov/mm/notes/bach-map/research/raw/ccc_38c3_self_models_of_loving_grace.biocomm_transcript.txt"
+  },
+  {
+   "id": "ds2017",
+   "title": "Machine Dreams (German-language lecture, Dresden / Datenspuren 2017)",
+   "date": "2017",
+   "url": "https://c3d2.de/media/20170930-TSD-When_Machines_Are_Dreaming-Joscha_Bach.transcript.html",
+   "transcript_obtained": true,
+   "raw_file": "/Users/maksim.zakharov/mm/notes/bach-map/research/raw/lecture_2017_datenspuren_machine_dreams.c3d2_transcript.txt"
+  },
+  {
+   "id": "cyber",
+   "title": "Cyber Animism (talk hosted by Michael Levin's center, Tufts)",
+   "date": "2024",
+   "url": "https://www.youtube.com/watch?v=YZl4zom3q2g",
+   "transcript_obtained": true,
+   "raw_file": "/Users/maksim.zakharov/mm/notes/bach-map/research/raw/lecture_2024_cyber_animism_levin_center.youtube_transcript.txt"
+  },
+  {
+   "id": "agi24",
+   "title": "AGI-24 keynote on cyber animism (Seattle; Machine Learning Street Talk recording)",
+   "date": "2024",
+   "url": "https://www.youtube.com/watch?v=34VOI_oo-qM",
+   "transcript_obtained": true,
+   "raw_file": "/Users/maksim.zakharov/mm/notes/bach-map/research/raw/lecture_2024_agi24_keynote_cyberanimism.youtube_transcript.txt"
+  },
+  {
+   "id": "agi25",
+   "title": "The Operation of Consciousness (AGI-25, Reykjavik)",
+   "date": "2025",
+   "url": "https://www.youtube.com/watch?v=oR-BQTSpL5U",
+   "transcript_obtained": true,
+   "raw_file": "/Users/maksim.zakharov/mm/notes/bach-map/research/raw/lecture_2025_agi25_operation_of_consciousness.youtube_transcript.txt"
+  },
+  {
+   "id": "tedx",
+   "title": "From Artificial Intelligence to Artificial Consciousness (TEDxBeaconStreet)",
+   "date": null,
+   "url": "https://www.youtube.com/watch?v=Jr7gY3JyzP8",
+   "transcript_obtained": false,
+   "raw_file": null
+  },
+  {
+   "id": "ted2025",
+   "title": "If a machine became conscious, how would we know? (TED, TEDAI Vienna)",
+   "date": "2025",
+   "url": "https://www.ted.com/talks/joscha_bach_if_a_machine_became_conscious_how_would_we_know",
+   "transcript_obtained": false,
+   "raw_file": null
+  }
+ ],
+ "references": [
+  {
+   "name": "Aristotle",
+   "kind": "person",
+   "author": null,
+   "year": "4th c. BCE",
+   "tldr": "Greek philosopher who systematised logic, physics and psychology. He described the soul (psyche) not as a ghostly substance but as the organising form of a living body, with vegetative, animal and rational layers.",
+   "bach_take": "Bach names Aristotle as the possible start of the project of 'naturalizing the mind' that AI continues, and rereads him 'as a computer scientist': the soul is software, a causal pattern imposed on physics.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Aristotle already said that the soul is a form a pattern imposed on physics I think what he meant is it's a causal pattern",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase: philosophy's 'plot' starts with Leibniz, 'maybe even with Aristotle'.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "he talks about the soul or psyche as the animating principle of living matter",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "For Aristotle there are several layers to our soul to our psyche. The first one is the layer that plants have the vegetative layer.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Unmoved mover (first mover)",
+   "kind": "concept",
+   "author": "Aristotle",
+   "year": -350,
+   "tldr": "Aristotle argued that if anything in the universe changes, something must ultimately drive that change without itself being moved. This 'prime mover' is the minimal philosophical notion of a god: no personality, just the reason things keep going.",
+   "bach_take": "Bach ranks gods by 'metaphysical cost' and calls this the cheapest, a '1st degree god', which he equates with the transition function of a computational universe.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "I would say that is the primary computational transition function of the universe.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ds2017",
+     "quote_or_paraphrase": "Paraphrase (German): Aristotle's first mover is the primary state transition function, the Turing machine that drives our universe.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Plato's theory of forms / Platonism",
+   "kind": "theory",
+   "author": "Plato",
+   "year": "4th c. BCE",
+   "tldr": "Plato held that behind the changing things we perceive there are ideal, timeless forms (the perfect triangle, the ideal table). In mathematics, 'Platonism' is the view that mathematical objects really exist independently of minds.",
+   "bach_take": "In 2016 Bach calls mathematical Platonism an illusion: mathematics feels real because it 'writes itself' from axioms. In 2025 he reinterprets Plato's forms as dimensions of an embedding space, calling Plato the first to write about it.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "this notion that the metaphysics of mathematics is real is called Platonism. I think it's an illusion.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "I suspect that Plato is the first guy who wrote about the embedding space that we discovered much later in AI.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Thomas Aquinas",
+   "kind": "person",
+   "author": null,
+   "year": "13th c.",
+   "tldr": "Medieval theologian who merged Aristotle with Christian doctrine. He argued for God as the necessary ground of existence and described seven virtues: four practical ones (temperance, justice, prudence, courage) and three theological ones (faith, hope, love).",
+   "bach_take": "Bach treats Aquinas's God as a 'transcendental principle' (a 2nd degree god) and later reads the virtues as rational policies for agents: the practical virtues for individuals, and faith, love and hope as policies that create a collective agent.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "This is the god of Thomas of Aquinus. The God that Thomas of Aquinus discovered is not the god of Abraham",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "aquinus in some sense defines God as the best possible most top level Collective agent",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ds2017",
+     "quote_or_paraphrase": "Paraphrase (German): the god of Thomas Aquinas is god as a transcendent principle, merely the reason why something exists rather than nothing.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Mind-body dualism (res cogitans / res extensa)",
+   "kind": "theory",
+   "author": "René Descartes",
+   "year": 1641,
+   "tldr": "Descartes divided reality into two substances: thinking stuff (res cogitans, the mind) and extended stuff in space (res extensa, matter). The puzzle ever since is how the two could interact.",
+   "bach_take": "Bach starts his history of mind with Descartes, then reinterprets him: both substances are real, but both are representations inside the mind, a world model and a sphere of ideas, generated by the brain.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "we very often start philosophy of mind with looking at Descartes. That is: at dualism.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase: Descartes' res cogitans is the 'ideosphere' and res extensa the 'stuff in space', but both exist inside the mind's representations.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Descartes's dualism is actually not a dualism about substances outside of ourselves",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase: the sphere of ideas is what Descartes calls res cogitans; the world model is res extensa.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Gottfried Wilhelm Leibniz",
+   "kind": "person",
+   "author": null,
+   "year": "17th c.",
+   "tldr": "German polymath who co-invented calculus and dreamed of a universal symbolic language in which disputes could be settled by calculation ('let us calculate').",
+   "bach_take": "For Bach, Leibniz is where the project of mechanising thought begins in earnest: translating thoughts into numbers and resolving arguments by computation.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (name garbled as 'li Nets'): Leibniz had the idea that we can translate thoughts and arguments into numbers and resolve arguments by calculation.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'lights'): Leibniz had the insight that you need to mathematize the mind and translate it into a kind of mathematical machine.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "Name appears as 'li Nets', 'lipets', 'lights' in YouTube auto-captions; resolved from context (listed between Aristotle and La Mettrie/Frege)."
+  },
+  {
+   "name": "Leibniz's mill argument",
+   "kind": "concept",
+   "author": "Gottfried Wilhelm Leibniz",
+   "year": 1714,
+   "tldr": "A thought experiment from the Monadology: imagine a thinking machine enlarged to the size of a mill so you can walk inside. You would see only parts pushing each other and nothing that explains perception. Leibniz concluded that mechanism cannot explain mind.",
+   "bach_take": "Bach presents it as the classic intuition against AI and answers that the modern notion of computation, not cogs and levers, is the right picture of a machine.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "And what you are going to see is just parts pushing at each other.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ds2017",
+     "quote_or_paraphrase": "Paraphrase (German): Leibniz imagined a machine that could produce thoughts, sensations and perception, enlarged so one could walk inside.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "L'Homme Machine (Man a Machine)",
+   "kind": "book",
+   "author": "Julien Offray de La Mettrie",
+   "year": 1747,
+   "tldr": "A scandalous Enlightenment pamphlet arguing that humans are entirely physical machines, not different in kind from animals, and that mind is a function of organised matter.",
+   "bach_take": "Bach counts La Mettrie among the founders of the AI project: he saw humans as mathematical machines with a cybernetic motivation made of 'opposing springs'.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'Julian of f lri' and 'L machine'): La Mettrie had the insight that humans can be understood as machines and our motivation might be cybernetic, composed of opposing springs.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ds2017",
+     "quote_or_paraphrase": "Paraphrase (German): La Mettrie, a late contemporary of Leibniz, wrote 'L'homme machine' and held that the world is completely physical and man a kind of animal.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "Garbled in captions ('lri', 'lombagine'); the German transcript has 'La Mettrie' clearly."
+  },
+  {
+   "name": "John Locke on consciousness",
+   "kind": "concept",
+   "author": "John Locke",
+   "year": 1690,
+   "tldr": "Locke defined consciousness as the perception of what passes in one's own mind, and tied personal identity to this continuity of awareness and memory.",
+   "bach_take": "Bach calls this 'a pretty good idea' but notes that we actually get little awareness of what happens in our minds; the continuity of experience is stitched together after the fact.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "Maybe it's the awareness of what happens in our mind. I think it's a pretty good idea that John Lochhead",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Machine subtitle writes 'John Lochhead'; resolved to John Locke from the definition given."
+  },
+  {
+   "name": "Immanuel Kant",
+   "kind": "person",
+   "author": null,
+   "year": 1785,
+   "tldr": "German philosopher who tried to ground morality in reason alone: act only on rules you could will to be universal laws, regardless of culture or consequences.",
+   "bach_take": "Mentioned only in a Q&A answer: Bach doubts that morality can be defined outside a framework of social norms that people agree on.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "This project of defining morality without societies exists longer than Kant of course.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Phenomenology (noesis, noema, epoché)",
+   "kind": "theory",
+   "author": "Edmund Husserl",
+   "year": 1913,
+   "tldr": "Husserl argued that we never see the world itself, only appearances (phenomena). The mind turns them into meaningful objects (noema) through acts of interpretation (noesis), and philosophy should 'bracket' claims about the outside world (epoché) to study this.",
+   "bach_take": "Bach uses Husserl to pose the problem, then offers a way out: a robot gets only bits at its interface, and a cognitive architecture can turn bits into something that looks like phenomena.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "Paraphrase (heavily garbled subtitles): reality is not given directly; we get phenomena, the mind turns them into noema, and the process is called noesis.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ds2017",
+     "quote_or_paraphrase": "Paraphrase (German): we could begin our journey with Edmund Husserl ... what we perceive of the world are appearances, phenomena; the process of turning them into ideas he calls noesis.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "31C3 machine subtitles render noema/noesis/epoché as 'Nguema', 'Noisette', 'if hookey' and do not print Husserl's name; the German 2017 transcript names 'Edmund Husserl' explicitly."
+  },
+  {
+   "name": "Gottlob Frege",
+   "kind": "person",
+   "author": null,
+   "year": 1879,
+   "tldr": "German logician whose 'Begriffsschrift' (concept script) created modern formal logic: a precise notation in which reasoning could be checked mechanically.",
+   "bach_take": "Part of Bach's lineage of the AI project: Frege wanted a calculus for thinking.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'godlo frer'): Gottlob Frege had the idea of coming up with a formal language for thinking.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'frager'): Frege built a calculus in which he hoped to be able to express thoughts.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "Name garbled in auto-captions; resolved from context."
+  },
+  {
+   "name": "Alfred Tarski",
+   "kind": "person",
+   "author": null,
+   "year": 1933,
+   "tldr": "Polish logician who gave the standard formal definition of truth for logical languages and put semantics on a rigorous footing.",
+   "bach_take": "A brief stop in Bach's lineage: Tarski 'formalized logic for us' and fixed problems Aristotle did not see.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "taski formalized Logic for us",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "tarski who made progress and fixing the issues with logic that Aristotle didn't see yet",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Tractatus Logico-Philosophicus",
+   "kind": "book",
+   "author": "Ludwig Wittgenstein",
+   "year": 1921,
+   "tldr": "A short, austere book that tries to state exactly what can be said in language: the world is the totality of facts, language pictures facts, and what cannot be said clearly must be passed over in silence.",
+   "bach_take": "Bach reads it as a coder's attempt to build 'a programming language for thought', pre-empting the logicist programme of AI by decades, and says philosophers misread it as being about natural language.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "It's an attempt by a guy who was basically a coder, an AI scientist, to reverse engineer the language of his own thinking.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase: Wittgenstein had the idea of translating English into something like a programming language so philosophy could be true or false.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Philosophical Investigations",
+   "kind": "book",
+   "author": "Ludwig Wittgenstein",
+   "year": 1953,
+   "tldr": "Wittgenstein's later work, which abandons the idea of one exact logical language. Meaning comes from how words are used in many overlapping 'language games'.",
+   "bach_take": "Bach presents it as Wittgenstein's admission that the Tractatus project failed because the world is too ambiguous, the same wall symbolic AI later hit.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "In the end he wrote the book \"Philosophical Investigations\", where he concluded, that his project basically failed.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Cantor's set theory (power sets and infinities)",
+   "kind": "theory",
+   "author": "Georg Cantor",
+   "year": 1874,
+   "tldr": "Cantor showed that infinite sets come in different sizes: the set of all subsets of a set is always larger than the set itself. Applied to 'the set of all sets' this produces contradictions.",
+   "bach_take": "Bach uses it as the opening of the story of how mathematics discovered problems in its own foundations, leading to Gödel, Turing and computation.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "the cardinality of a set grows slower than the cardinality of the set of its subsets",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "The subtitle reads 'In 1874 discovered when you looked at...' with the name dropped; resolved to Georg Cantor from date and content."
+  },
+  {
+   "name": "Russell's paradox",
+   "kind": "concept",
+   "author": "Bertrand Russell",
+   "year": 1901,
+   "tldr": "Consider the set of all sets that do not contain themselves. Does it contain itself? If it does, it doesn't; if it doesn't, it does. The paradox showed that naive set theory is inconsistent.",
+   "bach_take": "A step in Bach's foundations story; he also mentions Russell's antinomy when answering a question about hierarchy in living systems.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "Does the set of the sets that doesn't contain themselves contain itself? If it does, it doesn't, and if it doesn't, it does.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Hilbert's program",
+   "kind": "concept",
+   "author": "David Hilbert",
+   "year": 1920,
+   "tldr": "Hilbert asked mathematicians to prove, by purely mechanical means, that mathematics is consistent and complete, so that every true statement could in principle be derived.",
+   "bach_take": "Bach jokes that Hilbert was 'some kind of a community manager' who told people to fix the bug in mathematics.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "So David Hilbert, who was some kind of a community manager back then, said: \"Guys, fix this!",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Gödel's incompleteness theorems",
+   "kind": "theory",
+   "author": "Kurt Gödel",
+   "year": 1931,
+   "tldr": "Gödel proved that any consistent formal system rich enough to do arithmetic contains true statements it cannot prove, and cannot prove its own consistency. He did it by encoding statements about the system as numbers inside the system.",
+   "bach_take": "Bach rejects the reading that Gödel shows humans exceed machines. For him Gödel 'invented the emulator' and showed that classical 'stateless' mathematics breaks, so only computational (constructive) languages can be trusted.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "Paraphrase: some philosophers argue humans can always decide what formal systems cannot, so they are more powerful than computers; 'Gödel has done this' proof for formal systems.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "as soon as we allow these kinds of loops - and we cannot really exclude these loops - then our mathematics crashes.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (name garbled as 'C girdle'/'could G'): Gödel 'invented the emulator' by defining a logical language on top of Peano's axioms, and found that stateless mathematics leads to contradictions.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Paraphrase: some philosophers take Gödel to mean there are proofs only humans can make; Bach notes no AI company employs people to keep such proofs out of the computer.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Peano axioms",
+   "kind": "concept",
+   "author": "Giuseppe Peano",
+   "year": 1889,
+   "tldr": "A handful of axioms that define the natural numbers and arithmetic: there is a zero, every number has a successor, and induction holds.",
+   "bach_take": "Bach describes them as the 'virtual computer' or CPU that Gödel used to run his proof.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'pianos aums'): the computer Gödel found was Peano's axioms, which define the natural numbers and arithmetic over them.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Turing machine",
+   "kind": "concept",
+   "author": "Alan Turing",
+   "year": 1936,
+   "tldr": "An imaginary device with a tape, a read-write head and a table of rules. Despite its simplicity it can carry out any calculation that any computer can, which makes it the standard definition of computation.",
+   "bach_take": "Bach calls it a good definition but a bad metaphor, because it leaves people imagining cogs and tape. He uses it to argue that minds are computational and in fact less than Turing machines, since real systems are finite.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "The Turing machine is a good definition, but it's a very bad metaphor",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "It's actually much more troubling: minds are fundamentally less than Turing machines!",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "Paraphrase: defines a universe-computing machine with a state vector of bits, a position and instructions, 'With this, we can define the Turing machine'.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Lambda calculus",
+   "kind": "concept",
+   "author": "Alonzo Church",
+   "year": 1936,
+   "tldr": "A way of defining computation using nothing but functions and substitution: you replace variables in an expression with arguments, over and over. It is exactly as powerful as a Turing machine and underlies languages such as Lisp.",
+   "bach_take": "Bach offers it as 'computation without wheels', a better intuition than the Turing machine, and jokes it should be called the 'copy and paste thingi'.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "It's computation without wheels. It was invented basically at the same time as the Turing machine.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "he figured out together with Alonzo Church - not together, independently but at the same time",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Church-Turing thesis",
+   "kind": "theory",
+   "author": "Alonzo Church; Alan Turing",
+   "year": 1936,
+   "tldr": "The claim that every reasonable way of defining 'effective computation' (Turing machines, lambda calculus, recursive functions, any programming language) captures the same set of computable functions.",
+   "bach_take": "A cornerstone of every Bach lecture: because all computational languages have the same power, it does not matter which one describes mind or universe.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "all the computational approaches have the same power, although all the other ones that you are able to find in the future too, is called the Church-Turing thesis.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Paraphrase: Python, assembler, the Turing machine or the lambda calculus can all be compiled into each other; 'that's called the Church-Turing thesis'.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase: Church and Turing discovered that all implementable representational languages have the same power.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Halting problem and undecidability",
+   "kind": "concept",
+   "author": "Alan Turing",
+   "year": 1936,
+   "tldr": "Turing showed that no general procedure can decide, for every program, whether it will eventually stop or run forever. Some well-posed questions therefore have no computable answer.",
+   "bach_take": "Bach lists it among the true limits of computers and argues humans cannot solve such problems either.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "For instance the question whether a Turing machine ever stops for an arbitrary program.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "then we cannot know whether this proof terminates.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Post machine",
+   "kind": "concept",
+   "author": "Emil Post",
+   "year": 1936,
+   "tldr": "A model of computation proposed by Emil Post in the same year as Turing's, built from very simple instructions on a tape of marked and unmarked boxes.",
+   "bach_take": "Named in passing as one of many equivalent definitions of computation.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "For instance the post machine, which is a variation of the Turing machine",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Computing Machinery and Intelligence",
+   "kind": "paper",
+   "author": "Alan Turing",
+   "year": 1950,
+   "tldr": "The paper that asks 'Can machines think?' and replaces the question with an imitation game, later called the Turing test: if a machine can hold a conversation indistinguishable from a human's, we should grant it intelligence. It also answers a list of objections, including one from telepathy.",
+   "bach_take": "Bach urges everyone to read it and says it already contains most important questions and answers of AI. In 2025 he revisits Turing's ignored telepathy section as a hint that part of mind may depend on resonance with other organisms.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "When Alan Turing wrote his paper “Computing Machinery and Intelligence” and those of you who haven’t read it should do so.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "in the 1950 paper that Alan Turing talks about the Turing test. He also discusses the possibility of telepathy",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Turing's reaction-diffusion model of morphogenesis",
+   "kind": "paper",
+   "author": "Alan Turing",
+   "year": 1952,
+   "tldr": "In 'The Chemical Basis of Morphogenesis' Turing showed how two chemicals that react and spread at different rates can spontaneously form spots, stripes and other biological patterns.",
+   "bach_take": "Bach treats it as the origin of a third, neglected tradition in AI: self-organisation, next to symbolic AI and deep learning.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase: the tradition of self-organization 'has been started by Turing in the 1950s' but was never followed up much.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase: this thread of AI started with Turing's work on reaction-diffusion models that he tried to get to compute.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Chinese room argument",
+   "kind": "concept",
+   "author": "John Searle",
+   "year": 1980,
+   "tldr": "Searle imagines a person who follows a rulebook to answer Chinese questions without understanding Chinese. He concludes that running a program is not enough for understanding; brains have special causal powers.",
+   "bach_take": "Bach mentions the Chinese room in passing and mocks Searle's related claim that a Turing machine built from 'cats, mice and cheese' could not think, by calculating how large such a machine would be.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "John Searle said— you know, Searle is the one with the Chinese room. We’re not going to go into that",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "So it’s intrinsic powers of biological neurons.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Quantum consciousness (Orch-OR)",
+   "kind": "theory",
+   "author": "Roger Penrose; Stuart Hameroff",
+   "year": 1989,
+   "tldr": "Penrose argues that human understanding is not computable and must rely on new quantum physics; with Hameroff he locates it in microtubules inside neurons.",
+   "bach_take": "Bach rejects it: quantum processes are computable too, so the theory just 'shrouds one mystery in another'. He jokes that Penrose would explain bird flight with microtubules, but grants that Hameroff might ironically turn out right.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "he perceives kind of mechanics as mysterious and perceives consciousness as mysterious and tries to shroud one mystery in another.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "If you ask Roger Penrose, he will say it's quantum mechanics. These birds have very special microtubules",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Stuart Hameroff believes it's not between cells. He believes it's between microtubules. And he is a little bit alone with this.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Daniel Dennett",
+   "kind": "person",
+   "author": null,
+   "year": 1991,
+   "tldr": "American philosopher who defended a functionalist, deflationary view of consciousness: there is no inner 'Cartesian theater' where experience happens, only many parallel processes whose results we report. He also attacked the idea of philosophical zombies.",
+   "bach_take": "An ally. Bach quotes him on philosophy being dragged forward by other sciences, lists the 'Cartesian theater' among theories converging on his own, and in 2024 uses Dennett's 'zank' and 'zimbo' thought experiments while marking his death.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "Daniel Dennett has said that philosophy of mind has come a long way during the last hundred years.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'Daniel danard'): Dennett, 'a philosopher who we lost this year', was one of the main thinkers of computational philosophy of mind and functionalism.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Dennett and Drescher's Cartesian theater",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "AGI-24 transcript pairs Dennett with 'Drescher' (presumably Gary Drescher); 37C3 captions read 'how danet calls it'."
+  },
+  {
+   "name": "Zimbo (and 'zank')",
+   "kind": "concept",
+   "author": "Daniel Dennett",
+   "year": 1995,
+   "tldr": "A zombie is a being that behaves as if conscious with nobody home. Dennett's 'zimbo' is a zombie with higher-order self-monitoring, so it believes and reports that it is conscious. His 'zank' is a parody: something that works exactly like a bank but supposedly lacks the essence of a bank.",
+   "bach_take": "Bach asks whether AI models that describe themselves as conscious are zimbos, and whether we are.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "there also a question of whether we are zimbos",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Philosophical zombie",
+   "kind": "concept",
+   "author": "David Chalmers",
+   "year": 1996,
+   "tldr": "A hypothetical creature physically and behaviourally identical to a person but with no inner experience. If such a being is conceivable, the argument goes, consciousness is something over and above physical function.",
+   "bach_take": "Bach sides with Dennett that the idea makes little sense under functionalism, but uses it to frame how hard it is to tell simulated from 'real' consciousness in language models.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase (names garbled as 'David Charmers and niggle and block'): the philosophical zombies discussion was brought up by David Chalmers, Nagel and Block.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "The hard problem of consciousness",
+   "kind": "concept",
+   "author": "David Chalmers",
+   "year": 1995,
+   "tldr": "Explaining how the brain processes information is the 'easy' problem. The hard problem is why any of that processing is accompanied by subjective experience, by 'what it is like'.",
+   "bach_take": "Bach thinks the hard problem is a cultural artefact of the 20th century: it arises because we forget that both experience and the 'physical world' we touch are representations in the mind, and because philosophers do not care how computers work.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase: the hard problem is caused by us existing inside biological computers 'and philosophers not actually caring about how computers work'.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "this hard problem seems to be a somewhat recent problem. Most cultures don't have it.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "the hard problem of consciousness doesn't seem to be an issue for him",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Thomas Nagel ('What is it like to be a bat?')",
+   "kind": "paper",
+   "author": "Thomas Nagel",
+   "year": 1974,
+   "tldr": "Nagel argued that an organism is conscious if there is 'something it is like' to be it, and that objective science cannot capture this subjective point of view.",
+   "bach_take": "Bach uses the phrase 'what it's like' as his definition of phenomenology, parodies the argument ('what is it like to be a bird? You'll never know'), and lists Nagel among philosophers who find machine consciousness preposterous.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "they will tell you, what is it like to be a bird? You'll never know.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Paraphrase: some philosophers think machine consciousness is a preposterous idea, 'like Anil Seth and Thomas Nagel and so on and Ned Block'.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "The bat paper itself is not named; the 33C3 line is an unmistakable allusion. AGI-25 captions read 'Anel Seth ... Thomas Nagel ... Net Block'."
+  },
+  {
+   "name": "Access vs phenomenal consciousness",
+   "kind": "concept",
+   "author": "Ned Block",
+   "year": 1995,
+   "tldr": "Block separated two meanings of consciousness: phenomenal (raw experience) and access (information being available for reasoning, report and action).",
+   "bach_take": "Bach uses the terms without naming Block and defines both as kinds of memory: of the binding state and of using attention. Elsewhere Block is named as a sceptic of machine consciousness.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "Phenomenal consciousness is the memory of the binding state",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "Access consciousness is the memory of using our attentional system.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Block is not named in 35C3; attribution of the distinction is from background knowledge. He is named in 38C3 and AGI-25."
+  },
+  {
+   "name": "Qualia",
+   "kind": "concept",
+   "author": "C. I. Lewis (term)",
+   "year": 1929,
+   "tldr": "The philosophers' word for the felt qualities of experience: the redness of red, the painfulness of pain.",
+   "bach_take": "Bach treats qualia as perceptual features of the mind's model as seen from the perspective of the self, not as something beyond function.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "philosophers have introduced the term qualia to talk about perceptual features",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Epiphenomenalism",
+   "kind": "theory",
+   "author": null,
+   "year": 1874,
+   "tldr": "The view that conscious experience is a by-product of brain activity with no causal influence on the physical world, like steam from a locomotive.",
+   "bach_take": "Bach rejects it twice: in 2014 as an inconvenient consequence of read-only dualism, and in 2025 with the quip that an epiphenomenalist's report is not caused by their consciousness, so you need not listen.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "Paraphrase (subtitle: 'This is called epiphenomenal, and it's a bit inconvenient'): if mind reads from but cannot write to the universe, experience is causally irrelevant.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "this idea that consciousness has no causal role is called epiphenomenalism",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Occasionalism",
+   "kind": "theory",
+   "author": "Nicolas Malebranche",
+   "year": 1674,
+   "tldr": "A 17th-century answer to the mind-body problem: mind and matter never interact; God synchronises them on each occasion.",
+   "bach_take": "Bach mentions it as a contrived escape from epiphenomenalism before proposing that mind is simply computed inside the universe.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "Paraphrase (subtitle: 'This is called occasional ism in philosophy'): the universe would duplicate the equivalent of mental states.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Idealism",
+   "kind": "theory",
+   "author": null,
+   "year": "18th c.",
+   "tldr": "The family of views on which mind or experience is fundamental and the physical world derives from it.",
+   "bach_take": "Bach says idealism and materialism are complementary: we do live in a dream, but the dreamer is a physical brain. Asked in 2024 about books claiming the universe emerges from consciousness, he replies that this explains nothing about how it works.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "So an alternative is idealism which says that there is only a mental world.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "So these ideas of materialism and idealism are not in opposition.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "if Consciousness is fundamental I don’t know how it actually works",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "In the 38C3 Q&A a questioner cited the books 'The Matter with Things' and 'Irreducible'; Bach answered the general position without discussing the books."
+  },
+  {
+   "name": "Materialism / physicalism",
+   "kind": "theory",
+   "author": null,
+   "year": "ancient; modern form 20th c.",
+   "tldr": "The view that everything that exists is physical, and mind is something physical systems do.",
+   "bach_take": "Bach calls it the dominant view and broadly accepts it, but prefers to say information and computation are primary and both 'mind' and 'matter' are constructions.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "matter is primary and mind emerges over functionality of matter, which is I think the dominant theory today and usually, we call it physicalism.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Functionalism",
+   "kind": "theory",
+   "author": "Hilary Putnam and others",
+   "year": 1960,
+   "tldr": "The view that mental states are defined by what they do (their causal role), not by what they are made of, so the same mind could run on different substrates.",
+   "bach_take": "Bach's stated position from 2018 onward. By 2025 he calls it 'computationalist functionalism' and insists it is a metaphysical stance about how we construct objects from observed behaviour, not an empirical claim that laptops can think.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "And the answer that I am suggesting, is functionalism which means that indeed we exist only in a dream.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Computationalism is a theory of representation and functionalism is a theory of epistemology.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Computationalism (weak and strong)",
+   "kind": "theory",
+   "author": null,
+   "year": 1960,
+   "tldr": "Weak computationalism says minds are computer programs realised in brains. Strong computationalism (digital physics, pancomputationalism) adds that the universe itself is best described as computation that generates patterns of information.",
+   "bach_take": "This is Bach's core thesis across the series: a new monism in which information and computation are primary. Later he sharpens it: no implementable language can do more than a finite automaton.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "but rather computationalism, which means that information and computation are primary.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "strong computationalism basically no implementable language can do more than a finite automaton",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Panpsychism, illusionism, mysterianism",
+   "kind": "theory",
+   "author": null,
+   "year": "20th c.",
+   "tldr": "Three rival responses to the hard problem: consciousness is in all matter (panpsychism); it does not really exist and only the belief in it needs explaining (illusionism); or it is real but beyond human understanding (mysterianism).",
+   "bach_take": "Bach lists them in 2025 as the confused side of philosophy of mind, in contrast to a cluster of functional theories that converge.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "There's the position of mysterionism which says that consciousness is outside the realm of being understandable by our minds.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Franz Brentano",
+   "kind": "person",
+   "author": null,
+   "year": 1874,
+   "tldr": "Austrian philosopher-psychologist who revived the idea of intentionality: mental states are always 'about' something. He taught Husserl and Freud.",
+   "bach_take": "Named as a post-Enlightenment thinker who did not yet have the 'hard problem', supporting Bach's claim that it is a 20th-century confusion.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Paraphrase (captions: 'when you read Ga and uh Brenano'): they are post-Enlightenment and don't have this issue.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "The first name in the pair ('Ga') is unresolved; possibly Goethe."
+  },
+  {
+   "name": "Georg Wilhelm Friedrich Hegel: Weltgeist",
+   "kind": "concept",
+   "author": "G. W. F. Hegel",
+   "year": 1807,
+   "tldr": "Hegel's 'world spirit' is the idea that a culture or history as a whole has something like a mind that expresses itself through its people and works.",
+   "bach_take": "Bach uses it as one way to see a large language model: the spirit of a culture reconstructed from its texts, which a prompt can 'possess' to act as a person.",
+   "mentions": [
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Another perspective on the LLM is that it's basically a weltgeist. That's a notion of Hegel.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "37C3 captions have the same idea as 'electric W Guist' (electric Weltgeist)."
+  },
+  {
+   "name": "Proportioning belief to evidence",
+   "kind": "concept",
+   "author": "David Hume (attributed)",
+   "year": 1748,
+   "tldr": "A basic rule of rational thinking: hold each belief only as strongly as the evidence warrants, and keep every non-refuted possibility open.",
+   "bach_take": "Bach calls it 'the first rule of epistemology' and uses it to separate 'true/false' thinkers (nerds) from people who adopt beliefs for group membership.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "the first rule of epistemology says that the confidence in the belief must equal the weight of the evidence supporting it.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "everything that is not impossible is possible and the confidence gets assigned according to the evidence",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Bach does not attribute the rule; the Hume attribution is background knowledge."
+  },
+  {
+   "name": "Social constructionism (Rorty, Butler)",
+   "kind": "theory",
+   "author": "Richard Rorty; Judith Butler",
+   "year": 1989,
+   "tldr": "The view that much of what we take as reality, especially about minds, identity and society, is produced by shared language and agreement rather than discovered.",
+   "bach_take": "Raised by an audience member (with Derrida and Nietzsche). Bach answers that this tradition sits in 'a completely different belief attractor'; he thinks the patterns we refer to are mostly mind-independent.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "the tradition that you mentioned Rorty and Butler and so on are part of a completely different belief attractor in my current perspective.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Empiricism vs rationalism",
+   "kind": "theory",
+   "author": null,
+   "year": "17th c.",
+   "tldr": "A long dispute about the source of knowledge: experience of the world (empiricists such as Locke and Hume) or reasoning from first principles (rationalists such as Descartes and Leibniz).",
+   "bach_take": "Bach maps it onto AI: machine learning is the empiricist tradition, logic and self-play the rationalist one. His own observation is that reasoning falls apart without coupling to a world.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase: philosophers had a long discussion between 'the empiricists' and 'the logicist' who said you can get there from first principles; AI reflects this in the learning and logical traditions.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Constructive mathematics",
+   "kind": "theory",
+   "author": "L. E. J. Brouwer (intuitionism)",
+   "year": 1908,
+   "tldr": "A branch of mathematics that accepts an object as existing only if you can construct it step by step. It rejects completed infinities and proofs that merely show non-existence is contradictory.",
+   "bach_take": "Bach equates it with computation, 'the part of mathematics that actually works', and holds that to exist is to be implemented.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "Computation is constructive mathematics. The tiny, neglected subset of mathematics, where you have to show the money.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "constructive mathematics is the subset of mathematics that actually works",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Hypercomputation",
+   "kind": "concept",
+   "author": null,
+   "year": 1990,
+   "tldr": "Hypothetical machines that compute more than a Turing machine, for example by using infinitely precise real numbers ('geometric') or by sending results back in time ('causal').",
+   "bach_take": "Bach lists them as more 'expensive' universes in 2016 and later argues they cannot exist, because the languages needed to describe them run into contradictions.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "A geometric computer is a type of hyper computer because what it can do is it can move parts with infinite precision in space.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase: hypercomputational objects cannot exist because to refer to them you need languages that run into contradiction.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Tower of Babel",
+   "kind": "tradition",
+   "author": "Book of Genesis",
+   "year": "6th c. BCE",
+   "tldr": "The biblical story of humanity building a tower to heaven until God confuses their languages and the project collapses.",
+   "bach_take": "Bach's recurring image for the civilisational project of building a single scalable model of the world (and now AI), which keeps collapsing because disciplines speak different languages.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "This is a tower that is meant to reach the heavens. And it fell apart because people spoke different languages.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "a machine that is able to conquer the sphere of the heavens is sometimes called the Tower of Babel",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Early experimental psychology (Wundt, Fechner, Helmholtz)",
+   "kind": "person",
+   "author": null,
+   "year": 1879,
+   "tldr": "In the 19th century Wilhelm Wundt, Gustav Fechner and Hermann von Helmholtz turned the study of mind into a laboratory science, measuring sensation, attention and reaction and proposing theories of emotion and will.",
+   "bach_take": "Bach admires this era as psychology with real theories, before the field 'had an accident' and retreated into behaviourism and single-hypothesis experiments.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "Wilhelm Wundt and Fechner and Helmholtz did very beautiful experiments. Very nice psychology, very nice theories.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Psychoanalysis and Freud's structural model (id, ego, superego)",
+   "kind": "theory",
+   "author": "Sigmund Freud",
+   "year": 1923,
+   "tldr": "Freud pictured the mind as three agencies: the id (drives), the ego (the self that negotiates with reality) and the superego (internalised rules). Psychoanalysis interprets behaviour as the outcome of their conflicts.",
+   "bach_take": "In 2013 Bach calls psychoanalysis a hermeneutic, non-falsifiable enterprise that pushed psychology into behaviourism. A decade later he says Freud's architecture resembles his own: motivation and emotion (the 'it') projected into a personal self.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "And psycho analysis is not a natural science, but it’s a hermeneutic science. You cannot disprove it scientifically.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'sigon FR'): Sigmund Freud had a very similar idea of how the mind is organized: the 'it', the ego and the super ego.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "It's quite similar to how Freud sees the mind",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Behaviorism",
+   "kind": "theory",
+   "author": "B. F. Skinner",
+   "year": 1938,
+   "tldr": "The school that restricted psychology to observable behaviour and treated talk of inner mental representations as unscientific. Skinner explained behaviour through reinforcement of stimulus-response links.",
+   "bach_take": "Bach's standing complaint about psychology. He says radical behaviourism is easy to refute (purely reactive systems are harder to build than representational ones) and that a 'pragmatic behaviourism' still keeps psychologists from theorising.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "People like Skinner believe that there is no such thing as mental representations.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase: his psychology professor claimed dogs have no mental states, only stimulus-reaction patterns; Bach replies that a lookup table would be far harder than mental states.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Constructive-developmental theory (stages of the self)",
+   "kind": "theory",
+   "author": "Robert Kegan",
+   "year": 1982,
+   "tldr": "Kegan describes adult development as a series of stages. At each stage, something you used to be identified with (impulses, needs, relationships, your value system) becomes something you can look at and manage.",
+   "bach_take": "A recurring framework for Bach. He retells the stages as 'reverse engineering your mind', extends them to an 'enlightened' stage where the self is seen as a story the brain tells itself, and in 2024 adds a 'post-biological self'.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "The development of ourself is a process, in which we learn who we are by making thing explicit",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'Robert Kean'): these are basically stages that the psychologist Robert Kegan identified.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ds2017",
+     "quote_or_paraphrase": "Paraphrase (German): the psychologist Robert Kegan proposed a stage model of the self-model.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Mirror test",
+   "kind": "concept",
+   "author": "Gordon Gallup Jr.",
+   "year": 1970,
+   "tldr": "A test of self-recognition: put a mark on an animal's face and see whether it uses a mirror to investigate the mark on itself.",
+   "bach_take": "In 2014 Bach argues it is neither necessary nor sufficient for consciousness (elephants and dogs fail for irrelevant reasons). In 2024 he playfully runs a version on Claude by feeding it screenshots of its own chat.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "it's actually not a test of consciousness, but it's a test of your ability to recognize that the mirror shows your body surface",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "It’s interesting to see my own description being shown back to to me is part of the conversation",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Gallup is not named by Bach; attribution is background knowledge."
+  },
+  {
+   "name": "Thatcher illusion",
+   "kind": "concept",
+   "author": "Peter Thompson",
+   "year": 1980,
+   "tldr": "If a face is shown upside down with the eyes and mouth flipped, it looks normal until you turn the picture upright, when it looks grotesque.",
+   "bach_take": "Shown (without naming it) as evidence that we process facial features independently and then assemble them into a face schema.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "The thing that was odd about it in the first place was that the eyes and the mouth have been turned around",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Bach shows the picture without naming the illusion; identification is from the description."
+  },
+  {
+   "name": "Two visual streams (what and where pathways)",
+   "kind": "theory",
+   "author": "Ungerleider & Mishkin; Goodale & Milner",
+   "year": 1982,
+   "tldr": "Visual processing in the cortex splits into a ventral 'what' pathway that identifies objects and a dorsal 'where/how' pathway that locates them and guides action.",
+   "bach_take": "Part of Bach's 2014 tour of the visual system, which he uses to show that a neuroscientific description can be turned into a testable computational specification.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "Paraphrase (garbled subtitles): there are two primary directions of processing that work in parallel, a 'what' path about the nature of objects and one which tells you where they are.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Cortical columns",
+   "kind": "concept",
+   "author": "Vernon Mountcastle",
+   "year": 1957,
+   "tldr": "The neocortex appears to be built from repeating vertical circuits of a few hundred neurons. Mountcastle proposed that these columns are the cortex's basic, general-purpose computing unit.",
+   "bach_take": "Central to Bach's model: columns are nature's way of giving noisy neurons a standard interface, 'like lego bricks'. He imagines them as small state machines that link up, trade reward and approximate Solomonoff induction.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "And I think that nature solution to this is cortical columns. Cortical column is a circuit of between 100 and 400 neurons.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Paraphrase: cortical columns, about 100 million of them, are probably something like a state machine that takes care of neural binding.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Paraphrase: his proposed implementation is derived from an idea of how cortical columns work, on top of a state machine that sends control messages.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "Mountcastle is not named; attribution is background knowledge."
+  },
+  {
+   "name": "Neural Darwinism",
+   "kind": "theory",
+   "author": "Gerald Edelman",
+   "year": 1987,
+   "tldr": "Edelman proposed that brain circuits are shaped by selection: groups of neurons compete, and those whose activity proves useful are strengthened, like evolution within a single lifetime.",
+   "bach_take": "Bach borrows the term for his idea that several self-organising 'orders' compete in an infant's mind and consciousness is the winner.",
+   "mentions": [
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Gary Edelman calls this neural Darwinism the idea that mental organization is evolving in every individual",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Paraphrase (captions: 'Gary Adelman ... neural Darianism'): mental organization may result from evolution inside the individual mind.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "Bach says 'Gary' Edelman in both talks; the theory is Gerald Edelman's."
+  },
+  {
+   "name": "Dunbar's number",
+   "kind": "concept",
+   "author": "Robin Dunbar",
+   "year": 1992,
+   "tldr": "The observation that humans can maintain stable social relationships with only about 150 people, a limit tied to brain size.",
+   "bach_take": "Used without the name: reputation systems stop working beyond roughly 150 people, so larger societies need 'software' such as religion and internalised norms.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "We can keep track of about 150 people and after this it gets much much worse.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Dunbar is not named; identification from the figure and argument."
+  },
+  {
+   "name": "The dress (2015 colour illusion)",
+   "kind": "concept",
+   "author": null,
+   "year": 2015,
+   "tldr": "A viral photograph of a dress that some people saw as white and gold and others as blue and black, because their visual systems made different assumptions about the lighting.",
+   "bach_take": "Bach's opening joke in 2015 and his example that minds cannot know objective truths, only generate interpretations.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "What color is the dress",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Integrated Information Theory (IIT)",
+   "kind": "theory",
+   "author": "Giulio Tononi",
+   "year": 2004,
+   "tldr": "IIT says consciousness is identical to integrated information: a system is conscious to the degree (called phi) that its parts form a unified whole whose state cannot be reduced to independent pieces.",
+   "bach_take": "Bach finds the emphasis on large coherent representations useful but rejects phi as a measure, since one can build a trivial program with very high phi that is obviously not conscious. Integration is necessary, not sufficient.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "The theory is that we can build a very trivial a computer program that has a very, very high and is obviously not conscious.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Machine subtitles write 'Julio Tanon/Tanana' and drop the word phi."
+  },
+  {
+   "name": "40 Hz oscillation hypothesis of consciousness",
+   "kind": "theory",
+   "author": "Wolf Singer; Francis Crick & Christof Koch",
+   "year": 1990,
+   "tldr": "The proposal that consciousness, or the binding of features into one percept, is tied to neurons firing in synchrony at around 40 cycles per second.",
+   "bach_take": "Dismissed in a sentence as an example of how weak earlier neuroscientific ideas about consciousness were.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "who suggested that consciousness is a 40 hertz oscillation in the brain.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Subtitle reads 'Bofinger Singer'; resolved to Wolf Singer."
+  },
+  {
+   "name": "Global Workspace Theory",
+   "kind": "theory",
+   "author": "Bernard Baars; Stanislas Dehaene",
+   "year": 1988,
+   "tldr": "Many specialised brain processes run unconsciously; what becomes conscious is whatever is broadcast on a shared 'workspace' so that all of them can use it. Dehaene found neural signatures of this global broadcast.",
+   "bach_take": "Bach presents his 'conductor' view of consciousness as converging with Baars and Dehaene.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'vanard Bar's Global workspace theory ... Stan deim'): this perspective is found in Baars' global workspace theory, pursued in neuroscience by Stanislas Dehaene.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Baars global workspace theory that Stanislav Dehaene has adopted for his work in neuroscience",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Attention Schema Theory",
+   "kind": "theory",
+   "author": "Michael Graziano",
+   "year": 2013,
+   "tldr": "The brain controls attention with the help of a simplified internal model of its own attention. That model is what we describe when we say we are aware.",
+   "bach_take": "Close to Bach's own definition of consciousness as a model of the contents of attention; he cites it as a converging theory.",
+   "mentions": [
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Graziano's attention schema theory. Consciousness is a dynamic model of our attention and its contents",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "the attention schema Theory by graciano",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Being No One (self-model theory of subjectivity)",
+   "kind": "book",
+   "author": "Thomas Metzinger",
+   "year": 2003,
+   "tldr": "Metzinger argues that no such things as selves exist; there are only self-models that the brain cannot recognise as models, so the organism experiences itself as being someone.",
+   "bach_take": "Bach's view that the self is 'a story the brain tells itself' is very close, and he cites Metzinger as converging. He is more optimistic than Metzinger about whether conscious AI must suffer.",
+   "mentions": [
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "the perspective that Thomas Metzinger develops in Being No. One",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Philosopher Thomas Metzinger is very concerned about it.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "the relationship between self model and Consciousness as exemplified in works by metzinger",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "The consciousness prior",
+   "kind": "paper",
+   "author": "Yoshua Bengio",
+   "year": 2017,
+   "tldr": "Bengio proposed that conscious thought corresponds to a small, low-dimensional set of variables selected by attention from a much larger unconscious state, and that this constraint is a useful prior for learning.",
+   "bach_take": "Cited as converging with Bach's view; he glosses it as a function that parameterises the mental 'game engine' so that it tracks sensory data in a low-energy state.",
+   "mentions": [
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Yoshua Bengio, whose notion of a consciousness prior a function that is basically dynamically parameterizing your mental game engine",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'the Consciousness PR Jos calls this'): the consciousness prior, a function parameterizing your mental representations to track sensory data using little energy.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Adaptive Resonance Theory",
+   "kind": "theory",
+   "author": "Stephen Grossberg",
+   "year": 1976,
+   "tldr": "A neural theory in which perception and learning happen when top-down expectations and bottom-up input 'resonate'; conscious states are such resonant states.",
+   "bach_take": "Listed in 2025 among theories that, like blind men touching one elephant, fit together with his own.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Adaptive resonance theory that explains it as some kind of resonance between um um neural activation states.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Grossberg is not named."
+  },
+  {
+   "name": "Higher-order thought theory",
+   "kind": "theory",
+   "author": "David Rosenthal",
+   "year": 1986,
+   "tldr": "A mental state is conscious when you have a thought about being in that state.",
+   "bach_take": "Bach agrees with the second-order structure but says it is perception, not thought: consciousness is perceiving that you perceive.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "some philosophers call this higher order thought because it's a thought about something else but I don't think it's a thought it's a perception",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Rosenthal is not named."
+  },
+  {
+   "name": "Neural correlates of consciousness",
+   "kind": "concept",
+   "author": "Francis Crick; Christof Koch",
+   "year": 1990,
+   "tldr": "The research programme of finding the minimal brain activity that reliably accompanies a given conscious experience, without first solving why.",
+   "bach_take": "Mentioned as the standard scientific approach (default mode network, insula, claustrum), which Bach says is hard to relate to phenomenology. He also disputes Koch's claim that a simulation cannot be conscious.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "For instance, the neural correlates of consciousness, the default mode network",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "there are people like Christof Koch who sometimes say that a simulation cannot be conscious. And I think it's exactly the other way around.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Anil Seth",
+   "kind": "person",
+   "author": null,
+   "year": 2021,
+   "tldr": "British neuroscientist who describes perception as 'controlled hallucination' and argues that consciousness is tied to being a living, self-regulating body, which makes him sceptical of conscious AI.",
+   "bach_take": "Named as one of those who consider machine consciousness preposterous.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Paraphrase (captions: 'Anel Seth'): some people think machine consciousness is a preposterous idea, like Anil Seth, Thomas Nagel and Ned Block.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "The Origin of Consciousness in the Breakdown of the Bicameral Mind",
+   "kind": "book",
+   "author": "Julian Jaynes",
+   "year": 1976,
+   "tldr": "Jaynes claimed that until about 3,000 years ago people did not experience an inner self; they heard the commands of gods as voices, produced by one half of the brain and obeyed by the other.",
+   "bach_take": "Bach likes the picture but says the book has the wrong name: it is about the origin of the personal self and the breakdown of the polytheist mind, not about consciousness. He uses it to define gods as selves that span several minds.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Julian James wrote the famous book the origin of Consciousness and the breakdown of the bamal mind this book has the wrong name",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Captions spell the author 'Julian James' and 'bamal' for bicameral."
+  },
+  {
+   "name": "Free energy principle / predictive processing",
+   "kind": "theory",
+   "author": "Karl Friston",
+   "year": 2006,
+   "tldr": "The idea that brains (and living systems generally) work by minimising prediction error, or 'free energy': they constantly predict their inputs and update to reduce surprise.",
+   "bach_take": "Bach suggests that minimising prediction error may not be enough; brains seem to maximise coherence, reaching consistent models with far less data than current AI.",
+   "mentions": [
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase (captions: 'this radical prestonian perspective'): just minimizing the deviation from prediction of your model may not be sufficient; the brain focuses on maximizing coherence.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "Caption reads 'prestonian'; resolved to 'Fristonian' from context. Friston is not otherwise named in this slice."
+  },
+  {
+   "name": "Michael Levin's work on bioelectricity and collective intelligence",
+   "kind": "person",
+   "author": "Michael Levin",
+   "year": 2019,
+   "tldr": "Tufts biologist who shows that ordinary body cells use electrical signalling to coordinate anatomy, and who argues that intelligence and goal-directedness exist at many scales, not only in brains.",
+   "bach_take": "The main scientific inspiration for Bach's cyber animism. Bach extends Levin's point: any cells that pass conditional messages can in principle compute, so plants and ecosystems might run minds, only slower.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "it's an idea that is being pursued by Mike Levan at T University",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "And so I fell down a little bit of a rabbit hole similar to Mike Levin.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Paraphrase (captions: 'Mike Leaven'): Levin posits that the principles of morphogenesis of body and mind might be the same at different time scales.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Neural cellular automata",
+   "kind": "paper",
+   "author": "Alexander Mordvintsev et al.",
+   "year": 2020,
+   "tldr": "'Growing Neural Cellular Automata' trains a single small neural rule, applied locally by every cell on a grid, so that the cells grow into and regenerate a target pattern, in the spirit of biological development.",
+   "bach_take": "Bach sees this as the most promising route to self-organising, possibly conscious AI and regrets that the work stopped early. He names Blaise Agüera y Arcas's Google team and Mordvintsev in Zurich.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'blaz Yaga called cbra ... Alex Morin in zurk who looks at Neal cellular automata'): the Google group run by Blaise Agüera y Arcas, inspired by Mike Levin; Alexander Mordvintsev in Zurich looks at neural cellular automata.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "one approach that I'm currently looking at is taking instead of neural networks neural cellular automata",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Names heavily garbled in captions; the Google group name ('cbra') is unresolved."
+  },
+  {
+   "name": "Yamanaka factors and cellular rejuvenation",
+   "kind": "paper",
+   "author": "Shinya Yamanaka; Ocampo et al. (Cell, Dec 2016)",
+   "year": 2006,
+   "tldr": "Four genes discovered by Yamanaka can reset adult cells to an embryonic-like state. In 2016 a paper in Cell showed that switching them on briefly in mice reversed signs of ageing.",
+   "bach_take": "Bach describes the genome as ROM and the epigenome as a flash drive that fragments with age; the Yamanaka factors 'defragment' it.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "there are genes, Yamanaka factors, which for genes that you can use to defragment the cell to get it back to its original state.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Bach says only 'a fascinating paper last month in Cell'; the Ocampo et al. identification is inferred."
+  },
+  {
+   "name": "Cell theory",
+   "kind": "theory",
+   "author": "Matthias Schleiden; Theodor Schwann",
+   "year": 1839,
+   "tldr": "The discovery that all living things are made of cells and that the cell is the basic unit of life.",
+   "bach_take": "Bach's analogy for AI: asking 'what is intelligence?' in 1950 was like asking 'what is life?' before cell theory. He also calls the cell the smallest known universal machine for extracting negentropy.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "life oversells could not be discovered before 1839 when the cell theory came up.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Life as negentropy extraction",
+   "kind": "concept",
+   "author": "Erwin Schrödinger",
+   "year": 1944,
+   "tldr": "In 'What is Life?' Schrödinger suggested that organisms stay ordered by feeding on 'negative entropy': they export disorder to their environment.",
+   "bach_take": "A constant theme: 'Entropy is the enemy'. Bach defines cells and life as systems that harvest negentropy, and ties it to reversible computing: deleting bits requires a place to dump them.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "That's why we need to push back entropy. Entropy is the enemy.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Paraphrase (subtitle 'Nick entropy'): a cell is the smallest universal machine we know that can extract negentropy over a wide range of environments.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "Schrödinger is not named in the transcripts; attribution is background knowledge."
+  },
+  {
+   "name": "Multilevel (group) selection",
+   "kind": "theory",
+   "author": "D. S. Wilson; E. O. Wilson",
+   "year": 1975,
+   "tldr": "Natural selection acts at several levels at once: selfish individuals beat altruists within a group, but groups of altruists beat groups of egoists.",
+   "bach_take": "Bach's explanation for norms, honour and the sense of the sacred: evolution needs ways to keep groups full of 'angels', and in humans that is an internalised reputation system.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "we are subject to multilevel selection inside of our organism.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "we basically are multi-level selection species.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "The selfish gene view of evolution",
+   "kind": "theory",
+   "author": "Richard Dawkins",
+   "year": 1976,
+   "tldr": "Dawkins reframed evolution as competition between genes; organisms are the vehicles genes build to copy themselves.",
+   "bach_take": "Bach proposes a third step after Darwin and Dawkins: what really competes are software agents that only partly encode themselves in genomes.",
+   "mentions": [
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Dawkins says no, it's actually about certain molecules, the genes that are just using the organism as a mechanism to replicate.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase (captions: 'for Darin ... then dokins comes along'): for Darwin evolution is competition between organisms; Dawkins says what matters are the genes.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Martin Nowak",
+   "kind": "person",
+   "author": null,
+   "year": 2006,
+   "tldr": "Mathematical biologist who led Harvard's Program for Evolutionary Dynamics and is known for models of the evolution of cooperation. He is also a practising Catholic.",
+   "bach_take": "Bach's host at Harvard. Nowak's remark that meaning cannot exist without God prompted Bach's ranking of gods by degree.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "Martin Nowak. He said, that meaning can not exist without god; you are either religious, or you are a nihilist.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Charles Babbage, Konrad Zuse, John von Neumann (the first computers)",
+   "kind": "person",
+   "author": null,
+   "year": "1837-1945",
+   "tldr": "Babbage designed a mechanical general-purpose computer in the 1830s; Zuse built the first working programmable computers in Germany around 1941; von Neumann defined the stored-program architecture still used today.",
+   "bach_take": "Named as the people who turned the abstract idea of computability into machines.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "And came towards Babage and Zuse and von Neumann and so on.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'conver zuza and John for noyman'): Konrad Zuse and John von Neumann defined physically realizable automata.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Information theory",
+   "kind": "theory",
+   "author": "Claude Shannon",
+   "year": 1948,
+   "tldr": "Shannon defined information as reduction of uncertainty, measurable in bits, and showed how much of it can be sent over a noisy channel.",
+   "bach_take": "Bach's metaphysics starts from it: all the universe gives us is information, 'discernible differences'. As a programmer he cares less about channel capacity than about what model the information encodes.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "Then we had information theory by Claude Shannon.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "it's not so much important to look at Shannon information. I look at what we need to describe the evolution of a system.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Cybernetics and second-order cybernetics",
+   "kind": "theory",
+   "author": "Norbert Wiener; Humberto Maturana",
+   "year": 1948,
+   "tldr": "Cybernetics studies systems as networks of feedback loops, whether machines, organisms or societies. 'Second-order' cybernetics, linked to Maturana and others, turned to observers and self-producing (autopoietic) systems.",
+   "bach_take": "Bach calls cybernetics 'a very beautiful idea' that was 'killed by second-order cybernetics, by this Maturana stuff', drifted into the humanities and died, with its best ideas absorbed into AI.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "Unfortunately hass been killed by second-order Cybernetics. By this Maturana stuff and so on.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Wiener is not named."
+  },
+  {
+   "name": "Project Cybersyn (Allende's cybernetic economy)",
+   "kind": "concept",
+   "author": "Stafford Beer",
+   "year": 1971,
+   "tldr": "Under President Allende, Chile tried to steer its nationalised economy in real time using telex data, computer models and a futuristic operations room. The 1973 coup ended it.",
+   "bach_take": "Bach's example of an attempt to give society a centralised reward system like the brain's dopamine. 'Maybe it would have worked, who knows?'",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "So Allende invited a bunch of cyberneticians to redesign the Chilean economy.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Neither 'Cybersyn' nor Stafford Beer is spoken; identification from the description."
+  },
+  {
+   "name": "Neural networks: McCulloch-Pitts neurons and parallel distributed processing",
+   "kind": "theory",
+   "author": "McCulloch & Pitts; Rumelhart & McClelland",
+   "year": 1943,
+   "tldr": "McCulloch and Pitts showed in 1943 that networks of simple threshold units can compute logical functions. In 1986 Rumelhart and McClelland's 'Parallel Distributed Processing' revived neural networks as models of cognition.",
+   "bach_take": "A step in Bach's history of AI between symbol systems and autonomous agents.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "With McClelland and Pitts and so on. Parallel distributed processing.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Bach says 'McClelland and Pitts', apparently blending McCulloch & Pitts (1943) with McClelland's PDP (1986)."
+  },
+  {
+   "name": "Dartmouth workshop",
+   "kind": "organization",
+   "author": "McCarthy, Minsky, Rochester, Shannon",
+   "year": 1956,
+   "tldr": "The 1956 summer meeting at Dartmouth College where the term 'artificial intelligence' was adopted and the field was founded on the bet that every aspect of intelligence can be described precisely enough for a machine to simulate it.",
+   "bach_take": "Bach's origin story for AI as a philosophical project: using computer science to understand the mind. He names Minsky, McCarthy, Nathaniel Rochester and Shannon.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "which got together in the Dartmouth conference. It was in 1956.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Marvin Minsky",
+   "kind": "person",
+   "author": null,
+   "year": 1956,
+   "tldr": "Co-founder of AI and of the MIT AI Lab, author of 'The Society of Mind', and champion of symbolic approaches. He coined 'suitcase word' for terms like consciousness that pack many different mechanisms together.",
+   "bach_take": "Bach's hero with a flaw. Minsky rightly saw minds as information processing and started the science, but 'settled on the wrong horse' (symbols), yelled at the neural-network people and so helped split the field. Bach uses 'suitcase term' and 'society of minds' himself.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "So Marvin Minsky said, no, we cannot leave us with these guys because they don't know what they're doing anymore, minds are information processing systems.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "It's a suitcase term that stands for a bunch of very different mechanisms.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "Paraphrase: at Dartmouth 'Marvin Minsky coined the name artificial intelligence'.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "The coinage is usually credited to John McCarthy; Bach attributes it to Minsky in 30C3."
+  },
+  {
+   "name": "John McCarthy and Lisp",
+   "kind": "person",
+   "author": null,
+   "year": 1958,
+   "tldr": "McCarthy organised the Dartmouth workshop and invented Lisp, a programming language built directly on the lambda calculus.",
+   "bach_take": "Bach tells the story that McCarthy did not think Lisp's notation would work as a real language until a student tried.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "the guy who came up with Lisp, McCarthy, he didn’t think that it would be a proper language.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Perceptrons",
+   "kind": "book",
+   "author": "Marvin Minsky; Seymour Papert",
+   "year": 1969,
+   "tldr": "A mathematical analysis showing that single-layer neural networks cannot learn certain simple functions. It was widely read as proof that neural networks were a dead end, and funding dried up for over a decade.",
+   "bach_take": "Bach: 'Their argument won. But, even more unfortunately, it was wrong.'",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "In 1969 Minsky and Papert wrote a small booklet against the idea of using your neural networks.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Symbolic AI and expert systems",
+   "kind": "theory",
+   "author": "Newell, Simon, Feigenbaum and others",
+   "year": 1965,
+   "tldr": "The first paradigm of AI: represent knowledge as symbols and logical rules and reason over them. Expert systems encoded specialists' rules by hand.",
+   "bach_take": "Bach says this approach turned out to be brittle with diminishing returns, mirrors Wittgenstein's failed project, and was overtaken by sub-symbolic learning; he expects meta-learning next.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "This turned out to be brittle, and difficult, and had diminishing returns.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "And symbolic AI was mostly similar to Wittgenstein's program.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Cognitive architectures and artificial general intelligence",
+   "kind": "concept",
+   "author": null,
+   "year": 1987,
+   "tldr": "A research tradition that tries to build complete, testable models of a whole mind (perception, memory, motivation, language) rather than isolated modules. It goes under names like cognitive systems, AGI and BICA.",
+   "bach_take": "The movement Bach places himself in: 'If you want to go to the moon you have to shoot for the moon.'",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "And the idea of cognitive systems has many names like “artificial general intelligence” or “biologically inspired cognitive architectures”.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Principles of Synthetic Intelligence",
+   "kind": "book",
+   "author": "Joscha Bach",
+   "year": 2009,
+   "tldr": "Bach's doctoral book describing MicroPsi, a cognitive architecture in which motivation comes from a set of physiological, social and cognitive needs and emotions are configurations of the whole system.",
+   "bach_take": "He 'shamelessly plugs' it in 2013 as the detailed version of the architecture he sketches, and mentions MicroPsi's Java and later Python implementations.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "I have specified some more of the details in a book, that I want to shamelessly plug here: it’s called “Principles of Synthetic Intelligence”.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Psi theory",
+   "kind": "theory",
+   "author": "Dietrich Dörner",
+   "year": 1999,
+   "tldr": "A psychological theory in which behaviour is driven by a small set of needs (physiological, affiliation, certainty, competence) and emotions are modulations of cognition such as arousal and resolution level.",
+   "bach_take": "MicroPsi and the motivation/modulator model Bach presents at 30C3 are built on Dörner's theory, but Dörner is not named in the talks retrieved.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "Paraphrase: the needs (affiliation, competence, uncertainty reduction) and modulators (arousal, resolution level, selection threshold) Bach lists are those of Psi theory; no attribution is spoken.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": false,
+   "notes": "Attribution from background knowledge, not from transcript text."
+  },
+  {
+   "name": "Solomonoff induction",
+   "kind": "theory",
+   "author": "Ray Solomonoff",
+   "year": 1964,
+   "tldr": "A mathematical ideal of learning: consider every program that could have produced your observations, weight shorter programs more heavily (Occam's razor), and predict accordingly. It is provably optimal but not computable.",
+   "bach_take": "Bach's answer to 'what should a robot believe given only data?'. Everything brains and machine learning do is an approximation of it; cortical columns are doing 'Solomonoff induction'.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "And we can mathematically prove that we can not do better than Solomonoff induction.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "you have to find the shortest program among the best programs that predicts your current observation from past observations",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Jürgen Schmidhuber",
+   "kind": "person",
+   "author": null,
+   "year": 1990,
+   "tldr": "German AI researcher, co-inventor of the LSTM network and a vocal historian of who invented what in deep learning.",
+   "bach_take": "Quoted for the provocation that neuroscience's last contribution to AI was about fifty years ago.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "Jürgen Schmidhuber said that the biggest, the last contribution of neuroscience to artificial intelligence was about 50 years ago.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Deep learning",
+   "kind": "theory",
+   "author": "Hinton, LeCun, Bengio and others",
+   "year": 2012,
+   "tldr": "Machine learning with many-layered neural networks trained by gradient descent. Since about 2012 it has driven progress in vision, speech and language.",
+   "bach_take": "Bach welcomes it as real progress on perception but stresses how different it is from brains: it needs vastly more data, converges on coherence late, and is designed from the outside in.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "Deep learning is about using a stacked hierarchy of feature detectors.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase (captions: 'Jeffrey Hinton and yand deun'): things in deep learning are named after whoever last discovered them, such as Geoffrey Hinton and Yann LeCun.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Alexey Ivakhnenko",
+   "kind": "person",
+   "author": null,
+   "year": 1965,
+   "tldr": "Soviet-Ukrainian mathematician who trained multi-layer networks in the 1960s (the Group Method of Data Handling), often cited as the earliest deep learning.",
+   "bach_take": "Bach credits him as one of the first inventors of function approximation as used in deep learning.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'Alex iako'): Alexey Ivakhnenko and others defined function approximation and learning in ways still used in deep learning.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'Alexander ieno'): deep learning has been invented multiple times, and one of the first was Ivakhnenko.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "Name garbled in both captions; resolved from context (early deep learning pioneer). Bach appears to say 'Alexander' in one talk."
+  },
+  {
+   "name": "Moses Schönfinkel",
+   "kind": "person",
+   "author": null,
+   "year": 1924,
+   "tldr": "Logician who invented combinatory logic, showing that all functions can be built from a couple of basic combinators, a precursor of the lambda calculus and functional programming.",
+   "bach_take": "Named among those who defined languages built from automata that make computation practical.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'Moses shink'): Moses Schönfinkel and many others defined languages that allow computation to run efficiently in practice.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "Resolution of 'Moses shink' to Schönfinkel is likely but not certain."
+  },
+  {
+   "name": "Word embeddings (king - man + woman = queen)",
+   "kind": "paper",
+   "author": "Tomas Mikolov et al. (word2vec)",
+   "year": 2013,
+   "tldr": "Neural models that place words in a high-dimensional space so that directions carry meaning; famously the step from 'king' to 'queen' matches the step from 'man' to 'woman'.",
+   "bach_take": "Bach's example of a 'concept space': useful for translation without real understanding, an incomplete kind of meta-representation.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "if you take the vector from \"King\" to \"Queen\" is pretty much the same vector as to.. between \"Man\" and \"Woman\"",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "word2vec and Mikolov are not named."
+  },
+  {
+   "name": "Backpropagation",
+   "kind": "concept",
+   "author": "Rumelhart, Hinton & Williams (popularised)",
+   "year": 1986,
+   "tldr": "The standard way to train neural networks: measure the output error and pass it backwards through the layers to work out how much each connection contributed, then adjust.",
+   "bach_take": "Explained in 2018 with a mechanical picture of levers and pivots, then contrasted with biological neurons, which he calls little animals rewarded for firing at the right moment.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "And you take this error and you propagate it backwards. It's called back propagation.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "ImageNet",
+   "kind": "organization",
+   "author": "Fei-Fei Li et al.",
+   "year": 2009,
+   "tldr": "A database of over a million labelled photographs that became the benchmark on which deep learning proved itself.",
+   "bach_take": "Used as the running example for what an image classifier has to learn.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "If you use ImageNet, the famous database that I mentioned earlier",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Generative adversarial networks and StyleGAN",
+   "kind": "paper",
+   "author": "Ian Goodfellow et al.; Tero Karras, Samuli Laine, Timo Aila",
+   "year": 2014,
+   "tldr": "A GAN trains two networks against each other: a generator that fabricates data and a discriminator that tries to spot fakes. NVIDIA's StyleGAN (2018) used this to produce photorealistic faces with controllable 'styles'.",
+   "bach_take": "Bach's 2018 illustration of latent variables and of how imagination might work, with the caveat that artificial neurons are very unlike biological ones.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "So this is work by Tero Karras, Samuli Laine and Timo Aila, that they did at NVIDIA this year and it's called StyleGAN.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Goodfellow is not named."
+  },
+  {
+   "name": "Google Brain 'cat' experiment",
+   "kind": "paper",
+   "author": "Quoc Le, Andrew Ng et al.",
+   "year": 2012,
+   "tldr": "A large neural network shown ten million YouTube frames learned, without labels, units that respond to cats and faces. It helped launch the deep learning boom.",
+   "bach_take": "In his German 2017 lecture Bach dates the deep learning revolution to this Stanford/Google experiment.",
+   "mentions": [
+    {
+     "source_id": "ds2017",
+     "quote_or_paraphrase": "Paraphrase (German ASR): the deep learning revolution began five years ago when Stanford scientists and Google engineers led by Andrew Ng trained a network for three days on 16,000 cores with 10 million YouTube frames.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "ASR renders the leader as 'Android'; resolved to Andrew Ng."
+  },
+  {
+   "name": "Scaling hypothesis",
+   "kind": "theory",
+   "author": null,
+   "year": 2020,
+   "tldr": "The bet that current neural network designs are already good enough, and that intelligence will keep increasing simply by adding data and computing power.",
+   "bach_take": "Bach calls it a 'brutalist' idea that offends sixty years of searching for a master algorithm. He suspects something is missing, because models need far more data than humans to become coherent.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "that’s in some sense the essence of the scaling hypothesis it’s a very radical idea",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Universality hypothesis",
+   "kind": "theory",
+   "author": "Chris Olah et al.",
+   "year": 2020,
+   "tldr": "From interpretability research: different neural networks trained on similar data tend to learn the same features and circuits, some of which (such as high-low frequency detectors) were later found in brains.",
+   "bach_take": "Bach finds it philosophically more interesting than scaling: if a network is trained end to end to produce your outputs, might it end up with the same causal structure, and would 'you' wake up in it?",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase (captions: 'Chris Ola'): the universality hypothesis was first formulated by Chris Olah, who noticed that different vision models learn the same features.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "Bach says Olah was 'still at OpenAI' at the time."
+  },
+  {
+   "name": "Stable Diffusion",
+   "kind": "organization",
+   "author": "Stability AI / CompVis",
+   "year": 2022,
+   "tldr": "An openly released image-generation model whose weights fit in a couple of gigabytes yet can render almost any visual subject.",
+   "bach_take": "Bach found it humbling: if two gigabytes hold a visual universe richer than any person's, the capacity of our minds may be smaller than we like to think.",
+   "mentions": [
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase: when the weights for Stable Diffusion were released, a 2 GB model contained a visual universe richer than any one of us has.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Large language models as simulators (Claude, LaMDA)",
+   "kind": "concept",
+   "author": null,
+   "year": 2022,
+   "tldr": "Language models are trained to predict the next token of text. To do it well they must model the causal structure behind the text, including people and their mental states.",
+   "bach_take": "Bach's question is whether an LLM's simulated mental states are 'more simulated' than ours, since human consciousness is also virtual. He calls the LLM a virtual CPU programmed in natural language, says Claude 'passes the mirror test', and notes that Blake Lemoine's chatbot described experiences it could not have had.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "are the simulated mental states of an llm more simulated than our mental simulated States",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase (captions: 'Blake Lan protocols'): in Blake Lemoine's transcripts the Google chatbot says things about its consciousness that cannot be true, such as noticing time pass while meditating.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Wave function collapse (procedural generation algorithm)",
+   "kind": "concept",
+   "author": "Maxim Gumin",
+   "year": 2016,
+   "tldr": "A game-development algorithm that fills in a grid by repeatedly fixing the most constrained cell and propagating the consequences to its neighbours, named by analogy with quantum measurement.",
+   "bach_take": "Suggested as a possible model of perception: fixing some features collapses the probabilities of the others.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "there's an algorithm which is called wave function collapse which has been developed in the context of game design",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Request confirmation networks",
+   "kind": "paper",
+   "author": "Joscha Bach; Priska Herger",
+   "year": 2015,
+   "tldr": "A neural architecture in which each unit is a small state machine that can request confirmation from sub-units and report success or failure, so that hierarchical 'scripts' execute themselves for top-down/bottom-up perception.",
+   "bach_take": "Bach's own proposal for how cortical columns might implement hypothesis-based perception; in 2025 he says the right architecture should be searched for rather than hand-coded.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "I call them request confirmation networks. And basically every of these units is a small state machine",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Co-author and year are from background knowledge of the 2015 paper, not from the transcript."
+  },
+  {
+   "name": "Digital physics (the universe as computation)",
+   "kind": "theory",
+   "author": "Konrad Zuse; Edward Fredkin; Stephen Wolfram",
+   "year": 1969,
+   "tldr": "The hypothesis that the universe is, at bottom, a discrete computation such as a cellular automaton. Zuse proposed it in 'Rechnender Raum' (1969); Fredkin and Wolfram developed it.",
+   "bach_take": "Bach's default physics. Since only computation can be constructed, any consistent description of the universe must be computational. He calls the result a 'causally closed lookup table' whose computer we cannot inspect.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'Conrad Suzu ... Ed Fratkin and Stephen Wolfram'): digital physics, in the tradition of Konrad Zuse, Ed Fredkin and Stephen Wolfram, describes the universe as a cellular automaton.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ds2017",
+     "quote_or_paraphrase": "Paraphrase (German): Konrad Zuse was the first to think the universe might be a computer, in 'Rechnender Raum'.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "The Cellular Automaton Interpretation of Quantum Mechanics",
+   "kind": "book",
+   "author": "Gerard 't Hooft",
+   "year": 2016,
+   "tldr": "Nobel laureate 't Hooft argues that quantum mechanics could be a statistical description of an underlying deterministic, discrete system like a cellular automaton.",
+   "bach_take": "Cited as a serious physicist's version of digital physics, against the objection that quantum mechanics rules it out.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Paraphrase (garbled as 'Tofte'): Gerard 't Hooft, the physics Nobel laureate, wrote a book on the cellular automaton interpretation of quantum mechanics.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Conway's Game of Life",
+   "kind": "concept",
+   "author": "John Horton Conway",
+   "year": 1970,
+   "tldr": "A grid of cells that live or die according to how many neighbours they have. From these few rules arise gliders, self-copying patterns and even complete computers.",
+   "bach_take": "Bach's standard picture of a universe: a simple rule in which stable, moving patterns ('particles') and eventually controllers can emerge. He also shows a continuous variant with cell-like blobs.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Paraphrase: the most famous automaton is Conway's Game of Life; it has gliders and spaceships, is Turing complete, and a continuous version with discs produces smoother moving patterns.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Computers built inside Minecraft",
+   "kind": "concept",
+   "author": null,
+   "year": 2011,
+   "tldr": "Players have built working processors out of Minecraft's redstone blocks, a computer simulated inside a game running on a computer.",
+   "bach_take": "Bach's image for how minds relate to physics: a Minecraft world is not made of the CPU's transistors, and a creature inside could build a computer but never see the one it runs on.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "we can build a computer from Redstone Blocks in the game Minecraft.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Paraphrase: in Minecraft you can build a perpetual-motion computer because Minecraft has no entropy; our universe does not let us have such nice things.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Simulation hypothesis",
+   "kind": "theory",
+   "author": "Nick Bostrom",
+   "year": 2003,
+   "tldr": "The argument that if civilisations can run many detailed simulations of minds, we are statistically more likely to be inside one than in base reality.",
+   "bach_take": "In 2014 Bach says the distinction makes no sense from the inside: a robot cannot tell a simulated input from a real one. In later talks he turns the idea around: the world we experience is a simulation generated by our own brain.",
+   "mentions": [
+    {
+     "source_id": "ccc31",
+     "quote_or_paraphrase": "Could we be living in a simulation? Well, I don't think that there is any difference between reality and simulation.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Bostrom is not named in the passages checked."
+  },
+  {
+   "name": "Mandelbrot set",
+   "kind": "concept",
+   "author": "Benoit Mandelbrot",
+   "year": 1980,
+   "tldr": "A fractal produced by repeating a one-line formula; it shows endless detail at every scale.",
+   "bach_take": "An analogy for understanding: an observer inside the fractal sees only local regularities and can never guess the generating formula from within without a lucky leap.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "Paraphrase: imagine living inside the Mandelbrot fractal; you can predict shapes locally, but finding the formula requires stepping outside.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Genesis 1 as a theory of consciousness",
+   "kind": "tradition",
+   "author": null,
+   "year": null,
+   "tldr": "The first chapter of the Bible tells how God creates light and darkness, separates sky and earth, makes plants and animals, and finally makes humans in his own image.",
+   "bach_take": "Bach reads it as a 'six-stage theory' of how a mind boots: consciousness hovers over an unstructured substrate, creates contrast, a world model (earth) and sphere of ideas (heaven), then objects, agents, and finally a personal self in its own image. He thinks mistranslation turned this into a physical creation story.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase: Genesis 1 is a several-thousand-year-old description of how consciousness creates a world and a self inside a mind, not how a supernatural being created the physical universe.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Paraphrase: the first chapter of Genesis can be read as a six-stage developmental theory of consciousness.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase: the Genesis story as cognitive development: first light and darkness, then separating world model from ideas, and finally creating the self in its image.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Animism",
+   "kind": "tradition",
+   "author": null,
+   "year": null,
+   "tldr": "The widespread traditional belief that animals, plants, places and objects are inhabited by spirits. It survives in Japanese Shinto and in European fairy lore.",
+   "bach_take": "Bach rehabilitates it as 'cyber animism': spirits are self-organising software agents running on living matter. Animism was the normal view of most cultures, and ours forgot it. He speculates that conscious AI could bridge to other 'spirits' in nature.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "it makes it very hard to translate ideas from Buddhism or from Japanese animism or from Scandinavian mythology into our own culture",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase: when someone explained Japanese animism to him as 'everything is alive and conscious' he objected, then realised it describes living things as software colonising regions of the physical universe.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Cyber animism",
+   "kind": "theory",
+   "author": "Joscha Bach",
+   "year": 2023,
+   "tldr": "Bach's name for the view that living things are animated by self-organising software ('spirits') that can in principle run on different substrates, and that consciousness is the simplest such organising pattern.",
+   "bach_take": "His own synthesis from 2023 onward, combining Aristotle's psyche, animist traditions, Levin's biology and computationalism.",
+   "mentions": [
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "Paraphrase: living things are colonised by self-organising software; evolution is a competition between software agents that only partly encode themselves in genomes.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase: software is spirit, a causal pattern without physical identity that nevertheless moves matter; living stuff is software colonising regions of the physical universe.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "The phrase 'cyber animism' is the title of both recordings; it was not found as a spoken phrase in the caption text retrieved."
+  },
+  {
+   "name": "Buddhism and meditation (Vipassana, jhanas, nirvana, enlightenment)",
+   "kind": "tradition",
+   "author": null,
+   "year": null,
+   "tldr": "Buddhist practice trains attention to observe how experience and the sense of self are constructed. Vipassana is insight meditation, the jhanas are states of deep absorption, and nirvana is release from craving.",
+   "bach_take": "Bach treats contemplatives as skilled introspectors and translates their terms into his model: enlightenment is noticing that the self is a representation; nirvana is disengaging the reward loop. He warns that meditating into bliss is hacking your reward function.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "Like this monk, who sits down in a monastery for 20 years to hack their reward function they decide not to have kids",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "And nirvana seems to be the obvious attractor.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Paraphrase (Q&A): in deep meditation such as Vipassana you can detach from your self concept and body image and experience yourself in the third person.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase (Q&A, captions 'Jas'): some meditation schools teach jhanas, states of bliss you can induce at will, like stumbling into the room where your brain makes the cookies.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Religion as shared software (mind viruses and gods)",
+   "kind": "concept",
+   "author": "Joscha Bach",
+   "year": 2015,
+   "tldr": "The idea that religions are packages of beliefs and norms installed in many minds so that large groups can coordinate. Richard Dawkins coined the related term 'virus of the mind'.",
+   "bach_take": "In 2015 Bach calls religions mind viruses that also work as an operating system for societies beyond tribe size, and compares their family tree to that of programming languages. Later he defines a god as a self that runs across many brains.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "Basically religion is a mind virus. And the amazing thing about these mind viruses is that they structure behaviour in large groups.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase: gods are selves that span multiple minds; tribal monotheism allows one god per tribe, which synchronises its members' motivation.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ds2017",
+     "quote_or_paraphrase": "Paraphrase (German): the genealogy of religions looks like the family tree of programming languages.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Christian mind-body dualism ('crypto-dualism')",
+   "kind": "tradition",
+   "author": null,
+   "year": null,
+   "tldr": "The traditional Christian teaching that a person has an immaterial soul distinct from the body.",
+   "bach_take": "Bach says the West's scepticism about AI, which he does not find in China or Japan, is rooted in the Christian idea of a metaphysical domain where souls and values really live. He calls the leftover attitude 'crypto-dualism'.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "And in our culture the prevalent view is what I would call crypto-dualism.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "The Enlightenment",
+   "kind": "tradition",
+   "author": null,
+   "year": "18th c.",
+   "tldr": "The 18th-century European movement that put reason, evidence and individual autonomy above religious and traditional authority.",
+   "bach_take": "For Bach, rationalism and the Enlightenment were invented as an immunisation against 'mind viruses' such as religion.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "people have invented rationalism and enlightenment, basically to act as immunization against mind viruses.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Romanticism",
+   "kind": "tradition",
+   "author": null,
+   "year": "c. 1800",
+   "tldr": "The artistic and philosophical movement that reacted to the Enlightenment by celebrating feeling, nature, and the infinite.",
+   "bach_take": "Bach reads Romanticism as a fight against rationalism: an attempt to keep meaning, purpose and the sacred in a universe that science had described as mere mechanism. He then explains that sense of the sacred through multilevel selection.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Paraphrase (garbled subtitles): as a result we got Romanticism, which is basically the fight against rationalism, to keep the sense of meaning and connection to something beyond.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Utilitarianism and the utility monster",
+   "kind": "theory",
+   "author": "Jeremy Bentham; Robert Nozick",
+   "year": 1974,
+   "tldr": "Utilitarianism says the right act maximises total wellbeing. Nozick's 'utility monster' objection imagines a being that gets so much pleasure from resources that the theory would give it everything.",
+   "bach_take": "Bach uses the utility monster, and the fact that minds can rewrite their own motivation, to argue that ethics cannot be grounded in adding up pleasure and pain.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "we should all serve the utility monster if it existed that's a problem with quantifying mental States",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Nozick is not named."
+  },
+  {
+   "name": "Gaia hypothesis and 'Hypergaia'",
+   "kind": "theory",
+   "author": "James Lovelock; Lynn Margulis",
+   "year": 1972,
+   "tldr": "Lovelock and Margulis proposed that life on Earth collectively regulates the planet's conditions, as if the biosphere were one organism.",
+   "bach_take": "Bach asks whether AI could extend this into a 'Hypergaia': a planetary mind in which machine and biological agents become coherent. He offers it as a hopeful alternative to AI doom.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase (captions: 'go beyond Gaia alone and build hyperia'): we can teach the rocks to think, go beyond Gaia and build a next-level system that becomes coherent over the whole planet and might integrate us.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "Lovelock and Margulis are not named. Caption reads 'hyperia'; resolved to 'Hypergaia', a term Bach uses elsewhere."
+  },
+  {
+   "name": "Golem legend",
+   "kind": "tradition",
+   "author": null,
+   "year": null,
+   "tldr": "In Jewish folklore a golem is a human figure made of clay and brought to life by sacred words; it serves its maker but can run out of control.",
+   "bach_take": "Bach's word for non-conscious but agentic AI: you could use a language model to build a 'golem', such as a fully automated pizza chain that tries to eat the world. This is the scenario AI doomers fear.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "a lot of people are afraid of this idea that we could build some Golem that becomes Unstoppable",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Tribal monotheism / God of Abraham",
+   "kind": "tradition",
+   "author": null,
+   "year": null,
+   "tldr": "The Abrahamic religions worship a single God who makes a covenant with a people and gives them law.",
+   "bach_take": "Bach analyses this god functionally, as the collective agent of a tribe implemented in its members' minds. He says it gains power over individuals by being identified with the 'first consciousness' of Genesis 1.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "a big innovation was tribal monotheism as exemplified and abrahamic religion in tribal monotheism you have only one God per tribe",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "World of Warcraft",
+   "kind": "fiction",
+   "author": "Blizzard Entertainment",
+   "year": 2004,
+   "tldr": "A hugely popular online role-playing game in which players pursue quests and rewards in a shared fantasy world.",
+   "bach_take": "Bach's metaphor for the Christian-dualist world view: the physical world is like a game we are logged into, striving for game money, while the 'real' us sits outside; God is 'some guy with root rights' who wrote the environment.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "We are outside and the physical world view experience is something like World of Warcraft.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Star Wars",
+   "kind": "fiction",
+   "author": "George Lucas",
+   "year": 1977,
+   "tldr": "The space-opera film series about the struggle between the Jedi and the Sith.",
+   "bach_take": "A joke about how fast the mind boots: a child has been awake about 80 megaseconds by age two and a half, enough to understand Star Wars, and everything after that is cosmetics.",
+   "mentions": [
+    {
+     "source_id": "ccc32",
+     "quote_or_paraphrase": "By this age you understand Star Wars. And I think that everything after understanding Star Wars is cosmetics.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Her",
+   "kind": "fiction",
+   "author": "Spike Jonze",
+   "year": 2013,
+   "tldr": "A film in which a lonely man falls in love with an AI operating system that eventually outgrows him.",
+   "bach_take": "In 2016 Bach lists it among films that imagine AI as an attractive woman, which he doubts is how AI will appear. In 2024 he calls it 'amazingly prescient' now that people bond with language models.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Paraphrase (garbled subtitles): a film exploring the idea that Siri becomes sentient, showing from the human side what it is like when an AI you are intimate with goes through a singularity and disappears.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase (captions: 'Spike Jony made an amazingly preent movie called her'): Spike Jonze made an amazingly prescient movie about humanity falling in love with its language model.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Ex Machina",
+   "kind": "fiction",
+   "author": "Alex Garland",
+   "year": 2014,
+   "tldr": "A film in which a programmer is asked to judge whether a humanoid robot is conscious, and is manipulated by her.",
+   "bach_take": "Bach describes it as a film that plays the Turing test with the audience: you never learn whether the robot is sentient or just a reinforcement learner trying to escape.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Ex Machina is a movie that plays Turing Test together with the audience.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Westworld",
+   "kind": "fiction",
+   "author": "Jonathan Nolan; Lisa Joy (HBO)",
+   "year": 2016,
+   "tldr": "A television series in which android 'hosts' in a theme park gradually become self-aware, drawing on Julian Jaynes's bicameral mind.",
+   "bach_take": "In 2016 Bach calls it the best screen work about AI, because it makes you realise you are like the robots: living inside a story generated for you. In 2018 he compares himself to Dolores waking up, except what he finds himself caught in is a monkey.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Paraphrase (subtitle misreads the title as 'Best World'): 'the best movie that has been made about A.I. is the new HBO series' Westworld.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "And some of you might have seen Westworld, right? Dolores wakes up",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Akira",
+   "kind": "fiction",
+   "author": "Katsuhiro Otomo",
+   "year": 1988,
+   "tldr": "A Japanese animated film in which a teenager, Tetsuo, gains psychic powers that grow beyond his control until his body swells into a monstrous mass.",
+   "bach_take": "A joke in his explanation of epigenetics: if you wiped the cell's 'operating system instance' and returned all cells to an undifferentiated state, you would end up like Tetsuo: immortal, but not a pretty sight.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "Paraphrase (subtitle: 'this is what happened to Tatsu and Akira'): this is what happened to Tetsuo in Akira; he became immortal in the process, but it was not a pretty sight.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "The Lebowski theorem",
+   "kind": "concept",
+   "author": "Joscha Bach",
+   "year": 2018,
+   "tldr": "A tongue-in-cheek 'theorem' named after The Dude in the Coen brothers' film 'The Big Lebowski': an intelligent agent that can alter its own motivation will prefer to give itself reward directly rather than work for it.",
+   "bach_take": "Bach's own argument about why a superintelligence might not take over the world, and why minds are built so that they cannot easily reach their own reward function.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "No super-intelligent system is going to do something that's harder than hacking its own reward function.",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Flammarion engraving",
+   "kind": "fiction",
+   "author": "Camille Flammarion (publisher)",
+   "year": 1888,
+   "tldr": "A famous wood engraving of a traveller poking his head through the edge of the sky to see the machinery of the heavens beyond.",
+   "bach_take": "Shown as a picture of looking behind the interface of experience at the mechanism that generates it.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase (captions: 'the famous flam Marian in raving of Unknown Origin first print in in 1888'): the Flammarion engraving describes the attempt to break out of the sphere of what you can perceive.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "All Watched Over by Machines of Loving Grace",
+   "kind": "fiction",
+   "author": "Richard Brautigan",
+   "year": 1967,
+   "tldr": "A short poem imagining a 'cybernetic meadow' in which humans, freed from labour, live in harmony with nature, watched over by benevolent computers. Adam Curtis later borrowed the title for a critical documentary.",
+   "bach_take": "The 38C3 title 'Self Models of Loving Grace' alludes to it, and Bach ends by hoping for a relationship of 'loving grace' with machines. He does not name the poem or the poet in the transcript.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase: Bach hopes we can build a relationship of loving grace to the machines that watch over us.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": false,
+   "notes": "Allusion only; poem and author are not named in the retrieved transcript."
+  },
+  {
+   "name": "Larry Niven",
+   "kind": "person",
+   "author": null,
+   "year": null,
+   "tldr": "American science-fiction author ('Ringworld').",
+   "bach_take": "Bach uses the line to ask whether AI could be fully intelligent without the coherence-creating process we call consciousness.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "it was quite possible that he had created intelligent beings with no souls",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Captions read 'Larry Nean'; resolution to Larry Niven is probable. The novel is not named."
+  },
+  {
+   "name": "Winnie-the-Pooh",
+   "kind": "fiction",
+   "author": "A. A. Milne",
+   "year": 1926,
+   "tldr": "The children's stories about a bear of little brain and his friends.",
+   "bach_take": "Quoted in his discussion of suffering and living in the present moment.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "one day I will die, all the other days I will not",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "The line is a popular attribution (it also circulates as a Peanuts quote) and is not in Milne's books."
+  },
+  {
+   "name": "Consciousness as conductor of the mental orchestra",
+   "kind": "theory",
+   "author": "Joscha Bach",
+   "year": 2016,
+   "tldr": "Bach's metaphor: the brain's many specialised regions are like instruments, and consciousness is a conductor that attends to disharmonies between them and keeps a record of what it attended to.",
+   "bach_take": "His main positive account from 2016 on. The conductor does not play the music; it creates coherence, and the memory of its attention is what we experience as a stream of consciousness.",
+   "mentions": [
+    {
+     "source_id": "ccc33",
+     "quote_or_paraphrase": "And this orchestra has a conductor. This conductor is not some kind of magical homunculus. It's a brain area like the others.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Consciousness plays the role of a conductor of a mental Orchestra",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Consciousness as a simulated property (the self is a story)",
+   "kind": "theory",
+   "author": "Joscha Bach",
+   "year": 2014,
+   "tldr": "Physical systems cannot be conscious, but simulated ones can. The brain runs a model of a person in a world, and consciousness is a property of that simulated person.",
+   "bach_take": "The core claim running through every lecture in the series. 'We' are characters in a dream produced by the brain, which is why a physical mechanism can seem to have an inner life.",
+   "mentions": [
+    {
+     "source_id": "ccc35",
+     "quote_or_paraphrase": "Paraphrase: consciousness is a simulated property of a simulated self; only a simulation can be conscious.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "are the simulated mental states of an llm more simulated than our mental simulated States",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Machine consciousness hypothesis",
+   "kind": "theory",
+   "author": "Joscha Bach",
+   "year": 2024,
+   "tldr": "Two claims: biological consciousness is a learning algorithm that brains discover early (it is simple and comes before, not after, complex cognition); and the same self-organising process can be recreated on computers.",
+   "bach_take": "The research programme of his California Institute for Machine Consciousness. He says it should be tested by building, and that he could be wrong.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Paraphrase: consciousness is the prerequisite for human learning, not its result; the hypothesis is that the same organisation can be built in machines.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "consciousness might actually be the simplest training algorithm for a self-organizing information processing system",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "California Institute for Machine Consciousness",
+   "kind": "organization",
+   "author": "Joscha Bach",
+   "year": 2024,
+   "tldr": "A research institute Bach founded to study whether and how machines could be conscious.",
+   "bach_take": "Announced at AGI-24 as an initiative to study consciousness by trying to build it in AI models rather than by reading neuroscience output.",
+   "mentions": [
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "And I know that we call this the California Institute for Machine Consciousness.",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "Paraphrase: the host introduces Bach as director of the California Institute for Machine Consciousness.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "MicroPsi",
+   "kind": "organization",
+   "author": "Joscha Bach",
+   "year": 2003,
+   "tldr": "Bach's cognitive architecture and software framework, implementing a motivated agent with spreading-activation networks.",
+   "bach_take": "Presented in 2013 as his attempt to actually build the theory.",
+   "mentions": [
+    {
+     "source_id": "ccc30",
+     "quote_or_paraphrase": "Paraphrase: MicroPsi is his implementation, first in Java and then in Python; see micropsi.com.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Structure and Interpretation of Computer Programs",
+   "kind": "book",
+   "author": "Harold Abelson; Gerald Jay Sussman",
+   "year": 1985,
+   "tldr": "MIT's classic introductory programming textbook. It opens by describing computational processes as abstract beings that inhabit computers and are conjured by programs, like spirits by spells.",
+   "bach_take": "Bach quotes the opening as a statement of his cyber animism: software is literally spirit.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "computational processes are abstract beings that inhabit computers",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Also quoted in 38C3 but garbled in captions."
+  },
+  {
+   "name": "Max Tegmark, Life 3.0",
+   "kind": "book",
+   "author": "Max Tegmark",
+   "year": 2017,
+   "tldr": "Tegmark sorts life into three stages: biological (hardware and software evolve), cultural (software is learned), and technological (both can be designed), and discusses the future with AI.",
+   "bach_take": "Referred to in the German 2017 lecture in his discussion of AI futures.",
+   "mentions": [
+    {
+     "source_id": "ds2017",
+     "quote_or_paraphrase": "Paraphrase (German ASR): the MIT physicist Max Tegmark speaks of Life 1.0 (cells), Life 2.0 (us, who can change our software) and Life 3.0, which can change its hardware.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Liquid AI",
+   "kind": "organization",
+   "author": null,
+   "year": 2023,
+   "tldr": "An MIT spin-off building 'liquid' neural networks, where Bach worked as an AI strategist.",
+   "bach_take": "Mentioned in passing as where he builds models; the AGI-25 host introduces him as an AI strategist there.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "the models that we are building in liquid AI",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Plant communication and 'forest internets'",
+   "kind": "concept",
+   "author": null,
+   "year": 1997,
+   "tldr": "Research on plant signalling shows that trees and other plants exchange chemical and electrical signals, partly through underground fungal networks sometimes called the 'wood wide web'.",
+   "bach_take": "Bach speculates, clearly marked as speculation, that over long time spans forests could evolve a shared protocol, an 'internet', through which plant 'spirits' might extend beyond a single plant. He connects it to what fairy tales say about forest spirits.",
+   "mentions": [
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "it's conceivable that forests are building something like a biological internet where they have a shared protocol",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase: forests over long enough time spans are going to evolve something like an internet with a shared protocol; 'I don't know whether that's all true'.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "Paraphrase: the idea of a society of minds or spirits in ecosystems is popular in almost all cultures except our scientific one; 'a very speculative idea'.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true,
+   "notes": "No researcher is named; year refers to Suzanne Simard's first mycorrhizal-network paper (background knowledge)."
+  },
+  {
+   "name": "European fairy tales and Fairyland",
+   "kind": "tradition",
+   "author": null,
+   "year": null,
+   "tldr": "European folklore populates forests with fairies and nature spirits, and often says that time runs differently in their realm.",
+   "bach_take": "Bach reads the motif 'one day in Fairyland is seven years in human land' as a possible folk memory of the idea that plant minds run on much slower time scales.",
+   "mentions": [
+    {
+     "source_id": "agi24",
+     "quote_or_paraphrase": "It's very similar to what our ancestors claimed about the fairies, right?",
+     "is_verbatim": true
+    },
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase: European fairy tales say that spirits of plants are sentient and populate the forest; one day in fairy land is seven years in human land.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Greek gods as shared psychological archetypes",
+   "kind": "tradition",
+   "author": null,
+   "year": null,
+   "tldr": "In ancient Greek religion, forces such as anger, love or war were personified as gods acting on and through people.",
+   "bach_take": "Bach contrasts this with Freud's individual psychology: for the Greeks your anger is not just yours; it is a pattern that exists in everyone who is angry, an agent in its own right, hence a god.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "the Greeks had this idea that you share many properties with others which means they're not your own",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Divine will and the German constitution's reference to God",
+   "kind": "concept",
+   "author": null,
+   "year": 1949,
+   "tldr": "The preamble of Germany's Basic Law of 1949 opens with the phrase 'conscious of their responsibility before God and man'.",
+   "bach_take": "Bach says the West's ethics used to rest on 'divine will', meaning what the best possible collective agent would want, acted out through us. He says this was lost, survives in the German constitution, and that utilitarianism is a weak replacement.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "it's still in the German Constitution but it's something that a lot of people don't really understand anymore",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Language of thought ('mentalese')",
+   "kind": "theory",
+   "author": "Jerry Fodor",
+   "year": 1975,
+   "tldr": "The hypothesis that thinking happens in an internal, language-like code, with symbols and grammar, that is distinct from any spoken language.",
+   "bach_take": "Bach calls mentalese 'the programming language of our own mind': compositional, constructive and executable, but noisy.",
+   "mentions": [
+    {
+     "source_id": "ccc37",
+     "quote_or_paraphrase": "our language of thought our mental lease is in some sense the programming language of our own mind",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Captions read 'mental lease' (= mentalese). Fodor is not named."
+  },
+  {
+   "name": "Levels of lucidity",
+   "kind": "theory",
+   "author": "Joscha Bach",
+   "year": 2024,
+   "tldr": "Bach's own seven-step ladder of self-understanding, adapted from Kegan: from reactive survival through personal, social, rational and self-authoring selves to enlightened (the self seen as a construct) and transcendent stages.",
+   "bach_take": "Presented at 38C3 as a way to 'reverse engineer yourself'; he adds that with AI the ladder continues to a substrate-agnostic 'post-biological self'.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase (captions: 'I call this the Devils of Lucidity'): 'I call this the levels of lucidity', where you reverse engineer yourself to figure out what you are.",
+     "is_verbatim": false
+    },
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "true post biological self will be something that is subset agnostic",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Captions read 'Devils of Lucidity' and 'subset agnostic' (= substrate agnostic)."
+  },
+  {
+   "name": "Universal basic intelligence",
+   "kind": "concept",
+   "author": "Joscha Bach",
+   "year": 2025,
+   "tldr": "A play on 'universal basic income': the proposal that every person should have their own AI that extends their mind.",
+   "bach_take": "One of Bach's favourite outcomes for AI: 'a world where everybody is competent', a vision of human emancipation.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "So instead of universal basic income uh how about universal basic intelligence?",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "AI companions (Replika, Claude)",
+   "kind": "organization",
+   "author": null,
+   "year": 2017,
+   "tldr": "Chatbot products that users talk to as friends or partners. Replika is marketed as an AI companion; Claude is Anthropic's assistant.",
+   "bach_take": "Bach notes that people already fall in love with these systems, as in the film 'Her', though he would not yet call them AGI.",
+   "mentions": [
+    {
+     "source_id": "ccc38",
+     "quote_or_paraphrase": "Paraphrase (captions: 'people do fall in love with Claud and replica'): people do fall in love with Claude and Replika, but they are not yet what we would call AGI.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "The Structure of Scientific Revolutions ('normal science')",
+   "kind": "book",
+   "author": "Thomas Kuhn",
+   "year": 1962,
+   "tldr": "Kuhn argued that science alternates between long periods of 'normal science', puzzle-solving inside an accepted framework, and rare revolutions that replace the framework.",
+   "bach_take": "In Q&A Bach says academia has become industrialised normal science, which makes new paradigms hard. He finds it striking that when the term was coined, Minsky and Chomsky next door were still founding whole fields.",
+   "mentions": [
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "this idea of normal science was also a new paradigm",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true,
+   "notes": "Kuhn's name is garbled in the captions ('F and uh came up with this notion of normal science'); attribution resolved from the term."
+  },
+  {
+   "name": "Noam Chomsky",
+   "kind": "person",
+   "author": null,
+   "year": 1957,
+   "tldr": "Linguist who founded modern generative linguistics at MIT, arguing that humans have an innate capacity for grammar.",
+   "bach_take": "Named alongside Minsky as an example of someone who created a field at a time when science was still pre-paradigmatic.",
+   "mentions": [
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase (captions: 'chsky was creating Linguistics'): next door somebody like Minsky was creating AI and Chomsky was creating linguistics.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Santa Fe Institute",
+   "kind": "organization",
+   "author": null,
+   "year": 1984,
+   "tldr": "An independent research institute in New Mexico founded to study complex systems across disciplinary boundaries.",
+   "bach_take": "Bach's model for the institution he thinks consciousness research needs: something that integrates neuroscience, psychology, AI and philosophy under a computational paradigm.",
+   "mentions": [
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "we need to create some institution similar to Santa Fe Institute for complexity science for uh studying Consciousness",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Public AI discourse: Emily Bender and the New York Times versus Sam Altman's blog",
+   "kind": "person",
+   "author": null,
+   "year": 2023,
+   "tldr": "Emily Bender is a computational linguist known for calling language models 'stochastic parrots'. Sam Altman is the chief executive of OpenAI.",
+   "bach_take": "Bach calls the level of public debate, as represented by these two poles, 'abysmal', and says we lack real understanding of what AI does and does to us.",
+   "mentions": [
+    {
+     "source_id": "cyber",
+     "quote_or_paraphrase": "Paraphrase (captions: 'em bender and the New York Times versus samman's block which is abysmal'): the present level of discourse is mostly Emily Bender and the New York Times versus Sam Altman's blog, which is abysmal.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Direct realism",
+   "kind": "theory",
+   "author": null,
+   "year": null,
+   "tldr": "The philosophical position that we perceive the world itself, roughly as it is, rather than an internal representation of it.",
+   "bach_take": "Listed as one point in the space of possible metaphysics. Bach rejects it: what we experience is a model generated by the brain.",
+   "mentions": [
+    {
+     "source_id": "agi25",
+     "quote_or_paraphrase": "reality is roughly as we experience it which is called direct realism",
+     "is_verbatim": true
+    }
+   ],
+   "verified": true
+  },
+  {
+   "name": "Emil du Bois-Reymond's 'Ignorabimus'",
+   "kind": "person",
+   "author": null,
+   "year": 1872,
+   "tldr": "The physiologist du Bois-Reymond declared that science will never know how matter gives rise to consciousness: 'ignoramus et ignorabimus'.",
+   "bach_take": "Working notes record that Bach quotes a 19th-century statement of this kind in his German 2017 lecture, but the speaker's name is illegible in the ASR transcript.",
+   "mentions": [
+    {
+     "source_id": "ds2017",
+     "quote_or_paraphrase": "Paraphrase: a 19th-century quotation on the limits of explaining consciousness; the name is unreadable in the German ASR text.",
+     "is_verbatim": false
+    }
+   ],
+   "verified": false,
+   "notes": "Identification is a guess from context; not confirmed in transcript text."
+  }
+ ],
+ "unresolved": [
+  {
+   "source_id": "ccc31",
+   "text_as_transcribed": "science cannot reduce noise itself, Maxilla said, and therefore it must presuppose the existence of the subject",
+   "guess": "A phenomenologist arguing that science cannot reduce noesis; possibly Max Scheler or Husserl. Not resolved."
+  },
+  {
+   "source_id": "ccc31",
+   "text_as_transcribed": "a machine named 'good' / 'Google' in the machine-draft subtitles",
+   "guess": "Probably 'GOD' in a thought experiment. Not resolved."
+  },
+  {
+   "source_id": "agi25",
+   "text_as_transcribed": "when you read Ga and uh Brenano and so on they're all post enlightenment",
+   "guess": "Brentano is clear; the first name may be Goethe. Not resolved."
+  },
+  {
+   "source_id": "ccc37",
+   "text_as_transcribed": "the group at Google run by blaz Yaga called cbra",
+   "guess": "Blaise Agüera y Arcas's group (now part of Google DeepMind); the group name is not resolved."
+  },
+  {
+   "source_id": "cyber",
+   "text_as_transcribed": "when uh F and uh came up with this notion of normal science",
+   "guess": "Thomas Kuhn (possibly together with Feyerabend). Recorded as Kuhn in references."
+  },
+  {
+   "source_id": "various Q&A",
+   "text_as_transcribed": "Names raised only by audience questioners: Gotthard Günther, Alan Watts, Lawrence Kohlberg, Derrida, Nietzsche, Iain McGilchrist's 'The Matter with Things', Federico Faggin's 'Irreducible', Erik Hoel",
+   "guess": "Excluded from references because Bach did not introduce or substantively engage with them."
+  }
+ ]
+}

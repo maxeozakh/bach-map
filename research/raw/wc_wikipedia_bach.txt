@@ -1,0 +1,166 @@
+Joscha Bach - Wikipedia
+Jump to content
+ From Wikipedia, the free encyclopedia
+ German cognitive scientist (born 1973)
+[[Osnabrück University]] ([[PhD]])"},"death_date":{"wt":""},"death_place":{"wt":""},"other_names":{"wt":""},"fields":{"wt":"[[Cognitive Science]] <br /> [[Artificial Intelligence]] <br /> [[Computer Science]]"},"years_active":{"wt":""},"workplaces":{"wt":"[[Intel]] <br /> [[AI Foundation]] <br /> [[Harvard]] <br /> [[MIT Media Lab]]"},"thesis_title":{"wt":"Principles of Synthetic Intelligence; Building Blocks for an Architecture of Motivated Cognition"},"thesis_year":{"wt":"2006"},"thesis_url":{"wt":"http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"},"doctoral_advisor":{"wt":"[[Dietrich Dörner]] <br /> Kai-Uwe Kühnberger <br />Hans-Dieter Burkhard"},"spouse":{"wt":""},"partner":{"wt":""},"children":{"wt":""},"website":{"wt":"{{URL|http://bach.ai/}}"}},"i":0}}]}'>Joscha Bach
+Bach in 2013
+Born (1973-12-21) 21 December 1973 (age 52)
+Weimar, East Germany
+EducationHumboldt University of Berlin (MA)
+Osnabrück University (PhD)Scientific careerFieldsCognitive Science 
+ Artificial Intelligence 
+ Computer ScienceWorkplacesIntel 
+ AI Foundation 
+ Harvard 
+ MIT Media LabThesisPrinciples of Synthetic Intelligence; Building Blocks for an Architecture of Motivated Cognition (2006)Doctoral advisor
+Dietrich Dörner 
+ Kai-Uwe Kühnberger 
+Hans-Dieter Burkhard
+Websitebach.ai
+Joscha Bach (born 21 December 1973) is a German cognitive scientist, AI researcher, and philosopher known for his work on cognitive architectures, artificial intelligence, mental representation, emotion, social modeling, multi-agent systems, and philosophy of mind. His research aims to bridge cognitive science and AI by studying how human intelligence and consciousness can be modeled computationally. He has faced recent controversy for his email correspondences with convicted sex offender Jeffrey Epstein.
+Early life and education
+[edit]
+Bach was born in Weimar, East Germany, and displayed an early interest in philosophy, artificial intelligence, and cognitive science.[1] He received an MA (computer science) from Humboldt University of Berlin in 2000 and a PhD (cognitive science) from Osnabrück University in 2006,[2][3] where he conducted research on emotion modeling and artificial minds. His doctoral work focused on developing MicroPsi, a cognitive architecture designed to simulate human-like reasoning and decision-making processes.[1]
+Career
+[edit]
+After completing his PhD, Bach focused his research on cognitive architectures and theory of mind. He has held positions in both academic and industrial research, contributing to both theoretical and applied AI.[4] His work frequently explores the boundaries of AI systems, questioning the limits of current machine learning technologies and addressing how future systems might achieve general intelligence.[5][6][7]
+Bach has worked in several prestigious institutions, including Martin Nowak's Harvard Program for Evolutionary Dynamics (PED).[8] He has also held research positions at the MIT Media Lab[9] and has served as a vice president of research at AI Foundation, where he has focused on developing AI systems capable of more sophisticated, human-like interactions.[10]
+In 2025, he was listed as executive director of the California Institute for Machine Consciousness.[11]
+Research and contributions
+[edit]
+Joscha Bach's research is largely centered on cognitive architectures—computational models that attempt to replicate aspects of human cognition.[12]
+Cyber animism
+[edit]
+Joscha Bach's concept of "Cyber Animism" proposes that consciousness may be a form of self-organizing software that exists not only in human brains but potentially in artificial systems and throughout nature. This idea revives ancient animist notions about spirits in nature but reinterprets them through a modern computational lens. Bach suggests that consciousness could be a kind of software running in the brain, and wonders if similar "programs" might exist in plants or even entire ecosystems. He draws parallels between the self-organizing principles observed in biology and the potential for similar processes to occur in artificial intelligence systems, leading to the emergence of consciousness. Bach argues in favor of blurring the lines between human, artificial, and natural intelligence. He believes that consciousness might be more widespread and interconnected than what was ever thought possible. The concept also suggests that ancient concepts of 'spirits' may actually refer to self-organizing software agents, and that consciousness itself could be a simple training algorithm for such systems.[13]
+Principles of synthetic intelligence
+[edit]
+In his book, Principles of synthetic intelligence, Bach outlines the foundational principles of synthetic cognition, discussing how cognitive architectures could be designed to replicate human thought processes.[5]
+MicroPsi
+[edit]
+MicroPsi is a cognitive architecture that models how agents think and act based on perception, emotion, and goal-driven behavior. Bach designed MicroPsi to simulate human-like reasoning and decision-making, contributing to AI systems that can navigate complex, real-world environments.[14]
+Theories of consciousness
+[edit]
+Bach is known for his discussions on the nature of consciousness and the computational modeling of subjective experience.[5] He argues that consciousness emerges from an information-processing system capable of creating internal models of itself and the world. He emphasizes the importance of mental models, emotional frameworks, and meta-cognition in the construction of conscious AI.[3]
+Bach argues that only simulations can be conscious and that a "physical system cannot by itself be conscious; only the simulation it runs can possess consciousness". This frames consciousness as a software-like pattern generated by an internal model rather than a substrate property of matter.[15]
+Consciousness and free will
+[edit]
+Bach suggests that consciousness is an emergent property of highly complex information-processing systems that develop internal models of themselves and the world around them.[16][1] He often debates whether free will truly exists or is merely a byproduct of predictive models constructed by our brains—a question with implications for future AI systems.[17] Bach even argues that especially advanced AIs may no longer have a good use for conscious awareness anymore, possibly rendering the universe "very boring".[1]
+Philosophical views
+[edit]
+Bach's interests extend beyond AI and cognitive science to touch on deeper questions about consciousness, free will, the nature of reality, and the future of humanity in an age of intelligent machines.[18] His work is heavily influenced by philosophical discussions about phenomenology and epistemology.[19] He frequently engages in debates on the nature of the self, arguing that the concept of the "self" is an illusion—a mental model constructed by the brain for practical purposes.[1]
+Bach envisions a future where AI might possess meta-cognition—the ability to be aware of its own thought processes and to reflect on them.[20] He suggests that while machines might achieve some level of subjective awareness, true consciousness in AI might only emerge when these systems can integrate their own experiences into a continuous narrative, much like humans do.[1]
+He asserts that while today's AI systems are powerful, they are far from general intelligence.[18] He frequently discusses the limitations of AI, asserting that current AI lacks understanding or any true conception of the world around it. He has been a prominent critic of overhyping deep learning models, advocating instead for more nuanced approaches that incorporate cognitive models, emotion modeling, and ethical considerations into AI research.[1]
+Association with Jeffrey Epstein
+[edit]
+Bach maintained a close relationship with Jeffrey Epstein from 2013 into 2019, during which Epstein funded his research and a large part of his family's living expenses.[21][22][23]
+University investigations
+[edit]
+A 2019 article in Science reported that Bach received funding from Epstein after the latter's first conviction in 2008,[24] citing a conference paper which included a funding acknowledgement to Epstein.[25] In January 2020, law firm Goodwin Procter released a report following fact-finding efforts by MIT after connections were revealed between Epstein and Joi Ito and Seth Lloyd, among other MIT faculty and staff. The report stated that Epstein had introduced Bach to Ito in 2013, that Epstein's donations in November 2013 and in July and September 2014, totaling $300,000 (roughly 40% of his post-conviction donations to MIT), were made to support Bach's research, and that the MIT Media Lab "hired Bach in large part because Epstein subsidized the cost".[26]: 10 
+In May 2020, Harvard released a report of its own fact-finding efforts. It found that Epstein had introduced Bach to Martin Nowak in 2014 and that Nowak permitted Bach access to the offices of the Program for Evolutionary Dynamics (PED) from 2014 to 2019, where Bach often met with Epstein when Epstein visited. According to the report, Harvard "never paid Bach or provided funds to support his research". Bach's primary affiliation from 2014 to 2016 was with the MIT Media Lab; after he left MIT in 2016, PED continued to list him as a research scientist until 2019. The report could not determine whether Epstein funded Bach after his departure from MIT, but noted that at least two papers Bach published afterwards acknowledged support from Epstein and PED.[27]: n. 14  Bach declined to be interviewed for the MIT inquiry and did not respond to Harvard's requests to speak with him.[26]: 10, n. 12 [27]: n. 14 
+Emails on race, gender and fascism
+[edit]
+In November 2025, the U.S. House Oversight Committee made public an email exchange between Bach and Epstein from July 2016,[28][29] which contained racist and sexist remarks by Bach as well as sympathy for fascism and eugenics.[30][31][32][33] In the emails, Epstein suggested that altering the timing of brain development might "make blacks smarter"; Bach replied "Exactly", wrote that Black children in the US have slower cognitive development, rejected the attribution of this to social factors as being "without any evidence", and suggested a developmental cause.[29][30] He also wrote that "Women tend to find abstract systems, conflicts and mechanisms intrinsically boring" and that "There are almost no women in math, because it does not help people or yield social attention."[29][31] When Epstein suggested that "maybe climate change is a good way of dealing with overpopulation", Bach replied that making child-rearing expensive "like in the west" was "a more humane way".[29][30] Responding to a remark by Epstein about mass executions of the elderly and infirm, Bach described treating society as an organism as fascism, "probably the most efficient and rationally stringent way of governance", while writing that fascism made him "very uncomfortable" and that he had visited the Buchenwald concentration camp five times.[29][33] After the emails became public, the AI company Liquid AI ended its collaboration with Bach.[23]
+Financial support
+[edit]
+Documents released by the United States Department of Justice in January 2026 as part of the Epstein files gave further detail on Epstein's support. In October 2013, after Ito told Bach that MIT could pay only $60,000 a year for his post-doctoral position and that Epstein would "cover the difference outside of the MIT relationship", Bach asked Epstein for about $100,000 a year to provide for his family in Boston.[34][35] In later years, Bach sought Epstein's money for tuition, accommodation, conference travel and his children's private school,[36][22] and passed flight bookings, school bills and monthly rent bills of $6,500 on to Epstein.[35] In January 2018 he asked Epstein to "pitch in" after his account had been emptied.[37][35] In February 2019, ahead of his family's relocation from Cambridge to California, he asked Epstein to cover moving costs and rent until his new employer could hire him, adding that he hoped "the current turmoils" were not troubling Epstein.[38][35]
+A joint investigation by ZDF, Der Spiegel and Der Standard, drawing on emails, chat logs and bank statements, put Epstein's total payments to Bach between 2013 and 2019 at more than US$1 million and found that Epstein had also put him in touch with influential scientists.[21][22][23] Bach discussed an invitation to visit Epstein in the Caribbean in 2014[36] and stayed on Epstein's private island, Little Saint James, in 2015.[22][23] Their contact continued until shortly before Epstein's arrest in July 2019.[23]
+2017 assessment of Epstein
+[edit]
+In July 2017, after Epstein invited him to share how others perceived him, Bach sent Epstein a long assessment. He noted that Epstein's Wikipedia entry opened by describing him as a sex offender, that outsiders tended to assume Epstein was "too much interested in too young girls", and that acquaintances either compartmentalized the subject or treated it as "interestingly dark and edgy".[39][35] Writer Anand Giridharadas contrasted the email with Bach's later public statement that people he trusted had assured him Epstein had reformed.[35]
+Bach's response
+[edit]
+In a November 2025 Substack post, Bach wrote that ethnicity is not causal for cognitive differences and described his remarks as part of a private discussion about neuroplasticity that was scientifically untenable.[40][23] In a February 2026 interview with Die Zeit, he called Epstein's 2008 crimes "unforgivable and inexcusable" and said that those who knew Epstein had told him he had changed his ways; he stated that he had never observed any hint of crimes or legally questionable behavior by Epstein and would have broken off all contact had he done so.[41]
+Public engagement
+[edit]
+Bach is an active participant in online discussions, podcasts, interviews, conferences, and public lectures about the nature of intelligence and consciousness and the future of AI, including TEDx and the Chaos Communication Congress.[20][42]
+See also
+[edit]
+List of people named in the Epstein files
+References
+[edit]
+1 2 3 4 5 6 7 Musser, George (4 September 2018). "The Wizard of Consciousness". Psychology Today. Retrieved 12 November 2022.
+↑ "Joscha Bach". Edge. Retrieved 12 November 2022.
+1 2 "Exciting progress in Artificial Intelligence – Joscha Bach – Science, Technology & the Future". 11 August 2020. Retrieved 12 November 2022.
+↑ "Joscha Bach: Publications". Retrieved 12 November 2022.
+1 2 3 Bach, Joscha (2009). Principles of Synthetic Intelligence: An Architecture of Motivated Cognition (PDF). Oxford University Press. ISBN 978-0195370676.
+↑ Adams, Sam; Arel, Itmar; Bach, Joscha; Coop, Robert; Furlan, Rod; Goertzel, Ben; Hall, J. Storrs; Samsonovich, Alexei; Scheutz, Matthias; Schlesinger, Matthew; Shapiro, Stuart C.; Sowa, John (15 March 2012). "Mapping the Landscape of Human-Level Artificial General Intelligence". AI Magazine. 33 (1): 25–42. doi:10.1609/aimag.v33i1.2322. ISSN 2371-9621.
+↑ Bach, Joscha (20 June 2008). "Seven Principles of Synthetic Intelligence". Proceedings of the 2008 Conference on Artificial General Intelligence 2008: Proceedings of the First AGI Conference. NLD: IOS Press: 63–74 5. ISBN 978-1-58603-833-5.{{cite journal}}: CS1 maint: periodical has ISBN (link)
+↑ Moharana, Pabitra (23 September 2024). "Joscha Bach - AI strategist at Liquid AI". Analytics India Magazine. Retrieved 16 February 2025.
+↑ "MIT Media Lab". Retrieved 12 November 2022.
+↑ "About". Retrieved 12 November 2022.
+↑ "CIMC - California Institute for Machine Consciousness". cimc.ai. Retrieved 29 December 2025.
+↑ Bach, Joscha (March 2007). "Cognitive Architectures" (PDF). Retrieved 12 November 2022.
+↑ "The case for conscious AI: Software and the self". IAI. 24 September 2024. Retrieved 9 July 2025.
+↑ Bach, Joscha (2003). "Designing Agents with MicroPsi Node Nets". Proceedings of KI 2003: 164–178.
+↑ "Joscha Bach | Speaker » IAI TV". iai.tv. Retrieved 27 December 2025.
+↑ Post, AIJ Guest (15 September 2025). "Redefining Consciousness in the Age of AI | The AI Journal". aijourn.com. Retrieved 12 December 2025.
+↑ Bach, Joscha (2019). "The Cortical Conductor Theory: Towards Addressing Consciousness in AI Models". In Samsonovich, Alexei V. (ed.). Biologically Inspired Cognitive Architectures 2018. Advances in Intelligent Systems and Computing. Vol. 848. Cham: Springer International Publishing. pp. 16–26. doi:10.1007/978-3-319-99316-4_3. ISBN 978-3-319-99316-4.
+1 2 "Philosophical Perspectives on AI". 11 August 2020. Retrieved 12 November 2022.
+↑ Bach, Joscha (2018). "The Influence of Philosophy on AI Research". AI & Society. 33: 437–445.
+1 2 "Lex Fridman Podcast #101 - Joscha Bach: Artificial Consciousness and the Nature of Reality". lexfridman.com. 13 June 2020. Retrieved 12 November 2022.
+1 2 Halbe, Jonas; Laufer, Daniel (4 February 2026). "Epstein finanzierte deutschen KI-Forscher Bach" [Epstein funded German AI researcher Bach]. ZDFheute (in German). Retrieved 14 February 2026.
+1 2 3 4 Halbe, Jonas; Laufer, Daniel (4 February 2026). "Joscha Bach: Wie ein deutscher Forscher mit Epsteins Hilfe Karriere machte" [Joscha Bach: How a German researcher built his career with Epstein's help]. Der Spiegel (in German). ISSN 2195-1349. Retrieved 5 February 2026.
+1 2 3 4 5 6 Pramer, Philip (21 January 2026). "KI-Forscher Joscha Bach: "Wäre überraschend, wenn Superintelligenz nicht machbar wäre"" [AI researcher Joscha Bach: "It would be surprising if superintelligence were not feasible"]. Der Standard (in German). Retrieved 28 October 2026.
+↑ "What kind of researcher did sex offender Jeffrey Epstein like to fund? He told Science before he died". www.science.org. Retrieved 27 December 2024.
+↑ Bach, Joscha; Gallagher, Katherine (2018). "Request Confirmation Networks in MicroPsi 2". In Iklé, Matthew; Franz, Arthur; Rzepka, Rafal; Goertzel, Ben (eds.). Artificial General Intelligence. Lecture Notes in Computer Science. Vol. 10999. Cham: Springer International Publishing. pp. 12–20. doi:10.1007/978-3-319-97676-1_2. ISBN 978-3-319-97676-1.
+1 2 Braceras, Roberto M.; Chunias, Jennifer L.; Martin, Kevin P. (10 January 2020). "Report concerning Jeffrey Epstein's Interactions with the Massachusetts Institute of Technology" (PDF). Goodwin Procter. Archived (PDF) from the original on 16 December 2024.
+1 2 Lopez, Diane E.; Gershengorn, Ara B.; Murphy, Martin F. (May 2020). "Report concerning Jeffrey E. Epstein's Connections to Harvard University" (PDF). Harvard University. Archived (PDF) from the original on 1 December 2024.
+↑ Bach, Joscha (2016). "[Emails released by United States House Committee on Oversight and Government Reform]" (PDF). Retrieved 24 November 2025.
+1 2 3 4 5 Bach, Joscha; Epstein, Jeffrey (23 July 2016). "Re: Mechanisms for learning" (PDF). United States Department of Justice. EFTA00823256. Retrieved 28 October 2026.
+1 2 3 Selig, Kate (21 November 2025). "Former MIT scientist funded by Epstein made racist and sexist claims in private emails". The Boston Globe. Retrieved 21 November 2025.
+1 2 Arsenault, Mark; Hippensteel, Chris; Hakim, Danny (21 November 2025). "The Professors Who Stayed Close With Epstein". The New York Times. Retrieved 30 December 2025. You cannot learn what does not attract your attention. Women tend to find abstract systems, conflicts and mechanisms intrinsically boring.
+↑ Ahmed, Nafeez (5 December 2025). "How Epstein Channelled Race Science and 'Climate Culling' Into Silicon Valley's AI Elite". Byline Times. Retrieved 30 December 2025.
+1 2 Giridharadas, Anand (23 November 2025). "How the Elite Behave When No One Is Watching: Inside the Epstein Emails". The New York Times.
+↑ Bach, Joscha (October 2013). "Fwd: your sa" (PDF). United States Department of Justice. EFTA01753800. Retrieved 28 October 2026.
+1 2 3 4 5 6 Giridharadas, Anand (25 March 2026). "The most overlooked Epstein email". The.Ink. Retrieved 28 October 2026.
+1 2 Council, Stephen (3 February 2026). "San Francisco AI exec had kids' Menlo Park tuition paid for by Jeffrey Epstein". SFGate.
+↑ Bach, Joscha (2 January 2018). "Re: Happy new year, and A Holiday Story for You" (PDF). United States Department of Justice. EFTA02543158. Retrieved 28 October 2026.
+↑ Bach, Joscha (14 February 2019). "Funds for moving" (PDF). United States Department of Justice. EFTA02630847. Retrieved 28 October 2026.
+↑ Bach, Joscha (7 July 2017). "Re: Joi" (PDF). United States Department of Justice. EFTA02645850. Retrieved 28 October 2026.
+↑ Bach, Joscha (28 November 2025). "On the Jeffrey Epstein Affair". Substack. Archived from the original on 1 January 2026. Retrieved 16 January 2026.
+↑ Anderl, Sibylle (14 February 2026). "Joscha Bach: "I had the feeling that his heart was dark"". Die Zeit. ISSN 0044-2070. Retrieved 17 February 2026. I would have broken off all contact had I done so.
+↑ "Joscha Bach Talks". TEDx Beacon Streat. Archived from the original on 21 June 2020. Retrieved 12 November 2022.
+External links
+[edit]
+Wikiquote has quotations related to Joscha Bach.
+Official website
+Joscha Bach publications indexed by Google Scholar
+Lex Fridman Podcast #212 – Joscha Bach: Nature of Reality, Dreams, and Consciousness
+Lex Fridman Podcast #392 – Joscha Bach: Life, Intelligence, Consciousness, AI & the Future of Humans
+Recordings of Bach's lectures at CCC conferences
+Authority control databases 
+InternationalISNI
+VIAF
+GND
+WorldCat
+NationalUnited States
+Bach, Joscha</span>"}]]}'>Czech Republic
+Netherlands
+Israel
+AcademicszbMATH
+Google Scholar
+DBLP
+PeopleDDB
+OtherIdRef
+Open Library
+Yale LUX
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Joscha_Bach&oldid=1382470688"
+ Categories: 1973 births
+Living people
+German computer scientists
+German cognitive scientists
+German artificial intelligence researchers
+Scientists from Weimar
+Humboldt University of Berlin alumni
+Osnabrück University alumni
+Hidden categories: Articles with short description
+Short description is different from Wikidata
+Use dmy dates from August 2022
+Articles with hCards
+CS1 maint: periodical has ISBN
+CS1 German-language sources (de)
+Search
+ Search
+ Joscha Bach
+4 languages
+Add topic

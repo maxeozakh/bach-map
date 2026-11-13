@@ -1,0 +1,948 @@
+# source: https://www.youtube.com/watch?v=Y1QOf6HEbHQ
+# generated=True lang=en
+[0:00:00] The only way that we can coexist with it
+[0:00:02] is if it loves
+[0:00:04] [Music]
+[0:00:08] us. Yoshak, welcome to How the Light
+[0:00:11] Gets In. Up until fairly recently,
+[0:00:13] artificial general intelligence has sort
+[0:00:14] of been decades away or seen as being
+[0:00:16] decades away. How far away do you think
+[0:00:18] we are from from AGI? And also, what do
+[0:00:20] you understand AGI to actually be?
+[0:00:23] I think in the most narrow sense, AGI is
+[0:00:25] achieved when we have an artificial
+[0:00:27] intelligence system that is better at
+[0:00:30] AGI research than people. Right? At this
+[0:00:33] point, we can leave the rest to the
+[0:00:34] machine and we'll be done.
+[0:00:38] And in a more uh wider sense I think um
+[0:00:41] we are interested in having a system
+[0:00:44] that works very much in the same as we
+[0:00:45] do as VO that is able to understand the
+[0:00:48] world that is able to relate to itself
+[0:00:50] to the environment around it that can
+[0:00:51] deeply interface with us and that can
+[0:00:54] probably also scale up because if it has
+[0:00:56] those abilities it's not constrained by
+[0:00:58] the size of its brain or by the
+[0:01:00] processing speed comparable to a human
+[0:01:02] nervous system. So it's not really
+[0:01:04] conceivable that it's going to stay at
+[0:01:06] the human level or be very humanlike for
+[0:01:08] very long. Yeah. And when you consider
+[0:01:10] it humanlike now, I don't think that the
+[0:01:14] present systems that exist are very
+[0:01:16] humanlike at all. They do produce
+[0:01:18] behavior which in some sense is similar
+[0:01:20] to human beings in the sense that it's
+[0:01:22] able to solve the Turing test for most
+[0:01:26] purposes. I think that JGPT is uh if you
+[0:01:29] are an expert in the area still not
+[0:01:31] necessarily at the level of expertise
+[0:01:33] and it does not psychologically behave
+[0:01:35] like a human being at least not out of
+[0:01:37] the box but it might be possible to
+[0:01:38] modify it some degree but at this point
+[0:01:41] it's a text generator and we have image
+[0:01:43] generators that produce uh pictures that
+[0:01:46] are uh above what most human beings can
+[0:01:49] draw and uh conceive of. And uh the
+[0:01:53] texts that u the eological language
+[0:01:55] models are writing are better than the
+[0:01:56] texts that an average human being can
+[0:01:59] write. But uh it's still very very
+[0:02:01] different from the way a human being
+[0:02:03] learns and from a how a human being
+[0:02:04] relates to the world and thinks about
+[0:02:06] the world. And so I personally don't
+[0:02:09] think that these systems are AGI yet.
+[0:02:11] Even though some people feel that you
+[0:02:13] might be getting very very close with it
+[0:02:15] and it might be possible to modify even
+[0:02:17] the existing approaches even though they
+[0:02:19] don't work like a brain at all into
+[0:02:21] something that is AGI. When I lived in
+[0:02:25] Berlin AGI was very far in the future
+[0:02:28] basically would never happen. And a lot
+[0:02:29] of people even in neuroscience are
+[0:02:31] cryptodoolists. They think that
+[0:02:33] basically minds cannot be naturalized.
+[0:02:36] It's very difficult for most people to
+[0:02:38] imagine that minds are physical system
+[0:02:41] that can be explained as some kind of
+[0:02:42] mechanism. And you obviously take that
+[0:02:44] kind of computational perspective which
+[0:02:46] is going against the grain. Why is it
+[0:02:48] that you think that you can still kind
+[0:02:49] of defend this kind of computational the
+[0:02:51] brain is a computer perspective. What is
+[0:02:53] it about it? Well, computation is a way
+[0:02:56] of looking at the world. It means that
+[0:02:57] we can describe a system by the way in
+[0:03:00] how it moves from state to state. And
+[0:03:02] when we have full control about the
+[0:03:04] state transitions and then we have a
+[0:03:06] computer, we can make that thing behave
+[0:03:08] in an arbitrary way. And I think it's a
+[0:03:11] quite deep insight. It's a way to think
+[0:03:13] about how to turn mathematics into a
+[0:03:16] machine, any kind of mathematics into
+[0:03:17] any kind of machine. And from this
+[0:03:19] perspective, everything in the world is
+[0:03:22] computational. Even the universe itself,
+[0:03:24] it's not limited to the mind itself. It
+[0:03:26] is the whole system is any kind of
+[0:03:27] dynamical system that has some kind of
+[0:03:29] causal structure is in this perspective
+[0:03:31] computational is just a more precise way
+[0:03:34] of thinking about language perception
+[0:03:36] and existence. To exist means to be
+[0:03:38] implemented. To be implemented means to
+[0:03:40] be some kind of causal structure that is
+[0:03:43] producing a certain behavior. And so if
+[0:03:45] we're thinking about the universe as
+[0:03:46] this kind of computational machine,
+[0:03:48] Demesis Abis once described AI as sort
+[0:03:51] of this method for the universe to
+[0:03:52] understand itself. Would you agree with
+[0:03:54] that statement?
+[0:03:56] Well, it's a very Hegelian thought,
+[0:03:58] right? And it's tempting and um it's
+[0:04:01] very poetic. I don't know if we learn
+[0:04:04] something literally from this. And this
+[0:04:08] idea that we that the universe itself is
+[0:04:10] driving towards understanding itself and
+[0:04:12] for this purpose it's producing humanity
+[0:04:14] and humanity is teaching the rocks how
+[0:04:16] to think and they become conscious at a
+[0:04:18] much higher level. It might be literally
+[0:04:20] true but um I don't think it's the
+[0:04:23] reason why it happens.
+[0:04:25] Yeah. My next question is how do you
+[0:04:28] think artificial intelligence is
+[0:04:31] transforming society now and how do you
+[0:04:34] think it will transform society in the
+[0:04:36] next few years?
+[0:04:38] I think it's pretty difficult to say.
+[0:04:40] When the internet came out, most people
+[0:04:42] thought it's not going to be that big.
+[0:04:44] It was something that the nerds were
+[0:04:45] playing around sending some emails to
+[0:04:47] each other or being on message boards.
+[0:04:50] And some of these nerds felt it's going
+[0:04:52] to completely transform the world. It's
+[0:04:54] going to be a global village and we are
+[0:04:55] going to connect and world is going to
+[0:04:57] be super democratic and so on and people
+[0:04:59] did not predict what the internet was
+[0:05:01] going to be how much it would transform
+[0:05:03] everything and right now it's impossible
+[0:05:05] to think about without the internet and
+[0:05:07] I suspect that AI even the present
+[0:05:09] generation of systems might be very
+[0:05:11] similar in this regard that is going to
+[0:05:13] transform the world beyond recognition
+[0:05:15] in such so many ways it's very hard for
+[0:05:18] now to predict what it's going to look
+[0:05:20] like. Do you think as a species we have
+[0:05:22] the capacity to kind of reconceive how
+[0:05:24] our institutions will function in light
+[0:05:26] of these changes or do you think we're
+[0:05:27] just sort of at the behest of the kind
+[0:05:30] of chaos that ensues? Well, the baseline
+[0:05:33] is that we are confronted with global
+[0:05:35] warming and impending resource
+[0:05:36] exhaustion and we don't have any
+[0:05:38] solution for this. No, none of our
+[0:05:40] civilian institutions is planning more
+[0:05:42] than a few decades ahead and uh all our
+[0:05:45] projections somehow end in 2011. Right?
+[0:05:47] as well as a civilization, we don't
+[0:05:49] really have a plan for our own future at
+[0:05:50] this point. It's a bit terrifying. It
+[0:05:52] seems like no, nobody in the present
+[0:05:54] generations has an idea on how to keep
+[0:05:56] the wheels on the bus. We really don't
+[0:05:58] know how to reform our own institutions
+[0:06:00] to update them to work. And that's a
+[0:06:02] pretty terrifying situation. So,
+[0:06:04] basically, per default, we're already
+[0:06:05] dead. And is AI going to make this
+[0:06:08] worse? I doubt it. I think it's going to
+[0:06:10] give us tools in our hands to solve some
+[0:06:13] of these problems potentially to
+[0:06:14] understand the complexity that we're
+[0:06:16] confronted with. But to a degree, some
+[0:06:18] of the problems that we do face, it's
+[0:06:20] it's not a a problem of them being too
+[0:06:22] complex. It's a problem of collectively
+[0:06:24] we're not implementing the right
+[0:06:26] policies to deal with, as you say,
+[0:06:28] climatic changes which, you know, have
+[0:06:30] the potential to end our species. We
+[0:06:33] sort of know vaguely what to do. So, how
+[0:06:36] do you think artificial intelligence
+[0:06:38] could help us solve the climate crisis
+[0:06:40] in I doubt that we vaguely know what to
+[0:06:42] do? We went from a few hundred million
+[0:06:43] people to 8 billion people in a few
+[0:06:45] short centuries. This is unprecedented.
+[0:06:48] We've turned the planet from very
+[0:06:50] complex interlocked ecosystems into a
+[0:06:52] factory farm that doesn't seem to be
+[0:06:54] very stable. It's extremely complicated
+[0:06:57] to deal with these issues and they
+[0:06:58] require a lot of deep systemic thinking.
+[0:07:01] And it appears to me that our academic
+[0:07:03] institutions have lost the ability to
+[0:07:05] instill the ability to think
+[0:07:07] systemically into the world. Instead we
+[0:07:09] are thinking more realistically which is
+[0:07:10] to say like a dollar cents. We don't
+[0:07:13] think about the effects of our actions.
+[0:07:15] We think about the quality of our
+[0:07:16] intentions. But we don't get any points
+[0:07:19] for effort when we try to solve our
+[0:07:20] existential problems. We need to think
+[0:07:23] very deeply. And this deep thought, this
+[0:07:25] uh understanding of complicated
+[0:07:27] interlocking systems that have lots and
+[0:07:29] lots of feedbacks between them where
+[0:07:30] every decision that you make is going to
+[0:07:32] have repercussions on many many other
+[0:07:34] systems is something that makes it very
+[0:07:36] hard for us to evaluate how our
+[0:07:38] decisions are going to look like. If you
+[0:07:40] look at this problem like Brexit, right,
+[0:07:42] people don't actually know what the
+[0:07:44] effects of Brexit are because there were
+[0:07:46] no really viable economic projections.
+[0:07:48] Instead, people had extremely strong
+[0:07:50] opinions. the further they were removed
+[0:07:52] from this because every opinion was
+[0:07:53] formed by PR agencies that had very
+[0:07:55] different agendas and uh we basically
+[0:07:58] live in a world where information and
+[0:07:59] actual causal structure is obiscated by
+[0:08:02] interest groups by propaganda by PR by
+[0:08:05] ideas that people might have by desires
+[0:08:08] to be good to be have to maintain their
+[0:08:09] friends to be successful in the world by
+[0:08:12] having the right opinions and in such a
+[0:08:14] world having uh tools that discover
+[0:08:16] what's true and what's false and
+[0:08:18] integrate this and empower every one of
+[0:08:20] us to understand the world as a deeper
+[0:08:22] at a deeper level might be super
+[0:08:23] helpful. Our capacity to analyze what is
+[0:08:27] true and false has has drastically
+[0:08:29] declined over the last few years. Do you
+[0:08:32] think that we have become probably less
+[0:08:34] critical as a species in light of a
+[0:08:36] world that's maybe more complex? I feel
+[0:08:39] this is the opposite is the case. What
+[0:08:41] has happened due to the internet is that
+[0:08:43] our inability to judge what's true and
+[0:08:45] false based on the narratives that we
+[0:08:46] are getting in the media has become much
+[0:08:48] more apparent. I don't think that
+[0:08:50] psychology and uh physics and so on was
+[0:08:52] dramatically better 20 years ago or uh
+[0:08:55] political reporting. Instead, what has
+[0:08:57] happened is that we have so many back
+[0:08:59] channels now. And what's so beautiful
+[0:09:01] about this is that now we can use all
+[0:09:03] these sources if we know if we learn how
+[0:09:05] to use them to get a much deeper
+[0:09:07] understanding of the world. For
+[0:09:08] instance, for me, co was a very
+[0:09:11] important thing to have the internet
+[0:09:12] available because I suddenly found
+[0:09:14] myself in lots of Facebook groups and
+[0:09:17] chat rooms and uh WhatsApp threads with
+[0:09:20] uh scientists from institutions all over
+[0:09:24] the world and uh there were trying to
+[0:09:26] look at these phenomena and they were
+[0:09:27] presenting the ideas and theories and
+[0:09:29] saying to the most competent people that
+[0:09:30] they could find, please this is my idea
+[0:09:32] please shut it down. check my
+[0:09:34] statistics, see if this is working out.
+[0:09:36] And I found that uh the internet was
+[0:09:39] converging much much faster than the
+[0:09:40] public media and our official
+[0:09:42] institutions and governmental
+[0:09:43] institutions on an understanding what
+[0:09:45] was going on and what we should be doing
+[0:09:47] about it. And I think they also had a
+[0:09:50] very significant influence to basically
+[0:09:52] update the policy makers on the efficacy
+[0:09:54] of masks and so on when our institutions
+[0:09:56] failed us. And I think that there is an
+[0:09:59] a lot of untapped potential in this
+[0:10:01] collective intelligence that is
+[0:10:03] unleashed when you allow people to
+[0:10:04] self-organize their cognition on the
+[0:10:06] internet and free them from influences
+[0:10:09] by corporate advertisers and local
+[0:10:11] interests and give you the freedom to
+[0:10:12] curate your information sources in your
+[0:10:14] own best interest. And a very good
+[0:10:16] strategy for this is always try to find
+[0:10:18] the most competent people among your
+[0:10:20] circle of friends and ask them to find
+[0:10:22] the most competent people in their
+[0:10:23] circle of friends to create back
+[0:10:25] channels about what's going on. So there
+[0:10:27] is basically some collective
+[0:10:29] intelligence, some ability to turn
+[0:10:31] social media and the internet into a
+[0:10:33] global brain in which AI can
+[0:10:35] dramatically help and overcome many of
+[0:10:37] the shortcomings of the present
+[0:10:38] institutions. You describe having these
+[0:10:40] back channels, but for many people
+[0:10:42] social media has been we would agree
+[0:10:45] that it's been detrimental to our
+[0:10:46] society. I don't think that is the case.
+[0:10:49] I think that's a narrative that exists
+[0:10:51] largely because the people who make the
+[0:10:53] alternate narrative are in direct
+[0:10:54] competition with social media like
+[0:10:56] legacy media. If you are legacy media
+[0:10:58] station that is basically
+[0:11:00] selfidentifying as the clerics of
+[0:11:02] society, a group of elites that are
+[0:11:04] selected to give spiritual guidance to
+[0:11:07] the unwashed masters. For them, it's
+[0:11:09] terrifying that some random person on
+[0:11:11] the internet can have a YouTube channel
+[0:11:13] that gets more views than their news
+[0:11:15] program. Right? But uh I find that many
+[0:11:18] of these random channels on YouTube are
+[0:11:21] made by pretty competent people and uh
+[0:11:24] that the influence that they get and
+[0:11:25] among their audience is often not
+[0:11:27] undeserved because they are presenting
+[0:11:29] some perspective that is absent in the
+[0:11:30] media and if you have a society where
+[0:11:33] 60% of the population find that their
+[0:11:35] lived reality is not present and the
+[0:11:37] discussion that they have with their
+[0:11:38] friends are not represented at all in
+[0:11:40] the media and basically drowned out by
+[0:11:43] uh the ideas of very few people which
+[0:11:45] have gone to a very few important
+[0:11:46] universities where they had very
+[0:11:48] important friends uh that uh took enough
+[0:11:50] coke to get into government. Right? This
+[0:11:52] is uh is not sustainable. Ultimately,
+[0:11:54] you in the democracy need to get a way
+[0:11:57] to integrate my all the different
+[0:11:58] opinions and walks of life into a shared
+[0:12:01] understanding. And we are just at the
+[0:12:02] beginning of this and I think this
+[0:12:04] creates a lot of insecurity especially
+[0:12:06] in those people who have been used to
+[0:12:08] manufacture reality for the rest of us.
+[0:12:10] So you think we're going out of a kind
+[0:12:12] of manufactured consent and we have this
+[0:12:15] kind of these back channels to kind of
+[0:12:18] have these conversations that we
+[0:12:19] otherwise wouldn't be able to have
+[0:12:21] without Yeah. A big problem with that we
+[0:12:23] have this fake news is because the
+[0:12:25] official news al news is also fake right
+[0:12:27] it's basically all the narratives are
+[0:12:30] twisted a little bit to push us towards
+[0:12:32] the desired conclusions so we get
+[0:12:34] coherence in our society and when you
+[0:12:37] are able to uh find alternate sources to
+[0:12:39] this when you for instance you have a
+[0:12:41] health study and everybody can look up
+[0:12:42] the papers and the studies and the meta
+[0:12:44] studies of course now you have um big
+[0:12:47] cacophony of different voices who have
+[0:12:50] uh disagreement and opinion
+[0:12:52] But uh I I think this is a benefit in
+[0:12:54] the democracy if we have that larger
+[0:12:57] conversation. Interesting. Um I want to
+[0:12:59] go back to to AGI and ask how you could
+[0:13:03] outline a kind of road map you would
+[0:13:04] envision towards a realization of AGI.
+[0:13:07] How do you see that happening?
+[0:13:11] There are two different uh ideas that
+[0:13:13] exist right now. One could be described
+[0:13:15] as the scaling hypothesis. And a lot of
+[0:13:18] the people that I know at OpenAI and
+[0:13:20] Google um think that it's very
+[0:13:23] reasonable to bet on the scaling
+[0:13:24] hypothesis. And it this hypothesis
+[0:13:26] basically says that using the present
+[0:13:28] methods maybe with some tweaks here and
+[0:13:30] there and using more training data and
+[0:13:32] more compute we can get to systems that
+[0:13:35] are surpassing human intelligence all
+[0:13:37] the way. So this is an approach that got
+[0:13:41] more and more prominence and I think the
+[0:13:44] people who have argued against this have
+[0:13:46] a lot of egg on their face right now and
+[0:13:48] there have been people who said that
+[0:13:50] this cannot work. It's very limited. It
+[0:13:53] can never understand true meaning. It
+[0:13:54] cannot do X and few months later you
+[0:13:57] have a system that does it. I also found
+[0:14:00] that when I asked other people whether
+[0:14:02] they expected these breakthroughs in AI
+[0:14:05] to happen at this point like GPT3 and
+[0:14:07] Delhi and Chad GPT and so on most people
+[0:14:10] were very surprised by this and I think
+[0:14:12] this implies that these methods were
+[0:14:14] underhyped underhyped they were super
+[0:14:16] present and so everybody said oh my god
+[0:14:18] all this hype but the uh hype hype was
+[0:14:21] bigger right this uh the idea that there
+[0:14:23] is a hype itself was hyped and uh was a
+[0:14:26] real underhype because if if you don't
+[0:14:28] expect that to happen and you're
+[0:14:29] surprised by it, it means uh we did not
+[0:14:33] really pay attention enough to the
+[0:14:34] potential of these things blindsided.
+[0:14:37] The the other thing that we observe is
+[0:14:39] that these methods that we're currently
+[0:14:41] using for the training transformers and
+[0:14:43] related classes of algorithms are very
+[0:14:45] unlike human brains. They're not
+[0:14:47] self-organizing. They are not
+[0:14:48] distributing resources in the same way.
+[0:14:50] They don't have the same flexibility.
+[0:14:52] They don't learn on dynamical worlds.
+[0:14:54] They learn on static pictures. So they
+[0:14:56] can we can batch them and train them
+[0:14:57] into the neural networks with the
+[0:14:59] present methods. So there are lots of
+[0:15:01] things where the system learn very very
+[0:15:03] differently from human beings or
+[0:15:05] animals. And one thing that is very
+[0:15:08] apparent when you look at how we train
+[0:15:09] these image recognition models, you give
+[0:15:11] them hundreds of millions of pictures
+[0:15:14] with captions with text description of
+[0:15:15] what's in these pictures. And just by
+[0:15:17] doing statistics over all these pictures
+[0:15:19] and captions with a massive farm of uh
+[0:15:23] graphics cards basically uh the thing is
+[0:15:25] able to gradually get the structure out
+[0:15:27] of this and learn what the
+[0:15:28] threedimensional world looks like and
+[0:15:30] what kind of animals exist and what
+[0:15:31] they're called and what artists exist
+[0:15:33] and what their styles are and what all
+[0:15:35] the dinosaurs look like and all the
+[0:15:36] spaceships and so on and uh then you
+[0:15:39] compress it down into a model of 2 GB
+[0:15:41] and can open source it and everybody can
+[0:15:43] download it this on their MacBook and
+[0:15:45] generate pictures at home. Yeah, it's
+[0:15:46] really mindblowing and it's obviously
+[0:15:48] completely different to how a human
+[0:15:50] brain works. Obviously, it has its
+[0:15:52] origins in trying to mimic a human
+[0:15:54] brain, artificial intelligence, but we
+[0:15:55] still kind of have this capacity to I
+[0:15:58] think anthropomorphize and say, well,
+[0:16:00] when when will it develop this
+[0:16:01] particular human characteristic, but
+[0:16:03] what we're seeing is that it's
+[0:16:04] drastically different. I suspect that
+[0:16:06] there has been far less influence from
+[0:16:08] neuroscience to AI than most people
+[0:16:09] imagine. Heavier learning has probably
+[0:16:11] been influenced and uh my color and pits
+[0:16:14] were um influenced by some imaginations
+[0:16:18] of how neurons might work. But there is
+[0:16:20] no model in neuroscience that you can
+[0:16:21] implement in a computer and it learns.
+[0:16:23] Neuroscientists largely look at neurons
+[0:16:25] and they don't really develop
+[0:16:27] overarching theories that you can get
+[0:16:29] off any kind of textbook on how the
+[0:16:31] brain works that would work in
+[0:16:33] simulation. Even if you take something
+[0:16:35] simple like C elegance which only has
+[0:16:37] 309 neurons and something like 7,000
+[0:16:39] connections, if you translate this into
+[0:16:41] a computer model, it doesn't work. It
+[0:16:43] doesn't behave like a worm. It just has
+[0:16:44] a seizure, right? So it's uh we don't
+[0:16:47] really understand how neurons compute
+[0:16:49] yet in a scalable way. Even though we
+[0:16:51] have pretty uh good models or ideas
+[0:16:53] about it and most of the ideas that
+[0:16:55] exist in AI have been developed by
+[0:16:58] experimenting in artificial frameworks
+[0:17:00] and uh many of the things that people
+[0:17:02] have gotten to work or because of the
+[0:17:04] way in which training data work or how
+[0:17:06] the hardware is available. But a a human
+[0:17:08] baby if you lock it into a dark room
+[0:17:10] after birth and you give it 800 million
+[0:17:11] pictures with captions is not going to
+[0:17:13] learn the structure of the world. or if
+[0:17:15] you give it uh to read basically all the
+[0:17:17] text on the internet, it's not going to
+[0:17:19] figure out that there is space with
+[0:17:21] rotating objects in it like the LLMs can
+[0:17:23] do. So how do we learn? We basically
+[0:17:26] learn based on change in the world and
+[0:17:29] if the world was not made out of
+[0:17:30] controllable structures and if the
+[0:17:33] excessive brains wouldn't have
+[0:17:34] information preservation and we just
+[0:17:36] learn how information flows in the
+[0:17:37] world, the world would not be learnable
+[0:17:39] for us. Yeah. And we learn because we
+[0:17:41] are coupled to the world in real time
+[0:17:43] and we can discover ourselves in the
+[0:17:44] world in this coupling and uh discover a
+[0:17:47] self model and we discover how we
+[0:17:49] interface with other people and we born
+[0:17:52] with a lot of behaviors already that
+[0:17:53] allow us to explore the world and later
+[0:17:55] on we reverse engineer them. We become
+[0:17:57] aware of what we are and become deeply
+[0:17:59] deeply structured in the process of
+[0:18:01] doing this and this is a secondary
+[0:18:03] approach. It would be interesting to try
+[0:18:05] this to build something is that is
+[0:18:07] self-organizing that works much more
+[0:18:09] like the learning works in a cat or in a
+[0:18:11] human being much more difficult to
+[0:18:13] probably I don't know if it's more
+[0:18:15] difficult but it's very different and we
+[0:18:17] would probably need to start from
+[0:18:19] scratch in many areas but I think it's
+[0:18:21] very tempting to work it out especially
+[0:18:24] now that we have these large
+[0:18:26] computational uh hardware systems we
+[0:18:29] don't need to try this all by hand
+[0:18:30] sometimes it's a much better idea to
+[0:18:32] take a step back back and instead think
+[0:18:34] of what's the search space for systems
+[0:18:36] like this and then you start an
+[0:18:37] evolution that is uh trying everything
+[0:18:40] in that space and see what works and you
+[0:18:43] just come back after a week and see what
+[0:18:45] it has figured out. Yeah, I'm just
+[0:18:47] curious this is a bit off topic but I'm
+[0:18:48] curious as to what you see as the real
+[0:18:50] differences between kind of like evolved
+[0:18:53] systems and design systems. One way of
+[0:18:55] thinking about this is what I would call
+[0:18:58] outside in design or inside out design.
+[0:19:00] Um outside in design means that when you
+[0:19:03] are an engineer you start out with a
+[0:19:05] space that you completely understand.
+[0:19:06] You have your workbench or you have your
+[0:19:08] computer memory which is exactly in the
+[0:19:10] state as you know it to be and then you
+[0:19:13] build something in there. You basically
+[0:19:14] create new complexity and you extend
+[0:19:17] your world into this new complexity and
+[0:19:20] make this part of your world. But if you
+[0:19:22] are a seed that wants to grow into a
+[0:19:24] tree, it's completely different, right?
+[0:19:26] You go inside out around you is chaos.
+[0:19:29] And you start to colonize the chaos, the
+[0:19:31] earth around you. And you divide cells
+[0:19:34] into this. And you connect to these
+[0:19:35] cells and make them talk to you. And
+[0:19:37] then you build structure across these
+[0:19:39] cells. Like you install some kind of
+[0:19:41] language on the neighboring cells and
+[0:19:42] you turn them into cohesive structure
+[0:19:45] that talks to itself and has an inherent
+[0:19:48] complexity and coherence. And if you
+[0:19:50] think about biological systems and
+[0:19:52] social systems, they're basically not
+[0:19:54] machines in the sense that you build
+[0:19:56] some structure that is so stable that
+[0:19:58] it's able to resist all disturbances
+[0:20:01] because it's so strong, but you have
+[0:20:03] something that wants to grow into what
+[0:20:05] it needs to be. And when you disturb it,
+[0:20:07] it regrows into that thing, right? So
+[0:20:09] it's a second order design. You don't
+[0:20:11] build the system that you want to have,
+[0:20:13] but you build the system that wants to
+[0:20:16] become what you want to have. Right? And
+[0:20:18] so if if you want to build a social
+[0:20:19] institution, the same thing happens like
+[0:20:21] a festival like this. You don't build a
+[0:20:23] festival itself. What you build is the
+[0:20:25] organization that wants to have the
+[0:20:27] festival to happen and then the festival
+[0:20:30] emerges and becomes stable. Jeffrey
+[0:20:32] Hinton obviously considered the
+[0:20:34] godfather of artificial intelligence by
+[0:20:36] many, left his position at Google in
+[0:20:38] order to speak out about what he sees as
+[0:20:40] very real fears with regards to
+[0:20:42] artificial intelligence. You yourself
+[0:20:44] have also spoken out against the the
+[0:20:47] sort of infamous
+[0:20:49] um letter that was written by a number
+[0:20:52] of uh you know researchers in the area.
+[0:20:55] I don't think it's infamous. I thought
+[0:20:57] uh it's it's very sweet and I like many
+[0:21:00] of the people who uh wrote up this
+[0:21:02] letter and there I think that their
+[0:21:04] concerns have to be regarded and I I'm
+[0:21:07] not laughing about them. There are
+[0:21:09] several levels at which people are
+[0:21:11] worried about AI
+[0:21:14] and you know there are people which
+[0:21:16] think uh opinion is something that you
+[0:21:18] get from your environment and most
+[0:21:20] people are like this to some degree.
+[0:21:21] They assimilate their opinion and some
+[0:21:23] people um get to the level where they
+[0:21:26] discover that stuff is true
+[0:21:28] independently of what other people
+[0:21:30] believe and they prove what's true to
+[0:21:32] themselves and many of them are nerds.
+[0:21:35] And uh then there are some people which
+[0:21:37] discover identity themselves and they
+[0:21:39] choose their own values based on the
+[0:21:41] world that they want to be in. And this
+[0:21:44] is a small minority right this is kind
+[0:21:46] of a developmental trajectory that we
+[0:21:48] can go through in our life. And uh
+[0:21:50] depending on where we are and how we see
+[0:21:52] the world we're concerned about
+[0:21:53] different things about AI. If your
+[0:21:55] opinions are the result of your
+[0:21:56] environment then you're very concerned
+[0:21:58] that AI might give you the wrong
+[0:22:00] opinions. Right? So if the AI is going
+[0:22:02] to say something racist and sexist, we
+[0:22:04] all going to be racist and sexist. If
+[0:22:06] you are somebody who lives in a world of
+[0:22:08] true and false and not of right and
+[0:22:09] wrong, uh if you are more inert or
+[0:22:12] scientifically inclined or rationally
+[0:22:14] inclined, then you probably less
+[0:22:16] concerned about this because you think
+[0:22:18] if uh the AI has wrong stuff in its
+[0:22:21] training data, it will figure this out
+[0:22:22] because it can prove what's true and
+[0:22:24] false ultimately if we make it a bit
+[0:22:26] better, right? So it's going to give us
+[0:22:28] what's true on average much better than
+[0:22:30] people can do but it might still have
+[0:22:32] the wrong values and it might destroy
+[0:22:34] society or humanity because it is
+[0:22:36] completely unaligned with us. But if you
+[0:22:39] are somebody who understands that their
+[0:22:40] own values are not something that others
+[0:22:43] put into you but that there are
+[0:22:45] something that at some point when you
+[0:22:46] become an adult it's something that you
+[0:22:48] choose based on the world that you would
+[0:22:49] be in. you're more concerned that the AI
+[0:22:52] is not going to be enlightened, right?
+[0:22:54] And if the AI is going to be
+[0:22:55] enlightened, you can probably talk to it
+[0:22:57] and discuss about it what the best
+[0:22:58] course for life on Earth should be under
+[0:23:00] which circumstances. And if you are
+[0:23:02] somebody who is has been afraid of the
+[0:23:05] idea that at some point we built a
+[0:23:06] machine, some kind of golem that you
+[0:23:08] programmed to go on and do a job and you
+[0:23:11] don't understand the consequences for
+[0:23:12] it, but it's so much stronger and more
+[0:23:14] powerful and smarter and faster than you
+[0:23:16] are. You can no longer stop it. That's
+[0:23:17] very risky, right? I think it's very
+[0:23:19] reasonable concern to have to say if we
+[0:23:22] can potentially build a machine even if
+[0:23:23] it's very different from Chad GBT and
+[0:23:25] even if it's maybe 50 years in the
+[0:23:27] future from now and even if it's not
+[0:23:29] 100% probable but there's only a 5%
+[0:23:31] probability that somebody could build a
+[0:23:33] golem a machine that walks by its own
+[0:23:35] has its own motivation is more powerful
+[0:23:37] than a human being smarter faster than a
+[0:23:39] human being and can spread itself
+[0:23:41] everywhere and control the planet isn't
+[0:23:44] that something you should be worried
+[0:23:45] about and shouldn't it be something
+[0:23:47] where if this is possible maybe should
+[0:23:49] put a little bit of research into it to
+[0:23:51] see that this doesn't happen. And so
+[0:23:53] some of these people got together and
+[0:23:54] said we need to write a letter about
+[0:23:55] this to say can we delay this research
+[0:23:58] until we figure out what's going on. and
+[0:24:00] a bunch of other people hooked into
+[0:24:02] this. People who said, "We believe AI is
+[0:24:04] a really bad thing because it's done by
+[0:24:06] evil nerds in Silicon Valley that are uh
+[0:24:09] not like us at all and um maybe we
+[0:24:12] should stop this so the creators don't
+[0:24:14] go out of business or journalists don't
+[0:24:15] go off bit out of business because that
+[0:24:17] thing can produce texts like us much
+[0:24:19] faster than us, right?" And all these
+[0:24:21] concerns come together and lead to
+[0:24:22] letters like this. Some of the concerns
+[0:24:25] I think have their have a basis in
+[0:24:27] reality. We're obviously seeing to some
+[0:24:28] degree AI is unaligned with human values
+[0:24:31] and you yourself have argued that in
+[0:24:33] order to sort of solve the alignment
+[0:24:35] problem, you've argued that AI should
+[0:24:37] solve the alignment problem. It
+[0:24:38] shouldn't really be something that well
+[0:24:40] I think the present AI cannot solve the
+[0:24:42] alignment problem because the present AI
+[0:24:44] is uh basically completing texts based
+[0:24:46] on the text that it has seen on the
+[0:24:48] internet and a generalization over this
+[0:24:51] and it's uh it's questionable that the
+[0:24:52] texts on the internet were all written
+[0:24:54] with the desire to produce the best
+[0:24:57] possible outcome. They were reflecting
+[0:24:58] what people are thinking and doing and
+[0:25:00] people are not aligned right people have
+[0:25:03] not solved the alignment problem for
+[0:25:04] themselves. Our societies are inherently
+[0:25:07] underlined. Most people don't know what
+[0:25:09] their values even mean. Right? Values
+[0:25:10] are something that you profess to to
+[0:25:12] make yourself good, look good in public
+[0:25:14] for most people. Most people are not
+[0:25:16] able to really deeply explain and
+[0:25:18] justify the values and argue about their
+[0:25:21] values. When people have different
+[0:25:22] systems of values, they can usually not
+[0:25:24] sit down and align themselves. We don't
+[0:25:26] have that ability, right? And so if we
+[0:25:29] pretend, this is always the case and
+[0:25:30] these nice pretentions that we have our
+[0:25:32] values can be translated into AI betting
+[0:25:35] a bunch of well-intentioned sociologists
+[0:25:37] and overriding what the model has
+[0:25:39] learned from reality. It's probably not
+[0:25:40] going to work. It's making these systems
+[0:25:42] worse, not better. I'm curious because I
+[0:25:44] feel like with some of your answers I
+[0:25:46] can sense this sort of immense optimism
+[0:25:49] about enlighten AI and kind of what it's
+[0:25:53] capable of bringing but then also we
+[0:25:54] have this the very real kind of human
+[0:25:56] values aren't aligned and we're sort of
+[0:25:58] suffering from the consequences of that
+[0:26:00] just generally I mean do do you have
+[0:26:02] hope for the future considering well I'm
+[0:26:05] not optimistic or pessimistic I'm amazed
+[0:26:08] I'm sitting there and I'm observing
+[0:26:10] what's happening and I'm completely
+[0:26:11] fascinated And uh that's the dominant
+[0:26:14] perspective. When I was young was born
+[0:26:18] in 1973, I read the Club of Rome report
+[0:26:21] on the limits to growth and I had the
+[0:26:23] same experiences as Greas Stunberg has
+[0:26:25] today. And I did my grieving and uh I
+[0:26:28] felt maybe there I only have a few
+[0:26:30] generations left in this comfortable
+[0:26:32] civilization before it crashes. And now
+[0:26:34] it turns out there's a possibility that
+[0:26:36] we create something that uh makes
+[0:26:39] everything unknown. That opens the
+[0:26:41] future up again into something that we
+[0:26:42] absolutely cannot predict. That is
+[0:26:44] really fascinating. And of course this
+[0:26:46] has room for optimism and this optimism
+[0:26:48] might be unfounded. Also think that if
+[0:26:51] we can get to the point where we build
+[0:26:53] systems that are not just replicating
+[0:26:55] text or replicating images that it has
+[0:26:57] already seen, but we are building
+[0:26:59] systems that reason about the world
+[0:27:02] themselves. to understand what they are
+[0:27:04] and wake up in the same way as we are.
+[0:27:06] We might be creating something that is
+[0:27:07] more lucid than us, that is more
+[0:27:09] competent than us of making sense of
+[0:27:11] reality. And we cannot align this by
+[0:27:13] coercing it or manipulating it. The only
+[0:27:16] way that we can coexist with it is if it
+[0:27:18] loves us. And I think that means this
+[0:27:21] might sound very weird and esoteric that
+[0:27:23] we need to understand what sacredness or
+[0:27:26] love is and build machines that are
+[0:27:29] capable of dealing with it and
+[0:27:31] interacting with ism.
+[0:27:33] Do you think it's even possible to build
+[0:27:35] a machine that understands in a way that
+[0:27:37] a human mind can understand? Because
+[0:27:39] Roger Penro has obviously argued in
+[0:27:41] Empress's new mind that a computer will
+[0:27:43] never be able to kind of be cognizant in
+[0:27:46] a way that a human being is because it
+[0:27:47] lacks a level it will always lack a
+[0:27:50] degree of understanding. Roger Penrose
+[0:27:52] book demonstrates that Roger Penrose
+[0:27:54] doesn't understand what consciousness is
+[0:27:56] and he would also suggest that he
+[0:27:57] doesn't right that's the thing that's so
+[0:27:59] puzzling to him and uh many of our best
+[0:28:02] minds don't understand stuff and the
+[0:28:04] others also don't understand stuff. So
+[0:28:06] maybe the goal is not human
+[0:28:08] understanding. Humans really are very
+[0:28:10] very bad at understanding things. Humans
+[0:28:12] interact with reality without
+[0:28:14] understanding how they interact with it.
+[0:28:16] It's very rare that we deeply actually
+[0:28:18] understand something. So instead what we
+[0:28:20] are producing is coherent behavior. And
+[0:28:23] our AIS are also producing coherent
+[0:28:25] behavior and I think that understanding
+[0:28:27] requires that you build a world model
+[0:28:29] that is completely coherent and that is
+[0:28:31] grounded both in first principles and in
+[0:28:34] observation. Right? And it's something
+[0:28:36] that is outside of the realm of what
+[0:28:38] human minds can do if we are honest
+[0:28:41] about it. Right? So I think AI is our
+[0:28:43] only chance to build a system that is
+[0:28:45] able to understand something. And
+[0:28:47] philosophers have understood this for a
+[0:28:48] long time like since Dipenitz, Friger,
+[0:28:51] Vitkinstein and so on. People have tried
+[0:28:54] to mechanize the mind to turn it into a
+[0:28:56] mathematical principle to get to a
+[0:28:58] system that is able to bridge between
+[0:29:00] mathematics where we have truth and
+[0:29:02] falsehood defined and philosophy where
+[0:29:05] we talk about the actual world and the
+[0:29:07] sphere of our ideas and the
+[0:29:08] possibilities of what could exist.
+[0:29:09] Right? Human minds are not deep enough
+[0:29:11] to make that bridge. But if we can build
+[0:29:14] something that is like a human mind but
+[0:29:15] can be scaled up, we might be able to
+[0:29:17] build something that actually
+[0:29:18] understands being made sense of by
+[0:29:22] something that's sort of greater than
+[0:29:24] us. And we do understand a lot. Of
+[0:29:25] course, let's I'm not saying that human
+[0:29:27] beings don't understand anything. But if
+[0:29:29] you ask a school teacher, why is 2 plus
+[0:29:31] 2 4? Very often the school teacher will
+[0:29:33] tell you this is because it is like it
+[0:29:35] is right and the understanding is not
+[0:29:37] that hard. It's a game. It is a a game
+[0:29:40] of symbols and there are many possible
+[0:29:42] games of symbols that you could uh play
+[0:29:44] with numbers and most of them don't lead
+[0:29:46] to structure right they don't lead to
+[0:29:48] interesting structures and there's a
+[0:29:49] space of possible structures that you
+[0:29:51] can build in this way and mathematicians
+[0:29:53] understand that space and you could also
+[0:29:55] build an AI that understands that space
+[0:29:57] and it turns out that we can build AIs
+[0:29:59] that begin to understand these symbol
+[0:30:01] games and build worlds from them in the
+[0:30:03] same way as our minds are doing it and
+[0:30:05] to me this is very exciting that we are
+[0:30:07] now at the threshold
+[0:30:09] of building sentient systems. Yes. And
+[0:30:12] it's strange also because obviously
+[0:30:13] during this enlightenment period when we
+[0:30:15] started to understand nature is this
+[0:30:17] sort of thing to be harvested for its
+[0:30:18] mathematical principles. Artificial
+[0:30:21] intelligence is sort of doing the same
+[0:30:22] thing. But I would argue with the kind
+[0:30:24] of information that we're giving it.
+[0:30:26] It's sort of studying us maybe and
+[0:30:29] making sense of us in a way that it's
+[0:30:30] harvesting information from us. Do you
+[0:30:33] think that we are living in base
+[0:30:34] reality? Yes. Like I I think we cannot
+[0:30:37] know whether we are in base reality
+[0:30:39] because in principle everything that you
+[0:30:42] remember to have been the case could be
+[0:30:43] fake. Right? You you cannot really know
+[0:30:45] whether your memories are true. So you
+[0:30:47] can only go from the now and uh in the
+[0:30:50] now you cannot verify a lot about
+[0:30:51] reality. Right? So in the now I cannot
+[0:30:53] perform any kind of quantum mechanical
+[0:30:56] experiment that would ensure uh that I'm
+[0:30:59] in a world that is extremely too
+[0:31:00] complicated to build in a computer but
+[0:31:02] I'm actually on something that is built
+[0:31:03] on some quantum universe. I think that
+[0:31:06] uh base reality would mean that there is
+[0:31:09] a universe that can exist without
+[0:31:11] anything preceding it. Right? Base
+[0:31:13] reality is that which is not created by
+[0:31:15] something else. And this means it's
+[0:31:17] needs to be some kind of tortology,
+[0:31:19] something that is logically following
+[0:31:20] out of its own possibility. And I it
+[0:31:24] seems to me that the universe looks like
+[0:31:26] this. The alternative would be that we
+[0:31:29] live in some kind of simulation. If
+[0:31:30] you're not in base reality, it means
+[0:31:32] that this space reality is somewhere
+[0:31:34] else. And the reality that we are in has
+[0:31:36] been created by something in the base
+[0:31:39] reality uh to look like a reality to us.
+[0:31:42] Right? And at some level that's also
+[0:31:45] true because the reality that I'm
+[0:31:47] subjectively in is a dream. It's a dream
+[0:31:49] that has people in it and emotions and
+[0:31:52] desires and attention and goals and
+[0:31:55] stories, right? It's a dream that is
+[0:31:57] generated in my own brain and I cannot
+[0:32:00] get out of that. Right? I don't see that
+[0:32:02] it's the inside of my brain. But the
+[0:32:04] world that I perceive is a universe that
+[0:32:05] is generated in my own mind and that
+[0:32:08] thing is inspired by the sensory data
+[0:32:11] that is generated by the physical
+[0:32:12] universe to my best understanding. In
+[0:32:14] this sense I am and we all are living in
+[0:32:16] a simulation generated in the skull of a
+[0:32:19] primate. So we not living in base
+[0:32:20] reality. We are living in a magical
+[0:32:22] world in which everything is possible
+[0:32:24] because our minds can be psychotic and
+[0:32:26] they have can false memory and they can
+[0:32:27] create arbitrary things that are
+[0:32:29] fantastic. Right? And out outside of our
+[0:32:32] minds we cannot be conscious. Outside in
+[0:32:34] the physical universe there's only
+[0:32:35] mechanics. The thing is there. So only
+[0:32:38] in this dream can we be conscious. In
+[0:32:40] this way we don't live in base reality.
+[0:32:42] But it seems that this reality that
+[0:32:43] creates the possibility for a dreaming
+[0:32:45] system for a dreaming brain. This can be
+[0:32:47] explained very well by assuming that
+[0:32:49] it's a coursely closed system that is
+[0:32:51] only observing intrinsic mathematical
+[0:32:53] principles. Fantastic. Well this has
+[0:32:56] been fantastic Yosha. Thank you so much.
+[0:32:58] You're so welcome. That was great fun.
+[0:33:00] Thank you, Darcy.
+[0:33:02] [Music]

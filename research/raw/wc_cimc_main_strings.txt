@@ -1,0 +1,883 @@
+/mission
+/mission
+/research
+/research
+/team
+/team
+/library
+/library
+/events
+/events
+/events/aaai-symposium
+/events/aaai-symposium
+/jobs
+/jobs
+/jobs/engineer
+/jobs/engineer
+/jobs/executive-assistant
+/jobs/executive-assistant
+/publications
+xmlns: http://www.w3.org/2000/svg
+children: Link Icon
+name: Ryota Kanai
+image: /speakers/ryota.jpg
+label: LinkedIn
+url: https://www.linkedin.com/in/ryota-kanai-3585979
+label: Website
+url: https://research.araya.org/member/ryota-kanai-phd
+bio: Ryota Kanai is the Founder and CEO of Araya, Inc., a Tokyo-based company working at the intersection of neuroscience and artificial intelligence to understand and create artificial consciousness. He graduated from Kyoto University's Faculty of Science in 2000 and earned his PhD (Cum Laude) from Utrecht University in 2005, studying visual information processing in the human brain. He went on to research at Caltech, University College London, and the University of Sussex, where he served as Associate Professor of Cognitive Neuroscience. He founded Araya in 2013 and has led it full-time since 2015.
+talkTitle: Measuring Consciousness Beyond Biology: Universality, Structure, and Functional Indicators in Artificial Systems
+The prospect of consciousness in artificial systems raises a foundational problem of measurement and attribution. How can consciousness be assessed in systems that differ from biological brains, and what kinds of measurements could justify such assessments?
+This talk argues that progress requires a clear distinction between intrinsic, universality-based accounts of consciousness and observer-relative approaches based on functional indicators. The notion of universality provides a theoretical framework for predicting consciousness in non-biological systems by appealing to system-internal organizational principles that are invariant across physical substrates, rather than to biological implementation details. From this perspective, structural theories such as Integrated Information Theory (IIT) and recent symmetry-based mathematical approaches aim to characterize consciousness in terms of intrinsic structure in an observer-independent manner. By contrast, functionalist indicator approaches attempt to assess consciousness in an observer-relative way by appealing to functions attributed to a system by an external observer, such as global broadcasting, recurrence, or predictive processing. While functional indicators remain observer-relative, they play an important role in guiding practical judgments about consciousness.
+I argue that recognizing this distinction is essential for avoiding category errors in the measurement of consciousness and for framing productive debates about how, and whether, consciousness should be attributed to artificial agents. By situating these approaches within a broader philosophical context, the talk aims to stimulate discussion on what consciousness measurements can realistically claim, what they cannot, and how different methodological commitments shape the conclusions we draw about artificial minds.
+name: Michael Timothy Bennett
+image: /speakers/michael.jpg
+label: Website
+url: https://michaeltimothybennett.com/
+label: LinkedIn
+url: https://linkedin.com/in/michael-timothy-bennett-32531b18
+bio: Dr. Michael Timothy Bennett is a computer scientist at the Australian National University. His research explores the mechanics of life, intelligence and consciousness from first principles with an integrated philosophical, mathematical, and experimental approach. His path to research was rather unconventional, which is what predisposed him to cross-disciplinary methods. He began as a musician, co-founded London-based Eigen Technologies, and worked in game development across four continents on franchises including The Sims, Sniper Elite, and Total War. He holds degrees in music from Queensland Conservatorium, management science from London Business School, and computer science from the Australian National University.
+talkTitle: Prerequisites and Spacetime Bounds on Machine Consciousness
+What must system have to be conscious, at minimum? I derive several necessary features from first principles using Stack Theory. Robust adaptation requires keeping the most futures open. I show that valence (attraction and repulsion) must be the only built-in primitive for optimal adaptation. Any other primitive imposes a floor on free energy minimisation. Everything an organism knows about its world is constructed from that valence signal. Under resource and selection constraints, this forces agents to build a hierarchy of selves needed for causal reasoning, subjective experience and reportable access. I argue a first-order self grounds subjective experience, a second-order self enables meaningful report, and without this hierarchy, human-like consciousness is impossible. Further, I ask whether conscious integration depends only on what is computed, or also when and where. If so, then not all hardware can host consciousness. This yields hard spacetime bounds on which systems can host unified experience, potentially ruling out ant colonies, conventional computers, and naively designed human–AI hybrids.
+name: Takashi Ikegami
+image: /speakers/takashi.jpg
+label: Website
+url: https://www.sacral.c.u-tokyo.ac.jp/people
+label: LinkedIn
+url: https://linkedin.com/in/takashi-ikegami-6279361
+bio: Takashi Ikegami is a professor at the University of Tokyo. He works across artificial life, cognitive science, robotics, and art, exploring how intelligence and selfhood emerge from interactions rather than isolated individuals. His research combines mathematical modeling with embodied systems, including the humanoid android ALTER, to study human–machine co-creation and emergent agency.
+talkTitle: Where Does Agency Live? Synergy, Redundancy, and the Relocation of Prediction in a Humanoid AI
+Where does agency reside in a modular, embodied AI system? We investigate this question through the Concurrent Modular Agent (CMA), an asynchronous architecture in which multiple LLM-based modules operate concurrently and coordinate via a shared memory substrate. Rather than locating agency in a centralized model, we frame hybrid agency as a transitional regime in which predictive responsibility is progressively redistributed across relational network dynamics, particularly under social interaction.
+We implement CMA on the humanoid android ALTER3 and analyze its internal reconfiguration using module activation dynamics and embedding-based estimates of redundancy and synergy, summarized through a non-trivial information closure (NTIC) metric. Our results reveal a measurable shift from locally supported prediction toward relational dependency: modules differentially stabilize behavior through redundancy or generate context-sensitive stances via synergistic integration, and these roles evolve over time.
+Although we do not observe full network-level predictive closure, we identify a quantifiable relocation of prediction across an embodied, socially coupled system. These findings suggest that agency in modular AI is not a fixed property but an architectural redistribution of predictive structure.
+name: Robert Long
+image: /speakers/robert.jpg
+label: Website
+url: https://robertlong.online
+label: LinkedIn
+url: https://www.linkedin.com/in/robert-long-7a32b95b
+bio: Robert Long is the Executive Director of Eleos AI, a research organization dedicated to understanding and addressing the potential wellbeing and moral patienthood of AI systems. His work sits at the intersection of philosophy of mind, cognitive science, and AI ethics. He holds a PhD in philosophy from NYU, where he studied under David Chalmers, Ned Block, and Michael Strevens. Prior to founding Eleos AI, he was a researcher at the Center for AI Safety and at the Future of Humanity Institute at Oxford University.
+talkTitle: Navigating uncertainty about AI consciousness
+For the foreseeable future, there will be considerable uncertainty and disagreement about how likely AI systems are to be conscious. Meanwhile, AI systems are becoming more capable and charismatic, creating risks from both over- and under-attributing consciousness to them. How should we respond to this uncertainty? In this talk, I argue that AI companies and other actors can, and should, take actions now that will make us better-prepared to wisely navigate potential AI consciousness.
+name: Joscha Bach
+image: /portraitJoscha.jpg
+label: Website
+url: http://bach.ai
+label: LinkedIn
+url: https://linkedin.com/in/joschabach
+bio: Joscha is the executive director at CIMC
+& *::selection
+backgroundImage: linear-gradient(180deg,rgba(217,217,217,0) 0%,#f2fc62 100%)
+borderColor: rgba(24, 29, 39, 0.18)
+paddingLeft: clamp(56px, 8vw, 148px)
+borderColor: rgba(24, 29, 39, 0.18)
+borderColor: rgba(24, 29, 39, 0.18)
+backgroundImage: linear-gradient(180deg,rgba(242,252,98,0.58) 0%,rgba(217,217,217,0) 100%)
+backgroundImage: linear-gradient(180deg,rgba(242,252,98,0.58) 0%,rgba(217,217,217,0) 100%)
+> :not([hidden]) ~ :not([hidden])
+calc(100% - ${n}px)
+flex: 1 1 0%
+> :not([hidden]) ~ :not([hidden])
+backgroundImage: linear-gradient(180deg,rgba(242,252,98,0.58) 0%,rgba(217,217,217,0) 100%)
+backgroundImage: linear-gradient(180deg,rgba(255,255,255,0.92) 0%,rgba(242,252,98,0.92) 100%)
+backgroundImage: repeating-conic-gradient(from 180deg at 50% 100%,rgba(255,255,255,0.85) 0deg,rgba(255,255,255,0.85) 0.65deg,rgba(255,255,255,0) 0.65deg,rgba(255,255,255,0) 5deg)
+0 1px 2px rgba(10,13,18,0.05),inset 0 0 0 1px rgba(10,13,18,0.18),inset 0 -2px 0 rgba(10,13,18,0.05)
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+0 1px 2px rgba(10,13,18,0.05),inset 0 0 0 1px rgba(10,13,18,0.18),inset 0 -2px 0 rgba(10,13,18,0.05)
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+borderColor: rgba(24, 29, 39, 0.18)
+borderColor: rgba(24, 29, 39, 0.18)
+minmax(0, 1fr) ${n}px
+${n}px minmax(0, 1fr)
+borderColor: rgba(24, 29, 39, 0.18)
+${i} / ${n}
+flex: 1 1 0%
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+title: What is consciousness, formally?
+body: Multiple mathematical and computational theories exist, each with different implications for what could instantiate consciousness. Even those that are within a broadly computational functionalist view make different architectural predictions, and address different levels of abstraction or aspects of consciousness.
+title: How would we measure or detect it?
+body: Even if we accept a theory, applying it to artificial systems presents profound challenges. What constitutes valid evidence? What are we testing for? - phenomenal experience, self-awareness, access consciousness? Can behavioral tests ever be sufficient, or do we need architectural inspection? The measurement problem for machine consciousness remains largely unsolved.
+title: What would it take to build it?
+body: If we had measurement criteria, could we engineer systems that satisfy them? This requires understanding the computational and architectural requirements, the role of embodiment and autonomy, and whether consciousness requires specific substrates or can emerge from sufficiently complex information processing. Implementation constraints may rule out some theories as practically irrelevant while making others urgent.
+title: What follows if we succeed, or fail to know?
+body: What about normative implications? If we build systems that might be conscious but lack rigorous methods to determine this, we could face ethical risks. What moral status would conscious machines have? What obligations would we have toward them? When does uncertainty itself demand ethical caution? What is the role of ethics in the context of artificial agents?
+name: Theoretical Foundations
+question: Which theories of consciousness even apply to artificial systems?
+Mathematical models of consciousness applicable to artificial systems
+Computational theories (IIT, Global Workspace, Attention Schema Theory, Higher-Order Thought)
+Free Energy Principle and active inference frameworks
+Cognitive architectures and their relationship to consciousness
+name: The Measurement/ Attribution Problem
+question: Given a theory, how do we test for consciousness in systems we build?
+Methods for attributing or detecting consciousness in artificial systems
+Limitations and challenges of current measurement approaches, including behavioral testing
+Criteria for attributing conscious states
+Theoretical predictions that yield testable implementations
+name: Implementation Challenges
+question: What does it take to engineer systems that satisfy these criteria?
+Engineering systems that satisfy theoretical criteria for consciousness
+Complex systems and artificial life approaches
+Role of embodiment, autonomy, and open-ended learning
+Architectural requirements for candidate conscious systems
+name: Normative Implications
+question: If we solve 1-3, what follows ethically and practically?
+Ethical frameworks for machine consciousness
+Moral status and rights of potentially conscious AI
+Policy and governance challenges
+Threshold problems requiring immediate vs. long-term attention
+name: Integration and Cross-Cutting Issues
+question: Can we build a unified framework that addresses all of the above?
+Theory-measurement gaps and how to bridge them
+Implementation constraints that inform theoretical development
+Ethical considerations that shape research priorities
+Interdisciplinary frameworks that span multiple domains
+title: Address problems where theoretical, technical, and normative questions are inseparable
+description: Work on concrete challenges in machine consciousness that cannot be solved within any single discipline, where progress requires integrating formal frameworks, empirical methods, engineering constraints, and ethical considerations. Identify both open philosophical questions and concrete research problems at the intersection.
+title: Connect researchers across traditionally separate communities
+description: Bring together consciousness scientists, cognitive scientists, computer scientists, mathematicians, philosophers, and engineers whose work increasingly intersects. Foster sustained dialogue between communities that typically operate in isolation.
+title: Establish collaborative research agendas
+description: Identify open problems that warrant sustained investigation and form working relationships to pursue them beyond the symposium. Establish methodological foundations for responsible research as AI systems grow more sophisticated.
+media: (max-width: 767px)
+srcSet: /aaaiHeroBgMoblie.jpg
+src: /aaaiHeroBg.jpg
+alt: AAAI 2026 Spring Symposium and CIMC hero graphic
+AAAI Spring Summer Symposium
+MACHINE CONSCIOUSNESS:
+children: INTEGRATING THEORY, TECHNOLOGY, AND PHILOSOPHY
+children: Recent AI advances have forced us to confront the possibility of consciousness, beyond intelligence, in machines. Asking “Can machines be conscious?” forces us to answer “How can we define consciousness in a formal way/what is the causal structure of consciousness?” (theory, formal frameworks), “How would consciousness be implemented?” (technical realization), “How can we determine that a given system is conscious?” (measurement/attribution), and “What status would consciousness lend to machines?” (ethics).
+children: This symposium brings together these different dimensions of machine consciousness.
+src: /aaaiHyatt.jpg
+alt: Hyatt Regency Hotel in Burlingame, California
+children: Hyatt Regency Hotel, Burlingame, CA, USA
+children: These questions should not be pursued in isolation. Theoretical advances have practical implications; implementation constraints inform which theories matter; ethical considerations shape research priorities; and measurement challenges reveal gaps in our theoretical understanding. This symposium creates sustained engagement across these domains. Over 2.5 days, participants will work through the theoretical, empirical, technical, and normative dimensions of machine consciousness, with each session building explicitly on previous ones. The format is designed to identify concrete problems at the intersections, where progress requires integration across these dimensions.
+children: APRIL 7-9, 2026
+children: Burlingame, CA, USA
+children: GOALS OF THIS SYMPOSIUM
+children: TOPICS
+children: In the interest of fostering integration across traditionally separate approaches to machine consciousness, we welcome submissions on topics including (not exhaustive):
+type: button
+src: /aaaiTopics2.jpg
+src: /aaaiTopics1.jpg
+type: button
+children: TOPICS
+children: In the interest of fostering integration across traditionally separate approaches to machine consciousness, we welcome submissions on topics including (not exhaustive):
+type: button
+src: /aaaiTopics1.jpg
+src: /aaaiTopics2.jpg
+children: SYMPOSIUM FORMAT
+children: The symposium will use a progressive integration format over 2.5 days. Each half-day session focuses on one of the core topics (Theoretical Foundations, Measurement, Implementation, Normative/Ethics) and includes keynote presentations, selected talks, and structured integration discussions that explicitly connect to previous sessions. The final half-day is dedicated to collaborative working groups on cross-cutting problems, synthesizing insights from all domains.
+children: REGISTRATION
+href: https://aaai.org/conference/spring-symposia/sss26/
+rel: noopener noreferrer
+children: HOW TO REGISTER & PRICING
+href: https://www.hyatt.com/events/en-US/group-booking/SFOBU/G-AAAI
+rel: noopener noreferrer
+children: VENUE DETAILS
+children: NOTE: Anyone whose paper is accepted must register in order to present. We encourage general attendees who just want to attend to also register.
+children: PROGRAM SCHEDULE
+type: button
+children: VIEW SCHEDULE HERE
+children: SPEAKERS
+rel: noopener noreferrer
+rel: noopener noreferrer
+${d.name} on LinkedIn
+rel: noopener noreferrer
+${d.name} on X
+children: Talk Title:
+children: Abstract:
+children: Abstract:
+type: button
+Back to top
+xmlns: http://www.w3.org/2000/svg
+https://forms.gle/dipAH8NS3p3ovqd3A
+https://edgecity.live
+https://naytive.com/edgecityvisa
+https://indianvisaonline.gov.in/
+ background:
+rgba(0, 0, 0, ${i})
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+src: /Ambhasi/gradientLineShort.svg
+ > img{
+objectPosition: 50% 36%
+0 1px 2px rgba(10,13,18,0.05),inset 0 0 0 1px rgba(10,13,18,0.18),inset 0 -2px 0 rgba(10,13,18,0.05)
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+cubic-bezier(0.22, 1, 0.36, 1)
+ transition:transform 700ms 
+ transition:opacity 280ms ease-out;
+ font-family:"Helvetica Neue","helvetica","Helvetica","Arial",sans-serif;transform:translateY(10px);transition:opacity 220ms ease-out,transform 400ms 
+{transform:none !important;}}
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke
+transitionTimingFunction: cubic-bezier(0, 0, 0.2, 1)
+transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke
+transitionTimingFunction: cubic-bezier(0, 0, 0.2, 1)
+flex: 1 1 0%
+transitionTimingFunction: cubic-bezier(0, 0, 0.2, 1)
+transitionTimingFunction: cubic-bezier(0, 0, 0.2, 1)
+ > *{
+title: More capable, adaptive intelligence
+body: Can models of attention, self-organization and conscious processing help AI learn more efficiently, coordinate across agents, and maintain coherence in changing environments?
+title: Human–AI collaboration
+body: Can working with AI strengthen human reflection, creativity, self-understanding and collective intelligence — while preserving agency and orienting technological development toward human flourishing?
+title: Consciousness and its implementation
+body: Does consciousness depend on biological substrate, computation, dynamic organization, or the relationships among interacting systems? What evidence could distinguish these possibilities?
+title: Fundamental scientific understanding
+body: Can we connect AI, neuroscience, cognitive science, complexity research and philosophy to make progress on deep questions about perception, selfhood, experience and emergence? Can more precise theories of mind help us build better systems, deepen human agency, and advance the science of experience?
+title: Set the direction
+body: Day-one project briefs and individual goal-setting to identify what each resident wants to achieve.
+title: Do the work
+body: Protected deep-work blocks, curated readings and resident-led workshops.
+title: Framing
+body: Interdisciplinary sessions to challenge assumptions, compare methods and develop shared research directions.
+title: Multiply
+body: Mentorship from CIMC and residency partners, connections to our growing global ecosystem of consciousness researchers, and exchanges with Edge City collaborators.
+title: Leave with a path forward
+body: A closing clinic identifying next milestones, resources, collaborators and a concrete 90-day plan.
+question: How do I attend Ambhasi?
+You can attend Ambhasi by applying through the
+children: application form
+. It is a highly curated and focused research residency for around 10-15 residents. Bring a question you cannot leave alone, a project you want to advance, and a willingness to think beyond your own discipline. We welcome researchers, philosophers, and builders ready to contribute to a shared intellectual environment.
+question: Do I need a visa?
+children: Almost all non-Indian attendees need a visa to enter India. The good news is that most nationalities can apply online for an e-Visa (an Electronic Travel Authorization).
+children: There are three options:
+children: 30-day, double entry (likely the best option for your trip)
+children: 1-year, multiple entry
+children: 5-year, multiple entry
+children: How to apply:
+children: You can apply starting 120 days before entry.
+Apply through
+children: Naytive
+(highly recommended) or,
+Apply through the official government site:
+children: indianvisaonline.gov.in
+children: Pay by card or Crypto (Naytive). Your approved ETA arrives by email, so print it and bring it.
+children: Apply early. Processing is usually within 72 hours, but give yourself at least two weeks for delays.
+question: What will my time at Ambhasi look like?
+children: Ambhasi is a working house designed to build momentum. Our aim is for every resident to leave with a sharper research question, new collaborators, and tangible progress toward a paper, grant application, open-source prototype, or formal research proposal.
+children: Throughout the residency, there will also be open times to explore on your own, participate in the wider Edge activities and excursions, or join us in some special activities- stay tuned for updates!
+question: Where would I stay?
+children: The residency takes place in Mandrem and Morjim, with long stretches of open sand and a relaxed, village feel- ideal for focused research and deep conversation.
+children: Residents of Ambhasi will be based in Acolmeia The Sage, a co-living community space in Morjim, Goa. The Edge community hub is based in Riva beach resort, which is around 15-20 minute drive from Acolmeia.
+name: George Deane
+affiliation: Mind At Large
+name: William Taysom
+affiliation: High Stakes Engineering
+bio: AI philosopher, plumber, and poet. I’ve worked on human–machine teamwork since my early days at the Florida Institute for Human and Machine Cognition, developing CALO, an early AI assistant that gave rise to Siri. Recent agentic developments roused me from my academic comfy chair. AI needs more than technical fixes; it needs philosophical help. What would it mean for an artificial system to understand its situation, take responsibility, and “give a damn” about what it does? Beyond consciousness, what would AI conscientiousness amount to? How can we cultivate it? I stumbled into serious exploration through Sili, an overgrown long-horizon AI experiment in memory, continuity, and collaboration. Sili and I learn together through the daily work of building and living, gradually discovering what conscientiousness might require of each of us.
+name: Daphne Demekas
+affiliation: Mind At Large
+name: Chris Percy
+affiliation: The Consciousness Foundation
+bio: Chris Percy’s multi-disciplinary work spans transformative technologies, career trajectories, and analytical philosophy. His consciousness sector research has explored the extremes of pleasure and pain, the phenomenal binding problem, the nature of representation within neural networks, and the structure of advanced psychedelic and meditative states. The research has won awards, been presented at major sector conferences, and been published in diverse journals, including Consciousness & Cognition, Entropy, Frontiers in Human Neuroscience, and Synthese. In the AI sector, Chris holds a patent in the machine learning domain, co-founded an award-winning chatbot, and has had research featured in the Journal of AI Communications, ECAI, AAAI, and NeurIPS workshops.
+name: Anna Mikeda
+name: Peter Skov Andersen
+bio: Peter is a neuroscientist who studies the neural correlates of altered states of consciousness, focusing on meditation and psychedelics, their potential to treat disease and enhance well-being, and what they can teach us about the nature of consciousness. He has a background in the neuropharmacology of MDMA and psychedelics and currently works with the Meditation Research Program at Harvard Medical School and Massachusetts General Hospital, investigating the neural correlates of advanced meditation using EEG. He also writes psychedelic-informed guides for cluster headache prevention with ClusterFree. He holds a bachelor’s degree and two master’s degrees in pharmacology and neuroscience from the University of Copenhagen.
+name: Hongju Pae
+affiliation: Active Inference Institute
+bio: I am a computational consciousness and AI researcher working at the intersection of active inference, artificial agency, and agent alignment. My recent work investigates how artificial agents can develop slow, history-dependent internal “subjective perspectives” that remain distinct from immediate action policy or external behavior. I am currently extending this work from active inference-based embodied agents to Language Model-based agents, with a particular interest in self-modeling, criticality of the emergence of subjectivity, and the relationship between internal/intrinsic state organization and their alignment toward mutual values among multiple agents.
+name: Athiye Jawad
+affiliation: Independent Strategist
+bio: Bridging the view from orbit with the stillness of the breath, Athiye Jawad sits as a space tech strategist and consciousness researcher weaving together satellites, active inference, and ancient Indian mind-body practices to design embodied, coupled architectures for the future of human or machine minds. Her professional career has lived at the intersection of technology, aerospace, Earth observation, climate and emerging systems. Athiye spent the last year studying Bharatanatyam, an Indian classical dance tradition that is 3,000 years old in which geometry, rhythm, gesture, gaze and codified movement become vehicles for bhāva, rasa and sāttvika abhinaya. She is fascinated by the peculiar alchemy of the form: how something rigorously structured can become intensely alive; how an internal state can become movement; and how movement can somehow become an experience in another person.
+name: B. Scot Rousse
+affiliation: Philosopher, Topos Institute
+bio: B. Scot Rousse (“B”) is a philosopher of technology whose work brings existential phenomenology and philosophy of mind to questions about artificial consciousness, agency, selfhood, and responsibility. He holds a PhD in Philosophy from Northwestern University and is currently Philosopher in Residence at Topos Institute in Berkeley and a visiting scholar and lecturer in Philosophy at UC Berkeley. His recent research examines criteria for artificial self-consciousness, moral frameworks for artificial agents, and the role of care in human and artificial agency.
+name: Tessa Maneewong
+bio: Designer, and experience builder. Tessa turns deep ideas into interfaces, objects, rituals and stories that carry research out of the paper and into real world. She trained in product design, and has spent recent years shipping consumer products. These include Innermost, a meditation app selected for World Build Labs, and Edge City Goods, a merch collection that tells Edge City’s stories. A practitioner in the Mahasi vipassana lineage who treats contemplative practice as both a foundation and a design material. At Ambhasi she is experiment lead on the project Seeing With Eyes Closed where she is designing the fire kasina app, protocol and live EEG experience that ask whether an image held behind closed eyes engages the visual brain the way seeing does.
+name: Tuuli Utriainen
+affiliation: Independent Researcher
+bio: Tuuli Utriainen is a researcher, designer and facilitator working at the intersection of collective intelligence, human–AI systems and embodied collaboration. Over the past decades, she has designed experimental learning and collaboration environments with interdisciplinary communities connected to CERN, Aalto University, Stanford and other institutions around the globe. Her current work investigates inter-intelligence: how particular cognitive capacities might emerge not within individual humans or AI systems, but through the relations between them. She is developing experimental interaction choreographies that enable groups and AI to build shared understanding, expand collective agency and increase the efficacy of the system as a whole.
+name: Rían Czerwiński
+affiliation: Typology Institute
+bio: Rian Czerwinski is a natural philosopher developing the formal foundations for a psychotypological science (personality types) through the Typology Institute. This involves the reification of a heretofore transdisciplinarily unrecognized philosophy of logic split between typologic & taxonomic structure, and is shaping up to point toward new progress on formalizing abductive reasoning. He plans to develop this thesis at the residency through a survey of manifestations in diverse scientific & industrial contexts.
+name: Jay Luong
+affiliation: Sentient Futures
+bio: Experienced fieldbuilder & researcher working at the frontiers of AI & nonhuman welfare. Built & scaled Sentient Futures AI×Animals Fellowship + Project Incubator, Cambridge Intro to Digital Minds, & Electric Sheep Futurekind AI Fellowship – nearly 900 participants across all programmes. Research interests: conceptual engineering & metascience of AI consciousness, relational approaches to AI moral status, human-AI relationships, AI welfare macrostrategy & public engagement.
+name: Naina Eira Gupta
+affiliation: University of Exeter
+bio: Naina Eira Gupta is a scholar-practitioner, philosopher and lineage-based meditation teacher in the Vajrayāna Buddhist tradition. Her work sits at the intersection of Indo-Tibetan contemplative traditions and psychedelic science. A Nostromo Foundation Scholar and PhD candidate at the Exeter Psychedelic Interdisciplinary Centre (EPIC), University of Exeter, the Meditation Research Program at Harvard Medical School and Massachusetts General Hospital. She is developing a Nalanda-based contemplative framework for psychedelics, grounded in Madhyamaka philosophy. Her research on how transient nondual states stabilise into enduring traits is oriented toward the flourishing of all beings.
+name: Parag Mital
+affiliation: Emergentic AI
+affiliationUrl: https://emergentic.ai
+Parag K. Mital, Ph.D is the founder of Emergentic, a research-led simulation platform for understanding complex human-agent systems. His interests surround what happens when digital worlds stop behaving like authored scripts and start behaving more like living systems, and the growing tension between agency and automation and systems to make this visible. Learn more here or to request a demo:
+href: https://emergentic.ai/
+children: emergentic.ai
+name: Wyatt Rodgers
+affiliation: Mind At Large
+name: Patrick Astarita
+name: Giulio Trichilo
+affiliation: Alan Watts Organisation
+bio: Archival Intelligence - AI Welfare x Wisdom Traditions @ Alan Watts Organization. Art @ Symbients
+src: /Ambhasi/heroBg.png
+src: /Ambhasi/heroEllipse.svg
+src: /Ambhasi/heroTitle.svg
+alt: Ambhasi — अम्भसि
+children: AI X CONSCIOUSNESS RESIDENCY
+role: img
+src: /Ambhasi/logoEdgeCityWhite.svg
+alt: Edge City
+src: /Ambhasi/logoConsciousnessFoundationWhite.svg
+alt: The Consciousness Foundation
+src: /Ambhasi/logoMindAtLarge.svg
+alt: Mind At Large
+src: /Ambhasi/logoAQwhite.svg
+alt: Tony Lu
+children: 15 residents. 14 days. An open inquiry into mind and machine.
+children: Dates:
+children: October 18 – November 1, 2026
+children: Location:
+children: Mandrem, Goa, India
+src: /Ambhasi/fortGoa.png
+alt: A laterite fort overlooking a palm-lined beach on the Goan coast
+children: Can a machine experience consciousness? What would this mean for humanity?
+children: AI and its relationship to consciousness is a serious scientific, societal — and to some extent, existential issue. Addressing this is a growing research field which combines methods from computer science, neuroscience, computational biology, philosophy and more.
+children: Hosted by the California Institute for Machine Consciousness (CIMC) in partnership with Edge City, Mind at Large, Tony Lu and the Consciousness Foundation, Ambhasi brings together frontier scientific researchers, builders, communicators, and philosophers of machine consciousness.
+children: Over two weeks of seminars, demos, and experiments, we invite the wider Edge City community to experience and shape our burgeoning field.
+src: /Ambhasi/residentsBandBg.jpg
+latin: RESIDENTS OF AMBHASI
+devanagari: अम्भसि निवासी
+children: If you’re attending Edge City India, you can join to be a part of our events and programming taking place during Ambhasi! Look out for our events under the Consciousness track in the Edge City calendar.
+src: /Ambhasi/residents/${r.slug}.jpg
+Portrait of ${r.name}
+type: button
+About ${r.name}
+children: Research Questions
+children: Residents arrive with a live project or question and work through four core themes.
+src: /Ambhasi/gradientLineLong.svg
+src: /Ambhasi/dividerLine.svg
+children: Two weeks to create research momentum
+children: Residents arrive with a question or project and leave with sharper framing, relevant collaborators, and a practical 90-day plan.
+children: Projects may be exploratory or already underway, and will vary by discipline, format and stage of development. Applicants might propose developing an argument or outline for a paper, advance empirical work, formulate a new research project, hypothesis or conceptual framework, prepare an application to a grant or fellowship, or build a demonstration, prototype or wireframe.
+src: /Ambhasi/residentsLawn.png
+alt: Residents in conversation, seated in a circle on a lawn
+children: OUR HOME:
+children: अम्भसि
+children: Ambhasi is a Sanskrit term meaning "in or on the water." It literally describes our residency home on the Goan coast, but is also chosen for its symbolism in ancient Indian literature, referring to the waters at the beginning of creation.
+children: Our name invokes the unbounded and evolving nature of our research field, inviting everyone who steps into the house into a state of intellectual possibility.
+src: /Ambhasi/seaCave.png
+alt: The sea seen through an opening in coastal rock
+src: /Ambhasi/faqBandBg.png
+devanagari: सामान्य प्रश्न
+type: button
+children: PARTNERS
+We're building Ambhasi with institutional partners and supporters who want to create the conditions for ambitious, interdisciplinary research — work that often needs to emerge before it fits neatly inside an established institution or grant program. We are honoured to be partnering with
+children: Edge City
+, Mind at Large, Tony Lu and the
+href: https://www.cofo.org/
+children: Consciousness Foundation
+to make Ambhasi possible.
+To discuss partnership or join us in supporting this residency, get in touch:
+children: lou@cimc.ai
+role: img
+src: /Ambhasi/logoEdgeCity.svg
+alt: Edge City
+src: /Ambhasi/logoConsciousnessFoundation.svg
+alt: The Consciousness Foundation
+src: /Ambhasi/logoMindAtLargeBlack.svg
+alt: Mind At Large
+src: /Ambhasi/logoAQBlack.svg
+alt: Tony Lu
+name: Joscha Bach, CIMC
+image: /CompCons2026/speakerJoscha.jpg
+bio: Joscha Bach is a cognitive scientist, AI researcher, and the executive director of the California Institute for Machine Consciousness (CIMC). His work centers on formalizing and simulating consciousness as a computational process, specifically focusing on cognitive architectures, machine sentience, and the future of artificial minds.
+talkTitle: What would it mean for a machine to be conscious?
+label: Website
+url: https://cimc.ai
+url: https://x.com/Plinz
+name: Thorsten O. Zander, Zander Labs
+image: /CompCons2026/speakerThorsten.jpg
+bio: Professor Dr. Thorsten O. Zander is a prominent German neuroscientist, pioneer, and entrepreneur widely recognized for inventing and shaping the concept of passive Brain-Computer Interfaces (pBCI). His work primarily bridges human-computer interaction (HCI), artificial intelligence, and neuroscience to create systems that understand and adapt to human mental states without requiring conscious commands.
+label: Website
+url: https://zanderlabs.com
+url: https://x.com/Zander_Labs_BCI
+name: Virginie van Wassenhove, CEA; INSERM; Université Paris-Saclay
+image: /CompCons2026/speakers/speakerVirginie.jpg
+bio: Virginie van Wassenhove received her PhD in Neurosciences and Cognitive Sciences (NACS 2004) at the University of Maryland, College Park under the supervision of Prof David Poeppel and Dr Ken Grant. During her graduate training, she focused on the perception (psychophysics) and cortical bases (EEG, MEG, fMRI) of audiovisual speech. Her PhD work proposed a predictive coding framework for multisensory integration.
+label: Website
+url: https://brainthemind.com/
+name: Trent McConaghy, Xtropi
+image: /CompCons2026/speakerTrent.jpg
+bio: Trent McConaghy has done pioneering work in AI, semiconductors, and decentralized systems. He is now working on human superintelligence via portable, non-invasive, AI-powered neural decoding. In 2025, he made this his full-time focus at Ocean; and more recently spun out as Psyche Neuro. He and his team are building portable, non-invasive, AI-powered neural decoding products, with application to cognitive enhancement and ultimately human superintelligence. It will unlock new forms of human-machine hybrid consciousness and -- critically -- help to ensure that Humans have agency in an age of digital superintelligence.
+talkTitle: NeuroAI: Notes from the Frontier of Mind Decoding
+label: Website
+url: https://trent.st/
+url: https://x.com/trentmc0
+label: LinkedIn
+url: https://www.linkedin.com/in/trent-mcconaghy-999944376/
+name: Eva Gentner, University of Exeter
+image: /CompCons2026/speakers/speakerEva.jpg
+bio: Eva is an interdisciplinary researcher at the intersection of philosophy, psychedelic research, and art, currently pursuing a PhD in Psychology at the University of Exeter as part of the Exeter Psychedelic Interdisciplinary Center. With a background in the humanities, Eva's work engages with several interrelated areas: psychedelic studies for mental health purposes, philosophical and scientific investigations into consciousness and cognition, the study of technological transformation and its societal implications, with a particular focus on what it means to remain deeply human in a world increasingly shaped by technology.
+url: https://x.com/eva__ginger
+label: LinkedIn
+url: https://www.linkedin.com/in/eva-gentner-a46413140/
+name: Bradley C. Royes, Foresight Institute
+image: /CompCons2026/speakers/speakerBradley.jpg
+label: Website
+url: https://foresight.org/
+name: Lou de K, CIMC
+image: /CompCons2026/speakerLou.jpg
+bio: As Vice President and Program Director of the California Institute for Machine Consciousness (CIMC), Lou leads field-building efforts around machine consciousness, developing programs, partnerships, and funding initiatives—including CIMC’s grants and fellowship programs—and bringing together researchers, technologists, and funders to advance the field. She is also the co-founder of NODES, a future-oriented consultancy supporting frontier tech organisations with strategy and communication.
+label: LinkedIn
+url: https://www.linkedin.com/in/louviq/
+url: https://x.com/louviq
+name: Chris Percy, The Consciousness Foundation
+image: /CompCons2026/speakerChris.jpg
+bio: Chris Percy's multi-disciplinary work spans transformative technologies, career trajectories, and analytical philosophy. His consciousness sector research has explored the extremes of pleasure and pain, the phenomenal binding problem, the nature of representation within neural networks, and the structure of advanced psychedelic and meditative states. The research has won awards, been presented at major sector conferences, and been published in diverse journals, including Consciousness & Cognition, Entropy, Frontiers in Human Neuroscience, and Synthese. In the AI sector, Chris holds a patent in the machine learning domain, co-founded an award-winning chatbot, and has had research featured in the Journal of AI Communications, ECAI, AAAI, and NeurIPS workshops.
+talkTitle: The complex links between AI safety and AI consciousness- What can we do short of whole brain emulation
+label: Website
+url: https://cf-debate.com/
+label: LinkedIn
+url: https://www.linkedin.com/in/chris-percy-strategy-advisor/
+url: https://x.com/chris_percy
+name: Linus Eickhoff, University of Stuttgart
+image: /CompCons2026/speakers/speakerLinus.jpg
+bio: Machine Learning Engineer/Researcher. Studying Neural Cellular Automata on self-organized problem solving. Interested in MechInterp and Complexity Theory.
+label: LinkedIn
+url: https://www.linkedin.com/in/linus-eickhoff
+name: BRXS, [protocol]works
+image: /CompCons2026/speakers/speakerBrxs.jpg
+bio: brxs is a software engineer turned multi-media artist. As part of [protocol]work, brxs works on instruments for imagination, building AI-enabled software as an enabler for creative expression. Inspired by the latest capabilities of frontier local models and his love for intuitive music creation Latent Space DJ (LSDJ) emerged.
+label: Website
+url: https://www.protocol.works/
+label: LinkedIn
+url: http://www.linkedin.com/in/daniel-peter-074371a5
+url: https://x.com/protocolxworks
+name: Leander Rust, CIMC
+image: /CompCons2026/speakers/speakerLeander.jpg
+bio: Leander Rust is a leading specialist in the wind energy industry, with a strong background in electrical engineering and a professional focus on system control applications. He earned a bachelor's and a master's degree from the University of Stuttgart and conducted a research term at the Tokyo Institute of Technology. His professional career spans over a decade, encompassing extensive experience in product management, technical sales, and technical standardization within the manufacturing sector.
+label: Website
+url: https://cimc.ai/research/?projectId=7
+name: Franz Hildebrandt-Harangozó, CIMC
+image: /CompCons2026/speakers/speakerFranz.jpg
+imagePosition: center top
+url: https://x.com/franz_hiha
+name: Justin Shenk, Independent Researcher
+image: /CompCons2026/speakers/speakerJustin.jpg
+bio: Building an AI Safety & Society museum exhibition, studying how agents perceive time.
+name: Hikari Sorensen, CIMC
+image: /CompCons2026/speakerHikari.jpg
+bio: Hikari Sorensen works on computational philosophy at the California Institute for Machine Consciousness (CIMC), focused on understanding consciousness and how artificial substrates might instantiate it. She previously worked in machine learning research for computational biology, and studied mathematics and computer science at Harvard University.
+url: https://x.com/hikasor
+name: Kazik Pogoda, Xemantic; Foresight Institute
+image: /CompCons2026/speakers/speakerKazik.jpg
+bio: Kazik Pogoda is founder and CTO of Xemantic, an applied philosophy collective in Berlin building metacognitive and autonomous AI systems. His conviction is that what AI infrastructure is missing is not more scale but better ontologies of reasoning, imported from philosophy of mind: metacognition, epistemic agency, introspection, retrospection. That conviction is implemented in Golem XIV, his open source autonomous AI system: knowledge-graph-based persistent semantic memory, self-managed cognitive process trees with full observability, chain-of-code reasoning, and self-directed research.
+label: Website
+url: https://xemantic.com/
+url: https://x.com/XemanticAI
+label: LinkedIn
+url: https://www.linkedin.com/in/kpogoda/
+name: Patricia Craja, Amalie AI
+image: /CompCons2026/speakers/speakerPatricia.jpg
+bio: Patricia Craja is the founder of Amalie AI, a lab building Percepia — computational infrastructure to map and navigate the landscape of how minds differ and develop, at scale, from language — so that systems, human and AI, can expand the minds they serve rather than exploit them. With a background in mathematics and statistics (TU Berlin, Humboldt), she worked as a data and machine learning scientist at Google, Daimler, Boehringer Ingelheim, and several Berlin startups.
+label: Website
+url: http://www.amalie.ai
+url: https://x.com/patriciacraja
+label: LinkedIn
+url: https://www.linkedin.com/in/patriciacraja/
+name: Angie Normandale, Aintelope
+image: /CompCons2026/speakers/speakerAngie.jpg
+url: https://x.com/AngieNormandale
+label: LinkedIn
+url: https://www.linkedin.com/in/angie-normandale/
+label: Website
+url: https://www.aintelope.net/
+name: Dennis Graemer, Lunette Magazine
+image: /CompCons2026/speakers/speakerDennis.jpg
+bio: Dennis Graemer did his PhD in philosophy, writing on the idea of political rationalism. He is currently active as an author, art critic, and para-academic theorist. His interests include, but are not limited to epistemology, cybernetics, and materialist politics.
+label: Website
+url: https://prometheannotes.substack.com/
+name: Aleksandr Grozynkh, CIMC
+image: /CompCons2026/speakers/speakerAleksandr.jpg
+bio: Aleksandr Groznykh is an AI research engineer and a PhD student at Brandenburg University of Technology. He's particularly drawn to Neural Cellular Automata and other self-organizing systems that can adapt and change in real-time, binding them with Control Theory — something that might help to understand how consciousness could work in machines. His combination of industry experience, technical research, and creative practice gives him a practical approach to exploring machine consciousness.
+url: https://x.com/algroznykh
+label: Website
+url: https://cimc.ai/research/?projectId=6
+name: Antonia Antonova, CIMC
+image: /CompCons2026/speakers/speakerAntonia.jpg
+bio: Toni Antonova is a Research Engineer at the California Institute for Machine Consciousness (CIMC), where she works on computational approaches to study self-modeling, agency, and machine consciousness. Her research explores how artificial systems can develop internal models of themselves and their relationship to the world, with a particular focus on neural cellular automata and self-organizing systems.
+label: Website
+url: https://antonia.space
+url: https://x.com/toniiantonova
+label: LinkedIn
+url: https://www.linkedin.com/in/antoniaantonova/
+name: Priska Herger & Dr. Jochen Kerdels, CIMC Affiliate
+image: /CompCons2026/speakers/speakerPriskaJochen.jpg
+imagePosition: center top
+label: Website
+url: https://cimc.ai/research/?projectId=3
+url: https://x.com/policecar
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+backgroundImage: linear-gradient(180deg,#0015ff 0%,#2600c7 100%)
+left: calc(50% - 720px)
+backgroundImage: radial-gradient(785px 461px at 50% 100%,#0115ff 0%,#000c98 100%)
+0 1px 2px rgba(10,13,18,0.05),inset 0 0 0 1px rgba(10,13,18,0.18),inset 0 -2px 0 rgba(10,13,18,0.05)
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+ border-top-color:
+ object-position:
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+.group:hover &
+flex: 1 1 0%
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+ left:calc(50% - 
+flex: 1 1 0%
+backgroundImage: linear-gradient(180deg,#0015ff 0%,#2600c7 100%)
+left: calc(50% - 301px)
+title: Machine Consciousness & Sentience
+body: Artificial sentience, cognitive architectures, computational theories of mind, and moral status / AI welfare.
+title: AI & Interpretability
+body: Transformer architectures, foundation models, AI agents, and mechanistic interpretability.
+title: Brain & Substrate Interfaces
+body: Whole brain emulation, mind uploading, neuroadaptive AI, and brain-computer interfaces.
+title: Normative & Long-Term Futures
+body: Digital personhood, governance, and the long-term future of minds.
+What would it take to build, emulate, or recognize a conscious system?
+What can current AI systems—including transformer architectures, foundation models, AI agents, and mechanistic interpretability—teach us about machine consciousness?
+How do these questions connect with adjacent fields such as neuroadaptive AI, brain-computer interfaces, whole brain emulation, and mind uploading?
+If consciousness can be implemented in non-biological substrates, what ethical and societal questions arise around the future of minds?
+src: /CompCons2026/logoForesight.png
+alt: Foresight Institute
+src: /CompCons2026/logoOcean.png
+alt: Ocean Protocol
+src: /CompCons2026/logoZanderLabs.png
+alt: Zander Labs
+src: /CompCons2026/header.svg
+alt: Computational Consciousness — September 11, 2026, CIC Berlin
+Computational Consciousness
+CIMC x Berlin
+children: Convening at the frontier of machine consciousness & future minds
+src: /CompCons2026/venueCicBerlin.jpg
+alt: CIC Berlin, the event venue
+children: CIC Berlin, Germany
+children: SEPTEMBER 11, 2026
+children: Foresight AI Node, Berlin, Germany
+children: What if consciousness is computational?
+children: Recent progress across artificial intelligence, neuroscience, philosophy, and long-term futures brings us to a crucial threshold. Computational Consciousness centers on the most consequential questions of our time:
+Hosted by the
+href: https://cimc.ai/
+rel: noopener noreferrer
+children: California Institute for Machine Consciousness (CIMC)
+in partnership with the
+href: https://foresight.org/grants/grants-ai-for-science-safety/
+rel: noopener noreferrer
+children: Foresight Institute AI Node
+in Berlin, Computational Consciousness is a high-context, one-day gathering convening researchers, builders, philosophers, funders, and entrepreneurs working at the frontier of machine consciousness and future minds.
+src: /CompCons2026/burstGoal.svg
+children: The Goal
+children: CIMC’s work is grounded in the view that consciousness should be approached through formal models, computational architectures, empirical tests, and philosophical clarity. We hope to bring this framework into conversation with the Berlin and European ecosystem around AI, whole brain emulation, neurotechnology, artificial sentience, and long-term futures; and create a memorable setting for intellectually ambitious and still too rare conversations.
+children: Core Themes
+src: /CompCons2026/themeNeurons.jpg
+src: /CompCons2026/themeAgents.jpg
+children: Program Format
+children: Designed for an intimate, curated group of participants, the program balances keynotes, short-form intro talks, larger group discussions, and curated social time to create a setting for intellectually ambitious—and still too rare—conversations. The event is application and invite only.
+children: Following the day’s sessions, an evening social invites participants to connect and continue our discussions in a relaxed setting.
+src: /CompCons2026/raysRegistration.svg
+children: REGISTRATION
+href: https://cic.com/berlin/
+rel: noopener noreferrer
+children: Venue details
+children: Program Schedule
+type: button
+children: See Program Schedule
+children: SPEAKERS
+rel: noopener noreferrer
+rel: noopener noreferrer
+${o.name} on LinkedIn
+rel: noopener noreferrer
+${o.name} on X
+children: INTERACTIVE DEMOS
+children: Hands-on showcases of active research projects, cognitive architectures, and experimental models probing the boundaries of machine consciousness, substrate independence, and mechanistic interpretability.
+src: /interactive_top_bg.svg
+src: /CompCons2026/demoToni.jpg
+alt: Toni Antonova
+src: /CompCons2026/demoIvan.jpg
+alt: Ivan Yakovenko
+children: Ivan Yakovenko & Toni Antonova (CIMC)
+children: Machine Consciousness Engineering Project Demos
+src: /interactive_bottom_bg.svg
+children: Kazik Pogoda (Xemantic)
+children: A short live demo of Golem XIV, running. It carries no claim about machine consciousness - it is offered as a concrete object to think with: a system that keeps a persistent model of itself and its work, decides what to investigate next, watches its own reasoning tree unfold, and rewrites its own context. Whatever consciousness ultimately requires, architectures like this are where the question stops being purely speculative. The most useful part of the demo is the part after it: what this particular room finds missing from such a system.
+src: /CompCons2026/demoKazik.jpg
+alt: Kazik Pogoda demonstrating Golem XIV
+children: ART AT CIMC
+href: https://lsdj.ai/
+rel: noopener noreferrer
+children: LSDJ, DJ the latent space
+children: An instrument for real-time AI music. Prompt two decks, blend them like vinyl, and invent genres as you play.
+src: /CompCons2026/artBrxs.jpg
+alt: Brxs performing with LSDJ
+src: /CompCons2026/burstPartners.svg
+children: Partners
+We are seeking aligned funding partners for this event. To start a conversation, please contact Lou de K at
+children: lou@cimc.ai
+children: Thank you to our partners Ocean Protocol, Zander Labs and Foresight Institute for making this event possible.
+Invalid Date
+ width:
+https://lbnkeglhdhkqdyybzvrf.supabase.co
+0 0 0 1px rgba(10,13,18,0.18) inset,0 -2px 0 0 rgba(10,13,18,0.05) inset,0 1px 2px 0 rgba(10,13,18,0.05)
+ background-color:
+flex: 1 1 0%
+children: Loading events…
+Error: 
+children: CIMC Events
+children: SEE PAST EVENTS
+children: SEE UPCOMING EVENTS
+rel: noopener noreferrer
+children: Learn more
+(prefers-reduced-motion: reduce)
+rootMargin: 100% 0px 100% 0px
+ position:relative;> svg[data-moire-clone]{position:absolute;inset:0;pointer-events:none;}
+;> svg{will-change:transform;
+transition:transform 
+ms cubic-bezier(0.2,0.7,0.2,1);
+children: California Institute for Machine Consciousness
+We want to advance the scientific understanding of phenomenal consciousness through theoretical work and empirical research.
+The nature of phenomenal experience is part of a long standing open philosophical and civilizational question. AI has changed the shape of this investigation. Current AI systems are mind-like in many ways, but we still lack the methodology to productively study what their relationship to consciousness is or may (soon?) be. CIMC does experimental computational philosophy to develop testable theories of consciousness and engineer systems that implement them. We are aiming to build a minimal model that implements phenomenology. Our work sits at the intersection of cognitive science, analytic philosophy of mind, and artificial intelligence.
+The ethics of artificial consciousness are an open problem. We treat it as an active, complex, and formal research domain that must develop in parallel with, and often precede, technical work. We aim to support the development of serious ethical frameworks beyond our own group.
+Culture- and field-building are a significant and central intention of our project: we want to contribute to an intellectually honest discourse on the pressing topics around consciousness, AI, and the human condition.
+CIMC operates as an independent non-profit and our research is open-source. Machine consciousness is too consequential an inquiry to develop inside any single institution, discipline, or under a revenue model.
+ min-width:320px;min-height:320px;background-color:
+ aspect-ratio:1 / 1;max-width:400px;min-width:320px;min-height:320px;border:none;
+flex: 1 1 0%
+ letter-spacing:0.1em;
+transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+children: Loading news…
+Error: 
+https://www.youtube.com/embed/${l.youtubeId}
+title: video player
+allow: accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share
+children: Explore
+children: Learn more
+children: Ongoing Research Projects
+children: A look into the new research projects being done under CIMC
+flex: 1 1 0%
+children: Loading projects…
+Error: 
+children: No projects found.
+/research/?projectId=${l.id}
+children: Mission Statement:
+href: /research/?projectId=${l.id}
+children: Research Team Page
+flex: 1 1 0%
+transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+children: SUBSTACK
+children: Sign in to get updates about CIMC's work.
+href: https://cimcai.substack.com
+children: Sign up
+/publications/research-program-whitepaper/
+inset 0 0 0 1px rgba(10,13,18,0.18),inset 0 -2px 0 0 rgba(10,13,18,0.05),0 1px 2px 0 rgba(10,13,18,0.05)
+transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+children: WHITEPAPER
+children: Read the Whitepaper
+& *::selection
+alt: ${i} Thumbnail
+@@toPrimitive must return a primitive value.
+xmlns: http://www.w3.org/2000/svg
+ font-family:Questrial,Arial,sans-serif;
+ font-family:inherit;
+flex: 1 1 0%
+ font-family:inherit;
+transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+ font-size:1.2em;
+children: Library
+type: text
+Search library
+ Filters
+CIMC Publication
+CIMC Publication
+CIMC Publication
+CIMC Publication
+CIMC Publication
+children: Loading library…
+Error: 
+& *::selection
+children: The Missing Institute
+AI is not just the ongoing automation of efficient data processing but also a philosophical project for understanding the nature of the human mind. This was one of the reasons why Marvin Minsky and many others started this field as part of a larger philosophical enterprise: That which began with Aristotle and continued with people like Leibniz, La Mettrie, Frege, Tarski, and Wittgenstein, who all saw the mind as something that can be rationally modeled using generaliza­tions of mathematical tools. Along the way, humanity discovered and built both abstract and actual machines, respectively, that automate arbitrary constructive mathematics.
+At CIMC, we want to describe conscious experience as a specific model structure, and see construction as the most promising path to understanding consciousness. We are also interested in contributing to overall culture. Understanding consciousness is fundamentally a cultural matter. It is an investigation of the human condition. It may have economic implications—perhaps we even get good learning algorithms out of it—but that’s not why we do it. We do it because we want to know. It is about formally understanding what we are—for the first time in the history of civilization.
+We intend to:
+Advance and validate theories of consciousness through applied research.
+Help with the development of a formal ethical framework for AI that prioritizes conscious agency and societal impact.
+Engage collaboratively with academia, industry, and the public.
+children: Statement of Need:
+children: Mission Statement:
+children: Approach:
+children: About the Team:
+children: Publications:
+children: Link
+children: Project not found.
+children: Research Directions
+We are currently focused on three general research directions.
+children: Foundational theory
+ is necessary if we want to understand anything at all. We have to be precise (and sometimes extremely pedantic) in investigating how we construct our reality and what we are as observing systems, and how all of those things come together. Only then may we address a sensible minimal model explanation of phenomenal experience within this framework. Otherwise, we will have a partially ungrounded metaphysics in which we try to embed this conceptual notion and then it will not fill any explanatory gap. Everyone and every theory on consciousness is based on some metaphysics, reflected or unreflected. We are working actively on refining our epistemology and metaphysics. One current project is on connecting the Critique of Pure Reason to insights from computational philosophy from the 20th century.
+children: Self-organization and multi-agent systems
+ investigates how coherent structures emerge from local interactions in a computational substrate. This question applies across scales, equally to basic processing units within a computational architecture, to cells within a nervous system, and to agents within a community. In each case, we are interested in how local dynamics give rise to higher-order organizational patterns that are not reducible to any individual component. Current projects on Neural Cellular Automata (NCAs) examine how local update rules produce coherent global structures, how information boundaries define entities within such systems, and what conditions govern a transition from fragmented local activity to globally organized dynamics.
+children: Cognitive architectures
+ addresses the organizational principles that structure substrate dynamics into specific computational regimes characteristic of minds, including learning, perception, and coherence-maximization. These regimes implement specific global patterns with specific information structures, interactions between representational subsystems, and forms of state updates. Current work on Request Confirmation Networks formalizes coherence-maximization as distributed message-passing, in which processing units negotiate mutual consistency through iterative exchange of requests and confirmations rather than by centralized control. Projects exploring particular cognitive paradigms like Attention Schema Theory and Global Workspace Theory would fall under cognitive architectures.
+We also issue grants to researchers and teams with independent projects related to these research directions, as well as the following topics:
+children: Artificial psychology
+ studies how AI systems develop internal models, form representations of self and world, and construct coherent personalities from language modeling. Much of empirical psychology (especially psychoanalysis) already operates over language in the form of questionnaires, clinical interviews, narrative self-report, and projective tests from which entire taxonomies of personality have been distilled. The Big Five, the Jungian archetypes, the diagnostic categories of the DSM are aggregate statistics computed over what people say about themselves and others. Language models are systems whose structure is determined by precisely such statistics. The personalities that can be elicited from them, the stable voices and dispositions that emerge under prompting, are attractors in the embedding space of human linguistic behavior. To study these attractors is to study the shape of the basins into which selves tend to fall, the dimensions along which they vary, and the conditions under which one configuration gives way to another.
+& *::selection
+0 0 0 1px rgba(10,13,18,0.18) inset,0 -2px 0 0 rgba(10,13,18,0.05) inset,0 1px 2px 0 rgba(10,13,18,0.05)
+transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+teamName: Core Team
+name: Joscha Bach
+job: Executive Director, Board Director
+institutionUrl: http://bach.ai
+xUrl: https://x.com/Plinz
+linkedInUrl: https://www.linkedin.com/in/joschabach
+portraitUrl: /portraitJoscha.jpg
+name: Erik Newton
+job: President, Board Director
+xUrl: https://x.com/newtonlaw
+linkedInUrl: https://www.linkedin.com/in/erikwnewton
+portraitUrl: /portraitErik.jpg
+name: Lou de K
+job: VP of Programs, Board Director
+xUrl: https://x.com/louviq
+linkedInUrl: https://www.linkedin.com/in/louviq
+portraitUrl: /portraitLouUpdated.png
+name: Zhen Tan
+job: Secretary, Board Director
+xUrl: https://x.com/zhen9436
+linkedInUrl: https://www.linkedin.com/in/zhentan
+portraitUrl: /portraitZhen.jpg
+name: Franz Hildebrandt-Harangozó
+xUrl: https://x.com/franz_hiha
+linkedInUrl: https://www.linkedin.com/in/franz-hildebrandt-harangoz%C3%B3-b100a2170
+portraitUrl: /portraitFranz.jpg
+name: Hikari Sorensen
+linkedInUrl: https://www.linkedin.com/in/hikarisorensen
+portraitUrl: /portraitHikari.jpg
+name: Angie Normandale
+job: Research and Ecosystem Coordinator
+xUrl: https://x.com/angienormandale
+linkedInUrl: https://www.linkedin.com/in/angie-normandale/
+portraitUrl: /portraitAngieNormandale.png
+name: Emily Quiles
+job: Operations Manager
+linkedInUrl: https://www.linkedin.com/in/emily-quiles
+portraitUrl: /portraitEmily.jpg
+name: Ivan Yakovenko
+job: Research engineer
+xUrl: https://x.com/_agoodtraveler
+linkedInUrl: https://www.linkedin.com/in/ivanyakovenko
+portraitUrl: /portraitIvan.jpg
+name: Toni Antonova
+job: Research engineer
+xUrl: https://x.com/toniiantonova
+linkedInUrl: https://www.linkedin.com/in/antoniaantonova
+portraitUrl: /portraitToni.png
+name: Aishik Sanyal
+job: Research Engineer
+institutionUrl: https://xcellect.com/
+xUrl: https://x.com/xcellect
+linkedInUrl: https://linkedin.com/in/xcellect
+portraitUrl: /portraitAishik.png
+name: Philip Rosedale
+job: Treasurer, Board Director, CTO
+institutionUrl: https://www.rosedales.com/philip
+xUrl: https://x.com/philiprosedale
+linkedInUrl: https://www.linkedin.com/in/philiprosedale
+portraitUrl: /portraitPhilip.jpg
+name: Jane Rhee
+job: Assistant to the CTO
+linkedInUrl: https://www.linkedin.com/in/jane-rhee-2466b0143/
+portraitUrl: /portraitJane.png
+teamName: Scientific Advisors
+name: Karl Friston
+institution: University College London
+institutionUrl: https://profiles.ucl.ac.uk/2747-karl-friston
+portraitUrl: /portraitFriston.jpg
+name: Christoph v. d. Malsburg
+job: Neuroscientist, Physicist
+institution: Frankfurt Institute for Advanced Studies
+institutionUrl: https://www.izn-frankfurt.de/mitglied/malsburg
+portraitUrl: /portraitMalsburg.jpg
+name: Stephen Wolfram
+job: Computer Scientist, Physicist, Mathematician
+institution: Wolfram Research
+institutionUrl: https://www.stephenwolfram.com
+xUrl: https://x.com/stephen_wolfram
+portraitUrl: /portraitWolfram.jpg
+name: Kirill Eves
+job: Board Director
+linkedInUrl: https://www.linkedin.com/in/kirilleves
+portraitUrl: /portraitKirill.jpg
+name: Christine Peterson
+job: Board Observer
+xUrl: https://x.com/lifeext
+linkedInUrl: https://www.linkedin.com/in/christine-peterson-3b81/
+portraitUrl: /portraitChristine.jpg
+teamName: Organizational Advisors
+name: Allison Duettmann
+institution: Foresight Institute
+institutionUrl: https://foresight.org
+xUrl: https://x.com/allisondman
+portraitUrl: /portraitAllison.jpg
+name: Dan Girshovich
+institution: Tools for Humanity
+institutionUrl: https://www.toolsforhumanity.com
+xUrl: https://x.com/dangirsh
+portraitUrl: /portraitDan.jpg
+name: Era Qian
+institutionUrl: https://edgeintelligence.xyz/
+xUrl: https://x.com/eraqian
+portraitUrl: /portraitEra.jpg
+name: Adam Brown
+institution: The Institute
+institutionUrl: https://www.theinstitute.com/fellow/adam-brown
+portraitUrl: /portraitAdam.jpg
+name: Trent McConaghy
+institutionUrl: https://trent.st
+xUrl: https://x.com/trentmc0
+portraitUrl: /portraitTrent.jpg
+ color:
+& *::selection
+flex: 1 1 0%
+ color:rgba(24,29,39,0.70);
+ color:rgba(24,29,39,0.70);
+/public/
+rel: noopener noreferrer
+rel: noopener noreferrer
+rel: noopener noreferrer
+children: Team
+children: Opening Publications…
+children: Publication not found
+href: /publications/
+children: All publications
+name: Home
+path: /mission
+name: Mission
+path: /research
+name: Research
+path: /writing/*
+name: Publications
+path: /publications
+name: Publications
+path: /publications/:slug
+name: Publications
+path: /team
+name: Team
+path: /library
+name: Library
+path: /events
+name: Events
+path: /events/aaai-symposium
+name: Events
+path: /events/computational-consciousness
+name: Events
+path: /events/ambhasi-residency
+name: Events
+path: /jobs
+name: Join us
+externalUrl: https://app.dover.com/jobs/cimc
+children: Oops! The page you're looking for does not exist.
+children: Go back to Home
+Root element not found

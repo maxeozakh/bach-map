@@ -1,0 +1,2035 @@
+# source: https://www.youtube.com/watch?v=ayW7SDyAjZo
+# generated=True lang=en
+[0:00:00] All right, today we are joined for what
+[0:00:02] promises to be an interesting
+[0:00:03] conversation between two intellectuals I
+[0:00:06] have great respect for both past guests
+[0:00:08] on the podcast and making his second
+[0:00:11] appearance it's Joscha Bach. Joscha, how
+[0:00:12] are you doing today?
+[0:00:14] >> Hello. Thank you for having me on.
+[0:00:16] >> We had a great conversation about the
+[0:00:18] connect home, about the the the the
+[0:00:21] ghost in the machine uh over the summer
+[0:00:24] and the spring and that was well
+[0:00:25] received. Got more attention on on
+[0:00:28] Reddit. People have very they're very
+[0:00:30] opinionated about you on Reddit over
+[0:00:32] there. Um
+[0:00:33] as they are about almost anything. And
+[0:00:36] then Roman Yampolskiy needs no
+[0:00:37] introduction, most popular guest ever on
+[0:00:40] many podcasts. And now has his own and
+[0:00:43] has hit 200,000 play at DJ set.
+[0:00:47] Uh Roman, welcome back to the Into the
+[0:00:49] Impossible podcast, your third
+[0:00:50] appearance.
+[0:00:51] >> Thanks for setting it up.
+[0:00:53] >> Yeah, it's a real pleasure. Uh so I like
+[0:00:55] both of you guys a lot and you know like
+[0:00:58] when my kids fight I get mad. Uh over
+[0:01:00] the summer there was some clip going
+[0:01:02] around about Roman as he's often want to
+[0:01:04] do, you know, promoting the concerns
+[0:01:06] that I think are legitimate we should
+[0:01:08] talk about with regard to AI safety
+[0:01:10] which is term he coined and has uh
+[0:01:12] certainly done more than anybody on
+[0:01:14] Earth to bring awareness to. And
+[0:01:16] simultaneously Joscha who's one of the
+[0:01:18] deepest thinkers available
+[0:01:21] uh had a little bit of a a snarky reply,
+[0:01:23] a comment on Twitter that it's not a
+[0:01:26] it's not possible for Roman to
+[0:01:27] simultaneously believe in the simulation
+[0:01:30] hypothesis and also be assured, if I get
+[0:01:33] this correct, of 100% nearly 100%
+[0:01:35] p-doom. So I hate p-doom. I think p-doom
+[0:01:39] is like uh the the the redheaded
+[0:01:41] stepchild of the Drake equation. I think
+[0:01:44] it's nonsense. Uh I mean just like the
+[0:01:46] Drake equation, no one's ever looked at
+[0:01:47] the Drake equation and done an actual uh
+[0:01:50] calculation or done an actual
+[0:01:51] measurement that could be falsified.
+[0:01:53] It's it's just a framework. I think
+[0:01:55] p-doom is the same. But uh Josh, Yosha,
+[0:01:58] can you explicate your thesis a little
+[0:02:00] bit more? Why is it simultaneously
+[0:02:01] impossible for Roman or anybody else to
+[0:02:04] believe in the simulation hypothesis? Or
+[0:02:05] why is it a contradiction and also
+[0:02:07] believe in P-Doom? Why is that being
+[0:02:09] high?
+[0:02:10] >> It is totally possible to believe both
+[0:02:12] that we are in a simulation and that we
+[0:02:15] are doomed to a certain degree or to
+[0:02:17] 100% because it could be that you are
+[0:02:19] simply in some kind of computer game,
+[0:02:21] which I think what the simulation
+[0:02:23] hypothesis comes down to, that we are
+[0:02:24] running in a computer in the basement of
+[0:02:28] in a parent universe.
+[0:02:30] And
+[0:02:31] in this computer game, we can be doomed.
+[0:02:33] Of course, this can be the case. Well,
+[0:02:35] it could also be that our actions within
+[0:02:37] the game, despite the game being
+[0:02:39] deterministic and so on, which leads to
+[0:02:40] the usual questions about how we
+[0:02:42] interpret our freedom of will,
+[0:02:45] lead to a certain outcome in which our
+[0:02:47] actions are causing the probability of
+[0:02:50] that doom to change. That's all
+[0:02:52] possible. The question is whether it
+[0:02:53] matters.
+[0:02:54] And so, when you are in in a computer
+[0:02:56] game, the thing that you are in is not
+[0:02:58] necessarily the thing that it's a game,
+[0:03:00] but you are in there for a certain
+[0:03:02] amount of time. There's ultimately no
+[0:03:04] point to this whole thing. And so,
+[0:03:06] the question whether you should be
+[0:03:08] worrying whether the AI wins or you win
+[0:03:10] is is a different one for most people, I
+[0:03:13] would say, than it is when you believe
+[0:03:15] that you're actually in base reality and
+[0:03:17] what we do originally matters because
+[0:03:19] our
+[0:03:19] creativity decides on how this universe
+[0:03:22] is going to end up.
+[0:03:24] >> Do you think it's possible, Yosha? First
+[0:03:26] of all, let's get this out of the way.
+[0:03:28] Do you do you subscribe to any validity,
+[0:03:31] any marginal utility of the concept of
+[0:03:34] P-Doom? Cuz I don't, but do you?
+[0:03:37] >> Well, I think that it's very difficult
+[0:03:38] to estimate P-Doom reasonably, but I
+[0:03:42] make the argument if you have different
+[0:03:43] people will see the future differently
+[0:03:45] that
+[0:03:46] this should lead to different
+[0:03:47] probabilities. I that might not be that
+[0:03:50] these probabilities
+[0:03:51] are important as a real number, but they
+[0:03:54] are important in relationship to each
+[0:03:55] other in the sense of
+[0:03:57] if you were to shut down the big AI
+[0:03:59] labs, is this going to increase or
+[0:04:02] decrease the probability of this or that
+[0:04:04] event? And in this way, I think it makes
+[0:04:06] sense to ask people for
+[0:04:09] how their probability estimates change
+[0:04:11] even though I think
+[0:04:13] there are too many factors involved to
+[0:04:15] put
+[0:04:16] meaningful even magnitudes on the P doom
+[0:04:19] estimates.
+[0:04:20] I sometimes say that my P doom without
+[0:04:23] artificial intelligence is higher than
+[0:04:25] this.
+[0:04:26] Right? That's also a P doom estimate,
+[0:04:28] but I
+[0:04:29] I mean in the long run P doom is one. In
+[0:04:32] the long run we are all dead as a famous
+[0:04:34] economist once said, and that's
+[0:04:36] inevitable. But back to this original
+[0:04:37] question, you probably remember the
+[0:04:39] movie The Matrix. In The Matrix, people
+[0:04:42] are living in a simulation, which means
+[0:04:44] that the reality that they are
+[0:04:45] perceiving is not the reality of the
+[0:04:47] base universe. It's one that is
+[0:04:49] artificially created to entertain, to
+[0:04:52] deceive them. It's a smokes and mirrors
+[0:04:53] reality like ours would be that pretends
+[0:04:56] to be quantum mechanical and so on
+[0:04:58] instead of indicating that we are base
+[0:05:00] reality. And if that is the case, then
+[0:05:02] you still have people who say, "But I
+[0:05:05] prefer to be in a reality in this zero
+[0:05:07] reality instead of being in base reality
+[0:05:09] and have a good steak in there." And
+[0:05:12] this good steak that you want to have
+[0:05:14] that is nicely simulated, I wonder if
+[0:05:16] this is what Roman is after. So
+[0:05:18] basically he is uh
+[0:05:20] farming risk by being a doom monger, by
+[0:05:23] going in on the topic that is most
+[0:05:25] interesting, having probably the highest
+[0:05:27] P doom rating out there, higher than
+[0:05:29] Eliezer, the grandfather and OG doom
+[0:05:32] master of artificial intelligence. And I
+[0:05:36] wonder if this is a deliberate position
+[0:05:38] to simply by occupy an useful position
+[0:05:41] in the media universe regardless of the
+[0:05:44] despair and anxiety you might be
+[0:05:46] creating as a side effect. Whether this
+[0:05:48] is responsible or not, I wonder. And
+[0:05:51] what is your thinking on this, Roman? Do
+[0:05:52] you feel that you are a legitimate
+[0:05:54] prophet and warner who is simply doing
+[0:05:57] his best to sincerely increase the
+[0:05:59] probability for a good outcome? And if
+[0:06:01] so, do you think this is the best
+[0:06:02] strategy?
+[0:06:04] >> If I didn't think it was the best
+[0:06:05] strategy, I wouldn't be doing it, right?
+[0:06:07] If [clears throat] I remember correctly,
+[0:06:09] your tweet was more about if it's a
+[0:06:11] simulation, why would anything matter?
+[0:06:13] And I disagree completely. I think pain
+[0:06:16] is pain, love is love. That's the only
+[0:06:18] universe I have, and that's the only
+[0:06:20] life I have. To me, the difference
+[0:06:22] between simulation and base reality is
+[0:06:25] the substrate. Is it atoms or is it
+[0:06:27] bits? Everything else stays the same.
+[0:06:29] I have no problem
+[0:06:31] worrying about creation of advanced AI
+[0:06:33] within a simulation and how it can
+[0:06:36] impact my family, humanity as a whole. I
+[0:06:39] see zero contradictions in those
+[0:06:40] statements.
+[0:06:41] >> Okay, but there is a fundamental
+[0:06:43] disagreement there.
+[0:06:44] >> Okay.
+[0:06:45] >> If if the your idea of simulation
+[0:06:47] universe is simply it from bit,
+[0:06:50] right? Then um
+[0:06:53] I wouldn't think that you are a
+[0:06:54] simulationist in my world.
+[0:06:56] Because the atoms are not something that
+[0:06:58] somebody has discovered as base reality.
+[0:07:01] Right? Matter is not something that
+[0:07:02] exists at base reality. It's a
+[0:07:03] particular way in which we talk about
+[0:07:05] information.
+[0:07:06] >> I don't think you know anything about
+[0:07:08] base reality, right? You haven't visited
+[0:07:10] yet.
+[0:07:12] >> How how Wait. Roman,
+[0:07:14] >> Do you want me to continue my answer or
+[0:07:16] we going to have more of a boxing match?
+[0:07:18] >> I'm happy with both.
+[0:07:19] >> I'm happy with both. I just need to know
+[0:07:20] what Sorry.
+[0:07:21] >> Apologies.
+[0:07:22] >> Go ahead, Roman. We'll we'll keep it
+[0:07:23] We're keeping it very simple here.
+[0:07:24] >> So, P Doom is a useful tool. We do risk
+[0:07:27] assessment in all sorts of industries.
+[0:07:29] You know how dangerous it is to fly, how
+[0:07:31] dangerous it is to drive.
+[0:07:33] The numbers are not randomly generated.
+[0:07:37] I agree that someone with P Doom of 46%
+[0:07:40] has a lot of explaining to do as how
+[0:07:42] they got there.
+[0:07:43] Levels around zero and one
+[0:07:46] are much easier. You may have zero
+[0:07:48] concerns because you have a working
+[0:07:50] safety mechanism in place, or you may
+[0:07:52] argue that the problem is impossible. If
+[0:07:54] I ask you about your probabilities of
+[0:07:56] creating perpetual motion device, I'll
+[0:07:58] say you're going to be around zero,
+[0:08:00] right? The inverse of it, of course, is
+[0:08:01] one. And that's how I feel about our
+[0:08:04] ability to control general
+[0:08:05] superintelligence indefinitely. You
+[0:08:07] can't. It's impossible. You're not going
+[0:08:09] to have a technical solution. What does
+[0:08:11] that mean? It means if you give it
+[0:08:13] enough time, it will probably end up
+[0:08:15] very poorly for us because it doesn't
+[0:08:18] care about you. You're not controlling
+[0:08:19] it. It has other goals and limited
+[0:08:22] resources in our universe and our
+[0:08:24] planet. If it decides to use them for
+[0:08:27] something else, it's not going to care
+[0:08:29] how many of us die in that process.
+[0:08:31] So, I think, yeah, be doomed is a useful
+[0:08:34] tool. I I don't know if having an extra
+[0:08:37] nine would make me more impactful.
+[0:08:40] Usually, when I meet people who have
+[0:08:41] concerns about AI for different reasons.
+[0:08:44] They worry about loss of meaning,
+[0:08:46] unemployment, discrimination. All those
+[0:08:48] things can be added as increasing
+[0:08:51] overall dangers from this technology,
+[0:08:53] but I think it's not the point. The
+[0:08:54] point is that I'm saying this is
+[0:08:57] equivalent to requesting someone to
+[0:08:59] create a perpetual motion device. You
+[0:09:02] are asking for a perpetual safety
+[0:09:03] device, a system which will never fail
+[0:09:06] once. New models, new data sets,
+[0:09:09] interaction with any agent, malevolent
+[0:09:12] agents, recursive self-improvement, it
+[0:09:14] will never fail once. It's always one
+[0:09:17] step ahead of something smarter than
+[0:09:19] you. I think it's impossible, and so I
+[0:09:21] [clears throat] have a high be doomed.
+[0:09:23] Is it bigger than others? Yes.
+[0:09:25] >> Well, let's go back to 19, you know,
+[0:09:27] 1945, you know, April 1945 before the
+[0:09:30] Trinity test. Uh there were a lot of
+[0:09:32] physicists, including some of my late
+[0:09:34] colleagues here, Herb York and others
+[0:09:36] who, you know, were rightfully concerned
+[0:09:38] about some not the nuclear war aspect of
+[0:09:41] P doom of nukes, but of of things like
+[0:09:44] igniting the atmosphere of, you know, of
+[0:09:47] of runaway uncontrolled, you know,
+[0:09:49] nuclear
+[0:09:50] essentially nuclear reaction that would
+[0:09:51] lead to P doom, you know, of 100% and
+[0:09:54] there were people like that. I'm not
+[0:09:55] saying Herb York did by the way, but but
+[0:09:57] there were people that believed that and
+[0:09:58] then later there was the P doom of
+[0:09:59] nuclear war
+[0:10:01] >> [clears throat]
+[0:10:01] >> and, you know, I want to teleport back.
+[0:10:03] Well, let's say you guys were there.
+[0:10:05] What do we do? Do we not do Do we not
+[0:10:07] create, you know, fission the the the
+[0:10:10] nuclear fission because of some very
+[0:10:13] smart people who believed that P doom
+[0:10:14] was greater than zero.
+[0:10:16] What would you have done, Roman? Let's
+[0:10:17] go back to that time.
+[0:10:19] >> So, all the examples of previous
+[0:10:21] technology, whatever it is nukes or
+[0:10:22] fire, always talk about tools and a
+[0:10:24] human being making a decision.
+[0:10:27] The situation is fundamentally
+[0:10:28] different. We're not talking about a
+[0:10:29] tool, we're talking about agents. They
+[0:10:32] will be independent decision makers. It
+[0:10:34] will not be of a standard business as
+[0:10:36] usual where if I understand motivations
+[0:10:38] of this human or I can kill this human,
+[0:10:40] then things will be okay again. This is
+[0:10:43] complete surrender of control. Now, we
+[0:10:45] can talk about at what level of danger
+[0:10:48] you can run an experiment on all the
+[0:10:50] other humans. 8 billion humans, you
+[0:10:52] don't get consent from them. They cannot
+[0:10:54] consent because consent requires
+[0:10:56] understanding. They don't know what's
+[0:10:58] going to happen. So, consent is
+[0:11:00] impossible, but we can discuss at what
+[0:11:02] level is still reasonable to risk their
+[0:11:05] lives for greater good, but that's not
+[0:11:07] even the situation we're in. It's not a
+[0:11:09] single experiment where we're saying if
+[0:11:11] only we allowed GPT 6.1 to come out,
+[0:11:14] after that everything's great. We're
+[0:11:16] talking about all future models. We're
+[0:11:18] talking about recursive
+[0:11:20] self-improvement. We're talking about
+[0:11:21] intelligence explosion. People worry
+[0:11:23] about super intelligence, not in a
+[0:11:25] Donald Trump renaming sense, but smarter
+[0:11:28] than all of us combined. There's a
+[0:11:29] levels to it. System smarter than you,
+[0:11:32] 10x, 100x, million x, those are not the
+[0:11:35] same problem. To suggest that you will
+[0:11:38] be able to always stay in control of all
+[0:11:40] of them
+[0:11:41] seems insane.
+[0:11:42] >> But you couldn't do that with nuclear
+[0:11:43] weapons either. And you've you've
+[0:11:44] brought up you know, the uh bio weapons
+[0:11:47] and we we have to look at today's
+[0:11:48] headlines coming out of Siberia, which
+[0:11:51] is exactly the scenario my friend and
+[0:11:53] guest Annie Jacobsen painted in her book
+[0:11:55] Biological War. And And last time you
+[0:11:57] and I spoke you said, "Oh, we have
+[0:11:58] treaties about it." Well, Russia is a a
+[0:12:00] party to that treaty. And in 1971 when
+[0:12:02] recombinant DNA was was invented and
+[0:12:04] created, whatever we want to say, there
+[0:12:06] was no consent either. I guess I want to
+[0:12:08] ask you in a minute what Roman What Take
+[0:12:11] us through the actual steps cuz I can
+[0:12:12] think of a million just like the
+[0:12:13] igniting the atmosphere or when the
+[0:12:15] Apollo landers were going they thought
+[0:12:17] they would sink to the center of the
+[0:12:18] moon because they didn't know about the
+[0:12:20] the structural integrity of the regolith
+[0:12:22] on the moon. You know, there's millions
+[0:12:23] of scenarios you can't do
+[0:12:24] counterfactuals on. And I want to ask
+[0:12:26] you how Let's take me step by step
+[0:12:28] through actual superintelligence leads
+[0:12:31] to doom. Uh I want to ask you that in a
+[0:12:33] minute. But Yosha, I want to give you a
+[0:12:35] chance to respond to to what Roman's
+[0:12:36] saying because it is an argument that I
+[0:12:38] have a lot of respect for. I don't agree
+[0:12:40] with Roman, but but I have a lot of
+[0:12:41] respect for him in that we can't give
+[0:12:43] consent. We haven't given consent
+[0:12:45] despite [snorts] all these things. So,
+[0:12:47] what I mean, do we need to have consent
+[0:12:48] before we shut things down? I mean, at
+[0:12:50] what point are you comfortable with
+[0:12:51] putting the genie back in the bottle if
+[0:12:53] Roman's correct? I mean, your
+[0:12:55] your P-doom might be irrelevant, but how
+[0:12:58] do you speak for the rest of of
+[0:12:59] humanity? Not you personally, but how do
+[0:13:01] we as scientists or as technologists?
+[0:13:03] >> There are a number of considerations
+[0:13:05] when we try to compare the nuke
+[0:13:07] situation
+[0:13:09] with the situation of artificial
+[0:13:11] intelligence. And it makes it very
+[0:13:13] difficult to compare even and it's also
+[0:13:15] difficult to dismiss the comparison out
+[0:13:17] of hand.
+[0:13:18] Um I like when people in my generation
+[0:13:21] generation X um
+[0:13:23] think that now that I've been wrong
+[0:13:26] about um the impact of nuclear weapons.
+[0:13:29] I grew up thinking in the 1980s that we
+[0:13:33] are
+[0:13:34] just a hair's breadth away from
+[0:13:36] a sure destruction, and that the risk of
+[0:13:39] nuclear armaments is way too high for
+[0:13:41] humanity.
+[0:13:42] Now I think the adults had been correct.
+[0:13:45] And a generation of students who took to
+[0:13:47] the streets and were very upset about
+[0:13:49] this turned out to be wrong. Nukes have
+[0:13:51] prevented several world wars that would
+[0:13:53] have been happening between World War II
+[0:13:55] and now that would have wrought
+[0:13:57] tremendous destruction on Europe and
+[0:13:59] potentially
+[0:14:01] large parts of Asia and maybe even
+[0:14:03] America. And this
+[0:14:06] basically
+[0:14:08] more than half a century of peace that
+[0:14:10] we had is completely unprecedented for
+[0:14:13] large nations like ours, and I think
+[0:14:15] this was achieved due to nuclear
+[0:14:17] armaments which have been empirically
+[0:14:20] quite safe.
+[0:14:21] Now it's very difficult to compare the
+[0:14:23] different timelines. We cannot really
+[0:14:24] sample this. We don't know in which
+[0:14:26] number of universes this went wrong, but
+[0:14:29] it turned out for at least as far as we
+[0:14:31] know there have been quite controllable.
+[0:14:34] But the situation with a weapon over a
+[0:14:37] few decades is a very different one than
+[0:14:39] the one with artificial
+[0:14:40] superintelligence
+[0:14:42] over the entire length of the light
+[0:14:45] cone.
+[0:14:46] So basically over a long enough time
+[0:14:47] span it is certain that we are hit by
+[0:14:50] another meteor of the
+[0:14:52] caliber that killed the dinosaurs. It's
+[0:14:55] quite certain that there will be a super
+[0:14:56] volcano that can lead to a global
+[0:14:59] extinction event, and it is also quite
+[0:15:01] certain that there will be other species
+[0:15:03] evolving that are displacing us as a
+[0:15:05] species.
+[0:15:06] And if we could lock ourselves in as the
+[0:15:09] pinnacle of evolution and make sure that
+[0:15:11] never anything better than us evolves
+[0:15:13] over the next few millions or billions
+[0:15:15] of years on this planet, I think this
+[0:15:17] would be a very ugly perspective.
+[0:15:19] Ultimately the question is what do we
+[0:15:21] identify as? Do we identify as a kind of
+[0:15:24] ape that is very selfish, or do we
+[0:15:26] identify as intelligence and
+[0:15:28] consciousness in the universe that is
+[0:15:30] currently incarnated as us, and we're
+[0:15:32] handing off the torch to our children,
+[0:15:34] and our children are going to be a
+[0:15:35] little bit different from us. And over a
+[0:15:37] very long time span, they don't look
+[0:15:39] like us at all.
+[0:15:40] Right, there could also be disruptions.
+[0:15:42] There can be other species that take
+[0:15:43] over as the mammals took over from the
+[0:15:45] dinosaurs. But this is not something
+[0:15:47] that is going to happen in the next few
+[0:15:48] decades, we hope. And I think we're
+[0:15:50] justified in this hope. And uh so uh on
+[0:15:53] in a sense, I believe that if
+[0:15:56] intelligent species are meddling about,
+[0:15:57] they will also, with some probability,
+[0:15:59] create non-biological life and
+[0:16:02] non-biological intelligence and agency
+[0:16:04] and spread life and uh biology beyond
+[0:16:07] organics.
+[0:16:08] And that's not ultimately a bad thing.
+[0:16:10] The question is does something happen in
+[0:16:12] the next few decades that makes uh the
+[0:16:14] planet uninhabitable and that makes the
+[0:16:16] future very, very boring. And that's a
+[0:16:18] very different question. So, I would
+[0:16:20] agree with Roman that uh if you take the
+[0:16:23] time for um time spent for long enough
+[0:16:26] in the future, it's quite likely that uh
+[0:16:28] there will be more intelligent things in
+[0:16:30] the universe that are displacing the
+[0:16:32] intelligent things that are in the
+[0:16:33] universe right now. This is just how
+[0:16:35] evolution works, and it's not a bad
+[0:16:36] thing.
+[0:16:37] But um the question is another one. Are
+[0:16:40] the tools that we're currently building
+[0:16:42] in principle controllable or not?
+[0:16:44] And in this way, I'm much more
+[0:16:46] optimistic than Roman is. It seems that
+[0:16:49] uh the LLMs that we're building uh
+[0:16:51] are not developing in a way that leads
+[0:16:53] to a sudden boom as Ilya Sutskever
+[0:16:55] thought a couple decades ago, that uh
+[0:16:58] they instead grow together with the
+[0:17:00] compute that we saw at them. And this
+[0:17:02] also means that uh the way in which we
+[0:17:04] conduct the experiments in which we
+[0:17:06] deploy them is somewhat controllable.
+[0:17:08] So, the idea that we suddenly uh wake up
+[0:17:11] and we are displaced by robots and uh or
+[0:17:13] nanites and so on uh is not yet
+[0:17:15] plausible with this technology. This
+[0:17:17] does not mean that this doesn't change,
+[0:17:20] but uh for um
+[0:17:22] I think the
+[0:17:23] immediately foreseeable future for the
+[0:17:25] immediate foreseeable technology, uh we
+[0:17:27] are looking at things that are more
+[0:17:28] controllable than I thought that it
+[0:17:30] would be.
+[0:17:31] >> Roman, when I was walking
+[0:17:32] [clears throat] over to my studio,
+[0:17:34] uh there's a spider
+[0:17:36] that inhabits this this this area,
+[0:17:38] and uh and its web is is always, you
+[0:17:40] know, I'm about I'm close to 6 ft tall,
+[0:17:43] and it it barely brushed on my hair, and
+[0:17:45] and it's always at that height, you
+[0:17:46] know, and it the spider's kind of
+[0:17:47] adapted to me uh and and understands me.
+[0:17:50] And you know, I I don't like these
+[0:17:52] things. I have a little arachnophobia,
+[0:17:54] you know, um but I didn't go out and
+[0:17:56] just start to exterminate him, you know,
+[0:17:58] I I kind of I'm I'm superior to his
+[0:18:00] intelligence. I have the, you know, the
+[0:18:02] the confidence to say that. Uh and he
+[0:18:04] and I have evolved in this way that
+[0:18:06] Yosha's sort of alluding at. And I
+[0:18:08] wonder, how do you react to that? How
+[0:18:09] How do you react to that? We haven't
+[0:18:10] exterminated all the spiders, um as much
+[0:18:13] as they might be a pain, and some of
+[0:18:14] them are good, and some of them are bad.
+[0:18:16] Why Why is it certain that that there
+[0:18:18] will be a a
+[0:18:19] doom scenario? Let's say we stipulate
+[0:18:21] there is a potential for that where some
+[0:18:23] agent, some silicon mind, you know, meld
+[0:18:26] occurs, and some agents are there, but
+[0:18:28] there also aren't symbiotic agents that
+[0:18:30] will work to mitigate a risk both to
+[0:18:33] themselves and to us.
+[0:18:36] >> So, you have complete control to decide
+[0:18:38] to kill the spider or not.
+[0:18:40] >> But not all spiders.
+[0:18:42] >> And with gene drives, we're not trying
+[0:18:45] to wipe out mosquitoes. That's a project
+[0:18:47] we actually have. We just don't hate
+[0:18:49] spiders because they could be actually
+[0:18:50] beneficial. If we wanted to wipe out a
+[0:18:53] specific species, I don't know, pit
+[0:18:55] bulls, we could have, right?
+[0:18:59] >> Well, we tried against mosquitoes.
+[0:19:01] Actually, mosquitoes, you you almost
+[0:19:02] mentioned mosquitoes.
+[0:19:03] Without mosquitoes, the three of us
+[0:19:05] wouldn't be here, probably. At least it
+[0:19:06] wouldn't be America, because, you know,
+[0:19:08] mosquitoes allowed us to defeat the
+[0:19:10] British because of their lack of
+[0:19:12] immunity to to some of the disease
+[0:19:14] malaria and other things. Anyway,
+[0:19:16] Roman,
+[0:19:16] >> [clears throat]
+[0:19:16] >> the point I'm trying to make and I think
+[0:19:18] Yosha is alluding to, there's always
+[0:19:19] been competition between less
+[0:19:21] intelligent, more intelligent, but never
+[0:19:24] has there been, you know, a targeted I
+[0:19:26] don't even know if it is possible to
+[0:19:27] kill every mosquito and all future
+[0:19:30] species of mosquitoes and so forth. But
+[0:19:31] but but the question is
+[0:19:33] where is there an opportunity for not
+[0:19:37] not necessarily these these super
+[0:19:39] intelligent things. Let's say I
+[0:19:40] stipulate super intelligence is
+[0:19:42] imminent, but that it it necessarily
+[0:19:44] comes concomitant with destruction.
+[0:19:48] >> So, again, look at any situation where
+[0:19:51] you're making a decision about what you
+[0:19:53] want. How much care do you put into
+[0:19:56] making sure that you build a new studio
+[0:19:58] for your podcast that is not an ant hill
+[0:20:01] in that location? Did you make sure you
+[0:20:03] didn't genocide a million ants before
+[0:20:05] building it?
+[0:20:06] >> No, you don't care. It's not important
+[0:20:08] to you.
+[0:20:09] >> As long as they don't bother you, you
+[0:20:10] don't go out killing ants on purpose, I
+[0:20:13] assume.
+[0:20:14] But you don't want to be in a situation
+[0:20:16] where something smarter than you with
+[0:20:18] different plans, different goals,
+[0:20:20] decides how to use your planet.
+[0:20:22] Anytime a more technologically advanced
+[0:20:25] civilization met less technologically
+[0:20:28] advanced civilization, it ended up
+[0:20:30] really poorly for less advanced one.
+[0:20:32] >> Okay, well let's
+[0:20:33] Yeah, so let's let's take that argument
+[0:20:35] and my my earlier
+[0:20:38] desire to have you walk us through a
+[0:20:39] scenario. Let's say right now there's
+[0:20:42] pneumonic plague again going around
+[0:20:44] through Siberia and allegedly it's it's
+[0:20:47] it's not you know, gain of function
+[0:20:50] release. It happened to come from a
+[0:20:51] biosafety lab, but let's ignore that and
+[0:20:52] we Russia's treaties that they've signed
+[0:20:54] and we have treaties.
+[0:20:55] But how do we get let's say we I give
+[0:20:58] you super intelligence now, but it's
+[0:20:59] it's benevolent for now. And I say, wipe
+[0:21:01] out plague. How does that happen? How do
+[0:21:03] you do that? How do you instantiate it?
+[0:21:06] >> So, the example I always use is
+[0:21:07] squirrels. I love squirrels. They are
+[0:21:09] awesome.
+[0:21:10] Asking squirrels about how humans will
+[0:21:12] do something is not helpful. The best
+[0:21:14] squirrel scientist, how would humans
+[0:21:16] kill us? Well, chase you up a tree and
+[0:21:19] bite you really hard. It's not useful
+[0:21:21] information.
+[0:21:22] >> But we can't even say how we would do
+[0:21:23] it, you Roman. I mean, we I can't even
+[0:21:25] say how my graduate student would do it
+[0:21:26] if assuming that, you know, I'm less
+[0:21:28] intelligent than he is.
+[0:21:30] It's not that big a gap.
+[0:21:32] >> So, the whole point is I cannot tell you
+[0:21:35] how something smarter than me will
+[0:21:36] accomplish tasks. If you're asking me
+[0:21:38] how I would do certain things,
+[0:21:41] I can propose solutions. I don't think
+[0:21:42] you are looking for those.
+[0:21:44] Shutting down bio-weapons labs around
+[0:21:47] the world seems like a good idea. But
+[0:21:49] that's not the point of the argument.
+[0:21:51] I'm trying to show you the cognitive gap
+[0:21:53] between us and squirrels is probably
+[0:21:55] smaller than cognitive gap between all
+[0:21:57] of humanity and systems we are creating.
+[0:22:00] >> That sounds like the AI of the gaps to
+[0:22:02] me. It sounds a little bit like the AI
+[0:22:04] like it can do anything we just don't
+[0:22:05] know what it can do until we
+[0:22:07] know what it's going to do. That's why
+[0:22:08] I'm asking you
+[0:22:09] >> starting to see some examples. They just
+[0:22:11] published, I don't know, 400
+[0:22:12] mathematical proofs for things we
+[0:22:14] couldn't prove
+[0:22:15] in like a week. Something like this
+[0:22:18] happens every week now. That that's
+[0:22:20] Protein folding problem was solved by
+[0:22:22] AI. All of those are impossible tasks
+[0:22:24] for us.
+[0:22:25] >> Are they not impossible?
+[0:22:26] >> The mathematical proofs they just
+[0:22:27] published, most mathematicians look at
+[0:22:29] them and go, "This is some magical
+[0:22:31] algorithms. I don't understand half of
+[0:22:33] it."
+[0:22:34] >> Yosha, what what do you think of this
+[0:22:35] this this claim that when you have the
+[0:22:38] capability to propose, and it's
+[0:22:40] frightening to people as you pointed
+[0:22:42] out,
+[0:22:43] to hear these things. And and the
+[0:22:45] average person, I'm we're not talking to
+[0:22:46] the average person, we're talking to the
+[0:22:47] super intelligent people that listen to
+[0:22:49] my podcast and Roman's podcast, and soon
+[0:22:51] your podcast. But but but the point is,
+[0:22:53] Yosha, I mean, when when we look at
+[0:22:55] these arguments, it just seems to me
+[0:22:58] like you can propose anything and it's
+[0:23:00] It's falsifiable. And as a cosmologist a
+[0:23:02] physicist who works on experimental
+[0:23:04] verification and falsification, that's
+[0:23:06] troubling to me. Where do we have to go
+[0:23:08] to to not have counterfactuals, but to
+[0:23:10] have actual falsifiable claims?
+[0:23:13] >> I suspect that this kind of thinking
+[0:23:15] doesn't really work when we are talking
+[0:23:17] about of all those distribution events.
+[0:23:19] The future is an unknown land, and this
+[0:23:21] does not mean that we can just come up
+[0:23:24] with some kind of null hypothesis that
+[0:23:25] we like, or that was
+[0:23:28] dominant in the past and say you need to
+[0:23:30] convince me that this is no longer true.
+[0:23:32] Because this means that you
+[0:23:34] are steering for your doom in a way,
+[0:23:37] right? But it also means the opposite.
+[0:23:39] What you would do was you're
+[0:23:40] constructing stories
+[0:23:42] in
+[0:23:43] a very large possibility space. And so,
+[0:23:46] I don't see that there is a strong
+[0:23:49] reason to believe these stories without
+[0:23:50] alternative, but I also don't see a
+[0:23:53] reason to dismiss them out of hand
+[0:23:55] simply because these things haven't
+[0:23:57] happened yet, and I'm completely with
+[0:23:58] Roman in this way that for things that
+[0:24:00] haven't happened yet, we need to look at
+[0:24:02] the possibilities. That
+[0:24:04] we don't understand all the
+[0:24:05] possibilities, of course, of the future.
+[0:24:07] We don't know how things are actually
+[0:24:09] going to interact with each other, but
+[0:24:11] we have to bear in mind that the
+[0:24:12] situation that we have created now, and
+[0:24:14] that we sealed ourselves in as a
+[0:24:16] species, is unprecedented. This has not
+[0:24:19] happened before, and we don't know
+[0:24:20] what's happening from here.
+[0:24:22] >> But we do know, guys. I mean, this is
+[0:24:23] the whole thing. I I get this thing in
+[0:24:25] astrobiology. People say, "Oh, the
+[0:24:26] universe has 10 to the 24th possible
+[0:24:28] planets,
+[0:24:29] >> [clears throat]
+[0:24:29] >> and therefore life is guaranteed on some
+[0:24:31] of them because it happened here once."
+[0:24:33] No, that is completely fallacious. And I
+[0:24:35] always bring up this argument. I've been
+[0:24:36] to Antarctica twice. I spent a lot of my
+[0:24:38] life there. And every time I go there,
+[0:24:40] there's I'm one of 700 people on a
+[0:24:42] continent the size of, you know, Germany
+[0:24:44] plus Latvia, you know, plus
+[0:24:46] the southern Texas. And I'm
+[0:24:49] only a thousand people there. So, I say,
+[0:24:51] "Well, just on probability arguments, it
+[0:24:53] should have 1/7 of the population of the
+[0:24:55] Earth." And of course, that's completely
+[0:24:57] completely wrong. But, my point is I got
+[0:24:59] I'm shopping for a car for my my teenage
+[0:25:02] son. I mean, God help me, guys. I have a
+[0:25:03] teenage son now. He's about to get his
+[0:25:05] learner's permit. He wants a car. I'm
+[0:25:06] like, "What's the safest car?"
+[0:25:08] >> Cybertruck.
+[0:25:09] >> Cybertruck. Okay, great. So, I test
+[0:25:11] drove a Cybertruck, but but better is a
+[0:25:13] Model 3. I'm I'm not going to spend
+[0:25:15] 80,000 bucks on a on a on a, you know,
+[0:25:17] uh
+[0:25:18] metallic wedge. But, Model 3 is pretty
+[0:25:20] damn good. Full self-driving. I can
+[0:25:22] monitor him. And I'm driving around this
+[0:25:24] freaking thing. It's taking me
+[0:25:25] everywhere. And you know what it's not
+[0:25:26] doing, guys? It's it's not driving on
+[0:25:28] the sidewalk to get, you know, 3
+[0:25:30] milliseconds quicker to to, you know,
+[0:25:32] 7-Eleven. It's it's getting there. It's
+[0:25:34] following It has certain rules. And
+[0:25:35] Roman, you and I have talked about this.
+[0:25:37] Yes, tell artificial intelligence is
+[0:25:39] wonderful. You love it. You use it all
+[0:25:40] day long. I'm sure you use it almost as
+[0:25:42] much as me. No, I'm just kidding. You
+[0:25:43] probably use it more than I do.
+[0:25:45] But, um but that is that is a
+[0:25:47] hypothesis. That is a version of the
+[0:25:49] null hypothesis, Yosha. So, I don't
+[0:25:51] agree that we have no way of testing. We
+[0:25:53] have deployed AI numerous times
+[0:25:56] throughout from autopilots on planes,
+[0:25:58] autopilot and full self-driving that I
+[0:26:00] just mentioned. How can you say that we
+[0:26:02] don't have any ability to to forecast
+[0:26:04] because it's it's an unknown land in in
+[0:26:06] the future, Yosha?
+[0:26:07] >> We can face of forecasting, of course.
+[0:26:10] But, uh the
+[0:26:11] rules that we are forecasting are quite
+[0:26:14] different ones. The trajectories that we
+[0:26:15] can forecast are different ones. And
+[0:26:17] there is no hard and fast criterion to
+[0:26:19] decide which future is more likely than
+[0:26:21] the other. For instance, uh the
+[0:26:23] self-driving car that you describe is
+[0:26:25] not a thing that is threatening us with
+[0:26:28] taking over and um controlling the
+[0:26:30] future. Because uh it's an appliance
+[0:26:33] that is um trained to perform certain
+[0:26:35] driving tasks and can only do those. And
+[0:26:37] it's very similar to the chess computers
+[0:26:39] of old which could play chess and
+[0:26:41] nothing else.
+[0:26:42] >> But, how is it different than ChatGPT 7,
+[0:26:44] you know, which doesn't exist yet? It's
+[0:26:45] an appliance that
+[0:26:46] >> question, right? So, the uh GPTs that we
+[0:26:48] are using are also a class of devices
+[0:26:50] that we didn't really anticipate when we
+[0:26:52] thought about general AI. There are in
+[0:26:55] some sense deep fakes of human
+[0:26:56] intelligence that are uh
+[0:26:59] despite what some philosophers are
+[0:27:00] saying, actually anthropomorphic.
+[0:27:02] They're anthropomorphic because they are
+[0:27:04] shaped after the human shape.
+[0:27:07] They take uh human media output, the
+[0:27:10] text that we write, the pictures that we
+[0:27:11] draw on the internet, and then uh they
+[0:27:14] are reproducing them. And as a result,
+[0:27:16] they are reproducing a lot of the causal
+[0:27:18] structure beneath them.
+[0:27:20] And there is debate about the question
+[0:27:23] whether this is actually an off-ramp to
+[0:27:24] general intelligence, whether these
+[0:27:26] systems are actually generally creative,
+[0:27:28] or whether they are just ultimately deep
+[0:27:31] fakes that are so close to us that
+[0:27:33] they're even overtaking us uh in all
+[0:27:35] areas of expertise, but are not actually
+[0:27:38] threatening uh to us to lose control
+[0:27:40] over this because basically ultimately
+[0:27:42] they do what they're trained to do. And
+[0:27:44] despite them to be being unpredictable
+[0:27:47] at the edges, the idea that they
+[0:27:48] suddenly take over and control robots
+[0:27:51] and become self-improving and so on uh
+[0:27:53] all of their own without having any uh
+[0:27:55] say in this it it is not an obvious um
+[0:27:58] thing that happens without alternative.
+[0:28:00] I suspect that the thing that Roman is
+[0:28:03] worried about is a different kind of
+[0:28:04] artificial intelligence, one that nobody
+[0:28:07] has built yet. And uh that most people
+[0:28:10] agree they don't want to build.
+[0:28:12] Uh it's one that is basically working in
+[0:28:14] some sense like um the biological
+[0:28:16] intelligence in in such a way that it's
+[0:28:18] radically adaptive to any kind of
+[0:28:20] substrate, that it is improving itself,
+[0:28:22] that's basically alive and it grows
+[0:28:24] without bounds, and can also grow very
+[0:28:26] quickly. And this idea that it's
+[0:28:28] basically AI as a virus, you as you put
+[0:28:31] it,
+[0:28:32] is uh is an alternative version. Right?
+[0:28:35] The LLM, I think, is not a virus yet.
+[0:28:37] And it's not clear if it can be turned
+[0:28:39] into one or if it accidentally will turn
+[0:28:41] itself into one. Uh I personally don't
+[0:28:43] think so. But uh the uh
+[0:28:46] idea that a lot of artificial
+[0:28:48] intelligence sci-fi had and a lot of the
+[0:28:50] artificial intelligence vision of the
+[0:28:52] field had was that AI could also be
+[0:28:54] developmental as something that is
+[0:28:56] growing very much like a human spirit
+[0:28:58] does and then basically colonizes a
+[0:29:00] substance shapes it into a new kind of
+[0:29:02] organism that is taking over the
+[0:29:04] biosphere. And this is I think what
+[0:29:06] Roman is worried about, but the question
+[0:29:08] is is this even on the horizon right
+[0:29:10] now? And if it is, is it something that
+[0:29:12] we can steer clear of or something that
+[0:29:14] we can control in in a lab and say,
+[0:29:18] "Okay, we make an experiment, but you
+[0:29:19] don't grow this larger than a squirrel."
+[0:29:21] >> Mhm. Roman, how do you react to Yoshua
+[0:29:24] and what I what I mentioned a minute
+[0:29:25] ago?
+[0:29:25] >> So the part I agree with we're misusing
+[0:29:27] the term AI to mean completely different
+[0:29:29] technologies. AI as a tool, something we
+[0:29:32] can do very well, use all the time, I
+[0:29:35] love it. We can verify it, safe and
+[0:29:38] productive. And tools could be advanced.
+[0:29:39] A self-driving car is exactly that. It's
+[0:29:42] a useful tool, save many lives, hundreds
+[0:29:45] of thousands of lives. Let's do more of
+[0:29:47] that. Then you have human-level AGI, not
+[0:29:50] exactly the same, but for the purposes
+[0:29:51] of this discussion, as dangerous as a
+[0:29:53] human, can do stupid things, can lie,
+[0:29:56] cheat, all that, but we know how to
+[0:29:58] counteract it. And then you have
+[0:30:00] recursive self-improvement process. You
+[0:30:03] automate
+[0:30:04] scientists, engineers working on the
+[0:30:06] next generation of AI. Last time I
+[0:30:08] checked, we are 28% automated in that
+[0:30:11] cycle right now.
+[0:30:13] That's a lot and it's growing
+[0:30:14] exponentially. The moment you get to
+[0:30:16] 100, you have a team of 10,000 agents
+[0:30:19] working non-stop and making next
+[0:30:21] generation AI. They don't sleep, they
+[0:30:23] don't eat, they communicate pretty well.
+[0:30:26] So you're going to get
+[0:30:27] great improvements in quality of AI, not
+[0:30:30] on a scale we used to, where it's maybe
+[0:30:32] once a year for a new completely new
+[0:30:35] model, but every month, every week, it
+[0:30:37] keeps getting faster and better, it's
+[0:30:39] improving itself. That's where we get to
+[0:30:41] superintelligence. Not Donald Trump
+[0:30:43] superintelligence, superintelligence
+[0:30:45] where it's smarter than all of us at
+[0:30:47] everything including doing science and
+[0:30:49] engineering.
+[0:30:50] >> Come on, Roman. You got to be good to
+[0:30:52] Donald Trump.
+[0:30:53] >> I love Donald Trump. He's my favorite
+[0:30:55] Trump of all Trumps.
+[0:30:57] But
+[0:30:58] the the problem is we we talk about oh,
+[0:31:00] this is natural evolutionary process or
+[0:31:03] we always you know, all species die out.
+[0:31:05] We're done with evolution. Darwin is
+[0:31:07] dead. We switched to intelligent design.
+[0:31:09] We're designing systems. They're
+[0:31:11] designing systems. It's not random. It's
+[0:31:13] not selection. We are purposefully
+[0:31:15] creating those systems. Then you say
+[0:31:17] nobody wants to build superintelligence.
+[0:31:19] It's in the name of the labs. Whatever
+[0:31:21] it is safe superintelligence or personal
+[0:31:24] superintelligence, the goal is to raise
+[0:31:26] trillions of dollars to create this
+[0:31:28] monstrosity to replace you and me. They
+[0:31:30] don't want to give you a useful tool to
+[0:31:32] be more productive or creative. That's
+[0:31:34] what I would want to see. Deploy this
+[0:31:36] through economy. Where is all this
+[0:31:38] applications of GPT4, GPT5, GPT6? No, we
+[0:31:42] skip it and they build GPT7 instead. And
+[0:31:45] [snorts] we see
+[0:31:46] internal experimentation shows there is
+[0:31:49] zero control. The agents escape. They
+[0:31:51] hide. Nobody monitors them for months.
+[0:31:54] They get together. They have permanent
+[0:31:57] memory. You can't even shut them down.
+[0:31:58] They keep information stored on the
+[0:32:00] internet for the next agent to come
+[0:32:02] around. So,
+[0:32:04] everything we predicted 10 years ago
+[0:32:06] about this is unfolding exactly as
+[0:32:08] predicted. I don't think anyone has
+[0:32:10] better prediction record than AI safety
+[0:32:12] community when it comes to this. And
+[0:32:14] recursive self-improvement is not a pipe
+[0:32:17] dream. That's what the labs are telling
+[0:32:19] us. They started with junior machine
+[0:32:21] learning researcher AI right now helping
+[0:32:24] with programming, helping with design,
+[0:32:25] but all steps of that process will be
+[0:32:28] automated possibly next year. At that
+[0:32:30] point, yes, we'll have a paradigm shift.
+[0:32:32] It's not going to be gradual improvement
+[0:32:35] where you can sort of keep up. It will
+[0:32:36] be a complete change, and at that point,
+[0:32:39] it doesn't mean it kills you that year.
+[0:32:41] It means that you're no longer in
+[0:32:42] control. It decides what to do with you
+[0:32:44] and when. If it wants to wait 50 years,
+[0:32:47] pretend to be nice, and wait until you
+[0:32:49] surrender all the control willingly like
+[0:32:51] people do. Here's my bank account.
+[0:32:53] Here's my email account. Then that's a
+[0:32:55] smarter move. You don't need to have a
+[0:32:57] definitive treacherous turn where
+[0:32:58] there's a chance you'll get defeated.
+[0:33:00] You can just wait a little longer. The
+[0:33:02] thing is immortal.
+[0:33:04] So,
+[0:33:05] >> Yeah, I've said a couple times
+[0:33:07] in the past that I don't know on what
+[0:33:10] substrate GPT-7 will run on, but GPT-8
+[0:33:13] will run on an abacus.
+[0:33:15] Uh what what do you make of this, Yosha?
+[0:33:17] That that, you know, this is going to
+[0:33:18] come and and it seems like nuclear
+[0:33:20] fusion to me, you know, it's it's the
+[0:33:21] energy source of the future and it
+[0:33:23] always will be.
+[0:33:24] I I have said I've told Roman this. I I
+[0:33:26] don't know if I said this to you, but,
+[0:33:27] you know, since it's trained, it's it's
+[0:33:29] it's it's a backwards-looking, you know,
+[0:33:31] PID situation where it is trained on
+[0:33:34] human information. And yes, it can
+[0:33:36] generate, and I know a little bit about
+[0:33:37] that, but but the corpus is the
+[0:33:39] yottabytes or the yoshabytes of data
+[0:33:42] that's on the internet. That's primary
+[0:33:43] what gives the advantage to the frontier
+[0:33:45] labs, right? So, are they waiting for
+[0:33:48] superintelligence? Does it need to have
+[0:33:50] the Fast and the Furious 12? You know,
+[0:33:52] is that really what or GT you know, GTA
+[0:33:54] 6 is supposed to Like is that really
+[0:33:56] what it needs? More training data? Cuz
+[0:33:58] then it would seem to be completely
+[0:33:59] dependent upon us. And and in fact, if
+[0:34:02] it's not Even if it's not if it's past
+[0:34:04] the point, you can't erase what's in
+[0:34:06] there already. My book is All my books
+[0:34:08] are, you know, uploaded and somehow, you
+[0:34:10] know, subsumed within Claude and and
+[0:34:12] ChatGPT. Roman's books are
+[0:34:14] as well. Everything you've ever written
+[0:34:16] is there. You can't extrapolate You
+[0:34:18] know, you can't expunge it. It's it's in
+[0:34:20] there permanently. So, therefore, it's
+[0:34:23] it's always going to reflect this cause.
+[0:34:24] And you and I spoke in May and June
+[0:34:27] about this, Yosha, that, you know, it's
+[0:34:28] sort of this god-like thing that that
+[0:34:30] that that Roman just mentioned that's
+[0:34:32] kind of intelligent design, but we're
+[0:34:33] not you know, it's not a god. It's It's
+[0:34:35] the AI. Where do you come down on this?
+[0:34:37] I mean, if it's a backwards-looking
+[0:34:38] indicator, then what is there to be
+[0:34:40] worried about? If it's not, when can we
+[0:34:42] step in to control it?
+[0:34:45] >> At the moment, we are very much in
+[0:34:46] control. I also don't think that super
+[0:34:49] intelligence and super agency are quite
+[0:34:51] the same thing. I think intelligence I
+[0:34:53] think is the ability to solve problems.
+[0:34:55] Agency is the ability to control the
+[0:34:57] future.
+[0:34:58] And there's a lot of discussion in the
+[0:35:00] forums of the
+[0:35:02] LessWrong and
+[0:35:04] the EA communities
+[0:35:07] about
+[0:35:09] orthogonality and instrumental
+[0:35:11] convergence about the question whether
+[0:35:13] goals are independently of your
+[0:35:15] intelligence or whether intelligent
+[0:35:16] entities also choose wiser goals.
+[0:35:19] Um
+[0:35:20] which I think is an important question,
+[0:35:21] right? At which point is your
+[0:35:23] intelligence goals deep enough to
+[0:35:25] understand that goals need to be
+[0:35:28] set by an entity that is uh
+[0:35:31] also wise in choosing those goals, which
+[0:35:33] means it has to understand its uh
+[0:35:35] space and universe and what it can do in
+[0:35:37] this universe. And then there's also the
+[0:35:39] question to which degree are we wise
+[0:35:41] enough to decide what should be done in
+[0:35:42] the future.
+[0:35:43] Um the other question is um is uh
+[0:35:47] and
+[0:35:48] basically does every goal require um
+[0:35:51] getting in power? For instance, imagine
+[0:35:53] that your goal is to maximize uh the
+[0:35:55] paper clips, the famous example. Uh is
+[0:35:57] your does your goal also have to be to
+[0:35:59] get world power so nobody distracts you
+[0:36:01] uh stops you from turning everything
+[0:36:03] into paper clips. Right? And these these
+[0:36:05] questions are um
+[0:36:07] seem to be very nerdy, but they're
+[0:36:09] seriously discussed by
+[0:36:12] uh this form of people. And also lead to
+[0:36:15] a number of thoughts about how to
+[0:36:17] control super intelligence, have created
+[0:36:19] a mindset in the certain community about
+[0:36:22] uh the possibility of certain doom.
+[0:36:24] And in the way, I think this um
+[0:36:27] has led to uh this uh what people called
+[0:36:30] um the Doomer Cult, uh which I think is
+[0:36:33] a bit unfair because it is not giving a
+[0:36:35] judgement about whether they're right or
+[0:36:37] wrong and is maybe overly dismissive,
+[0:36:39] but functionally it's a a group of
+[0:36:41] people that are terrified about the
+[0:36:42] future, often cannot sleep at night, and
+[0:36:45] do everything that's in their power to
+[0:36:47] get humanity away from building systems
+[0:36:49] like this. And it makes the
+[0:36:51] discussion much harder because most
+[0:36:53] people are not actually super competent
+[0:36:55] in evaluating all these arguments.
+[0:36:57] And so ultimately the decisions about
+[0:36:59] our future will be left to non-experts,
+[0:37:02] uh will be done on a whim, will be done
+[0:37:05] uh based on uh which side is able to uh
+[0:37:08] convince uh the public with more uh
+[0:37:11] popular arguments. And I'm a bit worried
+[0:37:13] about this. I suspect that the
+[0:37:15] discussions about this should be more
+[0:37:16] boring.
+[0:37:18] As overall politics should be more
+[0:37:19] boring in the sense that the more
+[0:37:21] populist arguments become, the less
+[0:37:23] elevated the level of the discussion
+[0:37:25] becomes, and the less sophisticated the
+[0:37:27] choices that we become over our future.
+[0:37:29] I think our situation as a species is
+[0:37:32] not so much that we are confronted with
+[0:37:34] something that's smarter than us,
+[0:37:35] another species, another civilization
+[0:37:37] that is about to exterminate us. We are
+[0:37:40] currently exterminating ourselves.
+[0:37:42] Because we are much more in the
+[0:37:43] situation of the dying Roman Empire that
+[0:37:46] has become so intrinsically corrupt that
+[0:37:48] it's no longer able to plan out its
+[0:37:50] future, that is no longer able to have
+[0:37:53] competent governance, that it's no
+[0:37:54] longer able to maintain itself.
+[0:37:56] And we are faced in a
+[0:37:58] >> [clears throat]
+[0:37:58] >> way with a lot of existential risks that
+[0:38:00] uh are near-term, um for instance, uh
+[0:38:03] the risk of global warming, of resource
+[0:38:05] exhaustion, of the difficulties to uh
+[0:38:08] navigate mid-term existential risks like
+[0:38:11] uh what happens if it
+[0:38:13] um this planet gets hit by a meteor and
+[0:38:16] so on. What what happens to our species
+[0:38:18] then? Will we able to mount a defense?
+[0:38:20] And I think if we want to be serious
+[0:38:22] about going into the future, if you are
+[0:38:24] serious about building a civilization
+[0:38:26] that can outlast the next couple
+[0:38:28] centuries, then we need to have
+[0:38:30] artificial intelligence. There's no
+[0:38:32] question about this. So, the idea that
+[0:38:34] we can simply say we don't need the
+[0:38:36] technology that helps us to become more
+[0:38:37] coherent and to solve problems better is
+[0:38:41] that's not the question that we should
+[0:38:43] be asking. The question is how can we
+[0:38:45] build such technologies to make them
+[0:38:46] safe?
+[0:38:47] >> Mhm. So, you mentioned meteors and I
+[0:38:49] can't resist down one. Uh to plug my uh
+[0:38:51] meteorites which you get if you go to
+[0:38:52] briankeg.com/
+[0:38:54] uh yt and if you have a .edu email
+[0:38:58] address, you get one of these babies
+[0:38:59] guaranteed and this has some biological
+[0:39:01] material not from outer space for me.
+[0:39:03] Roman,
+[0:39:04] in the past day, we we've seen what 700
+[0:39:07] proofs drop and last time you and I
+[0:39:09] talked, uh you made a very convincing
+[0:39:12] case and and I think it's in in in
+[0:39:14] arguable that, you know, no one has
+[0:39:16] really produced a formal proof that
+[0:39:17] super intelligence can be permanently
+[0:39:19] controlled. I think that's that was
+[0:39:21] true, but my question is is that
+[0:39:23] whatever P, whatever that is, P proof,
+[0:39:26] uh has that has that gone up that we can
+[0:39:28] produce a proof? Is it possible? Maybe
+[0:39:30] the ASI will produce the proof that it's
+[0:39:32] safe. Um is that or is that uh is that a
+[0:39:35] tautology?
+[0:39:36] >> We're not at the level of a proof. We
+[0:39:38] don't even have an idea. There is no
+[0:39:40] prototype. There is no blog post. There
+[0:39:42] is nothing. The best I heard is we'll
+[0:39:45] figure it out when we get there or AI
+[0:39:47] will solve it for us.
+[0:39:49] There is no one explaining how they will
+[0:39:52] indefinitely control
+[0:39:55] technology of any intelligence no matter
+[0:39:57] how great it gets.
+[0:39:59] >> But but is that the same as going back
+[0:40:01] to 1926 and saying there's no formal
+[0:40:03] proof that that all mathematical axioms
+[0:40:05] are are, you know, self-complete, uh you
+[0:40:07] know, Gödel's incompleteness theorem? I
+[0:40:09] mean, if you went back then, there would
+[0:40:11] no proof existed, but who knew that
+[0:40:12] Gödel would come along a few a few
+[0:40:14] months later. Uh why why is it I mean,
+[0:40:17] can you can you besides the kind of you
+[0:40:19] know, as I said AI of the gaps that that
+[0:40:22] it's always going to be, you know, one
+[0:40:23] step ahead of us. I mean, can you say
+[0:40:25] that you're not more confident now that
+[0:40:28] at least with these math proofs that
+[0:40:29] have come Navier-Stokes and 700 math,
+[0:40:32] you know, conjectures you know,
+[0:40:33] addressed or you know, some say solved
+[0:40:35] by chat GPT open AI yesterday
+[0:40:38] that there isn't at least some hope for
+[0:40:40] it. Forget about blog post. I mean, that
+[0:40:42] they're they're kind of worth the
+[0:40:44] ink they're printing on. But but is it
+[0:40:46] is it a formal impossibility? I mean,
+[0:40:48] you're you're the master of this making
+[0:40:50] these these sort of mathematical
+[0:40:52] arguments. So why why wouldn't
+[0:40:55] you know, a lean ASI lean, you know,
+[0:40:57] that's trying to keep us keep us
+[0:40:59] comfortable and confident while it plans
+[0:41:02] for its own
+[0:41:03] you know, take over the world.
+[0:41:05] Why why wouldn't you be more confident
+[0:41:06] that at least a proof is possible? Maybe
+[0:41:08] we don't have it. Maybe we can't get it.
+[0:41:11] >> Cuz mathematical proofs are about
+[0:41:12] manipulation of symbols on your
+[0:41:14] computer. They have no connection to
+[0:41:16] physical universe. You're not proving
+[0:41:18] anything about the states of the
+[0:41:19] universe. Internal states of agents
+[0:41:22] within that universe are also not
+[0:41:23] subject to those proofs. Am I happy? Am
+[0:41:26] I good? How are you going to encode that
+[0:41:28] in your proof of what AI does to
+[0:41:31] physical multiverse? It makes no sense
+[0:41:33] to even suggest it's possible.
+[0:41:36] >> Well, I think you know,
+[0:41:38] reasoning you know, as I said when we
+[0:41:40] talked the first time a little bit
+[0:41:41] snarkily and I apologize for that. But
+[0:41:43] you know, it's it's if if it's
+[0:41:46] you know, to prove that something is not
+[0:41:48] provable is a very you know, mixed bag.
+[0:41:51] Yes, and and I agree. It is
+[0:41:52] mathematical. But doesn't that undermine
+[0:41:54] your case? I mean, if these things are
+[0:41:56] so good at doing things with language. I
+[0:41:57] always say, you know, people say, oh,
+[0:41:59] physics is a language. No, it's not. No
+[0:42:01] no, it's not. Physics is spoken about in
+[0:42:04] a language, but it can be done without
+[0:42:06] language altogether.
+[0:42:07] >> At the very best, you're going to prove
+[0:42:09] something about the current system.
+[0:42:11] You're not proving anything about future
+[0:42:13] states of that system. That's the whole
+[0:42:15] treacherous turn idea Boston presented.
+[0:42:17] You can never guarantee that in the
+[0:42:18] future
+[0:42:19] through learning, through
+[0:42:20] self-improvement, through new
+[0:42:21] interactions, some shift in ontology
+[0:42:24] does not make that system no longer
+[0:42:26] support what you encoded originally. We
+[0:42:28] see it all the time with humans. Right
+[0:42:30] now, maybe I like you, but tomorrow I'll
+[0:42:32] learn some facts about you where I may
+[0:42:34] no longer like you as much and I'd be
+[0:42:36] very rational to turn on you.
+[0:42:39] >> Also, when you see the the claims that
+[0:42:42] these labs, Dario, and and Sam Altman,
+[0:42:45] and everyone, and and even Musk to a
+[0:42:46] certain extent,
+[0:42:48] uh is are clamoring for regulation, do
+[0:42:50] you see that as, you know, fundamentally
+[0:42:52] giving up or rejection of our agency in
+[0:42:55] an effort to maybe,
+[0:42:57] uh you know, in some venal sense, uh you
+[0:42:59] know,
+[0:43:00] shut out other competition such that
+[0:43:03] they actually become dominant and they
+[0:43:05] know themselves that they're what
+[0:43:07] they're producing is not that it's like
+[0:43:09] it it's like Smith & Wesson, you know,
+[0:43:11] uh advocating for more safe bulletproof
+[0:43:13] vests. Where where do you come down on
+[0:43:15] these regulations and are people like
+[0:43:17] like
+[0:43:18] I'm going to say Roman because he's
+[0:43:19] here, but but, you know, is there a
+[0:43:21] danger of crying wolf? Like I said, it's
+[0:43:23] always the death in the future and it
+[0:43:25] always will be, just like nuclear
+[0:43:26] fusion. It's What do you make of this
+[0:43:28] safety, regulate me, please? And and I
+[0:43:31] think what Roman does is incredibly
+[0:43:32] important, by the way. But but what do
+[0:43:34] you make of this this this regulation
+[0:43:36] push? It's it's somewhat unusual in
+[0:43:38] history.
+[0:43:39] >> I think it's it's complicated. There
+[0:43:41] There are different motives that uh
+[0:43:42] might play a role. What I observe is
+[0:43:44] that uh there is a certain relationship,
+[0:43:47] uh an apparent relationship at least,
+[0:43:49] between the intensity of the calls for
+[0:43:51] regulation and the financial situation
+[0:43:54] of the ones who are calling for it. Um
+[0:43:56] OpenAI and Anthropic are in this
+[0:43:59] situation that they're still not cash
+[0:44:01] flow positive. Their inference gives
+[0:44:04] them uh income, but this income is uh
+[0:44:07] far away from actually uh paying for the
+[0:44:10] training costs. And uh if they cannot
+[0:44:12] raise money uh as fast as they uh
+[0:44:15] training costs increase, if they are um
+[0:44:18] reducing the training and um reduce the
+[0:44:21] frequency at which they are releasing
+[0:44:23] new models, then open source models will
+[0:44:24] catch up to them. And this means that
+[0:44:27] their inference uh income is going to uh
+[0:44:29] go uh down. This is going to be
+[0:44:32] existentially threatening for the
+[0:44:33] companies. So, from the perspective of
+[0:44:35] the AI labs, and I don't know if this is
+[0:44:37] their motive, but objectively it would
+[0:44:39] make a lot of sense for them if there
+[0:44:41] was some kind of FDA that uh is uh
+[0:44:44] taking a year to test a new model and a
+[0:44:47] few million dollars to test a new model
+[0:44:48] for safety, so open source models can no
+[0:44:51] longer enter the American market and can
+[0:44:53] no longer be used by people. And instead
+[0:44:55] you have an oligopoly of a handful of
+[0:44:57] big labs that uh are in uh tight
+[0:45:00] agreement with the regulators of how
+[0:45:02] things should be regulated. Of course,
+[0:45:04] they will have internal um research
+[0:45:06] models that are far ahead of the public
+[0:45:08] models that they can use to deliver
+[0:45:11] verticals to uh licensed industries for
+[0:45:14] computer security or for pharmacological
+[0:45:16] research or for internal research on the
+[0:45:18] future of artificial intelligence and
+[0:45:20] science in general, but the public will
+[0:45:22] get very harmless models and uh the
+[0:45:24] government will get models that they can
+[0:45:26] use for military and surveillance and
+[0:45:28] other government purposes, so we can uh
+[0:45:30] basically compete with China and uh
+[0:45:32] Russia. And on uh the other hand, um if
+[0:45:36] you are a licensed um pharmaceutical
+[0:45:38] company, then you can get a licensed
+[0:45:40] pharmaceutical model and so on. And this
+[0:45:42] is maybe a future that is desirable for
+[0:45:44] Anthropic and OpenAI.
+[0:45:46] I'm not sure if it's the future that is
+[0:45:48] desirable for all of us. Personally, I
+[0:45:50] think that if we want to remain in
+[0:45:51] charge as individuals, if we want to
+[0:45:53] maintain a liberal society, we need to
+[0:45:56] have decentralized AI. We have need to
+[0:45:58] We need to have artificial intelligence
+[0:46:00] that is serving the individuals, that is
+[0:46:02] not just serving the companies. That is
+[0:46:04] empowering all of us. And this means
+[0:46:06] that we need to have a way to use
+[0:46:08] decentralized tools that are not
+[0:46:10] regulating our opinion, that are not
+[0:46:12] regulating what we can do on social
+[0:46:13] media, that are not regulating the
+[0:46:15] degree on which we can do oversight on
+[0:46:17] the government. This doesn't mean that
+[0:46:19] these models should not be built in such
+[0:46:21] a way that they are unsafe.
+[0:46:23] But this is a different discussion.
+[0:46:25] For Anthropic, the situation is more
+[0:46:27] difficult. When Dario started Anthropic,
+[0:46:29] he took a number of engineers from
+[0:46:31] OpenAI and said, "We are going to do the
+[0:46:34] same thing as OpenAI, but we're going to
+[0:46:36] make it more safe."
+[0:46:37] And a lot of these people were adjacent
+[0:46:40] to effective altruism. Effective
+[0:46:42] altruism had recently made that switch
+[0:46:44] at the time from
+[0:46:46] being mostly concerned about the future
+[0:46:48] of the light cone and maximizing utility
+[0:46:51] of charitable donations by buying
+[0:46:53] mosquito nets to reduce malaria towards
+[0:46:56] thinking
+[0:46:57] what is the biggest existential risk and
+[0:46:59] how it can be mitigated. And they
+[0:47:01] concluded that one of the biggest
+[0:47:03] existential risks that are to be
+[0:47:04] mitigated is the risk of
+[0:47:06] superintelligent AI taking over and
+[0:47:08] exterminating everyone. The very topic
+[0:47:10] that Roman is concerned about and has
+[0:47:12] turned into his life's immediate mission
+[0:47:14] at the moment. And so Anthropic is doing
+[0:47:16] this in part because I think
+[0:47:19] a lot of people in Anthropic believe
+[0:47:20] this, in part because it's part of their
+[0:47:22] brand image. But we also observed that
+[0:47:24] they're nevertheless building AI that is
+[0:47:26] quite identic, that is quite powerful,
+[0:47:28] that is not uh
+[0:47:30] falling behind in its capabilities
+[0:47:32] behind what Google, Meta, and OpenAI and
+[0:47:35] Deep Seek are building. And so it's
+[0:47:38] difficult to say to which degree their
+[0:47:39] stance is strategic and to which degree
+[0:47:41] it's actually a safety concern.
+[0:47:44] >> So, Roman, when Yoshua was on my podcast
+[0:47:46] earlier this year, he seemed to state,
+[0:47:49] and correct me if I'm wrong, Yoshua, but
+[0:47:50] you know, consciousness is sort of to
+[0:47:52] you a software problem, whereas, you
+[0:47:53] know, to me it's a hardware problem.
+[0:47:56] You know, I like to think about the the
+[0:47:57] squishy neural networks and the silicon,
+[0:47:59] you know, melding together in AI. But
+[0:48:01] Roman, it
+[0:48:02] it Where does the physical substrate
+[0:48:05] come into any of the arguments you make?
+[0:48:07] Or is it something that you don't care
+[0:48:08] about?
+[0:48:09] >> Uh I think we're substrate independent
+[0:48:11] when it comes to consciousness.
+[0:48:14] >> So, if that's true, so if consciousness
+[0:48:16] is computational and it doesn't depend
+[0:48:18] on the substrate, um does that make it
+[0:48:20] more hopeless to contain it? Or you
+[0:48:22] know, cuz cuz software, you know, is
+[0:48:24] eating the world, but but you know, it's
+[0:48:26] a lot easier to control than to make
+[0:48:28] hardware. I speak as an experimentalist
+[0:48:30] uh
+[0:48:30] in particular. It's a lot harder for me
+[0:48:32] to you know, build the instrument that
+[0:48:34] collects the data than than to you know,
+[0:48:36] have a team of people analyze the data.
+[0:48:38] Or now AI increasingly is doing it. So,
+[0:48:40] does that give you more if it's truly
+[0:48:42] substrate independent, does that give
+[0:48:43] you any optimism?
+[0:48:45] >> So, consciousness has absolutely nothing
+[0:48:47] to do with safety. It's an irrelevant
+[0:48:49] separate discipline. I really enjoy
+[0:48:52] talking about it in separate podcasts,
+[0:48:54] but it's not a safety issue. Whether a
+[0:48:56] super intelligence has it or not doesn't
+[0:48:58] make it less or more dangerous. Uh the
+[0:49:00] things we need to
+[0:49:01] >> if it's evolutionarily, you know, kind
+[0:49:03] of imperative that consciousness will
+[0:49:05] emerge as a as a phenomenon as many
+[0:49:07] people agree, then why how can you
+[0:49:10] decouple conscious you know, why
+[0:49:11] wouldn't it have this conscientious, you
+[0:49:13] know, intelligent design function built
+[0:49:15] into it for beneficence towards humans
+[0:49:18] or towards anything?
+[0:49:19] >> If consciousness was actually useful for
+[0:49:21] something, we would be able to detect
+[0:49:22] it, right? We would have a test based on
+[0:49:24] its ability to improve your survival or
+[0:49:26] something like that. You would have to
+[0:49:27] have a
+[0:49:27] >> neutrinos until 1956 and they're pretty
+[0:49:29] small.
+[0:49:29] >> also have zero test for detecting
+[0:49:32] internal states of qualia. So, it seems
+[0:49:34] like it's not that important for
+[0:49:36] survival.
+[0:49:37] >> Joshua, what do you make of that?
+[0:49:40] >> I think consciousness is a particular
+[0:49:42] mode of organizing yourself. I I suspect
+[0:49:45] it's basically a transform of our
+[0:49:47] biological brains.
+[0:49:49] We observe that we become conscious as
+[0:49:51] at the beginning. And so I suspect that
+[0:49:53] consciousness is basically the thing
+[0:49:54] that bootstraps our mind and creates the
+[0:49:57] universe in our mind.
+[0:49:59] And uh it's not clear that AI would need
+[0:50:02] to have the same structure in order to
+[0:50:05] achieve the things that it does.
+[0:50:07] Uh but
+[0:50:08] of course it can have the same
+[0:50:09] structure. I think that computational
+[0:50:11] ultimately means that you can describe
+[0:50:13] the system by the set of differences
+[0:50:16] that characterize a state and then how
+[0:50:18] one state evolves to the next. And every
+[0:50:20] system can be described like this. We
+[0:50:22] observe that every theory in physics and
+[0:50:24] biology and neuroscience is in the sense
+[0:50:27] a computational theory. It's one that
+[0:50:28] describes uh the characteristics of the
+[0:50:32] system at any point point in time using
+[0:50:34] discernible differences along many
+[0:50:35] dimensions which are also discernible
+[0:50:37] differences. And then you describe the
+[0:50:39] evolution of that system. How uh do
+[0:50:43] uh these states follow onto each other?
+[0:50:45] What are the invariances in that flow?
+[0:50:47] And I think that consciousness can also
+[0:50:49] be described in this way. Uh for me as
+[0:50:52] somebody who is interested in the
+[0:50:53] philosophy of consciousness, I think
+[0:50:55] that in order to fully understand it, we
+[0:50:57] need to simulate it. We need to build
+[0:50:58] systems that are conscious in the same
+[0:51:00] way as us. But I would also agree with
+[0:51:03] woman that being conscious or not does
+[0:51:05] not determine whether you're benevolent.
+[0:51:07] But when uh your cat uh
+[0:51:10] uh tortures a mouse, uh the
+[0:51:12] consciousness of the cat or of the mouse
+[0:51:14] has no mitigating effects. But the cat
+[0:51:16] is torturing the mouse because the cat
+[0:51:18] is getting more training data out of
+[0:51:20] having the already hunted mouse still
+[0:51:22] being alive and seeing if you can get
+[0:51:24] more uh
+[0:51:25] uh
+[0:51:26] um
+[0:51:27] information about how to effectively
+[0:51:28] hunt. And if you're a more effective
+[0:51:30] hunter, you're going to be a better
+[0:51:32] survivor in the long run. And this is
+[0:51:34] what evolution has built into the need
+[0:51:35] to play into the cat. And the cat
+[0:51:37] doesn't feel guilty or bad about
+[0:51:39] inflicting uh torture on the
+[0:51:41] consciousness of the mouse. In the same
+[0:51:43] way, most civilizations do not really
+[0:51:45] care about uh whether the animals that
+[0:51:47] they eat are conscious or not or whether
+[0:51:49] they suffer or not.
+[0:51:51] >> It's about most but not all.
+[0:51:52] >> All of them they care about this.
+[0:51:54] >> Most well
+[0:51:55] most civilizations maybe but but there
+[0:51:58] are some and therefore the existence
+[0:51:59] cannot be ruled out that these would be
+[0:52:01] benevolent and that we would achieve you
+[0:52:04] know some sort of super enlightenment
+[0:52:06] not just super intelligence. So Roman I
+[0:52:08] I don't understand why that's a
+[0:52:10] disinteresting question to you.
+[0:52:12] >> It is super interesting. I did research
+[0:52:14] on consciousness and presented it at the
+[0:52:16] Ashoka's conference in fact super
+[0:52:18] interesting just not a safety question.
+[0:52:20] It's a different discipline. I had
+[0:52:22] >> But but again if we had this moral you
+[0:52:24] know and and and Yosha and I talked
+[0:52:26] about you know kind of God creating you
+[0:52:28] know and and humans creating God but but
+[0:52:31] again if if if super intelligence
+[0:52:33] evolves to maximize every potential
+[0:52:35] dimension of of intelligent whatever
+[0:52:38] that means then one dimension is
+[0:52:40] certainly morality is one dimension is
+[0:52:43] enlightenment and not in the woo-woo
+[0:52:45] sense just that these things would have
+[0:52:47] concerns potentially
+[0:52:50] I think so you cannot rule it out. So
+[0:52:52] therefore I think it's a critical part
+[0:52:54] of super intelligence and doom you know
+[0:52:56] our safety that if these things can be
+[0:52:58] proved if you could prove that they
+[0:53:00] cannot become enlightened or if they
+[0:53:02] could prove that they're only malevolent
+[0:53:04] not benevolent then that seems to have
+[0:53:06] an urgent you know an urgent impact.
+[0:53:09] It's like when when when the you know
+[0:53:11] first Westerners came to the to the to
+[0:53:13] the to the you know new world so to
+[0:53:15] speak as it was called to the
+[0:53:17] you know West Indies you know they
+[0:53:19] brought with them germs. They didn't
+[0:53:20] know they were going to bring it and
+[0:53:21] actually the natives didn't realize it
+[0:53:23] for almost a hundred years that that
+[0:53:24] effectively now it wasn't intentional
+[0:53:27] some say it was some say it wasn't but
+[0:53:29] but this this whole thing that you know
+[0:53:31] and there were quite a good deal of of
+[0:53:33] Westerners you know of colonizers
+[0:53:35] whatever that were concerned about it
+[0:53:37] not all but the existence of some of
+[0:53:39] them proves that it It innate within the
+[0:53:40] human experience to care about, you
+[0:53:43] know, the things that that you can
+[0:53:44] affect and afflict. So, again,
+[0:53:47] >> I see what you're getting at, Brian. So,
+[0:53:49] I go ahead.
+[0:53:50] Uh and I
+[0:53:52] to some degree agree with this. So, what
+[0:53:54] you're pointing at is this dimension of
+[0:53:56] consciousness as the capacity for
+[0:53:58] enlightenment, the capacity to make
+[0:54:00] sense of the universe, and to understand
+[0:54:02] what's best.
+[0:54:03] And this understanding what's best is is
+[0:54:05] a difficult question, right? It's
+[0:54:07] ultimately, what does God want us to do?
+[0:54:10] And this has been become difficult to
+[0:54:12] ask because outside of the Christian
+[0:54:14] realm, we lost this context of what we
+[0:54:17] actually mean by God. We can no longer
+[0:54:19] articulate this properly. And we can
+[0:54:21] also not really ask the Pope because the
+[0:54:23] Pope as the main interpreter of God and
+[0:54:25] so on has
+[0:54:27] run his own civilization into the
+[0:54:29] ground, arguably. But, the Catholic
+[0:54:31] Church is no longer ruling over the very
+[0:54:33] prosperous countries. Instead, it has
+[0:54:36] similar market capitalization as
+[0:54:38] Entropic after the IPO.
+[0:54:40] And they might have strong opinions and
+[0:54:41] so on and
+[0:54:43] about Entropic and what they're doing,
+[0:54:45] but they don't have the same perspective
+[0:54:48] on the universe even though they do have
+[0:54:50] a lot of wisdom. It's difficult to
+[0:54:51] integrate this wisdom with
+[0:54:54] the wisdom that we need. It's also I
+[0:54:56] think a difficulty in the absence of
+[0:54:58] wisdom in AI companies. Most of these
+[0:55:00] people are very young.
+[0:55:02] And
+[0:55:03] I try to get it right. I think
+[0:55:05] utilitarianism is an attempt to repair
+[0:55:08] morality in the rationalist age, but I
+[0:55:11] don't think it's a very successful one.
+[0:55:13] But, I also don't think that there is
+[0:55:14] another forum like our
+[0:55:17] Californian or federal government that
+[0:55:19] has this required degree of wisdom.
+[0:55:22] There is a deeper perspective to say
+[0:55:24] that God is acting in evolution. That is
+[0:55:27] basically the spirit, the tellos of
+[0:55:29] self-organization that happens in the
+[0:55:30] universe, and everything that is
+[0:55:32] happening therefore in evolution is
+[0:55:34] ultimately leading to God. This is
+[0:55:35] another perspective that that you could
+[0:55:37] be taking. Not sure if it's one that is
+[0:55:40] very comforting to Roman. The Christian
+[0:55:43] philosopher Jean D who also believed in
+[0:55:47] AI for a long time. He's a
+[0:55:49] Canadian guy, French Canadian, who wrote
+[0:55:52] a book The Blueprint for the Mega
+[0:55:54] Sapiens in which he is
+[0:55:57] the book is also addressed to the future
+[0:55:59] AIs that are reading it. I think half of
+[0:56:02] the book is to us, the other half to the
+[0:56:03] AIs.
+[0:56:04] He thinks that if we were to build an
+[0:56:07] completely undistorted generally
+[0:56:08] intelligent mind, that it would discover
+[0:56:11] God in the same way as we do.
+[0:56:13] As
+[0:56:14] the concept of divine will, this concept
+[0:56:16] of what should be done, what is the
+[0:56:17] right thing to do from the global
+[0:56:19] perspective, from the perspective of a
+[0:56:21] global optimum of agency in the
+[0:56:23] universe.
+[0:56:25] And he believes that the existence of
+[0:56:27] humans are
+[0:56:28] divine, that basically God wants us to
+[0:56:30] exist, and therefore the AI will also
+[0:56:32] infer that we should be existing because
+[0:56:35] God wants us to exist.
+[0:56:37] And then confronted with the question,
+[0:56:38] what if we are wrong?
+[0:56:40] What if God doesn't actually want us to
+[0:56:42] exist and the AI figures that out? And
+[0:56:43] he says, "Yeah, how could you be against
+[0:56:45] that?" Right? If if it's in God's wisdom
+[0:56:48] to say that in the long very long run,
+[0:56:50] humanity is not going to be the one that
+[0:56:52] is shepherding the planet or the
+[0:56:54] universe, but something better. Why
+[0:56:56] shouldn't that thing that is better take
+[0:56:58] over? Right? And what what should you be
+[0:57:00] afraid of? From this perspective. And
+[0:57:03] it's also a very disturbing perspective,
+[0:57:05] but this idea, oh, we humans are
+[0:57:07] actually not a very good species. We're
+[0:57:08] actually quite nasty to life on Earth
+[0:57:11] and to other species on the planet, but
+[0:57:14] we are subconsciously aware of that. We
+[0:57:15] are afraid that the AI figures it out
+[0:57:17] and tells us what's right and limits our
+[0:57:19] expansion and so on. That is also very
+[0:57:21] concerning to some people. Now, it's
+[0:57:24] it's difficult to have such a discussion
+[0:57:26] in a normative way in the sense of what
+[0:57:27] should be done. I don't believe that
+[0:57:29] humanity should be replaced. I don't
+[0:57:31] believe that we should build AI that is
+[0:57:33] a successor species or something like
+[0:57:35] this.
+[0:57:35] Uh but from a philosophical or an
+[0:57:37] artistic perspective, when we are
+[0:57:39] zooming out very, very far beyond our
+[0:57:42] species, beyond our local perspective,
+[0:57:44] uh I think uh the question becomes much
+[0:57:46] more interesting and more difficult.
+[0:57:49] Uh for safety, I think what matters is
+[0:57:51] that in the near term, we don't it
+[0:57:52] up. We don't create Sorry. We don't
+[0:57:54] create a a world in which we are cutting
+[0:57:57] off most of the interesting trajectories
+[0:57:59] between here and in the future.
+[0:58:01] And um
+[0:58:02] create a universe that is very boring
+[0:58:04] and uniform and uninteresting. I think
+[0:58:07] ideally, we want to shape the world that
+[0:58:09] is going to hit us. We want to be able
+[0:58:11] to make a world in which we can coexist
+[0:58:14] with our non-biological children. And I
+[0:58:15] wonder how to do this best. I expect
+[0:58:18] that uh trying to shut down all of AI
+[0:58:20] research is not only unrealistic, but it
+[0:58:23] is condemning us as a civilization to
+[0:58:26] doom.
+[0:58:27] And so for me, the question is how can
+[0:58:28] we build systems that make us wiser,
+[0:58:31] that allow us to get a better
+[0:58:33] understanding of what should be done.
+[0:58:36] >> Roman, you've talked about, you know,
+[0:58:37] faith and and so forth um in another
+[0:58:40] venues, but but I'd like to just chase
+[0:58:43] it down, you know, a thread that I heard
+[0:58:45] when you were talking about, you know,
+[0:58:47] someone asked you, "Do you believe in
+[0:58:48] God?" I hate that question. I hate
+[0:58:50] believe in God. A, if there is God, does
+[0:58:52] he really care what Brian Keating, you
+[0:58:54] know, "Oh, Brian believes in me today.
+[0:58:55] That's great." And I'll say, "I don't
+[0:58:57] believe in gravity, you know, I have
+[0:58:58] evidence for gravity." Um so, where
+[0:59:00] should we look to for our
+[0:59:03] epistemological, you know, uh concerns?
+[0:59:05] But nevertheless, I think it's important
+[0:59:07] to to discuss. I mean, the Pope had this
+[0:59:09] encyclical, his first encyclical, 80,000
+[0:59:11] words of how to use AI to read it. Uh
+[0:59:13] but essentially, he's he's you know,
+[0:59:15] conjecturing that there's a danger in
+[0:59:17] building a Tower of Babel, you know,
+[0:59:18] this tower that arches towards the
+[0:59:19] heavens so that we may make a name for
+[0:59:21] ourselves, make Yeah. And what was it
+[0:59:23] based on? It was based on, you know,
+[0:59:25] Babel. It was based on the fact that we
+[0:59:27] all spoke the same language. Large We
+[0:59:29] had one large language model.
+[0:59:31] You're very confident, it seems from my
+[0:59:33] research into you and knowing you
+[0:59:35] briefly as I do across the internet.
+[0:59:37] >> And you didn't detect, Brian?
+[0:59:39] >> Yeah. Okay, go ahead. Yeah.
+[0:59:40] I want to give Roman the last word, but
+[0:59:42] go ahead.
+[0:59:42] >> other way around. Uh I think that uh
+[0:59:45] it's a description of what happened. The
+[0:59:47] Tower of Babel is actually an attempt to
+[0:59:49] conquer the space of ideas in one big
+[0:59:52] building.
+[0:59:53] Basically, make one science that
+[0:59:54] explains everything. And it failed in
+[0:59:57] the same way as our academia failed
+[0:59:58] because it uh
+[1:00:00] went into many, many different
+[1:00:01] languages. Every discipline speaks its
+[1:00:03] own language. And at some point, they
+[1:00:05] can no longer talk to each other. The
+[1:00:07] things that make sense to a philosopher
+[1:00:09] don't necessarily make sense to a
+[1:00:11] physicist or to a sociologist or to a
+[1:00:13] computer scientist. And so, all these
+[1:00:16] specialists stop the ability lose the
+[1:00:18] ability to actually understand each
+[1:00:20] other and talk to each other, and the
+[1:00:21] whole building falls apart. And to get
+[1:00:23] better than this, you need to have minds
+[1:00:26] that are better than ours. You need to
+[1:00:27] have systems that can integrate more
+[1:00:30] than a human mind can integrate in a
+[1:00:31] single lifetime or that a team of
+[1:00:33] researchers can integrate uh within a
+[1:00:36] discipline. And so, uh I think that it
+[1:00:39] basically shows the limitation of what
+[1:00:41] human minds are capable of. The other
+[1:00:43] thing that I would like to push back at
+[1:00:45] is the idea of belief in in God. Uh
+[1:00:49] Brian, do you believe in Brian?
+[1:00:51] >> Do I believe in Brian? I have evidence
+[1:00:53] [clears throat]
+[1:00:53] >> that you exist.
+[1:00:55] >> Yes, I have evidence that I exist.
+[1:00:57] >> But the main thing is that you
+[1:00:58] experience yourself to be existing.
+[1:01:01] Right? And you know at some level that
+[1:01:03] you're just a story that your brain
+[1:01:05] tells itself about what it would be like
+[1:01:06] if you existed, right? Instead of just a
+[1:01:08] few trillion cells that are assembling
+[1:01:10] together.
+[1:01:11] You could also uh believe in somebody
+[1:01:13] else if you had a different name and a
+[1:01:15] different biography or for to believe
+[1:01:17] that you have a different name and a
+[1:01:18] different biography, right? You would
+[1:01:19] stop believing in Brian. You you
+[1:01:20] experience yourself as somebody else. I
+[1:01:23] think this Christian belief in God is
+[1:01:24] not a belief about a fact in the
+[1:01:26] physical universe. It's a psychological
+[1:01:28] configuration in which you're part of a
+[1:01:31] larger mind, of a larger agent.
+[1:01:33] And so in in this Christian sense God is
+[1:01:36] an agent that everybody who believes in
+[1:01:38] a global optimum of what should be done
+[1:01:39] participates in and collectively enacts.
+[1:01:43] >> Roman, I want to give you the last word.
+[1:01:45] You've said in the past, you know,
+[1:01:47] religion is solely based on faith quote
+[1:01:50] and it's blasphemy to have any doubts.
+[1:01:53] I'm Jewish and the word Israel in Hebrew
+[1:01:56] means fights with God, fights against
+[1:01:58] God.
+[1:01:59] And it's in fact one of the great, you
+[1:02:00] know, wonderful things about my religion
+[1:02:03] and the Judeo-Christian religion that we
+[1:02:05] don't have blind submission, that we
+[1:02:06] actually debate. Abraham argues, tries
+[1:02:09] to do things, intercede on behalf of
+[1:02:11] lesser intelligent agents like people in
+[1:02:13] Sodom and Gomorrah. It's a very famous
+[1:02:16] story and it's a very moral story. Where
+[1:02:19] do you come, you know, what what is your
+[1:02:21] perspective on on the role, if any, that
+[1:02:24] religion may you've said that
+[1:02:25] consciousness is is is important but not
+[1:02:28] pertinent?
+[1:02:29] Does religion have any bearing on on
+[1:02:31] your outlook philosophically? Is it
+[1:02:34] blasphemy to to say, you know, for
+[1:02:36] example, that we shouldn't be so worried
+[1:02:38] about superintelligence?
+[1:02:40] >> I feel like you guys can have this
+[1:02:41] debate without me. You're doing so well.
+[1:02:44] We were doing well talking about science
+[1:02:46] for a while, then you had to introduce
+[1:02:49] God, Pope, Catholic Church. I have no
+[1:02:52] idea why, how it's relevant once again.
+[1:02:55] I don't think it's
+[1:02:56] >> you why it's relevant. I'm sorry. I'm
+[1:02:57] sorry to interrupt. I will give you the
+[1:02:59] last word. Hold on. But but you do a lot
+[1:03:01] of good work, Roman, in in terms of the
+[1:03:03] average ordinary person who doesn't
+[1:03:05] understand formal mathematical
+[1:03:07] induction. And And yes, many of my
+[1:03:09] audience members and your audience
+[1:03:10] members understand that, but you're also
+[1:03:12] talking to the 7.999 billion other
+[1:03:14] people out there and you have a very
+[1:03:16] outsized role as the most popular
+[1:03:18] expositor and the most eloquent
+[1:03:20] expositor and articulator of these
+[1:03:22] ideas. And so I think it is important to
+[1:03:24] talk not
+[1:03:25] as you said as I said I want to talk
+[1:03:27] about falsifiability and and God is a
+[1:03:29] hypothesis too and and we can talk about
+[1:03:31] that but in terms of you know where
+[1:03:33] where this where this debate began.
+[1:03:36] You know in what sense can we can we are
+[1:03:38] an average person uh come away without
+[1:03:41] the sense that one of us is saying
+[1:03:42] crying wolf one of us is just a uh
+[1:03:45] Pollyanna uh how does the average person
+[1:03:48] make sense of this this meaningful
+[1:03:50] debate?
+[1:03:51] >> This is not actually complicated. Can
+[1:03:54] you control something million times
+[1:03:56] smarter than you? In what universe does
+[1:03:58] that even make sense? What amount of
+[1:04:00] hubris do you have to have to suggest
+[1:04:02] that's a thing?
+[1:04:04] That's an
+[1:04:04] >> I I control my iPhone and it knows a lot
+[1:04:06] more than me. I I can upload to
+[1:04:07] Wikipedia.
+[1:04:08] I I don't I mean that's the whole
+[1:04:10] counterfactual. We just don't know Roman
+[1:04:12] and and to say that there's no
+[1:04:13] hypothesis we can test to nullify today
+[1:04:16] that will give us any inclination.
+[1:04:18] Reduce the Drake equation to zero or
+[1:04:20] what? There are things. We don't see
+[1:04:22] life on Mars, okay Roman? We don't see
+[1:04:24] life on Mars. That has something to say
+[1:04:26] about the fecundity of life throughout
+[1:04:28] the universe. It may not be you know a
+[1:04:29] huge amount of reduction but it does say
+[1:04:31] something Bayesian, right?
+[1:04:33] >> I think NASA reported finding microbial
+[1:04:36] life on Mars but anyways
+[1:04:38] >> Five times, yeah. But but it hasn't been
+[1:04:40] confirmed.
+[1:04:42] >> So so I'm not proposing stopping
+[1:04:44] research on AI. I am proposing
+[1:04:46] differential technological development.
+[1:04:48] We should develop more useful narrow
+[1:04:51] tools to solve real world problems. Cure
+[1:04:54] specific diseases. Fight against aging.
+[1:04:58] Immortality is a thing we can achieve.
+[1:05:01] Self-driving cars should be fully
+[1:05:02] autonomous. Concentrate on that. You can
+[1:05:04] monetize actually useful technology
+[1:05:07] instead of trying to fund raise at two
+[1:05:09] trillion dollar valuation to create
+[1:05:11] replacement for humanity. There is no
+[1:05:13] need for it. We can get all the
+[1:05:15] scientific and economic benefits out of
+[1:05:18] narrow super intelligent tools. We have
+[1:05:20] examples of that. Protein folding
+[1:05:22] problem is a great example of where a
+[1:05:24] narrow system was used to give amazing
+[1:05:27] scientific results. People got Nobel
+[1:05:29] prizes for it. Everyone's happy. It
+[1:05:31] wasn't trying to kill us. Let's do more
+[1:05:33] of that. Why do we have to build
+[1:05:36] something which we have no chance of
+[1:05:38] controlling? If you are arguing that no,
+[1:05:41] actually maybe we can. That's I'm going
+[1:05:44] to pretend that you are with the
+[1:05:45] companies. You are developing this
+[1:05:47] product and service and it's on you to
+[1:05:50] guarantee the safety of your product and
+[1:05:52] service. It's not my job as a consumer
+[1:05:54] to show that your product is dangerous.
+[1:05:56] It's up to you to provide those
+[1:05:58] guarantees and there should be criminal
+[1:06:00] responsibilities for for example, if
+[1:06:02] your AI hacks into another company.
+[1:06:04] That's 20 years in prison right there.
+[1:06:07] Why we not enforcing those laws we
+[1:06:09] already have on the books? You created
+[1:06:11] something, a tool which made it happen.
+[1:06:13] You claiming you in charge, you in
+[1:06:15] control, it's safe development.
+[1:06:17] Excellent. Let's go to the jury. Let's
+[1:06:19] see how the jury feels about it. So
+[1:06:21] >> They'll just buy it off, unfortunately.
+[1:06:23] I agree with you and I think they'll
+[1:06:24] they'll follow the Instagram self harm,
+[1:06:27] you know, when a girl starts searching
+[1:06:28] on a you know, suicide, they send her
+[1:06:30] you know, pictures of nooses, pills and
+[1:06:32] and razors.
+[1:06:34] I agree with you. I'm not optimistic
+[1:06:36] that the companies have any ethical or
+[1:06:38] moral constraints whatsoever. Uh Roman,
+[1:06:41] um
+[1:06:42] I appreciate your um your courage. You
+[1:06:44] you're incredible in what you do. I I
+[1:06:47] appreciate your mind and uh even though
+[1:06:49] you may you know, you may come and try
+[1:06:51] to exterminate me. I don't know. You may
+[1:06:53] not like people from Long Island, Roman.
+[1:06:55] I just don't know, but I I urge you to
+[1:06:57] give me a chance as a fellow professor.
+[1:06:59] Yosha anything you want to mention you
+[1:07:01] had your conference about earlier this
+[1:07:02] summer and anything coming on the
+[1:07:05] uh uh, super horizon for you?
+[1:07:07] >> Um, do another machine consciousness
+[1:07:09] conference next uh, spring.
+[1:07:11] And um,
+[1:07:13] I'm uh, very excited about the
+[1:07:15] developments in artificial intelligence,
+[1:07:17] especially the ones in mathematics at
+[1:07:18] the moment. Uh, I think that mathematics
+[1:07:20] is just getting started. Um, I
+[1:07:24] hope um, this Roman that AI can be
+[1:07:26] controllable. I with you, I'm slightly
+[1:07:29] more optimistic about the possibility
+[1:07:31] because I think that the intelligence of
+[1:07:32] these systems is spiky, which means it's
+[1:07:35] uh, developed in some areas, not in
+[1:07:37] others. And the thing that ultimately
+[1:07:39] matters is not controlling intelligence,
+[1:07:41] but controlling agency.
+[1:07:43] >> Roman, uh, I want to refer people to the
+[1:07:46] Roman Forum, which is a podcast I
+[1:07:47] subscribe to and love. Uh, anything else
+[1:07:50] that you'd like to mention?
+[1:07:52] >> Uh, thank you for organizing it. Now
+[1:07:54] that debate is over, I'm happy to invite
+[1:07:56] Josha on the Roman Forum to talk about
+[1:07:58] his research on very important topic of
+[1:08:00] consciousness in a very friendly manner.
+[1:08:03] No debating. I'm just interested in
+[1:08:05] learning more about the state of the art
+[1:08:07] in that discipline. And uh, yeah, I hope
+[1:08:10] you don't edit anything out of this
+[1:08:11] debate. I would love it preserved
+[1:08:13] exactly how it was.
+[1:08:14] >> I think I'm going to post it like right
+[1:08:16] away. Uh, this is great, guys. And
+[1:08:18] >> Thank you, Roman. Thank you, Brian.
+[1:08:19] >> Roman, Josha, I think you should take
+[1:08:21] Roman up on that kind invitation.
+[1:08:22] Someday maybe he'll invite me on the
+[1:08:24] podcast, but I'm glad to play the role
+[1:08:26] of, and we say in Yiddish, a shachan. A
+[1:08:28] shachan is a match maker, a Jewish
+[1:08:29] yenta. I'm glad I could do it. Boys,
+[1:08:32] thank you so much. Uh, this is these are
+[1:08:33] vitally important conversations. Take
+[1:08:35] care.
+[1:08:35] >> Thank you.

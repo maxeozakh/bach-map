@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:arxiv="http://arxiv.org/schemas/atom" xmlns="http://www.w3.org/2005/Atom">
+  <id>https://arxiv.org/api/cS7cXety8BbEXyBsNl7ZDjtk7Oo</id>
+  <title>arXiv Query: search_query=au:"Joscha Bach"&amp;id_list=&amp;start=0&amp;max_results=50</title>
+  <updated>2026-11-13T07:29:41Z</updated>
+  <link href="https://arxiv.org/api/query?search_query=au:%22Joscha+Bach%22&amp;start=0&amp;max_results=50&amp;id_list=" type="application/atom+xml"/>
+  <opensearch:itemsPerPage>50</opensearch:itemsPerPage>
+  <opensearch:totalResults>3</opensearch:totalResults>
+  <opensearch:startIndex>0</opensearch:startIndex>
+  <entry>
+    <id>http://arxiv.org/abs/2303.12084v1</id>
+    <title>Thrill-K Architecture: Towards a Solution to the Problem of Knowledge Based Understanding</title>
+    <updated>2023-02-28T20:39:35Z</updated>
+    <link href="https://arxiv.org/abs/2303.12084v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2303.12084v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>While end-to-end learning systems are rapidly gaining capabilities and popularity, the increasing computational demands for deploying such systems, along with a lack of flexibility, adaptability, explainability, reasoning and verification capabilities, require new types of architectures. Here we introduce a classification of hybrid systems which, based on an analysis of human knowledge and intelligence, combines neural learning with various types of knowledge and knowledge sources. We present the Thrill-K architecture as a prototypical solution for integrating instantaneous knowledge, standby knowledge and external knowledge sources in a framework capable of inference, learning and intelligent control.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2023-02-28T20:39:35Z</published>
+    <arxiv:comment>Artificial General Intelligence: 15th International Conference, AGI 2022, Seattle, WA, USA, August 2022, Proceedings</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <arxiv:journal_ref>Springer Lecture Notes in Computer Science, vol 13539, 2023</arxiv:journal_ref>
+    <author>
+      <name>Gadi Singer</name>
+    </author>
+    <author>
+      <name>Joscha Bach</name>
+    </author>
+    <author>
+      <name>Tetiana Grinberg</name>
+    </author>
+    <author>
+      <name>Nagib Hakim</name>
+    </author>
+    <author>
+      <name>Phillip Howard</name>
+    </author>
+    <author>
+      <name>Vasudev Lal</name>
+    </author>
+    <author>
+      <name>Zev Rivlin</name>
+    </author>
+    <arxiv:doi>10.1007/978-3-031-19907-3_39</arxiv:doi>
+    <link rel="related" href="https://doi.org/10.1007/978-3-031-19907-3_39" title="doi"/>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/1911.13173v1</id>
+    <title>Mean Shift Rejection: Training Deep Neural Networks Without Minibatch Statistics or Normalization</title>
+    <updated>2019-11-29T16:19:00Z</updated>
+    <link href="https://arxiv.org/abs/1911.13173v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/1911.13173v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>Deep convolutional neural networks are known to be unstable during training at high learning rate unless normalization techniques are employed. Normalizing weights or activations allows the use of higher learning rates, resulting in faster convergence and higher test accuracy. Batch normalization requires minibatch statistics that approximate the dataset statistics but this incurs additional compute and memory costs and causes a communication bottleneck for distributed training. Weight normalization and initialization-only schemes do not achieve comparable test accuracy.
+  We introduce a new understanding of the cause of training instability and provide a technique that is independent of normalization and minibatch statistics. Our approach treats training instability as a spatial common mode signal which is suppressed by placing the model on a channel-wise zero-mean isocline that is maintained throughout training. Firstly, we apply channel-wise zero-mean initialization of filter kernels with overall unity kernel magnitude. At each training step we modify the gradients of spatial kernels so that their weighted channel-wise mean is subtracted in order to maintain the common mode rejection condition. This prevents the onset of mean shift. This new technique allows direct training of the test graph so that training and test models are identical. We also demonstrate that injecting random noise throughout the network during training improves generalization. This is based on the idea that, as a side effect, batch normalization performs deep data augmentation by injecting minibatch noise due to the weakness of the dataset approximation.
+  Our technique achieves higher accuracy compared to batch normalization and for the first time shows that minibatches and normalization are unnecessary for state-of-the-art training.</summary>
+    <category term="cs.LG" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="cs.CV" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="stat.ML" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2019-11-29T16:19:00Z</published>
+    <arxiv:comment>under review at ECAI2020</arxiv:comment>
+    <arxiv:primary_category term="cs.LG"/>
+    <author>
+      <name>Brendan Ruff</name>
+    </author>
+    <author>
+      <name>Taylor Beck</name>
+    </author>
+    <author>
+      <name>Joscha Bach</name>
+    </author>
+  </entry>
+  <entry>
+    <id>http://arxiv.org/abs/2407.10978v1</id>
+    <title>Building Artificial Intelligence with Creative Agency and Self-hood</title>
+    <updated>2024-06-09T22:28:11Z</updated>
+    <link href="https://arxiv.org/abs/2407.10978v1" rel="alternate" type="text/html"/>
+    <link href="https://arxiv.org/pdf/2407.10978v1" rel="related" type="application/pdf" title="pdf"/>
+    <summary>This paper is an invited layperson summary for The Academic of the paper referenced on the last page. We summarize how the formal framework of autocatalytic networks offers a means of modeling the origins of self-organizing, self-sustaining structures that are sufficiently complex to reproduce and evolve, be they organisms undergoing biological evolution, novelty-generating minds driving cultural evolution, or artificial intelligence networks such as large language models. The approach can be used to analyze and detect phase transitions in vastly complex networks that have proven intractable with other approaches, and suggests a promising avenue to building an autonomous, agentic AI self. It seems reasonable to expect that such an autocatalytic AI would possess creative agency akin to that of humans, and undergo psychologically healing -- i.e., therapeutic -- internal transformation through engagement in creative tasks. Moreover, creative tasks would be expected to help such an AI solidify its self-identity.</summary>
+    <category term="cs.AI" scheme="http://arxiv.org/schemas/atom"/>
+    <category term="q-bio.NC" scheme="http://arxiv.org/schemas/atom"/>
+    <published>2024-06-09T22:28:11Z</published>
+    <arxiv:comment>5 pages; 1 figure. The Academic, May 20. 2024. https://theacademic.com/building-artificial-intelligence-creative-agency-and-self-hood/</arxiv:comment>
+    <arxiv:primary_category term="cs.AI"/>
+    <arxiv:journal_ref>The Academic, May 20 2024</arxiv:journal_ref>
+    <author>
+      <name>Liane Gabora</name>
+    </author>
+    <author>
+      <name>Joscha Bach</name>
+    </author>
+  </entry>
+</feed>

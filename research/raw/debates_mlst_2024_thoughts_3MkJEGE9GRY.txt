@@ -1,0 +1,3187 @@
+# source: https://www.youtube.com/watch?v=3MkJEGE9GRY
+# generated=True lang=en
+[0:00:00] stuff that we find interesting in humans
+[0:00:01] is this ability to become self-authoring
+[0:00:04] to change their own way in which you're
+[0:00:07] interacting with the world in which
+[0:00:08] you're interacting with yourself
+[0:00:09] becoming a different system developing
+[0:00:11] yourself growing evolution is the
+[0:00:13] competition between different software
+[0:00:15] agents that can reproduce and can can
+[0:00:18] code themselves and they use the
+[0:00:19] molecules to encode themselves and they
+[0:00:21] use the mechanism to implement
+[0:00:23] themselves and perpetuate themselves and
+[0:00:25] compete but it's actually all about
+[0:00:27] software it's all about spirits
+[0:00:30] yosha Yos yosha back is a leading
+[0:00:32] cognitive scientist an artificial
+[0:00:34] intelligence researcher with an
+[0:00:35] impressive background you have said that
+[0:00:37] Consciousness is a virtual property
+[0:00:39] virtual means as if so something behaves
+[0:00:42] as if it would exist and I think that
+[0:00:44] the objects that we are we are conscious
+[0:00:47] agents for instance that observe
+[0:00:48] themselves interacting with the world we
+[0:00:50] know that from a physical perspective we
+[0:00:52] do not exist if you take any kind of
+[0:00:53] measuring device and you look at the
+[0:00:55] human brain you will not see a person
+[0:00:58] what you will see is an activation
+[0:01:00] pattern between cells that is producing
+[0:01:02] the behavior of the person in the same
+[0:01:04] way when you take a microscope and look
+[0:01:06] at a computer that runs Minecraft you
+[0:01:08] will not find any Minecraft what you
+[0:01:09] will see is some uh pattern of
+[0:01:11] electricity that is propagating through
+[0:01:14] the transistors of the computer and at
+[0:01:16] some level this producing the causal
+[0:01:18] structure of Minecraft but you could
+[0:01:21] also say that Minecraft is never the
+[0:01:22] this real it's it's implemented and I
+[0:01:24] find this definition of saying something
+[0:01:27] is real to the degree that it is
+[0:01:28] implemented quite useful and we find
+[0:01:30] that there are different degrees of
+[0:01:31] realness controlling the future entails
+[0:01:33] making models and the better you can
+[0:01:35] model the better you can do this and at
+[0:01:37] some point you have to discover yourself
+[0:01:39] you regulate the world in a particular
+[0:01:41] way and your model making Works in a
+[0:01:43] particular way and then trying to figure
+[0:01:45] out in which way did my own model not
+[0:01:47] work and what are the limitations of my
+[0:01:49] ability to observe and make models and
+[0:01:51] when this is happening you start to edit
+[0:01:53] your own source C and then it becomes
+[0:01:54] really
+[0:01:57] interesting yosa back it's an honor to
+[0:02:00] you on the show thank you my pleasure do
+[0:02:01] you feel the AGI in some sense it has
+[0:02:04] not changed very much I felt that the
+[0:02:07] AGI is coming when I was a young kid
+[0:02:09] when I realized what computers can do
+[0:02:11] and in many ways I see that the world is
+[0:02:14] now more optimistic and there is this
+[0:02:15] amazing momentum and also a lot of hype
+[0:02:18] in the air but it's also not clear how
+[0:02:20] far the present technology is going and
+[0:02:22] when and so it's a very exciting moment
+[0:02:25] in time but we don't know how far in the
+[0:02:28] future AGI actually is what are your
+[0:02:30] timelines for
+[0:02:32] AGI I think that's uh going to happen in
+[0:02:35] our lifetime
+[0:02:37] and there's also the question what AGI
+[0:02:40] actually is so it's something that we
+[0:02:41] probably have to think about more deeply
+[0:02:43] a lot of people thought having a system
+[0:02:45] that is like in Star Trek where You' say
+[0:02:47] computer please do the following would
+[0:02:49] be AGI and arguably we have that now
+[0:02:52] right if you remember this 1980s Star
+[0:02:54] Trek episode or at this time when he
+[0:02:56] goes going to go back to the 1980s and
+[0:02:58] walk the streets and a Scotty is trying
+[0:03:01] to use a computer and addresses it and
+[0:03:03] the computer does not understand him
+[0:03:04] speaking to it in natural language
+[0:03:06] doesn't understand English doesn't not
+[0:03:08] parse his sentences he is labber gusted
+[0:03:11] and it's really interesting to the
+[0:03:12] contrast because back then it was
+[0:03:14] obvious to us that um computers cannot
+[0:03:16] do such a thing and they can only do
+[0:03:18] their far distant future and now they
+[0:03:20] can and now we are bitching around the
+[0:03:22] fact that they are somewhat unreliable
+[0:03:24] and sometimes make up stuff and that uh
+[0:03:27] sometimes they cannot perform certain
+[0:03:28] task and people can do very well and at
+[0:03:31] the other hand we are seeing that there
+[0:03:32] are performing skills that we consider
+[0:03:34] to be quite amazing we see them getting
+[0:03:37] to the level offer silver medalist in
+[0:03:39] math but uh we don't know how well
+[0:03:42] they're doing when something is
+[0:03:43] happening out of distribution arguably
+[0:03:45] there was a lot of training data on the
+[0:03:47] performance of mass uh in the models
+[0:03:50] that they but stuff that they were
+[0:03:51] looking at and people fine tuned the
+[0:03:53] model to um perform better in
+[0:03:56] circumstances but what I observe and I'm
+[0:03:58] playing with the llms is that in the
+[0:04:00] domains I'm truly competent the llm is
+[0:04:03] typically staying a bit below my own
+[0:04:06] performance it's only in the domains
+[0:04:08] where have no competence that the llm is
+[0:04:10] often able to do something that I find
+[0:04:12] very impressive and so is intelligence
+[0:04:15] the ability to for perform at slightly
+[0:04:18] superhuman level across many many
+[0:04:19] domains by being very fast and then
+[0:04:22] somehow combining that to get to the
+[0:04:23] next level or is there something that is
+[0:04:25] fundamentally missing what we can see
+[0:04:27] it's it's clearly different from our
+[0:04:29] performance but maybe AI is is not so
+[0:04:32] much about a skill but about skill
+[0:04:34] acquisition so when we are testing AI
+[0:04:37] using intellig um tests for humans that
+[0:04:41] usually don't get the useful results and
+[0:04:42] that's because intelligence tests for
+[0:04:45] humans are directed on skill typically
+[0:04:48] we test the performance on a given task
+[0:04:50] and we hope that people are not able to
+[0:04:53] train that performance very well so it
+[0:04:54] correlates somewhat to their ability to
+[0:04:56] solve puzzles of EX Neo from from start
+[0:05:00] instead of just memorizing how to solve
+[0:05:02] puzzles but um this makes human
+[0:05:05] intelligence tests unusable for using
+[0:05:08] them outside of the human context they
+[0:05:09] cannot use them for animals cannot use
+[0:05:11] them for machines because we measure the
+[0:05:13] skill performance by taking average
+[0:05:16] human level and then measuring the delta
+[0:05:18] in some sense and both animals and
+[0:05:21] machines are so far away from this human
+[0:05:23] data um for on human average that we
+[0:05:26] cannot make a meaningful comparison and
+[0:05:29] and that what would be more interesting
+[0:05:31] is if you know the performance of a
+[0:05:33] system before it's trying to figure
+[0:05:34] something out and then you look at the
+[0:05:36] performance after that and you see how
+[0:05:38] much data it had and what nature that
+[0:05:40] data had um How many operations it did
+[0:05:42] in the meantime you have a much better
+[0:05:44] measure for its ability to build a new
+[0:05:46] skill a new ability and this is actually
+[0:05:49] what intelligence is about it's the
+[0:05:51] ability to make models and so you could
+[0:05:53] say AGI is the ability to make any model
+[0:05:56] that is mathematically obtainable under
+[0:05:58] the circumstances which means given the
+[0:06:01] resources that you have available and
+[0:06:03] given the data that you have available
+[0:06:05] if that model is discoverable if you
+[0:06:07] understand this search space for this
+[0:06:08] model then the system should be able to
+[0:06:10] find it and very often we have
+[0:06:13] difficulty to formalize the search space
+[0:06:14] correctly and if we could if we could
+[0:06:16] find some optimal measure for organizing
+[0:06:19] the search space of functions that we
+[0:06:21] are looking at to get the skills that we
+[0:06:23] want then maybe we would have the answer
+[0:06:25] to how to obtain egi but this is not
+[0:06:29] what our current systems are doing what
+[0:06:30] they're doing is they for instance
+[0:06:31] predict the next token and the token is
+[0:06:34] uh some mapping of text from the
+[0:06:36] internet into a form that the model can
+[0:06:39] process and we see that these models
+[0:06:41] getting better and better at predicting
+[0:06:43] next token which means they're able to
+[0:06:45] imitate the performance that give rise
+[0:06:47] to producing these strings on the
+[0:06:49] internet better and better and the same
+[0:06:51] thing is happening for images but it's
+[0:06:53] clearly not quite the same thing as
+[0:06:56] making a proof for The reman Zeta fun uh
+[0:06:59] Hy is because the reman Zita hypothesis
+[0:07:02] there's no available proof on the
+[0:07:03] internet and just by combining stops for
+[0:07:06] existing proof it's very unlikely that
+[0:07:08] this model randomly stumbles on
+[0:07:10] something so in a way we would need to
+[0:07:12] find a way to turn these uh linguistic
+[0:07:15] problems into a form of selfplay where
+[0:07:16] this thing is like in go or chess able
+[0:07:19] to play against itself and this way has
+[0:07:22] um some kind of feedback games give you
+[0:07:25] a feedback mathematics in principle can
+[0:07:27] give you a feedback of whether the proof
+[0:07:28] works or not pro programming can give
+[0:07:30] you a feedback because the program might
+[0:07:32] compile or not and might achieve a
+[0:07:33] result or not if you can turn this into
+[0:07:36] self play should be able to go beyond
+[0:07:38] Human Performance but the way in which
+[0:07:39] we training the LM we don't know how to
+[0:07:42] get to this level at the moment I was
+[0:07:45] speaking with franois chal this morning
+[0:07:48] and he has a similar conception of
+[0:07:49] intelligence you know like model
+[0:07:51] building efficiency for him it's
+[0:07:52] abstraction building efficiency and I
+[0:07:55] said to him your your conception is kind
+[0:07:58] of talking about the what not the how
+[0:08:00] what about agency what about this um
+[0:08:03] self-play this you know autodidactic
+[0:08:06] exchange of information with your
+[0:08:08] environment and he said that agency and
+[0:08:11] intelligence are they don't have to be
+[0:08:14] entangled but you do need to be able to
+[0:08:15] set your own goals and the skill
+[0:08:17] programs might represent a kind of plan
+[0:08:20] but is it a similar thing for you I mean
+[0:08:22] is this self-play part of intelligence
+[0:08:24] or is it just an implementation detu we
+[0:08:27] find that in um real world in ments
+[0:08:30] people often discount intelligence
+[0:08:32] because they realize what intelligence
+[0:08:34] is a tool and what matters is what you
+[0:08:37] deploy the tool for and that's why
+[0:08:39] agency tends to be more useful than
+[0:08:41] intelligence if somebody has a lot of
+[0:08:43] agency they can hire somebody who's very
+[0:08:44] intelligent to solve a problem and there
+[0:08:47] is a problem but intelligence if it's
+[0:08:49] this is problem solving ability or model
+[0:08:51] making ability somebody who's just
+[0:08:52] making models uh for the sake of making
+[0:08:54] models is not necessarily going to be
+[0:08:56] successful and so we have to ask
+[0:08:58] ourselves what is it agency and if
+[0:09:01] agency is the name of the game I think
+[0:09:03] it's the control of the future can um
+[0:09:06] contrast this with a therat therat I
+[0:09:09] think is not an agent at least a
+[0:09:11] primitive therat it's a system that is
+[0:09:13] measuring the world and here and now and
+[0:09:16] then directly translates this
+[0:09:17] measurement into some kind of regulator
+[0:09:20] action some kind of switching and as a
+[0:09:22] result it's basically regulating the
+[0:09:23] present Based on data that is available
+[0:09:26] in the present but what happens if you
+[0:09:28] are building a system that is able to
+[0:09:30] regulate the future so if you had the
+[0:09:32] thermostat that basy can anticipate how
+[0:09:34] long it's going to take for the room to
+[0:09:36] heat up after it triggers the switch and
+[0:09:40] uh how long is going to uh for
+[0:09:42] temperature go go down and um how is the
+[0:09:45] distance between the um sensor for the
+[0:09:48] temperature in the heating in the room
+[0:09:50] so how indicative is maybe if it's very
+[0:09:53] far you get a good idea about uh the
+[0:09:55] actual temperature in the room but if
+[0:09:56] it's very close you you could make an
+[0:09:58] inference about the size of the room the
+[0:10:00] volume of the air that actually needs to
+[0:10:02] be heated and how that measurement is
+[0:10:03] actually a distortion of what's going on
+[0:10:05] and so the more models you can make the
+[0:10:07] more efficient your regulation is going
+[0:10:09] to become and as soon as you have a
+[0:10:11] system that is just not taking
+[0:10:13] measurement right now but builds a model
+[0:10:15] of how the thought is going to change as
+[0:10:17] a result of its action you end up with a
+[0:10:20] system that seems to have preferences
+[0:10:22] and that has knowledge and it has
+[0:10:23] commitments and uh seems to be go
+[0:10:26] directed and so you have all these
+[0:10:27] properties of an agent just is coming
+[0:10:29] out of the ability to control the future
+[0:10:31] and of course controlling the future
+[0:10:33] entails making models and the better you
+[0:10:35] can model the better you can do this and
+[0:10:37] at some point you have to discover
+[0:10:38] yourself it's this fact that you
+[0:10:42] regulate the world in a particular way
+[0:10:43] and your model making Works in a
+[0:10:45] particular way and then trying to figure
+[0:10:47] out in which ways did my own model
+[0:10:49] working not work and what are the
+[0:10:51] limitations of my ability to observe and
+[0:10:53] make models and when this is happening
+[0:10:55] you start to edit your own source code
+[0:10:56] and then becomes really interesting and
+[0:10:58] it's think that intelligence at some
+[0:11:01] level is can be seen as the ability to
+[0:11:04] just deal with a particular domain and
+[0:11:05] develop skills there but the stuff that
+[0:11:07] we find interesting in humans is this
+[0:11:09] ability to become self authoring to
+[0:11:12] change their own way in which you're
+[0:11:14] interacting with the world in which
+[0:11:15] you're interacting with yourself
+[0:11:16] becoming a different system developing
+[0:11:18] yourself
+[0:11:20] growing now we're not going to talk
+[0:11:21] about Consciousness just now we'll save
+[0:11:23] it for later but you have said that
+[0:11:25] Consciousness is a virtual property it's
+[0:11:27] it's as if could you say the same thing
+[0:11:29] about
+[0:11:30] agency and some sense you could say that
+[0:11:33] agency is not a physical property but
+[0:11:35] what is physical after all you could say
+[0:11:37] that physics is a theory it's a model of
+[0:11:40] a certain kind of reality that is
+[0:11:42] mechanical it's in a sense you would say
+[0:11:44] that Minecraft is not physical because
+[0:11:46] it's just a symbolic convention that
+[0:11:48] exists inside of the computer and that
+[0:11:50] can be completely arbitrary whereas the
+[0:11:52] physical universe is thought as of as
+[0:11:55] something that is not dependent on
+[0:11:58] something's intention and it's just
+[0:12:00] acting a mechanical pattern out but what
+[0:12:03] you find that this mechanical pattern
+[0:12:05] gives rise to structure that we can best
+[0:12:07] model if we project it through the lens
+[0:12:11] of agency of control systems that make
+[0:12:13] models and if you do not use this lens
+[0:12:16] there is a lot of things that you can no
+[0:12:18] longer understand a good example that I
+[0:12:21] think instantly obvious to everybody is
+[0:12:22] money we all agree that money is not
+[0:12:24] physical but if you believe that money
+[0:12:26] doesn't exist there are parts of reality
+[0:12:29] that you cannot
+[0:12:30] explain and it's not that money it's
+[0:12:32] just a belief that people have and then
+[0:12:34] people stop having that belief that
+[0:12:37] world uh is explainable in better ways
+[0:12:39] no you can also build a stock market
+[0:12:41] entirely with computers that is are only
+[0:12:43] manipulating MERS and bank accounts and
+[0:12:46] it's still going to be the same thing so
+[0:12:48] you could say that money is a course
+[0:12:50] grain causal pattern that behaves as if
+[0:12:52] it existed it has causal power and it's
+[0:12:55] able to create patterns in physical
+[0:12:58] reality at a certain level of resolution
+[0:13:00] and the money is not just some fmal
+[0:13:03] pattern that we discover as an arbitrary
+[0:13:06] way of projecting Universe at a certain
+[0:13:07] level of resolution It's actually an
+[0:13:09] invariance that is not manifest at other
+[0:13:11] levels of the universe so when you make
+[0:13:13] a model you're looking for invariances
+[0:13:15] for things that don't change in the
+[0:13:16] world and money is such an invariance
+[0:13:19] right and interesting question is are
+[0:13:21] mental States invariances so they all
+[0:13:24] exist as if like money but to which
+[0:13:26] degree are they actually implemented to
+[0:13:28] which degree are the causal structure
+[0:13:30] that is shaping the universe in a way
+[0:13:32] for which you do not find another
+[0:13:33] alternative better
+[0:13:35] representation yeah I mean one of the
+[0:13:37] themes of our discussion today is you're
+[0:13:39] identifying these patterns of
+[0:13:40] self-organization these virtual patterns
+[0:13:43] presumably you would say they are real
+[0:13:46] but they have causal power so they they
+[0:13:48] change the world that we're in but you
+[0:13:51] use the designation virtual like what
+[0:13:53] exactly do you mean by that virtual
+[0:13:55] means as if so something behaves as if
+[0:13:58] it would exist and I think that the
+[0:14:00] objects that we are we are conscious
+[0:14:02] agents for instance that observe
+[0:14:04] themselves interacting with the world we
+[0:14:06] know that from a physical perspective
+[0:14:08] you do not exist if you take a
+[0:14:09] microscope and uh or kind any kind of
+[0:14:12] measuring device and you look at the
+[0:14:14] human brain um you will not see a person
+[0:14:17] what you will see is an activation
+[0:14:19] pattern between cells that is producing
+[0:14:21] the behavior of the person in the same
+[0:14:23] way when you take a microscope and look
+[0:14:25] at a computer that runs Minecraft you
+[0:14:27] will not find any Minecraft but you will
+[0:14:29] see is some uh pattern of electricity
+[0:14:32] that is propagating through the
+[0:14:33] transistors of the computer and at some
+[0:14:35] level is producing the causal structure
+[0:14:38] of Minecraft but you could also say that
+[0:14:41] Minecraft is never that is real it's
+[0:14:43] it's implemented and I find this
+[0:14:44] definition of saying something is real
+[0:14:46] to the degree that it is implemented
+[0:14:48] quite useful and then we find that there
+[0:14:50] are different degrees of realness for
+[0:14:53] instance a simulation of a weather in
+[0:14:56] country is simulation
+[0:14:59] it's not real in a sense because it is
+[0:15:01] implemented on a different causal
+[0:15:03] structure at a certain level of
+[0:15:05] abstraction that at certain degree of um
+[0:15:08] resolution gives you isomorphy or um
+[0:15:12] some kind of projection that you can
+[0:15:13] make that allows you to predict the
+[0:15:15] weather to a certain point and up to a
+[0:15:16] certain resolution and beyond that it
+[0:15:18] falls apart because the ca of structure
+[0:15:20] below is different or another example is
+[0:15:23] you play a computer game say you play a
+[0:15:25] shooter game and you can shoot a gun but
+[0:15:27] inside of the computer there is no ACC
+[0:15:29] model of the physics of the bullet going
+[0:15:31] through air or whatever it's just some
+[0:15:33] Vector calculation that allows you to be
+[0:15:35] to play that game in similar ways as if
+[0:15:38] you were doing in the real world so you
+[0:15:40] can transfer ideas that you got by your
+[0:15:43] from your interaction with the physical
+[0:15:44] Universe into this game because that
+[0:15:46] game is actually producing Cal
+[0:15:48] interaction pattern even though it's on
+[0:15:50] a different Cal substrate on the CPU on
+[0:15:52] GPU on computer that allows this
+[0:15:54] interaction but a movie for instance
+[0:15:56] produces a sequence of observables
+[0:15:59] without an underlying csal structure so
+[0:16:01] you can watch the movie the impression
+[0:16:03] you are maybe in World War I and you see
+[0:16:05] people shooting at each other but there
+[0:16:07] is no possibility to cly interact with
+[0:16:10] the structure of the movie because there
+[0:16:11] is no Cal structure underneath the
+[0:16:13] Celluloid in the movie or in a videotape
+[0:16:16] beyond the ability to generate a
+[0:16:18] sequence of patterns and so this is I
+[0:16:20] would say a Similac not a simulation if
+[0:16:23] you look at these different things you
+[0:16:24] have an observable Dynamic that we can
+[0:16:27] project into a model and then you have a
+[0:16:29] simulation that is such a model that you
+[0:16:31] can dynamically enact in the Similac
+[0:16:33] that a sequence of observers that
+[0:16:35] different degrees of
+[0:16:36] realness observable Dynamic is is a
+[0:16:39] beautiful way to put it because I mean
+[0:16:41] Richard Dawkins came up with this idea
+[0:16:43] of The Selfish Gene and I'm a big fan of
+[0:16:45] emergence right we we have this ladder
+[0:16:46] of emergence we live in this epic
+[0:16:49] dynamical system and what we tried to do
+[0:16:52] is is make sense of the world so we
+[0:16:54] identify a sufficient level of
+[0:16:55] resolution you know on one rung of the
+[0:16:57] emergence ladder and we identify
+[0:17:00] patterns or uh phenomena based on their
+[0:17:03] intelligibility their causal power how
+[0:17:05] vague they are in the boundaries and so
+[0:17:06] on um how do you think about that I
+[0:17:09] don't like the word of emergence because
+[0:17:12] it gives people an intuition that there
+[0:17:14] is this magical thing emergence when you
+[0:17:17] are putting things in Universe in a
+[0:17:19] particular hand of arrangement then for
+[0:17:21] some magical reasons the emerging things
+[0:17:24] is happening it's coming into existence
+[0:17:26] and then it uses a behavior that some is
+[0:17:29] more than the sum of its parts and it's
+[0:17:31] completely mind-blowing and maybe this
+[0:17:33] explains Consciousness and for some
+[0:17:35] reason emergence should be a phenomenon
+[0:17:37] that is discussed a lot in the context
+[0:17:39] of the relationship between software and
+[0:17:41] hardware and it never really is right
+[0:17:43] and software and Hardware this is where
+[0:17:45] you should be seeing it you see there's
+[0:17:46] on one level there's transistors with
+[0:17:48] electricity and if you zoom further in
+[0:17:50] that's not even transistor and
+[0:17:51] electricity it's just atoms and
+[0:17:53] molecules and if you zoom further even
+[0:17:55] they are just some kind of Crain
+[0:17:57] abstraction and not only the other side
+[0:17:59] you have these computational languages
+[0:18:00] that Implement you our ideas of logical
+[0:18:03] progressions and computer programs how
+[0:18:05] do they relate isn't that magical nobody
+[0:18:07] thinks it's magical we completely used
+[0:18:09] to it we take it for granted and we know
+[0:18:12] that there is no magic involved right it
+[0:18:13] if we are unable to wrap our minds
+[0:18:15] around it the problem is clearly with
+[0:18:17] our mind there is not no big mystery and
+[0:18:20] yet when we think about the our mental
+[0:18:22] representations about our psyche for
+[0:18:24] some reason people believe that
+[0:18:26] something entirely different must be
+[0:18:28] going on and this is this emergence
+[0:18:29] thing and I I think this points to a
+[0:18:33] confusion I I should have clarified I
+[0:18:35] mean I'm talking about weak emergence so
+[0:18:37] simply a matter of surprise and
+[0:18:40] complexity not the denovo generation of
+[0:18:43] uh phenomena which has no analytical
+[0:18:45] Pathway to the I think there's nothing
+[0:18:46] wrong with this term emergence and
+[0:18:48] supervenience can be useful ways to talk
+[0:18:50] about this stuff I just mean when we are
+[0:18:53] sitting down um in say a philosophy
+[0:18:56] seminar and the philosophy Professor is
+[0:19:00] uh very ened with emergence in the
+[0:19:02] context of mental States but doesn't
+[0:19:04] believe it's important or remarkable in
+[0:19:06] the context of software I find that
+[0:19:08] suspicious I think the degree of um
+[0:19:11] astonishment should be the
+[0:19:14] same so the basically the intuitions
+[0:19:16] that this term is loaded with might be
+[0:19:19] slightly different ones and I think
+[0:19:21] that's often an issue that a lot of our
+[0:19:22] mental concepts of things happening are
+[0:19:25] black boxes to us and so we point at
+[0:19:27] them and we give them a label
+[0:19:29] and we have a an idea of what this
+[0:19:32] particular component in our mind is
+[0:19:33] modeling and how it operates but it's
+[0:19:35] essentially a black box and if we do not
+[0:19:38] take this black box apart and map it to
+[0:19:40] first principes to explain what kind of
+[0:19:42] function our mind is actually producing
+[0:19:45] this this leads to weirdness a good
+[0:19:46] example is uh the intuitions that
+[0:19:49] mathematicians often have about geometry
+[0:19:52] I remember when I had to draw my first
+[0:19:54] line on a kodor 64 it was super
+[0:19:56] complicated because it's basically
+[0:19:58] doesn't have a to make a line so you
+[0:20:00] have to poke some values into the video
+[0:20:02] chip to make it forget how to render
+[0:20:03] characters and interpret part of the
+[0:20:05] working memory as pixels and then you
+[0:20:07] need to tell it where the starting
+[0:20:08] address in memory is where the pixels
+[0:20:10] beginning and then eight bits um one
+[0:20:13] bite is eight pixels and you need to do
+[0:20:15] some binary arithmetic to make it happen
+[0:20:17] and eight bytes below because it's still
+[0:20:19] the character Matrix are one block of
+[0:20:22] eight by8 pixels and have 40 in a row 25
+[0:20:25] below and so you need a lot of
+[0:20:27] mathematical tricks a lot of puzz
+[0:20:28] solving to draw a line by making the
+[0:20:31] right Forex Loop to figure exactly out
+[0:20:34] which pixels you need to flip in into in
+[0:20:37] which bytes and which addresses they
+[0:20:39] correspond to in working memory and then
+[0:20:41] you generalize this at some point in a
+[0:20:42] function that works at arbitrary scales
+[0:20:44] and would also work with a different
+[0:20:45] pixel Matrix and work with the different
+[0:20:47] color resolution and the more you
+[0:20:49] generalize it the closer you get to this
+[0:20:51] mathematical ideal of a line and yet
+[0:20:54] mathematicians think you get the line in
+[0:20:56] some sense for free and when you tell
+[0:20:58] them oh when you talk about the line you
+[0:21:00] talk about the generalization of all the
+[0:21:02] ways in which you can map such a
+[0:21:04] function onto some kind of letters or
+[0:21:07] Matrix or whatever use as your substrate
+[0:21:10] um right as a function of the topology
+[0:21:12] and dimensionality of that substrat uh
+[0:21:15] then then you have that line and the
+[0:21:16] mathematicians no that's way to
+[0:21:18] complicated there is a much simpler way
+[0:21:20] and it's look it's a simple definition
+[0:21:22] but definition is not actually simple I
+[0:21:24] think it only looks simple because our
+[0:21:26] brain has already made all tricks it has
+[0:21:29] already through an elaborate feat of
+[0:21:32] machine learning in our brain as a child
+[0:21:35] did the same thing that I did in my
+[0:21:36] commodor 64 in the most General case and
+[0:21:39] mathematicians are mapping on this
+[0:21:41] available intuition of geometry in their
+[0:21:43] brain and think geometry is simple and
+[0:21:45] instead geometry is much more
+[0:21:46] complicated than algebra there is an
+[0:21:48] underlying algebra in our brain that is
+[0:21:50] producing the geometry and so when we
+[0:21:52] think about how we are manipulating
+[0:21:54] stuff in space it's nothing that is
+[0:21:56] instantly given it's not the way in
+[0:21:57] which the universe works
+[0:21:59] it is a model that our brain has
+[0:22:00] constructed and that we that's a black
+[0:22:02] box to us and which we point at and if
+[0:22:05] you want to disassemble this blackbox we
+[0:22:07] need to build computer games and then
+[0:22:09] build a game engine realize oh our brain
+[0:22:12] is in many ways very similar to such a
+[0:22:14] game engine but it's a self-organizing
+[0:22:15] one that in in some sense does inverse
+[0:22:18] rendering so it's basically building a
+[0:22:19] game engine that is trying to explain
+[0:22:21] your sensory data so your sensory datas
+[0:22:23] are constrainted uh constraints that
+[0:22:26] determine the state of this game engine
+[0:22:28] and I think this is the main of which
+[0:22:29] our perception
+[0:22:31] works yeah because um you actually said
+[0:22:33] that our emotion consists of um an
+[0:22:36] intelligent generator the outer mind and
+[0:22:38] an an intelligent interpreter the self
+[0:22:41] and both are adaptive learning systems
+[0:22:42] and they might be incompatible why is
+[0:22:45] that so there are s ways in which you
+[0:22:48] could Implement an agent def have an
+[0:22:50] agent that needs to satisfy many demands
+[0:22:52] to stay in the universe to stay alive to
+[0:22:54] persist itself like we do we need a lot
+[0:22:57] of different nutrients and we need to
+[0:22:59] rest and we need to build social
+[0:23:00] relationships because we actually
+[0:23:01] multigenerational agents uh that also
+[0:23:04] cannot exist entirely by themselves we
+[0:23:06] also State Building agents so we need to
+[0:23:09] model all these relationships as needs
+[0:23:12] and we have evolutionary priors that
+[0:23:13] make it easier for us to figure out what
+[0:23:15] those needs are because we basically can
+[0:23:17] talk take these as suggestions to start
+[0:23:19] with and only need to modify them and
+[0:23:21] they don't work and uh then we need to
+[0:23:24] build a control model that allows us to
+[0:23:26] perform actions in the world to measure
+[0:23:28] all those needs translate them into
+[0:23:30] representations to us that we can deal
+[0:23:32] with and operate on we experience them
+[0:23:35] as urges or as drives and then uh we
+[0:23:38] model these drives as purposes as things
+[0:23:40] that we actually have to do in the world
+[0:23:42] and then we try to build a hierarchy of
+[0:23:43] our purposes that we are serving and
+[0:23:45] that we can communicate to each other
+[0:23:47] and to ourselves and there are many ways
+[0:23:49] in which this can be built can
+[0:23:51] straightforward encode this but it's an
+[0:23:54] interesting way in which it seems to be
+[0:23:55] built in our mind and as see we seem to
+[0:23:58] have two models similar to the Gan this
+[0:24:00] generative adversarial Network where you
+[0:24:02] have a generator and a Critic there is
+[0:24:05] something in our mind that is generating
+[0:24:07] a world model and it's also generating
+[0:24:08] our emotions at a model of and our
+[0:24:11] motivation is our alignment to the world
+[0:24:13] and then there is a self model that is a
+[0:24:15] model of what if what it would be like
+[0:24:18] if there was a person that cared about
+[0:24:19] having these emotions and cared about
+[0:24:21] all having all these problems and that
+[0:24:23] model itself is being tasked with
+[0:24:25] finding solutions to satisfy the needs
+[0:24:27] that the system has before created right
+[0:24:30] and so we have this bipartite model we
+[0:24:32] have these two parts we have on the one
+[0:24:33] hand a world model on the other hand a s
+[0:24:35] model and we are the s model right we
+[0:24:38] perceive ourselves as embedded into this
+[0:24:40] game engine as a character that has to
+[0:24:42] solve the problem that the game is
+[0:24:44] giving it and we perceive a score that
+[0:24:46] is computed outside of the self as a
+[0:24:49] multi-dimensional problem that is
+[0:24:50] projected into our self as emotions and
+[0:24:53] motivation to which we have an
+[0:24:55] unconditional involuntary reaction and
+[0:24:58] we can see that this is the case by
+[0:24:59] disassembling this by meditating so long
+[0:25:02] that becomes transparent to us and we
+[0:25:04] realize oh my God this just a
+[0:25:05] representation and they don't actually
+[0:25:07] have an urge there just a a model of s
+[0:25:10] that is having that reaction but I'm not
+[0:25:13] actually that I don't have to be that
+[0:25:14] and I can see it from the outside you
+[0:25:17] said something very interesting a while
+[0:25:18] ago which was that you know agency is
+[0:25:20] about predicting the future and
+[0:25:22] something was ringing in my mind it's
+[0:25:24] about and that's controll in the future
+[0:25:26] you said and my mind was ringing saying
+[0:25:28] no controlling the environment in the
+[0:25:30] future but you didn't say the word
+[0:25:31] environment and you were talking about
+[0:25:33] abstractions just now so you know uh
+[0:25:35] geometry and and we learn more and more
+[0:25:37] representative abstractions but coming
+[0:25:40] back to what you just saying about you
+[0:25:41] know we have we have a self and and then
+[0:25:43] we have a kind of outer model are they
+[0:25:45] two parts of the same whole like does
+[0:25:48] the world exist basically the thing is
+[0:25:49] you are part of your own environment
+[0:25:52] right so in in many ways the environment
+[0:25:54] of your Consciousness is also the agent
+[0:25:56] that your Consciousness is inter
+[0:25:58] reacting this and um serving right so
+[0:26:01] there is in the sense there is only
+[0:26:02] environment there is nothing else that
+[0:26:04] you could control by virtue of being
+[0:26:07] able to observe and manipulate it
+[0:26:08] something becomes
+[0:26:11] environment right but it's not the
+[0:26:12] physical environment it's the
+[0:26:14] environment that is represented in your
+[0:26:16] mind that is accessible to you so you're
+[0:26:17] always dealing with a representation and
+[0:26:19] some of these representations are causal
+[0:26:22] pattern they're basically similar to
+[0:26:23] computer programs there are things that
+[0:26:25] are represented in such a way that can
+[0:26:28] be used to control what an organism is
+[0:26:31] doing but they're not Primal forces in
+[0:26:34] the universe if you look down there
+[0:26:35] still just activation patterns between
+[0:26:37] URS or messages that are being passed
+[0:26:39] between cells that then lead to lots of
+[0:26:42] actions at the cellular level that can
+[0:26:44] or below the cell level inside of the
+[0:26:46] cell that over very large scales can be
+[0:26:48] integrated if you squint very hard and
+[0:26:50] zoom out very hard it looks as if an
+[0:26:52] organism is doing something right but
+[0:26:54] this entire organism is also a fiction
+[0:26:56] it's an as if it's something as if all
+[0:26:59] these cells would behave animated by the
+[0:27:02] same idea by the same goals and because
+[0:27:05] that is very useful it's also largely
+[0:27:07] what they approximate and of course we
+[0:27:09] realize it's an approximation but it's
+[0:27:11] not a bad approximation and for as long
+[0:27:13] as we can maintain this approximation
+[0:27:15] for that long you say there is an
+[0:27:17] organism and just a bunch of cells that
+[0:27:18] are falling apart but what's more real
+[0:27:21] are the animating patterns more real
+[0:27:24] than the ACT you know what we think of
+[0:27:25] as the physical world well they're real
+[0:27:27] to the degree that implemented and so
+[0:27:30] there is a structure in our organism
+[0:27:32] that implements coordinated Behavior
+[0:27:34] across the cells and that gives rise to
+[0:27:36] what we call the organism the organism
+[0:27:38] is not actually a physical thing it is a
+[0:27:40] function that is describes the
+[0:27:42] interaction between cells to the degree
+[0:27:45] that they are
+[0:27:46] coherent well now's a good time to talk
+[0:27:49] about your cyber animism talk I watched
+[0:27:51] your keynote yesterday at the at the AGI
+[0:27:53] 24 conference now animism um is this
+[0:27:57] idea that uh you know systems that are
+[0:27:59] living have a kind of Soul or a
+[0:28:01] spiritual Essence which gives them
+[0:28:02] agency and and Consciousness almost as
+[0:28:04] if we are just vessels which become
+[0:28:07] animated with some kind of vital force
+[0:28:09] and of course you've um in you know
+[0:28:12] reinterpreted this in an information
+[0:28:14] processing kind of way is is that fair I
+[0:28:16] mean would you mind bringing it
+[0:28:18] in I find often that we have difficulty
+[0:28:22] to understand the concept properly if we
+[0:28:24] try to translate it in what we already
+[0:28:26] believe to be true and so for instance
+[0:28:29] if you are say an atheist and a
+[0:28:32] Christian tells you about God and you uh
+[0:28:35] take the mythology of Christian late
+[0:28:38] people that gods are supernatural beings
+[0:28:40] that are in the habit of creating
+[0:28:42] physical universes you might think this
+[0:28:44] is a propositional belief that this
+[0:28:46] person has and it's a confused belief
+[0:28:48] because there can be no epistemology no
+[0:28:50] theory of right and wrong from which
+[0:28:51] this data can be derived how what would
+[0:28:53] an experiment look like that tests
+[0:28:55] whether something like this has actually
+[0:28:57] happened and so if somebody makes such a
+[0:28:59] claim they cannot have evidence to
+[0:29:01] support that claim and so they're
+[0:29:03] confused and as a result aist might
+[0:29:06] think that concept of a God is a
+[0:29:08] Superstition and everything that the
+[0:29:10] person reports about this God maybe
+[0:29:12] they're talking to Angels or maybe the
+[0:29:14] experience that God gives meaning to
+[0:29:15] their life or that God loves them and so
+[0:29:17] on is clearly a confusion or a
+[0:29:20] Superstition but I think that's just the
+[0:29:22] result of us mistranslating a concept
+[0:29:25] and is not helped by the fact that the
+[0:29:26] other person is not able to articulate
+[0:29:29] the concept in a language that makes
+[0:29:30] sense to us but if we observe that the
+[0:29:33] other person is intelligent and uh is
+[0:29:36] not delusional all right then you might
+[0:29:39] notice that there is something that we
+[0:29:40] mistranslating and so for instance I
+[0:29:42] think God is a representation in the
+[0:29:45] mind in the same way as the self is a
+[0:29:46] representation in the mind once I
+[0:29:48] realize that I am in a story that my
+[0:29:49] brain is telling itself in such a way
+[0:29:52] that I can hear my inner monologue right
+[0:29:54] myself can utter a voice in my mind that
+[0:29:57] I'm hearing right why should a God not
+[0:29:59] be able to do the same thing right why
+[0:30:01] should there only be one story in my
+[0:30:02] mind and there are apparently people
+[0:30:04] which have other agentic stories in
+[0:30:06] their mind that get synchronized about
+[0:30:08] across larger groups of people just not
+[0:30:10] a single self and so gods are simply s
+[0:30:12] that are distributed across multiple
+[0:30:14] minds and when somebody reports that
+[0:30:17] they are um that God is present to them
+[0:30:20] they're describing a psychological
+[0:30:22] condition that basically describe the
+[0:30:23] presence of this other agent in their
+[0:30:25] mind and they can interact this into
+[0:30:27] this the agent and observe it to some
+[0:30:30] degree right in the same thing with
+[0:30:31] animism my first interaction with the
+[0:30:34] idea of animism that I remember was
+[0:30:36] quite young uh somebody explained to me
+[0:30:38] that people in Japan and other animist
+[0:30:40] cultures believe that everything in the
+[0:30:42] universe is conscious into life and my
+[0:30:45] reaction was disported because I am
+[0:30:47] pretty sure that people in Japan have a
+[0:30:50] concept of a person being dead and
+[0:30:53] another person being unconscious for
+[0:30:55] instance if they get anesthesia and so
+[0:30:57] they will probably not say everything in
+[0:30:58] the universe is conscious into life
+[0:31:00] except for a dead person or an
+[0:31:01] unconscious person so you just
+[0:31:03] mistranslated the term into something
+[0:31:04] that you think you know what it means
+[0:31:06] but they mean something different with
+[0:31:08] conscious in life than you do right it's
+[0:31:10] clearly not the same thing that we use
+[0:31:12] in our culture so maybe it's a more
+[0:31:14] complicated concept maybe it's something
+[0:31:16] like um it's dynamic or it is something
+[0:31:20] that is self- sustaining right and it's
+[0:31:23] difficult to have such words we in our
+[0:31:25] culture we came up at some point with
+[0:31:27] autop poesis for self- sustaining system
+[0:31:29] and nobody doesn't really know what that
+[0:31:31] means but in between nobody had this
+[0:31:33] concept of self- sustaining pattern it
+[0:31:35] is a caal structure that is not entirely
+[0:31:37] physical right but once you understand
+[0:31:40] the existence of caal patterns that
+[0:31:41] there themselves not physical objects
+[0:31:43] but software and some of these might be
+[0:31:45] self sustaining
+[0:31:47] self-reinforcing can suddenly make sense
+[0:31:49] of these Concepts and you realize oh
+[0:31:51] maybe this is what they actually meant
+[0:31:53] all along maybe it was never a
+[0:31:55] Superstition because it is literally
+[0:31:57] what they're saying if you're able to
+[0:31:59] map it into something that you
+[0:32:00] understand and so I think the difficulty
+[0:32:02] is that our own culture is stupid that
+[0:32:04] La the correct metaphysics to describe
+[0:32:06] certain classes of objects and certain
+[0:32:09] inferences in the world and for we might
+[0:32:11] not be able to distinguish psychological
+[0:32:13] objects from physical objects and so for
+[0:32:15] instance some philosophers are confused
+[0:32:17] about the notion of free will because
+[0:32:19] they think of will as an object that is
+[0:32:21] comparable to say a photon or a a bench
+[0:32:26] right and then not right bench is an
+[0:32:28] affordance that you have that you can
+[0:32:30] sit on and that is part of your game
+[0:32:31] engine but will is a representation of a
+[0:32:34] psychological State and so when you
+[0:32:36] think about free will you have to think
+[0:32:38] about the modifier that is applied to
+[0:32:39] that particular kind of representation
+[0:32:41] not to some condition in the physical
+[0:32:43] universe and it's not easy to understand
+[0:32:45] once you see it but a lot of the
+[0:32:47] discussion about Free Will is about
+[0:32:48] category errors it makes a lot of sense
+[0:32:51] to me when I first saw your talk uh and
+[0:32:54] and it is a very interesting in
+[0:32:55] interpretation of of the animism philos
+[0:32:57] philosophy and I just realized um I mean
+[0:33:01] I read a book called The Language game
+[0:33:02] by Mortin Christensen and Nick chater
+[0:33:05] and that was talking about um you know
+[0:33:06] kind of virtual agents you know um
+[0:33:09] memetics because language is a symbiotic
+[0:33:12] organism um that parasitizes us and I'm
+[0:33:16] a big fan of externalism as well you
+[0:33:18] know so these these mtic agential
+[0:33:20] virtual structures are floating around
+[0:33:22] there in the infosphere and they
+[0:33:24] parasitize us and they animate us yes
+[0:33:28] it's exactly the same as what you're
+[0:33:29] saying so that makes sense to me and
+[0:33:31] it's basically the same idea yeah so I
+[0:33:34] think it's quite clear that with the
+[0:33:36] language of modern cognitive science
+[0:33:38] there is software running on our brains
+[0:33:41] and the software that is running on our
+[0:33:42] brains is uh giving us the ability to
+[0:33:45] make decisions to observe to uh recall
+[0:33:48] memories and so on and it's a software
+[0:33:49] that is being formed and artificial
+[0:33:51] intelligence despite using different
+[0:33:53] abstractions and different substats uses
+[0:33:55] these Concepts to produce Behavior that
+[0:33:58] arguably is in many directions already
+[0:34:00] quite similar even though it is not
+[0:34:02] emerging in the same way it does not
+[0:34:03] have the same self-organizing abilities
+[0:34:06] but um the idea that a spirit is a
+[0:34:09] particular class of software that it's
+[0:34:11] an agent that has the ability to
+[0:34:14] implement itself on a subst that is
+[0:34:16] suitable for it that can itself can be
+[0:34:18] entrained with that agent and it's a
+[0:34:22] software that is able to control this
+[0:34:24] region of the physical universe that it
+[0:34:26] entrains itself with to some degree and
+[0:34:29] uh it's able to perceive itself that
+[0:34:33] that's are interesting properties right
+[0:34:34] so something that's able to make models
+[0:34:36] of the environment to such a degree that
+[0:34:38] given enough resources is going to
+[0:34:40] discover itself in the interaction with
+[0:34:42] an environment as an agent and uses this
+[0:34:44] to make its model more sophisticated
+[0:34:46] these are all properties that our
+[0:34:48] ancestors assign to spirits and it's
+[0:34:50] something that we as cognitive
+[0:34:51] scientists and AI researchers discover
+[0:34:54] as existing obviously in nature and then
+[0:34:57] we notice it's not just in our brains
+[0:34:58] it's also in our bodies and once we make
+[0:35:01] the step to realize that thing that
+[0:35:03] makes a cell a cell is not just a bunch
+[0:35:05] of mechanism that for some magical
+[0:35:06] reasons happen to work all the time it's
+[0:35:09] actually a software that is running on
+[0:35:10] the cell that is so powerful that it's
+[0:35:13] able to contr to individual molecules
+[0:35:15] sometimes in the cell right not via
+[0:35:17] magic but because of the mechanisms that
+[0:35:19] are being leveraged by the software but
+[0:35:21] the software is basically entraining
+[0:35:22] itself on the hardware it's recruiting
+[0:35:24] Hardware in a self organizing fashion to
+[0:35:26] enact the softare
+[0:35:28] and so there are in in some sense two
+[0:35:30] sides of the same coin but the actual
+[0:35:32] invariance is maybe not the mechanism
+[0:35:34] it's maybe not the physical thing but is
+[0:35:36] the ca of pattern it's actually the
+[0:35:37] software in the same way as money is an
+[0:35:39] invariance that doesn't really care what
+[0:35:41] you print it on as long it's being
+[0:35:43] printed on something that can serve to
+[0:35:45] implement money and I guess a similar
+[0:35:47] thing is happening our own mind our mind
+[0:35:49] is somewhat robust against an individual
+[0:35:51] neuron dying it's just going to recruit
+[0:35:52] a new neuron so over a quite large range
+[0:35:55] of States our mind is going to be still
+[0:35:57] be functional it's only when the
+[0:35:58] mechanisms leave a certain range that
+[0:36:01] you can no longer compensate for when
+[0:36:02] you no longer compensate for the errors
+[0:36:04] and the noise and in the environment in
+[0:36:06] your substrate then you fall apart and
+[0:36:08] the software crashes and dies and other
+[0:36:10] software goes in but this also means
+[0:36:12] that when you look at the living world
+[0:36:14] around us it's full of these software
+[0:36:16] agents that are competing about regions
+[0:36:18] and physics that can be substrates for
+[0:36:20] it right there are thoughts in our mind
+[0:36:22] that compete for our brain matter and
+[0:36:24] there are ideas that compete for groups
+[0:36:26] of people and there are organisms that
+[0:36:28] compete for regions in which they can
+[0:36:30] build new cells and and Trin them with
+[0:36:33] the patterns and the colonies of the
+[0:36:34] organisms it's so you see all these
+[0:36:37] Spirits acting in nature and then you
+[0:36:40] look at the way in which Japanese people
+[0:36:42] for instance conceptualize animalism and
+[0:36:44] you realize yeah there are realizing
+[0:36:46] that there are layers of this for
+[0:36:47] instance Humanity itself is a spirit a
+[0:36:49] society is a civilization is also some
+[0:36:51] form of a spirit a relationship is also
+[0:36:54] a spirit so in this sense you could say
+[0:36:56] the animated un Universe this universe
+[0:36:58] that this interesting intelligent qu
+[0:37:01] structure is the result of
+[0:37:02] self-organizing software agents and if
+[0:37:05] that is the claim of animism that's an
+[0:37:07] actually very insightful claim and it's
+[0:37:09] one that we are beginning to understand
+[0:37:11] we are still focused on the mechanism
+[0:37:13] right so Darwin says evolution is the
+[0:37:15] competition between species and then
+[0:37:18] dkin seems to make the next step and
+[0:37:19] says no it's actually the competition
+[0:37:21] between certain molecules that give rise
+[0:37:23] to something that looks like species to
+[0:37:25] us when course grain it and these are
+[0:37:27] the gene
+[0:37:28] right so it's actually about the gene
+[0:37:30] but the animist perspective gives goes
+[0:37:32] one step further and says no evolution
+[0:37:34] is the competition between different
+[0:37:36] software agents that can reproduce and
+[0:37:38] can can code themselves and they use the
+[0:37:40] molecules to encode themselves and they
+[0:37:42] use the mechanism to implement
+[0:37:44] themselves and perpetuate themselves and
+[0:37:46] compete but it's actually all about
+[0:37:48] software it's all about spirits and so
+[0:37:50] it's a physicalist perspective it's
+[0:37:51] nothing superstitious nothing magical
+[0:37:53] nothing vuo in there it's just a way to
+[0:37:55] reframe what we are observing in the way
+[0:37:57] that makes more sense yeah well it's a
+[0:38:00] kind of stance because there's there's a
+[0:38:01] hierarchy of mimesis I mean I gave the
+[0:38:03] language example that that's you know
+[0:38:05] the highest level and then as you say
+[0:38:07] you you can go down a step and you can
+[0:38:09] go to um Evolution which is about the um
+[0:38:11] the competition of of physical forms and
+[0:38:13] and their evolution and uh you know
+[0:38:15] Dawkins was talking about the Gene and
+[0:38:17] you're talking about the software the
+[0:38:19] software agents or you can call them
+[0:38:21] spirits that compete with each other but
+[0:38:22] the thing is the the the software agents
+[0:38:24] they need to find a host and the
+[0:38:27] interesting thing is that they might be
+[0:38:29] doing some kind of meta optimization
+[0:38:30] because this ladder of mimesis is
+[0:38:33] entangled so they might be selecting
+[0:38:35] their host based on meta optimizing the
+[0:38:37] the the Lang the language mtic if that
+[0:38:39] makes sense well it's not just that uh
+[0:38:42] nature is growing a body for you and
+[0:38:44] then the spirit moves in and possesses
+[0:38:46] that body but what's happening is that
+[0:38:48] there is some software that is
+[0:38:50] organizing a bunch of cells into
+[0:38:52] becoming a body and that is already a
+[0:38:55] spirit right it's a self organizing
+[0:38:56] thing that is producing the architecture
+[0:38:58] of your body it's an you could say an
+[0:39:00] emerging phenomenon but there is no
+[0:39:02] magic involved right it's really just a
+[0:39:04] self-organizing software that manifests
+[0:39:06] by producing the architecture of that
+[0:39:08] body that then produces complex behavior
+[0:39:11] that implements more complex Spirit
+[0:39:13] right but when once I had this Insight
+[0:39:16] that what our ancestors meant with
+[0:39:17] spirit is exactly self organizing
+[0:39:19] software agent my mind was blown and
+[0:39:22] then the next step and you realize
+[0:39:23] living nature is actually all about
+[0:39:25] software it's all about control
+[0:39:26] structure and the actual invariance is
+[0:39:29] not the molecules or the connection
+[0:39:30] between the molecules or some patterns
+[0:39:32] in the molecules but it's actually the
+[0:39:34] causal structure itself the software um
+[0:39:37] I I realized oh nature is healing we're
+[0:39:40] able to put different worldviews
+[0:39:42] together in a way that is not
+[0:39:43] superstitious and they make more sense
+[0:39:45] now because we now can use our
+[0:39:47] scientific worldview to make sense of a
+[0:39:50] bunch of Concepts that are difficult to
+[0:39:52] explain so far and where we felt that
+[0:39:54] our ancestors had for some funny reason
+[0:39:56] weird idea what we noticed is that
+[0:39:58] animism is not a perspective that only
+[0:40:00] exists in some regions in rural Japan
+[0:40:03] it's also a position that existed in
+[0:40:05] Europe uh before Christianity came along
+[0:40:08] and even during Christianity it's
+[0:40:10] something that only stopped with the
+[0:40:11] enlightenment it still exists in
+[0:40:12] Scandinavia it basically exists
+[0:40:14] everywhere people are living inside of
+[0:40:17] forests so Consciousness as as software
+[0:40:19] I mean we should bring in Consciousness
+[0:40:21] so there's a kind of competition between
+[0:40:24] these software agents they they find
+[0:40:26] hosts and and you said Consciousness is
+[0:40:28] a virtual property of this pattern of
+[0:40:31] self-organization and you said it is
+[0:40:33] second order perception MH what do you
+[0:40:36] mean by that a lot of people try to
+[0:40:39] avoid the notion of Consciousness and it
+[0:40:41] has multiple reasons one is that they
+[0:40:43] feel it's too many people have different
+[0:40:45] opinions what what it is uh they also
+[0:40:48] there is very little upside in
+[0:40:49] discussing Consciousness because there
+[0:40:51] are very few decent research programs
+[0:40:54] for it visin science very few people
+[0:40:55] look at it because neuroscience don't
+[0:40:58] know doesn't know how to make progress
+[0:40:59] on it AI doesn't really look at it
+[0:41:01] psychology is not looking at it so all
+[0:41:04] the people that talk about Consciousness
+[0:41:06] tend to almost all of them tend to be
+[0:41:08] outside of Science and people outside of
+[0:41:10] science don't have very good
+[0:41:11] epistemology for the most part and not
+[0:41:13] proper formal education so the way in
+[0:41:15] which they make their arguments
+[0:41:17] typically doesn't scale and doesn't hold
+[0:41:19] up in the eyes of scientific methodology
+[0:41:23] and so people don't want to be drawn
+[0:41:25] into this on the other hand
+[0:41:27] it's Consciousness is something that we
+[0:41:29] are all confronted with and for a lot of
+[0:41:31] us it is not just significant but also
+[0:41:34] mysterious but the significance of
+[0:41:36] Consciousness is something that seems to
+[0:41:37] be undeniable and so when we ask
+[0:41:39] ourselves what is it that we mean by it
+[0:41:41] when we look at Consciousness I would
+[0:41:43] say that there are two features that
+[0:41:46] bring to our attention that is what we
+[0:41:47] mean when we point at what we mean Cons
+[0:41:50] with Consciousness ourselves one is that
+[0:41:53] we are
+[0:41:54] experiencing and this nature of
+[0:41:56] experience is not just content is
+[0:41:58] present it's not like it's insufficient
+[0:42:00] that you build a camera sensor that
+[0:42:02] registers photons or you build a meion
+[0:42:05] learning system that is discovering
+[0:42:06] patterns in the activations of the
+[0:42:09] camera sensor that is insufficient
+[0:42:10] nothing experiencing here what does it
+[0:42:12] mean the experience goes a step further
+[0:42:14] it basically registers that something is
+[0:42:17] registering it something notices that
+[0:42:19] something else is noticing so it's not
+[0:42:21] just the presence of the content it's
+[0:42:23] the
+[0:42:24] registration that this content is
+[0:42:26] present and this is not an inference
+[0:42:28] that you do logically with some symbolic
+[0:42:30] reasoning if you step through mode but
+[0:42:32] it happens in the moment or entangled
+[0:42:35] immediately in this process so it
+[0:42:37] happens in in near real time it's
+[0:42:40] happens at the perceptual level so it's
+[0:42:42] not reasoning it's perception it's this
+[0:42:44] immediate thing that happens in the
+[0:42:46] coupling with the perceptual process
+[0:42:48] that brings you in contact with the
+[0:42:50] environment and your internal State and
+[0:42:52] so it's it's not cognition it's
+[0:42:53] perception and it's not perception
+[0:42:55] directly of a Content but but it's the
+[0:42:57] perception of the perception and that's
+[0:42:59] why it's a second order perception
+[0:43:01] that's what I mean by see the other
+[0:43:03] aspect is when you ask yourself where is
+[0:43:05] consciousness that's a category it's
+[0:43:07] software it's not in space right it's
+[0:43:09] just modeling a space as a Content but
+[0:43:12] by itself it can be also implemented in
+[0:43:14] the region of the physical universe but
+[0:43:16] where it happens is is not the right
+[0:43:18] question when does it happen it always
+[0:43:21] happens now that's a really interesting
+[0:43:23] feature of Consciousness that is never
+[0:43:25] in the past never in the future uh and
+[0:43:27] never not now it's always now and so
+[0:43:30] Consciousness seems to be this bubble of
+[0:43:32] nness and or inhabit this bubbles of
+[0:43:35] nness depending on how you use the term
+[0:43:38] and in this bubble of nness you have the
+[0:43:40] things that are currently the case in
+[0:43:41] your perceptual system so it's a
+[0:43:43] particular state of your mental game
+[0:43:45] engine it's tracking sensory perception
+[0:43:47] and it's the operators that you are
+[0:43:49] using to change your ideas and thoughts
+[0:43:51] so when you are reasoning your thoughts
+[0:43:53] are not necessarily about the now but
+[0:43:55] you thinking that's what happening now
+[0:43:57] when you manipulate your own thoughts
+[0:43:58] You observe yourself doing that it's an
+[0:44:00] interaction that's happening in an
+[0:44:01] environment it's also in this nness and
+[0:44:04] the nness is not an instant in time it's
+[0:44:06] not a point on the timeline it's a
+[0:44:09] region it's a region in which you can
+[0:44:11] fit a curve to your perception so to
+[0:44:13] speak it's a region that's slightly
+[0:44:14] Dynamic you see a small movement a
+[0:44:16] handshake an eye blink something like
+[0:44:18] that something that fits into this
+[0:44:20] window of our attention of a moving
+[0:44:22] Dynamic environment and the bubble of
+[0:44:24] nness can be larger or smaller depending
+[0:44:26] on how much we are in sync with the
+[0:44:28] environment how calm we are how much we
+[0:44:29] can integrate into this bubble and it
+[0:44:32] seems to be a bubble that is completely
+[0:44:34] devoid of contradictions the stuff that
+[0:44:36] has contradictions cannot be seen not be
+[0:44:38] perceived because it makes no sense so
+[0:44:40] it might be that there is some kind of
+[0:44:42] constraint propagation that goes back
+[0:44:44] and forth to our working memory and the
+[0:44:46] region that we can integrate into this
+[0:44:49] bubble this is the content of our
+[0:44:51] Consciousness and so maybe Consciousness
+[0:44:53] is the operator that performs that and
+[0:44:55] there is some overlap to for instance
+[0:44:57] Toon's integrated integration Theory
+[0:44:59] which I think is formally not a very
+[0:45:01] good theory but the intuition that
+[0:45:03] underlies it that Consciousness is about
+[0:45:05] the integration of contents I think is
+[0:45:08] sound and this is something that also
+[0:45:11] makes sense from the perspective of a
+[0:45:13] machine learning engineer thinks about
+[0:45:14] how does a self-organizing system
+[0:45:16] process information and maybe it does
+[0:45:18] this by producing this bubble of nness
+[0:45:20] and it does this by resolving
+[0:45:22] contradictions in your sensory apparatus
+[0:45:25] and it starts out by observing The
+[0:45:27] Observer itself and it's basically the
+[0:45:29] first stake that you ram into the ground
+[0:45:31] to establish something that has no
+[0:45:34] contradictions once you notice there is
+[0:45:36] an observer at is kogito agum you are
+[0:45:39] can Branch out to try to explain the
+[0:45:41] rest and you don't do this logically
+[0:45:43] it's just what you do experientially
+[0:45:44] it's what's happening in some sense when
+[0:45:46] you observe ourselves as observers that
+[0:45:48] start making sense it's quite similar to
+[0:45:50] stevenh Wolf's Observer Theory and he he
+[0:45:53] spoke about this cone of an intelligible
+[0:45:56] cognitive Horizon
+[0:45:57] which is intelligible to us as as you
+[0:46:00] know computationally banded observers
+[0:46:03] but um the thing is we we're talking
+[0:46:05] about perception and most people have an
+[0:46:08] idea what perception means because they
+[0:46:10] they think about it in terms of our
+[0:46:12] sensory perception but am I right in
+[0:46:14] thinking that you're talking about a
+[0:46:15] kind of perception between the software
+[0:46:17] agents in this mtic space no I think
+[0:46:21] that um the idea that there are the
+[0:46:23] agents is an idea that I formed in my
+[0:46:25] mind and I don't have access to your
+[0:46:28] internal States uh what I observe is
+[0:46:31] that seems to be an agent that has a
+[0:46:33] similar makeup as myself and so I assume
+[0:46:36] that you're are functioning in very much
+[0:46:37] the same way and then can communicate
+[0:46:39] about reality that's shared and I assume
+[0:46:41] that our brains are naturally converging
+[0:46:43] in many regions to similar models so we
+[0:46:46] communicate by forming pointers in the
+[0:46:49] architecture that we hope is similar in
+[0:46:51] your mind and then in some regions we
+[0:46:53] find that there are differences and this
+[0:46:54] is why we discuss philosophy interesting
+[0:46:57] so Consciousness is a virtual property
+[0:46:58] of the hosts not the software
+[0:47:01] agents uh no it's it's it is a software
+[0:47:03] property the host is a concept that the
+[0:47:05] software is making about its substrate
+[0:47:08] but I cannot know whether I'm running on
+[0:47:10] a GPU or in a human body it's U I'm just
+[0:47:13] observing that uh there is something
+[0:47:15] that I can interpret as a human body and
+[0:47:17] my best models that I can come up with
+[0:47:19] is that I'm actually running on that
+[0:47:20] human body right but I cannot actually
+[0:47:23] know this it's just a model that I'm
+[0:47:24] making and so this concept of host is a
+[0:47:27] part of a model that I'm making it's
+[0:47:28] nothing that is immediately given the
+[0:47:30] only thing that I can infer with some
+[0:47:32] necessity that there seems to be
+[0:47:34] something that's able to host me right
+[0:47:35] there is a substrat that uh makes it
+[0:47:38] possible for these representations to
+[0:47:39] play out to what extent does it make
+[0:47:42] sense to say that Consciousness is
+[0:47:44] universal I mean I recently had Philip
+[0:47:45] goon and he's a fan of pan psychism and
+[0:47:48] Cosmos psychism but in in your worldview
+[0:47:50] how Universal is
+[0:47:53] consciousness I don't really know how to
+[0:47:55] make sense of pan psychism because the
+[0:47:57] idea that matter itself is conscious if
+[0:47:59] I try to formalize this don't really
+[0:48:01] know what that means so is this
+[0:48:03] everything in the universe equally
+[0:48:05] conscious is consciousness equally
+[0:48:07] distributed does this mean that
+[0:48:08] everything in the universe behaves the
+[0:48:10] same with respect to forming
+[0:48:11] representations of itself and
+[0:48:13] experiencing those representations
+[0:48:15] probably not why would you make such a
+[0:48:18] claim it would be pretty complicated to
+[0:48:20] implement and it does not uh explain any
+[0:48:23] observables there is no mechanism that
+[0:48:25] would bring it into existence it doesn't
+[0:48:27] make anything easier so I suspect the
+[0:48:29] reason why people are sometimes pists is
+[0:48:32] not the result of them thinking very
+[0:48:34] hard about physics and Consciousness but
+[0:48:37] it's more an experimential
+[0:48:38] thing and I think it happens because in
+[0:48:42] our normal State as adults we have a a
+[0:48:46] self a personal self that we normally
+[0:48:49] perceive as the agent of Consciousness
+[0:48:53] so it's basically the thing that gives
+[0:48:54] us this human first person perspective
+[0:48:56] and when you meditate very much or when
+[0:48:58] you are using psychedelics and large
+[0:49:00] doses some people report that this that
+[0:49:03] they dissociate also sometimes happens
+[0:49:05] in clinical cases where they're
+[0:49:06] basically depersonalized and the
+[0:49:09] Consciousness is no longer attached to
+[0:49:11] this personal self because after all the
+[0:49:14] idea that this representation of of what
+[0:49:17] we would be if there was a person is a
+[0:49:19] trick that your brain is producing and
+[0:49:21] associating your conscious perception as
+[0:49:22] Observer to that thing is a slide of
+[0:49:24] hand and if we are able to solve the
+[0:49:27] slight of hand by changing
+[0:49:28] neurochemistry of our brain or
+[0:49:30] meditating so much that we figure out
+[0:49:31] how it actually works we basically
+[0:49:33] realize uh that our Consciousness is
+[0:49:35] somewhat independent and so what's
+[0:49:37] happening then to our Consciousness and
+[0:49:39] it seems we can bind it to other objects
+[0:49:43] and if you don't do that it might bind
+[0:49:45] itself to the entirety of our models to
+[0:49:47] our model of the of reality to our
+[0:49:49] universe and suddenly subjectively
+[0:49:51] people who meditate or uh use LSD get
+[0:49:55] into a state where they realized oh my
+[0:49:57] God everything is conscious and it has
+[0:49:59] always been why didn't I no this and
+[0:50:02] this gets translated into pism but it's
+[0:50:04] a category are because what God
+[0:50:05] conscious are they representations it's
+[0:50:08] not the physical Universe it's not that
+[0:50:09] suddenly they discover the quantum
+[0:50:11] mechanics and particles and what not is
+[0:50:13] conscious no the ideas of things of idea
+[0:50:17] of what it would be like to be a photon
+[0:50:18] or the idea of what it would be like to
+[0:50:20] be a cell gets instantiated in her mind
+[0:50:22] as a dream and they think about it and
+[0:50:23] they experience that thing as a
+[0:50:25] conscious agent that is basically has
+[0:50:27] having a first person perspective but
+[0:50:29] it's now a first cell perspective or
+[0:50:31] first Photon perspective and it can be
+[0:50:34] even multiple looking at each other
+[0:50:36] simultaneously and when such a thing is
+[0:50:38] happening it's probably pretty
+[0:50:39] mind-blowing and can confuse a lot of
+[0:50:41] people until they figure out no it's
+[0:50:43] just a mental representation it's a
+[0:50:45] dream what does this dream
+[0:50:47] signify I mean let me let me try and
+[0:50:49] sketch this out to say I've understood
+[0:50:51] it correctly because by the way even
+[0:50:52] Philip gof even though he thinks that um
+[0:50:54] he's also a fan of panagal ism by the
+[0:50:56] way so these various ontological ideas
+[0:50:58] that the the primary um substrate of the
+[0:51:00] universe has the kind of the potential
+[0:51:02] for phenomenal and material um uh
+[0:51:05] components yes but what why would you
+[0:51:07] think that it's basically our idea about
+[0:51:09] the stuff that is below particles that
+[0:51:12] we can observe are pretty rake and even
+[0:51:15] the particles do not seem to require the
+[0:51:17] assumption that they have agency in any
+[0:51:19] way it's not necessary for a photon to
+[0:51:21] plan ahead it seems that the photon is
+[0:51:23] able to happily do what it does if it's
+[0:51:26] far less intelligence then say a Roomba
+[0:51:28] it's a photon is probably uh just as
+[0:51:30] stupid as a rock it just follows a very
+[0:51:33] simple mechanism reactively without
+[0:51:34] planning ahead it's not an agent it's
+[0:51:36] not regulating a future State instead
+[0:51:39] it's just uh implementing a error
+[0:51:41] correcting Dynamic on the present state
+[0:51:44] that allows the photon to persist but
+[0:51:45] it's not doing any more than that so I
+[0:51:48] personally do not see a reason to assume
+[0:51:50] that the photon has any kind of
+[0:51:51] representation that it builds that it
+[0:51:53] solves any kind of complicated control
+[0:51:55] problem that would require thing to
+[0:51:56] build a representation and a model of
+[0:51:58] its environment and so I would be very
+[0:52:00] hesitant to go in and assume that it
+[0:52:02] does instead it makes much more sense to
+[0:52:05] think that systems that are so
+[0:52:06] complicated that they can make models of
+[0:52:08] reality learn how to read and learn how
+[0:52:10] to use an inner voice or War something
+[0:52:12] or reflect on the puzzling nature of
+[0:52:14] their Consciousness are systems that are
+[0:52:16] compositional that have made of much
+[0:52:18] smaller more primitive parts that don't
+[0:52:20] have that ability and implement it step
+[0:52:22] by step and it seems to be also what we
+[0:52:24] are observing did I get it right though
+[0:52:26] that that goth and Charmers think that
+[0:52:29] there is an ontological potential for
+[0:52:31] phenomenal experiences given certain
+[0:52:32] organizations of um you know information
+[0:52:35] in the case of Charmers or or material
+[0:52:37] in the case of of goth but but but
+[0:52:39] you're saying given certain types of
+[0:52:41] organization then there's a um a memetic
+[0:52:44] software sharing which itself gives rise
+[0:52:46] to Consciousness the reason why we um
+[0:52:49] are conscious seems to be that we care
+[0:52:51] at some level I noticed when I
+[0:52:54] introspectively when I meditate uh I can
+[0:52:57] resolve my motivations and so when I go
+[0:53:00] to the state where I stop caring about
+[0:53:03] anything in the world but Aesthetics I
+[0:53:04] feel that I am an unmoving observer that
+[0:53:07] is just looking at the world and looks
+[0:53:09] for patterns and if I resolve my
+[0:53:11] interest in Aesthetics and structure if
+[0:53:14] I stop subjectively paying my neurons to
+[0:53:16] look for structure in the world become
+[0:53:18] super lazy and they just space out and
+[0:53:20] fall asleep everything becomes fuzzy and
+[0:53:22] because there's no point anymore right
+[0:53:24] so at some level you actually care about
+[0:53:26] understanding Universe reflecting it and
+[0:53:28] that gets translated into an Impulse to
+[0:53:30] the neurons to please perform this
+[0:53:33] activity so we get a useful model out of
+[0:53:34] you if you if you stop doing it it's not
+[0:53:37] going to happen and and the reason why
+[0:53:39] we able to pay our neurons for
+[0:53:41] performing this task is because we can
+[0:53:43] feed them better if they make models of
+[0:53:45] reality right because we able to
+[0:53:47] navigate our uh trajectory through the
+[0:53:49] universe in such a way that we can find
+[0:53:51] food to give to the neurons eventually
+[0:53:53] and so this is how it all works
+[0:53:54] ultimately it's about energy
+[0:53:57] and so the reason why we are conscious
+[0:53:59] and have all this organization is
+[0:54:01] because there is a benefit in building
+[0:54:03] controlled reactors and every reactor
+[0:54:06] every kind of chemical reactions that
+[0:54:08] happens in nature is exploiting some
+[0:54:10] neck entropy gradient and intelligence
+[0:54:11] and Consciousness allow organisms to
+[0:54:14] exploit more complicated NE entropy
+[0:54:17] gradients more complicated chemical
+[0:54:18] reaction chains and so if you ask
+[0:54:21] yourself which things in the universe
+[0:54:22] have the potential to build Minds it
+[0:54:24] means they have to be able to Ben
+[0:54:26] benefit from that organization so that
+[0:54:28] organization can come into existence and
+[0:54:30] persist it right otherwise it wouldn't
+[0:54:33] happen and you also need a way to evolve
+[0:54:35] that organization so you need to have
+[0:54:36] some structural degree of freedom and uh
+[0:54:39] certain probability that such a
+[0:54:42] structure emerges in the first place and
+[0:54:44] so in this sense I think it's
+[0:54:46] conceivable even though it's a stretch
+[0:54:47] to imagine that maybe on Jupiter you
+[0:54:50] have an intelligent structure imagine
+[0:54:51] you have storm systems on Jupiter that
+[0:54:53] exist over millions of years and uh they
+[0:54:55] rotate and they produce magnetic fields
+[0:54:57] because some of the clouds are metallic
+[0:54:59] and some of these metallic clouds react
+[0:55:01] differently to those fields and others
+[0:55:02] because they have different metals and
+[0:55:04] different concentrations and this whole
+[0:55:06] thing is driven by tidle Dynamics and
+[0:55:07] maybe it gives rise to feedback loops
+[0:55:09] that ultimately leads to Jupiter waking
+[0:55:11] up basically the cloud systems and
+[0:55:13] Jupiter but uh I wouldn't know why this
+[0:55:16] is happening in a single Rock which is
+[0:55:18] just sitting there and is not producing
+[0:55:20] internal dynamics that do anything
+[0:55:21] interesting right I don't see how the
+[0:55:23] rock would be able to exploit some
+[0:55:25] internal like gradient and so I would be
+[0:55:27] very reluctant to assume that the rock
+[0:55:29] is able to produce that structure but
+[0:55:32] over billions of years maybe in the
+[0:55:34] mental of the earth maybe there have you
+[0:55:36] have something interesting going on who
+[0:55:37] knows there are some versions of animism
+[0:55:39] who also have this idea that maybe the
+[0:55:42] universe itself in the sense of uh the
+[0:55:45] physical universe is something like an
+[0:55:47] organism it's is something that wants
+[0:55:49] something where that has a certain
+[0:55:50] structure maybe this is the case maybe
+[0:55:53] flat space to have particles in is not
+[0:55:55] something that happens naturally by
+[0:55:57] itself maybe something bulldozed at
+[0:55:59] first into this this shape who knows I
+[0:56:02] don't think it's likely I think it's
+[0:56:04] more likely that we find a way to derive
+[0:56:06] that the universe that we observing is
+[0:56:08] the result of totry some kind of fractal
+[0:56:11] that emerges by itself and based reality
+[0:56:13] right but if not then maybe it only
+[0:56:16] exists in a corner where you have
+[0:56:18] something that actually wanted something
+[0:56:19] to happen it's unlikely right the fact
+[0:56:21] that religion says that doesn't make it
+[0:56:23] more likely because people just say
+[0:56:25] things especially if impresses other
+[0:56:26] people but um but if you think about
+[0:56:30] means and motive if something comes in
+[0:56:32] existence and why it don't see a reason
+[0:56:35] to assume that um the lowest levels of
+[0:56:38] reality or the levels below particle
+[0:56:40] physics or the particles themselves or
+[0:56:42] anything that is simpler than a cell is
+[0:56:45] running self organizing soft agents yeah
+[0:56:48] so um patterns of physical Dynamics are
+[0:56:51] a necessary condition in order for those
+[0:56:55] things to become hosts of these software
+[0:56:58] agents but you've also spoken about you
+[0:57:00] know this kind of coherence mechanism I
+[0:57:03] mean could you could you sketch that out
+[0:57:05] yes so when we think about uh in which
+[0:57:07] way does software work in the computer
+[0:57:09] we notice that it works because we force
+[0:57:11] the computer to do it we basically build
+[0:57:12] a substrate that is almost completely
+[0:57:15] deterministic and we can fully control
+[0:57:17] it and by building such a substrate for
+[0:57:20] instance a GPU we can Implement starting
+[0:57:23] State on that GPU that leads to a
+[0:57:25] necessary quence of steps that are
+[0:57:27] enacted with an extremely high
+[0:57:29] reliability and so we basically can do
+[0:57:31] that thing do whatever you want you can
+[0:57:34] play Call of Duty on the GPU and it has
+[0:57:37] no choice but Ina that but if you want
+[0:57:39] to imagine Call of Duty on your own mind
+[0:57:42] or uh want to create a fantasy of a
+[0:57:45] better world or uh any kind of
+[0:57:47] interesting dream how do you do that you
+[0:57:50] need to basic get something that is a
+[0:57:52] second order software that is designing
+[0:57:54] itself you needs to implement something
+[0:57:57] that is growing into the right shape in
+[0:57:59] the same way as you want to have a tree
+[0:58:01] you cannot just go into nature and build
+[0:58:02] a tree you need to build something that
+[0:58:04] wants to grow into a tree you need to
+[0:58:06] have something like a Seedling and
+[0:58:07] initially it's maybe just a single cell
+[0:58:09] that is creating a group of cell that
+[0:58:11] then interacts in such a way that
+[0:58:12] creates a Seedling that ultimately
+[0:58:14] becomes a tree so everything in the
+[0:58:16] universe is basically higher order
+[0:58:18] design that requires multiple level
+[0:58:20] levels of Genesis before it turns into
+[0:58:23] the shape that is realizing the function
+[0:58:25] that you eventually obser obing and that
+[0:58:27] that's also true for our own mind and so
+[0:58:29] if you ask yourself what are these
+[0:58:30] principles of self organization it seems
+[0:58:33] that an important one is
+[0:58:35] coherence coherence basically means that
+[0:58:37] the system is behaving as if it could be
+[0:58:40] described by a single function by a
+[0:58:41] single goal by a single behavior and we
+[0:58:44] observe this for instance in our own
+[0:58:46] mental development when we are very
+[0:58:47] young we might have very different
+[0:58:49] conflicting impulses and there different
+[0:58:51] thoughts different goals and the older
+[0:58:53] we get and the smarter we get the more
+[0:58:55] we integrate them with each other which
+[0:58:57] means we build them into some kind of
+[0:58:59] conditional hierarchy where every
+[0:59:00] Behavior has its place and understands
+[0:59:02] what its role is and then to shut up the
+[0:59:04] same thing is happens in a good
+[0:59:06] relationship or in a society and so on
+[0:59:08] and it's the more coherent it is the
+[0:59:10] less friction it has because it behaves
+[0:59:12] as if it was a single agent with high
+[0:59:14] internal structural complexity and so
+[0:59:17] can we formalize this coherence
+[0:59:18] principle that would allow a system to
+[0:59:20] design itself from the inside out and I
+[0:59:23] think we can capture it as the
+[0:59:24] minimization of constraint
+[0:59:26] violations so a constraint is basically
+[0:59:29] something that says if something is like
+[0:59:30] this then the other things must be one
+[0:59:32] of the following and none of those and
+[0:59:34] once you have a valid State and the
+[0:59:36] thing is um
+[0:59:38] coherent why does the world seem so
+[0:59:40] incoherent then is it because we just
+[0:59:41] don't understand the coherence function
+[0:59:44] no it's because uh there is only partial
+[0:59:46] coherence and our own Consciousness is
+[0:59:48] directed on the things that are
+[0:59:49] incoherent so we can fix them that seems
+[0:59:52] to be the wall of Consciousness it's
+[0:59:54] like a conductor and an orchestra that
+[0:59:56] listens to instruments and when the
+[0:59:58] instruments are out of Sy the on the
+[1:00:00] conductor marches in and says you go up
+[1:00:03] a little bit you down a bit and then it
+[1:00:05] works and so everything is on the same
+[1:00:07] page and maybe this is also the RO of
+[1:00:10] Consciousness in our own mind that it
+[1:00:12] basically focuses on those things that
+[1:00:14] are in disharmonic where there are
+[1:00:15] conflicts and then tries to resolve them
+[1:00:18] so your work suggests that there's a
+[1:00:20] kind of continuer of Consciousness and
+[1:00:22] of course to varying degrees even in the
+[1:00:24] ecosystems on on Planet I'm not sure if
+[1:00:26] you're familiar with James lovelock's
+[1:00:29] guia Theory and that really captivated
+[1:00:31] me when when I was younger he kind of
+[1:00:33] thinks of the um all of the earth as
+[1:00:35] being this kind of living
+[1:00:36] self-regulating organism um what are
+[1:00:39] your thoughts on
+[1:00:40] that so most agents are collective
+[1:00:44] agents you you could also say that all
+[1:00:47] intelligence because it's not
+[1:00:49] manifesting at the level of individual
+[1:00:50] particles and individual molecules or
+[1:00:53] even individual cells is the result of
+[1:00:55] them interacting in a coherent way as a
+[1:00:58] collective basically every agent of with
+[1:01:01] a certain complexity is a collective
+[1:01:03] agent it's made out of sub agents that
+[1:01:06] perform this Behavior together by
+[1:01:07] becoming coherent and so in in this
+[1:01:10] sense uh coherence is a principle that
+[1:01:12] gives rise to Agency on the next level
+[1:01:15] and when people become coherent with
+[1:01:17] each other then they can create
+[1:01:19] relationships with each other family
+[1:01:21] units uh teams organizations Nations
+[1:01:24] States civilization
+[1:01:27] and so all these are collective agents
+[1:01:29] that you can say that a civilization is
+[1:01:31] a collective agent that is made out of
+[1:01:33] all the sub agents and it's implemented
+[1:01:35] to the degree that these sub agents
+[1:01:37] realize that this other thing should
+[1:01:39] exist should be collectively enacted and
+[1:01:42] become coherent but it only exists to
+[1:01:43] degree that they can come coherent but
+[1:01:45] the prerequisite for becoming coherent
+[1:01:47] is that they recognize that there should
+[1:01:48] be regulation at this level and so if
+[1:01:51] you now think about Gaia GA would be a
+[1:01:53] collective agent uh that is regulating
+[1:01:56] at the level of life on
+[1:01:58] Earth and are there agents on on Earth
+[1:02:02] that think that regulation should happen
+[1:02:04] at the level of life on Earth probably
+[1:02:06] right there are a few people at least
+[1:02:08] maybe also some ecosystems who knows
+[1:02:10] that are able to form models at this
+[1:02:11] level so I would say that Gaia exists to
+[1:02:14] a nonzero degree but it's probably very
+[1:02:17] incoherent do you think the agency can
+[1:02:20] be um hierarchically factorized and the
+[1:02:22] reason I I say that is to me having a
+[1:02:25] district bution of agency would lead to
+[1:02:28] incoherence because agents are trying to
+[1:02:31] control the environment and it's an
+[1:02:33] adversarial thing but am I just thinking
+[1:02:35] about it wrong is there actually some
+[1:02:37] super agent which could be thought of as
+[1:02:39] coherent there sometimes competing agent
+[1:02:42] with conflicting goals and uh this leads
+[1:02:45] to incoherence right there is an agent
+[1:02:47] that wants to eat another agent and the
+[1:02:48] other agent doesn't want to be eaten it
+[1:02:50] leads to some kind of conflict and loss
+[1:02:52] of energy because one agent is trying to
+[1:02:54] escape from the other right but if they
+[1:02:56] were all on the same side they will
+[1:03:00] figure out what the right solution is so
+[1:03:01] basically if my family is stranding with
+[1:03:04] an airplane on a snowway Mountaintop my
+[1:03:06] family would first eat me and then my
+[1:03:08] wife right and and it's something that
+[1:03:10] in some sense we would more or less
+[1:03:12] peacefully agree on in an ideal case as
+[1:03:14] a gruesome metaphor because we realize
+[1:03:17] that this the goal that we are
+[1:03:18] submitting on as a family unit right so
+[1:03:20] the existence of the parents is
+[1:03:22] instrumental to the existence of the
+[1:03:24] children when you are parent of for most
+[1:03:26] parents is like that I think and so when
+[1:03:29] when you have such a world then it
+[1:03:30] becomes harmonic it becomes harmonic to
+[1:03:32] the degree that the agents perceive
+[1:03:34] themselves as being part of a larger
+[1:03:36] agent that is more important than their
+[1:03:38] personal agency and so we call this
+[1:03:41] because you're willing to sacrifice for
+[1:03:42] its sacredness and basically the uh
+[1:03:45] sacred shared sacredness leads to
+[1:03:47] Collective
+[1:03:48] agency our friend conel he talks a lot
+[1:03:51] about um coherence in the context of AI
+[1:03:53] alignment uh do do you think that
+[1:03:55] there's an interesting story
+[1:03:57] there um yes and no I I'm not sure how
+[1:04:01] coherent kol's perspective on AI
+[1:04:02] alignment is because uh I I don't really
+[1:04:06] know how he uh perceives Collective
+[1:04:09] agency when I um tried to talk to him
+[1:04:12] about um the way in which we are
+[1:04:15] coordinating his perspective was that oh
+[1:04:17] I the only thing I want is I don't want
+[1:04:19] to die and I don't want my mother to die
+[1:04:21] and there are others who have
+[1:04:23] conflicting interests and so it's all a
+[1:04:25] fight basically and this seems to be the
+[1:04:27] logic of a tape form of nothing that is
+[1:04:29] able to see shared purposes and is able
+[1:04:32] to build ethics via a notion of
+[1:04:34] collective agency I think ultimately um
+[1:04:37] ethics is about what should be done from
+[1:04:40] the perspective of an agency that we
+[1:04:42] both part of it requires shared purposes
+[1:04:45] without shared purposes you cannot have
+[1:04:47] ethics and so if you think of AI not as
+[1:04:51] a tool in which case we don't need to
+[1:04:53] align it in an ethical sense but we just
+[1:04:55] need to it make it behave in such a way
+[1:04:57] that we can properly control it and
+[1:04:59] that's what we want if we turn it into
+[1:05:01] something that is agentic in such a way
+[1:05:04] that it has actually choice about its
+[1:05:06] own allegiances about its own goals and
+[1:05:08] so on then the question is can be built
+[1:05:10] it in such a way that we have shared
+[1:05:13] purposes I often make the argument that
+[1:05:15] current AI is not atic but given your
+[1:05:18] philosophy I I guess you can make the
+[1:05:20] argument it is well we could say that
+[1:05:23] there is some agentic AI but it's not
+[1:05:25] universally agentic and the agentic AI
+[1:05:28] that exists is mostly not happening in
+[1:05:30] the level of systems that are able to
+[1:05:33] solve the touring test so if you look at
+[1:05:36] the uh agents that are created bya llms
+[1:05:39] there are in some sense deep fakes of
+[1:05:41] Agents because their agency is not
+[1:05:43] intrinsically built into the llm it's a
+[1:05:45] side effect of the llm trying to predict
+[1:05:47] the next token and the LM doesn't do
+[1:05:50] that because it's an agent it doesn't
+[1:05:51] have a choice about it it's
+[1:05:52] deterministically built in such a way
+[1:05:54] that it's going to give you the most
+[1:05:55] likly next token and if that entails
+[1:05:58] pretending that an agent exists then for
+[1:06:00] as long as that is necessary it's going
+[1:06:02] to make a simulation of that agent and
+[1:06:04] that simulation can be good enough to
+[1:06:06] actually act as a stand in for actual
+[1:06:09] agency right it's able to control the
+[1:06:10] future and so on the simulation of a
+[1:06:13] software is still a software and the
+[1:06:15] simulation of a software agent is going
+[1:06:16] to be a software agent but the
+[1:06:18] underlying reason of that thing is not
+[1:06:20] that this is going to try to
+[1:06:22] self-optimize and uh try to survive in
+[1:06:24] the world the underlying reason is still
+[1:06:26] it's instrumental to predict the next
+[1:06:28] token and it sees this once the token is
+[1:06:30] there what should you know when it comes
+[1:06:32] to language models what's your weapon of
+[1:06:34] choice right now are you an anthropic
+[1:06:35] guy or a chat GPT guy I I'm a liquid guy
+[1:06:40] liquid AI is a startup that is basically
+[1:06:42] rewriting some of the bottom of the
+[1:06:44] stack and if you think about the neural
+[1:06:48] networks that we're using in the way
+[1:06:50] there are a surprisingly crude idea
+[1:06:52] they're not bi like biological neurons
+[1:06:54] at all and the biological neuron is a
+[1:06:57] small animal that tries to survive it's
+[1:06:59] quite complicated it's really an single
+[1:07:01] set animal that is able to learn message
+[1:07:03] passing and then perform computational
+[1:07:05] tasks in the surface of of a larger
+[1:07:07] group of cells but uh the neuron and the
+[1:07:11] neural network is a real number that is
+[1:07:14] a result of uh summing up other real
+[1:07:17] numbers and multiplying them with
+[1:07:19] weights right so it's just sums and
+[1:07:22] multiplications that we arrange into a
+[1:07:24] series of steps and then when we make a
+[1:07:26] model we predefine the shape of of this
+[1:07:29] function we for instance say we have 100
+[1:07:31] layers which means we have 100 steps of
+[1:07:35] adding up and each of those layers has
+[1:07:38] maybe a million weights which means we
+[1:07:40] make a million multiplications of
+[1:07:43] individual values on the previous layer
+[1:07:45] and propagate them to the next and then
+[1:07:47] we adjust the weights in the hope that
+[1:07:49] our function fits into this thing so
+[1:07:52] it's not an optimal use of space because
+[1:07:54] the space is can be an arbitrary
+[1:07:56] function and in context of deep learning
+[1:07:58] we look at the differentiable function
+[1:08:00] so we express the function in such a way
+[1:08:02] that it's somewhat continuous and this
+[1:08:04] allows us to shift the function around
+[1:08:06] and that makes the whole thing learnable
+[1:08:08] we basically hope that many domains we
+[1:08:10] can Define it so that small nudges in
+[1:08:12] the function make it slightly better at
+[1:08:14] for instance telling dogs from cats even
+[1:08:16] though this is a discontinuous problem
+[1:08:18] it's amazing that this works at all when
+[1:08:19] you think about it but uh it's it's not
+[1:08:22] the best way in which you could
+[1:08:24] represent such a differentiable function
+[1:08:25] maybe you want to represent it directly
+[1:08:28] as a system of differential equations
+[1:08:29] and then shift the parameters around
+[1:08:31] with a second uh level Learning System
+[1:08:34] and so this this things that um liquid
+[1:08:37] AI is exploring and it's by now it works
+[1:08:41] initial work that we did with liquid
+[1:08:43] neural networks was flying drones around
+[1:08:46] so in some sense cybernetic control task
+[1:08:48] and showing that this works pretty well
+[1:08:51] and Ramin haani in his PhD has shown
+[1:08:53] that these Leal newal networks are more
+[1:08:55] expressive than normal neuron networks
+[1:08:57] basically means that per memory cell per
+[1:08:59] compute step you're expressing more of
+[1:09:01] the features that you actually care
+[1:09:03] about in your function and that
+[1:09:04] translates into having models that are
+[1:09:06] cheaper to train and more efficient to
+[1:09:08] run and they need less memory and the
+[1:09:10] thing that we doing now is that we are
+[1:09:11] training this thing to build llms now we
+[1:09:14] basically have built internally some
+[1:09:16] midsize models that we can show actually
+[1:09:19] quite efficient and run at s so these
+[1:09:22] methods basically can supplement some of
+[1:09:25] the existing machine learning methods
+[1:09:27] with slightly more intelligent
+[1:09:28] algorithms but there is a lot of
+[1:09:31] potential that we are not using yet for
+[1:09:33] instance because these liquid neural
+[1:09:34] networks have a continuous depth and a
+[1:09:36] continuous resolution they basically
+[1:09:38] flow into the shape of the function that
+[1:09:40] you need and this means you could in
+[1:09:43] principle build systems that
+[1:09:44] continuously learn rather than being
+[1:09:46] just trained on one batch of images and
+[1:09:48] then you retrain them a later point from
+[1:09:50] scratch instead you could continuously
+[1:09:52] train them but there of course
+[1:09:54] difficulties is come with this and you
+[1:09:55] need to edit your knowledge in such a
+[1:09:56] way this thing doesn't break down and so
+[1:09:59] there's a lot of research that we still
+[1:10:00] need to do but this makes it very
+[1:10:01] exciting because it feels that we
+[1:10:03] basically open up a fresh Avenue of
+[1:10:05] research yeah because in a way I mean
+[1:10:08] Fran said to me earlier that that one
+[1:10:10] thing he was wrong about is it's
+[1:10:11] surprising how good stochastic gradient
+[1:10:13] descent has has worked but but we still
+[1:10:15] have this Paradigm where we're doing
+[1:10:17] back propagation and and the networks
+[1:10:19] are very dense and we're we're training
+[1:10:20] them left to right and I was really
+[1:10:23] interested in the work that that liquid
+[1:10:25] is is doing so you built these very very
+[1:10:26] small models they're very robust they're
+[1:10:29] much more sample efficient do I remember
+[1:10:31] correctly that they're kind of physics
+[1:10:34] inspired so they're they're learning
+[1:10:35] about the the evolution of parameters
+[1:10:38] over time rather than the current kind
+[1:10:40] of Left Right neural networks you could
+[1:10:42] say so but also physics if you what is
+[1:10:44] actually physics uh a lot of people
+[1:10:46] think of physics it's discovering the
+[1:10:48] structure of the universe but uh if to
+[1:10:51] look at what physics phds are actually
+[1:10:52] doing almost none of them end up working
+[1:10:55] on discovering structure of the universe
+[1:10:57] instead what physics is it is describing
+[1:10:59] systems using small systems of
+[1:11:01] differential
+[1:11:02] equations it's a it's a particular way
+[1:11:04] to use short algebraic stuff to describe
+[1:11:08] systems that can be uh described in this
+[1:11:10] way and so stuff that cannot be
+[1:11:12] described in this way is completely
+[1:11:13] ignored by physicist for instance
+[1:11:15] chemistry right it's difficult to do
+[1:11:17] chemistry this way because at some point
+[1:11:18] we'll get around to it to translate uh
+[1:11:21] the stuff that analyze the table of
+[1:11:23] elements into differential equations and
+[1:11:25] they fall out of it but until then we
+[1:11:27] leave this to lesser people to these
+[1:11:28] chemists who deal with this messy stuff
+[1:11:30] and instead we have this elegant compact
+[1:11:32] stuff right and it's it's pretty weird
+[1:11:35] when you think about this this
+[1:11:36] continuous mathematics that physicists
+[1:11:37] are using is basic pre-ir stuff uh from
+[1:11:41] one and a half centuries ago basically
+[1:11:43] checked out this code based from the
+[1:11:45] mathematicians and uh it's very
+[1:11:47] versatile so when you take a physicist
+[1:11:49] they're able to describe changes in
+[1:11:51] dynamical systems very well and can
+[1:11:52] reason very well about this but they
+[1:11:54] also found when I get got physics
+[1:11:57] students to write code for me they often
+[1:11:59] try to translate the code into
+[1:12:00] differential equations first and this
+[1:12:03] happens to be extremely useful for most
+[1:12:05] of machine learning so the physics
+[1:12:08] approach is very good as an inspiration
+[1:12:09] for machine learning but uh it's not
+[1:12:12] generally a good approach for doing
+[1:12:14] coding because there are a lot of
+[1:12:16] problems that are actually discret
+[1:12:17] discrete automata and physicists don't
+[1:12:19] think in terms of discrete automat there
+[1:12:21] is also when you zoom out a bit the
+[1:12:23] question shouldn't be build learning on
+[1:12:26] top of discrete automata rather than
+[1:12:28] linear ala because if you think about
+[1:12:31] the stack of our computers you use a CPU
+[1:12:34] that is or GPU that is an automaton
+[1:12:36] right is you have a Boolean table that
+[1:12:39] you are where you're mapping um bit
+[1:12:41] Arrangements against other bit
+[1:12:43] arrangements and you implement this
+[1:12:44] pretty directly as circuits and then you
+[1:12:46] build a logical language on top that
+[1:12:48] uses these patterns to uh as if there
+[1:12:50] were evaluations of logic and then you
+[1:12:52] build arithmetic and so on and at some
+[1:12:54] level of abstraction you get to the
+[1:12:55] algebra then you train your neural
+[1:12:57] network of it and then you train that
+[1:12:59] thing to do logic again that's pretty
+[1:13:01] weird right what if what if we would
+[1:13:03] start at the bottom of the deck it takes
+[1:13:05] humans less than half a generation to go
+[1:13:08] from automata to building line algebra
+[1:13:10] on to a computer right computer science
+[1:13:12] is not an all discipline and so uh
+[1:13:15] imagine that you build a machine
+[1:13:16] Learning System at the bottom using
+[1:13:18] automata that that would be quite
+[1:13:20] interesting and there are few people
+[1:13:21] which do that but of course our learning
+[1:13:23] algorithm right now depend on
+[1:13:25] differentiability and so it makes sense
+[1:13:27] to use more direct inspiration from
+[1:13:29] physics rather than uh the ideas from
+[1:13:32] the P dra only to build our machine
+[1:13:34] Learning Systems how would that look
+[1:13:37] like you know if you if you're
+[1:13:38] implementing a large language model
+[1:13:40] because it's still a self-supervised
+[1:13:42] training objective I mean how would you
+[1:13:43] model something like that you pretty
+[1:13:45] much do it in the same way as before
+[1:13:47] which means we have data that allow us
+[1:13:49] to uh tell the system whether it was
+[1:13:52] successful to predict the next token so
+[1:13:54] you can use the same training regime and
+[1:13:56] you can use the same batches and you
+[1:13:58] extract the same information out of the
+[1:14:00] data but using slightly different
+[1:14:02] formulism to represent your function you
+[1:14:04] can map it into something that is
+[1:14:07] slightly more efficient so basically
+[1:14:08] your computer needs to use fewer Cycles
+[1:14:11] to uh manipulate bits that represent the
+[1:14:14] same function distributed slightly
+[1:14:16] different on the same substract so some
+[1:14:18] sense it's a mapping it's a compilation
+[1:14:20] into a slightly different formalism and
+[1:14:22] so the interesting feature about
+[1:14:25] computer programming languages all
+[1:14:27] programming languages have the same
+[1:14:29] power they do exactly the same thing
+[1:14:30] like all let the computer do the same
+[1:14:32] thing the difference between programming
+[1:14:34] languag is that allows us to think
+[1:14:36] differently about what the should
+[1:14:37] computer should be doing so from the
+[1:14:39] perspective of one who makes a model of
+[1:14:41] what the computer should be doing the
+[1:14:42] language make a very big difference and
+[1:14:44] you can think of a the an llm as uh
+[1:14:48] something like a language that is
+[1:14:50] compiling um natural language into code
+[1:14:54] that a computer can run right so you can
+[1:14:57] give it a prompt and the prompt is being
+[1:14:59] translated by the llm into a computer
+[1:15:02] program that can be represented as a 100
+[1:15:04] layer newal Network or implemented as
+[1:15:06] activations in that 100 layer new
+[1:15:08] network and you pipe the activations
+[1:15:10] through and as a result it performs a
+[1:15:12] certain behavior and if you are
+[1:15:14] representing this function in a slightly
+[1:15:16] more efficient way then uh you maybe
+[1:15:19] need less memory and what we currently
+[1:15:20] see is there is a big bottleneck with
+[1:15:22] the llms and we are running against that
+[1:15:25] bottleneck and that is basically every
+[1:15:27] generation of models is more expensive
+[1:15:29] to train and requires more data and they
+[1:15:32] are still more useful and so on but we
+[1:15:35] also see that it's with every
+[1:15:36] regeneration it might be harder to
+[1:15:38] recoup uh the cost of training them
+[1:15:40] basically you need to create a lot of
+[1:15:42] Revenue to make that whole thing
+[1:15:44] worthwhile and from the total
+[1:15:46] perspective if you zoom out it makes a
+[1:15:48] lot of sense because if we are able to
+[1:15:49] build AGI it will completely transform
+[1:15:52] our economy it will unlock tremendous
+[1:15:54] amount of value and so putting a few
+[1:15:56] billion dollarss or even trillion
+[1:15:57] dollars into training models might be
+[1:16:00] totally worth it but uh that is not
+[1:16:03] necessarily the case for a startup right
+[1:16:05] if you as a startup are putting a few
+[1:16:07] billion dollars into training a model
+[1:16:09] then you need to have extremely good
+[1:16:11] business development to actually find
+[1:16:13] business cases that create enough
+[1:16:15] Revenue so you can recoup this
+[1:16:17] investment and a lot of people are
+[1:16:19] bracing for a time like do com bubble
+[1:16:22] where there was a situation where
+[1:16:24] everybody was banking on the internet
+[1:16:26] generating retail revenue and whatnot
+[1:16:29] and was investing into the development
+[1:16:31] of the internet and then it took like
+[1:16:33] three to five years longer than
+[1:16:34] everybody thought and there were tears
+[1:16:36] right and it was a big.com bust and
+[1:16:38] everybody lost their hope in the
+[1:16:39] internet and of course stock market
+[1:16:41] recovered and these companies came back
+[1:16:43] those that survived and uh the internet
+[1:16:46] became much more beautiful than anybody
+[1:16:47] ever anticipated and much more lucrative
+[1:16:49] and useful but still there was this time
+[1:16:52] in between when the individual companies
+[1:16:54] could not group their Investments and so
+[1:16:56] of course this is what you need to think
+[1:16:57] about as somebody who deploys a system
+[1:17:00] and what we see right now we want to
+[1:17:02] have system that are smaller we want to
+[1:17:04] have system that can be deployed on the
+[1:17:05] edge locally on user devices to unlock
+[1:17:08] all the application we want we cannot
+[1:17:09] send everything to a Big Data Center and
+[1:17:12] process it on a server farm and then get
+[1:17:14] it back we need to find systems that are
+[1:17:16] smaller and I think the llms are way too
+[1:17:18] big you're still using this because we
+[1:17:21] don't really know how to compress them
+[1:17:23] in the right way but
+[1:17:25] there is a certain thing that our own
+[1:17:26] mind can do that is similar to gen and
+[1:17:28] that is we basically in one step we
+[1:17:30] create an association and but we don't
+[1:17:33] stop there we take that Association we
+[1:17:35] criticize it we construct it we
+[1:17:37] iteratively go over associations to
+[1:17:39] improve them into the product in the llm
+[1:17:42] or the image generator is mostly using
+[1:17:43] one step and and this what it does in
+[1:17:47] one step this one step Association is
+[1:17:48] mind-blowing it's far beyond what a
+[1:17:50] human mind can do in one step in that if
+[1:17:53] that one step is layer
+[1:17:55] function and Implement neural network
+[1:17:58] right but uh we get our performance only
+[1:18:01] by going lots and lots of steps in very
+[1:18:03] clever ways and so I think there is
+[1:18:05] going to be a development in this
+[1:18:06] direction that we think about what's the
+[1:18:08] minimal engine that can do inference
+[1:18:10] maybe you don't want to have a model
+[1:18:11] that is trange on everything in the
+[1:18:13] internet maybe you just want to have
+[1:18:14] something that's like a very precocious
+[1:18:16] 12-year-old you compress it as much as
+[1:18:18] you can into a shape that is able to
+[1:18:20] understand the book and understand how
+[1:18:22] to reason from first principles so you
+[1:18:24] had such a epistemological engine a
+[1:18:26] thing that is able to take in data and
+[1:18:28] generate knowledge right ideally even a
+[1:18:31] canonical form so you can ex uh uh save
+[1:18:34] this knowledge and give it to another
+[1:18:35] model and that would be great to prepare
+[1:18:38] to a task you give it the library it
+[1:18:39] reads the library for that task it's not
+[1:18:41] going to take long right it's going to
+[1:18:43] be half an hour to putot up for this
+[1:18:45] task and then it translat this into a
+[1:18:47] knowledge base that you can also then
+[1:18:49] ship as a binary to other people if you
+[1:18:51] want to so this goes even faster but the
+[1:18:53] model itself how big is it going to be
+[1:18:55] we don't know at this point but I
+[1:18:57] suspect it's going to be much much
+[1:18:58] smaller than the present interesting
+[1:19:01] yeah I'm not sure if you remember that
+[1:19:02] paper by um uh M vinf it was the
+[1:19:06] neurocellular autometer and it was um
+[1:19:09] you know generating the gecko but what's
+[1:19:10] so interesting about that is it was two
+[1:19:12] incomplete because it had this iterative
+[1:19:15] component because we often I think last
+[1:19:16] time we spoke about how neuron networks
+[1:19:18] are a finite stage autometers they do a
+[1:19:20] fixed amount of computation per
+[1:19:21] iteration there's a lot of computation
+[1:19:23] that that that's out of bounds but if I
+[1:19:25] understand correctly you're you're
+[1:19:26] building a dramatically sparsified
+[1:19:28] smaller model that has this iterative
+[1:19:30] component and that creates this the
+[1:19:32] moment we're not doing that yet so at
+[1:19:34] the moment what we're doing is still we
+[1:19:35] are working to reproduce SOA using
+[1:19:37] models that are uh slightly smaller and
+[1:19:40] slightly more efficient for some
+[1:19:42] interesting value of slightly that is
+[1:19:43] economically interesting but uh what I
+[1:19:46] would be interested in the long run of
+[1:19:48] what the field is interested and when
+[1:19:49] you look at the field of AI research I
+[1:19:51] think will be ultimately what is the
+[1:19:53] smallest engine that is able to make
+[1:19:55] sense of the world when you're
+[1:19:56] confronted with data what is the
+[1:19:58] smallest thing that can bootstrap itself
+[1:20:00] efficiently into what you need it to be
+[1:20:02] and it's going to solve a lot of
+[1:20:04] problems because ultimately it's not
+[1:20:05] going to be tainted by copyrighted data
+[1:20:08] it's not going to put you stuff that you
+[1:20:09] don't want to have in your present
+[1:20:11] context it's going to be exactly focused
+[1:20:13] on the use case that you want it to be
+[1:20:15] and it's going to be more much more
+[1:20:16] modular and useful and so if you could
+[1:20:19] get there that would be great uh it's
+[1:20:21] very difficult to make a system that is
+[1:20:23] not to incomplete it's we shouldn't
+[1:20:25] think of a neural network as a model of
+[1:20:27] a nervous system instead the neural
+[1:20:29] network is a function that is mapping
+[1:20:31] adjacent brain states to each other
+[1:20:33] right so the Transformer uh weird thing
+[1:20:35] is the brain state of the Transformer
+[1:20:37] that we're mapping it to and from is not
+[1:20:40] this intermediate representation that
+[1:20:41] our brain is using instead it's text so
+[1:20:44] imagine you would need to translate your
+[1:20:45] working memory into text and then the
+[1:20:48] next brain state is computed by taking
+[1:20:50] that text and translating it again into
+[1:20:53] a mental representation that that
+[1:20:54] simulates the contents of what you're
+[1:20:56] writing in the text and then going back
+[1:20:58] down that's obviously not very efficient
+[1:21:00] and it's also very lossy because not all
+[1:21:02] of your thoughts can be very well
+[1:21:03] translated in the text and it's going to
+[1:21:05] limit your performance so instead what
+[1:21:07] you want to have is you want to
+[1:21:08] represent your thoughts so for inst and
+[1:21:11] your ideas and the state of your working
+[1:21:13] memory and I noticed when I'm thinking I
+[1:21:16] have been thinking so much in English
+[1:21:17] and German that I no longer think in any
+[1:21:19] of those languages I feel it's more like
+[1:21:22] I think into in a conceptual language
+[1:21:24] that is some kind of sub token embedding
+[1:21:25] so to speak and then only translate it
+[1:21:27] into English or German when somebody
+[1:21:29] wants to download it into a podcast or
+[1:21:32] into a conversation and so I observe my
+[1:21:34] this module model as working from the
+[1:21:36] outside I basically feed a string of sub
+[1:21:39] toen embeddings into my language
+[1:21:41] generator and the language generator is
+[1:21:42] a tool that doesn't require a lot of
+[1:21:44] attention and relatively quickly parses
+[1:21:47] this into a format of string of theet
+[1:21:49] symbols that you hopefully understand
+[1:21:52] right and so can we do this with the llm
+[1:21:54] there are move uh things happening in in
+[1:21:57] the research in in large companies right
+[1:21:59] now where people are making this much
+[1:22:00] more optimal by representing these
+[1:22:02] internal States and holding them and now
+[1:22:05] imagine we could turn these internal
+[1:22:06] states of the LM into a canonical form
+[1:22:09] so we actually understand what they mean
+[1:22:11] and we can use them to manipulate
+[1:22:13] knowledge in that in a way that is
+[1:22:15] similar to manipulating knowledge on
+[1:22:17] language maybe just a little bit more
+[1:22:18] regular but it's also can be used to
+[1:22:21] manipulate geometry or abstractions over
+[1:22:23] programming code or C structure in
+[1:22:25] general and I think that there are
+[1:22:27] amazing breakthroughs that are waiting
+[1:22:28] and these breakthroughs are unrelated to
+[1:22:31] the way in which we currently think
+[1:22:32] about scaling or applications of llms or
+[1:22:35] the alignment debates or whatever it's
+[1:22:38] there is going to be really exciting
+[1:22:40] research and I feel sometimes people are
+[1:22:43] have the wrong um expectation personally
+[1:22:46] I am amazed by everything that AI is
+[1:22:48] doing and my mind gets blown every week
+[1:22:50] but it's also I don't expect AI to
+[1:22:54] perform at the human level I expect AI
+[1:22:57] to solve problems that AI couldn't solve
+[1:22:59] a year ago or two years ago or 10 years
+[1:23:02] ago and that we thought would be
+[1:23:04] incredibly hard to solve and we now see
+[1:23:06] that they can do these things and so I
+[1:23:08] am I'm quite optimistic about a I is
+[1:23:10] doing and I don't see obvious
+[1:23:12] limitations of what the staff is doing
+[1:23:14] but I also see lots and lots of
+[1:23:15] difficulties to realize that so I have
+[1:23:17] no proof that a given approach cannot do
+[1:23:19] a certain thing and like Gary Marcus who
+[1:23:21] seems to have that proofs uh these
+[1:23:23] proofs I I'm uh seeing opportunities to
+[1:23:26] do things but I also don't have a
+[1:23:28] certainty that we're going to have ai
+[1:23:30] next week but we also know there could
+[1:23:33] be maybe it's just one paper away but we
+[1:23:35] really don't know it's just just by
+[1:23:38] scaling up we can predict how long that
+[1:23:40] approach is going to get to a certain
+[1:23:42] level not clear if it goes beyond that
+[1:23:45] but what is the next breakthrough that's
+[1:23:47] very difficult to anticipate before we
+[1:23:49] get there yes and Gary will be sitting
+[1:23:50] in your chair on on Saturday uh morning
+[1:23:53] but um you know one school of thought
+[1:23:55] though is that we just need to scale
+[1:23:57] language models and I think that I
+[1:23:59] really deeply respect people who are
+[1:24:01] willing to go out and say something
+[1:24:02] wrong in public that's very rare and
+[1:24:05] basically a lot of people prefer to play
+[1:24:07] it safe because credibility is a
+[1:24:10] currency that is easy to lose and so
+[1:24:12] when you are saying things that don't
+[1:24:14] come true like when you are saying to
+[1:24:16] machine learning researchers uh deep
+[1:24:18] learning is hitting a wall and deep
+[1:24:20] learning is doing no such thing you lose
+[1:24:21] all credibility especially if you do not
+[1:24:23] error correct
+[1:24:24] right that's different if you talk to
+[1:24:26] people in New York Times who hate AI for
+[1:24:28] political reasons and you tell them what
+[1:24:30] they want to hear then they you're going
+[1:24:32] to make you popular but it's going to
+[1:24:33] kill even more of your credibility among
+[1:24:35] the people who actually build stuff but
+[1:24:37] fris is not like that fris is somebody
+[1:24:39] who is uh very arrogant in its beautiful
+[1:24:42] French intellectual way going all in and
+[1:24:45] saying uh intelligence is gender
+[1:24:47] realization ability and it is all there
+[1:24:49] is and uh shows that the LMS cannot do
+[1:24:52] this and it's a really bold uh
+[1:24:54] prediction that he's making and uh I
+[1:24:56] think he will be very happy if somebody
+[1:24:58] is going to build an llm that solves the
+[1:25:00] arc Challenge and is happy to eat his
+[1:25:02] head and he is going to stir uh people
+[1:25:05] uh into uh talking back to him and and
+[1:25:08] trying to find a solution so he really
+[1:25:10] has skin in the game and he puts his
+[1:25:11] head in the ring by saying here is a
+[1:25:13] challenge this is a problem I think that
+[1:25:15] you cannot solve go ahead try solving it
+[1:25:17] and prove me wrong and this is something
+[1:25:19] that I deeply respect and it's he's one
+[1:25:22] of those people who comes out with bold
+[1:25:23] predictions
+[1:25:24] and uh the but he makes these prediction
+[1:25:27] in a way that is challenging people to
+[1:25:29] go out and uh and show him in which way
+[1:25:32] he was right and wrong right and he is
+[1:25:34] extremely smart so his predictions are
+[1:25:36] pretty good and interesting and people
+[1:25:37] are paying attention but uh basically
+[1:25:40] just making predictions in one way that
+[1:25:42] are not looking at the alternatives to
+[1:25:44] your prediction and not making an actual
+[1:25:46] argument that is uh that would
+[1:25:48] invalidate what you're saying or
+[1:25:50] retracting when you have been proven
+[1:25:52] wrong that is I think counterproductive
+[1:25:54] I mean I asked I asked frire this
+[1:25:56] morning whether he was worried because
+[1:25:59] you know he's got he's got a lot to lose
+[1:26:00] if someone trivially beats the arc
+[1:26:02] challenge with a large language model
+[1:26:04] that would be quite scary but just in in
+[1:26:05] defense of Gary though um I've just read
+[1:26:07] his new book and he's he's advoca mean
+[1:26:10] obviously there's the whole reliability
+[1:26:11] thing and it's not reasoning and all the
+[1:26:13] rest of it let's leave that to one side
+[1:26:14] but he's also making the um the
+[1:26:16] safetyism case he's saying cigarettes
+[1:26:18] were bad social media is bad the future
+[1:26:20] eludes us this could be very very
+[1:26:22] harmful we should be thinking about it I
+[1:26:24] mean that seems reasonable to me I'm not
+[1:26:27] quite sure I think that AI is a
+[1:26:29] technology that solves Problems by
+[1:26:30] giving us better models and this is
+[1:26:33] ultimately what it is and the way in
+[1:26:35] which you deal with a bad guy with AI is
+[1:26:37] 10 good people with an AI and there's
+[1:26:39] always more value in creation than in
+[1:26:42] destruction more value in corporation
+[1:26:44] than infection and you live in a world
+[1:26:46] that is uh optimizing these benefits
+[1:26:49] that are gring and so we can put our
+[1:26:51] attention on the things that for
+[1:26:53] instance the internet has made worse and
+[1:26:55] what we are forgetting is that what the
+[1:26:58]  it did um sorry media get a a few
+[1:27:01] years ago because nobody was able to
+[1:27:03] check up on it right uh government
+[1:27:06] conspiracies today are really difficult
+[1:27:08] to make because there are so many back
+[1:27:10] channels so many outlets nobody is
+[1:27:12] keeping their mouth shut it's basically
+[1:27:13] we have so much information available we
+[1:27:15] we can actually do fact checking and so
+[1:27:18] what is happening is a slightly
+[1:27:19] different thing we have a government
+[1:27:21] that is used to something like the
+[1:27:24] financial industry being a arm of the
+[1:27:25] government and controlling every
+[1:27:27] transaction and monitoring every
+[1:27:29] transaction and so on and this is
+[1:27:31] arguably in many ways useful as long as
+[1:27:33] you trust your government right but uh
+[1:27:35] we also realize that our government
+[1:27:37] doesn't have perfect incentives so there
+[1:27:39] is a certain degree to which you do not
+[1:27:41] trust your government and so we
+[1:27:43] typically agree the government should
+[1:27:44] not have all the data it should not have
+[1:27:46] all the control it shouldn't have full
+[1:27:47] control of public opinion who is the one
+[1:27:50] who's controlling the government is this
+[1:27:51] the media well yes we just the media to
+[1:27:54] the degree that the media is not also
+[1:27:56] such such a homogenous cluster that is
+[1:27:58] aligned with the government and uh if
+[1:28:01] that is happening for instance in
+[1:28:02] Eastern Germany the media and the
+[1:28:03] government were pretty much the same
+[1:28:05] thing right and in a country like this
+[1:28:09] where uh the media is basically all the
+[1:28:12] mainstream media seems to be aligned
+[1:28:13] with one political party people who
+[1:28:16] disagree with the policies of that one
+[1:28:17] political party regardless of their
+[1:28:19] party is good or not might have a reason
+[1:28:21] to fear a world where all the public
+[1:28:24] publicly available information is gate
+[1:28:25] capped by that media that is partisan
+[1:28:28] and so what you find is that a lot of
+[1:28:30] the attempts to control the content of
+[1:28:31] social media factchecking and so on uh
+[1:28:34] election Integrity are partisan they're
+[1:28:36] directed directly on one particular
+[1:28:39] party and could be that this is actually
+[1:28:41] happens to be the good party right like
+[1:28:42] in China we have only one good party and
+[1:28:45] so you don't need a second party maybe
+[1:28:47] we want that right maybe we realized
+[1:28:49] that to save democracy we should skip
+[1:28:51] the next election to make sure that
+[1:28:52] nothing end dangerous in democracy but
+[1:28:54] it's a very touchy issue maybe we need
+[1:28:56] to design democracy in such a way that's
+[1:28:58] robust maybe we already have that
+[1:29:00] democracy and a lot of the fear that we
+[1:29:02] have is the result of incentives of
+[1:29:04] media and so if the government feels
+[1:29:07] that media should be an arm of the
+[1:29:09] government and that social media should
+[1:29:10] be on arm of the government I think um
+[1:29:13] government might feel we sent uh a list
+[1:29:17] of accounts to social media platforms
+[1:29:19] that we want to get deleted because they
+[1:29:20] have opinions that we don't like right
+[1:29:23] maybe there is somebody who says that Co
+[1:29:26] comes from a lab right maybe it does
+[1:29:29] maybe it doesn't but it would be really
+[1:29:31] really bad if somebody said so because
+[1:29:32] it would jeopardize trust in science and
+[1:29:34] if trust in science is jeopardized maybe
+[1:29:37] Society can no longer function as well
+[1:29:39] and maybe it's necessary for us to
+[1:29:41] memory hold the idea that yesterday we
+[1:29:43] thought that M don't help and today we
+[1:29:45] think it does and maybe we need to
+[1:29:47] memory hold the idea that there was no
+[1:29:49] way that Co emerged on lab and now we
+[1:29:50] think it's quite possible and quite
+[1:29:52] likely and so this is very weird to
+[1:29:54] situation the control of information and
+[1:29:56] so I'm I feel very uncomfortable with
+[1:29:59] this idea saying social media is bad
+[1:30:01] because as somebody who grew up in
+[1:30:03] Social Eastern Germany we didn't have
+[1:30:05] social media and social media is the
+[1:30:07] only way in which you can form opinions
+[1:30:09] outside of the government and the reason
+[1:30:11] why I believe in this wam project is
+[1:30:13] this idea that we believe in a certain
+[1:30:15] human aesthetic and the core of this
+[1:30:18] aesthetic is that in order to be free
+[1:30:21] individuals that are not oppressed in
+[1:30:22] any way that are not in slaved by others
+[1:30:25] we need to be able to communicate about
+[1:30:28] ideas non-violently and so this freedom
+[1:30:30] of speech is absolutely at the core of
+[1:30:32] our democracy and currently we have a
+[1:30:35] group of people who are very influential
+[1:30:36] who do not believe in this freedom of
+[1:30:38] speech they may or may not be correct
+[1:30:41] and they think they should be completely
+[1:30:42] free to make their case and have better
+[1:30:44] arguments but they should not stop me
+[1:30:46] from making counter
+[1:30:48] arguments and I'm I'm really worried
+[1:30:51] about the consequences because it seems
+[1:30:53] to be obvious that as soon as one site
+[1:30:54] is able to limit speech they can
+[1:30:57] Implement arbitrary opinions that might
+[1:30:59] be against the interests of the majority
+[1:31:01] and everything that's good in the world
+[1:31:03] and with an Insight that would at one
+[1:31:04] point was completely clear to everybody
+[1:31:06] in society and now it's less clear so I
+[1:31:10] I'm much more in favor of preparing
+[1:31:13] social media social media seems to have
+[1:31:14] the wrong incentives largely it's a very
+[1:31:16] unpleasant experience but I don't think
+[1:31:18] it's the result of freedom of speech I
+[1:31:20] think it's the result of social media
+[1:31:22] being badly designed yeah I mean I I
+[1:31:24] agree that we need freedom of speech and
+[1:31:25] and pluralism of of ideas yeah but I
+[1:31:28] mean Kenneth Stanley actually set up his
+[1:31:29] own social network because he was
+[1:31:31] worried about the um the objective likes
+[1:31:34] kind of you know um distorting the
+[1:31:36] system Chomsky spoke about manufacturing
+[1:31:38] consent yes which is that even in in a
+[1:31:40] in a free Society you know um the the
+[1:31:42] information is is very distorted so we
+[1:31:44] think that we're free and we're
+[1:31:45] selecting information and we're thinking
+[1:31:47] but but actually we're not so how do we
+[1:31:49] overcome this I mean look at AI
+[1:31:51] regulation for example we need to have
+[1:31:53] expertise we need to have people in the
+[1:31:54] government that actually understand what
+[1:31:56] they're talking about and are making
+[1:31:58] informed decisions because we don't
+[1:32:00] really know that much about this
+[1:32:01] technology as a as a home but you also
+[1:32:03] need to have Regulators who are
+[1:32:05] incentivized to regulate in the right
+[1:32:07] way and there are different incentives
+[1:32:10] that exist at the moment it seems that
+[1:32:13] we live in a society that has some kind
+[1:32:15] of entropy with respect to its public
+[1:32:17] institutions its ability to produce
+[1:32:19] goods and services so somehow goods and
+[1:32:22] services seem to be hollowed out over
+[1:32:24] time they become more efficient which
+[1:32:25] means they get reduced to a minimum
+[1:32:27] viable product but they don't
+[1:32:28] necessarily become cheaper right so it's
+[1:32:31] basically in many areas where you don't
+[1:32:33] have an effective Innovation anymore the
+[1:32:36] kindness we arguably have that but maybe
+[1:32:38] with uh the doors in your house you
+[1:32:40] don't have uh some region basically
+[1:32:43] Improvement stops and things are just
+[1:32:44] getting more sloppy every year and worse
+[1:32:47] and so our society depends on Innovation
+[1:32:50] to maintain a certain level because
+[1:32:52] otherwise it rots basically Innovation
+[1:32:54] needs to outpace the rod in the other
+[1:32:56] areas and the main area where we're
+[1:32:58] currently innovating is AI there's
+[1:33:00] almost no area where we're still
+[1:33:02] innovating at scale and uh everything
+[1:33:04] else seems to be more about
+[1:33:06] redistribution of goods and services
+[1:33:08] that are increasingly no longer produced
+[1:33:10] here but financialized and this creates
+[1:33:13] uh I think a very brittle society that
+[1:33:15] ultimately will make us poor and so I
+[1:33:19] think it's very important to maintain
+[1:33:21] that Innovation but from the perspective
+[1:33:23] of the those who compete with the
+[1:33:24] Innovation if say you are a professional
+[1:33:26] prompt completer your job is to write
+[1:33:29] opinion pieces that are completely
+[1:33:30] predictable you will get a prompt and
+[1:33:32] everybody knows what you will be saying
+[1:33:34] right arguably I think that's what Gary
+[1:33:37] Marcus AI criticism is doing because I
+[1:33:39] have not seen tring anything that could
+[1:33:41] not be predicted by gpt3 and it's a big
+[1:33:43] issue that I have is there because it's
+[1:33:45] not really original it is slop it's a
+[1:33:47] model train on its own output and uh
+[1:33:50] there is part of the society that is SLO
+[1:33:52] because it's just a model trained on own
+[1:33:54] output it's no longer
+[1:33:55] innovating how can we uh these people
+[1:33:58] compete with something that is
+[1:33:59] innovating they will try to regulate it
+[1:34:01] out of existence so there is a part of
+[1:34:03] our society that basically wants to have
+[1:34:05] something like an AI FDA and if you want
+[1:34:08] to deploy a new model any kind of say
+[1:34:11] want to update GPT um maybe you need to
+[1:34:14] get it to the FD AI FDA first and the a
+[1:34:17] FDA will take only six months to test
+[1:34:20] and would take a pretty large fee and
+[1:34:22] maybe a few million dollars and uh there
+[1:34:24] will be no open source models and you
+[1:34:26] cannot import the model from abroad to
+[1:34:28] use it and maybe make sure that the
+[1:34:30] internet is no longer allowing that and
+[1:34:32] we ask the internet providers to make
+[1:34:34] sure that this doesn't happen right and
+[1:34:37] you end up with having four large AI
+[1:34:39] companies that are able to pay for the
+[1:34:41] fees and it's going to be similar to the
+[1:34:43] way in which Pharmaceuticals are going
+[1:34:44] to be produced and it's clear that uh
+[1:34:46] that might be inter interest of the four
+[1:34:49] large AI companies and the interest of
+[1:34:51] regulators and in the interest of people
+[1:34:53] who don't want AI because maybe they're
+[1:34:55] afraid of being turned into paper clips
+[1:34:56] and this is one part of The Regulators
+[1:34:58] are actually the doomers a doomday card
+[1:35:00] that is terrified because they listened
+[1:35:02] very closely to Eliz Kowski and thought
+[1:35:04] that's true what he's saying and on the
+[1:35:06] other hand there are people who just
+[1:35:07] don't want their industry disrupted or
+[1:35:09] they want to have political control over
+[1:35:10] the output of
+[1:35:12] LMS I agree with you I mean but Gary
+[1:35:14] does talk about the risk of regulatory
+[1:35:16] capture but um I mean in his book he he
+[1:35:19] um you know quoted Mark Zuckerberg you
+[1:35:21] know they they said move fast and break
+[1:35:23] things and we had the PayPal story so it
+[1:35:25] started off there were no fees and it
+[1:35:27] was wonderful and they actually paid you
+[1:35:28] to use it and now they exploit you same
+[1:35:30] thing with um with Netflix um Uber for
+[1:35:33] example we're not a we're not a taxi
+[1:35:35] company so he's kind of saying that when
+[1:35:37] when you let technology and go into a
+[1:35:39] sector they kind of they modify things
+[1:35:42] so that none of the rules apply to them
+[1:35:44] and even if they have the best of
+[1:35:45] intentions it kind of causes harm after
+[1:35:47] a while and yes indeed the regulations
+[1:35:50] we've got now are completely broken that
+[1:35:52] they just don't limiting the number of
+[1:35:54] flops on on on a model is ridiculous or
+[1:35:57] I I don't see how Uber has made the
+[1:35:59] world worse Uber has created
+[1:36:01] transportation for people that didn't
+[1:36:02] have transportation before there are
+[1:36:04] regions in uh specific cities where
+[1:36:07] taxis just don't go and there they don't
+[1:36:10] have public transport and Uber has
+[1:36:12] resolved that situation by creating a
+[1:36:14] market between drivers and people who
+[1:36:16] want to be driven and uh that market is
+[1:36:18] working it also create a lot of
+[1:36:20] employment and before we had a situation
+[1:36:22] that the number of taxi caps was uh
+[1:36:25] controlled with the central regulation
+[1:36:26] you had these medallions you could
+[1:36:27] inherit or Buy and they were extremely
+[1:36:30] expensive and they created friction in
+[1:36:32] the market and this friction in the
+[1:36:33] market was actually not beneficial uh
+[1:36:36] for me it was fascinating when Uber came
+[1:36:38] up and this how this rating system
+[1:36:40] worked in the car that basically you
+[1:36:42] could when an Uber came you could reli
+[1:36:44] on the car being clean and the driver
+[1:36:46] being nice whereas if I took a taxi C in
+[1:36:49] Boston the car was dirty and the driver
+[1:36:51] tried to cheat you and driver often
+[1:36:54] didn't know where to go and you had to
+[1:36:55] tell them with Google Maps where to go
+[1:36:57] and so on that that was really for me
+[1:36:59] interesting when I came to the US and
+[1:37:00] realized okay there is this free market
+[1:37:02] thing that is innovative and that is
+[1:37:05] doing things and I asked people how do
+[1:37:06] you live off Uber do you make a lot of
+[1:37:08] money and I say no but I didn't have a
+[1:37:09] job before and it gives me a way to earn
+[1:37:12] money and it's uh regulating depending
+[1:37:14] on how many people need that service so
+[1:37:17] I believe that is a good thing I think
+[1:37:18] that technology by and large is a Force
+[1:37:20] for good and it's something that certain
+[1:37:22] regions of of our society people who are
+[1:37:26] mostly depend on redistribution people
+[1:37:27] who are not productive but who are
+[1:37:30] mostly rent seeking who basically get
+[1:37:32] money not for doing some things but for
+[1:37:34] having opinions uh have opinions about
+[1:37:36] technology because they see it as a
+[1:37:38] competition but competition technology
+[1:37:40] allows us to make things more affordable
+[1:37:42] that before were unaffordable they
+[1:37:44] produce more goods and services that can
+[1:37:46] go around and they basically raise our
+[1:37:48] boat many of the things you say is true
+[1:37:50] I mean Uber for example they did this
+[1:37:52] gry ball thing where um they detected if
+[1:37:54] you were using the app and you were near
+[1:37:56] a police station or or a local Council
+[1:37:58] Office so they would say no cars
+[1:37:59] available so they couldn't um be
+[1:38:01] investigated in China they ordered they
+[1:38:04] they hired some hackers to get the IMEI
+[1:38:06] code of of the phone and they almost got
+[1:38:08] banned from from the App Store yes so
+[1:38:10] I'm totally in favor of controlling
+[1:38:12] criminal Behavior I also totally in
+[1:38:14] favor of regulating things that we don't
+[1:38:16] want as a society regulation is
+[1:38:17] necessary it's really important there's
+[1:38:19] also a lot of stuff that needs to be
+[1:38:21] regulated with respect to AI for
+[1:38:23] instance there is stuff going into the
+[1:38:25] training data that should be private and
+[1:38:27] uh that was not thought to be an issue
+[1:38:30] for instance say um a lot of medical
+[1:38:33] Publications are built on medical data
+[1:38:36] for which patients gave consent to be
+[1:38:37] used for medical research and the fact
+[1:38:40] that this went into medical uh journals
+[1:38:42] that were basically open access was not
+[1:38:44] a problem because nobody was reading
+[1:38:45] those journals outside of EX narrow
+[1:38:47] contexts but when these journals end up
+[1:38:50] legitimately legally in the public
+[1:38:52] domain and you legitimate legally
+[1:38:55] establish that you can train on public
+[1:38:56] domain training data Maybe suddenly
+[1:38:59] personally recognizable data end up in
+[1:39:01] an a model and nobody ever wanted that
+[1:39:03] and anticipated it and you need to
+[1:39:04] create rules around this and they need
+[1:39:06] to be fair and Equitable and create a
+[1:39:08] good outcome for everyone to the degree
+[1:39:10] that we can make it happen there's also
+[1:39:12] other stuff for instance I'm not in
+[1:39:14] favor of creating a tax on future
+[1:39:16] creation to reward past creators I think
+[1:39:19] the benefit for having something like
+[1:39:21] copyright is that we incentivize the
+[1:39:23] creat of important cultural artifacts
+[1:39:25] that otherwise wouldn't exist the Ben
+[1:39:27] the reason that copyright exists is not
+[1:39:29] that we limit creation that we diminish
+[1:39:31] the things that are in circulation and
+[1:39:33] so we need as Society think about this
+[1:39:36] conflict about incentives where some
+[1:39:38] people want to be paid and the interest
+[1:39:40] of society where we want stuff to be
+[1:39:42] created and so the question is how can
+[1:39:44] we make a society that makes us as rich
+[1:39:46] as possible and not just monetarily rich
+[1:39:49] but culturally Rich that gives us the
+[1:39:51] world that we want to be in and I think
+[1:39:53] that these Technologies are amazing for
+[1:39:55] that but we need to use them in the
+[1:39:57] right way and how can we regulate our
+[1:40:00] innovator a Regulators how can we
+[1:40:02] incentivize the people who set the
+[1:40:03] incentives and this is a very deep
+[1:40:06] question I hope that AI can also help us
+[1:40:08] understanding this modeling it but at
+[1:40:10] the moment we have forgotten about this
+[1:40:11] question in a way but but this is one of
+[1:40:13] the themes that that Gary talks about
+[1:40:15] though because yeah the the flouting the
+[1:40:16] copyright the open AI presented to the
+[1:40:19] House of Lords in the UK and they made
+[1:40:20] the case that um don't worry about us
+[1:40:22] flouting copyright because we as a
+[1:40:24] society need to have good AI so it kind
+[1:40:26] of makes sense and with Uber um they
+[1:40:29] lost you know the workers lost their
+[1:40:31] their protections and so on but the
+[1:40:33] thing is this is all about
+[1:40:34] conservativism and adaptation so of
+[1:40:37] course now when people see deep fakes on
+[1:40:39] Twitter they they just they don't take
+[1:40:41] it seriously because they don't trust
+[1:40:43] anything they see online and now people
+[1:40:45] know that we're moving into a regime
+[1:40:46] where copyright is being devalued and so
+[1:40:48] on but but there is something to be said
+[1:40:50] for maybe we should protect what we have
+[1:40:52] now and maybe change if it's too fast
+[1:40:54] can be harmful I think if a a capitalist
+[1:40:58] Society works well it is not going to
+[1:41:00] create a lot of profit in a time in a
+[1:41:02] given place for very long because what
+[1:41:04] the profit is representing is an
+[1:41:06] Arbitrage it basically means that you
+[1:41:09] are doing something that could be done
+[1:41:10] cheap more cheaply more efficiently and
+[1:41:12] so if you see uh something that has
+[1:41:14] increasing margins over a long time it
+[1:41:17] means that somebody else has to pay more
+[1:41:20] than they would have to right so the
+[1:41:22] idea that you
+[1:41:23] have cap drivers that exist as a
+[1:41:25] protected class and that are somewhat
+[1:41:28] dis engaged from how many drivers is
+[1:41:31] needed is is a problem because it also
+[1:41:33] means that people who actually need to
+[1:41:35] be driven around cannot be driven around
+[1:41:37] and that people that want to drive them
+[1:41:39] around are not allowed to drive them
+[1:41:40] around even if they're totally capable
+[1:41:42] to and that's that's a misallocation of
+[1:41:45] resources and so sometimes we need to
+[1:41:47] resolve such uh misallocation of
+[1:41:49] resources by removing regulation that
+[1:41:52] makes things worse we have this issue
+[1:41:54] that if you want to dig a new Subway
+[1:41:56] tunnel in New York you need the union
+[1:41:58] demands that you're paying people for
+[1:42:00] doing things that are no longer being
+[1:42:02] done in mod modern tunnel boring
+[1:42:03] machines so you have people that have uh
+[1:42:07] six digigit paid jobs that are not
+[1:42:10] actually doing anything just because we
+[1:42:11] have a regulation and as a result we
+[1:42:13] don't build new subway tunnels in New
+[1:42:15] York because it's way too expensive and
+[1:42:16] it's bad for everyone right so in many
+[1:42:19] ways we need to think about what
+[1:42:20] regulations do we build that have which
+[1:42:22] effect and copyright is a quite
+[1:42:24] complicated thing uh at the moment part
+[1:42:27] of the internet is an outrage because uh
+[1:42:30] Elon Musk has released an update to Gro
+[1:42:33] yes is AI that is able to generate
+[1:42:35] pictures yes that don't have the same
+[1:42:37] guard rails as other pictures so you're
+[1:42:40] now able to generate a picture of uh
+[1:42:44] Donald Trump with a machine gun flying
+[1:42:47] into the 911
+[1:42:49] skyscrapers and the outrage is
+[1:42:51] incredible it's people who just typed in
+[1:42:54] this prompt and uh say to Elon Musk what
+[1:42:56] an evil person are you see uh what you
+[1:42:59] made me do right it's hilarious it's
+[1:43:03] uh it's a really really interesting
+[1:43:05] situation and then people say oh my God
+[1:43:07] I noticed the same thing in my Apple 2
+[1:43:09] computer when I type in my Apple two
+[1:43:12] computer print eat more rocks it tells
+[1:43:16] me to eat more rocks which is really
+[1:43:18] really dangerous this should be
+[1:43:19] completely outlawed and so there is is
+[1:43:21] an issue here I think that in in one
+[1:43:23] side the AI generative AI is a brush it
+[1:43:26] allows you to paint things and
+[1:43:28] translates what you want to uh in what
+[1:43:31] you envision into a visual but by itself
+[1:43:34] is it's not a product it's a it's a tool
+[1:43:37] that allows you to produce a certain
+[1:43:38] content and I think that people are not
+[1:43:41] free to produce any kind of content in
+[1:43:43] any kind of given context it's not just
+[1:43:45] a matter of free speech there are
+[1:43:47] legitimate copyright interests there are
+[1:43:49] interests to not disrupt uh uh community
+[1:43:53] ities in legitimate things that they are
+[1:43:55] doing right there are label laws and
+[1:43:58] many other things so people are
+[1:44:00] responsible for the content that they're
+[1:44:02] producing using Photoshop or using a
+[1:44:04] text editor or using a paintbrush and in
+[1:44:07] the same way they are responsible for
+[1:44:08] the content that they're producing with
+[1:44:09] an llm and nobody was forcing that
+[1:44:12] person to produce a picture of uh Donald
+[1:44:15] Trump doing 9/11 right nobody was
+[1:44:18] thinking that Trump did 9/11 if that
+[1:44:20] person is producing a deep fake to
+[1:44:22] insinuate that Trump was doing 911 the
+[1:44:24] person might be already legally liable
+[1:44:26] we might not even need a new regulation
+[1:44:28] for this but if we want to impose a
+[1:44:30] regulation that prevents the AI from
+[1:44:32] producing this particular thing right
+[1:44:35] it's not going to have side effects and
+[1:44:36] these side effects are going to negate a
+[1:44:39] lot of the benefits that we can get from
+[1:44:40] that technology so if we are want for
+[1:44:43] have social media that only allow you to
+[1:44:45] say things that have been fact check
+[1:44:47] before most of the benefits of the
+[1:44:49] internet will no longer manifest and so
+[1:44:51] it's much better when we devel veloped
+[1:44:53] technology that deals with the drawbacks
+[1:44:55] of having more power having more freedom
+[1:44:57] having more productivity more Innovation
+[1:44:59] rather than preventing the innovation in
+[1:45:01] the first place yeah and I completely
+[1:45:03] agree that when you start regulating
+[1:45:05] things very quickly it explodes into a
+[1:45:07] bureaucracy and and I I can really see
+[1:45:10] where you're coming from yeah but there
+[1:45:11] are really people there that try to
+[1:45:12] eliminate not just freedom of speech but
+[1:45:15] also freedom of thought freedom of
+[1:45:16] imagination freedom to create certain
+[1:45:18] things and I find this very ugly and I
+[1:45:21] think we need to oppose it we need to
+[1:45:23] defend a certain idea and this idea I
+[1:45:25] think is the core of our society of a
+[1:45:28] world that works uh to free us that
+[1:45:31] allows us to take responsibility for
+[1:45:33] each other that allows us to discover
+[1:45:34] ethics allow us to coordinate by
+[1:45:37] autonomously recognizing what is that we
+[1:45:39] actually want and to do this I think we
+[1:45:41] need to be free this is not that that
+[1:45:43] there is some kind of grouop in the
+[1:45:45] University of enlightened 20 year olds
+[1:45:47] that have their preferred ideology and
+[1:45:49] can impose it on Everybody by
+[1:45:50] controlling what can be printed in
+[1:45:52] social media or what can be generated by
+[1:45:54] AI this doesn't mean that there is no
+[1:45:56] problem with AI that there are no
+[1:45:58] difficulties that we need to figure out
+[1:45:59] how to solve over with social media but
+[1:46:01] we need to be very mindful what is the
+[1:46:04] idea of a society that we want to live
+[1:46:06] on while we impose these regulations but
+[1:46:08] but isn't our freedom to book an Uber
+[1:46:11] the drivers kind of prison I mean there
+[1:46:13] are examples of drivers committing
+[1:46:14] suicide and stuff like that you know is
+[1:46:16] isn't it something that we really need
+[1:46:18] to think about what the cons are um you
+[1:46:20] know for our freedom so you mean it's
+[1:46:22] better if uh people are not allowed to
+[1:46:24] drive an
+[1:46:25] Uber I mean under which conditions
+[1:46:27] should the government stop in to prevent
+[1:46:29] two people from making contract with
+[1:46:31] each other this is I think an
+[1:46:33] interesting question right is it
+[1:46:35] actually beneficial when you have a
+[1:46:37] government that is able to uh regulate
+[1:46:39] every contract especially if this uh
+[1:46:41] government is captured by existing
+[1:46:44] industries that prevent you from making
+[1:46:46] contracts because they want to make more
+[1:46:49] profits I think that the taxi industry
+[1:46:52] is an extremely good example you have
+[1:46:53] basically an organized industry that is
+[1:46:56] have has a regulated profit while
+[1:46:58] providing a suboptimal service and it
+[1:47:01] maintains that Advantage by preventing
+[1:47:04] competition uh there are reasonable
+[1:47:06] people that have good reason to believe
+[1:47:08] that both sides are capable and safe and
+[1:47:10] sound and well intentioned and they want
+[1:47:12] to make that contract they're not
+[1:47:13] allowed to what how do you justify that
+[1:47:16] and that I think that's the main
+[1:47:18] issue interesting let's move on a tiny
+[1:47:22] bit what what are your thoughts on the
+[1:47:23] um the AI um startup ecosystem and and
+[1:47:26] llm companies in
+[1:47:29] particular I think that the majority of
+[1:47:32] the companies that exist in this
+[1:47:33] ecosystem are um building
+[1:47:36] applications and these applications
+[1:47:38] basically use the benefits that are
+[1:47:40] provided by having generative Ai and
+[1:47:43] turn them into value and it's a often
+[1:47:46] possible to do this with relatively
+[1:47:48] little investment so a lot of these
+[1:47:50] startups uh that can now come into
+[1:47:52] existence are people that use the
+[1:47:53] benefits of LM for instance to
+[1:47:55] autogenerate websites to autogenerate
+[1:47:57] functionality of databases and you're
+[1:47:59] just at the beginning of this where the
+[1:48:00] llm is no longer an agent but software
+[1:48:03] on environment or an larger application
+[1:48:05] that is dynamically changing its shape
+[1:48:07] in interaction with the user so I think
+[1:48:09] we're standing at the beginning of an
+[1:48:11] explosion of services that people can
+[1:48:13] provide and basically give rise to a lot
+[1:48:16] of value that is going to be created and
+[1:48:18] then it's a handful of companies that
+[1:48:20] are developing the technology at scale
+[1:48:23] that was devising uh these new frontier
+[1:48:25] models and there is an issue with these
+[1:48:27] Frontier models because if you build the
+[1:48:29] leading model then this thing is going
+[1:48:31] to be valuable until somebody makes the
+[1:48:33] a next model that is slightly better
+[1:48:35] than yours so the cost that you build
+[1:48:38] into training this model is going to be
+[1:48:39] sunk in that moment that's pretty
+[1:48:41] interesting situation because not
+[1:48:43] everybody is able to absorb that hit
+[1:48:45] right it's not like you're building an
+[1:48:47] airplane and uh you are deploying that
+[1:48:49] airplane and somebody builds a slightly
+[1:48:51] better airplane and your airplane
+[1:48:53] suddenly is worse zero it's still a
+[1:48:54] useful airplane right but the LM because
+[1:48:57] a software that you can just just put in
+[1:49:00] the update into the server Farm of
+[1:49:02] course you should always be using the
+[1:49:03] most recent version to create value it's
+[1:49:05] not like there is a lot of value by
+[1:49:07] using last year's version because you
+[1:49:08] still amorti it so this is the question
+[1:49:12] who can absorb these losses and this
+[1:49:13] means these need to be research Labs
+[1:49:16] that are mostly driven on producing
+[1:49:19] value by making Innovation and they
+[1:49:21] either need to have extremely good
+[1:49:22] Business Development to produce revenue
+[1:49:25] for customers that need particular
+[1:49:27] models for particular applications that
+[1:49:29] cannot be easily updated that easily or
+[1:49:32] quite SLE trajectories or they need to
+[1:49:35] be affiliated with other companies like
+[1:49:38] uh companies that build operating
+[1:49:39] systems or that uh build Logistics uh
+[1:49:42] applications and so on and that produce
+[1:49:44] a lot of money and can basically fund
+[1:49:46] the development of new AI technology on
+[1:49:49] the site yeah it's interesting I mean
+[1:49:51] what's your prediction about something
+[1:49:52] like um mistal so at liquid you have a
+[1:49:55] clear Mo you've got a technology that
+[1:49:57] that no one else has has done yet yes um
+[1:50:00] what about
+[1:50:01] mistro I think that uh if when you're
+[1:50:03] Building open source models in a way in
+[1:50:06] a similar situation as people who build
+[1:50:08] open source websites or open source
+[1:50:10] languages or open source software
+[1:50:12] development Frameworks or libraries what
+[1:50:14] you are creating is an ecosystem in
+[1:50:16] which more people will be able to
+[1:50:18] survive including yourself so you're
+[1:50:20] developing something that doesn't exist
+[1:50:22] today
+[1:50:23] and by for instance deploying the stable
+[1:50:25] diffusion models a lot of people got the
+[1:50:26] opportunity to develop Innovations for
+[1:50:29] um generative AI then existed before and
+[1:50:32] it created an extremely large ecosystem
+[1:50:34] of people that then would start
+[1:50:36] companies and come up with ideas so I
+[1:50:38] think these Investments are extremely
+[1:50:40] valuable and they should be encouraged
+[1:50:41] and rewarded and they often are but also
+[1:50:44] I understand totally when Mr at some
+[1:50:46] point says no now now we're going close
+[1:50:48] Source because we need a way to
+[1:50:50] capitalize on this and we don't see how
+[1:50:52] to to do this in in the present case I'm
+[1:50:55] extremely grateful that these historical
+[1:50:57] accidents like meta exist I think what
+[1:51:00] happened that Mark Zuckerberg uh had
+[1:51:03] enough money in the bank and thought
+[1:51:04] about how to get social media on the
+[1:51:06] next level and thought it's going to be
+[1:51:08] uh VR and then invested into a large
+[1:51:11] server Farm to do VR and then realized
+[1:51:14] that VR is not yet realizable in the
+[1:51:16] present form or it's going to go in a
+[1:51:18] slightly different direction and
+[1:51:20] suddenly had a lot of servers and then
+[1:51:21] thought oh what do we do with all the
+[1:51:23] gpus let's train train a few models and
+[1:51:26] make them publicly available and I I'm
+[1:51:28] very grateful for that happening because
+[1:51:30] it is creating a Baseline and a tool
+[1:51:32] that other companies can build on and
+[1:51:34] innovate on and uh develop new ideas
+[1:51:37] that are also feeding back into the
+[1:51:38] frontier Labs so I think that despite
+[1:51:41] people locally uh looking in despair or
+[1:51:44] being worried also from the perspective
+[1:51:46] of somebody who's interested in AI
+[1:51:48] itself and on the effect of these things
+[1:51:50] on the ecosystem I'm grateful that these
+[1:51:52] things
+[1:51:53] yeah it's interesting I read in Gary's
+[1:51:54] book that apparently Zuckerberg did it
+[1:51:56] because nobody in the valley wanted to
+[1:51:57] work for meta so um they they had to
+[1:52:00] have some exciting projects just just to
+[1:52:01] hire people in I uh have visited the
+[1:52:04] Facebook offices from time to time and
+[1:52:06] they were quite empty but I think it's
+[1:52:08] because of the pandemic it's not that
+[1:52:10] meta has any problem to rec Talent meta
+[1:52:13] is very profitable and it is a a
+[1:52:16] workplace that most people like to work
+[1:52:17] in and so I think then when Gary Marcus
+[1:52:20] says such a thing and not sure how what
+[1:52:22] is this based on does he have any kind
+[1:52:24] of Statistics that show that meta has
+[1:52:27] difficulty to find candidates I don't
+[1:52:29] think that's the case I must admit I was
+[1:52:31] surprised because I I would love to work
+[1:52:32] at at meta but um yeah that's very
+[1:52:36] interesting anyway I think we've run out
+[1:52:38] of time so yosa it's been an absolute
+[1:52:41] honor and a pleasure thank you so much
+[1:52:42] for coming guys I enjoyed this very much
+[1:52:44] amazing wonderful

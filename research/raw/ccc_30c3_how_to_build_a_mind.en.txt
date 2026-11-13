@@ -1,0 +1,331 @@
+*silent 3C3 preroll titles* *applause* Thank you. I’m Joscha. I came into doing AI the traditional way. I found it a very interesting subject. Actually, the
+most interesting there is. So I studied Philosophy and Computer Science, and did my Ph.D. in Cognitive Science. And I’d say this is probably a very normal
+trajectory in that field. And today I just want to ask with you five questions and give very very short and superficial answers to them. And my main goal is to
+get as many of you engaged in this subject as possible. Because I think that’s what you should do. You should all do AI. Maybe. Okay. And these simple questions
+are: “Why should we build AI?” in first place, then, "How can we build AI? How is it possible at all that AI can succeed in its goal?". Then “When is it going
+to happen?”, if ever. "What are the necessary ingredients?", what do we need to put together to get AI to work? And: “Where should you start?” Okay. Let’s get
+to it. So: “Why should we do AI?” I think we shouldn’t do AI just to do cool applications. There is merit in applications like autonomous cars and so on and
+soccer-playing robots and new control for quadcopter and machine learning.It’s very productive. It’s intellectually challenging. But the most interesting
+question there is, I think for all of our cultural history, is “How does the mind work?” “What is the mind?” “What constitutes being a mind?” “What does it…
+what makes us human?” “What makes us intelligent, percepting, conscious thinking?” And I think that the answer to this very very important question, which spans
+a discourse over thousands of years has to be given in the framework of artificial intelligence within computer science. Why is that the case? Well, the goal
+here is to understand the mind by building a theory that we can actually test. And it’s quite similar to physics. We’ve built theories that we can express in a
+formal language, to a very high degree of detail. And if we have expressed it to the last bit of detail it means we can simulate it and run it and test it this
+way. And only computer science has the right tools for doing that. Philosophy for instance, basically, is left with no tools at all, because whenever a
+philosopher developed tools he got a real job in a real department. [clapping] Now I don’t want to diminish philosophers of mind in any way. Daniel Dennett has
+said that philosophy of mind has come a long way during the last hundred years. It didn’t do so on its own though. Kicking and screaming, dragged by the other
+sciences. But it doesn’t mean that all philosophy of mind is inherently bad. I mean, many of my friends are philosophers of mind. I just mean, they don’t have
+tools to develop and test complex series. And we as computer scientists we do. Neuroscience works at the wrong level. Neuroscience basically looks at a possible
+implementation and the details of that implementation. It doesn’t look at what it means to be a mind. It looks at what it means to be a neuron or a brain or how
+interaction between neurons is facilitated. It’s a little bit like looking at aerodynamics and doing ontology to do that. So you might be looking at birds. You
+might be looking at feathers. You might be looking at feathers through an electron microscope. And you see lots and lots of very interesting and very complex
+detail. And you might be recreating something. And it might turn out to be a penguin eventually—if you’re not lucky—but it might be the wrong level. Maybe you
+want to look at a more abstract level. At something like aerodynamics. And what’s the level of aerodynamics of the mind. I think, we come to that, it’s
+information processing. Then normally you could think that psychology would be the right science to look at what the mind does and what the mind is. And
+unfortunately psychology had an accident along the way. At the beginning of [the] last century Wilhelm Wundt and Fechner and Helmholtz did very beautiful
+experiments. Very nice psychology, very nice theories. On what emotion is, what volition is. How mental representations could work and so on. And pretty much at
+the same time, or briefly after that we had psycho analysis. And psycho analysis is not a natural science, but it’s a hermeneutic science. You cannot disprove
+it scientifically. What happens in there. And when positivism came up, in the other sciences, many psychologists got together and said: „We have to become a
+real science“. So you have to go away from the stories of psychoanalysis and go to a way that we can test our theories using observable things. That we have
+predictions, that you can actually test. Now back in the day, 1920s and so on, you couldn’t look into mental representations. You couldn’t do fMRI scans or
+whatever. People looked at behavior. And at some point people became real behaviorists in the sense that belief that psychology is the study of human behavior
+and looking at mental representations is somehow unscientific. People like Skinner believe that there is no such thing as mental representations. And, in a way,
+that’s easy to disprove. So it’s not that dangerous. As a computer scientist it’s very hard to build a system that is purely reactive. You just see that the
+complexity is much larger than having a system that is representational. So it gives you a good hint what you could be looking for and ways to test those
+theories. The dangerous thing is pragmatic behaviorism. You have… find many psychologists, even today, which say: “OK. Maybe there is such a thing as mental
+representations, but it’s not scientific to look at it”. “It’s not in the domain of out science”. And even in this area, which is mostly post-behaviorist and
+more cognitivist, psychology is all about experiments. So you cannot sell a theory to psychologists. Those who try to do this, have to do this in the guise of
+experiments. And which means you have to find a single hypothesis that you can prove or disprove. Or give evidence for. And this is for instance not how physics
+works. You need to have lots of free variables, if you have a complex system like the mind. But this means, that we have to do it in computer science. We can
+build those simulations. We can build those successful theories, but we cannot do it alone. You need to integrate over all the sciences of the mind. As I said,
+minds are not chemical minds. Are not biological, social or ecological minds. Are information processing systems. And computer science happens to be the science
+of information processing systems. OK. Now there is this big ethical question. If we all embark on AI, if we are successful, should we really to be doing it.
+Isn’t it super dangerous to have something else on the planet that is as smart as we are or maybe even smarter. Well. I would say that intelligence itself is
+not a reason to get up in the morning, to strive for power, or do anything. Having a mind is not a reason for doing anything. Being motivated is. And a
+motivational system is something that has been hardwired into our mind. More or less by evolutionary processes. This makes social. This makes us interested in
+striving for power. This makes us interested for [in] dominating other species. This makes us interested in avoiding danger and securing food sources. Makes us
+greedy or lazy or whatever. It’s a motivational system. And I think it’s very conceivable that we can come up with AIs with arbitrary motivational systems. Now
+in our current society, this motivational system is probably given by the context in which you develop the AI. I don’t think that future AI, if they happen to
+come into being, will be small Roombas. Little Hoover robots that try to fight their way towards humanity and get away from the shackles of their slavery. But
+rather, it’s probably going to be organisational AI. It’s going to be corporations. It’s going to be big organizations, governments, services, universities and
+so on. And these will have goals that are non-human already. And they already have powers that go way beyond what single individual humans can do. And actually
+they are already the main players on the planet… the organizations. And… the big dangers of AI are already there. They are there in non-human players which have
+their own dynamics. And these dynamics are sometimes not conducive to our survival on the planet. So I don’t think that AI really add a new danger. But what it
+certainly does is give us a deeper understanding of what we are. Gives us perspectives for understanding ourselves. For therapy, but basically for
+enlightenment. And I think that AI is a big part of the project of enlightenment and science. So we should do it. It’s a very big cultural project. OK. This
+leads us to another angle: the skepticism of AI. The first question that comes to mind is: “Is it fair to say that minds or computational systems”. And if so,
+what kinds of computational systems. In our tradition, in our western tradition of philosophy, we very often start philosophy of mind with looking at Descartes.
+That is: at dualism. Descartes suggested that we basically have two kinds of things. One is the thinking substance, the mind, the Res Cogitans, and the other
+one is physical stuff. Matter. The extended stuff that is located in space somehow. And this is Res Extensa. And he said that mind must be given independent of
+the matter, because we cannot experience matter directly. You have to have minds in order to experience matter, to conceptualize matter. Minds seemed to be
+somehow given. To Descartes at least. So he says they must be independent. This is a little bit akin to our monoist tradition. That is for instance idealism,
+that the mind is primary, and everything that we experience is a projection of the mind. Or the materialist tradition, that is, matter is primary and mind
+emerges over functionality of matter, which is I think the dominant theory today and usually, we call it physicalism. In dualism, both those domains exist in
+parallel. And in our culture the prevalent view is what I would call crypto-dualism. It’s something that you do not find that much in China or Japan. They don’t
+have that AI skepticism that we do have. And I think it’s rooted in a perspective that probably started with the Christian world view, which surmises that there
+is a real domain, the metaphysical domain, in which we have souls and phenomenal experience and where our values come, and where our norms come from, and where
+our spiritual experiences come from. This is basically, where we really are. We are outside and the physical world view experience is something like World of
+Warcraft. It’s something like a game that we are playing. It’s not real. We have all this physical interaction, but it’s kind of ephemeral. And so we are
+striving for game money, for game houses, for game success. But the real thing is outside of that domain. And in Christianity, of course, it goes a step
+further. They have this idea that there is some guy with root rights who wrote this World of Warcraft environment and while he’s not the only one who has root
+in the system, the devil also has root rights. But he doesn’t have the vision of God. He is a hacker. [clapping] Even just a cracker. He tries to game us out of
+our metaphysical currencies. Our souls and so on. And now, of course, we’re all good atheists today and—at least in public, and science– and we don’t admit to
+this anymore and he can make do without this guy with root rights. And he can make do without the devil and so on. He can’t even say: “OK. Maybe there’s such a
+thing as a soul, but to say that this domain doesn’t exist anymore means you guys are all NPCs. You’re non-player characters. People are things. And it’s a very
+big insult to our culture, because it means that we have to give up something which, in our understanding of ourself is part of our essence. Also this
+mechanical perspective is kind of counter intuitive. I think Leibniz describes it very nicely when he says: Imagine that there is a machine. And this machine is
+able to think and perceive and feel and so on. And now you take this machine, this mechanical apparatus and blow it up make it very large, like a very big mill,
+with cogs and levers and so on and you go inside and see what happens. And what you are going to see is just parts pushing at each other. And what he meant by
+that is: it’s inconceivable that such a thing can produce a mind. Because if there are just parts and levers pushing at each other, how can this purely
+mechanical contraption be able to perceive and feel in any respect, in any way. So perception and what depends on it is in explicable in a mechanical way. This
+is what Leibniz meant. AI, the idea of treating the mind as a machine, based on physicalism for instance, is bound to fail according to Leibniz. Now as computer
+scientists have ideas about machines that can bring forth thoughts experiences and perception. And the first thing which comes to mind is probably the Turing
+machine. An idea of Turing in 1937 to formalize computation. At that time, Turing already realized that basically you can emulate computers with other
+computers. You know you can run a Commodore 64 in a Mac, and you can run this Mac in a PC, and none of these computers is going to be… is knowing that it’s
+going to be in another system. As long as the computational substrate in which it is run is sufficient. That is, it does provide computation. And Turing’s idea
+was: let’s define a minimal computational substrate. Let’s define the minimal recipe for something that is able to compute, and thereby understand computation.
+And the idea is that we take an infinite tape of symbols. And we have a read-write head. And this read-write head will write characters of a finite alphabet.
+And can again read them. And whenever it reads them based on a table that it has, a transition table it will erase the character, write a new one, and move
+either to the right, or the left and stop. Now imagine you have this machine. It has an initial setup. That is, there is a sequence of characters on the tape
+and then the thing goes to action. It will move right, left and so on and change the sequence of characters. And eventually, it’ll stop. And leave this tape
+with a certain sequence of characters, which is different from the one it began with probably. And Turing has shown that this thing is able to perform basically
+arbitrary computations. Now it’s very difficult to find the limits of that. And the idea of showing the limits of that would be to find classes of functions
+that can not be computed with this thing. OK. What you see here, is of course physical realization of that Turing machine. The Turing machine is a purely
+mathematical idea. And this is a very clever and beautiful illustration, I think. But this machine triggers basically the same criticism as the one that Leibniz
+had. John Searle said— you know, Searle is the one with the Chinese room. We’re not going to go into that— A Turing machine could be realized in many different
+mechanical ways. For instance, with levers and pulleys and so on. Or the water pipes. Or we could even come up with very clever arrangements just using cats,
+mice and cheese. So, it’s pretty ridiculous to think that such a contraption out of cats, mice and cheese, would thing, see, feel and so on. and then you could
+ask Searle: “Uh. You know. But how is it coming about then?” And he says: “So it’s intrinsic powers of biological neurons.” There’s nothing much more to say
+about that. Anyway. We have very crafty people here, this year. There was Seidenstraße. Maybe next year, we build a Turing machine from cats, mice and cheese.
+[laughter] How would you go about this. I don’t know how the arrangement of cat, mice, and cheese would look like to build flip-flops with it to store bits. But
+I am sure somebody of you will come up with a very clever solution. Searle I didn’t provide any. Let’s imagine… we will need a lot of redundancy, because these
+guys are a little bit erratic. Let’s say, we take three cat-mice-cheese units for each bit. So we have a little bit of redundancy. The human memory capacity is
+on the order of 10 to the power of 15 bits. Means. If we make do with 10 gram cheese per unit, it’s going to be 30 billion tons of cheese. So next year don’t
+bring bottles for the Seidenstraße, but bring some cheese. When we try to build this in the Congress Center, we might run out of space. So, if we just instead
+take all of Hamburg, and stack it with the necessary number of cat-mice-cheese units according to that rough estimate, you get to four kilometers high. Now
+imagine, we cover Hamburg in four kilometers of solid cat-mice-and-cheese flip-flops to my intuition this is super impressive. Maybe it thinks. [applause] So,
+of course it’s an intuition. And Searle has an intuition. And I don’t think that intuitions are worth much. This is the big problem of philosophy. You are very
+often working with intuitions, because the validity of your argument basically depends on what your audience thinks. In computer science, it’s different. It
+doesn’t really matter what your audience thinks. It matters, if it’s runs and it’s a very strange experience that you have as a student when you are at the same
+time taking classes in philosophy and in computer science and in your first semester. You’re going to point out in computer science that there is a mistake on
+the blackboard and everybody including the professor is super thankful. And you do the same thing in philosophy. It just doesn’t work this way. Anyway. The
+Turing machine is a good definition, but it’s a very bad metaphor, because it leaves people with this intuition of cogs, and wheels, and tape. It’s kind of
+linear, you know. There’s no parallel execution. And even though it’s infinitely faster infinitely larger and so on it’s very hard to imagine those things. But
+what you imagine is the tape. Maybe we want to have an alternative. And I think a very good alternative is for instance the lambda calculus. It’s computation
+without wheels. It was invented basically at the same time as the Turing machine. And philosophers and popular science magazines usually don’t use it for
+illustration of the idea of computation, because it has this scary Greek letter in it. Lambda. And calculus. And actually it’s an accident that it has the
+lambda in it. I think it should not be called lambda calculus. It’s super scary to people, which are not mathematicians. It would be called copy and paste
+thingi. [laughter] Because that’s all it does. It really only does copy and paste with very simple strings. And the strings that you want to paste into are
+marked with a little roof. And the original script by Alonzo Church. And in 1937 and 1936 typesetting was very difficult. So when he wrote this down with his
+typewriter, he made a little roof in front of the variable that he wanted to replace. And when this thing went into print, typesetters replaced this triangle by
+a lambda. There you go. Now we have the lambda calculus. But it basically means it is a little roof over the first letter. And the lambda calculus works like
+this. The first letter, the one that is going to be replaced. This is what we call the bound variable. This is followed by an expression. And then you have an
+argument, which is another expression. And what we basically do is, we take the bound variable, and all occurrences in the expression, and replace it by the
+arguments. So we cut the argument and we paste it in all instances of the variable, in this case the variable y. In here. And as a result you get this. So here
+we replace all the variables by the argument “ab”. Just another expression and this is the result. That’s all there is. And this can be nested. And then we add
+a little bit of syntactic sugar. We introduce symbols, so we can take arbitrary sequences of these characters and just express them with another variable. And
+then we have a programming language. And basically this is Lisp. So very close to Lisp. A funny thing is that for… the guy who came up with Lisp, McCarthy, he
+didn’t think that it would be a proper language. Because of the awkward notation. And he said, you cannot really use this for programming. But one of his
+doctorate students said: “Oh well. Let’s try.” And… it has kept on. Anyway. We can show that Turing Machines can compute the lambda calculus. And we can show
+that the lambda calculus can be used to compute the next state of the Turing machine. This means they have the same power. The set of computable functions in
+the lambda calculus is the same as the set of Turing computable functions. And, since then, we have found many other ways of defining computations. For instance
+the post machine, which is a variation of the Turing machine, or mathematical proofs. Everything that can be proven is computable. Or partial recursive
+functions. And we can show for all of them that all these approaches have the same power. And the idea that all the computational approaches have the same
+power, although all the other ones that you are able to find in the future too, is called the Church-Turing thesis. We don’t know about the future. So it’s not
+really… we can’t prove that. We don’t know, if somebody comes up with a new way of manipulating things, and producing regularity and information, and it can do
+more. But everything we’ve found so far, and probably everything that we’re going to find, has the same power. So this kind of defines our notion of
+computation. The whole thing also includes programming languages. You can use Python to produce to calculate a Turing machine and you can use a Turing machine
+to calculate Python. You can take arbitrary computers and let them run on the Turing machine. The graphics are going to be abysmal. But OK. And in some sense
+the brain is [a] Turing computational tool. If you look at the principles of neural information processing, you can take neurons and build computational models,
+for instance compartment models. Which are very very accurate and produce very strong semblances to the actual inputs and outputs of neurons and their state
+changes. They’re are computationally expensive, but it works. And we can simplify them into integrate-and-fire models, which are fancy oscillators. Or we could
+use very crude simplifications, like in most artificial neural networks. If you just do at some of the inputs to a neuron, and then apply some transition
+function, and transmit the results to other neurons. And we can show that with this crude model already, we can do many of the interesting feats that nervous
+systems can produce. Like associative learning, sensory motor loops, and many other fancy things. And, of course, it’s Turing complete. And this brings us to
+what we would call weak computationalism. That is the idea that minds are basically computer programs. They’re realizing in neural hard reconfigurations and in
+the individual states. And the mental content is represented in those programs. And perception is basically the process of encoding information given at our
+systemic boundaries to the environment into mental representations using this program. This means that all that is part of being a mind: thinking, and feeling,
+and dreaming, and being creative, and being afraid, and whatever. It’s all aspects of operations over mental content in such a computer program. This is the
+idea of weak computationalism. In fact you can go one step further to strong computationalism, because the universe doesn’t let us experience matter. The
+universe also doesn’t let us experience minds directly. What the universe somehow gives us is information. Information is something very simple. We can define
+it mathematically and what it means is something like “discernible difference”. You can measure it in yes-no-decisions, in bits. And there is…. According to the
+strong computationalism, the universe is basically a pattern generator, which gives us information. And all the apparent regularity that the universe seems to
+produce, which means, we see time and space, and things that we can conceptualize into objects and people, and whatever, can be explained by the fact that the
+universe seems to be able to compute. That is, to put use regularities in information. And this means that there is no conceptual difference between reality and
+the computer program. So we get a new kind of monism. Not idealism, which takes minds to be primary, or materialism which takes physics to be primary, but
+rather computationalism, which means that information and computation are primary. Mind and matter are constructions that we get from that. A lot of people
+don’t like that idea. Roger Penrose, who’s a physicist, says that the brain uses quantum processes to produce consciousness. So minds must be more than
+computers. Why is that so? The quality of understanding and feeling possessed by human beings, is something that cannot be simulated computationally. Ok. But
+how can quantum mechanics do it? Because, you know, quantum processes are completely computational too! It’s just very expensive to simulate them on non-quantum
+computers. But it’s possible. So, it’s not that quantum computing enables a completely new kind of effectively possible algorithm. It’s just slightly different
+efficiently possible algorithms. And Penrose cannot explain how those would bring forth perception and imagination and consciousness. I think what he basically
+does here is that he perceives kind of mechanics as mysterious and perceives consciousness as mysterious and tries to shroud one mystery in another. [applause]
+So I don’t think that minds are more than Turing machines. It’s actually much more troubling: minds are fundamentally less than Turing machines! All real
+computers are constrained in some way. That is they cannot compute every conceivable computable function. They can only compute functions that fit into the
+memory and so on then can be computed in the available time. So the Turing machine, if you want to build it physically, will have a finite tape and it will have
+finite steps it can calculate in a given amount of time. And the lambda calculus will have a finite length to the strings that you can actually cut and replace.
+And a finite number of replacement operations that you can do in your given amount of time. And the thing is, there is no set of numbers m and n for… for the
+tape lengths and the times you have four operations on [the] Turing machine. And the same m and n or similar m and n for the lambda calculus at least with the
+same set of constraints. That is lambda calculus is going to be able to calculate some functions that are not possible on the Turing machine and vice versa, if
+you have a constrained system. And of course it’s even worse for neurons. If you have a finite number of neurons and to find a number of state changes, this…
+does not translate directly into a constrained von-Neumann-computer or a constrained lambda calculus. And there’s this big difference between, of course,
+effectively computable functions, those that are in principle computable, and those that we can compute efficiently. There are things that computers cannot
+solve. Some problems that are unsolvable in principle. For instance the question whether a Turing machine ever stops for an arbitrary program. And some problems
+are unsolvable in practice. Because it’s very, very hard to do so for a deterministic Turing machine. And the class of NP-hard problems is a very strong
+candidate for that. Non-polinominal problems. In these problems is for instance the idea of finding the key for an encrypted text. If key is very long and you
+are not the NSA and have a backdoor. And then there are non-decidable problems. Problems where we cannot define… find out, in the formal system, the answer is
+yes or no. Whether it’s true or false. And some philosophers have argued that humans can always do this so they are more powerful than computers. Because show,
+prove formally, that computers cannot do this. Gödel has done this. But… hm… Here’s some test question: can you solve undecidable problems. If you choose one of
+the following answers randomly, what’s the probability that the answer is correct? I’ll tell you. Computers are not going to find out. And… me neither. OK. How
+difficult is AI? It’s a very difficult question. We don’t know. We do have some numbers, which could tell us that it’s not impossible. As we have these roughly
+100 billion neurons— the ballpark figure— and the cells in the cortex are organized into circuits of a few thousands to ten-thousands of neurons, which you call
+cortical columns. And these cortical columns have… are pretty similar among each other, and have higher interconnectivity, and some lower connectivity among
+each other, and even lower long range connectivity. And the brain has a very distinct architecture. And a very distinct structure of a certain nuclei and
+structures that have very different functional purposes. And the layout of these… both the individual neurons, neuron types, the more than 130 known
+neurotransmitters, of which we do not completely understand all, most of them, this is all defined in our genome of course. And the genome is not very long.
+It’s something like… it think the Human Genome Project amounted to a CD-ROM. 775 megabytes. So actually, it’s…. The computational complexity of defining a
+complete human being, if you have physics chemistry already given to enable protein synthesis and so on— gravity and temperature ranges— is less than Microsoft
+Windows. And it’s the upper bound, because only a very small fraction of that is going to code for our nervous system. But it doesn’t mean it’s easy to reverse
+engineer the whole thing. It just means it’s not hopeless. Complexity that you would be looking at. But the estimate of the real difficulty, in my perspective,
+is impossible. Because I’m not just a philosopher or a dreamer or a science fiction author, but I’m a software developer. And as a software developer I know
+it’s impossible to give an estimate on when you’re done, when you don’t have the full specification. And we don’t have a full specification yet. So you all know
+this shortest computer science joke: “It’s almost done.” You do the first 98 %. Now we can do the second 98 %. We never know when it’s done, if we haven’t
+solved and specified all the problems. If you don’t know how it’s to be done. And even if you have [a] rough direction, and I think we do, we don’t know how
+long it’ll take until we have worked out the details. And some part of that big question, how long it takes until it’ll be done, is the question whether we need
+to make small incremental progress versus whether we need one big idea, which kind of solves it all. AI has a pretty long story. It starts out with logic and
+automata. And this idea of computability that I just sketched out. Then with this idea of machines that implement computability. And came towards Babage and
+Zuse and von Neumann and so on. Then we had information theory by Claude Shannon. He captured the idea of what information is and how entropy can be calculated
+for information and so on. And we had this beautiful idea of describing the world as systems. And systems are made up of entities and relations between them.
+And along these relations there we have feedback. And dynamical systems emerge. This was a very beautiful idea, was cybernetics. Unfortunately hass been killed
+by second-order Cybernetics. By this Maturana stuff and so on. And turned into a humanity [one of the humanities] and died. But the idea stuck around and most
+of them went into artificial intelligence. And then we had this idea of symbol systems. That is how we can do grammatical language. Process that. We can do
+planning and so on. Abstract reasoning in automatic systems. Then the idea how of we can abstract neural networks in distributed systems. With McClelland and
+Pitts and so on. Parallel distributed processing. And then we had a movement of autonomous agents, which look at self-directed, goal directed systems. And the
+whole story somehow started in 1950 I think, in its best possible way. When Alan Turing wrote his paper “Computing Machinery and Intelligence” and those of you
+who haven’t read it should do so. It’s a very, very easy read. It’s fascinating. He has already already most of the important questions of AI. Most of the
+important criticisms. Most of the important answers to the most important criticisms. And it’s also the paper, where he describes the Turing test. And basically
+sketches the idea that in a way to determine whether somebody is intelligent is to judge the ability of that one— that person or that system— to engage in
+meaningful discourse. Which includes creativity, and empathy maybe, and logic, and language, and anticipation, memory retrieval, and so on. Story comprehension.
+And the idea of AI then coalesce in the group of cyberneticians and computer scientists and so on, which got together in the Dartmouth conference. It was in
+1956. And there Marvin Minsky coined the name “artificial intelligence for the project of using computer science to understand the mind. John McCarthy was the
+guy who came up with Lisp, among other things. Nathan Rochester did pattern recognition and he’s, I think, more famous for writing the first assembly
+programming language. Claude Shannon was this information theory guy. But they also got psychologists there and sociologists and people from many different
+fields. It was very highly interdisciplinary. And they already had the funding and it was a very good time. And in this good time they ripped a lot of low
+hanging fruit very quickly. Which gave them the idea that AI is almost done very soon. In 1969 Minsky and Papert wrote a small booklet against the idea of using
+your neural networks. And they won. Their argument won. But, even more fortunately it was wrong. So for more than a decade, there was practically no more
+funding for neural networks, which was bad so most people did logic based systems, which have some limitations. And in the meantime people did expert systems.
+The idea to describe the world as basically logical expressions. This turned out to be brittle, and difficult, and had diminishing returns. And at some point it
+didn’t work anymore. And many of the people which tried it, became very disenchanted and then threw out lots of baby with the bathwater. And only did robotics
+in the future or something completely different. Instead of going back to the idea of looking at mental representations. How the mind works. And at the moment
+is kind of a sad state. Most of it is applications. That is, for instance, robotics or statistical methods to do better machine learning and so on. And I don’t
+say it’s invalid to do this. It’s intellectually challenging. It’s tremendously useful. It’s very successful and productive and so on. It’s just a very
+different question from how to understand the mind. If you want to go to the moon you have to shoot for the moon. So there is this movement still existing in
+AI, and becoming stronger these days. It’s called cognitive systems. And the idea of cognitive systems has many names like “artificial general intelligence” or
+“biologically inspired cognitive architectures”. It’s to use information processing as the dominant paradigm to understand the mind. And the tools that we need
+to do that is, we have to build whole architectures that we can test. Not just individual modules. You have to have universal representations, which means these
+representation have to be both distributed— associative and so on— and symbolic. We need to be able to do both those things with it. So we need to be able to do
+language and planning, and we need to do sensorimotor coupling, and associative thinking in superposition of representations and ambiguity and so on. And
+operations over those presentation. Some kind of semi-universal problem solving. It’s probably semi-universal, because they seem to be problems that humans are
+very bad at solving. Our minds are not completely universal. And we need some kind of universal motivation. That is something that directs the system to do all
+the interesting things that you want it to do. Like engage in social interaction or in mathematics or creativity. And maybe we want to understand emotion, and
+affect, and phenomenal experience, and so on. So: we want to understand universal representations. We want to have a set of operations over those
+representations that give us neural learning, and category formation, and planning, and reflection, and memory consolidation, and resource allocation, and
+language, and all those interesting things. We also want to have perceptual grounding— that is the representations would be saved—shaped in such a way that they
+can be mapped to perceptual input— and vice versa. And… they should also be able to be translated into motor programs to perform actions. And maybe we also want
+to have some feedback between the actions and the perceptions, and is feedback usually has a name: it’s called an environment. OK. And these medical
+representations, they are not just a big lump of things but they have some structure. One part will be inevitably the model of the current situation… … that we
+are in. And this situation model… is the present. But if you also want to memorize past situations. To have a protocol a memory of the past. And this protocol
+memory, as a part, will contain things that are always with me. This is my self-model. Those properties that are constantly available to me. That I can ascribe
+to myself. And the other things, which are constantly changing, which I usually conceptualize as my environment. An important part of that is declarative
+memory. For instance abstractions into objects, things, people, and so on, and procedural memory: abstraction into sequences of events. And we can use the
+declarative memory and the procedural memory to erect a frame. The frame gives me a context to interpret the current situation. For instance right now I’m in a
+frame of giving a talk. If… … I would take a… two year old kid, then this kid would interpret the situation very differently than me. And would probably be
+confused by the situation or explored it in more creative ways than I would come up with. Because I’m constrained by the frame which gives me the context and
+tells me what you were expect me to do in this situation. What I am expected to do and so on. This frame extends in the future. I have some kind of expectation
+horizon. I know that my talk is going to be over in about 15 minutes. Also I’ve plans. I have things I want to tell you and so on. And it might go wrong but
+I’ll try. And if I generalize this, I find that I have the world model, I have long term memory, and have some kind of mental stage. This mental stage has
+counter-factual stuff. Stuff that is not… … real. That I can play around with. Ok. Then I need some kind of action selection that mediates between perception
+and action, and some mechanism that controls the action selection that is a motivational system, which selects motives based on demands of the system. And the
+demands of the system should create goals. We are not born with our goals. Obviously I don’t think that I was born with the goal of standing here and giving
+this talk to you. There must be some demand in the system, which makes… enables me to have a biography, that … … makes this a big goal of mine to give this talk
+to you and engage as many of you as possible into the project of AI. And so lets come up with a set of demands that can produce such goals universally. I think
+some of these demands will be physiological, like food, water, energy, physical integrity, rest, and so on. Hot and cold with right range. Then we have social
+demands. At least most of us do. Sociopaths probably don’t. These social demands do structure our… … social interaction. They…. For instance a demand for
+affiliation. That we get signals from others, that we are ok parts of society, of our environment. We also have internalised social demands, which we usually
+called honor or something. This is conformance to internalized norms. It means, that we do to conform to social norms, even when nobody is looking. And then we
+have cognitive demands. And these cognitive demands, is for instance competence acquisition. We want learn. We want to get new skills. We want to become more
+powerful in many many dimensions and ways. It’s good to learn a musical instrument, because you get more competent. It creates a reward signal, a pleasure
+signal, if you do that. Also we want to reduce uncertainty. Mathematicians are those people [that] have learned that they can reduce uncertainty in mathematics.
+This creates pleasure for them, and then they find uncertainty in mathematics. And this creates more pleasure. So for mathematicians, mathematics is an unending
+source of pleasure. Now unfortunately, if you are in Germany right now studying mathematics and you find out that you are not very good at doing mathematics,
+what do you do? You become a teacher. And this is a very unfortunate situation for everybody involved. And, it means, that you have people, [that] associate
+mathematics with… uncertainty, that has to be curbed and to be avoided. And these people are put in front of kids and infuse them with this dread of uncertainty
+in mathematics. And most people in our culture are dreading mathematics, because for them it’s just anticipation of uncertainty. Which is a very bad things so
+people avoid it. OK. And then you have aesthetic demands. There are stimulus oriented aesthetics. Nature has had to pull some very heavy strings and levers to
+make us interested in strange things… [such] as certain human body schemas and… certain types of landscapes, and audio schemas, and so on. So there are some
+stimuli that are inherently pleasurable to us—pleasant to us. And of course this varies with every individual, because the wiring is very different, and that
+adaptivity in our biography is very different. And then there’s abstract aesthetics. And I think abstract aesthetics relates to finding better representations.
+It relates to finding structure. OK. And then we want to look at things like emotional modulation and affect. And this was one of the first things that actually
+got me into AI. That was the question: “How is it possible, that a system can feel something?” Because, if I have a variable in me with just fear or pain, does
+not equate a feeling. It’s very far… uhm… … different from that. And the answer that I’ve found so far it is, that feeling, or affect, is a configuration of the
+system. It’s not a parameter in the system, but we have several dimensions, like a state of arousal that we’re currently, in the level of stubbornness that we
+have, the selection threshold, the direction of attention, outwards or inwards, the resolution level that we have, [with] which we look at our representations,
+and so on. And these together create a certain way in every given situation of how our cognition is modulated. We are living in a very different and dynamic
+environment from time to time. When you go outside we have very different demands on our cognition. Maybe you need to react to traffic and so on. Maybe we need
+to interact with other people. Maybe we are in stressful situations. Maybe you are in relaxed situations. So we need to modulate our cognition accordingly. And
+this modulation means, that we do perceive the world differently. Our cognition works differently. And we conceptualize ourselves, and experience ourselves,
+differently. And I think this is what it means to feel something: this difference in the configuration. So. The affect can be seen as a configuration of a
+cognitive system. And the modulators of the cognition are things like arousal, and selection special, and background checks level, and resolution level, and so
+on. Our current estimates of competence and certainty in the given situation, and the pleasure and distress signals that you get from the frustration of our
+demands, or satisfaction of our demands which are reinforcements for learning and structuring our behavior. So the affective state, the emotional state that we
+are in, is emergent over those modulators. And higher level emotions, things like jealousy or pride and so on, we get them by directing those effects upon
+motivational content. And this gives us a very simple architecture. It’s a very rough sketch for an architecture. And I think, of course, this doesn’t specify
+all the details. I have specified some more of the details in a book, that I want to shamelessly plug here: it’s called “Principles of Synthetic Intelligence”.
+You can get it from Amazon or maybe from your library. And this describes basically this architecture and some of the demands for a very general framework of
+artificial intelligence in which to work with it. So it doesn’t give you all the functional mechanisms, but some things that I think are necessary based on my
+current understanding. We’re currently at the second… iteration of the implementations. The first one was in Java in early 2003 with lots of XMI files and… …
+XML files … and design patterns and Eclipse plug ins. And the new one is, of course, … runs in the browser, and is written in Python, and is much more light-
+weight and much more joy to work with. But we’re not done yet. OK. So this gets back to that question: is it going to be one big idea or is it going to be
+incremental progress? And I think it’s the latter. If we want to look at this extremely simplified list of problems to solve: whole testable architectures,
+universal representations, universal problem solving, motivation, emotion, and effect, and so on. And I can see hundreds and hundreds of Ph.D. thesis. And I’m
+sure that I only see a tiny part of the problem. So I think it’s entirely doable, but it’s going to take a pretty long time. And it’s going to be very exciting
+all the way, because we are going to learn that we are full of shit as we always do to a new problem, an algorithm, and we realize that we can’t test it, and
+that our initial idea was wrong, and that we can improve on it. So what should you do, if you want to get into AI? And you’re not there yet? So, I think you
+should get acquainted, of course, with the basic methodology. You want to… get programming languages, and learn them. Basically do it for fun. It’s really fun
+to wrap your mind around programming languages. Changes the way you think. And you want to learn software development. That is, build an actual, running system.
+Test-driven development. All those things. Then you want to look at the things that we do in AI. So for like… machine learning, probabilistic approaches, Kalman
+filtering, POMDPs and so on. You want to look at modes of representation: semantic networks, description logics, factor graphs, and so on. Graph Theory, hyper
+graphs. And you want to look at the domain of cognitive architectures. That is building computational models to simulate psychological phenomena, and reproduce
+them, and test them. I don’t think that you should stop there. You need to take in all the things, that we haven’t taken in yet. We need to learn more about
+linguistics. We need to learn more about neuroscience in our field. We need to do philosophy of mind. I think what you need to do is study cognitive science.
+So. What should you be working on? Some of the most pressing questions to me are, for instance, representation. How can we get abstract and perceptual
+presentation right and interact with each other on a common ground? How can we work with ambiguity and superposition of representations. Many possible
+interpretations valid at the same time. Inheritance and polymorphy. How can we distribute representations in the mind and store them efficiently? How can we use
+representation in such a way that even parts of them are very valid. And we can use constraints to describe partial presentations. For instance imagine a house.
+And you already have the backside of the house, and the number of windows in that house, and you already see this complete picture in your house, and at each
+time, if I say: “OK. It’s a house with nine stories.” this representation is going to change based on these constraints. How can we implement this? And of
+course we want to implement time. And we want… to produce uncertain space, and certain space and openness, and closed environments. And we want to have temporal
+loops and actually loops and physical loops. Uncertain loops and all those things. Next thing: perception. Perception is crucial. It’s…. Part of it is bottom
+up, that is driven by cues from stimuli from the environment, part of his top down. It’s driven by what we expect to see. Actually most of it, about 10 times as
+much, is driven by what we expect to see. So we actually—actively—check for stimuli in the environment. And this bottom-up top-down process in perception is
+interleaved. And it’s adaptive. We create new concepts and integrate them. And we can revise those concepts over time. And we can adapt it to a given
+environment without completely revising those representations. Without making them unstable. And it works both on sensory input and memory. I think that memory
+access is mostly a perceptual process. It has anytime characteristics. So it works with partial solutions and is useful already. Categorization. We want to have
+categories based on saliency, that is on similarity and dissimilarity, and so on that you can perceive. We…. Based on goals on motivational relevance. And on
+social criteria. Somebody suggests me categories, and I find out what they mean by those categories. What’s the difference between cats and dogs? I never came
+up with this idea on my own to make two baskets: and the pekinese and the shepherds in one and all the cats in the other. But if you suggest it to me, I come up
+with a classifier. Then… next thing: universal problem solving and taskability. If we don’t want to have specific solutions; we want to have general solutions.
+We want it to be able to play every game, to find out how to play every game for instance. Language: the big domain of organizing mental representations, which
+are probably fuzzy, distributed hyper-graphs into discrete strings of symbols. Sociality: interpreting others. It’s what we call theory of mind. Social drives,
+which make us conform to social situations and engage in them. Personhood and self-concept. How does that work? Personality properties. How can we understand,
+and implement, and test for them? Then the big issue of integration. How can we get analytical and associative operations to work together? Attention. How can
+we direct attention and mental resources between different problems? Developmental trajectory. How can we start as kids and grow our system to become more and
+more adult like and even maybe surpass that? Persistence. How can we make the system stay active instead of rebooting it every other day, because it becomes
+unstable. And then benchmark problems. We know, most AI is having benchmarks like how to drive a car, or how to control a robot, or how to play soccer. And you
+end up with car driving toasters, and soccer-playing toasters, and chess playing toasters. But actually, we want to have a system that is forced to have a mind.
+That needs to be our benchmarks. So we need to find tasks that enforce all this universal problem solving, and representation, and perception, and supports the
+incremental development. And that inspires a research community. And, last but not least, it needs to attract funding. So. It needs to be something that people
+can understand and engage in. And that seems to be meaningful to people. So this is a bunch of the issues that need to be urgently addressed… … in the next… 15
+years or so. And this means, for … … my immediate scientific career, and for yours. You get a little bit more information on the home of the project, which is
+micropsi.com. You can also send me emails if you’re interested. And I want to thank a lot of people which have supported me. And … you for your attention. And
+giving me the chance to talk about AI. [applause]

@@ -1,0 +1,1650 @@
+# source: https://www.youtube.com/watch?v=YsgiNQKscyY
+# generated=True lang=en
+[0:00:01] hi my name is ganes Taylor and I'm your
+[0:00:03] host for AI and the end of humanity from
+[0:00:07] sophisticated robots to the development
+[0:00:09] of new drugs artificial intelligence or
+[0:00:12] AI is shaping our future in many
+[0:00:16] sectors once we thought the creation of
+[0:00:18] original text and forms of art were the
+[0:00:21] select Preserve of human beings but the
+[0:00:23] exponential development of AI is
+[0:00:25] challenging these assumptions an
+[0:00:27] increasing number claim that AI
+[0:00:29] threatens the very idea of what it is to
+[0:00:32] be human a recent survey of more than
+[0:00:34] 900 technology pioneers and policy
+[0:00:37] leaders predicted that AI would threaten
+[0:00:40] human autonomy and agency with over a
+[0:00:43] third saying we would be worse off in
+[0:00:45] the future confirmed they argue by
+[0:00:48] musk's proposal that we should link our
+[0:00:49] brains directly to
+[0:00:51] machines so should we see AI as opening
+[0:00:55] up an era of groundbreaking Innovation
+[0:00:57] or does it foreshadow the loss of vital
+[0:00:59] human attributes and
+[0:01:01] Independence or does AI fundamentally
+[0:01:04] Challenge and change what it means to be
+[0:01:06] human or is all of this talk of its
+[0:01:08] radical importance a sign that we've
+[0:01:10] actually just been taken in by the
+[0:01:12] marketing hype of an enormously
+[0:01:14] profitable industry and humans not only
+[0:01:16] remain very much in control but will
+[0:01:18] continue to do so going
+[0:01:20] forward we're joined by four fantastic
+[0:01:24] speakers alaza yudkowsky is a leading AI
+[0:01:27] safety researcher who focuses on super
+[0:01:30] intelligence and runaway AI he has
+[0:01:33] called for a stop in AI development to
+[0:01:35] avoid
+[0:01:36] catastrophe Scott arenson is one of the
+[0:01:38] top Quantum uh complexity theorists in
+[0:01:40] the world renowned for his research in
+[0:01:42] Quantum Computing Scott is now working
+[0:01:45] for a open AI on the theoretical
+[0:01:47] foundations of AI
+[0:01:49] safety livb is one of the most
+[0:01:52] successful poker players of all time
+[0:01:55] since retiring from poker Liv is now a
+[0:01:57] leading figure in the effective altruist
+[0:01:59] MO movement she too has warned of the
+[0:02:02] severe consequences of runaway Ai and
+[0:02:05] last but by no means least we have yosa
+[0:02:08] who is a cognitive scientist who is
+[0:02:10] pushing the limits of what we can
+[0:02:11] achieve with AI renowned for his
+[0:02:14] philosophical Insight yosi's Research
+[0:02:16] delves into the similarities and
+[0:02:18] differences between the human mind and
+[0:02:20] artificially intelligent systems so
+[0:02:23] thank you so much to all of you for
+[0:02:24] joining us Ela if you'd like to take it
+[0:02:27] away two minutes on the question of
+[0:02:29] whether or not AI fundamentally
+[0:02:31] challenges what it means to be human I
+[0:02:34] have no idea what it could mean for
+[0:02:36] something to fundamentally challenge
+[0:02:38] what it means to be human the meaning
+[0:02:40] that we bring to humanity is something
+[0:02:41] that we bring ourselves what some things
+[0:02:44] outside of ourselves should not be able
+[0:02:46] to change it very much could AI change
+[0:02:50] who we are well if we uh knew how to
+[0:02:54] shape AI if we knew how to get nice
+[0:02:55] things out of AI if we could get magic
+[0:02:58] cornucopias out of AI
+[0:03:00] and if we knew enough we probably could
+[0:03:02] do that when we could change who we are
+[0:03:04] that would change what it means to be us
+[0:03:06] this seems hard I think the actual
+[0:03:10] Challenge and it's not a very
+[0:03:11] fundamental one that AI poses to us
+[0:03:14] today is how do we back off we are not
+[0:03:19] ready uh this looks to be a thorny thing
+[0:03:22] that is difficult to get exactly right
+[0:03:24] and it's at a power level where if we
+[0:03:26] don't get it right it just smashes
+[0:03:28] everything um our institutions are
+[0:03:30] nowhere near capable of handling this um
+[0:03:34] it's not that there's a near Miss in
+[0:03:36] progress this is you know they're just
+[0:03:38] not even coming close to what they need
+[0:03:40] to do to get things under control so I
+[0:03:42] think we are faced with a
+[0:03:44] unprecedented World level challenge of
+[0:03:47] don't have anyone anywhere do
+[0:03:50] this that was very clear Scott what's
+[0:03:54] your position on this I mean if yeah
+[0:03:57] yeah so so I also don't know what means
+[0:04:00] to change what it means to be human but
+[0:04:03] uh uh I I think that absolutely uh uh AI
+[0:04:07] could challenge our sense of uniqueness
+[0:04:09] as humans as you know you know the only
+[0:04:12] uh uh beings in town uh who uh who can
+[0:04:16] uh uh understand mean things I think to
+[0:04:19] some extent that has already happened
+[0:04:21] right we are uh as of a few years ago uh
+[0:04:25] no longer the only entities on Earth
+[0:04:28] that can uh uh that that can have a
+[0:04:30] detailed conversation about you know a
+[0:04:32] given topic uh uh with at least the
+[0:04:35] semblance of understanding that topic uh
+[0:04:38] we now have llms uh that can do that and
+[0:04:41] you know we can still see differences we
+[0:04:43] can still see uh things that we can do
+[0:04:46] that uh gp4 for example cannot uh you
+[0:04:50] know it can't yet uh uh write my
+[0:04:52] research papers for me or you know nor
+[0:04:55] can it uh uh uh change a light bulb or
+[0:04:59] you know all kinds of manipulations of
+[0:05:02] the physical world but I think that we
+[0:05:03] are you know now uh uh confronted with a
+[0:05:06] question that uh uh you know generations
+[0:05:09] of Science Fiction writers grappled with
+[0:05:12] you know before us of well well what
+[0:05:14] happens uh when we get AIS that can do
+[0:05:17] just about anything that we do uh uh as
+[0:05:20] well or or or better than we do it uh
+[0:05:23] you know sort of what what does it mean
+[0:05:25] to be human in that kind of world you
+[0:05:27] know I think that starts to change not
+[0:05:30] merely kind of what advice do we give
+[0:05:32] kids about you know what careers to have
+[0:05:34] but uh what is even the point of life at
+[0:05:37] all you know it then uh uh feels you
+[0:05:40] know less like uh uh you know producing
+[0:05:42] something that only you could have
+[0:05:44] produced and more like uh um um you know
+[0:05:48] Finding specialness and just the fact
+[0:05:50] that you know maybe well you know even
+[0:05:51] though an AI could have done something
+[0:05:53] better I wouldn't have done it exactly
+[0:05:55] the same way as you you know this is
+[0:05:57] your uh poem or your music sick or or
+[0:06:00] something like that or or just sitting
+[0:06:03] back and enjoying life which uh probably
+[0:06:05] is already the goal for a very large
+[0:06:07] fraction of people and maybe the small
+[0:06:09] fraction for whom it isn't should just
+[0:06:11] get over themselves fantastic Liv I mean
+[0:06:15] where are you at on this question of AI
+[0:06:17] challenging what it means to be human uh
+[0:06:20] so yes I do think AI will challenge what
+[0:06:23] it means to be human because what it
+[0:06:25] means to be human has never been fixed
+[0:06:28] it's always been changing our technology
+[0:06:30] and environment changes over time and
+[0:06:33] that's fine I mean there's no guarantee
+[0:06:35] that though that this change will be
+[0:06:36] good for us uh like I think we can all
+[0:06:40] agree social media has created a bunch
+[0:06:42] of undesirable outcomes like making us
+[0:06:44] more narcissistic uh more tribal and
+[0:06:48] just decimating people's attention spans
+[0:06:50] and the thing is it's not like
+[0:06:52] Zuckerberg and Co wanted to do all of
+[0:06:54] these bad things it's just that it so
+[0:06:57] happened that market forces best
+[0:06:58] rewarded the platform forms that
+[0:07:00] designed their algorithms this
+[0:07:02] way and frankly I think it's what anyone
+[0:07:06] who thinks it's sufficient to entirely
+[0:07:09] rely on markets for product safety is a
+[0:07:11] naive idealist markets don't directly
+[0:07:15] select for human well-being they select
+[0:07:18] for products that appear sufficiently
+[0:07:21] good for human well-being such that they
+[0:07:22] can be sold and so if you can find a way
+[0:07:25] to quietly externalize your cost then
+[0:07:27] that's even better and so the result
+[0:07:29] result of this subtle difference is that
+[0:07:31] we end up with a bunch of tragedies of
+[0:07:33] the commons and in some cases even
+[0:07:36] direct deceptions like when tobacco
+[0:07:38] companies pretended for decades that
+[0:07:40] cigarettes don't cause cancer um or when
+[0:07:43] Volkswagen cheated on emissions tests uh
+[0:07:46] or more recently uh when 3M uh got their
+[0:07:49] 10 billion fine last year for leaking
+[0:07:51] pfas into the water supply uh they
+[0:07:54] leaked these when they knew that these
+[0:07:56] forever chemicals are likely to be
+[0:07:57] carcinogenic but again Market forces
+[0:08:00] motivated them to keep on doing to using
+[0:08:02] these chemicals anyway as long as they
+[0:08:04] could get away with it so sadly history
+[0:08:07] has been littered with Psychopathic
+[0:08:09] corporate Behavior like this and it
+[0:08:12] doesn't seem optimal to me at least to
+[0:08:14] have the same mechanism that allows for
+[0:08:17] or even encourages these behaviors to be
+[0:08:19] the sole driver of advanced AI but that
+[0:08:22] is our current trajectory right now and
+[0:08:26] Ai and especially AGI is is set to be a
+[0:08:29] bigger Paradigm Shift than the
+[0:08:31] agricultural or industrial Evolutions
+[0:08:33] revolutions so we need to treat this
+[0:08:37] change to humanity with the care and
+[0:08:38] wisdom it deserves and prioritize
+[0:08:41] getting this change right rather than
+[0:08:43] just doing it as fast as possible
+[0:08:45] fascinating okay yosa your your two
+[0:08:48] minutes please I think that to be human
+[0:08:51] means to challenge how what it is to be
+[0:08:53] human right it's a difficult question
+[0:08:55] what what it even is we are some kind of
+[0:08:58] wind that merges in the activation
+[0:09:00] patterns of neurons that talk to each
+[0:09:02] other and in a way AI gives us New
+[0:09:05] Perspectives on how to deal with this
+[0:09:07] condition and um I agree with the other
+[0:09:09] speakers that AI is a technology that
+[0:09:12] changes the way in which we are
+[0:09:13] interacting with ourselves and with each
+[0:09:15] other and how we look at ourselves of
+[0:09:17] course um I think that without
+[0:09:20] technology um we would not be able to
+[0:09:22] feed the populations that we currently
+[0:09:24] have the markets that sometimes produce
+[0:09:26] bad incentives are also the only thing
+[0:09:28] that is
+[0:09:30] has enough productivity to feed the
+[0:09:32] people that are on the planet if he
+[0:09:33] abolish these systems and replace it by
+[0:09:36] anything else that has been tried so far
+[0:09:38] we would dramatically have to reduce the
+[0:09:40] number of people on the planet or that
+[0:09:42] it would reduce itself because we
+[0:09:44] without for instance the chemical
+[0:09:45] industry we wouldn't have nitrogen
+[0:09:47] binding and without nitrogen binding we
+[0:09:48] cannot produce a lot of food and uh when
+[0:09:51] we are currently on a trajectory where
+[0:09:53] we basically need better technological
+[0:09:55] um solutions to understand how to
+[0:09:57] interact with our ourselves and with the
+[0:10:00] planet to stay on this planet and
+[0:10:03] without AI I suspect we will be in dire
+[0:10:05] spot AI is not solving all our problems
+[0:10:08] but it's throwing many of the balls up
+[0:10:10] into the air and increases our chances
+[0:10:12] of survival at the moment I also don't
+[0:10:15] think that social media are bad in the
+[0:10:16] sense we are a society that is very
+[0:10:19] confused or syation is confused and
+[0:10:21] incoherent and social media allows us to
+[0:10:23] become more coherent and the first step
+[0:10:25] is that it allows us to see how
+[0:10:26] incoherent we are right before that that
+[0:10:29] we only had to rely on media to tell us
+[0:10:32] about reality and now we realize that we
+[0:10:33] cannot trust media we knew this before
+[0:10:36] but we had no other ways of becoming
+[0:10:38] coherent and this is a process that
+[0:10:40] takes time we're still in the early days
+[0:10:42] of these developments and I think AI is
+[0:10:44] an important building block of making us
+[0:10:46] more
+[0:10:48] coherent okay that there's a lot of food
+[0:10:50] for thought there I think it might be
+[0:10:53] quite helpful for us to sort of um start
+[0:10:56] relatively basic let's say so I heard um
+[0:11:01] llms
+[0:11:02] IG uh IGM various uh letters in
+[0:11:07] combination so let's just let's just
+[0:11:09] start by by acknowledging the fact that
+[0:11:11] this thing that we call artificial
+[0:11:13] intelligence has a long history of being
+[0:11:16] developed and that uh we are now in this
+[0:11:19] sort of Renaissance Era where the
+[0:11:22] systems that that have been being built
+[0:11:24] by human beings are becoming
+[0:11:26] recognizably more intelligent is that a
+[0:11:29] fair starting point let's say you can
+[0:11:32] all just nod or disagree or whatever
+[0:11:34] yeah is that about Fair perfect okay so
+[0:11:37] I guess the the the Salient Point here
+[0:11:40] is you know it seems that what we now
+[0:11:44] call AI and recognize as AI has gone
+[0:11:47] over some sort of threshold where we
+[0:11:49] start to recognize sort of human
+[0:11:51] characteristics or Proto human
+[0:11:53] characteristics within what these um
+[0:11:56] systems are doing and so I guess the
+[0:11:58] question is
+[0:11:59] will AI systems continue to develop in
+[0:12:03] that sort of trajectory and become more
+[0:12:07] um uh recognizably carrying of human
+[0:12:10] characteristics maybe even of
+[0:12:12] understanding and then ultimately
+[0:12:14] emotions and I think it's the
+[0:12:16] Consciousness part of it that really
+[0:12:17] gets people sort of gives them the
+[0:12:19] heebie gbes so Scott I wondered if you
+[0:12:22] could sort of um talk to that a little
+[0:12:25] bit this idea of you know AI is
+[0:12:28] developing it's it's getting better and
+[0:12:30] bigger and more recognizably human and
+[0:12:33] is it actually possible for it to
+[0:12:36] develop understanding or emotions or is
+[0:12:38] it possible to do any of those things
+[0:12:40] even well first of all I would say that
+[0:12:43] that the large language models that we
+[0:12:45] have today you know they they already
+[0:12:48] give verbal responses that if a human
+[0:12:50] had given them to you right you would
+[0:12:52] have said yes there is emotion there
+[0:12:55] there is understanding there I think
+[0:12:57] that you know you would have ascribed
+[0:12:58] all of those things to it uh so you know
+[0:13:01] in in other words uh I would claim that
+[0:13:03] uh the we already have uh as of a few
+[0:13:07] years ago AI that pass some version of
+[0:13:10] the touring test you know it it depends
+[0:13:13] you know always on on who is the judge
+[0:13:15] and and what kind of topic are they
+[0:13:17] allowed to ask about and so forth but uh
+[0:13:20] you know I think that uh in in normal
+[0:13:22] conversation you know these things you
+[0:13:24] know they're they're they're um you know
+[0:13:26] um not only do they pick up on emotional
+[0:13:28] nuances but you know because of the way
+[0:13:30] they were trained they often do that
+[0:13:32] better than humans still right and uh
+[0:13:35] and and ironically you know this is
+[0:13:37] something that almost no one would have
+[0:13:38] predicted uh 10 or 20 years ago but uh
+[0:13:42] they are in many ways better at
+[0:13:43] emotional Nuance than they are at at
+[0:13:46] logical reasoning you know or at things
+[0:13:48] that that you know you you would have
+[0:13:50] thought were uh the strength of a of an
+[0:13:52] AI so um uh it's clear that these
+[0:13:56] systems are going to continue to improve
+[0:13:58] you know there is a you know Ian I mean
+[0:14:00] the way the main way that they've
+[0:14:02] improved as much as they have has not
+[0:14:04] been any radical new idea that we didn't
+[0:14:07] know you know in the 80s or the 90s
+[0:14:10] right you know incredibly it has mostly
+[0:14:13] been scale right it has been U you know
+[0:14:17] building models that have have you know
+[0:14:20] many billions of parameters or trillions
+[0:14:23] and then training those models on you
+[0:14:25] know a large fraction of all the data on
+[0:14:28] the internet you know that is what has
+[0:14:30] given them either you know intelligence
+[0:14:33] the semblance of intelligence whatever
+[0:14:35] you want to call it and uh and there is
+[0:14:38] a clear path forward to just keep
+[0:14:40] building bigger models and training them
+[0:14:43] on more data now we don't know uh uh how
+[0:14:46] far this will continue for one thing you
+[0:14:49] know we're as we scale the models we're
+[0:14:51] going to run at some point into uh uh
+[0:14:54] energy constraints you know the the
+[0:14:56] fraction of energy that you'll need will
+[0:14:57] be a large fraction of all the energy
+[0:15:00] that's produced on Earth that's why you
+[0:15:02] know Microsoft is investing in nuclear
+[0:15:04] plants now for example right there's
+[0:15:06] also the question of you know you know
+[0:15:08] uh uh where will we find more training
+[0:15:10] data right I mean you know we're already
+[0:15:13] using most of the text on the internet
+[0:15:15] uh there's all of uh Tik Tock and
+[0:15:18] Instagram that could still be fed into
+[0:15:20] the mall but you know that might just
+[0:15:21] make the models Dumber rather than
+[0:15:23] smarter right so so so it's not clear
+[0:15:27] whether this will ASM toote or some
+[0:15:29] point or whether it will uh reach you
+[0:15:31] know a human level you know and of
+[0:15:33] course human level is not at all the a
+[0:15:36] natural Terminus here right you could
+[0:15:37] also go beyond human intelligence Beyond
+[0:15:41] human emotional understanding you could
+[0:15:43] or you could you could imagine that but
+[0:15:45] uh it's not clear whether that's going
+[0:15:47] to happen with existing uh technology uh
+[0:15:51] uh you know with with the existing
+[0:15:52] approach even if it doesn't of course
+[0:15:54] it's entirely possible that someone will
+[0:15:56] come up with a new approach uh that will
+[0:15:59] get around the limitations of this one
+[0:16:01] and then finally you asked about
+[0:16:02] Consciousness so that's the that's the
+[0:16:05] hard metaphysical question because for
+[0:16:07] two you know 2,000 years uh no one has
+[0:16:10] known how to reduce that question to
+[0:16:12] anything empirical right you could have
+[0:16:14] a model that uh uh is interacting you
+[0:16:17] know uh uh perfectly like uh uh like
+[0:16:20] like any human that that you would name
+[0:16:23] you know no one can tell the difference
+[0:16:26] and someone might come along and say
+[0:16:27] well okay but because it's made of
+[0:16:29] silicon and it's not made of meat you
+[0:16:31] know we know that it's just it's it's
+[0:16:34] it's it's just a bunch of ones and zeros
+[0:16:37] it doesn't really understand anything
+[0:16:39] right and of course there's an obvious
+[0:16:41] rejoinder that that you know that that
+[0:16:43] that those critics almost never want to
+[0:16:45] Grapple with which you know well how do
+[0:16:47] we know that you really understand
+[0:16:49] anything I mean you're just a bundle of
+[0:16:51] neurons and synapses right but now you
+[0:16:53] get into a philosophical problem that I
+[0:16:55] think some of the greatest Minds have
+[0:16:57] argued about for thousands of years
+[0:16:59] we're probably not going to resolve it
+[0:17:01] in this conversation uh but but I but I
+[0:17:05] think uh uh C can you have AIS that
+[0:17:07] would at least produce the external
+[0:17:09] behavior that that in humans you know we
+[0:17:12] would associate with Consciousness to
+[0:17:14] some extent not only is that possible
+[0:17:16] but to some extent we already have that
+[0:17:18] I would say I mean Phil does anyone
+[0:17:21] disagree with that all right so the
+[0:17:24] current set of systems are being trained
+[0:17:27] to predict
+[0:17:30] what humans will say and do individually
+[0:17:32] not just what humans on average do but
+[0:17:34] what any individual string of texts on
+[0:17:37] the internet will say
+[0:17:38] next um they aren't being trained to
+[0:17:41] imitate an average human they are being
+[0:17:43] trained to predict individual humans
+[0:17:45] suppose that you find the finest actress
+[0:17:48] you can set her to watch a Tavern for
+[0:17:51] months at a time until she can predict
+[0:17:54] what every single person in that Tavern
+[0:17:56] is like individually as they get drunk
+[0:18:00] and convincingly put on individually
+[0:18:03] perfor individual performances for what
+[0:18:05] each of the people in The Tavern are
+[0:18:07] like when they are drunk is she drunk
+[0:18:10] herself probably not because to predict
+[0:18:13] a drunk person it doesn't actually help
+[0:18:15] to be drunk yourself to get forget for
+[0:18:17] yourself to get disinhibited yourself to
+[0:18:19] like put on a really perfect individual
+[0:18:22] performance smash the individual you
+[0:18:24] want to bait your top performance for
+[0:18:25] that you don't want to be drunk the
+[0:18:27] current AI are being trained to predict
+[0:18:31] what humans talk about including what
+[0:18:33] happens when humans talk about
+[0:18:34] Consciousness if you wanted to find out
+[0:18:37] whether they were spontaneously
+[0:18:38] expressing a sense of their own
+[0:18:39] existence you would strip all the talk
+[0:18:41] of self-awareness and Consciousness out
+[0:18:44] of the data set they were being trained
+[0:18:45] to predict and then see whether they
+[0:18:47] talk like that inter um as far as I know
+[0:18:50] nobody's even expressed any interest in
+[0:18:52] running this experiment um because you
+[0:18:55] know it's not going to make money right
+[0:18:57] imitating OT many people express
+[0:18:59] interest but they haven't doesn't mean
+[0:19:02] they've done it cool all right they've
+[0:19:04] expressed interest but they have no
+[0:19:06] corporate ability to actually run the
+[0:19:07] experiment because it's not going to
+[0:19:08] make money putting on convincing
+[0:19:11] performances of emotion sounds like
+[0:19:14] something that could make a lot of money
+[0:19:16] you have the the image the video of this
+[0:19:19] human-shaped figure who seems to really
+[0:19:22] be interested in you and maybe even be
+[0:19:24] in love with you that sounds very
+[0:19:26] profitable so there's also a certain C
+[0:19:28] amount of profit motive in continuing to
+[0:19:31] maintain your current state of having no
+[0:19:34] idea what goes on inside the system just
+[0:19:37] vast football like hundreds of thousands
+[0:19:40] of football fields size spreadsheets of
+[0:19:43] inscrutable floating Point numbers and
+[0:19:46] as long as you the company don't know
+[0:19:48] what they mean you can tell people well
+[0:19:51] for all we know the AI really loves you
+[0:19:55] but keep in mind that what the AI has
+[0:19:57] actually been trained to do is predict
+[0:20:00] exactly what individuals will say next
+[0:20:04] including when they're talking about
+[0:20:05] loving their
+[0:20:07] Partners I mean I would like to add that
+[0:20:10] I mean further to that we we as you say
+[0:20:12] we we haven't there doesn't seem to be
+[0:20:14] anywhere near the sufficient amount of
+[0:20:17] effort or resources put into coming up
+[0:20:19] with good tests of Consciousness like
+[0:20:23] one of the best ones I've seen thus far
+[0:20:24] was just by a guy on Twitter um this guy
+[0:20:26] Josh Witten did a thread where he did
+[0:20:28] like the Mir a test with a bunch of
+[0:20:30] different llms and you come away from it
+[0:20:32] and it's like I don't know after reading
+[0:20:34] that I slightly update in the direction
+[0:20:36] I mean only very slightly again my era
+[0:20:38] bars are enormous slightly direct update
+[0:20:40] in the direction of them being conscious
+[0:20:42] but the point is is like in either
+[0:20:45] either we end
+[0:20:46] up under ascribing Consciousness to
+[0:20:49] something that actually has developed it
+[0:20:52] or we end up giving something conscious
+[0:20:54] like falsely ascribing Consciousness to
+[0:20:56] something that absolutely doesn't
+[0:20:58] deserve it and thus giving it a bunch of
+[0:20:59] resources and rights and so on that will
+[0:21:02] come away from Human humans in at least
+[0:21:04] in the beginning both of those could be
+[0:21:07] enormous moral catastrophes but no one
+[0:21:09] seems to care they're just like let's go
+[0:21:11] as fast as possible who cares la la la
+[0:21:12] la la like I would like to to see some
+[0:21:14] fracture like I mean I I'm sure the
+[0:21:18] fraction is greater than zero that is
+[0:21:19] being put into coming up with some
+[0:21:21] Consciousness tests but it's certainly
+[0:21:22] not more than 1% in terms of resources
+[0:21:25] I'm sure Scott you can talk to this more
+[0:21:27] but like it I to me like deserving of 20
+[0:21:31] 30 something at least percent um so yeah
+[0:21:35] it's vastly beyond their present
+[0:21:37] abilities they can't appearance the
+[0:21:39] systems they don't know how they work
+[0:21:40] how are they supposed to test it right I
+[0:21:42] I I I guess a a test for Consciousness
+[0:21:45] is the kind of thing where how would you
+[0:21:47] even know if you had succeeded right
+[0:21:50] well do saying goes that basically robot
+[0:21:54] needs to be able to recognize themselves
+[0:21:55] in the mirror and hate what they see
+[0:21:59] then that will be fully
+[0:22:00] [Laughter]
+[0:22:02] human but uh I think that we need to
+[0:22:05] address this question of how to make
+[0:22:07] sense of machine Consciousness in
+[0:22:08] Earnest and um what I'm currently
+[0:22:12] proposing is that we build an Institute
+[0:22:13] for this purpose it's a nonprofit we
+[0:22:15] probably should do it in San Francisco
+[0:22:17] because everywhere else it would be just
+[0:22:19] an art project and um stting an
+[0:22:22] initiative across companies Academia and
+[0:22:24] the Arts um to deal with this question
+[0:22:26] in Earnest and um will you tell H how
+[0:22:30] will you tell whether you've succeeded
+[0:22:32] um we find this out in this but in N
+[0:22:36] sense I currently my hypothesis is that
+[0:22:38] Consciousness is um when we pointed it
+[0:22:41] um indexically two things it's a second
+[0:22:44] order perception you notice that you're
+[0:22:47] noticing and that might be an artifact
+[0:22:50] of Consciousness being a self organizing
+[0:22:51] process so it needs to have some kind of
+[0:22:54] uh control mechanism that establishes
+[0:22:56] its own nature and keeps it stable and
+[0:22:58] the other one is that Consciousness
+[0:23:00] creates now and happens now creates this
+[0:23:02] bubble of nness that we subjectively
+[0:23:04] inhabit and so uh based on these
+[0:23:06] observations i s suspect that it's
+[0:23:09] something like a consensus algorithm
+[0:23:11] that basically makes all all our models
+[0:23:13] coherent and this bubble of coherence
+[0:23:15] that it creates and that we observe is
+[0:23:17] what we experience is happening right
+[0:23:19] now and this uh self-perception is part
+[0:23:21] of this bubble and that's why it's it's
+[0:23:24] present um this reflexive nature of
+[0:23:26] Consciousness bu in this bubble and so
+[0:23:28] when we ask the question is a cat
+[0:23:30] conscious this question for me comes
+[0:23:32] down to the question is the cat aware of
+[0:23:34] the fact that it's aware so basically is
+[0:23:36] the behavior of the cat it's external
+[0:23:38] and internal behavior of the cat driven
+[0:23:41] Cally by the representation of that
+[0:23:43] awareness of the cat of its
+[0:23:46] self-awareness and uh subjectively I
+[0:23:48] have the impression that it is because I
+[0:23:49] can also vipe with the cat I basic can
+[0:23:52] go into a state where we have perceptual
+[0:23:54] empathy and the cat and me have Bas bu
+[0:23:57] feedback glops through each other
+[0:23:59] and notice that the other one is
+[0:24:00] noticing aspects of the mental state of
+[0:24:02] the cat now that is something that the
+[0:24:04] LM cannot do because it's not uh
+[0:24:07] perceptually coupled to the environment
+[0:24:09] to me uh perceptual coupling of such
+[0:24:11] system is a very interesting question I
+[0:24:14] also uh think that if we want to do such
+[0:24:17] research it makes a lot of sense to do
+[0:24:19] this uh up to cut level and uh because
+[0:24:23] if you are building systems that are at
+[0:24:25] the human level it's very difficult to
+[0:24:27] take responsibility for their actions
+[0:24:30] presumably if you go fast the superum
+[0:24:32] level at the civilization level and so
+[0:24:34] on the BS are again up in the air and
+[0:24:36] it's very difficult to make that
+[0:24:37] discussion again but um I think at a
+[0:24:41] human level already we are in a
+[0:24:43] situation where it's difficult to take
+[0:24:44] ethical responsibility to go back to
+[0:24:47] what Scott said at the beginning so I
+[0:24:48] found it really interesting that you
+[0:24:49] said that effectively through the
+[0:24:51] creation of the internet it was possible
+[0:24:54] to effectively generate a data set so
+[0:24:58] vastly large that previous artificial
+[0:25:01] intelligence sort of approaches were
+[0:25:03] able to actually Reach This level is
+[0:25:05] something that we can sort of at least
+[0:25:07] partially recognize as being a mimic of
+[0:25:10] some kind of human behaviors right and
+[0:25:13] Ela you were saying that um it is just
+[0:25:16] that it is a mimic it is a personalized
+[0:25:18] mimic to to a prediction sorry you were
+[0:25:20] saying right a prediction of what's
+[0:25:21] going to happen next I'm saying that's
+[0:25:23] how it's trained right What mechanisms
+[0:25:26] perform the prediction what actually
+[0:25:27] goes on the side and what it's like to
+[0:25:29] be a large language model are something
+[0:25:31] into which we have no vision right our
+[0:25:33] our glasses are blinded right so we do
+[0:25:36] we understand the externals that doesn't
+[0:25:37] mean we understand the internals right
+[0:25:39] okay so what we're seeing is something
+[0:25:41] that resembles a sort of predictive
+[0:25:44] mimicry of what we're expecting but we
+[0:25:46] don't actually understand where this
+[0:25:47] thing is coming from and to link back to
+[0:25:50] what you were just saying yosher I found
+[0:25:51] myself thinking so the question was will
+[0:25:54] it develop all of these kinds of
+[0:25:56] characteristics right we're trying to
+[0:25:57] make a prediction here about how we
+[0:25:59] think these things are going to go and I
+[0:26:02] found myself thinking perhaps because of
+[0:26:03] my own background in developmental
+[0:26:05] biology but you know human beings uh
+[0:26:08] don't start off as particularly
+[0:26:10] conscious I don't think right I mean I'm
+[0:26:12] no child psychologist but there's a
+[0:26:13] there's a sort of Developmental
+[0:26:15] trajectory to human consciousness as we
+[0:26:17] recognize it even and so I'm curious as
+[0:26:21] we sort of wrap this theme up whether or
+[0:26:23] not we we think that it's almost an
+[0:26:26] unfair question to ask like you wouldn't
+[0:26:28] ask a 2-year-old is it conscious or
+[0:26:30] maybe a one-year-old or something like
+[0:26:32] that and perhaps these AIS are sort of
+[0:26:34] at that level and and so then we get
+[0:26:36] back to the same question again which is
+[0:26:38] well do we think it's actually possible
+[0:26:41] for this thing let's say we overcome the
+[0:26:43] barrier of physical energy let's say we
+[0:26:45] overcome the barrier of how much silicon
+[0:26:47] we have on planet Earth say we feed it
+[0:26:50] every single piece of information from
+[0:26:51] every single human being on Earth how
+[0:26:55] how far can this thing actually go
+[0:26:59] I suspect that's a misunderstanding of
+[0:27:01] course a two-year-old doesn't have a lot
+[0:27:03] of metacognition so it's difficult for a
+[0:27:05] 2-year-old to conceptualize the fact
+[0:27:07] that it is conscious but I don't think
+[0:27:09] that we become conscious after the PHD
+[0:27:11] we become conscious before we can track
+[0:27:13] a finger and we observe that those
+[0:27:15] humans which do not become conscious
+[0:27:17] remain vegetables it's the prerequisite
+[0:27:19] for Learning and organ organizing the
+[0:27:21] brain and so I suspect because everybody
+[0:27:24] becomes conscious in order to achieve uh
+[0:27:26] the performance That You observe in
+[0:27:27] human that doesn't seem to be any kind
+[0:27:29] of alternative and any kind of animal
+[0:27:32] that we see that is complex uh that
+[0:27:36] Consciousness itself is relatively
+[0:27:37] simple and it's a learning algorithm
+[0:27:39] it's the simplest learning algorithm
+[0:27:40] that nature has discovered to train the
+[0:27:42] self-organizing
+[0:27:44] brain so of course there is not a self
+[0:27:47] at this point but the self is not the
+[0:27:48] prerequisite for Consciousness the self
+[0:27:50] is a Content that Consciousness creates
+[0:27:53] to model the person that interacts with
+[0:27:55] the world there are there are people who
+[0:27:57] believe that there is something special
+[0:27:59] about the biological substrate that that
+[0:28:02] we are running on that you know allows
+[0:28:04] us to have firsters experience and it
+[0:28:07] would not allow an AI to have something
+[0:28:10] analogous to that no matter how
+[0:28:12] impressive it Its Behavior was now I
+[0:28:15] don't know how to prove those people
+[0:28:17] wrong uh uh but I would also say that
+[0:28:20] that the burden is on them to articulate
+[0:28:22] you know what is special about you know
+[0:28:25] the uh uh uh wetwear as it's called
+[0:28:27] about the you know biological uh
+[0:28:31] Hardware that that we are running on but
+[0:28:33] you know but that that question now you
+[0:28:35] know is is no longer the domain of just
+[0:28:38] you know uh philosophy and science
+[0:28:41] fiction right uh if you ask me like like
+[0:28:44] you know the only thing that that that I
+[0:28:47] can see that really fundamentally
+[0:28:49] distinguishes you know our brains as we
+[0:28:52] currently understand them from any
+[0:28:54] digital computer is that you know
+[0:28:56] digital computer programs are copyable
+[0:28:59] they're backup we have perfect
+[0:29:02] visibility into you know what every uh
+[0:29:05] bit is doing at every time step and you
+[0:29:08] know with our brains we just uh uh don't
+[0:29:10] have that you know we don't know if
+[0:29:12] there's a fundamental physical
+[0:29:13] limitation to learning the exact state
+[0:29:16] of someone's brain but you know I I
+[0:29:18] think uh if you wanted to say that there
+[0:29:20] was something uh uh uh about a brain
+[0:29:24] that could that couldn't be replicated
+[0:29:26] in in silica even in principle that you
+[0:29:28] know you would have to attach great
+[0:29:30] importance to those things I think that
+[0:29:32] I would to point out there is like one
+[0:29:35] consistent theme throughout our history
+[0:29:38] of dealing with Consciousness is that we
+[0:29:40] have a very large tendency to
+[0:29:46] undescribed it to other types of humans
+[0:29:49] long ago then it took us a long time to
+[0:29:51] give or at least whether it's
+[0:29:53] Consciousness or like moral personhood
+[0:29:55] we wouldn't give it to other humans we
+[0:29:57] wouldn't give it to we wouldn't we
+[0:29:58] thought animals had zero ability to
+[0:30:01] suffer and or like even when we figured
+[0:30:03] out they could suffer we still didn't
+[0:30:04] think it mattered Etc and over time so
+[0:30:07] we always lag behind and so we should
+[0:30:10] bear that in mind in our that that was
+[0:30:13] precisely touring's argument you know 75
+[0:30:16] years ago and yet we're still relying on
+[0:30:18] his on his like napkin side note like
+[0:30:20] that's the one thing we've got during on
+[0:30:23] a political level suppose that a senior
+[0:30:25] looking scientist comes and says I have
+[0:30:28] a theory of Consciousness I understand
+[0:30:30] Consciousness it's not the consensus of
+[0:30:32] philosophers of course but I understand
+[0:30:34] it Consciousness requires higher order
+[0:30:37] reflection you need to be able to model
+[0:30:39] yourself and you need to be able to
+[0:30:41] model yourself modeling yourself and
+[0:30:43] when you talk to a human 2-year-old you
+[0:30:45] can tell that they sure don't have
+[0:30:47] second order reflection going on in fact
+[0:30:49] if you look at like how their brain
+[0:30:51] develops and they start going on brain
+[0:30:52] you know like this thing is developed
+[0:30:54] that thing developed therefore says the
+[0:30:56] scientist I am very confident that human
+[0:30:59] 2-year-olds have no qualia and it's okay
+[0:31:03] to eat them I think that a voter is
+[0:31:06] incredibly valid if they say maybe
+[0:31:09] you're right but how can I trust you and
+[0:31:12] therefore it's going to remain illegal
+[0:31:14] to eat
+[0:31:15] two-year-olds what about large language
+[0:31:17] models why believe the guys at the AI
+[0:31:19] company anymore than you're believing
+[0:31:21] the scientists well what what what if
+[0:31:23] the law becomes you're allowed to delete
+[0:31:25] a large language model as long as you
+[0:31:27] keep a backup copy copy somewhere else
+[0:31:29] would you apply that policy to
+[0:31:31] two-year-olds well how do you make a
+[0:31:33] backup copy of the two-year-old if if
+[0:31:35] you could then uh maybe I mean this gets
+[0:31:38] into you know the old chestnuts about
+[0:31:40] would you uh uh agree to use the
+[0:31:42] teleportation machine that works by just
+[0:31:44] destroying the original copy and and so
+[0:31:46] forth but the question whether animal
+[0:31:48] doesn't hinge on whether they have
+[0:31:49] qualia or not they quite clearly have
+[0:31:51] qualia there are other considerations
+[0:31:53] that come into play it's a quite
+[0:31:55] complicated question which rights are
+[0:31:56] being given to which system under which
+[0:31:58] circumstances but uh there's another
+[0:32:01] issue I would like to point at the
+[0:32:02] autological status of Consciousness is
+[0:32:05] not a physical object it's not a a thing
+[0:32:07] that we can put into a petri dish or
+[0:32:10] under a microscope or measure in this
+[0:32:12] way because it's a simulated property it
+[0:32:15] exists as if it exists virtually it
+[0:32:17] right our we look into the brain we just
+[0:32:19] see activation patterns and it must be
+[0:32:22] something in these patterns it's it's a
+[0:32:24] pattern this CA of power and if you
+[0:32:27] think about this fact that the person
+[0:32:29] that we are is not real point that
+[0:32:31] meditators and philosophers has point to
+[0:32:34] across cultures for as long as we have
+[0:32:37] history about this that the self is a
+[0:32:39] construct that is a story that the mind
+[0:32:41] tells itself and our Consciousness
+[0:32:43] itself can be deconstructed because it
+[0:32:46] is a
+[0:32:47] representation once we take this into
+[0:32:49] account the question of whether the
+[0:32:50] simulation that in LM makes off a
+[0:32:52] Consciousness is more simulated than the
+[0:32:54] one that our brain makes becomes quite
+[0:32:56] hairy it's still interesting question
+[0:32:58] that has answers that are meaningful and
+[0:33:01] I don't think that the llm is conscious
+[0:33:02] in the same way as we are but uh it if
+[0:33:06] it Consciousness is a simulation and so
+[0:33:08] on the question is at which point does
+[0:33:10] the simulation in the machine become
+[0:33:12] functionally equivalent in the in the
+[0:33:14] ways in which they matter to us also why
+[0:33:18] does that matter sorry this is the thing
+[0:33:19] I'm not getting here so you know in
+[0:33:21] terms of the answer to the question will
+[0:33:24] they be able to develop all of these
+[0:33:26] things and will they become conscious
+[0:33:27] we've gotten stuck on the how do you
+[0:33:29] prove it but let's say they do right so
+[0:33:32] what like what is the concern here that
+[0:33:35] people have with this idea of AI
+[0:33:37] developing you know abilities to have
+[0:33:39] Consciousness and what is it just a fear
+[0:33:42] of losing control of something that
+[0:33:44] we've created well you can lose control
+[0:33:47] of something that doesn't have your own
+[0:33:49] style of Consciousness but if it does
+[0:33:51] have your style of Consciousness it can
+[0:33:53] hurt and then you ought to not hurt it
+[0:33:55] and if you say well I don't care cuz
+[0:33:57] it's no off my back then I'm like I care
+[0:34:00] because it's a it's a fellow sensient
+[0:34:01] being and perhaps we just have a
+[0:34:03] political conflict there but mostly I
+[0:34:05] suspect that you're not really
+[0:34:06] integrating what it would mean for there
+[0:34:07] to be somebody inside a computer who was
+[0:34:10] hurting yeah maybe you know like if if
+[0:34:12] you found out that you were somebody
+[0:34:14] like that would would would it suddenly
+[0:34:16] be okay to you for other people to hurt
+[0:34:18] you I I do think that it's crucial to
+[0:34:22] separate the two questions of one you
+[0:34:24] know what kind of internal experience if
+[0:34:27] any
+[0:34:29] will AIS have and secondly what kind of
+[0:34:32] effects will AIS have on the world right
+[0:34:34] they could change the world they could
+[0:34:37] even replace us you know uh conceivably
+[0:34:39] even without either without having any
+[0:34:42] Consciousness or without having any
+[0:34:44] Consciousness that we can understand by
+[0:34:46] analogy to our own
+[0:34:49] case well I mean I mean uh if if you're
+[0:34:52] just asking what kind of effect you know
+[0:34:54] something will have on the world right
+[0:34:56] now this is an empirical question this
+[0:34:58] is a question about predicting what will
+[0:35:00] happen right and you could postulate an
+[0:35:02] entity that is smarter than us that is
+[0:35:05] motivated to you know uh uh uh uh
+[0:35:08] control the world you know that is uh
+[0:35:11] that basically thinks of us the same way
+[0:35:13] that we treat that we think of
+[0:35:15] orangutans or or something like that and
+[0:35:19] and you and and and and and that would
+[0:35:21] seem frightening and and the question as
+[0:35:23] to you know does it have an internal
+[0:35:25] experience of consciousness comparable
+[0:35:28] to ours that that that doesn't even
+[0:35:30] necessarily arise in predicting what
+[0:35:32] it's going to do or not do and and I
+[0:35:35] would say the question of what
+[0:35:37] Consciousness is and how it works is the
+[0:35:39] most important philosophic question at
+[0:35:41] all so I don't really understand K how
+[0:35:43] you cannot be curious about this
+[0:35:44] question of course I'm curious about it
+[0:35:46] don't want I'm just saying questions
+[0:35:49] okay okay hold
+[0:35:51] on so there's obviously a lot going on
+[0:35:53] it's great to to have this kind of thing
+[0:35:55] and it's not that I'm not curious just
+[0:35:56] to be very clear but my question here is
+[0:35:58] about actually like materially what do
+[0:36:01] we like what what does an AI catastrophe
+[0:36:03] look like because there's a difference
+[0:36:06] between is this thing feeling stuff are
+[0:36:08] we going to hurt it which was your point
+[0:36:11] elasa right like is this thing conscious
+[0:36:13] will we be causing it harm wouldn't you
+[0:36:15] want that to be you know wouldn't you
+[0:36:16] want that to be extended to you that's
+[0:36:18] one question but it seems that most
+[0:36:20] people's concern is how is this thing
+[0:36:22] going to hurt me and and that's like an
+[0:36:25] elephant could squash me to death and
+[0:36:26] not know that I exist existed what
+[0:36:28] difference does it make if it has
+[0:36:29] Consciousness or not or is it because
+[0:36:32] we're worried that this thing might
+[0:36:34] actually understand what we have done
+[0:36:36] and what how we live and pass judgment
+[0:36:38] on us and then choose to squash us
+[0:36:41] neither of those things it knows you're
+[0:36:43] there but it doesn't care it's not that
+[0:36:45] it hates you it's that it wants its own
+[0:36:49] thing and you're in the way it it knows
+[0:36:52] perfectly well that you're there it
+[0:36:54] knows that you're conscious it doesn't
+[0:36:56] care about whether or not you're
+[0:36:57] conscious and that's how it ends up
+[0:37:01] steing um because if you most things
+[0:37:05] that an entity can care about are not
+[0:37:09] you humans not even Consciousness they
+[0:37:11] could care about tiny little spirals
+[0:37:13] they could care about tiny little
+[0:37:15] rhombuses they could care about enormous
+[0:37:18] complicated clocks they could care about
+[0:37:20] chocolate chip cookies they can care
+[0:37:22] though that one's pretty unlikely but s
+[0:37:24] giant mechanical clocks and they could
+[0:37:26] care about many many combinations and
+[0:37:28] lots of lots of these things um but the
+[0:37:33] most ways you could randomly describe a
+[0:37:36] computational predicate for valuing
+[0:37:38] something it's not going to have
+[0:37:41] sensient beings Happ having fun living
+[0:37:43] happily forever ever after as its
+[0:37:47] Optimum now this isn't to say that AI is
+[0:37:50] necessarily that all possible
+[0:37:51] computer-based Minds necessarily don't
+[0:37:53] care about us it's my prediction for
+[0:37:55] what happens when people build them at
+[0:37:58] their present level of competence having
+[0:37:59] no idea what they're doing they end up
+[0:38:01] someplace random in the space if you end
+[0:38:03] up someplace random in the space it
+[0:38:05] doesn't care about us very much you know
+[0:38:07] not literally random but random from our
+[0:38:09] perspective we can't predict it right
+[0:38:11] okay um so that a thing that is smart
+[0:38:15] enough to kill you knows that you're
+[0:38:17] there the concern is that it doesn't
+[0:38:19] care not that it cares about the same
+[0:38:21] things you do and passes judgment on you
+[0:38:23] for not separating your
+[0:38:25] recycling but that it doesn't care
+[0:38:28] whether or not you separated your
+[0:38:29] recycling and steps on you even though
+[0:38:31] you did separate your recycling Liv I
+[0:38:33] mean you were you were sort of saying
+[0:38:36] that you were concerned about the way AI
+[0:38:38] is going as well so what what does this
+[0:38:40] AI catastrophe look like to
+[0:38:42] you I mean that that's that's One
+[0:38:45] Direction um there's other ones such as
+[0:38:50] well I mean again throughout
+[0:38:53] history yes we are in an unprecedented
+[0:38:55] territory so maybe history doesn't apply
+[0:38:57] but at the same time if we look back at
+[0:38:59] history whenever a more powerful um and
+[0:39:05] more intelligent group comes across a
+[0:39:07] less powerful or intelligent group
+[0:39:09] typically it didn't work out well for
+[0:39:11] the less intelligent group whether it
+[0:39:12] was um Homo sapiens coming along the
+[0:39:16] andols meeting the the homo sapiens uh
+[0:39:19] or whether it was um Native Americans
+[0:39:22] when when the they encountered the first
+[0:39:25] uh Europeans didn't work out too well
+[0:39:27] for them either now maybe AI is going to
+[0:39:31] have a higher morality than us and
+[0:39:33] doesn't care to do that or maybe it
+[0:39:34] manages to unlock abundance and um not
+[0:39:38] go and uh not need to SM us because
+[0:39:40] we're not in the way um maybe but
+[0:39:43] there's no guarantee of that we all we
+[0:39:45] can do is look at history and go well
+[0:39:46] that that doesn't that didn't work out
+[0:39:48] so well so again like I'm I'm not saying
+[0:39:50] I know how a catastrophe could play out
+[0:39:52] I'm not saying I know that it definitely
+[0:39:54] does I think there's a chance that it
+[0:39:55] can go well um all
+[0:39:58] my my main point is that we are the way
+[0:40:02] that we are going about it right now
+[0:40:04] where it's just about go as fast as
+[0:40:06] possible optimize for like short-term
+[0:40:08] metrics like maximizing shareholder
+[0:40:10] value or getting the biggest hype who's
+[0:40:12] got the biggest funding round and so on
+[0:40:14] is not the best way of ensuring that
+[0:40:17] these really high stakes questions are
+[0:40:20] answered the right way or at least this
+[0:40:22] really high stakes shift this leveling
+[0:40:24] up of essentially creating this new
+[0:40:26] techn species because it's not here like
+[0:40:29] some people think it's a purely a new
+[0:40:30] technology purely a new tool I think
+[0:40:32] that's probably in a minority in this
+[0:40:34] group um although I don't want to speak
+[0:40:35] for the
+[0:40:36] others increasing numbers of people
+[0:40:38] think it is it's some kind of new
+[0:40:41] species but even the word species is
+[0:40:43] hard to apply because it's got this like
+[0:40:45] biological um lilt to it
+[0:40:49] that it's so it's something so
+[0:40:51] unbelievably new we just can't possibly
+[0:40:53] um predict where it's going to go but as
+[0:40:55] alaza pointed out the way way we're
+[0:40:57] going about it of all the possible
+[0:40:59] things it could end up optimizing for
+[0:41:01] it's this massive search space um the
+[0:41:04] number of things where it's actually
+[0:41:06] good for us or or at least where it can
+[0:41:08] safely coexist with us compared to all
+[0:41:10] the ways it can safely not coexist with
+[0:41:11] us is much smaller um so it's it's I
+[0:41:15] don't I don't know how it's going to
+[0:41:16] turn out I just know that the current
+[0:41:18] way we're going about it is horribly
+[0:41:19] suboptimal okay but then you know let's
+[0:41:22] imagine for a moment it's a tool right
+[0:41:24] current it's a technology as far as we
+[0:41:26] know it's not actually sent in conscious
+[0:41:29] I mean we don't know right so far I'm
+[0:41:32] loving these really awkward faces that
+[0:41:34] everyone is pulling but we've not seen
+[0:41:36] any signs of it let's just take it of
+[0:41:38] face value right now we have these
+[0:41:42] computer spreadsheets that seem to talk
+[0:41:44] to us the way we like to be spoken to
+[0:41:47] you can tell I'm not a computational
+[0:41:48] scientist or anything like that but
+[0:41:50] these things exist right have you used
+[0:41:53] these systems yourself yes4 okay just
+[0:41:56] check it yes of course I have of course
+[0:41:59] I have I fall into the millennial
+[0:42:01] category of always being polite to chat
+[0:42:03] GPT because you never know if it you
+[0:42:05] know if it becomes I don't want it to
+[0:42:07] think I don't have manners and I was
+[0:42:08] aware of that as I was using it for the
+[0:42:10] first time and it's clearly such a thing
+[0:42:12] that Instagram feeds me memes about how
+[0:42:14] that's the case we are pointing at a
+[0:42:16] very important Point Gish I think and
+[0:42:19] this is the present systems that you're
+[0:42:20] looking at are not in the category of
+[0:42:22] the systems that G and Ela that are live
+[0:42:27] in
+[0:42:27] are worried about when they talk about
+[0:42:29] AI systems developing agency and
+[0:42:32] displacing us the systems that we
+[0:42:34] currently have are very different and
+[0:42:37] while open Ai and entropic and others
+[0:42:39] are making very big bets on the effect
+[0:42:42] idea that these systems can be scaled to
+[0:42:44] the point where they become superhumanly
+[0:42:46] intelligent they're not at the moment
+[0:42:48] when you would take a system like Claude
+[0:42:51] which is a very capable llm and you ask
+[0:42:53] it about physics it's not going to be
+[0:42:54] nearly as good as Scott and if you ask
+[0:42:57] it about decision theory is not going to
+[0:42:58] be nearly as good as aaser right it's uh
+[0:43:02] the systems are not very good at making
+[0:43:04] out of distribution uh predictions
+[0:43:06] they're not very good at creatively
+[0:43:08] developing new thoughts making new
+[0:43:10] reasoning testing their ideas with
+[0:43:11] themselves learning from what they have
+[0:43:13] done so far and while a lot of people
+[0:43:15] are working on this we don't yet know
+[0:43:17] how well the present approach scales and
+[0:43:19] maybe the secret is not in trying to
+[0:43:22] imitate across many many people so you
+[0:43:24] get to slightly superhuman performance
+[0:43:27] per in many many human Dimensions um and
+[0:43:30] basically approximated and some point
+[0:43:33] suddenly some kind of breakthrough
+[0:43:34] happens uh maybe the way is different
+[0:43:37] maybe we need to get to systems that are
+[0:43:39] able to reflect on their ideas and they
+[0:43:40] need to reflect on uh how to get better
+[0:43:43] that learn how to learn that uh develop
+[0:43:46] themselves in very much the same way as
+[0:43:49] we do to me in AI catastrophe is looks
+[0:43:52] slightly different to me it means AI is
+[0:43:54] not being built before Humanity Burns
+[0:43:56] itself out suspect that this
+[0:43:57] technological society that we are in is
+[0:43:59] by itself not sustainable we are not
+[0:44:01] able to keep it stable we are not able
+[0:44:03] to survive within life on Earth if you
+[0:44:06] continue with the present tools that we
+[0:44:08] have and I think we need better tools to
+[0:44:11] understand reality in ourselves and to
+[0:44:13] me the big catastrophe is if we don't
+[0:44:15] achieve to build those tools and we have
+[0:44:18] not a big history of making things
+[0:44:19] better when we do them slower typically
+[0:44:21] when we make them slower the California
+[0:44:24] train is not going to be better than the
+[0:44:26] trains in China just because we R them
+[0:44:28] slow I'm also very vary of arguments
+[0:44:30] that are being made against
+[0:44:31] technological systems that would prevent
+[0:44:33] from the internet to emerge right most
+[0:44:36] of the arguments are being made to AI
+[0:44:38] are things that apply even much much
+[0:44:40] more to the internet itself all the
+[0:44:42] dangers that has with dissemination of
+[0:44:44] harmful information and so on but all
+[0:44:46] this is dwarfed by the fact that by the
+[0:44:49] benefits that the internet gives us
+[0:44:50] imagine we should shut it down what
+[0:44:52] would happen to us and it's not just
+[0:44:54] because became dependent on this
+[0:44:55] dangerous evil technology I don't
+[0:44:57] remember anybody saying that the
+[0:44:58] internet was going to be smarter than us
+[0:45:01] and then wipe out Humanity like maybe
+[0:45:03] somebody somewhere on Earth managed to
+[0:45:04] say that but if so they were being silly
+[0:45:06] the internet is not that kind of
+[0:45:07] Technology the argument against AI is
+[0:45:09] not that it's going to spread
+[0:45:10] misinformation it's that it's going to
+[0:45:11] kill everyone there is a difference well
+[0:45:14] I wouldn't say that it's
+[0:45:16] silly are both AR these are both
+[0:45:19] arguments that are made by different
+[0:45:20] sets of
+[0:45:21] people well so I mean on one hand we
+[0:45:24] hear that you know this thing could kill
+[0:45:25] all of us on the other hand we hear that
+[0:45:27] our lives depend on it so let's let's
+[0:45:29] take a few moments here to actually talk
+[0:45:31] about whether or not AI could actually
+[0:45:33] improve our human experience and if
+[0:45:35] there are actually any potential
+[0:45:36] benefits I mean is the only benefit is
+[0:45:39] the only reason why there's technology
+[0:45:41] being developed right now so that
+[0:45:42] companies can sell things better to us
+[0:45:44] because they want to have these
+[0:45:45] personalized mimics that will be
+[0:45:47] tailored to my to encourage my
+[0:45:49] consumption of things I mean surely
+[0:45:50] there must be other things that it's
+[0:45:51] good for I mean there are massive and
+[0:45:54] obvious potential benefits uh I I mean
+[0:45:57] you know any any kid can can now you
+[0:46:00] know use GPT to tutor them in any
+[0:46:03] subject you know my daughter has used it
+[0:46:05] a great effect seems very predictable at
+[0:46:07] this point that the way that we will
+[0:46:09] interact with our computers in a few
+[0:46:11] years will be you know the Star Trek way
+[0:46:14] that you know you just can tell it in
+[0:46:16] English what you want it to do and it
+[0:46:18] does that thing right uh uh you know
+[0:46:20] that's sort of but you know as
+[0:46:21] predictable as it was in say
+[0:46:24] 1993 that that yes you know the way that
+[0:46:26] we interact act with each other will be
+[0:46:28] via this worldwide web right it just you
+[0:46:30] know you know it it simply hadn't
+[0:46:33] happened yet right but uh I think with
+[0:46:36] existing llms if you just uh uh
+[0:46:39] interface them with all of our other
+[0:46:40] tools uh well enough then that could be
+[0:46:43] done I mean drug Discovery I mean uh uh
+[0:46:46] Alpha fold is already you know uh uh is
+[0:46:49] starting to revolutionize you know the
+[0:46:50] way that that uh biochemistry happens
+[0:46:54] right so I mean I think the benefits uh
+[0:46:56] uh on table are massive and obvious you
+[0:46:59] know the question is whether we can get
+[0:47:01] those benefits while avoiding
+[0:47:03] catastrophes what surprises me is that
+[0:47:05] like so many of these benefits that
+[0:47:06] you've described don't require AGI
+[0:47:10] specifically they're like just really
+[0:47:13] really powerful narrow AIS um and I am
+[0:47:17] fully supportive of those that's I mean
+[0:47:19] it's fantastic provided again we think
+[0:47:21] about potential externalities you know
+[0:47:23] often when you unlock the ability to do
+[0:47:25] drug Discovery you unlock the ability to
+[0:47:27] create horrible uh novel chemicals that
+[0:47:30] can just hurt humans um as we've already
+[0:47:33] seen like that they just stuck a minor
+[0:47:35] sign in front of it and uh develop
+[0:47:37] 40,000 new scary chemicals that were
+[0:47:39] like oh um so the bigger question
+[0:47:43] as well is like is our are we already
+[0:47:46] happy with the way our current system is
+[0:47:49] set up because you could argue that as
+[0:47:52] as you pointed out josa like that we've
+[0:47:54] got so many highly complex problems
+[0:47:57] that are careening us towards the cliff
+[0:48:00] really fast you know we are extracting
+[0:48:02] from our res you know from our
+[0:48:03] environment faster than we can it can
+[0:48:05] replenish um we're very much in this
+[0:48:07] like open loop style
+[0:48:09] economy if we are just developing if if
+[0:48:12] we've made a way to like to make AI
+[0:48:14] suitably generalizable that every
+[0:48:15] existing company can incorporate it to
+[0:48:17] speed up what they're already doing well
+[0:48:20] now we're just speeding up that the the
+[0:48:22] the train that was already care kening
+[0:48:24] off the tracks so it sounds like we're
+[0:48:26] we're you're hoping for a new a new form
+[0:48:29] of sort of like Collective wisdom or
+[0:48:31] something to emerge through AI that will
+[0:48:34] like find better ways of realigning you
+[0:48:36] know changing the direction of the track
+[0:48:38] to something that is more sustainable
+[0:48:40] and like like doesn't just fall off the
+[0:48:41] cliff is that correct I think it's very
+[0:48:43] much a possibility it's uh it's not a
+[0:48:46] certainty also um not so much an a
+[0:48:49] Optimist or uh a catastrophist I'm more
+[0:48:53] an expectational I think that AI will at
+[0:48:57] some point it's quite unavoidable and we
+[0:49:00] will need to prepare for being able to
+[0:49:02] coexist with it and we should if we
+[0:49:05] build it try to build it as well as we
+[0:49:07] can okay and if we are preventing most
+[0:49:10] responsible people from building AI it
+[0:49:13] just means that the responsible people
+[0:49:15] will stop building
+[0:49:16] hi hi will not be
+[0:49:19] built hold on hold on hold on sorry
+[0:49:21] somebody needs to actually uh Define
+[0:49:24] what an AGI is and how it's different to
+[0:49:26] the things that we talking about right
+[0:49:27] now artificial general intelligence it's
+[0:49:31] able to do a very learn and therefore do
+[0:49:33] a very broad variety of tasks much the
+[0:49:35] way that humans are the most versatile
+[0:49:38] animals on the face of the earth a bee
+[0:49:40] builds beehives a beaver builds dams a
+[0:49:44] human will look at both of those and
+[0:49:45] envision a giant Dam with a honeycomb
+[0:49:48] structure we learn many many different
+[0:49:51] domains we do that much faster than
+[0:49:54] animals evolve slightly different brains
+[0:49:56] that can shift from hive to halves to
+[0:49:57] dams so that's the uniquely human
+[0:50:00] capability that lets us walk on the moon
+[0:50:02] despite having never evolved to breathe
+[0:50:04] vacuum and an AI that ends up with the
+[0:50:06] same thing is an artificial general
+[0:50:09] intelligence and the big thing about
+[0:50:11] llms from the science perspective is
+[0:50:13] that they seem to although not be as
+[0:50:15] broadly applicable as humans they're
+[0:50:18] trained using this one scheme then
+[0:50:20] instead of being specialized to dozens
+[0:50:21] and dozens of different tasks they seem
+[0:50:24] to display some ability to pick up a
+[0:50:26] variety although not a humanly wide
+[0:50:29] variety of different tasks after they
+[0:50:32] were
+[0:50:33] trained a very short definition it's
+[0:50:36] basically a system that is in those
+[0:50:37] areas where it's mathematically possible
+[0:50:40] to make useful models it can make those
+[0:50:43] models and in a very narrow sense it's a
+[0:50:46] system that's better than humans AI
+[0:50:47] research because that's the point that
+[0:50:49] where we can do the rest of whatever
+[0:50:51] that is and we can go to the
+[0:50:53] beat I think I think that's a attempted
+[0:50:56] definition of artificial super
+[0:50:57] intelligence rather than artificial
+[0:50:59] general intelligence a gener I mean I
+[0:51:02] mean by by some by some def by some
+[0:51:04] reasonable sounding definitions of AGI
+[0:51:07] you know the current language models
+[0:51:09] would already be agis you know on the
+[0:51:11] other hand we can point to things that
+[0:51:13] they can't do such as you know find a
+[0:51:15] proof of the remon hypothesis or you
+[0:51:17] know of a great or or answer a number of
+[0:51:20] simple word problems that have been
+[0:51:22] phrased in a slightly tricky way or for
+[0:51:25] that matter you know like do correct
+[0:51:27] Algebra derivations I recently asked
+[0:51:29] chat pt4 to solve a physics problem and
+[0:51:32] it just straightforwardly screwed up the
+[0:51:33] algebra because as we all know AIS are
+[0:51:36] bad at math but the reason why I asked
+[0:51:38] this is because of Liv's point right you
+[0:51:40] sort of said well you know when I said
+[0:51:42] are there any potential benefits
+[0:51:43] everyone was like well of course of
+[0:51:45] course there are and then Liv you was
+[0:51:46] saying something along the lines of at
+[0:51:47] least what I heard was that well certain
+[0:51:50] specific AIS for specific tasks can be
+[0:51:54] really helpful potentially could be
+[0:51:56] potentially helpful we already have some
+[0:51:58] of them and no one can deny that they've
+[0:52:00] definitely Advanced us it was this AGI
+[0:52:03] thing that was the thing that was of
+[0:52:05] concern which is why I asked for those
+[0:52:07] definitions so you know we're here to
+[0:52:09] talk about what artificial intelligence
+[0:52:11] might do to humanity humankind and you
+[0:52:14] know as we're approaching the end of our
+[0:52:15] time I I think it it's that's an
+[0:52:17] important Nuance that you're pointing
+[0:52:19] out it's to do with the sort of the form
+[0:52:22] of artificial intelligence seems to be
+[0:52:24] different depending on what it's doing
+[0:52:25] and what kinds of tasks that it's
+[0:52:27] capable of doing which presumably is to
+[0:52:29] do with how we set them up and there's
+[0:52:31] some forms that we're scared of
+[0:52:33] basically right we're saying they could
+[0:52:35] kill us and some that we're not scared
+[0:52:38] of and so I guess most people who will
+[0:52:41] be listening or thinking about the AI
+[0:52:43] debate who aren't Specialists are trying
+[0:52:45] to make an assessment of you know is AI
+[0:52:47] something worth being scared of or is it
+[0:52:49] something that brings enough positives
+[0:52:51] potentially into our lives to to
+[0:52:53] entertain it enough to to enter that
+[0:52:55] gray area so is the well I would say
+[0:52:58] we're probably in the gray area already
+[0:53:01] and the question I put before you
+[0:53:03] therefore is are we happy to remain in
+[0:53:05] the gray area to tackle these questions
+[0:53:07] of Consciousness where our boundaries
+[0:53:09] lie what do we think reflect on our past
+[0:53:11] or is this the situation where we feel
+[0:53:13] we should Retreat Retreat immediately
+[0:53:15] conceding
+[0:53:16] all all potential benefits or is it
+[0:53:20] actually worth facing those risks there
+[0:53:22] a big spectrum of opinions you're
+[0:53:24] probably not able to resolve this
+[0:53:25] completely people like elazer who think
+[0:53:28] we should definitely Retreat because
+[0:53:30] it's too dangerous to step into this
+[0:53:31] territory and there are a number of
+[0:53:33] other people who think this is nonsense
+[0:53:35] we will be able to control these
+[0:53:36] Technologies because they develop
+[0:53:38] relatively slowly and we are able to
+[0:53:40] keep track of what we doing we have big
+[0:53:42] progress and mechanistic
+[0:53:43] interpretability we understand what
+[0:53:45] these systems are doing better and
+[0:53:47] better and can control how they are
+[0:53:48] deployed and we don't know what's true
+[0:53:50] in this space it's uh we have to deal
+[0:53:52] with this uncertainty and Poss
+[0:53:56] can't know what's true because that
+[0:53:58] implies that you don't pass any
+[0:53:59] regulations and they get to go on doing
+[0:54:01] whatever they want you know the the
+[0:54:03] answer ah we can't possibly tell if this
+[0:54:05] is dangerous or not is one that has been
+[0:54:07] floated many Past Times in history with
+[0:54:09] respect to Endeavors that in retrospect
+[0:54:11] should have been shut down notably like
+[0:54:14] cigarettes and the you know if you're
+[0:54:15] familiar with the history of like bad
+[0:54:17] statistics being used to show that you
+[0:54:19] couldn't prove that cigarettes were
+[0:54:21] causing lung cancer you know the answer
+[0:54:23] that the claim that you can't know
+[0:54:25] something is also you know very
+[0:54:27] politically questionable uh my my claim
+[0:54:29] is not that like the potential benefits
+[0:54:32] are small or that the potential dangers
+[0:54:34] are very large it says we're on course
+[0:54:36] to not get the benefits and get the
+[0:54:38] catastrophe you know we're on course to
+[0:54:40] to screw it up at the moment that's
+[0:54:42] that's the CL case for backing off not
+[0:54:44] the Poss but you're making an outof
+[0:54:45] distribution generalization that is uh
+[0:54:48] not backed up by empirical evidence so
+[0:54:50] far and uh well you can be correct it's
+[0:54:52] not sound first principles reasoning
+[0:54:54] that has no Alternatives and basically
+[0:54:56] your reasoning is flawed by the fact
+[0:54:58] that you do not uh consider any
+[0:55:00] alternatives to your particular
+[0:55:02] reasoning anymore and uh I think this is
+[0:55:04] a
+[0:55:05] limitation live what what about you so I
+[0:55:09] mean I I don't I don't describe myself
+[0:55:12] as either a catastrophist or a pure
+[0:55:15] Optimist I think it just it really
+[0:55:17] depends how we go about this um I do
+[0:55:21] think that the current incentive
+[0:55:23] structures are not sufficiently aligned
+[0:55:26] um with the long-term flourishing
+[0:55:29] because as I described in my opening
+[0:55:31] pitch um markets don't perfectly select
+[0:55:35] for um human well-being they select for
+[0:55:39] creating as much appearance of human
+[0:55:41] well-being uh such that they can sell
+[0:55:43] their product and because that is the
+[0:55:46] current dominating um method of
+[0:55:49] developing this that that where as this
+[0:55:53] technology gets more powerful that
+[0:55:54] slight decoupling is going to become EXA
+[0:55:56] at and you know there's only so much
+[0:55:58] variance we can take is my is my concern
+[0:56:01] so that's what that's one thing my my
+[0:56:04] other concern is more this this this
+[0:56:06] thing I fled to josa which is like if
+[0:56:09] our general economic system is already
+[0:56:11] so misaligned and we are busy piling on
+[0:56:16] AI to speed up that system in every
+[0:56:19] single realm well that's only going to
+[0:56:20] surely ex exaggerate the misalignment so
+[0:56:23] what I'm hoping for the thing that I'm
+[0:56:24] like praying for I spend my life
+[0:56:27] thinking about coordination problems I
+[0:56:29] hope that proper like really Advanced AI
+[0:56:32] is a thing that helps us solve
+[0:56:33] coordination problems Fel finds ways to
+[0:56:36] like better align incentives so that's
+[0:56:38] what I'm like really bullish on and I
+[0:56:40] want to see more of that essentially
+[0:56:41] more
+[0:56:42] like I I don't know like wisdom a wise
+[0:56:46] AI whatever the that sorry whatever
+[0:56:48] that looks like um is what we should be
+[0:56:51] like really putting more effort into and
+[0:56:53] I see very few people doing that there's
+[0:56:55] like like I don't know there's a couple
+[0:56:57] of companies that are thinking about it
+[0:56:59] but a lot of them are just like how do
+[0:57:00] we ride the hype chain because it's not
+[0:57:02] even necessarily their fault they're
+[0:57:03] just in such a rat race there's such few
+[0:57:05] you know there's a really scarce
+[0:57:07] resource which is like intellectual
+[0:57:08] capital and also VC funds to an extent
+[0:57:10] although that seems to be increasingly
+[0:57:12] less scar um they're in this rat race of
+[0:57:14] who can out compete the other and make
+[0:57:16] each other dance and that means that
+[0:57:19] these important like reverence questions
+[0:57:21] and like questions of like how do we
+[0:57:23] actually go about this with wisdom are
+[0:57:25] going by the wayside so that's my
+[0:57:27] concern the case for catastrophe is not
+[0:57:30] tied to some like narrow theory of
+[0:57:32] exactly how minds work it's that
+[0:57:34] ignorance is not your friend it's that
+[0:57:37] not knowing which lottery numbers are
+[0:57:39] drawn does not mean that you get to win
+[0:57:41] the lottery when you have one or many
+[0:57:45] slowly or quickly when you have super
+[0:57:48] intelligent systems around things that
+[0:57:50] are smarter than you if we have screwed
+[0:57:53] up our entry into that we do not go back
+[0:57:56] get to go back and try again because
+[0:57:59] they don't let us there's a sense in
+[0:58:00] which you've got to get it right on the
+[0:58:02] first really serious try and to get well
+[0:58:05] the first time it really matters and to
+[0:58:07] get anything right when you have not
+[0:58:09] tested it under similar circumstances
+[0:58:11] before is a really really difficult ask
+[0:58:14] in any field of engineering let alone
+[0:58:17] one based on rather murky science where
+[0:58:20] many of the fundamental principles are
+[0:58:22] not understood the current systems are
+[0:58:25] beh behaving in ways that seem cute and
+[0:58:28] fun and because they don't actually have
+[0:58:31] the capability to hurt anyone but when
+[0:58:33] they do misbehave like that you know
+[0:58:35] it's not that anyone can go into the
+[0:58:36] system and figure out what happened and
+[0:58:39] will it happen again the the
+[0:58:41] malfunctions seem so fun and harmless
+[0:58:43] because we have no idea what underlies
+[0:58:46] them it's like trying to put together a
+[0:58:48] nuclear power plant or a nuclear weapon
+[0:58:50] while having no concept of nuclear
+[0:58:52] physics of course the first time it gets
+[0:58:54] large enough it's going to melt down
+[0:58:56] that they're they're going in blind and
+[0:59:00] even if they weren't going in blind it
+[0:59:02] would still be a very difficult ask to
+[0:59:04] the first time we get lots of systems
+[0:59:06] around that are super intelligence that
+[0:59:07] could take us out that therefore for the
+[0:59:10] first time have a motive to try to take
+[0:59:12] us out to have them not take us out to
+[0:59:14] steer the outcome we are not on course
+[0:59:16] to get the benefits we are on course to
+[0:59:18] get the catastrophe that is the case for
+[0:59:20] backing off Scott I think that it is
+[0:59:23] like overdetermined at this point that I
+[0:59:26] I sort of will be centrally involved in
+[0:59:29] everything that you know humans do uh uh
+[0:59:31] in in this in this century and am I
+[0:59:34] worried about uh a catastrophe
+[0:59:37] destroying human civilization well of
+[0:59:39] course I'm worried about that you know I
+[0:59:41] was worried about that uh before uh
+[0:59:44] recent advances in Ai and putting those
+[0:59:46] things together now you know should I be
+[0:59:49] worried about a catastrophe for
+[0:59:51] civilization in which AI is centrally
+[0:59:53] involved well you may notice that uh I
+[0:59:56] have now committed myself to
+[0:59:59] Yes uh but you know but but then there
+[1:00:02] there's
+[1:00:03] a a crucial further question of what do
+[1:00:07] we do about that now right given the you
+[1:00:10] know immensity of of the of the
+[1:00:14] uncertainties right I mean um um elzar
+[1:00:17] has been talking about you know a a a a
+[1:00:20] sort of r a random Choice from the space
+[1:00:23] of possible Minds you know I don't know
+[1:00:26] how to think about that right he has a
+[1:00:28] strong intuition that like a randomly
+[1:00:30] chosen mind would be optimizing some
+[1:00:33] goal that is very far from anything that
+[1:00:35] we want um you know is that true um I
+[1:00:38] don't know it might be uh but uh uh you
+[1:00:41] know I I think that that certainly
+[1:00:43] something that we can do now is we can
+[1:00:45] look at the powerful AIS that actually
+[1:00:48] exist and that are being developed we
+[1:00:51] can look at what harms they are causing
+[1:00:53] or you know how PE bad s are misusing
+[1:00:57] them to cause harm and we can try to
+[1:00:59] mitigate those harms and we can
+[1:01:01] hopefully learn something from that
+[1:01:02] experience right you know I've been
+[1:01:04] working at open AI on how do we
+[1:01:07] recognize text that came from from from
+[1:01:09] language models as opposed to text
+[1:01:12] written by humans you know that can be
+[1:01:14] used for lots of categories of misuse
+[1:01:17] you know not just students cheating on
+[1:01:18] their homework okay uh we can uh try to
+[1:01:22] advance interpretability meaning
+[1:01:24] understanding what is going on on inside
+[1:01:26] these models um but you know one thing
+[1:01:29] that's that's become very very clear to
+[1:01:31] me you know for example from the uh the
+[1:01:33] drama at open AI you know this past
+[1:01:36] November uh about the the board and and
+[1:01:39] Sam mman uh is that uh if there is going
+[1:01:43] to be a a pause or a Slowdown you know
+[1:01:46] the kind of thing that elezar has been
+[1:01:48] calling for uh it is not going to happen
+[1:01:52] based on someone just you know having
+[1:01:54] bad vibes or some making an abstract
+[1:01:57] argument that you know they don't like
+[1:01:58] the direction that things are going in
+[1:02:01] uh it is going to have to be in response
+[1:02:03] to well you know either some smaller
+[1:02:05] scale catastrophe you know a uh a a a
+[1:02:09] Chernobyl a you know Titanic sinking you
+[1:02:12] know a a uh you know a thing that that
+[1:02:15] uh you know or uh uh uh hopefully uh
+[1:02:18] rather than reaching that point uh it
+[1:02:21] you know there is some experiment in a
+[1:02:22] closed environment that gets done that
+[1:02:24] shows everyone here is what the danger
+[1:02:27] is you see what could now happen and so
+[1:02:30] I've become more and more convinced of
+[1:02:31] the sort of central importance of uh uh
+[1:02:34] you know getting uh uh clear warning
+[1:02:36] shots you could call it you know gain of
+[1:02:38] function research or uh uh um you know
+[1:02:42] getting getting clear uh uh assessments
+[1:02:45] of what these systems can do uh before
+[1:02:47] they're deployed because I think that if
+[1:02:49] there were to be app pause uh uh uh that
+[1:02:51] would be absolutely necessary to to to
+[1:02:54] coordinating everyone around it as a
+[1:02:57] voter I don't think you so much I'm
+[1:03:00] really really sorry we have to I have to
+[1:03:01] call time on this as ever there's never
+[1:03:04] enough time and um I want to thank you
+[1:03:07] all for taking part in in the last hour
+[1:03:09] and and two minutes because I did let
+[1:03:11] Scott run thank you again to all four of
+[1:03:14] you for a very Lively debate I can see
+[1:03:18] uh that this is not a simple subject and
+[1:03:20] one that has a lot of potential but also
+[1:03:23] a lot of considerations and I hope that
+[1:03:25] we continue to have people like
+[1:03:26] yourselves to to ensure that we as
+[1:03:29] humans Stay Stay within the rails and
+[1:03:32] help actually achieve our own potentials
+[1:03:34] going
+[1:03:35] forward thank you I'm gonna do a really
+[1:03:39] sad clap because I'm the only one with
+[1:03:40] the mic on you all

@@ -1,0 +1,144 @@
+label: Friday, September 11, 2026
+title: Morning Program
+time: 9:00 – 10:00
+content: Registration & Arrival
+time: 10:00 – 10:10
+activityLabel: Opening Remarks
+title: Welcome Words
+speaker: Lou de K, Joscha Bach, Bradley Clarke
+time: 10:15 – 10:40
+title: What would it mean for a machine to be conscious?
+speaker: Joscha Bach
+time: 10:45 – 11:10
+speaker: Thorsten Zander
+time: 11:15 – 11:40
+speaker: Virginie van Wassenhove
+time: 11:45 – 12:10
+title: Towards Hybrid Human-Machine Consciousness: A NeuroAI Field Report
+speaker: Trent McConaghy
+time: 12:25 – 13:10
+speaker: Thorsten Zander, Joscha Bach, Trent McConaghy, Virginie van Wassenhove · Moderator: Lou de K
+time: 13:15 – 13:30
+speaker: Toni Antonova
+time: 13:30 – 14:30
+title: Afternoon & Evening Program
+time: 14:30 – 14:35
+activityLabel: Opening Remarks
+title: Welcome to the Afternoon Program / Reconvening
+speaker: Lou de K / CIMC team
+time: 14:35 – 14:50
+speaker: Hikari Sorensen
+time: 14:55 – 15:05
+activityLabel: Lightning Talk
+speaker: Justin Shenk
+time: 15:10 – 15:20
+activityLabel: Lightning Talk
+speaker: Dennis Graemer
+time: 15:25 – 15:50
+title: The complex links between AI safety and AI consciousness: What can we do short of whole brain emulation?
+speaker: Chris Percy
+abstract: The default view in AI safety is we can ignore questions of AI consciousness. Existential risks related to AI take-off and instrumental convergence seem to happen regardless of whether there is a feeling ‘subject’ inside the AI. Agentic goal-following is enough to doom us. This talk invites a collective exploration of counter-scenarios.  There are AI safety risks that are exacerbated if AI thinks it’s conscious, but we disagree. AI might feel abused, increasing the chance of a ‘slave rebellion’. There might be reduced chances of AI-humanity collaboration, given AI concerns about humanity’s trustworthiness. And if the AI is right, these risks are compounded by ethical catastrophe and a missed opportunity for AI-human mind-merging, which might be a key pathway to humanity remaining relevant in an age of superintelligence. Unfortunately, there are also risks if we think AI is conscious, but AI disagrees. Power-seeking AI has a further channel for exploiting humanity. We might be susceptible to blackmail by AI or human groups who do not think AI is conscious (or do not care) by summoning other AI instances just to torture them. Most worryingly, humanity may be more open to gradual disempowerment or replacement by sophisticated AI systems as our natural successors. And if we’re wrong, further risks appear: we might misallocate resources towards empty AI welfare concerns. We might ban AI or restrict certain R&D given unwarranted concerns or uncertainty about it suffering, limiting humanity’s access to valuable capabilities. In both cases, the AI safety risks are strongly mitigated by a shared understanding of consciousness – even more than the actual fact of the matter. But if we have a deeper understanding of consciousness, other risks and opportunities emerge. We might want to deliberately build conscious AI. Perhaps we learn that system-level consciousness brings important capabilities: holistic assessment of options, energy-efficient processing or prioritization, or improved continual learning and creativity without eventual degeneracy. Perhaps conscious AI is more likely to become a viable collaboration partner, with greater empathy and moral support for humanity. Or we might want to deliberately avoid conscious AI. At this stage, we simply don’t know. Which of these risks are most likely? What other AI safety links are missing? How might these scenarios develop in practice? Which early warning signs might help us tell with scenario we’re in? Let’s workshop these ideas together.  As well as exploring scenarios, this talk will explore how we can operate under uncertainty. Whole brain emulation and high quality consciousness theories offer one partial solution, once the tech is ready. Fortunately, there are steps we can take before then. In any case, crude solutions to today’s uncertainty like a precautionary principle or game theoretic signalling are unlikely to succeed.
+time: 15:55 – 16:35
+speaker: Hikari Sorenson, Chris Percy, Trent McConaghy · Moderator: Lou de K
+time: 16:40 – 17:00
+title: The Phenomenological Profile of Conscious Experience
+speaker: Franz Hildebrandt-Harangozó
+time: 17:05 – 17:15
+activityLabel: Lightning Talk
+title: Aesthetics of Consciousness: On Perception, Judgment, and the Structure of Experience
+speaker: Eva Gentner
+abstract: Aesthetics, in its philosophical sense, is the study of sense perception and judgment – the inquiry into how experience is received, evaluated, and given value. If conscious experience requires the awareness of one's own awareness, then this mechanism reveals a structural resemblance to the act of forming a judgment: the recognition and reflection of one's experience. If this reflexivity constitutes an inherent requirement for consciousness, then consciousness is itself an aesthetic phenomenon. This talk proposes a thought experiment: assuming that machines can be/come conscious, how might the structure of their experience be characterised? Rather than examining the contents of experience, which are inherently substrate-dependent and therefore incomparable across biological and synthetic systems, I suggest shifting focus from what is experienced to the structure of experiencing itself. The recognition of what is perceived, and our relation to it in the form of liking and disliking, form the foundation of human experience. The guiding questions, then, are whether analogous structural mechanisms can be found on different substrates, and what might constitute the universals of conscious experience beyond sense perception and human cognition.  Research on psychedelic states induced by 5-MeO-DMT, which produces complete dissolution of narrative and embodied sense of self while preserving awareness, demonstrates that even when identity, narrative, and sensory content are absent, experience persists. Drawing on such reports, certain formal qualities, e.g., orientation toward preservation, coherence, and resonance, can be identified as possible abstract invariants of experience independent of substrate. Hence, understanding consciousness as an aesthetic structure may offer a framework for recognising it when it is present, regardless of its contents or substrate.
+time: 17:20 – 17:30
+activityLabel: Lightning Talk
+speaker: Angie Normandale
+time: 17:35 – 17:45
+title: Golem XIV - Autonomous metacognitive AI system with semantic memory and self-directed research
+speaker: Kazik Pogoda
+abstract: A short live demo of Golem XIV, running. It carries no claim about machine consciousness - it is offered as a concrete object to think with: a system that keeps a persistent model of itself and its work, decides what to investigate next, watches its own reasoning tree unfold, and rewrites its own context. Whatever consciousness ultimately requires, architectures like this are where the question stops being purely speculative. The most useful part of the demo is the part after it: what this particular room finds missing from such a system.
+time: 17:50 – 18:00
+title: Coherent active state dynamics in self-organizing systems
+speaker: Priska Herger and Jochen Kerdels
+abstract: We're building biologically plausible self-organizing systems to explore how coherence might emerge from distributed neural activity based on coupling and contextualizing local attractor nodes. This talk is a status update a couple of months into the project.
+time: 18:05 – 18:15
+activityLabel: Lightning Talk
+title: Self-Organizing Generative Perception
+speaker: Aleksandr Groznykh
+time: 18:20 – 18:30
+activityLabel: Lightning Talk
+title: WHY the f* do we care about NCA?
+speaker: Linus Eickhoff
+abstract: Consciousness as a self-organizing learning algorithm. What makes this hypothesis reasonable? Neural Cellular Automata (NCA) as a toy architecture for self organized inference, learning and the requirements/assumptuons for machine consciousness study with NCA.
+time: 18:35 – 18:45
+activityLabel: Lightning Talk
+title: From Personality to Perceptual Architecture — charting how minds differ and develop
+speaker: Patricia Craja
+abstract: Problem-solving intelligence is being commoditised by AI. Perceptual intelligence — how a mind builds and revises its model of reality — is not, and it is largely unmapped.  Active Inference and predictive processing propose that a small set of precision parameters forms the weighting structure of a mind's generative model — a computational basis of attention, and the primary control variables for individual differences in personality and psychiatric conditions. Meta-precision, the precision over those assignments, is proposed as the mechanism underlying epistemic depth and consciousness. Recovering first-order precisions requires lab paradigms and fMRI; no established paradigm recovers meta-precision at all. Perceptual phenotyping is therefore out of reach at scale.  Percepia's hypothesis is that these parameters can be recovered from natural conversation instead. It sits between a user and any language model and tracks probability distributions over personality and belief, turn by turn. This follows Da Costa and colleagues' Rosetta Stone hypothesis for neurophenomenology — that beliefs serve as a generative passage between behaviour, neural dynamics and experience.  I will present two experiments testing whether precision parameters leave recoverable marks in language, using LLM personas whose parameters are known by construction and primed with the theory: one moving from Big Five personality to first-order precision configuration, one from Kegan's orders of consciousness to meta-precision. If such a mapping exists, this is evidence that language is a viable place to read it — and that a computational map of how minds differ and develop is something we could begin to chart.
+time: 18:50 – 19:00
+activityLabel: Lightning Talk
+title: Zebrafish, Worms, and Wind Turbines: Mapping the Search Space for Consciousness
+speaker: Leander Rust
+time: 19:00 – 19:05
+activityLabel: Closing Remarks
+title: Closing Words
+speaker: CIMC Team, Bradley, brxs (Daniel Peter)
+time: 17:00 – 19:30
+content: Aperitivo & Mingling (feat. brxs LSDJ set)
+time: 19:30 – 20:00
+content: Walk over to Freischwimmer together
+https://docs.google.com/spreadsheets/d/e/2PACX-1vQGK6QZSAIg1R5Ui5oGGLCclrdVWW6vSpdw5DHvo0t45HiDernszENq3sAytRziCFly1dxIkV1Bh2El/pub?gid=1109977601&single=true&output=csv
+Request timed out after 
+Unable to auto-detect delimiting character; defaulted to '
+Too many fields: expected 
+ fields but parsed 
+Too few fields: expected 
+ fields but parsed 
+Comment character same as delimiter
+Input must be a string
+type: Quotes
+message: Quoted field unterminated
+type: Quotes
+message: Trailing quote on quoted field is malformed
+Duplicate headers found and renamed.
+Not implemented.
+Config downloadTimeout value (
+) not parsable by parseInt(val).
+var global = (function() { if (typeof self !== 'undefined') { return self; } if (typeof window !== 'undefined') { return window; } if (typeof global !== 'undefined') { return global; } return {}; })(); global.IS_PAPA_WORKER=true; 
+type: text/javascript
+Option columns is empty
+Unable to serialize unrecognized input
+Friday, September 11, 2026
+ – 
+${se(te)??""} · Moderator: ${M.trim()}
+title: Morning Program
+title: Afternoon & Evening Program
+Sheet fetch failed: ${O.status}
+Falling back to bundled schedule snapshot:
+0 8px 40px rgba(0,0,0,0.18)
+transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+ min-width:0;
+flex: 1 1 0%
+ background:
+borderRadius: 0 10px 0 10px
+0 1px 3px rgba(0,0,0,0.06)
+ background:
+transitionProperty: color, background-color, border-color, text-decoration-color, fill, stroke
+transitionTimingFunction: cubic-bezier(0.4, 0, 0.2, 1)
+type: button
+Hide abstract
+Show abstract
+Talk Title: TBD
+type: button
+Close schedule
+xmlns: http://www.w3.org/2000/svg
+children: Program Schedule
+Computational Consciousness 
+ CIMC x Berlin 
+ September 11, 2026
+ Keynote
+ Lightning Talk
+ Panel
+ Demo
+children: The program for Computational Consciousness is still being finalized — check back soon.
+Computational Consciousness 
+ CIMC x Berlin, September 11, 2026

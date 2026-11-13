@@ -1,0 +1,290 @@
+Curriculum Vitae, July 14, 2023
+Joscha Bach, PhD
+joscha.bach@gmail.com
+Cognitive scientist/AI researcher; main focus on AGI, cognitive architectures, models of emotion 
+and motivation. Principal author of the cognitive architecture MicroPsi. Wrote the book “Principles 
+of Synthetic Intelligence” (OUP 2009).
+Address: 7 E Creek Place 
+Menlo Park, CA 94025
+USA
+Phone: +1 617 669 0337
+married, two children (born on July 7th, 2010 and August 19th, 2013)
+Date of Birth: 21st of December, 1973 in Weimar, Germany
+Nationality: German
+Education: 2007 PhD in Cognitive Science, University of Osnabrück  
+1994–2000 Humboldt University of Berlin
+(Diploma of Computer Science, equiv. MA)
+Major: Computer Science
+Secondary subject: Philosophy
+1998/1999 University of Waikato; Hamilton, New Zealand
+(Graduate studies in Computer Science)
+1990–1992 Institute for Preparation of International Studies, Halle
+1988–1990 School for Mathematics, Technology and Natural Sciences 
+“Carl Zeiss”, Jena
+Current Position: Research scientist, Thistledown Foundation
+2021–2023: Principal Research Engineer, Cognitive AI, Intel Labs
+2019–2021 VP of Research, AI Foundation
+2016–2019 Research Scientist, Harvard Program for Evolutionary Dynamics 
+2014–2016 Research Scientist, MIT Media Lab 
+2013–2014 Research Fellow, Humanity Plus foundation
+2011–2013 AI scientist/development lead at Hotheaven AG
+1
+2011–2012 Postdoctoral Fellow at Berlin School of Mind and Brain, 
+Humboldt-University of Berlin
+Entrepreneural work:
+2012 Co-Founder, MicroPsi Industries GmbH
+2011 Co-Founder, Hotheaven AG
+2008–2010 Co-Founder, Product Manager at txtr GmbH
+2007 Co-Founder of Wizpac Ltd
+2005 Founder of Bookpac GbR
+Academic Positions: 
+2003–2005 Researcher and Lecturer at University of Osnabrück
+Institute for Cognitive Science:
+Development of a Cognitive Architecture
+2000–2003 Research Assistant at Humboldt University of Berlin, 
+Department of Computer Science, 
+Artiﬁcial Intelligence Group:
+Lead of Socionics Project, MicroPsi Project and 
+Robotic Soccer Simulation Team
+Other Occupations: 06/99–12/99 (during studies) 
+System administration, project planning in an 
+E-Commerce company (GV-Net GmbH, Berlin)
+10/95–06/98subsequent positions at department
+as tutor, WWW administrator and student advisor
+10/94–03/00Member of students’ self administration of the department
+04/93–06/94Civil Service
+(working with foreign refugees in Germany)
+Honors: 2015 MIT Media Lab Templeton Award
+2008 Weser-Ems-Wissenschaftspreis 2008
+2007 Summa cum laude PhD
+Award for Best Dissertation of 2008, IKW, University of 
+Osnabrück
+1995–2000 Scholarship of Friedrich-Ebert-Stiftung
+2
+Peer-reviewed publica0ons: 
+Achterberg, J. Arel, R., Chaibi, A., Bach, J., Tzagkarakis, N. (2023). Generative Image Model Benchmark for 
+Reasoning and Representation (GIMBRR). Proceedings of Workshop on Evaluation and Design of 
+Generalist Systems (EDGeS 2023), AAAI 2023 Spring Symposium
+Singer, G., Bach, J., Grinberg, T. (2022). Thrill-K Architecture: Towards a Solution to the Problem of 
+Knowledge Based Understanding. Proceedings of International Conference for Artiﬁcial General 
+Intelligence 2022
+Bach, J. (2022). Functionality and phenomenology of consciousness. Models of Consciousness MoC3, 
+Stanford 2022
+Bach, J. (2021). Virtualism as a perspective on consciousness. Philosophy and Computing Conference at 
+IS4SI 2021
+Bach, J. (2020). When Artiﬁcial Intelligence Becomes General Enough to Understand Itself. Journal for 
+Artiﬁcial General Intelligence, https://doi.org/10.2478/jagi-2020-0003
+Bach, J., Coutinho, M., Lichtinger, L. (2019). Extending MicroPsi’s Model of Motivation and Emotion 
+for Conversational Agents. Proceedings of International Conference for Artiﬁcial General Intelligence 2019
+Bach, J. (2019). Phenomenal Experience and the Perceptual Binding State. Proceedings of Workshop on 
+Artiﬁcial Consciousness, AAAI Spring Meeting 2019
+Bach, J. (2018). Attention Based Learning as a Foundation for Conscious Agents. Procedia of Computer 
+Science; Postproceedings of the 9th Annual International Conference on Biologically Inspired Cognitive 
+Architectures, BICA 2018
+Bach, J., Gallagher, K. (2018). Request Conﬁrmation Networks in MicroPsi 2. Proceedings of Proceedings of 
+International Conference for Artiﬁcial General Intelligence 2018
+Strannegård, C., Svangård, N., Bach, J., Steunebrink, B. (2017). Generic Animats. In Proceedings of AGI 
+2017, Melbourne. 
+Strannegård, C., Svangård, N, Lindström, D., Bach, J., Steunebrink, B. (2017). The Animat Path to Artiﬁcial 
+General Intelligence. In Proceedings of WS on Architectures for Generality and Autonomy, IJCAI 2017, 
+Melbourne. 
+Bach, J. (2017). The Cortical Conductor Theory: Towards Addressing Consciousness in AI Models. In 
+Proceedings of WS on Architectures for Generality and Autonomy, IJCAI 2017, Melbourne. 
+Bach, J. (2017). Consciousness as a Memory of Coordinating Attention: The Conductor Model of 
+Consciousness. In Proceedings of Science of Consciousness Conference, San Diego 2017
+Bach, J., Herger, P. (2015). Request Conﬁrmation Networks in the MicroPsi Cognitive Architecture. WS Neural 
+Information Processing, NIPS 2015, Montreal, QC
+Bach, J. (2015). Modeling Motivation in the MicroPsi Architecture. Proceedings of AGI 2015, Berlin.
+Bach, J. (2014). Computationalism and Cognitive Science. Proceedings of Fifth Annual Conference on 
+Biologically Inspired Cognitive Architectures (BICA 2014), Cambridge, MA
+Bach, J. (2014). Artiﬁcial General Intelligence as a Foundational Discipline in Cognitive Science. Seventh 
+Conference on Artiﬁcial General Intelligence (AGI 2014), Quebec, CA
+Bach, J. (2012). MicroPsi 2: The Next Generation of the MicroPsi Framework. Proceedings of the Fifth 
+Conference on Artiﬁcial General Intelligence (AGI 2012), Oxford, UK: 11-20
+Bach, J. (2012). A Framework for Emergent Emotions, Based on Motivation and Cognitive Modulators. 
+International Journal of Synthetic Emotions (IJSE), 3(1), 43-63
+Bach, J., Verdicchio, M. (2012). What Kind of Machine is the Mind? To appear in Proceedings of Turing-100, 
+the Alan Turing Centenary Conference, Manchester, UK.
+Bach, J. (2012). Functional Modeling of Personality Properties Based on Motivational Traits. Proceedings of 
+ICCM-7, International Conference on Cognitive Modeling, Berlin, Germany. 271-272
+Adams, S. S., Bach, J., Coop, R., Hall, J. S., Schlesinger, S., Arel, I., Furlan, R., Samsonovich, A., Shapiro, S. 
+C., Goertzel, B., Scheutz, M., Sowa, J. (2012). Mapping the AGI Landscape (to appear in Journal of 
+Artiﬁcial Intelligence)
+Bach, J. (2012). Modeling Motivation and the Emergence of Affect in a Cognitive Agent. In Wang, P. (ed). 
+Theoretical Foundations of Artiﬁcial General Intelligence. Atlantis Press
+Bach, J. (2011). A Motivational System for Cognitive AI. In Schmidhuber, J., Thórisson, K. R., Looks, M. (Eds.) 
+Artiﬁcial General Intelligence. Proceedings of 4th International Conference, Springer Berlin, Heidelberg. 
+232-242
+3
+Bach, J. (2011). No Room for the Mind: Enactivism in Artiﬁcial Intelligence. Proceedings of International 
+Conference on the History and Philosophy of Computing, Ghent.
+Bach, J. (2011). Requirements for Cognitive Artiﬁcial Intelligence. Proceedings of Philosophy & Theory of 
+Artiﬁcial Intelligence, Thessaloniki, Greece.
+Bach, J. (2011). Enactivism Considered Harmful. Proceedings of Philosophy & Theory of Artiﬁcial Intelligence, 
+Thessaloniki, Greece
+Bach, J. (2011). Modeling Emotion as an Interaction between Motivation and Modulated Cognition. Workshop 
+on Standards in Emotion Modeling, Leiden, Netherlands
+Bach, J. (2010): Artiﬁcial General Intelligence and Organizational Intelligence (On the Singularity of AI). 
+Proceedings of 8th European Conference on Computing and Philosophy, ECAP 10, Munich, Germany
+Bach, J. (2009): Principles of Synthetic Intelligence. An architecture for motivated cognition. Oxford University 
+Press, New York
+Bach, J. (2009): Community Reading, Electriﬁed. Proceedings of re:publica Conference 2009, Berlin
+Bach, J. (2008): Seven Principles of Synthetic Intelligence. Proceedings of 1st Conference on Artiﬁcial 
+General Intelligence, Memphis: 63-74
+Bach, J. (2007): True Feelings: Functionalist and Descriptionalist Modeling of Emotion. Proceedings of 
+Workshop on Artiﬁcial Emotion, KI 2007, Osnabrück, Germany
+Bach, J. (2007): Motivated, Emotional Agents in the MicroPsi Framework. Proceedings of 8th European 
+Conference on Cognitive Science, Delphi, Greece: 458-461
+Bach, J., Dörner, D., Vuine, V. (2006): Psi and MicroPsi. A Novel Approach to Modeling Emotion and Cognition 
+in a Cognitive Architecture. Tutorial at ICCM 2006, Stresa, Italy
+Bach, J., Bauer, C., Vuine, R. (2006): MicroPsi: Contributions to a Broad Architecture of Cognition. In Proc. of 
+KI2006, Bremen, Germany
+Bach, J. (2006): MicroPsi: A cognitive modeling toolkit coming of age. In Proc. of 7th International Conference 
+on Cognitive Modeling: 20-25
+Bach, J., Dörner, D., Gerdes, J., Zundel, A. (2005): Psi and MicroPsi, Building Blocks for a Cognitive 
+Architecture. Symposium at the Conference of the German Society for Cognitive Science, KogWis 05, 
+Basel, Switzerland
+Bach, J. (2005). Representations for a Complex World. Combining Distributed and Localist Representations 
+for Learning and Planning, in: Wermter, S. & Palm, G. (eds.): Biomimetic Neural Learning for Intelligent 
+Robots. Springer.
+Bach, J. Vuine, R. (2004). A neural implementation of plan-based control, in: Proceedings of Workshop on 
+Neurobotics at KI 2004, Ulm.
+Bach, J. (2003): Voraussetzungen der Kommunikation zwischen Intelligenten Systemen. M. Schetsche (ed.): 
+Proc. “Der maximal Fremde”, IGPP, Freiburg
+Bach, J. (2003): The MicroPsi Agent Architecture. Proceedings of ICCM-5, International Conference on 
+Cognitive Modeling Bamberg, Germany (pp. 15-20)
+Bach, J. (2003): Emotionale Virtuelle Agenten auf der Basis der Dörnerschen Psi-Theorie. In Proceedings of 
+ASIM 03, Workshop Modellierung und Simulation menschlichen Verhaltens, Berlin, Germany (pp. 1-10)
+Bach, J. (2003): Connecting MicroPsi Agents to Virtual and Physical Environments Bach, J. (2003): 
+Applications of the AEP Toolkit. In Workshops and Tutorials, 7th European Conference on Artiﬁcial Life, 
+Dortmund, Germany. (p. 128-132)
+Wendler, J., Bach, J. (2003): Recognizing and Predicting Agent Behavior with Case-Based Reasoning. In D. 
+Polani et al. (eds.) RoboCup 2003, Proceedings of Robot Soccer World Cup VII. LNAI 3020, pp. 729-738, 
+Springer.
+Wendler, J., Bach, J. (2003): Assessing Behavior of Agents in the RoboCup Domain using Case Based 
+Reasoning. In Proceedings of ASIM 03, Workshop Modellierung und Simulation menschlichen Verhaltens, 
+Berlin, Germany: 1-10
+Lötzsch, M., Bach, J., Burkhard, H.-D., Jüngel, M. (2003): Designing Agent Behavior with the Extensible Agent 
+Behavior Speciﬁcation Language XABSL. Proceedings RoboCup 2003
+Bach, J., Vuine, R. (2003): The AEP Toolkit for Agent Design and Simulation, Proceedings of MATES 2003, 
+Conference on Multi Agent System Technologies, LNAI 2831, Springer, Berlin, Heidelberg (p. 38-49)
+Bach, J., Vuine, R. (2003): Designing Agents with MicroPsi Node Nets. In Proceedings of KI 2003, Annual 
+German Conference on AI. LNAI 2821, Springer, Berlin, Heidelberg. (p. 164-178), 2003
+4
+Burkhard, H.-D., Bach, J., Berger, R. (2002): Using a Deliberative Architecture for Robotic Soccer, 
+Proceedings of Workshop on Multi-Agent Interoperability (MAI) at KI 2002, p. 101ff
+Bach, J., Jüngel, M. (2002): Using a Flexible Grid for Image Recognition, Workshop Concurrency, 
+Speciﬁcation & Programming, 2002
+Bach, J. (2002): Enhancing Perception and Planning of Software Agents with Emotion and Acquired 
+Hierarchical Categories, Proceedings of MASHO 02 at KI 2002, p. 3ff
+Bach, J., Gollin, M. (2001): Self-Localization Revisited, Proceedings of Robocup 2001, Springer  
+Burkhard, H.-D., Bach, J., Berger, R., Gollin, M.: (2001) Mental Models for Robot Control. Advances in Plan-
+Based Control of Robotic Agents, 2001, pp. 71-88
+Bach, J. (2000): Using Concurrent Entropy Models for Textual Interfaces, Workshop Concurrency, 
+Speciﬁcation & Programming, Humboldt-Universität Berlin, Informatik-Bericht 140, 2000, pp. 1-8
+Bach, J. (2000): Supporting Textual Input by Using Multiple Entropy Models, Fundamenta Informaticae 48, 
+IOS Press 2001, pp. 1-9
+Bach, J., Janning, F., Schultz-Schaeffer, I. (2000): Multi-Agent Systems in Hybrid Organisations, Workshop 
+Concurrency, Speciﬁcation & Programming, Informatik-Bericht 140, Humboldt-Universität Berlin, 2000, pp. 
+9-17
+Bach, J. (2000): MUDs seen as Multi Agent Systems, ECAI 2000 WS on Modelling Artiﬁcial Societies and 
+Hybrid Organisations, pp. 1-9
+Bach, J., Witten, I. H. (1999): Lexical Attraction for Text Compression. Data Compression Conference 1999: 
+516
+Other publica0ons: 
+Ruff. B., Beck, T., Bach, J. (2019). Mean Shift Rejection: Training Deep Neural Networks Without Minibatch 
+Statistics or Normalization. arXiv:1911.13173
+Bach, J. (2016): Everything is Computation. Response to Edge Question 2016: What do you consider the 
+most interesting recent scientiﬁc news? http://edge.org/response-detail/26733
+Bach, J. (2015): The Age of the New Machines. In Brockman, John (ed): What to think about machines that 
+think? Harper Collins: 187-190
+Bach, J. (2015): The Age of the New Machines, or Every society will get the Artiﬁcial Intelligence it deserves. 
+Response to Edge Question 2015: What do you think about Machines that Think? http://edge.org/
+response-detail/26205
+Bach, J. (2010): Kybernetik. In Sandkühler, H. J. et al. (Ed.) Enzyklopädie Philosophie, Felix-Meiner-Verlag, 
+Hamburg
+Bach, J. (2008): Interview mit Dietrich Dörner. KI 22(1): 34-36
+Bach, J. (2007): Principles of Synthetic Intelligence. Building Blocks for an Architecture of Motivated Cognition. 
+PhD Thesis, University of Osnabrück, March 2007
+Bach, J. (2005). MiniPsi, der Mac-Roboter. B. Schwan (ed.): MetaMac Magazin, Berlin, Vol. 46/05 (pp. 11-16)
+Bach, J., Vuine, V. (2003): The AEP Handbook. A Tutorial on Using the MicroPsi toolkit. Online version 
+available at http://www.micropsi.com
+Wendler, J., Bach, J. (2003): Case Based Behavior Assessment in Simulated Robotic Soccer. Modellierung 
+und Simulation Menschlichen Verhaltens. Informatik Bericht 163, Humboldt-Universität zu Berlin, March 
+2003
+Bach, J. (2000): Vorhersagegestützte Texteingabe durch Modellierung der Entropie, Diplomarbeit, Institut für 
+Informatik, Humboldt-Universität Berlin, April 2000
+Bach, J., Witten, I. H. (1999): Lexical Attraction for Text Compression. University of Waikato Computer 
+Science Working Papers
+5
+Research posi0ons: 
+Humboldt University of Berlin:
+• DFG-Schwerpunktprogramm “Sozionik”, Grant Nr. 1077. 
+Project initiated by Prof. Dr. Hans-Dieter Burkhard and Prof. Dr. Werner Rammert 
+Research position from April 2000 to April 2001
+• DFG-Schwerpunktprogramm “Cooperating teams of mobile robots in dynamic environments”, 
+Grant Nr. 1125. 
+Project initiated by Prof. Dr. Hans-Dieter Burkhard 
+Leader of simulation group from May 2001 to August 2003
+University of Osnabrück:
+• Research position Artiﬁcial Intelligence from September 2003 to March 2005
+Conference organiza0on: 
+Chair of Machine Consciousness Track, Philosophy and Computing Conference at IS4SI 2021
+Chair of German Annual Conference on Artiﬁcial Intelligence, KI 2011, Berlin, Germany
+Chair of Conference of Artiﬁcial General Intelligence, AGI 2012, Oxford, UK
+Teaching experience: 
+MIT Media Lab:
+• Course MAS.S66 “Future Destination of Artiﬁcial Intelligence”, Fall 2015
+• Course MAS.S63 “Cognitive Integration”, Spring 2016
+Humboldt University of Berlin, Artiﬁcial Intelligence:
+• Seminar “Socionics and Cognition”, Autumn/Winter 2000/2001
+• Seminar “Emotional Agents”, Spring/Summer 2001
+• Seminar “The Workshop of Emotions”, Autumn/Winter 2001/2002
+• Seminar “Perception and Action Control of Virtual Cognitive Agents”, Autumn/Winter 02/03
+• Seminar “Introduction to Mindbuilding”, Autumn/Winter 03/04
+• with Prof. Dr. H.-D. Burkhard: Course “Cognitive Robotics”, Academic Year 01/02, 03/04
+University of Osnabrück, Cognitive Science:
+• Seminar “Introduction to Mindbuilding”, Autumn/Winter 2003/2004
+• with Prof. Dr. K. Kühnberger: Course “Methods of Artiﬁcial Intelligence”, Autumn/Winter 
+2003/2004
+• Seminar “Mindbuilding: Cognition and Representation”, Spring/Summer 2004
+• with Prof. Dr. K. Kühnberger: Course “AI Perspectives on Learning”, Spring/Summer 2004
+• Course “Cognitive HCI”, Autumn/Winter 2004/2005
+• Seminar “Mindbuilding: Models of Perception in a Cognitive Architecture”, Autumn/Winter 
+2004/2005
+• Course “Multi-Agent Systems”, Spring/Summer 2005
+• Seminar “Mindbuilding: The Symbol Grounding Problem”, Spring/Summer 2005
+• Course “Cognitive HCI”, Autumn/Winter 2005/2006
+• Seminar “Mindbuilding: Topics in Cognitive Architectures”, Autumn/Winter 2005/2006
+• Course “L’Homme Machine: An AI Perspective on Cognitive Science”, Summer 2008
+Humboldt University of Berlin, Institute for Philosophy:
+• Seminar “Computation and the Mind”, Summer 2012
+other:
+• Course at the Summer School on Artiﬁcial Intelligence, Xiamen University, Fujian, China: “The 
+MicroPsi Cognitive Architecture”, 2009
+• Lecture at Summer School of Icelandic Institute of Intelligent Machines, Reykjavik, Iceland: 
+“Modeling Motivation and Affect in AI agents”, 2012
+• with Prof. Dr. D. Dörner: Course at Summer School of Studienstiftung des Deutschen Volkes, Rot 
+an der Rot, Germany: „Der Geist als Maschine. Auf dem Weg zur künstlichen Seele?“, 2012
+6
+• Course at Interdisciplinary Sprint School for Cognitive Science and Neuroscience (IK 2013), 
+Günne am Möhnesee, Germany:  “Minds as Machine: Cognitive Systems and Artiﬁcial 
+Intelligence”, March 2013
+Thesis supervision: 
+• Colin Bauer (2004): The Categorization of Compositional Structures Applied to the MicroPsi 
+Architecture. 
+Diploma Thesis, Technische Universität zu Berlin
+• Christian Ziech (2004): Anwendungsmöglichkeiten von Case Based Reasoning in 
+Computerspielen. 
+Diploma Thesis, Humboldt-Universität zu Berlin
+• David Salz (2005): 3DView2: Eine dreidimensionale Visualisierungs- und Steuerungskomponente 
+für die 
+MicroPsi-Agentenplattform. Diploma Thesis, Humboldt-Universität zu Berlin
+• Markus Dietzsch (2008): Agentenentwicklung mit dem MicroPsi-Framework. 
+Diploma Thesis, Humboldt-Universität zu Berlin MicroPsi-Agentenplattform. Diploma Thesis, 
+Humboldt-Universität zu Berlin
+• Shoshannah Tekofski: (2017): You are what you play you are. PhD thesis at Tilburg University/
+MIT Media Lab (committee)
+• Nader Chmait (2017): Understanding and measuring collective intelligence across different 
+cognitive systems. PhD thesis, Monash University (committee)
+7

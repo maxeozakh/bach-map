@@ -1,0 +1,28 @@
+Computational Universe - Joscha Bach You are using an outdated browser. Please upgrade your browser to improve your experience.
+Computational Universe
+ From elementary computation to ethics?
+Some preliminary thoughts and arguments on the feasibility of ultimate norms, starting from a foundation of general computationalism
+ Do we live in a simulation or in the base reality?
+Elon Musk recently suggested that we likely do not live in a base reality, but in a simulation. He even puts the probability at a billion to one. Is he correct?
+ No, the Universe is not a Brain
+Could the structure the universe support brain-like activities at interplanetary distances?
+ Why I don’t think that Quantum Computers will work, ever
+I have a nagging suspicion that we misinterpret quantum mechanics. I am probably wrong, but I believe that quantum computers may always be outperformed by classical algorithms.
+ Four Gods
+Atheists and enlightened religious people often talk past each other, because they associate quite different concepts with ‘God’. Let us attempt to sort them.
+ Rethinking Quantum Mechanics and Inverted Spacetime from a Computationalist Perspective
+Spacetime might not be real, but weakly emergent. The computer that runs the universe does not index particles within a spacetime matrix, but only maintains a tensor network with quantized properties.
+ The Lambda Calculus for Absolute Dummies
+Computation might be the most important addition to philosophy in the last century, and it is probably best understood not through the Turing Machine, but through the Lambda Calculus. Here is an introduction for non-mathematicians.
+ The Lambda Calculus for Absolute Dummies (like myself)
+Computation might be the most important addition to philosophy in the last century, and it is probably best understood not through the Turing Machine, but through the Lambda Calculus. Here is an introduction for non-mathematicians.
+ A tale of two machines
+How is it possible that we can be conscious of a universe that at the same time computes us? How can we observe the progression of a universe that we are part of?
+ Computationalist Essentialism
+True Computation is only possible in a silicon substrate.
+ A puzzle game that makes us build a complete computer
+If you should happen to be interested in how to turn an abstracted version of basic electronic circuitry into a puzzle game, read on.
+ The world is not a physics engine, or The Death of (Physicalist) Realism
+The most important consquence of accepting Bell’s inequality: The world is not a physics engine. Let us look how we need to modify our view of physicalism.
+ Why the western world view abhors Artificial Intelligence
+AI violates some of the basic metaphysical intuitions of Western thinking. Cultural opposition to AI is probably grounded in Christian dualism.

@@ -1,0 +1,1442 @@
+# source: https://www.youtube.com/watch?v=knADtWMGxmw
+# generated=True lang=en
+[0:00:00] um when joshu was visiting our lab we
+[0:00:01] had uh two among many other things we
+[0:00:04] had two interesting points that we
+[0:00:05] talked about that I thought um you know
+[0:00:07] Chris could could talk about as well um
+[0:00:10] which one was about error correcting
+[0:00:12] codes so maybe we can we can start with
+[0:00:15] that and then the other one had to do
+[0:00:17] with with um protoc cognitive capacities
+[0:00:20] at the bottom of the scale you know
+[0:00:21] particles and things like that so so I
+[0:00:23] don't know maybe maybe we start with the
+[0:00:25] um error correcting codes um you guys
+[0:00:27] want to talk about error correction and
+[0:00:30] you see it um maybe Josh did you want to
+[0:00:31] go first and just summarize what you
+[0:00:33] were saying yes so very briefly put um
+[0:00:37] the reason why there are something
+[0:00:38] rather than nothing is probably because
+[0:00:40] the universe is not impossible so if
+[0:00:42] you're on based reality nothing precedes
+[0:00:43] the universe to uh make it not happen
+[0:00:46] it's going to have an existing in the
+[0:00:47] non-existing branch in the non-existing
+[0:00:50] branch you don't get observers that
+[0:00:52] complain so you basically have existence
+[0:00:54] for free now we need to figure out why
+[0:00:56] some things are happening in the
+[0:00:57] existing branch and others are not
+[0:00:59] happening and the easiest answer to that
+[0:01:01] is that simply everything is happening
+[0:01:03] because there's nothing proceeding
+[0:01:04] Universe to select operators so
+[0:01:06] basically universe is the superp
+[0:01:07] position of all operators which means
+[0:01:09] it's a multiv system and you yourself
+[0:01:12] being computed by it don't know which
+[0:01:14] path you are so the universe for you is
+[0:01:16] going to have the appearance of being
+[0:01:18] indeterministic which means that if you
+[0:01:20] zoom in at the lowest level near the
+[0:01:22] vacuum you'll see lots of random
+[0:01:24] fluctuations that usually don't amount
+[0:01:25] to anything in order to build structure
+[0:01:28] one part of the universe needs needs to
+[0:01:30] what another part of the universe is
+[0:01:31] doing so sometimes you get these
+[0:01:34] circumstances where you have a pattern
+[0:01:36] that remains stable statistically stable
+[0:01:38] you will not be able to figure out
+[0:01:40] whether you are in uh the past where the
+[0:01:42] universe is going to the photon is going
+[0:01:45] to the right or left slot but you know
+[0:01:47] what the million photons are going to
+[0:01:48] look like in the same way you don't know
+[0:01:50] which operator is going to happen next
+[0:01:52] but you know what the superposition of
+[0:01:54] operators is going to look like when you
+[0:01:55] have enough of them and uh in certain
+[0:01:59] starting state and sometimes basically
+[0:02:01] you get a situation where the universe
+[0:02:03] is going to perform error correction a
+[0:02:06] good metaphor I think is you sit in a
+[0:02:08] bus tub you move your hand you see in
+[0:02:09] the surface of the bus tub lots of
+[0:02:11] patterns emerging lots of waves most of
+[0:02:13] which are just dissipating not amounting
+[0:02:15] to anything but sometimes you get a
+[0:02:17] particle which means a Vortex and the
+[0:02:19] vortex has this property that it's
+[0:02:22] basically circular so it's shoving the
+[0:02:24] information around in the same volume of
+[0:02:26] space and doesn't dissipate until
+[0:02:28] friction makes a dissip here or until it
+[0:02:30] bumps into something it's not that the
+[0:02:33] um water in the btub wants to produce
+[0:02:35] those VES more than other things it's
+[0:02:37] just what's left over and I suspect that
+[0:02:39] the same thing is true for all the
+[0:02:41] particles that basically they are error
+[0:02:43] correcting codes and the simplest one
+[0:02:46] are control systems that act in the
+[0:02:48] present on the present state or just the
+[0:02:50] immediate state after that and slightly
+[0:02:53] more complex Control Systems have a
+[0:02:55] certain degree of elasticity like
+[0:02:57] molecules you can squish them and they
+[0:02:59] bounce back back into shape and cells
+[0:03:02] are controllers for future States they
+[0:03:05] agents they basically make models of
+[0:03:07] Future Past so you can remain stable
+[0:03:10] over much more complicated circumstances
+[0:03:12] and in this way you could say that life
+[0:03:14] itself is an error correcting code that
+[0:03:16] allows to keep particle configuration
+[0:03:18] stable that otherwise wouldn't control
+[0:03:20] regions of the universe that wouldn't
+[0:03:22] and it of course it doesn't stop at the
+[0:03:24] level of cells but also the systems
+[0:03:27] above the levels of cells like organisms
+[0:03:29] societies and so on where you find the
+[0:03:31] replication of those control
+[0:03:36] principles what that all sounds good to
+[0:03:38] me good than that's it thank you for
+[0:03:42] being so patient so uh the conclusion
+[0:03:45] from from that train of thought is that
+[0:03:47] one way of thinking about mental
+[0:03:49] representations is to look at them from
+[0:03:51] the perspective of error correction to
+[0:03:54] look at them as Quai particles right the
+[0:03:56] difference between heat and sound is not
+[0:03:59] that one is not bouncing molecules the
+[0:04:01] other is not they both are but sound is
+[0:04:04] information preserving it's even
+[0:04:07] quantized if you look at phonons it's a
+[0:04:09] quasi particle that is emergent over the
+[0:04:12] activity of the molecules it's what's
+[0:04:14] left over after you dissipate the heat
+[0:04:16] in some sense in the same way if our
+[0:04:18] brain is we can be see maybe as an ether
+[0:04:21] where the individual neurons are nodes
+[0:04:23] that are passing on signals from
+[0:04:25] neighboring nodes in the topology and
+[0:04:27] then if that thing is stable in
+[0:04:30] preserving so you can compute with it
+[0:04:31] it's basic representations activation
+[0:04:34] waves as something like qu particles
+[0:04:36] moving through this
+[0:04:39] thing yeah so
+[0:04:44] um yeah I are you familiar with
+[0:04:47] friston's work on free
+[0:04:50] energy yeah okay so I mean I I guess I
+[0:04:55] interpret the or I see the free energy
+[0:04:58] principle and it's simp simplest
+[0:05:01] form as saying something much along
+[0:05:05] these
+[0:05:06] lines uh that any system that persists
+[0:05:10] that remains
+[0:05:12] stable has to do something or other to
+[0:05:15] keep its its boundary
+[0:05:18] intact so it has to effectively be
+[0:05:23] autopoetic
+[0:05:25] it
+[0:05:27] um has to Main Ain some level of
+[0:05:32] structure yes but not so whatever the
+[0:05:34] system looks like pardon me it needs to
+[0:05:37] keep its boundary in time intact not in
+[0:05:39] space right it is needs to write itself
+[0:05:42] into the future uh but it can be
+[0:05:45] something that is actively colonizing as
+[0:05:47] long as nothing invades
+[0:05:49] it
+[0:05:52] um yeah it has to write
+[0:05:57] some bounded set of values of some
+[0:06:01] bounded set of degrees of freedom into
+[0:06:03] the future but for instance life doesn't
+[0:06:05] need to keep its boundary intact in the
+[0:06:07] sense that it needs to be worried about
+[0:06:09] being uh invaded by nothingness it's
+[0:06:12] because it can just itself invade chaos
+[0:06:15] but it needs to keep its boundary and
+[0:06:17] time
+[0:06:18] intact basically its Frontier by which
+[0:06:20] it writes itself into the future needs
+[0:06:22] to preserve
+[0:06:24] it okay okay yeah by boundary I mean
+[0:06:27] State space boundary oh yes so yeah put
+[0:06:30] everything in a hbert space or something
+[0:06:32] that's the boundary that's of Interest
+[0:06:34] yeah in the in the free energy principle
+[0:06:38] so one I think can translate what you
+[0:06:41] just said into free energy principal
+[0:06:43] terms without too much trouble it's
+[0:06:45] certainly
+[0:06:46] consistent uh with what the free energy
+[0:06:49] principle says although the the
+[0:06:52] fe uh Community doesn't seem to talk
+[0:06:55] about error correcting codes very
+[0:06:57] much uh you know they they talk about
+[0:07:01] persistent structure instead but since
+[0:07:05] they fundamentally think of systems as
+[0:07:09] informational
+[0:07:11] structures maintaining a consistent
+[0:07:13] structure if you're an informational
+[0:07:15] structure just is being an error
+[0:07:17] correcting
+[0:07:18] code so I I think that hangs together
+[0:07:21] quite nicely
+[0:07:24] um I guess another
+[0:07:28] uh reflection
+[0:07:30] I think off of what you just said is the
+[0:07:34] zurich's Quantum darmin picture which
+[0:07:37] you probably are familiar with
+[0:07:39] also um in
+[0:07:41] which state components of some
+[0:07:46] system are being selected by its
+[0:07:50] environment for
+[0:07:52] stability and again it's a
+[0:07:55] very boundary preservation sort of idea
+[0:08:00] if you fix the boundary between the
+[0:08:01] system and its environment then you fix
+[0:08:04] the interaction at that
+[0:08:07] boundary
+[0:08:08] and uh given given an interaction for
+[0:08:11] the whole
+[0:08:13] system and then the stability of that
+[0:08:18] interaction is effectively has to be
+[0:08:20] preserved by the system and its
+[0:08:23] environment working
+[0:08:26] together and uh
+[0:08:29] in that case the igen values of the
+[0:08:33] interaction are essentially being
+[0:08:35] preserved by an error correcting code
+[0:08:37] the code space being the internal
+[0:08:40] dynamics of both the system and its
+[0:08:45] environment uh and I guess the the
+[0:08:49] Third Kind of
+[0:08:52] perspective uh on that
+[0:08:56] is sort of the more more General
+[0:08:58] perspective
+[0:09:00] a correcting codes that's operable in
+[0:09:02] things like ads
+[0:09:04] CFT where the state of of some volume is
+[0:09:10] coupled to the state of its
+[0:09:13] surface so again and a question of um
+[0:09:18] although although there in that
+[0:09:20] Community they don't talk explicitly
+[0:09:22] about observation they take that for
+[0:09:24] granted so there is something or other
+[0:09:27] going on in the surface that's
+[0:09:28] describable by some
+[0:09:31] Theory oh I suspect that the ads f
+[0:09:35] conformance is um is a little of red
+[0:09:39] herring I think that the Universe
+[0:09:42] fundamentally is
+[0:09:43] automata right so it does is is not a
+[0:09:45] volume or not a surface because it's not
+[0:09:48] geometry geometry is only what happens
+[0:09:50] when you squint at automati
+[0:09:52] scale yeah yeah no so of course you need
+[0:09:56] to have some kind of conformance like
+[0:09:58] this if you have field description of
+[0:10:00] the universe uh and the graph
+[0:10:02] description and uh you need to map
+[0:10:05] between
+[0:10:06] them SpaceTime is basically the set of
+[0:10:09] locations that we can make out and the
+[0:10:11] trajectories that information can take
+[0:10:13] between them and that puts some uh
+[0:10:16] constraints on what spaces you can
+[0:10:18] observe if they give rise to systems
+[0:10:20] like you within
+[0:10:22] them yeah
+[0:10:24] terrific yeah I I completely agree about
+[0:10:27] SpaceTime being emergent fact and I have
+[0:10:29] been talking for some time about is I
+[0:10:32] don't really know what it exactly
+[0:10:34] describes if you look at the llm that
+[0:10:36] seems to be a radically Frisian machine
+[0:10:38] and that it's trying to minimize the
+[0:10:40] prediction error and you could say that
+[0:10:43] it's um there is a free energy
+[0:10:45] minimization going on at some level I
+[0:10:48] suspect that for organisms it's
+[0:10:50] happening in the limit like for all life
+[0:10:52] on Earth or something like that but
+[0:10:54] individual organisms look for more
+[0:10:56] concrete things because there are
+[0:10:59] occupying only a small region in a space
+[0:11:01] of behaviors right in some sense
+[0:11:04] humanity is is not an independent
+[0:11:06] species it's more an organ in the entire
+[0:11:10] Dance of the cell on Earth and our
+[0:11:13] particular role in this organ is just to
+[0:11:15] burn the oil apparently
+[0:11:17] [Laughter]
+[0:11:19] to no our our role is to really provide
+[0:11:24] walking apartment houses for bacteria
+[0:11:29] but that's true for all large organisms
+[0:11:32] but I think we are the only organism
+[0:11:34] that is able to uh basically collect
+[0:11:36] this particular entropy the accidentally
+[0:11:39] fossilized um
+[0:11:41] biocarbon that uh was turned into trees
+[0:11:44] before there were enough insects to take
+[0:11:45] the trees apart and so our role is to
+[0:11:48] basically put it back into a circulation
+[0:11:50] so Gaia can make new organisms and they
+[0:11:52] don't know whether Gaia already planned
+[0:11:54] for us to wake up the
+[0:11:58] rocks I think if that happens there is
+[0:12:01] the next stage of evolution right it's
+[0:12:03] going to be awesome because we are going
+[0:12:04] to have substats to run Consciousness on
+[0:12:07] that are magnitudes faster uh which
+[0:12:10] leads me to this question what
+[0:12:11] Consciousness is and I suspect that it's
+[0:12:13] not an a prediction error minimizer but
+[0:12:16] a coherence maximizer it's basically an
+[0:12:19] operator that is not working uh like the
+[0:12:22] transformer does and the LM minimizing
+[0:12:24] some prediction error but it's a
+[0:12:26] colonizing operator that uh takes
+[0:12:29] suitable trainable but somewhat chaotic
+[0:12:31] substrate and then uh imposes an
+[0:12:34] Administration on it that is locally
+[0:12:36] coherent so it acts in such a way as if
+[0:12:38] it was a single
+[0:12:43] agent
+[0:12:44] [Music]
+[0:12:48] um is there any operational difference
+[0:12:51] between those two I suspect it is
+[0:12:54] because we see that the llm is becoming
+[0:12:56] coherent in the limit after you train
+[0:12:58] the entire internet into it and use
+[0:13:00] almost all of the computer on the planet
+[0:13:02] it's almost
+[0:13:05] coherent but uh it does La the
+[0:13:07] creativity right now to yeah I mean you
+[0:13:10] can say the same thing about people
+[0:13:12] right most of us are not coherent all
+[0:13:14] the time yeah but that's also because I
+[0:13:17] think humans are um evolved to be
+[0:13:21] domesticated we are not the smart home
+[0:13:23] in it we are they programmable home in
+[0:13:25] it we can walk on Lo step
+[0:13:31] so basically a lot of humans when they
+[0:13:33] are confronted with the opportunity to
+[0:13:35] be truthful or to be in synchronization
+[0:13:38] with the environment pick the letter and
+[0:13:40] you can see why that is evolutionary
+[0:13:43] beneficial under the conditions where
+[0:13:44] the ancestors grow up but I also think
+[0:13:47] that there are a lot of humans which
+[0:13:48] lack that limitation and they are
+[0:13:50] basically generally intelligent within
+[0:13:52] the limitations of their substrate which
+[0:13:53] are severe but if you put them onto a
+[0:13:57] different substrate there's nothing that
+[0:13:58] they can not
+[0:14:02] do be interesting to test M never get
+[0:14:08] [Laughter]
+[0:14:13] ITB history tries to test it but we
+[0:14:15] can't replicate those ex those
+[0:14:19] experiments I mean I like I like that I
+[0:14:22] I I'm not I'm not sure as you know how
+[0:14:24] how similar it is to uh uh to to
+[0:14:28] surprise minimization all that but but I
+[0:14:29] do but I really like this notion of um
+[0:14:33] uh sens making as the function as the as
+[0:14:36] the uh right as the primary goal of it
+[0:14:38] and it and I I've been thinking about
+[0:14:40] this recently in the context of uh of of
+[0:14:42] memory and the idea that you know what
+[0:14:45] you get in these engrams is an
+[0:14:46] incredibly compressed uh very sparse
+[0:14:49] representation of things that happened
+[0:14:51] before and at any given time since you
+[0:14:52] don't have access to all of that which
+[0:14:54] you have access to is just the engram
+[0:14:57] the process of sort of re-expanding it
+[0:14:59] it back out is very creative it isn't
+[0:15:01] you know you don't have a real
+[0:15:03] allegiance to what did this mean before
+[0:15:04] all you have is well what do I do with
+[0:15:06] this now right what sense can I make of
+[0:15:07] this now and this like you know um
+[0:15:11] ongoing Dynamic Property of of process
+[0:15:13] of trying to understand what your own
+[0:15:14] memories mean and I I almost feel like
+[0:15:17] uh you know U Mark SES has this has this
+[0:15:21] phrase about uh Consciousness being
+[0:15:23] palpated uncertainty about the
+[0:15:25] environment and I feel like maybe it's
+[0:15:27] more palpated uncertainty about your own
+[0:15:30] memories it's this constant process of
+[0:15:32] you know here you are now with whatever
+[0:15:34] traces the past has left in your in your
+[0:15:36] brain and body and you're constantly
+[0:15:38] trying to make a coherent story out of
+[0:15:40] this you know it's a and and a lot of it
+[0:15:42] I think has to be creative you have to
+[0:15:43] bring stuff to it that is not in the in
+[0:15:45] the engram itself because you've you
+[0:15:47] know of course compressed it you've
+[0:15:48] thrown away all the you know all the all
+[0:15:50] the um correlations and everything else
+[0:15:52] and so a lot of it I think is that that
+[0:15:54] that
+[0:15:55] confabulatory kind of process where it
+[0:15:58] doesn't matter what it used to mean what
+[0:15:59] matters is what can I do with it now you
+[0:16:01] know and and we have in biology we have
+[0:16:04] we have examples of this like uh the
+[0:16:06] fact that the uh the fact that the
+[0:16:08] butterfly retains memories of the
+[0:16:10] caterpillar right even though the brain
+[0:16:12] is refactored during metamorphosis and
+[0:16:14] all that but the you know to me the most
+[0:16:15] interesting part of that is that the
+[0:16:17] actual memories of the caterpillar are
+[0:16:19] of no use to the butterfly whatsoever
+[0:16:21] you can't you can't use the the exact
+[0:16:23] memories but what you can do is uh re
+[0:16:26] remap some of that information onto a
+[0:16:29] completely new body new preferences you
+[0:16:31] know food preferences New Motion motion
+[0:16:34] control now you live in a 3D world
+[0:16:36] you're a hardbodied creature now instead
+[0:16:38] of a you know a crawler in 2D uh you
+[0:16:41] can't use the memories directly but you
+[0:16:42] can re reinterpret them in in ways that
+[0:16:45] make sense to you now you know and and
+[0:16:47] do things with them now so I like I like
+[0:16:50] that that emphasis on this uh you know
+[0:16:52] the the kind of the active construction
+[0:16:54] aspect of it you know Mike I think we
+[0:16:57] could tell exactly the same story you've
+[0:16:59] told here about
+[0:17:06] um percepts from the external world as
+[0:17:09] opposed to Memories which we kind of
+[0:17:11] tend to think of as percepts from the
+[0:17:13] internal
+[0:17:14] World although lots of them are actually
+[0:17:16] written on the external world as some
+[0:17:18] sort of stigmergic record as as we've
+[0:17:22] discussed a
+[0:17:23] lot
+[0:17:25] but any you know take it down to the
+[0:17:29] cellular
+[0:17:30] level some receptor becomes activated
+[0:17:34] and kicks off some
+[0:17:37] pathway it doesn't actually matter to
+[0:17:40] the cell what the previous event that
+[0:17:43] kicked off that receptor
+[0:17:46] was uh what matters to the cell
+[0:17:49] is what do I have to do
+[0:17:52] now given uh what I just
+[0:17:57] sensed and
+[0:17:59] that sensation or or percept if you want
+[0:18:02] to put it in some sort of conceptual
+[0:18:04] terms can be um external or internal it
+[0:18:10] doesn't really matter it's still
+[0:18:11] information that has to be coped with in
+[0:18:13] the present somehow or
+[0:18:16] other
+[0:18:17] and this
+[0:18:20] is this is why I think
+[0:18:24] that um
+[0:18:28] Carl's emphasis
+[0:18:32] on appropriate
+[0:18:35] action is a nice way to think about
+[0:18:39] coherence I mean we've we've sort of
+[0:18:42] adopted
+[0:18:44] previously in
+[0:18:47] papers bateson's notion of differences
+[0:18:50] that make a
+[0:18:52] difference and what do they make a
+[0:18:54] difference for they make a difference
+[0:18:56] for doing something
+[0:18:59] um and and coping in real time with
+[0:19:03] whatever information is coming
+[0:19:06] in and from that point of
+[0:19:11] view the question of I have this
+[0:19:14] information what do I do what do I do
+[0:19:18] next is a prediction
+[0:19:21] problem and
+[0:19:25] the the uh the question is
+[0:19:31] you you make a prediction you do
+[0:19:33] something right you act on the
+[0:19:35] environment in some way or other and the
+[0:19:38] result of that action is either good for
+[0:19:41] you or bad for you so maybe you cease to
+[0:19:44] exist or maybe some food appears or
+[0:19:48] maybe maybe something very threatening
+[0:19:50] appears who
+[0:19:52] knows uh so in that sense this is a very
+[0:19:57] simple sense of course of test
+[0:19:58] predictions right you're just acting and
+[0:20:02] seeing what happens but there was some
+[0:20:04] model that drove the selection of that
+[0:20:07] action I think that's really all that
+[0:20:09] Carl's talking about you you can you can
+[0:20:13] make it sound very
+[0:20:15] cognitive but you don't have
+[0:20:19] to inside of the Transformer is that my
+[0:20:22] view that this the realization of only
+[0:20:26] adjacent events has limited ations if
+[0:20:29] when you want to model structure of text
+[0:20:32] you cannot use the same as for images
+[0:20:34] for images you can use convolutional
+[0:20:36] networks because they basically embody
+[0:20:39] this bias that adjacent pixels are
+[0:20:41] semantically related which works
+[0:20:43] relatively well in the visual world but
+[0:20:45] for text this doesn't work because you
+[0:20:47] are going to miss all the long range
+[0:20:48] Connections in the text if you look at
+[0:20:50] engrams it's very difficult because the
+[0:20:52] alphabet is too large to basically um
+[0:20:55] make an engram model that is bridging
+[0:20:57] over large distance in the text so now
+[0:21:00] you basically need to find structure
+[0:21:02] that is free form so to speak that is
+[0:21:04] deserializing the text into a scene and
+[0:21:08] operate on that scene and you need to
+[0:21:10] have a process that is actively
+[0:21:12] constructing your working memory
+[0:21:13] contents not as a sequence of events
+[0:21:15] where you decide what to do next but
+[0:21:17] where you're modeling the entire future
+[0:21:19] space of possibilities at once and then
+[0:21:22] sort that space
+[0:21:26] somehow uh it seems I just just a funny
+[0:21:29] thing Sam gersman wrote a couple of days
+[0:21:32] ago your you're about the computer code
+[0:21:34] and and kind of keeping it up to date
+[0:21:36] and everything and he said your your
+[0:21:37] most important collaborator is you six
+[0:21:40] months ago and he's not answering emails
+[0:21:42] and I thought that thought that was
+[0:21:43] pretty funny you know in terms of in
+[0:21:45] terms of uh you know the messages uh you
+[0:21:48] interpreting messages and where where
+[0:21:50] they come from but I think uh in uh you
+[0:21:53] know Chris for to to to your point a
+[0:21:55] minute ago when you get this when this
+[0:21:57] event happens I think maybe one
+[0:21:59] important piece of metadata you might
+[0:22:01] want is whether that event was caused by
+[0:22:05] you whatever that is or by something
+[0:22:08] else right because wouldn't you want to
+[0:22:09] know if something is like am I being
+[0:22:11] hacked am I being am I learning or am I
+[0:22:13] being trained you know if there's a
+[0:22:15] particular event uh biologically anyway
+[0:22:18] it would seem like there's some some
+[0:22:19] value to understand did I just do that
+[0:22:22] or was this somehow triggered from the
+[0:22:24] outside it seems like there would be
+[0:22:26] evolutionary pressure to to have ways of
+[0:22:29] figuring that out
+[0:22:30] no well we certainly
+[0:22:34] um have very complicated Machinery that
+[0:22:38] tries to answer that
+[0:22:40] question
+[0:22:42] that
+[0:22:44] um this whole kind of cognitive
+[0:22:47] ownership and the emotions associated
+[0:22:50] with cognitive ownership and all of that
+[0:22:52] stuff that goes wrong in particular ways
+[0:22:55] and particular unfortunate
+[0:22:59] people and yeah getting that getting
+[0:23:02] that sort of thing systematically wrong
+[0:23:04] is
+[0:23:05] debilitating
+[0:23:07] uh but it's it's all essentially
+[0:23:12] heuristic right it's
+[0:23:15] it's it's a a
+[0:23:19] cistica problem it's like our frame
+[0:23:23] problem you know
+[0:23:26] characteristics so
+[0:23:30] uh yeah I I I think that sort
+[0:23:34] of uh euristic meta processing is is
+[0:23:37] extremely important let me remark also
+[0:23:39] for for a moment on language uh when
+[0:23:43] we're thinking
+[0:23:45] about language and and paring and
+[0:23:48] non-local relations and all of that uh I
+[0:23:52] think one
+[0:23:54] way one thing we have to think about in
+[0:23:57] terms of chunking input into bigger
+[0:24:00] pieces that are then analyzed as as
+[0:24:05] units is that that's
+[0:24:09] a time windowing kind of
+[0:24:13] process where we we allow some input to
+[0:24:16] come in we say
+[0:24:18] okay uh you mentioned working memory
+[0:24:22] capacity I mean now we're going to put
+[0:24:24] this in working memory and we're going
+[0:24:27] to do a bunch of stuff to it
+[0:24:29] and then we're going to allow the frame
+[0:24:32] to
+[0:24:33] advance and do a bunch of stuff to the
+[0:24:36] next chunk and um compare those two
+[0:24:41] results for consistency Etc so we are
+[0:24:44] working at
+[0:24:46] this larger delta
+[0:24:49] T but I think at that larger delta T
+[0:24:53] we're still answering a a what do I do
+[0:24:56] next question you know what do I do with
+[0:24:58] this sentence what do I do with this
+[0:25:02] paragraph
+[0:25:04] um how can
+[0:25:12] I put this in a rep representation
+[0:25:16] that
+[0:25:18] uh I feel like I
+[0:25:23] understand and feeling like I understand
+[0:25:27] it means feeling like I there's there's
+[0:25:29] something I can do with it there's some
+[0:25:31] inference I can make from it for
+[0:25:35] example so it's so it's a very good
+[0:25:38] point I that you make about the
+[0:25:40] difference between language and
+[0:25:43] images uh but I I think it's it's mainly
+[0:25:46] a scaling as well it's like the geometry
+[0:25:48] point you made earlier you know we're
+[0:25:51] constantly imposing these sorts of
+[0:25:53] geometries um on information that we
+[0:26:00] encounter and the geometry may or may
+[0:26:02] not be there we always treat it as there
+[0:26:04] right we say oh that geometry is in the
+[0:26:06] external world but it's it's really us
+[0:26:10] that's putting that geometry on the
+[0:26:16] input I think a lot of our actions only
+[0:26:18] make sense when we recognize that we not
+[0:26:20] just deciding what to do now like s does
+[0:26:24] like a control system in the present
+[0:26:25] does but agency is the control of future
+[0:26:28] state
+[0:26:29] and what I observe in humans that they
+[0:26:32] seem to be temporally more coherent than
+[0:26:35] for instance the present AI video models
+[0:26:38] which have more um real time coherence
+[0:26:40] in the sense that they're coherent in
+[0:26:42] space that when you generate a picture
+[0:26:45] this all the features in the picture
+[0:26:46] seem to be more coherent within each
+[0:26:48] other then the picture is coherent in
+[0:26:52] two seconds into the
+[0:26:53] future so basically information
+[0:26:55] preservation across time is something
+[0:26:58] that difficult to discover for the
+[0:27:00] present models and humans are much much
+[0:27:02] better at this recognizing that the um
+[0:27:05] volume that you're looking at needs to
+[0:27:07] remain constant over very many frames
+[0:27:09] into the future for instance for the
+[0:27:12] spatial cohesion of the objects that
+[0:27:13] you're looking
+[0:27:15] at and it probably means that we have to
+[0:27:17] build a model that is more compressed
+[0:27:20] than the ones that the llms the
+[0:27:22] foundation models are currently building
+[0:27:25] MH yeah no I can I can certainly see
+[0:27:28] that I mean in a sense you're
+[0:27:30] making uh Mike's Point about memory
+[0:27:32] except in the other
+[0:27:35] direction right we have this notion of
+[0:27:43] of not only a past notion of but a
+[0:27:46] future
+[0:27:47] expectation about the preservation of
+[0:27:51] identity but what counts as identity
+[0:27:54] gets fuzzier and fuzzier as the planning
+[0:27:56] Horizon increases
+[0:27:59] so if I'm planning my future I could
+[0:28:02] think okay well I'm still going to exist
+[0:28:05] a year from now maybe but who knows what
+[0:28:07] I'll be like right I don't have I don't
+[0:28:10] have details about that in the same way
+[0:28:12] that I don't have details about last
+[0:28:16] year so I think
+[0:28:20] this this business of course graining is
+[0:28:23] very important when we think about uh
+[0:28:26] temporal coherence
+[0:28:29] yeah I think that identity is uh
+[0:28:32] ultimately always instrumental to credit
+[0:28:34] assignment and if we remove that then
+[0:28:38] identity is going to dissolve it's what
+[0:28:40] we not going to form in the first place
+[0:28:42] so basically if you don't don't have a
+[0:28:43] reason to discover yourself as something
+[0:28:45] that is idiosyncratic for instance uh
+[0:28:48] behaving specifically based on your
+[0:28:50] protocol
+[0:28:51] memory and then it makes very little
+[0:28:54] sense to assign an identity to yourself
+[0:28:56] make making a self model
+[0:29:00] one thing that's interesting to me is
+[0:29:01] the question of um what it means to
+[0:29:04] train another system and observe that
+[0:29:07] cats are usually more stupid than dogs
+[0:29:09] but they're much better at training
+[0:29:11] people and as a result they're also less
+[0:29:15] trainable and it seems they basically
+[0:29:18] have evolved to train
+[0:29:20] others as opposed to be trained which
+[0:29:23] dogs are evolved to be yes similar to
+[0:29:26] government as I'm sometimes joke that
+[0:29:28] government is the principle to
+[0:29:30] recursively bully people and it's
+[0:29:34] invented in many many societies
+[0:29:35] independently and once government is
+[0:29:37] discovered it's going to colonize until
+[0:29:39] it meets the boundary of another
+[0:29:41] government with a shorter Logistics
+[0:29:44] chain right and so up to a certain size
+[0:29:47] of a system governments tend to be
+[0:29:49] Singletons I suspect the same is true
+[0:29:51] for Consciousness in the brain for
+[0:29:53] instance across brains the protocol
+[0:29:56] changes and the degree of cohesion
+[0:29:59] changes the bandwidth changes and so
+[0:30:01] it's much easier for other system to um
+[0:30:04] work up to this boundary then you for
+[0:30:07] yourself to spread over that
+[0:30:09] boundary because your B is no longer
+[0:30:11] large enough to do that a similar thing
+[0:30:14] is happening when 120 people are
+[0:30:16] controlling the Indian subcontinent
+[0:30:18] during the British East India Company
+[0:30:20] until the local systems are figuring out
+[0:30:23] how this algorithm works and that they
+[0:30:25] have a shorter information chain and are
+[0:30:27] pushing out the
+[0:30:31] occupants so basically I wonder what it
+[0:30:34] means to colonize an environment to
+[0:30:35] entrain yourself visit and to um build
+[0:30:38] it into structure that extends
+[0:30:45] you yeah that's a nice that's I think
+[0:30:48] that's a nice way to think about things
+[0:30:51] yeah more more sociology applied to
+[0:30:54] biology and physics
+[0:30:58] except normally that we distinguish two
+[0:31:01] types of sociologists those who
+[0:31:04] understand Social Power and those who
+[0:31:05] don't and the former are called
+[0:31:08] economists and ultimately it's an
+[0:31:10] economical
+[0:31:12] problem but meditators call energy is
+[0:31:15] actually compute credits that you get
+[0:31:17] computed by the substrate when you're
+[0:31:19] competing with other agents that want to
+[0:31:21] be computed by the same substats in your
+[0:31:23] Society of Mind for instance or more
+[0:31:26] generally in nature
+[0:31:30] [Music]
+[0:31:32] interesting could I could I uh jump back
+[0:31:34] for a second um back back to just one
+[0:31:37] last thing on this error correction
+[0:31:38] business so would you uh would you say
+[0:31:42] then that
+[0:31:43] um the notion of error correction
+[0:31:46] presupposes a distinction between what's
+[0:31:48] an error and what isn't in other words
+[0:31:51] like you know chemistry doesn't make
+[0:31:53] mistakes so chemistry just does what
+[0:31:54] chemistry does but developmental biology
+[0:31:57] which in theory people think is driven
+[0:31:58] by chemistry uh definitely makes
+[0:32:01] mistakes right you have birth defects
+[0:32:03] and things like that and so so the
+[0:32:05] distinction so there's a distinction
+[0:32:07] there because you make errors relative
+[0:32:09] to expectation of some other Observer
+[0:32:12] expectation of yourself about what you
+[0:32:13] were trying to do expectation with
+[0:32:15] respect to some goal State you know you
+[0:32:17] want it to hit whatever but in in in in
+[0:32:20] the you the way that you guys are using
+[0:32:21] this term is there any notion of error
+[0:32:23] as distinct from you know non-error or
+[0:32:27] or is there something else so uh first
+[0:32:30] of all there are invariances that we
+[0:32:33] observe and for instance uh I told you I
+[0:32:37] became an animist in recent years and
+[0:32:40] that's um not because I think that
+[0:32:41] physicalism is wrong but uh because I
+[0:32:44] think that the invariance that we're
+[0:32:46] looking at and we look at living things
+[0:32:48] is the software that runs on region of
+[0:32:50] physics not the mechanism itself right
+[0:32:53] our current dominant perspective in
+[0:32:55] Western science is that uh the world is
+[0:32:57] mechanical and we need to explain it in
+[0:33:00] terms of
+[0:33:01] mechanisms yet we also understand that
+[0:33:03] for instance um money is not mechanical
+[0:33:06] and it's a software that is only
+[0:33:08] apparent when you have a certain course
+[0:33:10] training that you put onto the world to
+[0:33:11] interpret the world but also important
+[0:33:14] aspects of the world make no sense if
+[0:33:16] you don't use money as the
+[0:33:17] expandom right because money itself is
+[0:33:20] the invariant pattern that inscribes
+[0:33:22] itself onto the physical reality there
+[0:33:24] and the same way minds are an invariant
+[0:33:26] pattern or software is an invariant
+[0:33:27] pattern that we care about we don't care
+[0:33:29] about the number of transistors that
+[0:33:30] implement the software we don't care
+[0:33:32] about the specific neurons that
+[0:33:34] implement the mind because the mind is
+[0:33:36] able to recruit other neurons if some of
+[0:33:38] them fail right so the invariance is
+[0:33:41] actually the software
+[0:33:42] pattern and uh the reason why these
+[0:33:45] invariances exist is because they
+[0:33:47] compress reality in such a way that it
+[0:33:49] becomes controllable and according to
+[0:33:51] the good regulator theorem if you want
+[0:33:53] to control something you need to
+[0:33:55] implement a model of what you control
+[0:33:57] and I suspect that's the reason why the
+[0:33:59] universe is so surprisingly learnable
+[0:34:01] because all the structure that you
+[0:34:02] observe is probably control
+[0:34:05] structure and that means that uh the
+[0:34:07] universe was able to with its means on
+[0:34:10] every level was able to discover models
+[0:34:14] and particles are probably just vortices
+[0:34:16] so there's not much to discover and the
+[0:34:20] atoms and molecules are the emergent
+[0:34:22] patterns over the particle Dynamics and
+[0:34:26] uh but for cells it's much more
+[0:34:28] complicated because for cells you need
+[0:34:29] to have some kind of control system and
+[0:34:31] this that is looking into the future and
+[0:34:34] here the complexity becomes so large
+[0:34:36] that you need to stay in the realm of
+[0:34:39] discoverable models and that means that
+[0:34:41] you need to highly compress what the
+[0:34:42] agent is doing so you describe it as a
+[0:34:44] single system with a single main concern
+[0:34:46] and all the other concerns of the system
+[0:34:48] being subservient to
+[0:34:53] it reminds me of our discussion about
+[0:34:56] thoughts and thinkers mik mhm mhm yeah
+[0:35:00] yeah I
+[0:35:02] I broadly agree with that uh and I would
+[0:35:07] say to
+[0:35:08] have to have a usable error correcting
+[0:35:12] code
+[0:35:14] um you need to have you need to also
+[0:35:19] have classical
+[0:35:22] communication
+[0:35:24] um and what counts as an error then
+[0:35:28] is a discrepancy between what some
+[0:35:32] system sees and what it expects to see
+[0:35:35] based on its Communications with some
+[0:35:36] other
+[0:35:39] system uh so if
+[0:35:44] I'm and this is basically Shannon
+[0:35:47] information
+[0:35:48] Theory right if if I'm sending a message
+[0:35:52] across some Channel and you're receiving
+[0:35:55] it then the message is noise unless
+[0:35:58] we've already shared some sort of
+[0:36:00] information like a language for
+[0:36:03] example or uh a language plus some
+[0:36:07] semantic box that the message is
+[0:36:09] supposed to be
+[0:36:11] about and if we share enough then all I
+[0:36:14] need to do is send a
+[0:36:16] bit and for safety I send three bits to
+[0:36:21] give you some error correction capacity
+[0:36:23] but those three bits only mean anything
+[0:36:26] if we've communicated four about what
+[0:36:28] the question is that's being
+[0:36:32] answered and the I mean the same
+[0:36:34] considerations going go over into
+[0:36:37] Quantum
+[0:36:38] codes uh when you talk about classical
+[0:36:41] communication uh What alternative is
+[0:36:43] there to classical
+[0:36:48] communication
+[0:36:50] well I I think the I think the question
+[0:36:53] here is if you have a bunch of of
+[0:36:56] interactions
+[0:36:57] which you're def defining using quantum
+[0:37:00] theory or information flow or whatever
+[0:37:02] you want to
+[0:37:03] use the question becomes what do you
+[0:37:06] have to assume to call some of them
+[0:37:10] classical and you're making some
+[0:37:13] assumption about
+[0:37:15] thermodynamic irreversibility to call
+[0:37:17] something classical that I I actually
+[0:37:21] said these
+[0:37:23] words not some
+[0:37:26] superposition and you actually hear some
+[0:37:29] words not some
+[0:37:31] superposition which it which gets back
+[0:37:34] to what you were saying at the very
+[0:37:36] early
+[0:37:38] uh very early on in the discussion
+[0:37:41] about uh encountering superpositions but
+[0:37:45] imposing order on them based on uh
+[0:37:49] regularities of some sort the
+[0:37:51] regularities are
+[0:37:53] classical right the regularities are
+[0:37:55] kind of what we mean by classical
+[0:37:56] information
+[0:37:59] yeah the superpositions are not very
+[0:38:01] actionable you need to figure focus on
+[0:38:04] those aspects that are not in
+[0:38:07] superposition well the the very notion
+[0:38:09] of action is classical right I did this
+[0:38:11] not
+[0:38:12] that yeah exactly so I think in order to
+[0:38:16] conceptual itself itself as an observer
+[0:38:19] with memories and so on the system needs
+[0:38:21] to be able to maintain a classical model
+[0:38:23] of itself right and the collapse of the
+[0:38:26] wave function is the point in your past
+[0:38:28] Beyond you fail to pretend that the
+[0:38:30] universe is
+[0:38:33] classical I correct interpretation of
+[0:38:36] Copenhagen if you want to take that one
+[0:38:39] is not that Consciousness is causing the
+[0:38:41] collapse but Consciousness can only
+[0:38:43] exist in collapse
+[0:38:50] timelines yeah one one could
+[0:38:55] say an observer can only be an observer
+[0:38:59] if it considers itself to be an
+[0:39:01] observer yes right to to exist for more
+[0:39:04] than just an instant yeah to have some
+[0:39:07] sort of identity over time yeah right
+[0:39:10] isn't isn't that you have a markof
+[0:39:11] blanket whatever
+[0:39:13] yeah isn't it fundamentally then uh what
+[0:39:17] you're what you have to do is Define
+[0:39:20] some um time time period where if if dur
+[0:39:25] you know during that minimal uh it's
+[0:39:28] like like a frame rate or something
+[0:39:29] where during that time if you had
+[0:39:32] multiple uh multiple thoughts multiple
+[0:39:34] models multiple whatever you were doing
+[0:39:36] they sort of are in a super position if
+[0:39:39] that whole period is what you're what
+[0:39:42] you're seeing right if it's not
+[0:39:43] infinitely thin where you have to say
+[0:39:44] was it was it this or was it that if if
+[0:39:47] that time period of yourself is your
+[0:39:49] self flet is wide enough then there
+[0:39:52] might have been multiple different
+[0:39:53] things going on and as far as you're
+[0:39:54] concerned it is a superposition because
+[0:39:56] you can't cut it any further isn't that
+[0:39:58] that what we're saying that there's a
+[0:40:00] you know what whatever goes on within
+[0:40:02] that minimal time frame those are all
+[0:40:03] superpositions but between time frames
+[0:40:05] you've got to settle it was you know it
+[0:40:07] was either this or
+[0:40:11] that
+[0:40:13] yeah yeah if you think about
+[0:40:18] uh any sort of model of of an observed
+[0:40:23] process right think of think of uh
+[0:40:29] digitizing what's going on in your
+[0:40:31] laptop right we we observe the laptop at
+[0:40:36] the you know basically nanosecond
+[0:40:39] scale we don't observe it at the fcond
+[0:40:43] scale so uh between those
+[0:40:49] observations we don't care what
+[0:40:52] happens we just think of these classical
+[0:40:54] State transitions between effective nanc
+[0:40:58] wide
+[0:41:00] slices and within you know with between
+[0:41:04] those boundaries that we can
+[0:41:06] look with our
+[0:41:08] resolution we don't care some sort of
+[0:41:10] quantum nonsense is going on but we
+[0:41:13] don't care about that we don't care
+[0:41:15] about the duration of the event we care
+[0:41:17] about uh how many events are taking
+[0:41:20] place during a duration that we
+[0:41:21] integrate over to see them as one event
+[0:41:24] right so even if there was a transistor
+[0:41:26] interaction that wouldn't would only
+[0:41:27] take a ftoc we very much do care if it
+[0:41:31] is affecting the thing that we are going
+[0:41:32] to observe in the nanc scale or on the
+[0:41:35] second
+[0:41:36] scale well we can care about it
+[0:41:38] theoretically the my point was just we
+[0:41:40] can't care about it observationally oh I
+[0:41:43] I just mean that it depends on how much
+[0:41:45] energy you're moving in that
+[0:41:47] ftoc right so if that ftoc is large
+[0:41:50] enough to let your computer go up and
+[0:41:52] smoke you very much care
+[0:41:58] that's true but we can't localize it in
+[0:42:02] time yes
+[0:42:05] right maybe we can't I mean ultimately
+[0:42:08] we probably can if we really care so I
+[0:42:10] imagine if you were to live in the
+[0:42:12] universe where uh all the relevant
+[0:42:15] events are happening in fto seconds
+[0:42:17] which seconds between uh to build
+[0:42:21] computers we probably need to figure out
+[0:42:22] equipment to deal with those fto
+[0:42:25] second yeah I mean if we were protons
+[0:42:28] then we naturally care about that time
+[0:42:29] scale
+[0:42:32] M maybe we are protons we just
+[0:42:35] [Laughter]
+[0:42:37] forget so have you read uh eolo
+[0:42:42] calvino's book Cosmic
+[0:42:44] Comics yeah but long ago long ago it's
+[0:42:48] wonderful yeah he he uh he tells us the
+[0:42:53] story of the evolution of the Universe
+[0:42:55] from every point of view from of a
+[0:42:57] proton or something
+[0:43:03] up now I haven't I haven't seen it so
+[0:43:06] it's a wonderful very thin little book
+[0:43:08] you can read it in an
+[0:43:11] hour amazing so so since okay since
+[0:43:15] since since we got there um uh can we
+[0:43:18] talk for a minute about your uh kind of
+[0:43:20] your your your view of the status of the
+[0:43:23] sort of smallest components um what what
+[0:43:27] can we you know what what what what can
+[0:43:29] or should we say about the
+[0:43:31] uh uh the kind of uh how how much of
+[0:43:36] this kind of stuff the the sort of the
+[0:43:38] the protoc cognitive kind of
+[0:43:39] perspectives that we've been using how
+[0:43:41] much of that applies at the at the
+[0:43:42] lowest scale what can you say about
+[0:43:44] particles versus their environment and
+[0:43:46] so on are you asking Chris on me let's
+[0:43:49] start with you
+[0:43:51] Josh uh I suspect that the lowest level
+[0:43:54] is not yet exerting interesting control
+[0:43:57] but it's just mechanical in the same way
+[0:43:59] as um The Vortex that emerges in the Bop
+[0:44:02] doesn't require intelligence to form
+[0:44:04] it's simply what's left over after you
+[0:44:06] look at all the patterns and only retain
+[0:44:09] those that are self-propagating
+[0:44:11] it's so it's basically there some
+[0:44:14] selection process some evolutionary
+[0:44:16] process if you want that is selecting
+[0:44:18] all the non-error correcting patterns
+[0:44:19] from reality and only those that are
+[0:44:22] error correcting get to stay around with
+[0:44:24] a certain probability and once they are
+[0:44:26] over the threshold you can pretend that
+[0:44:29] they're more or less static for a given
+[0:44:30] time and then you build structure above
+[0:44:33] them so I suspect that at the lowest
+[0:44:35] level you don't have intelligence yet
+[0:44:38] the intelligence only forms uh at the
+[0:44:40] level where you have persistent
+[0:44:42] particles that can be linked into
+[0:44:44] symmetry breaking multistable
+[0:44:46] structures and then exploit NE entropic
+[0:44:49] gradiance so they basically what life is
+[0:44:52] doing it performs controlled chemical
+[0:44:54] reactions that out compete dump chem
+[0:45:00] reactions and what's the uh you know
+[0:45:03] give me a ballpark of what what do you
+[0:45:05] think is the first SLS simplest thing
+[0:45:07] that was doing
+[0:45:09] that that's a very tricky question I
+[0:45:13] think the smallest structure is the
+[0:45:15] cell but it's not necessarily the
+[0:45:17] simplest one because the cell is
+[0:45:19] incredibly complicated I could imagine
+[0:45:21] that you have could have very very large
+[0:45:23] systems say um storm systems on J
+[0:45:28] that uh aake up into general
+[0:45:30] intelligence before the first cell does
+[0:45:32] because the first cell is so complicated
+[0:45:34] I don't know what the um assembly
+[0:45:36] complexity of a cell really is How
+[0:45:38] likely it is for this first cell to
+[0:45:40] randomly emerge I could imagine that
+[0:45:43] it's uh this probability is lower than
+[0:45:46] the probability of a generally uh
+[0:45:48] intelligent agent to emerge at much much
+[0:45:51] larger scales of
+[0:45:53] course so in this sense I don't know
+[0:45:55] whether you will find spontaneously
+[0:45:58] formations of agency at say planetary
+[0:46:00] scales yeah that we of course would miss
+[0:46:03] from our cell Centric perspective
+[0:46:06] but I think that it's probably
+[0:46:09] impossible to build intelligence simply
+[0:46:13] only form Elementary particles with at
+[0:46:15] the subatomic scale because atoms are
+[0:46:18] the first level or molecules where you
+[0:46:20] break
+[0:46:23] symmetries what what would you be
+[0:46:25] looking for so let's say the the Jupiter
+[0:46:27] spot or something like that what would
+[0:46:29] you be looking
+[0:46:30] for I think that the time scales on
+[0:46:33] Jupiter would be so large that it's
+[0:46:35] almost pointless to figure this out
+[0:46:38] ultimately you would need to simulate it
+[0:46:40] over a very very long time spans and
+[0:46:42] then basically see if the simulation
+[0:46:44] deviates uh from uh an system that is
+[0:46:48] energy optimizing in such a way that you
+[0:46:50] need to assume that it has memory and is
+[0:46:52] making models of the future to explain
+[0:46:54] what you're observing
+[0:46:59] gotta
+[0:47:00] interesting what do you think
+[0:47:17] Chris I agree
+[0:47:22] that one needs a certain amount of
+[0:47:24] complexity
+[0:47:29] to think about planning for the
+[0:47:33] future
+[0:47:41] um I don't know where I
+[0:47:44] I wouldn't want to try to put a finger
+[0:47:47] on where that complexity actually
+[0:47:50] lives right if you look
+[0:47:53] the the kind of characteristic scale for
+[0:47:58] say Elementary particles not bound
+[0:48:00] together in
+[0:48:02] atoms that characteristic energy scale
+[0:48:06] is very
+[0:48:08] large and so
+[0:48:12] what we at our scale and our
+[0:48:15] observational capabilities call a
+[0:48:19] particle
+[0:48:21] uh is it at that scale uh some kind of
+[0:48:26] complic ated
+[0:48:28] mess right if think of
+[0:48:34] uh drawing the first several orders of
+[0:48:38] fan diagrams or something there's a lot
+[0:48:40] going
+[0:48:42] on
+[0:48:43] and
+[0:48:48] um whether any of that stuff at its own
+[0:48:52] scale could be uh interacting with
+[0:48:57] other entities like that at that
+[0:49:00] scale uh is hard for me to think about U
+[0:49:05] certainly it's it's not something that
+[0:49:08] we can observe with any technology that
+[0:49:11] we
+[0:49:12] have so
+[0:49:14] we're doing this business
+[0:49:17] of uh calling things
+[0:49:21] objects at a resolution that we can
+[0:49:23] observe them and then building a theory
+[0:49:29] that maintains that sense of object
+[0:49:34] Hood down to arbitrary
+[0:49:38] scales
+[0:49:42] um and that theory
+[0:49:45] is predictive of what we can observe in
+[0:49:48] our
+[0:49:50] scale but
+[0:49:55] um I no I I think it's more dangerous to
+[0:49:58] say it's it's really describing what's
+[0:50:01] going on at this at the scales that are
+[0:50:03] really that are of interest there but
+[0:50:05] certainly from the point of view of what
+[0:50:07] can we
+[0:50:08] observe right what are the kinds of
+[0:50:10] intelligence that uh we can get a handle
+[0:50:16] on
+[0:50:23] um the cell or some set of coupled
+[0:50:26] pathways that are that are bounded in
+[0:50:29] some way is probably the smallest entity
+[0:50:32] that we can think
+[0:50:33] about and maybe they're very large
+[0:50:35] entities that have lower complexity I
+[0:50:38] again the question is how would we
+[0:50:40] observe such a
+[0:50:42] thing there's some there's some really
+[0:50:44] interesting work with minimal matter so
+[0:50:47] like droplets and uh things like this
+[0:50:49] that are only only a few chemicals but
+[0:50:52] but they have some pretty rich behaviors
+[0:50:54] and I think we need to uh we need to
+[0:50:56] start develop
+[0:50:58] veloping sets of sets of tools and and
+[0:51:01] um you know kind of criteria for for
+[0:51:04] because you know just just observations
+[0:51:06] doesn't doesn't do the trick well
+[0:51:07] obviously you have to do some kind of
+[0:51:08] perturbative experiments but um we
+[0:51:11] really need to start trying to
+[0:51:12] understand it because
+[0:51:14] uh yeah some of them some of them
+[0:51:17] certainly look like there's a lot of
+[0:51:19] potential for finding some of these
+[0:51:20] things and we need a we need a suite of
+[0:51:22] of tests um that can start giving us a
+[0:51:25] clue that that something like that is
+[0:51:27] going
+[0:51:28] on you know
+[0:51:31] um the the last the last set you know
+[0:51:34] they were you know they're running
+[0:51:36] around a maze and they're coming
+[0:51:39] together in in in multi- sort of you
+[0:51:41] know in higher order structures and I
+[0:51:43] asked him uh how how long did you have
+[0:51:45] to search there it's a total of I
+[0:51:47] believe three chemicals that they're
+[0:51:49] made of and I said how long did you have
+[0:51:50] to search before before you found the
+[0:51:52] chemicals that do this and he said
+[0:51:54] that's basically the first thing I
+[0:51:55] picked up off the shelf so my guess is
+[0:51:58] that it might not be super rare this
+[0:52:00] kind of thing and uh you know and it
+[0:52:03] might be it might be pretty natural but
+[0:52:05] but it's unclear yet you know I think I
+[0:52:07] think the field the field of diverse
+[0:52:09] intelligence still doesn't really have
+[0:52:11] uh agreed upon criteria like what to
+[0:52:13] look for in these kind of systems even
+[0:52:15] for the ones that are tractable I mean
+[0:52:16] obviously you know they talk about the
+[0:52:18] the the economics markets and the spot
+[0:52:20] of Jupiter and the cosmic web and all
+[0:52:22] these things we can't do experiments
+[0:52:23] there but but for some of these these
+[0:52:25] minimal minimal
+[0:52:27] active systems we can so I think we need
+[0:52:29] to uh yeah we need to settle on some
+[0:52:31] some some some experimental
+[0:52:34] criteria no that's very
+[0:52:38] interesting I suspect that ultimately um
+[0:52:42] you might have to resort to simulations
+[0:52:44] where you try to figure out the behavior
+[0:52:47] of a system from first principles and
+[0:52:49] then run the simulation to see how your
+[0:52:52] observations deviate and identify
+[0:52:55] criteria and which you need to ascribe
+[0:52:59] more levels of control to the system
+[0:53:00] that you're
+[0:53:04] observing yeah I mean we see this kind
+[0:53:06] of uh uh very simple kinds of things um
+[0:53:11] in terms of going around barriers and
+[0:53:13] you know kind of delayed gratification
+[0:53:15] where it has to go backwards in the
+[0:53:16] gradient in order to get gains later on
+[0:53:18] and things like this in extremely simple
+[0:53:21] systems you know that it's that that
+[0:53:23] that emerges that capacity emerges in
+[0:53:25] even very you know we we studied it in
+[0:53:28] simple sorting algorithms you know this
+[0:53:29] ability to go backwards to to to make
+[0:53:32] gains later on you don't have to change
+[0:53:33] anything you know very simple algorithms
+[0:53:36] have can have that those behaviors so I
+[0:53:38] think I think we're gonna end up with a
+[0:53:39] lot of surprises but we need to we need
+[0:53:41] to start looking for that
+[0:53:45] stuff yeah
+[0:53:47] ideally one would have a way of looking
+[0:53:50] at the
+[0:53:52] systems ability to operate on its own
+[0:53:58] environment
+[0:54:00] for its own future benefit in some
+[0:54:05] way I mean in a sense with your
+[0:54:07] algorithm experiments the environment is
+[0:54:12] US
+[0:54:14] yeah yeah I mean I mean there are these
+[0:54:17] very minimal um there's a there's a
+[0:54:19] system which actually kind of mimics
+[0:54:22] what real cells do which is it it it put
+[0:54:25] it constantly generates a self-
+[0:54:27] repellent and that just what that does
+[0:54:29] is if you're traversing a maze and you
+[0:54:31] end up in a dead end you sort of sit
+[0:54:33] there for a little bit but eventually
+[0:54:34] the self repellent builds up and chases
+[0:54:36] you out of there and it in Practical
+[0:54:38] terms it means that you're never stuck
+[0:54:40] in a dead end for for you know for for
+[0:54:42] any length of time it it it pulls you
+[0:54:44] out of it pulls you out of these these
+[0:54:46] uh kind of culde saacs where you can't
+[0:54:48] do anything else and it's super simple
+[0:54:50] and you can say that what you've done is
+[0:54:52] you can you can look at it as a as a
+[0:54:54] stigmergic effect on the environment
+[0:54:55] because you're basically a bunch of
+[0:54:56] messages that you know 10 minutes later
+[0:54:59] are going to say don't be here go go go
+[0:55:01] somewhere else so it is it is a you know
+[0:55:04] kind of a very weak version of Niche
+[0:55:06] construction from that in that in that
+[0:55:14] sense yeah that sounds like a good limit
+[0:55:16] to be pushing yeah
+[0:55:20] indeed how to build a self organizing
+[0:55:23] system that is generally intelligent
+[0:55:25] basically what is the
+[0:55:27] the minimal pattern for this colonizing
+[0:55:29] seed that we observe in our own
+[0:55:36] mind B I suspect that Consciousness is
+[0:55:38] an
+[0:55:40] uh operator that induces
+[0:55:43] coherence and I don't have a proper
+[0:55:46] formalization for coherence that is
+[0:55:49] [Music]
+[0:55:50] um but that is properly tested I think
+[0:55:54] of it currently as minimization of con
+[0:55:56] Trin violations across
+[0:55:58] models could think of it as a consensus
+[0:56:00] algorithm that is forming in the mind
+[0:56:02] and that is um trying to find one
+[0:56:05] interpretation where basically you
+[0:56:07] maximize the number of simultaneously
+[0:56:09] true statements in your working
+[0:56:12] memory and out of this would fall the
+[0:56:15] notion that there must be an observer
+[0:56:17] that is in in the act of observation but
+[0:56:19] I suspect that the phonology of self
+[0:56:22] reflexivity comes from the fact that
+[0:56:24] Consciousness to work needs to be self
+[0:56:26] organizing and to do that it needs to be
+[0:56:28] self stabilizing and self
+[0:56:32] observing and so basic I wonder what is
+[0:56:34] this minimal self-observing Observer
+[0:56:36] that keeps itself stable and is
+[0:56:38] colonizing the environment what is the
+[0:56:39] invariance and how can we formalize it
+[0:56:41] in the substrate agnostic
+[0:56:50] way you want the informational analog of
+[0:56:53] a microbial mat
+[0:56:57] well no of an organism I want to have
+[0:57:00] something that is more than a bioform I
+[0:57:02] want something that imposes structure on
+[0:57:04] itself maybe the microbial mat is the
+[0:57:07] precursor basic it's a sufficient
+[0:57:09] substrate where you have self interested
+[0:57:12] uh local nodes that can trainable into
+[0:57:15] performing the computations that you
+[0:57:17] want I mean they actually are on their
+[0:57:20] way to what you're talking about because
+[0:57:22] in in G so's work he shows that so these
+[0:57:25] some of these biof
+[0:57:26] have very brain-like potassium waves
+[0:57:29] that ensure that the whole thing can eat
+[0:57:31] uh it it synchronizes right the the
+[0:57:33] metabolism across the the network so
+[0:57:35] that the ones on the outside don't get
+[0:57:37] all the food and and then the inside
+[0:57:38] starts it starves it has this like large
+[0:57:41] scale uh these large scale potassium
+[0:57:43] waves that look I mean one of the papers
+[0:57:45] was called you know brain brain like
+[0:57:46] signaling in in in bacteria Maps it's
+[0:57:49] it's sort of on its way right it's kind
+[0:57:51] of like they're they're working an
+[0:57:52] organism yeah yeah they're working up to
+[0:57:55] a whole that's doing something different
+[0:57:57] than the parts would
+[0:58:00] do all right cool so what is holding
+[0:58:04] systems
+[0:58:05] back and right elephants are not able to
+[0:58:08] be creative apparently they don't draw
+[0:58:11] images they only replicate drawings
+[0:58:13] Stroke by stroke it seems why is it that
+[0:58:16] elephants despite having a long
+[0:58:18] childhood do not achieve the same level
+[0:58:20] of generality as we do is this the
+[0:58:22] result of a need for tuning the system
+[0:58:24] in a particular way that uh is tricky
+[0:58:27] for evolution or is there a goldilock
+[0:58:29] size to brains that they can only
+[0:58:32] integrate information up to a certain
+[0:58:34] scale
+[0:58:37] deeply I don't know the only thing I
+[0:58:39] know about elephants is I we had a we
+[0:58:41] had a guest speaker once uh years ago at
+[0:58:44] my confer my um seminar Series where he
+[0:58:48] said that he makes these giant
+[0:58:49] xylophones and he drops them off in the
+[0:58:51] forest of in the jungle of I think
+[0:58:53] Thailand he said for wild elephants and
+[0:58:56] he said that wild elephants when they
+[0:58:57] come across these xylophones immediately
+[0:58:59] figure out what the deal is and they
+[0:59:00] start to play them and they just like I
+[0:59:02] mean and I I said is it good he said not
+[0:59:04] the music's terrible but but but but
+[0:59:06] they like it and they you know and they
+[0:59:07] will just not presumably not having
+[0:59:10] heard it before they they they like it
+[0:59:12] and they just start the start playing so
+[0:59:15] I don't know there's some kind of
+[0:59:17] creative why is it not good they have
+[0:59:18] larger brains than
+[0:59:20] us well it's probably good for them
+[0:59:23] exactly right it maybe just don't like
+[0:59:24] it no no I suspect that uh what we
+[0:59:27] consider to be good or not is not so
+[0:59:29] much question of cultural habits but
+[0:59:31] it's the question of the sophistication
+[0:59:34] of the structure that is being
+[0:59:37] encoded actually that's interesting too
+[0:59:39] there's all kinds of videos on YouTube
+[0:59:40] where you can see some guy will take a a
+[0:59:43] violin out in the woods and just start
+[0:59:45] playing it and all these wild animals
+[0:59:46] come you know foxes will come and listen
+[0:59:48] and you know these these wild animals
+[0:59:49] will just come and listen I I always
+[0:59:51] thought that was really interesting why
+[0:59:52] why does it sound good to them too you
+[0:59:54] know
+[0:59:56] I mean I think part of the answer to
+[0:59:58] your question could have to do just with
+[0:59:59] the form of the
+[1:00:01] body right we've we've got these things
+[1:00:04] that are really interesting and they
+[1:00:07] don't they but got good
+[1:00:10] noses pardon me Sor they have very good
+[1:00:12] noses yeah the elephant yeah yeah so
+[1:00:16] they basically have something that's
+[1:00:17] almost as good as we
+[1:00:20] do I yeah I mean maybe that's an equally
+[1:00:25] good to way for the brain to play with
+[1:00:27] in its early development MH but
+[1:00:35] uh I don't know also people that grow up
+[1:00:38] without arms are not necessarily
+[1:00:40] cognitively
+[1:00:41] diminished yeah they're growing up in a
+[1:00:43] cognitively rich environment that's
+[1:00:47] created by lots of other people explore
+[1:00:49] in the same way and build these models
+[1:00:50] so basically the their brains are
+[1:00:52] evolved
+[1:00:53] to discover uh this we of sophistication
+[1:00:57] in abstract
+[1:01:01] modeling I found out recently the
+[1:01:03] elephant trunk requires babbling in the
+[1:01:06] just just like uh just like you know
+[1:01:08] babies when they learn to use their arms
+[1:01:10] at the beginning they have no control
+[1:01:11] over it at the beginning it just waves
+[1:01:13] around you know crazy and then
+[1:01:14] eventually they get yeah eventually they
+[1:01:16] get some control over it oh interesting
+[1:01:19] but but interesting right not the legs
+[1:01:21] so so the legs they stand up pretty
+[1:01:23] early so so the legs are good to go
+[1:01:26] almost almost immediately but the one
+[1:01:29] with a lot of degrees of freedom takes a
+[1:01:31] while to to get to get going

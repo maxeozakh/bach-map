@@ -1,0 +1,117 @@
+CIMC Research Update | Lattice Animals, New Researchers & Vision Weekend 
+
+2026-10-28T16:03:54.386Z
+https://cimcai.substack.com/p/cimc-newsletter-02
+
+Monthly Researcher Note
+
+
+
+Written by Ivan Yakovenko
+For decades (centuries, really!) we have, reasonably, assumed that creating intelligent machines is a matter of designing the right algorithm. The wall we hit was the unexpected complexity of the problem itself, which led to brittle, unsatisfactory results. What was discovered instead is that we can specify a different algorithm: one that defines how to search for the method that implements intelligence, and let computers do the work. Current advances in AI are the pinnacle of this approach.
+Neural Cellular Automata (NCAs) are one possible continuation on this trajectory. They begin with almost no imposed structure, consisting of local rules on a grid, each informationally coupled only to its immediate neighbors. In this way interesting message-passing patterns, and by that the organization of computation itself are discovered rather than designed. This lets us evaluate a wider range of solutions than pre-assumed topologies allow.
+Here, the properties (e.g. world modeling, agency, intelligence) we are looking for are emergent from the interactions of identical units across the substrate (the NCA grid). This emergence from simple units, inside-out instead of outside-in, also seems to align with what we see in biological systems.
+The engineering work at CIMC involves building systems that let us specify the properties of interest and efficiently run the search, evaluation, and analysis of the resulting automata. Our current hypothesis is that consciousness might be one of those interesting properties, since we observe it as apparently indispensable part in many biological organisms.
+The aim is not to declare any particular instance conscious, but to maintain a controllable lab in which the conditions for that kind of organization can be found.
+
+
+CIMC Hackathon: Lattice Animals
+September 25 - San Francisco
+A lattice animal is a mathematician’s name for a shape made of connected grid cells. At our September hackathon, each participant wrote the mind for a single cell, and a cell only counted once it found others and held a shape with them. The minds had no way to talk to each other except by where they moved.
+Ivan Yakovenko, our principal engineer, built the playground: LatticeAnimals.com, a small code repository so people could plug in AI models running on their own laptops, and an interface for connecting large language models. Ahead of the event he trained a neural cellular automaton to play the game and published it as a demo, so participants could see a working strategy before they started. (A neural cellular automaton is a grid where every cell runs the same small neural network and decides what to do based only on its neighbors.)
+Thanks to everyone who came out and built with us. We learned a lot from this one, and the next hackathon will be smoother for it.
+Event Page [https://luma.com/vu8w1g9l]
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!KMRd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b0d4a44-927b-4a1d-9167-e5433d2ba3c8_1622x840.png]
+
+New on Our Website
+Hikari Sorensen built a publications page on our website, so there’s now one place to read CIMC’s longer writing.
+→ Read CIMC publications [https://cimc.ai/publications/]
+
+
+
+
+
+Appearances
+Models of Consciousness 7
+September 12-16 - Copenhagen
+Several of us were in Copenhagen for Models of Consciousness, a conference for researchers who build formal and mathematical models of consciousness. Toni Antonova, research engineer, presented her work on self-modeling: how a system might come to represent itself as part of its own picture of the world. Angie Normandale presented work from Aintelope, and Hikari Sorensen joined for the week of talks.
+→ Models of Consciousness [https://amcs-community.org/events/moc7-2026/]
+In September, Joscha Bach and Angie were also at the International Center for Consciousness Studies conference in Rome, Joscha and Hikari attended the Eleos consciousness conference, and Erik Newton, our President, went to Worthy Successor. If you met us at any of these, thanks for the conversations.
+
+New at CIMC
+Aishik Sanyal joined CIMC in as a Research Engineer. Welcome, Aishik!
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!HxB4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57c0ad99-3dce-422b-9b83-04b06c034797_1146x1528.png]
+
+Angie Normandale joined CIMC as a Research & Ecosystem Coordinator. Welcome, Angie!
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!ck0z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19e70f21-5f69-4c41-bfd3-e77e50ba74ca_1146x1528.png]
+
+Chris Percy is our first CIMC Fellow. Through early December he’s preparing to write an essay that puts computational functionalism (the view that a mind is defined by how it processes information, not by what it’s made of) in conversation with the wider history of philosophy of mind. Some of you heard Chris speak in Berlin. Welcome, Chris!
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!CYj5!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7042683d-1bc3-40ef-98c3-b96cf61e5cc8_2736x3648.jpeg]
+
+A team from the Institute for Advanced Consciousness Studies joined CIMC as grantees in September with their project Dream to Explore: A World-Modeling Architecture for Testing Functional Properties of Consciousness and Multi-Agent Alignment. Led by Zahra Sheikhbahaee, with Adam Safron, Dalton Sakthivadivel, Alex Kiefer, Arthur Juliani and Leonardo Christov-Moore, they’re building AI agents that learn a model of their world, then using them to test ideas about what consciousness does for a mind, such as a “global workspace” where information becomes available to the whole system at once. In their first month, an early prototype was accepted to two NeurIPS workshops, World Models in Physical AI and Continual World Models. Welcome, IACS team!
+
+
+
+
+
+
+CIMC Hackathon
+October 30 - San Francisco
+At CIMC, we’re developing a computational architecture inspired by the visual cortex. Our research brings together self-organizing, distributed systems and action–perception loops, where a system’s perceptions guide its actions, and its actions shape what it perceives next.
+The challenge is to build a software architecture that takes video input (from a webcam or virtual world) and predicts the next frame. The goal is a live mirror generating movements in front of the camera, continuously generating what the camera will see next.
+It’s an opportunity to experiment with how an architecture represents a changing scene, learns its dynamics, and predicts what comes next.
+Event Page [https://luma.com/77g6k7o7]
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!PTbB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff23315c0-6172-442a-bfd4-bc9089fa213f_1016x484.png]
+
+Where to Find CIMC Next
+
+ [https://amcs-community.org/events/moc7-2026/]Vision Weekend USA 2026
+November 13-15, 2026 - San Francisco
+Foresight Institute’s Vision Weekend brings together around 300 researchers, builders and funders working on frontier science and technology, and this year it marks Foresight’s 40th anniversary. CIMC will be attending, so come say hello if you’re there.
+Event Page [https://foresight.org/events/vision-weekend-usa-2026/]
+
+
+
+
+
+Engage With Us
+→ Submit a Research Proposal
+All info here [https://cimc.ai/#/proposals]
+→ Collaborate or Fund
+If you’re interested in supporting or partnering with us, email: proposals@cimc.ai [http://proposals@cimc.ai/]
+→ Join our Machine Consciousness Salons
+Regularly hosted in San Francisco: Luma [https://lu.ma/cimc] calendar
+Visit CIMC's Website [https://cimc.ai/]
+Follow CIMC on X [https://x.com/CIMCAI]
+Follow CIMC on LinkedIn [https://www.linkedin.com/company/cimc-ai/]
+Follow CIMC on GitHub [https://github.com/cimcai]
+
+Thanks for reading our CIMC publication! Feel free to forward this to anyone who muses over the inner minds of systems
+
+Share [https://cimcai.substack.com/p/cimc-newsletter-02?utm_source=substack&utm_medium=email&utm_content=share&action=share]
+
+Thanks for reading CIMC Publication! Subscribe for free to receive new posts.
+
+
+
+
+
+

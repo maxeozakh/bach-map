@@ -1,0 +1,2091 @@
+# source: https://www.youtube.com/watch?v=LgwjcqhkOA4
+# generated=True lang=en
+[0:00:00] welcome back to Street talk just a
+[0:00:02] little bit of housekeeping before we
+[0:00:03] kick off today Paulina silivadov is one
+[0:00:05] of the organizers for a charity AI
+[0:00:07] conference called AI helps Ukraine now
+[0:00:11] their main goal is to raise funds for
+[0:00:13] Ukraine both from the folks attending
+[0:00:15] the conference and also from companies
+[0:00:17] sponsoring the conference and it's not
+[0:00:19] too late to sponsor the conference and
+[0:00:21] support it so please do if you possibly
+[0:00:23] can now all of the funds that they raise
+[0:00:25] will go to Ukraine medical support which
+[0:00:27] is a Canadian non-profit organization
+[0:00:29] which is specializing in humanitarian
+[0:00:32] aid for Ukraine now they have some of
+[0:00:34] the world's leading AI experts keynoting
+[0:00:37] at this event so Joshua Benjo Tim Nick
+[0:00:40] gabrue maxwelling Regina Basile Alexi
+[0:00:43] ephros and also one of our own personal
+[0:00:45] favorites here on mlst Professor Michael
+[0:00:48] bronstein the one and only now the
+[0:00:51] conference is online pretty much from
+[0:00:52] now until the 6th of December and is
+[0:00:55] being hosted from Mila in Montreal their
+[0:00:58] goal is to raise a hundred thousand and
+[0:01:00] dollars and they really really need the
+[0:01:02] support of the AI Community to club
+[0:01:04] together and and to just donate anything
+[0:01:06] that you can so we'll link to the
+[0:01:08] conference in the video and the podcast
+[0:01:10] description please donate if you can and
+[0:01:13] also share the links on on your socials
+[0:01:16] um now I'm at nurips this week in New
+[0:01:19] Orleans so I'll be walking around with a
+[0:01:21] camera uh please just um you know just
+[0:01:24] bump into me and and if you want to
+[0:01:25] record any spicy takes on artificial
+[0:01:28] general intelligence then you know let's
+[0:01:30] do it
+[0:01:32] um today is a conversation with Joshua
+[0:01:34] Bach who's one of our most requested
+[0:01:37] guests ever we recorded the conversation
+[0:01:39] back in April which gives you a bit of
+[0:01:41] an indication of of our backlog I can
+[0:01:43] only apologize about the backlog Keith
+[0:01:45] and I recently started a new Venture
+[0:01:48] called X-ray and as you can imagine
+[0:01:50] we've been working around the clock
+[0:01:52] coding uh just trying to trying to get
+[0:01:54] that business off the ground but when
+[0:01:55] we've made our Millions we'll devote all
+[0:01:58] of our time to producing amazing content
+[0:02:00] on mlst so yeah please bear with us
+[0:02:02] loads and loads of cool content coming
+[0:02:04] your way soon I hope you enjoy the show
+[0:02:06] today
+[0:02:07] peace out Dr Joshua Bach is our most
+[0:02:10] requested guest ever Joshua Bach is a
+[0:02:14] cognitive scientist focusing on
+[0:02:16] cognitive architectures models of mental
+[0:02:18] representation
+[0:02:20] emotion motivation and sociality
+[0:02:23] yahshua's interview on Lex podcast he
+[0:02:27] did he did two interviews on Alexis
+[0:02:29] podcast have been watched over two
+[0:02:31] million times so far which is just
+[0:02:33] absolutely unreal now Yeshua I've
+[0:02:36] watched many of your interviews and I
+[0:02:37] still don't feel that I have a firm
+[0:02:39] grasp on some of your views so today if
+[0:02:42] you don't mind I hope we can do a tour
+[0:02:43] de force over some of your most
+[0:02:44] important views in our shared space to
+[0:02:47] the extent that we can keep up with you
+[0:02:48] of course now um for example we'd like
+[0:02:52] to discuss go Dell and computation
+[0:02:53] Consciousness digital physics Free Will
+[0:02:57] and determinism large statistical models
+[0:02:59] and indeed whether they're AGI or a
+[0:03:02] parlor trick or something more esoteric
+[0:03:04] now when people talk about God or
+[0:03:06] Consciousness or any other complex
+[0:03:08] phenomena
+[0:03:09] it relates to everyone and it means
+[0:03:11] something different to everyone it's
+[0:03:13] ineffable and every conversation sounds
+[0:03:15] like a typical post-ketamine discussion
+[0:03:18] which is to say extremely low
+[0:03:19] information content now the topics we're
+[0:03:22] discussing today are very complex and
+[0:03:24] often we're reaching for the best
+[0:03:26] language to use to conduct the
+[0:03:28] conversation so I hope we do well today
+[0:03:29] anyway uh Dr Joshua bark is an absolute
+[0:03:32] honor to finally welcome you to mlst
+[0:03:36] thank you very much I'm glad to be on
+[0:03:37] the show
+[0:03:39] amazing well um when I started doing
+[0:03:41] computer science many years ago
+[0:03:43] interestingly the theory of computation
+[0:03:46] wasn't even on the curricula and I was
+[0:03:48] wondering whether you thought it should
+[0:03:50] be I mean presumably you think it's
+[0:03:51] extremely relevant for AGI now we want
+[0:03:54] this to be as pedagogical as possible so
+[0:03:56] please explain everything like with five
+[0:03:57] what does computation mean to you
+[0:04:01] I think that computation is far easier
+[0:04:04] than most people think it means that you
+[0:04:06] have a causal structure where every
+[0:04:09] transition can be decomposed into
+[0:04:12] individual steps and when we talk about
+[0:04:14] computational models we decompose the
+[0:04:16] world into States and transitions
+[0:04:18] between the states
+[0:04:19] and then it turns out that there is
+[0:04:21] certain minimal system that is able to
+[0:04:24] execute everything and this can be
+[0:04:26] described in many ways the most famous
+[0:04:28] one is probably the duration and the
+[0:04:30] many other ways in which you can
+[0:04:33] describe the turing machine for instance
+[0:04:35] you can just do the turing machine by
+[0:04:37] doing
+[0:04:39] um search and replace on strings and
+[0:04:41] this is how the Lambda kythonis is
+[0:04:43] defined and all the programming
+[0:04:45] languages in the Lambda calculus and the
+[0:04:48] turing machine turn out to have the same
+[0:04:50] power that is if you can compute
+[0:04:51] something with one of these paradigms
+[0:04:53] you can compute it with the others as
+[0:04:55] long as you don't run into resource
+[0:04:56] constraints so as long as it still fits
+[0:04:58] into memory and you don't care about
+[0:05:00] speed they all have the same power but
+[0:05:02] in practice of course every system is
+[0:05:04] limited so we don't run things forever
+[0:05:07] we want them to give us a result after a
+[0:05:10] certain time so what matters is what can
+[0:05:12] be efficiently contributed not what it's
+[0:05:14] reachable at all
+[0:05:16] foreign
+[0:05:17] and we're going to get into this a bit
+[0:05:19] but there are some possible loopholes at
+[0:05:22] least in uh you know let's say whether
+[0:05:24] or not the universe is is limited
+[0:05:27] um in in certain ways that the
+[0:05:28] definitions of like turning machines are
+[0:05:30] and one I wanted to ask you about
+[0:05:32] specifically is uh penrose's claims and
+[0:05:36] so he claims that what girdles work in
+[0:05:39] fact proves is that the human mind can
+[0:05:42] understand truths that are not provable
+[0:05:45] so specifically one can show that uh you
+[0:05:48] know given go to sentence is necessarily
+[0:05:51] true given given the mathematical
+[0:05:53] analysis even though it can't be proven
+[0:05:55] within the formal system that it's that
+[0:05:58] it's defined and Penrose claims that
+[0:06:00] this capability to understand if you
+[0:06:02] will to mathematically understand is in
+[0:06:05] fact non-computational at least in part
+[0:06:08] and so if he's right then our brains
+[0:06:10] might be what uh Turing referred to as
+[0:06:13] Oracle machines these are computers that
+[0:06:16] have access to a non-computable Oracle
+[0:06:19] or function that they can then utilize
+[0:06:22] those Oracles in order to perform hyper
+[0:06:25] computation essentially so I'm asking
+[0:06:27] I'm curious are you open to this
+[0:06:29] possibility and if not what is your
+[0:06:31] response to penrose's arguments
+[0:06:35] I suspect that Guru has been
+[0:06:36] misunderstood by a lot of philosophers
+[0:06:39] girdle was a true realist that is he
+[0:06:41] thought that truth really exists out
+[0:06:44] there that it's a thing that is eternal
+[0:06:46] in some sense you have this very strong
+[0:06:48] intuition in mathematics classically is
+[0:06:50] also formalized in this way the
+[0:06:53] difference between mathematics and
+[0:06:54] computation at least in the standard
+[0:06:56] sense in which we normally teach
+[0:06:58] mathematics at school is that
+[0:06:59] mathematics has no States
+[0:07:01] everything in mathematics just is
+[0:07:03] eternally
+[0:07:04] right it's it's a single state and if
+[0:07:06] you want to go through the sequence of
+[0:07:08] States you put an index into the formula
+[0:07:10] and uh but still everything is there at
+[0:07:13] the same time the index is just a way to
+[0:07:14] access this thing and this way of having
+[0:07:17] mathematics stateless is very elegant
+[0:07:19] because it allows us to Define functions
+[0:07:21] that have Infinity many arguments right
+[0:07:23] if you would have a state machine that
+[0:07:26] tries to consume infinitely many
+[0:07:27] arguments it would never finish before
+[0:07:29] it goes to the next step and the same
+[0:07:31] thing in the middle of the function if
+[0:07:32] you would compute something if it's
+[0:07:34] stateless you can just compute all the
+[0:07:36] indices all at once even if it's
+[0:07:37] infinitely many In classical mathematics
+[0:07:40] in a computational system you would have
+[0:07:42] to do this maybe one after the other and
+[0:07:45] if you would in parallel you will have
+[0:07:46] lots of CPUs running in parallel right
+[0:07:48] so you run into limits and the same
+[0:07:50] thing with the output so in the
+[0:07:52] classical mathematics you can chain
+[0:07:53] infinitely many steps in functions and
+[0:07:56] exchange Infinity many arguments but of
+[0:07:59] course mathematicians never did this in
+[0:08:01] practice it's just the specification
+[0:08:02] this is how they like to write things
+[0:08:04] down then they want to calculate it they
+[0:08:06] still have to go down and do it
+[0:08:08] sequentially step by step it's just
+[0:08:10] mathematics is defined in such a way as
+[0:08:12] if you could offload this to some
+[0:08:15] supernatural being or some grad student
+[0:08:17] who is going to do the infinitely many
+[0:08:19] calculations
+[0:08:20] and Guru took the specification of
+[0:08:23] mathematics and he found out that when
+[0:08:25] you have this stateless mathematics you
+[0:08:27] can for instance Define self-referential
+[0:08:29] statements that change the truth value
+[0:08:32] depending on the statement itself in
+[0:08:34] this recurrence leads can lead to a
+[0:08:37] contradiction in the state itself so you
+[0:08:39] basically get two statements which say I
+[0:08:41] am wrong and if by referring to itself
+[0:08:44] it changes its own choice value
+[0:08:46] right so if mathematics is stateless you
+[0:08:48] now run into a conflict in a
+[0:08:50] computational system that's not a big
+[0:08:52] problem your computer is not going to
+[0:08:53] crash if you write it down the right way
+[0:08:55] it just happens is that you choose value
+[0:08:57] fluctuates in every execution step it's
+[0:08:59] not going to converge
+[0:09:01] but this is not the real truth right who
+[0:09:03] is something that doesn't change when
+[0:09:05] you call it a call the function again
+[0:09:08] right so this what's going on here and I
+[0:09:12] think what Google has discovered is that
+[0:09:13] classical mathematics doesn't work
+[0:09:15] but you cannot build is any kind of
+[0:09:17] mathematics doesn't allow you to build a
+[0:09:19] machine
+[0:09:20] the hypothetical abstract machine Any
+[0:09:22] kind of universe that runs the semantics
+[0:09:24] of the classical mathematics without
+[0:09:26] crashing yeah but but it kind of seems
+[0:09:28] like okay we're gonna believe
+[0:09:31] girls youth of math use of mathematics
+[0:09:33] to prove that mathematics is flawed like
+[0:09:37] there seems to be almost an inherent
+[0:09:39] contradiction in there like you either
+[0:09:40] believe mathematics and thus you believe
+[0:09:43] girdle's proof of of you know some
+[0:09:45] specific limitations on computational
+[0:09:47] systems right or you believe that
+[0:09:51] somehow mathematics is flawed in which
+[0:09:52] case you can't trust the proof that
+[0:09:54] mathematics is flawed
+[0:09:57] I think girdle's conclusion was that
+[0:09:59] there is something fundamentally going
+[0:10:01] wrong that there might be an ability of
+[0:10:03] mathematics to describe reality and if
+[0:10:06] you believe that truth is real and it
+[0:10:08] exists independently of the procedure by
+[0:10:10] which you calculate it
+[0:10:11] then this seems to be plausible and it
+[0:10:14] was also the conclusions a lot of
+[0:10:16] philosophers have drawn from this which
+[0:10:17] basically write girls proof and
+[0:10:19] concluded that mathematicians have
+[0:10:21] admitted that their Arcane techniques
+[0:10:24] are important to describe reality and
+[0:10:26] therefore philosophers who don't
+[0:10:28] understand mathematics have a clear
+[0:10:29] advantage
+[0:10:31] of course this is not the conclusion uh
+[0:10:34] instead what turns out is that if we
+[0:10:36] just skip the or if we drop the original
+[0:10:39] classical notation or as understanding
+[0:10:41] of mathematics and replace it by
+[0:10:43] computation basically we say truth is
+[0:10:46] what you calculate with the following
+[0:10:48] procedure
+[0:10:49] and you can Define any kind of procedure
+[0:10:51] that you want you just have to make sure
+[0:10:52] that it converges to some kind of value
+[0:10:54] in the way that you want then you
+[0:10:56] resolve your problem it's just that you
+[0:10:58] lose your notion that tools is
+[0:10:59] independent of that procedure and so in
+[0:11:02] some sense the classical mathematics is
+[0:11:04] a specification that cannot be computed
+[0:11:06] from the perspective of computer
+[0:11:07] scientists this happens all the time
+[0:11:09] some customer wants you to build
+[0:11:11] something that cannot be built and you
+[0:11:13] have just proven that it cannot be built
+[0:11:14] right it doesn't mean that you cannot
+[0:11:16] build something useful and I think that
+[0:11:19] Penrose belief that our brain is
+[0:11:21] actually doing these infinite things
+[0:11:24] and it's not when we reason about
+[0:11:26] Infinity we are not actually reasoning
+[0:11:28] about infinitely many steps what we do
+[0:11:30] is we create a symbol and then we do
+[0:11:32] very final computations over that symbol
+[0:11:35] but we cannot construct Infinity we
+[0:11:37] cannot build it we cannot go there from
+[0:11:39] scratch and uh write down some clever
+[0:11:41] automaton that produces an Infinity for
+[0:11:44] you
+[0:11:45] um I was recently browsing penrose's
+[0:11:47] book The Road to Reality and I would say
+[0:11:49] them you know I I don't know that much
+[0:11:51] about physics but the chapters were
+[0:11:53] really interesting you know they're
+[0:11:54] talking about surfaces and manifolds and
+[0:11:57] symmetries and fiber bundles and gauges
+[0:11:59] and ways wave functions calculus Matrix
+[0:12:02] Theory and even computation I mean
+[0:12:04] almost all of the discussion was on
+[0:12:06] mathematical modeling at different
+[0:12:07] levels of description or emergence if
+[0:12:10] you will and in machine learning and AI
+[0:12:12] We Are Forever challenged by trying to
+[0:12:14] get machines to model physical reality
+[0:12:16] at different levels of description using
+[0:12:19] an interoperable set of tools so it
+[0:12:21] seems increasingly true that we need
+[0:12:22] machines that can learn descriptions and
+[0:12:25] Concepts at multiple levels if we're
+[0:12:27] ever going to have AGI capable of
+[0:12:28] understanding the world and learning
+[0:12:30] novel semantic models all of machine
+[0:12:32] learning models today work by chopping
+[0:12:35] up a euclidean space into what is
+[0:12:37] effectively a locality sensitive lookup
+[0:12:39] table very big one and we need agis that
+[0:12:42] can go far beyond this it's got to be
+[0:12:44] able to learn novel geometries Beyond
+[0:12:46] even what humans could have come up with
+[0:12:48] and the ability to reason topologically
+[0:12:51] and algebraically over those geometries
+[0:12:53] something which I think you would agree
+[0:12:55] is not happening with the current deep
+[0:12:56] learning systems
+[0:12:59] but let's start out with the original
+[0:13:01] geometry first if you read Penrose book
+[0:13:04] what you find is that this entire
+[0:13:06] universe is geometric which means it's
+[0:13:08] made of continuous spaces in which
+[0:13:10] things are happening
+[0:13:12] and if we actually look into the world
+[0:13:15] deeply Quantum mechanic is not a
+[0:13:17] geometric Theory the geometry only
+[0:13:20] emerges approximately at the level of
+[0:13:22] the space-time description
+[0:13:24] and it seems that geometry is actually
+[0:13:27] the domain of too many parts to count in
+[0:13:29] reality all the objects that we describe
+[0:13:31] as surfaces if we zoom in are made of
+[0:13:33] discrete Parts like atoms and particles
+[0:13:35] and so on and these in turn are made out
+[0:13:38] of things that have a finite resolution
+[0:13:40] and if we look into our computer
+[0:13:43] programs we can create stuff that looks
+[0:13:45] continuous to us but there's nothing
+[0:13:46] continuous inside of our computer
+[0:13:48] programs and it turns out that the
+[0:13:51] Assumption of in of continuity requires
+[0:13:54] that we partition the space into
+[0:13:56] infinitely many parts right so now we
+[0:13:58] are again running against that thing
+[0:14:00] which girl has shown rounded up gives us
+[0:14:02] difficult and it's not a big problem in
+[0:14:05] practice because practice we never need
+[0:14:07] to do is infinity many things to produce
+[0:14:09] a computer game with an arbitrary
+[0:14:11] fidelity
+[0:14:12] right we can make something that looks
+[0:14:14] like space
+[0:14:15] but the space that we think in and so on
+[0:14:17] is an approximation that our brain is
+[0:14:19] discovered it's a set of operators that
+[0:14:22] converge in the limit but the limit
+[0:14:24] doesn't exist it's just it happens that
+[0:14:26] when you live in a world that is made of
+[0:14:28] too many parts to count for almost
+[0:14:30] everywhere where you look you need to
+[0:14:32] find these operators that converge in
+[0:14:33] the limit
+[0:14:34] and the set of operators that happens to
+[0:14:36] converge in the limit in a still
+[0:14:37] computable this is what we call geometry
+[0:14:40] and to use these uncomputable geometric
+[0:14:43] approximations for macroscopic physics
+[0:14:46] like Newtonian mechanics is completely
+[0:14:47] fine you're just going to compute it up
+[0:14:49] to a certain digit and then this is good
+[0:14:51] but it's a problem for foundational
+[0:14:53] physics because if it turns out that you
+[0:14:55] cannot take a language that actually
+[0:14:58] computes Infinities if you cannot
+[0:14:59] construct as a language then you cannot
+[0:15:01] write a universe in it right so our
+[0:15:03] universe is not written in continuous
+[0:15:06] language but Penrose universe is
+[0:15:09] so uh does that mean the geometry is
+[0:15:11] full right we need this to describe the
+[0:15:13] world of too many parts to count but we
+[0:15:14] do this via computational approximations
+[0:15:16] our brain does the same
+[0:15:19] so let me ask you this then because we
+[0:15:21] we've come across kind of the Infinities
+[0:15:23] a couple of times and and I know that
+[0:15:25] you place an emphasis on constructive
+[0:15:27] mathematics so of course you and all of
+[0:15:29] us uh you know except let's say the
+[0:15:32] existence of potential Infinities you
+[0:15:34] know algorithms that you can sit there
+[0:15:35] and just keep calculating for as long as
+[0:15:37] you want and get kind of more digits but
+[0:15:40] it's really around actual Infinities
+[0:15:42] that we seem to be running into uh
+[0:15:44] problems so let me ask this this first
+[0:15:46] question here really leading up to some
+[0:15:49] computational questions which is can the
+[0:15:52] universe can our actual universe that
+[0:15:54] we're in right now
+[0:15:56] be actually infinite and spatial extent
+[0:16:02] I promise that it can have unboundedness
+[0:16:04] in the sense that you have a computation
+[0:16:06] that doesn't stop giving your results
+[0:16:09] but you cannot take the last result of
+[0:16:12] such computation and go to the next step
+[0:16:13] you cannot have a computation that
+[0:16:16] relies on knowing the last digit of pi
+[0:16:18] before it goes to the next step so you
+[0:16:21] don't have an Infinity but Infinity is
+[0:16:23] about the conclusion of such a function
+[0:16:25] it means that you actually run this
+[0:16:26] function to the end and then do
+[0:16:28] something with the result unboundedness
+[0:16:30] is different in the sense that it will
+[0:16:32] always get something new that you didn't
+[0:16:34] expect that they cannot predict but uh
+[0:16:36] it's it's just going on and on without
+[0:16:39] this end and it I think it's completely
+[0:16:41] conceivable that our universe is in this
+[0:16:43] class of systems in the sense that it
+[0:16:45] doesn't end
+[0:16:46] but uh it doesn't mean that there is
+[0:16:49] anything that gives you the result of an
+[0:16:51] infinite computation because if it that
+[0:16:54] was the case then it could not be
+[0:16:56] expressed in any language
+[0:16:58] it also means if something cannot be
+[0:16:59] expressed in any language that you
+[0:17:01] cannot actually properly think about it
+[0:17:04] because when you think you need to think
+[0:17:05] in some kind of language not in English
+[0:17:07] but in some kind of language of sort or
+[0:17:10] in a mathematical language that doesn't
+[0:17:11] have contradictions and what Gooden has
+[0:17:13] shown is that the language that you hope
+[0:17:15] to reason in about infinities
+[0:17:18] breaks that it has contradictions in it
+[0:17:21] that at some point it blows blows itself
+[0:17:23] apart though the languages that we can
+[0:17:25] build are only those in which we have to
+[0:17:28] assume that Infinities cannot be built
+[0:17:30] so Infinity in this sense is meaningless
+[0:17:32] because we cannot make it in any kind of
+[0:17:34] language
+[0:17:36] so the thing is though I'm not limiting
+[0:17:38] what the universe is capable of based on
+[0:17:40] human you know mental and linguistic
+[0:17:43] limitations or even mathematical
+[0:17:45] limitations like I'm I'm asking you if
+[0:17:48] it's possible for this universe that
+[0:17:50] we're in to optically be right now
+[0:17:53] actually infinite in spatial extent
+[0:17:59] the thing is that you try to make a
+[0:18:01] reference to something that you cannot
+[0:18:03] observe that cannot conceive of other
+[0:18:06] than making a model in some kind of
+[0:18:07] language
+[0:18:08] and to have that model make sense the
+[0:18:11] language needs to work but otherwise you
+[0:18:13] are just maybe in some kind of
+[0:18:15] delusional thing and we can construct
+[0:18:18] delusional things we can construct
+[0:18:19] languages that have backs that you
+[0:18:21] cannot see but if you use a language
+[0:18:23] that has bugs in it that we cannot see
+[0:18:25] and we cannot repair them then this
+[0:18:27] means that the stuff that we Express in
+[0:18:28] the language is not meaningful right we
+[0:18:30] have to use a different language that
+[0:18:32] has maybe the same expressive power but
+[0:18:34] doesn't have these backs and now if you
+[0:18:36] try to think about the universe in the
+[0:18:38] language that allows you to imagine that
+[0:18:41] the universe is literally infinite
+[0:18:43] rather than very very big and much
+[0:18:45] bigger than you can imagine and not
+[0:18:46] ending which is practice for all means
+[0:18:49] and purposes almost the same thing right
+[0:18:52] then if you do this other thing then
+[0:18:55] your thought doesn't mean anything
+[0:18:57] so it's basically you cannot properly
+[0:18:59] express the idea in your own mind
+[0:19:01] without running into contradictions that
+[0:19:03] the universe is infinited infinite in
+[0:19:05] the sense that such a universe could
+[0:19:06] exist
+[0:19:08] okay that's the issue I basically I I
+[0:19:10] cannot think that the universe is
+[0:19:12] infinite I cannot express this that's my
+[0:19:14] issue fine so you're basically saying
+[0:19:16] that the the you know English that I use
+[0:19:19] just a minute or so ago just as uh you
+[0:19:21] know not coherent or not conceivable
+[0:19:23] there's just you know it's not something
+[0:19:25] the underlying thing we had the English
+[0:19:27] right English is not designed to be
+[0:19:29] coherent it's designed to be
+[0:19:30] disambiguating it's designed to be
+[0:19:32] unprincipled to allow us to express
+[0:19:35] things legally and not break but if you
+[0:19:37] think really really deeply and really
+[0:19:39] exactly then the question is what kind
+[0:19:41] of model is your mind building at which
+[0:19:43] point is that just some kind of noisy
+[0:19:45] nebulance that you are pointing at
+[0:19:48] without actually decomposing it in
+[0:19:50] anything that would make sense okay and
+[0:19:53] so the lack of of really the ability to
+[0:19:57] conceive or for you know actual
+[0:20:00] Infinities to antically exist in some
+[0:20:03] sense you know if we just deny all that
+[0:20:05] so we're really just stuck with all
+[0:20:07] right we've got Phi finite everything
+[0:20:09] discrete everything there's no such
+[0:20:11] thing as a Continuum you know there's no
+[0:20:13] such thing as as actual infinite spatial
+[0:20:16] extent
+[0:20:17] Etc that's really the world that you're
+[0:20:19] proposing here right that everything is
+[0:20:21] constructed from at the end of the day
+[0:20:23] finite discrete you know kind of kind of
+[0:20:25] elements
+[0:20:27] um so if we you again imagine your mind
+[0:20:28] is a library of functions in a way and
+[0:20:30] these functions are doing jobs and on
+[0:20:32] the outside of the box you write down
+[0:20:34] what these functions are doing and you
+[0:20:36] construct a box that this in this box
+[0:20:38] there is a Infinity between for instance
+[0:20:41] a Continuum between two points and then
+[0:20:44] you open up the box and look at what's
+[0:20:46] actually inside of the box and you
+[0:20:48] realize it's just a lot of small steps
+[0:20:50] and it's designed in such a way that you
+[0:20:52] can if you want to have more steps it's
+[0:20:54] going to give you more steps if you zoom
+[0:20:55] in right and it's totally doing
+[0:20:57] apparently what's written down on the
+[0:20:59] box but if you look very closely realize
+[0:21:01] oh no the thing that is written down on
+[0:21:03] the box that you have written down on
+[0:21:05] the book cannot actually be in there you
+[0:21:06] can prove that you cannot be in there it
+[0:21:08] must be something else that's in there
+[0:21:10] that is doing most of the work of what
+[0:21:12] you've written down so what you should
+[0:21:13] actually be doing I think if you are
+[0:21:15] interested in housing actually work
+[0:21:16] right on the box what it's actually
+[0:21:18] doing
+[0:21:19] which means it's going to subdivide or
+[0:21:22] any interval if there's any resolution
+[0:21:24] you want as long as you can afford it
+[0:21:27] okay one one mystery if you will uh for
+[0:21:31] me and I'm hoping can help me understand
+[0:21:33] this is that all of the standard
+[0:21:35] standard models for physics right that
+[0:21:38] we have today
+[0:21:39] um they do have in them these continuous
+[0:21:41] you know for example symmetries that uh
+[0:21:44] rotational symmetry or or things like
+[0:21:47] that they're built off of of positing
+[0:21:49] continuums with with continuous waves
+[0:21:52] and you know lots of lots of
+[0:21:54] continuities and Infinities at least in
+[0:21:56] the the mathematical descriptions and I
+[0:21:58] think you would based on quantum
+[0:22:00] mechanics right right yeah and I think
+[0:22:01] based on what you've been saying you
+[0:22:03] would say that those are those are
+[0:22:04] artifacts or properties of our of our
+[0:22:07] mathematical descriptions of reality but
+[0:22:10] they're not actually extant you know in
+[0:22:12] reality and my mystery there is why do
+[0:22:17] those those continuous and and
+[0:22:20] mathematical maybe flawed and
+[0:22:23] inconsistent with Infinities all over
+[0:22:24] the place descriptions works so well for
+[0:22:28] for describing phenomenon at different
+[0:22:31] levels if everything at the end of the
+[0:22:34] day you know if we just looked at high
+[0:22:35] enough energy and small enough
+[0:22:37] resolution we'd see kind of the the uh
+[0:22:40] the grid and you know all the discrete
+[0:22:42] effects and rotationing happening kind
+[0:22:45] of in little tiny tiny infinite you know
+[0:22:47] tiny very small but not infinitesimal
+[0:22:49] degrees you know why does all this
+[0:22:51] continuous Infinity based mathematics
+[0:22:54] work so well what is the explanation for
+[0:22:56] the unreasonable effectiveness of that
+[0:22:59] kind of mathematics
+[0:23:01] uh the easiest answer is that the world
+[0:23:05] in which we lived in is made of
+[0:23:07] extremely small parts and we could not
+[0:23:09] exist if that world was not made of that
+[0:23:13] many small parts so for instance you
+[0:23:15] want to have a momentum for particles
+[0:23:17] that are almost continuous so you can
+[0:23:19] address the space with high resolution
+[0:23:21] because the momentum is what tells you
+[0:23:23] where information comes from in the
+[0:23:25] universe basically the direction of
+[0:23:27] where from which information reaches you
+[0:23:29] and so on if that would be very coarse
+[0:23:31] then the complexity that you could build
+[0:23:34] would probably be found or and we
+[0:23:37] consist of so many parts when you look
+[0:23:39] down it's uncountably many for all
+[0:23:41] practical purposes so the mathematics
+[0:23:44] that we need to describe the world that
+[0:23:46] we are in that we need to model are
+[0:23:48] mostly not in the realm of countable
+[0:23:49] numbers the countable numbers only play
+[0:23:52] a role pin V are looking at very few
+[0:23:54] macroscopic sinks as soon as we leave
+[0:23:57] this domain of a few apples on our table
+[0:24:00] we almost instantly drop in this round
+[0:24:03] where we just need to switch to a
+[0:24:05] continuous description of things
+[0:24:07] and this is completely fine for most of
+[0:24:10] our history when we did physics we never
+[0:24:12] zoomed in that heart and even now when
+[0:24:15] we verily need to zoom at the level
+[0:24:17] where the plank length matters and the
+[0:24:20] resolution of the universe becomes
+[0:24:22] visible and it's of course not some
+[0:24:24] euclidean letters some grid that you can
+[0:24:27] see it's just that at this level to no
+[0:24:29] longer have space
+[0:24:31] um I wanted to move matters back over to
+[0:24:34] some of the happenings in the you know
+[0:24:36] the world of large language models and
+[0:24:38] and deep learning and so on and first
+[0:24:40] quick fire question and I I honestly
+[0:24:42] you're a bit of an enigma to me Joshua
+[0:24:45] because obviously um I I've read some of
+[0:24:47] your research and and you seem like a
+[0:24:48] hybrid guy to me you're very you know
+[0:24:51] Ben getzel very well for example but
+[0:24:53] you're also hugely into the hype train
+[0:24:56] on on the connectionism and you uh you
+[0:24:59] know for example you criticize Gary
+[0:25:00] Marcus's article so the first question
+[0:25:02] is are you a symbolist or a
+[0:25:04] connectionist I'm neither the thing is
+[0:25:07] that I hate deep learning is the best of
+[0:25:09] us it's just a deep learning is ugly
+[0:25:12] it's brutalist it's a few very simple
+[0:25:15] algorithms that are blown up to the max
+[0:25:18] but I cannot prove that these algorithms
+[0:25:20] do not converge to what we want them to
+[0:25:22] converge to
+[0:25:24] right it's it's maybe not elegant but it
+[0:25:26] works and the solution to uh problems
+[0:25:29] with deep learning so far has always
+[0:25:31] been to use more deep learning not less
+[0:25:34] uh so what
+[0:25:36] um upsets me about Gary Marcus argument
+[0:25:38] is not that I'm not sympathetic to what
+[0:25:41] he's trying to push at I like to build
+[0:25:43] models that are more elegant more sparse
+[0:25:44] and so on but uh in in the past all
+[0:25:48] these uh elegant virus models have been
+[0:25:51] left in the Dust by just using more deep
+[0:25:53] learning
+[0:25:54] and we can also see when we zoom out a
+[0:25:56] little bit that there is not an obvious
+[0:25:58] limit to deep learning itself Because
+[0:25:59] deep learning is not just three
+[0:26:01] algorithms deep learning is a
+[0:26:03] programming Paradigm it's differentiable
+[0:26:06] programming basically means that you
+[0:26:08] express everything with a proximately
+[0:26:10] continuous numbers and you use
+[0:26:13] algorithms that converge a business
+[0:26:16] certain ranges and uh when it doesn't
+[0:26:19] converge then you just tweak it and
+[0:26:22] you'd introduce a different architecture
+[0:26:23] which is some kind of
+[0:26:25] um discrete operations that you do on
+[0:26:27] these continuous numbers and so on if
+[0:26:29] you just patch it when you write your
+[0:26:31] program slightly differently and you can
+[0:26:33] automate the search for the program and
+[0:26:35] the people who do deep learning are not
+[0:26:37] also dogs in the sense that they say oh
+[0:26:39] my God symbolic structures are not
+[0:26:41] allowed I cannot use a python script in
+[0:26:43] here rather than uh just a tensorflow
+[0:26:45] this is not what's happening it's also
+[0:26:48] not that they are constrained to any
+[0:26:49] kind of thing they will use whatever is
+[0:26:51] working and what we see is that the end
+[0:26:53] to entrance systems are growing more and
+[0:26:56] more powerful and rather than sitting
+[0:26:59] there by hand and tinkering and finding
+[0:27:00] a solution we can just use a system that
+[0:27:03] is tinkering automatically through a
+[0:27:05] dramatically larger space than we would
+[0:27:07] ever be able to explore by trying all
+[0:27:10] sorts of algorithms so when we look at
+[0:27:13] Gary Marcus articles like this deep
+[0:27:15] learning is hitting a wall and so on and
+[0:27:17] you look what he's actually giving us
+[0:27:19] arguments the arguments are not very
+[0:27:21] good he gives us an example the net heck
+[0:27:23] challenge network is a game which is in
+[0:27:27] very large Horizon because you basically
+[0:27:29] have only one lie you need to explore a
+[0:27:33] very deep Labyrinth you need to plan
+[0:27:34] pretty far ahead with what you're doing
+[0:27:36] and so it's something that is difficult
+[0:27:38] to discover this right solution with a
+[0:27:42] deep learning model that has no prior
+[0:27:44] ideas about what it's doing because it
+[0:27:46] takes us very very long until you get
+[0:27:49] the necessary feedback to learn about
+[0:27:50] your actions and people are relatively
+[0:27:52] good at learning this because they have
+[0:27:54] so many the ideas about what the
+[0:27:56] situation is that they're in there's so
+[0:27:58] many priors from our world interaction
+[0:28:00] and from other games that we have played
+[0:28:01] that we can bring to the tasks so the
+[0:28:04] current winner of this is a symbolic
+[0:28:06] solution
+[0:28:08] and this symbolic solution to carry
+[0:28:09] Marcus gives us a proof that symbolic
+[0:28:13] methods are still ahead of deep learning
+[0:28:15] things in a single case right not like
+[0:28:18] he has a big array of tasks where they
+[0:28:20] are superior it's just two students who
+[0:28:22] have written a program that is made of
+[0:28:24] lots and lots of events this is just a
+[0:28:26] big hack this is not some symbolic
+[0:28:29] learning algorithm that does something
+[0:28:30] novel hybrid or whatever no this is test
+[0:28:33] the script and people is Gary Marcus
+[0:28:35] there is a proposing oh my God deep
+[0:28:38] learning models are limited and we need
+[0:28:39] to replace them with more Scripts
+[0:28:41] this is not a good argument
+[0:28:44] yeah so so I think maybe and look I I
+[0:28:47] get that there are these kind of two
+[0:28:49] competing camps and they maybe go after
+[0:28:51] each other with some no they don't this
+[0:28:53] is only on Twitter there is there are no
+[0:28:56] competing camps it's uh yandikun is not
+[0:28:58] also dogs in the sense that he believed
+[0:29:00] you need to use this algorithm all the
+[0:29:01] other arguments are impure and plot
+[0:29:04] is the build systems that work and if
+[0:29:08] one of his people comes up is something
+[0:29:10] that works better than what he came up
+[0:29:11] with he probably uh praise him for that
+[0:29:15] and let him go on
+[0:29:17] yeah sure but there's absolutely however
+[0:29:20] there is um you know there is uh let's
+[0:29:23] say momentum and Hardware lotteries and
+[0:29:25] and paradigms that kind of reinforce
+[0:29:28] themselves and to an extent they can
+[0:29:29] strangle off you know resources that
+[0:29:32] maybe we like we shouldn't be investing
+[0:29:34] all our eggs in one basket we shouldn't
+[0:29:36] be pouring you know the 99 of research
+[0:29:39] funding necessarily down down deep
+[0:29:42] learning and I think that's kind of the
+[0:29:43] problem that that these paradigms cause
+[0:29:45] but I want to get back to something you
+[0:29:48] said which is it it's a good point it's
+[0:29:51] I think it's an important point I think
+[0:29:53] that in absolute terms the other
+[0:29:55] approaches get more money than they did
+[0:29:57] before it's not that we have a funding
+[0:29:59] stop as we had at some point of research
+[0:30:01] funding stop for neural networks in
+[0:30:03] Marvin Minsky wrote a book where he
+[0:30:05] thought he had proven that the neural
+[0:30:07] networks cannot converge over multiple
+[0:30:08] layers okay press up front cannot turn
+[0:30:10] xor and so on right Minsky was wrong
+[0:30:13] people found a way around this but at
+[0:30:15] this time there was so little funding
+[0:30:17] that this kind of method and at the
+[0:30:19] moment if you want to do something that
+[0:30:21] has Ai and headline the chance that you
+[0:30:24] get it funded well what Paradigm you're
+[0:30:25] doing is greater than ever so the
+[0:30:28] absolute amount of fence that goes into
+[0:30:29] any kind of Paradigm that you want to
+[0:30:31] work on is greater than ever and the
+[0:30:33] reason why the majority of funds goes
+[0:30:35] into very few paradigms is because these
+[0:30:37] are the things that work in industrial
+[0:30:39] applications
+[0:30:41] there is no other algorithm that is able
+[0:30:43] to learn from scratch Hall to translate
+[0:30:44] between arbitrary languages and generate
+[0:30:46] stories and draw pretty pictures for you
+[0:30:49] this is the only game in town at the
+[0:30:51] moment the only class of algorithm that
+[0:30:53] converges over all these many domains
+[0:30:55] and people are looking for better
+[0:30:57] Alternatives and yes we are in a bubble
+[0:30:59] because of course they are looking
+[0:31:00] mostly where things already were that
+[0:31:02] you have Hardware that works you have
+[0:31:04] libraries that work and so on it's hard
+[0:31:06] to get out of that but that is true and
+[0:31:08] it's always good to push for
+[0:31:10] Alternatives and so on but I don't think
+[0:31:14] that we should be in a panic and say oh
+[0:31:16] my God there is something politically
+[0:31:18] wrong I suspect that by and large the
+[0:31:20] forces of the markets and the forces of
+[0:31:23] the academic researchers that want to
+[0:31:25] explore alternatives are pushing in the
+[0:31:27] right direction already
+[0:31:29] yeah I mean fair enough uh and you know
+[0:31:32] you could be right and there may not be
+[0:31:34] that much of an imbalance but I want to
+[0:31:35] get back to One technical thing you said
+[0:31:37] um yes I I it it seems apparent that
+[0:31:41] let's say what deep learning is doing is
+[0:31:44] this this differentiable program search
+[0:31:46] if you will and a question I have about
+[0:31:48] that is if we imagine the space of of
+[0:31:50] all possible programs
+[0:31:52] um that you know requiring that we're
+[0:31:54] doing a differentiable search is
+[0:31:56] certainly going to skew that sample
+[0:31:58] space it may even cut off uh programs
+[0:32:02] um in that space that can't be
+[0:32:03] discovered easily by by differentiable
+[0:32:06] search so I'm wondering doesn't that
+[0:32:08] leave open the possibility that other
+[0:32:10] algorithms that are more discreet in
+[0:32:12] nature say evolutionary algorithms or
+[0:32:14] discrete program search or whatever they
+[0:32:17] may have access to a different Subspace
+[0:32:19] of the space of all all programs that
+[0:32:21] aren't easily accessible by
+[0:32:23] differentiable
+[0:32:24] paradigms is that true
+[0:32:28] now the question is how did you find it
+[0:32:30] how did you find this algorithm is to
+[0:32:32] manipulate the discrete things they
+[0:32:34] agree that when you have a perceptual
+[0:32:36] model that is um modeling everything
+[0:32:39] this chains or sums over real numbers
+[0:32:43] and if you know the attributes thrown in
+[0:32:45] he would get characteristic artifact for
+[0:32:48] instance in the generative models you
+[0:32:49] often have the problem then you try to
+[0:32:51] Model A person with glasses or without
+[0:32:53] glasses that because the model thinks
+[0:32:55] that these features are somewhat
+[0:32:56] continuous you often run into the
+[0:32:58] situation to get areas in the generative
+[0:33:01] model where the glasses are half
+[0:33:02] materialized and looks always very weird
+[0:33:04] and you have these strange things where
+[0:33:07] reality has a discontinuity but your
+[0:33:10] model has permissible states where uh
+[0:33:13] you are in the smack in the middle of
+[0:33:15] the discontinuity and you try to
+[0:33:16] generate something that cannot exist if
+[0:33:18] you want your model to be structured in
+[0:33:19] such a way ideally that every model
+[0:33:21] configuration corresponds to a world
+[0:33:23] configuration and this is not naturally
+[0:33:27] the case because many of the deep
+[0:33:29] learning models and what the Deep
+[0:33:31] learning models is you train them harder
+[0:33:32] typically tend to do is that they
+[0:33:34] decrease these intermissible areas until
+[0:33:36] you are very unlikely to end up in them
+[0:33:39] and it's probably possible to get them
+[0:33:41] to implement filters and all sorts of
+[0:33:43] tricks but what you can also do is you
+[0:33:45] can combine this with some kind of
+[0:33:47] discrete machine and then what you do is
+[0:33:50] you learn how to use this so this deep
+[0:33:52] Learning Network it's not interacting
+[0:33:54] with the world directly but it learns
+[0:33:56] how to use an architecture that does
+[0:33:59] that
+[0:34:00] so for instance instead of training a
+[0:34:02] neural network to do numerical
+[0:34:03] calculations you can train it to use a
+[0:34:06] numerical calculator
+[0:34:07] and in this way it can become very
+[0:34:09] sparse again right so there's not an
+[0:34:12] obvious limit to that I can see where I
+[0:34:14] can prove to the Deep learning people oh
+[0:34:16] here is where you should stop deep
+[0:34:18] learning because they can just combine
+[0:34:20] their deep learning approach with other
+[0:34:21] approaches and use the Deep Learning
+[0:34:23] System to remote control this and it
+[0:34:25] turns out when we reason and so on even
+[0:34:27] when we do discrete recently that the
+[0:34:29] steps that we assemble it to each other
+[0:34:31] are heuristics that require some kind of
+[0:34:34] probabilistic element right so when we
+[0:34:36] form a saw at it when the sword is made
+[0:34:38] of very discrete elements the search for
+[0:34:40] that sort is some kind of deep learning
+[0:34:43] process that is happening right and when
+[0:34:45] we make the pro we do this we emulate
+[0:34:48] the discrete reasoning but of course we
+[0:34:52] can't combine this and we can get a
+[0:34:54] neural network to learn how to perform
+[0:34:56] the discrete operations
+[0:34:58] there's a certain thing that I would
+[0:34:59] like to see which is something like a
+[0:35:02] more worse language of thought
+[0:35:04] when we are looking at Deep learning
+[0:35:07] models there's a phenomenon that people
+[0:35:09] are sometimes observing which they call
+[0:35:11] rocking that is um you train the model
+[0:35:14] and your model gets better and better
+[0:35:16] and then it overfits which means it gets
+[0:35:19] very good at the training data but it
+[0:35:20] gets very bad on the real world I'd
+[0:35:23] think that it hasn't seen before like a
+[0:35:24] person on psychedelics was able to
+[0:35:26] explain everything in the past but is no
+[0:35:28] longer able to perform well in the
+[0:35:30] future because they are overfitting they
+[0:35:32] basically fit the curve too closely to
+[0:35:33] the data that I've seen
+[0:35:35] and there are many tricks in deep
+[0:35:37] learning to go around this overfitting
+[0:35:38] to make sure that this doesn't happen
+[0:35:40] and people try to avoid it and then what
+[0:35:42] they discovered is when you take this
+[0:35:44] overfit model you train it more and more
+[0:35:45] and more and more at some point it
+[0:35:47] sometimes clicks and it gets much better
+[0:35:49] than ever before
+[0:35:51] and there's the question if the uh if
+[0:35:53] there's something that we're doing wrong
+[0:35:54] then deep learning for instance
+[0:35:57] um then you will think about how people
+[0:35:58] learn they learn very different from
+[0:36:00] gpt3
+[0:36:02] people first learn by pointing at stuff
+[0:36:05] at things that are relevant to them that
+[0:36:07] they can eat that they convert that
+[0:36:08] convert them or that they find Pleasant
+[0:36:10] and so on they that they can feel that
+[0:36:12] they can that they have contrast on it
+[0:36:14] that are Salient to them and so you
+[0:36:16] start out with learning these semantics
+[0:36:18] based on the saliency and relevance that
+[0:36:19] you have and then when you learn
+[0:36:21] language you learn basic syntax how to
+[0:36:24] put things together and the long tail of
+[0:36:26] the syntax you learn style how to
+[0:36:28] express things as nuance and so on and
+[0:36:31] this gpt3 it's the opposite you first
+[0:36:33] learn style
+[0:36:35] right and then you learn syntax as the
+[0:36:37] regularities in the style and the
+[0:36:39] semantics is the long tail of that
+[0:36:42] and you to make that happen you need to
+[0:36:44] learn much much more you need to have
+[0:36:45] more training data and so on maybe
+[0:36:47] there's a way in which we can reverse
+[0:36:50] the order and basically get it to start
+[0:36:52] out with relevance to build a curriculum
+[0:36:54] where you first get very fast
+[0:36:56] regularities where the world clicks into
+[0:36:58] place and you always make sure that you
+[0:37:00] can handle it with very limited
+[0:37:01] resources and only see the style and the
+[0:37:04] United States and the nuances is still
+[0:37:06] far extensions of these very sparse
+[0:37:08] concise models that have very big
+[0:37:10] predictive power
+[0:37:11] yeah I mean on on that I I mean the
+[0:37:14] groking paper was very interesting and a
+[0:37:16] lot a lot of these large language model
+[0:37:17] fans always cite that very very quickly
+[0:37:19] when you have a conversation with them
+[0:37:21] but um there is a problem with machine
+[0:37:22] learning in general which is that there
+[0:37:24] is as you said there's a spectrum of
+[0:37:26] correlations and almost all of them are
+[0:37:28] spurious and on on one side of that
+[0:37:31] Spectrum you have the idealized features
+[0:37:33] you actually want it to learn which will
+[0:37:35] generalize after distribution and then
+[0:37:37] of course if you go down that Spectrum
+[0:37:39] you you pick up on all sorts of
+[0:37:41] um very spurious correlations that just
+[0:37:43] happen to generalize very well and if
+[0:37:45] you tell the models not to use those
+[0:37:47] viewers correlations the the performance
+[0:37:49] of the model will go down but I want to
+[0:37:52] just move a little bit over to yazaman's
+[0:37:54] resegi the asaman rosegi's paper
+[0:37:57] um I don't know whether you saw that but
+[0:37:58] she showed that the performance of large
+[0:38:00] language models for arithmetic tasks are
+[0:38:02] linearly correlated to the term
+[0:38:04] frequency in the training Corpus
+[0:38:06] suggesting that they are memorizing the
+[0:38:08] data set which presumably you would
+[0:38:10] agree with and Google has recently
+[0:38:12] released this 540 billion parameter
+[0:38:15] language model called Palm which
+[0:38:17] interestingly does extremely well on for
+[0:38:19] example some of the Google big bench
+[0:38:21] tasks such as the conceptual
+[0:38:23] combinations task which is one of them
+[0:38:25] which tests for compositionality which
+[0:38:27] we'll talk about in a minute but um you
+[0:38:29] know compositionalities is when you can
+[0:38:30] take constituents from The Prompt and
+[0:38:32] compose them together to form the answer
+[0:38:34] now it's tempting to jump to the
+[0:38:36] conclusion that these models are
+[0:38:38] starting to magically reason at scale
+[0:38:40] along the lines that you are just
+[0:38:42] discussing but I still think there's
+[0:38:44] plenty of opportunities for shortcut
+[0:38:46] learning you know by which I mean these
+[0:38:48] spurious correlations given the brittle
+[0:38:50] interface of an auto regressive GPT
+[0:38:52] style language model with these human
+[0:38:55] designed benchmarks would you agree with
+[0:38:57] that yeah
+[0:38:58] uh when I started my own career in
+[0:39:02] computer science in the 90s I was in New
+[0:39:06] Zealand and the Prof in bitten realized
+[0:39:10] that I was ward in class so he took me
+[0:39:11] out of the class and uh in his lab and
+[0:39:14] he gave me the task to discover
+[0:39:16] grammatical structure and an unknown
+[0:39:18] language from scratch
+[0:39:19] and left me pretty much to my own
+[0:39:21] devices on how to do this so the unknown
+[0:39:23] language I picked was English was just
+[0:39:25] unknown to the computer but it was the
+[0:39:27] easiest one to get a corpus for and they
+[0:39:29] gave me the largest computer they had it
+[0:39:30] has two gigabytes of RAM and they did
+[0:39:32] in-memory compression with c and so on
+[0:39:34] and tried to do statistics and I quickly
+[0:39:37] realized engram statistics don't work
+[0:39:38] because of too many words in between so
+[0:39:41] unlike Vision tasks where Point Nets
+[0:39:45] have a useful prior by thinking that
+[0:39:47] adjacent pixels also relate to
+[0:39:49] symbiantically related information right
+[0:39:51] so adjacency in images is a very good
+[0:39:54] predictor for thematic relatedness it
+[0:39:56] doesn't really work in NLP though the
+[0:39:57] Transformer was discovered in natural
+[0:39:59] language processing for that reason
+[0:40:01] because you cannot use direct adjacency
+[0:40:04] very well and so I realized I cannot use
+[0:40:07] n grams which depend on Direct adjacency
+[0:40:10] between birds and so I first of all use
+[0:40:12] ordered pairs of words
+[0:40:14] and try to find correlations between
+[0:40:17] Pairs and then find a mutual information
+[0:40:18] tree that would give me the best
+[0:40:20] prediction over the structure of the the
+[0:40:22] sentence for all the sentences that I
+[0:40:25] would have in my Fortress and indeed
+[0:40:27] this correlates with structure and I
+[0:40:28] realized this is going to not just give
+[0:40:31] me grammar but it's also also going to
+[0:40:32] give me semantics if I can more deep uh
+[0:40:35] statistics but I will need something not
+[0:40:37] just for ordered pairs but I need to
+[0:40:40] have something like force order models
+[0:40:42] but to do the statistics even in memory
+[0:40:44] it is clever in memory compression and
+[0:40:46] many tricks that I did I could not do
+[0:40:48] four statistics on this so uh what I
+[0:40:51] realized I had to do was that I do
+[0:40:54] multiple passes and at first I discard
+[0:40:56] almost all the information I only pick
+[0:40:58] out the most Salient things
+[0:41:00] and then my time was over in the slab
+[0:41:02] and I went back to Germany and never
+[0:41:04] revisit this area of research again but
+[0:41:07] what I had realized is to make progress
+[0:41:09] and need to make Statistics over what I
+[0:41:10] need to make the statistics over
+[0:41:12] and the Very principled base I need to
+[0:41:15] learn what I have to learn
+[0:41:17] and they didn't pay attention to this
+[0:41:19] domain at all and also missed the 2017
+[0:41:22] Transformer paper and its relevance it
+[0:41:24] was only when gpt2 came out that I
+[0:41:27] realized oh my God they did this they
+[0:41:28] did Statistics over the statistics and
+[0:41:31] it's it's still not the uh right
+[0:41:33] solution I think that's not Avail which
+[0:41:35] our brain is doing it it's some Brute
+[0:41:37] Force shortcut where for instance the
+[0:41:39] individual attention heads are not
+[0:41:40] correlated with each other but the
+[0:41:41] reality they are we have this in reality
+[0:41:44] our the tension Nets are integrated into
+[0:41:46] one model of what's going on
+[0:41:48] and it's not that we have an attention
+[0:41:51] Network on every delay every layer that
+[0:41:52] just pays attention to what's happening
+[0:41:54] in the lower layer right it's it's much
+[0:41:56] more clever in our own mind and this
+[0:41:59] thing is active we single out things in
+[0:42:00] reality research which book we need to
+[0:42:02] take out of the Shelf to update our
+[0:42:04] working memory context so we are able to
+[0:42:06] interpret the current sentence that we
+[0:42:08] don't understand and so we always go for
+[0:42:10] the agency when we read something that
+[0:42:12] doesn't make sense at least my my mind
+[0:42:14] works like this I discard it I will uh
+[0:42:18] will not stop until it makes sense or I
+[0:42:21] will have to go to some preliminary I
+[0:42:23] will not accept some kind of vague
+[0:42:25] statistical approximation of what I read
+[0:42:27] and keep this as an intermediary stage
+[0:42:29] in my mind and help with the hope that
+[0:42:31] eventually converges right so it's it's
+[0:42:33] a completely different learning Paradigm
+[0:42:35] when we teach our children arithmetic
+[0:42:37] it's not that we show them lots of very
+[0:42:39] long Mass textbooks and hope that
+[0:42:41] initially that will not make any sense
+[0:42:43] to them but as they reread them again
+[0:42:45] and again with many samples eventually
+[0:42:47] it will click and they will call words
+[0:42:49] on arithmetic no this is not how it
+[0:42:51] works his drive has given them extremely
+[0:42:53] simple things and say in these extremely
+[0:42:54] simple things the structure that you can
+[0:42:56] fully understand now go and find the
+[0:42:58] structure that you fully understand once
+[0:43:00] you've done it you make this a little
+[0:43:01] bit more complicated for you right this
+[0:43:04] this is probably the Paradigm that we
+[0:43:06] could be exploring
+[0:43:09] I know but the problem is it's
+[0:43:11] incredibly deceptive when you have
+[0:43:13] something which appears intelligence and
+[0:43:15] of course the um the boundary of our
+[0:43:17] perception of intelligence is is a
+[0:43:19] receding one but I wanted to just get on
+[0:43:22] to there are some incredible generative
+[0:43:24] uh visual models like Dali and
+[0:43:27] um you know the Disco diffusion so these
+[0:43:30] models I think are going to
+[0:43:31] revolutionize the creative profession
+[0:43:33] I've been playing with disco diffusion
+[0:43:35] all day today I've already ordered some
+[0:43:37] prints to go on my wall it's incredible
+[0:43:40] so yeah the two obvious settings where
+[0:43:42] large language models
+[0:43:44] um you know might be successful
+[0:43:46] um are coding and information retrieval
+[0:43:48] in in my opinion but let's take pause
+[0:43:50] for thought right so I've played with
+[0:43:52] codex
+[0:43:53] and I'm resolutely sure that I wouldn't
+[0:43:55] want to use it
+[0:43:56] um I think code and knowledge are a
+[0:43:58] different ball game to Art which I think
+[0:44:00] will be amazing with codex there's an
+[0:44:02] impedance mismatch between the process
+[0:44:04] of generating the code and then
+[0:44:05] debugging and running the code which is
+[0:44:07] euphemistically been framed as prompt
+[0:44:09] engineering or another term which I've
+[0:44:12] just invented uh retrospective
+[0:44:13] development I think it's easier to start
+[0:44:16] again from scratch than fix broken code
+[0:44:18] from a large language model
+[0:44:20] um I mean this is quite interesting at
+[0:44:22] Google it already takes months to get
+[0:44:24] any code checked into their mono repo
+[0:44:26] because it's basically a bureaucracy
+[0:44:27] because they needed to um you know to
+[0:44:30] have gatekeeping after they decided to
+[0:44:31] use a mono repo so could you imagine how
+[0:44:34] much bureaucracy there'd be if they
+[0:44:35] allow people to start checking in code
+[0:44:37] which was you know generated from an
+[0:44:39] algorithm so anyway I think there's an
+[0:44:41] exciting possible future for using these
+[0:44:43] systems for information retrieval you
+[0:44:44] know rather than the the way that we
+[0:44:46] kind of go through and prune the results
+[0:44:48] on on a Google search these models might
+[0:44:51] just answer directly but I hasten to
+[0:44:54] think what that search UI would look
+[0:44:55] like you know would its output be
+[0:44:57] sclerotic or unadaptable would it be
+[0:44:59] relevant to the query that I that I put
+[0:45:02] in would its output even be true
+[0:45:05] um perhaps it will ask you to select
+[0:45:06] what kind of Truth you were looking for
+[0:45:08] so you know do you think these models
+[0:45:10] would vitiate or spoil our society or do
+[0:45:13] you think they would actually enrich it
+[0:45:16] they're very hard to say I think that
+[0:45:18] from some perspective our society is
+[0:45:20] already maximally spoiled
+[0:45:22] that humans as they live today are
+[0:45:25] basically Locus with opposable stamps
+[0:45:27] this is not going to go on forever this
+[0:45:29] technological Society here are it seems
+[0:45:32] to me on some kind of Titanic that is
+[0:45:35] going to hit the iceberg no matter what
+[0:45:37] and what basically should make us
+[0:45:39] content is that the Titanic was the only
+[0:45:41] place in the universe that has internet
+[0:45:44] and we are born on it and we wouldn't
+[0:45:45] have been born if if there was no
+[0:45:48] Titanic we would not have you born in a
+[0:45:50] sustainable ancestral Society
+[0:45:52] but so in some sense our society needs
+[0:45:55] to reinvent itself it's not really
+[0:45:57] working right now we don't know what the
+[0:45:59] future is going to look like and if it's
+[0:46:01] going to be very technological or if
+[0:46:03] limit certain things
+[0:46:05] um no idea what's going to happen but uh
+[0:46:07] if you think about how our current
+[0:46:11] approaches work if you want to estimate
+[0:46:13] programming better I suspect that these
+[0:46:15] tools can help
+[0:46:16] but they will be much more useful if you
+[0:46:19] do not have to have this battle between
+[0:46:21] a machine that doesn't really understand
+[0:46:22] what you want and instead you have
+[0:46:25] something that is uh working next to you
+[0:46:28] it's the deck imagine you were working
+[0:46:31] for some cooperation and the corporation
+[0:46:32] introduces some kind of planning tool
+[0:46:35] that requires to do a two jumps to all
+[0:46:36] sorts of hopes and it turns out that the
+[0:46:38] planning tool itself makes you more
+[0:46:40] productive but it makes work much less
+[0:46:42] fun
+[0:46:43] it's so rational to use it and everybody
+[0:46:46] will hate it but uh by and large it will
+[0:46:49] be used if it makes people slightly more
+[0:46:51] productive and everybody will feel there
+[0:46:53] might be it must be a better solution
+[0:46:55] something that feels more organic and so
+[0:46:57] it could be that codex is in this
+[0:46:59] category that it makes mediocre
+[0:47:01] programmers much more productive at
+[0:47:03] producing boilerplate but it's not just
+[0:47:05] this it's often able to find Solutions
+[0:47:07] very quickly that you need to use a lot
+[0:47:09] of stack Overflow before you understand
+[0:47:10] the new language or before you tease
+[0:47:13] this new algorithm or part that you want
+[0:47:15] to understand and so on it's just when
+[0:47:17] it doesn't probably turn you into a
+[0:47:19] better programmer if that is your goal
+[0:47:20] but for your employer maybe they don't
+[0:47:22] care whether you're a better programmer
+[0:47:24] they just want you to churn out these
+[0:47:26] pages of code and then they run this
+[0:47:28] against the verifier and against the
+[0:47:29] unit test and then are done go to the
+[0:47:31] next thing right so maybe it's not that
+[0:47:33] important but the systems that we would
+[0:47:36] want what would they look like I think
+[0:47:38] they need to know what they're doing you
+[0:47:40] want to have a program that is not just
+[0:47:41] able to reproduce something very well in
+[0:47:44] the given context you want to understand
+[0:47:46] the context as deeply as you do or
+[0:47:48] better so it needs to understand what
+[0:47:51] kind of world it's operating in in the
+[0:47:53] moment and what itself is what is it
+[0:47:55] that it can do what is that what it
+[0:47:56] needs to learn still let's see in some
+[0:47:58] sense you want systems that are sentient
+[0:48:00] and this sounds like oh my God but it
+[0:48:03] just means you have a learning system
+[0:48:04] that's General enough to model in
+[0:48:06] principle the entire universe and this
+[0:48:09] is not as outrageous as it sounds
+[0:48:11] because uh Delhi is already dealing with
+[0:48:15] two modalities language and images and
+[0:48:18] we will get to video and we will get to
+[0:48:20] audio connected and you see them early
+[0:48:22] steps in this Direction with the
+[0:48:24] socratic model paper for instance so I
+[0:48:26] think that's almost inevitable that this
+[0:48:28] generality will happen and you will have
+[0:48:30] to add a system to work in real time so
+[0:48:32] it can Discover It depth
+[0:48:35] I think I think
+[0:48:37] there's something really magic though
+[0:48:39] about the um the creative process here
+[0:48:42] and also um The Prompt engineering is
+[0:48:44] another thing we we can talk about but
+[0:48:46] um Kenneth Stanley once made this thing
+[0:48:48] called pick breeder and you could
+[0:48:50] essentially distribute the selection of
+[0:48:53] these images created with cppn's
+[0:48:55] compositional pattern producing networks
+[0:48:57] yeah and you would just get these
+[0:48:59] beautiful images they were they were so
+[0:49:02] incredibly Pro you know incredibly and
+[0:49:04] diverse and interesting so it's not that
+[0:49:07] the um algorithms were intelligent there
+[0:49:09] is something magic about the
+[0:49:10] externalized process and what's really
+[0:49:12] interesting about these models like Dali
+[0:49:14] for example is that creativity has been
+[0:49:16] distilled down to a raw idea in your
+[0:49:18] head right so for example
+[0:49:20] um I might decide to mix the style of
+[0:49:22] two artists and combine them with a new
+[0:49:24] subject and I want a black cat in front
+[0:49:27] of Royal Holloway University and the
+[0:49:29] style of cyberpunk I've been doing that
+[0:49:31] all day and the technical process is now
+[0:49:33] done for you the only limit is your
+[0:49:34] imagination so just like Kenneth
+[0:49:36] Stanley's picture reader creativity
+[0:49:38] itself has now become this Uber
+[0:49:40] efficient and externalized process I
+[0:49:42] think it's unreal but the thing is like
+[0:49:44] the reason I never thought gpt3 was
+[0:49:46] intelligent is because it can't be used
+[0:49:48] non-interactively the magic must happen
+[0:49:51] um when it's used by humans
+[0:49:52] interactively
+[0:49:54] but you can uh basically build a machine
+[0:49:57] that is generating problems for GPT
+[0:49:59] Suite so in principle you can build a
+[0:50:02] robot that has a vision to text module
+[0:50:06] and that is used to prompt gpt3 into
+[0:50:09] generating a story about a robot who
+[0:50:11] sees these things and interacts with
+[0:50:13] them and then you take the output of the
+[0:50:15] generative model and translate this
+[0:50:18] using a text to motor module and in this
+[0:50:22] way you close the loop and while this uh
+[0:50:25] I just used it as a thought experiment
+[0:50:27] to think about limitations of embodiment
+[0:50:30] for such systems uh they can is
+[0:50:33] essentially doing that right so somebody
+[0:50:35] has made this happen and it even with a
+[0:50:38] language model it works to some degree
+[0:50:40] and we know that we don't want to do
+[0:50:42] this with natural language because
+[0:50:43] natural language is a crutch this
+[0:50:45] systems make up for this by you just
+[0:50:47] using more natural language pasta than
+[0:50:49] people could use it but there is some
+[0:50:52] language of thought that we are using
+[0:50:54] that is not learned but discovered by
+[0:50:55] our own mind that we Converge on it is
+[0:50:58] much more efficient and this language of
+[0:51:00] thought seems to be able to bottom out
+[0:51:02] and perceptual distributed
+[0:51:03] representations that are unprincipled
+[0:51:05] like these neural networks are in a
+[0:51:07] sense I'm principle so they don't break
+[0:51:08] then there is something that is vague
+[0:51:10] and ambiguous and has small
+[0:51:12] contradictions in it but at some level
+[0:51:15] it also is able to emulate very
+[0:51:17] principal logic very well and becomes
+[0:51:19] very sparse and very powerful in
+[0:51:21] expressing things concisely and this
+[0:51:24] very precise language of sort is I don't
+[0:51:27] so don't see it in our models what Delhi
+[0:51:30] is doing is Delhi 2 is that it combines
+[0:51:32] the language model and division model
+[0:51:34] using embedding spaces and these
+[0:51:36] embedding spaces basically project all
+[0:51:38] the concepts into some high dimensional
+[0:51:40] manifold and find similarities between
+[0:51:43] them
+[0:51:44] and Gary Marcos points out that there is
+[0:51:46] an issue with compositionality in this
+[0:51:49] right so you need to find the semantic
+[0:51:52] structure of a sentence that is made of
+[0:51:54] a hierarchy of Concepts and this is easy
+[0:51:56] to do with the grammar and it's much
+[0:51:58] harder to do this with a deep Learning
+[0:52:00] System that needs to discover this in a
+[0:52:02] way and structure this space in the
+[0:52:04] right way it's not impossible so when
+[0:52:07] Gary Market says these models cannot do
+[0:52:08] this and cannot learn it he is probably
+[0:52:11] wrong but uh he I think he is right in
+[0:52:15] the sense that this is something that's
+[0:52:16] much much harder for the current
+[0:52:18] approaches they need dramatic training
+[0:52:20] data than the human being and the
+[0:52:22] algorithms are not doing this naturally
+[0:52:24] so there are probably ways in which we
+[0:52:27] could make this happen much more
+[0:52:28] elegantly and quickly a converged for
+[0:52:31] instance on models for arithmetic
+[0:52:34] that's right I mean I remember I read a
+[0:52:36] really good uh Twitter thread I think it
+[0:52:38] was by Raphael miliere you know about
+[0:52:40] compositionality of these large
+[0:52:42] generative Vision models because usually
+[0:52:44] compositionality is referred to in
+[0:52:45] respect of language models you know and
+[0:52:47] there's this um uh I think Raphael said
+[0:52:50] that the assessment of the claim is
+[0:52:51] Complicated by the fact that people
+[0:52:53] differ in their understanding of of what
+[0:52:55] compositionality means but if language
+[0:52:57] is is compositional as you say and
+[0:52:59] thought is language like as argued by
+[0:53:01] the proponents of this language of
+[0:53:03] thought hypothesis I think Raphael said
+[0:53:05] that he thought language itself um you
+[0:53:08] know should be compositional in a
+[0:53:09] similar sense and perhaps by extension
+[0:53:11] visual imagery should be compositional
+[0:53:13] so I think Gary was arguing in a
+[0:53:15] nutshell that it's hard to go from the
+[0:53:18] image or let's say the utterance if it's
+[0:53:19] NLP to the structure or the grammar or
+[0:53:22] the constituents it's much easier to go
+[0:53:24] the other way around would you agree
+[0:53:26] and the issue is that language of sort
+[0:53:28] is executable and natural language is
+[0:53:30] not
+[0:53:31] right the execute natural language by
+[0:53:34] translating it into our mind in
+[0:53:35] something that we can execute
+[0:53:37] and use a reason about code you might
+[0:53:39] use natural language to support your
+[0:53:41] reasoning but the code that you build in
+[0:53:43] your mind is filled in some kind of
+[0:53:45] abstract syntax tree that you can
+[0:53:47] actually execute in your mind to some
+[0:53:49] degree and then you get a sense of the
+[0:53:51] output right so you entrain your own
+[0:53:53] brain with an executable structure
+[0:53:56] and this executable structure has
+[0:53:58] properties that are quite similar to the
+[0:54:00] ones that the compiler has in your
+[0:54:02] computer right so you can anticipate
+[0:54:04] what the compiler is going to do with
+[0:54:06] your code go not going to do this with
+[0:54:07] all the depths that your compiler do it
+[0:54:09] you might still have to run your code
+[0:54:11] but you will find when you want to
+[0:54:12] experience programmer your stuff will
+[0:54:14] usually run
+[0:54:15] right so uh our language of thought can
+[0:54:18] do this it can execute stuff and it's
+[0:54:20] not just some machine neural network
+[0:54:22] that guesses but the outcome is going to
+[0:54:24] be and this rate some of the time but uh
+[0:54:27] it gets pretty good at figuring this out
+[0:54:29] this means that it has to build this
+[0:54:30] computer a compositional structure that
+[0:54:32] has some verifiable properties and we
+[0:54:35] observe ourselves operating on this
+[0:54:37] verification process right when we do
+[0:54:39] introspection for every program we
+[0:54:42] observe ourselves how we direct our
+[0:54:43] attention on making proofs and this
+[0:54:46] attentional algorithm that works in real
+[0:54:48] time
+[0:54:49] that is making changes on your mental
+[0:54:52] models and then predicts the outcome of
+[0:54:54] these changes and look Compares this
+[0:54:57] with what your mental computations give
+[0:54:59] you and then fixes your models of how
+[0:55:02] your own thinking process in this domain
+[0:55:03] works and so on like you can observe
+[0:55:05] yourself doing that and uh it's nothing
+[0:55:08] where I would say a given approach or
+[0:55:10] the given approaches that we have will
+[0:55:12] never get there but there seem to be
+[0:55:14] ways in which we have just barely
+[0:55:15] scratched the surface and what you need
+[0:55:17] to be doing to make these models sample
+[0:55:19] efficient and sparse and more adequate
+[0:55:21] to what domains you're interested in
+[0:55:24] cool okay well um I mean just to finish
+[0:55:28] like the discussion about the open AI
+[0:55:29] stuff I mean I agree with the
+[0:55:31] prognosticators and I do think that
+[0:55:33] these large language models and these
+[0:55:35] visual generative models will be
+[0:55:36] revolutionary for some domains but
+[0:55:39] um
+[0:55:40] you know I think you really need to have
+[0:55:42] a human guiding the creative process
+[0:55:44] which is a huge limitation but I think
+[0:55:46] it could also potentially hint at what
+[0:55:48] intelligence actually is right I think
+[0:55:50] intelligence might be this externalized
+[0:55:53] process in a cybernetic sense if you
+[0:55:56] like this idea of Intelligence being
+[0:55:58] fully embedded in an algorithm in a
+[0:55:59] single agent might be might be the wrong
+[0:56:02] way to think about it
+[0:56:04] I think that humans by knowledge are
+[0:56:06] very confused very often you need a
+[0:56:07] human to guide the human right and uh
+[0:56:10] then you ask yourself if you do this
+[0:56:11] recursively does the society know where
+[0:56:14] it's going or is this at some level
+[0:56:16] confusion at all levels that is
+[0:56:18] balancing each other
+[0:56:19] so there seem to be very few people with
+[0:56:22] a plan right now and it's quite apparent
+[0:56:24] when you see that in the Sciences we see
+[0:56:26] this in politics we did it's an art and
+[0:56:28] third feature it is that humans have a
+[0:56:30] higher degree of sentience but by and
+[0:56:32] large very few people have a principle
+[0:56:34] plan on how to build sustainable
+[0:56:36] harmonic world and if you set an AI
+[0:56:40] system to this task it might make more
+[0:56:42] progress on it it's just that Dali is
+[0:56:44] not operating in real time on the
+[0:56:46] universe that is entangled first and
+[0:56:48] neither is gpt3 both of them are in some
+[0:56:50] sense fancy autocomplete algorithms
+[0:56:53] but this uh fancy autocomplete is able
+[0:56:56] to do a auto completing the driver far
+[0:56:59] beyond the auto computation abilities of
+[0:57:01] humans in almost every context and so I
+[0:57:04] don't see Italy yet as hard it's a very
+[0:57:07] strange sense when uh someone that open
+[0:57:10] AI let me throw trumps at Dali 2 and I
+[0:57:15] got images back I had a sense of
+[0:57:17] ownership I had the sense that I was
+[0:57:20] doing that even though it was clearly
+[0:57:22] doing skills using skills that I didn't
+[0:57:24] have and I suppose that you had the same
+[0:57:26] impression when you were generating
+[0:57:28] things with your diffusion model that
+[0:57:29] you're going to put up on your walls
+[0:57:31] right you did that using this amazing
+[0:57:33] tool that was empowering you to think
+[0:57:35] that you otherwise never could do but
+[0:57:37] you are the creative Nexus and to make
+[0:57:40] an artist a digital artist you would
+[0:57:42] need to create an autonomous creative
+[0:57:45] Nexus in a way a creative entity
+[0:57:47] something that reflects on the world
+[0:57:49] because art is about capturing conscious
+[0:57:51] States so we would need to build a
+[0:57:53] system that has a story about itself and
+[0:57:56] that is reacting to its own interaction
+[0:57:58] festival and the thing wouldn't need to
+[0:58:00] be human it would need to be consistent
+[0:58:02] something that is an intelligent entity
+[0:58:05] that is creatively interacting with the
+[0:58:07] world I think we could totally build an
+[0:58:09] AI artist franchise right now that would
+[0:58:12] have a huge following but what it need
+[0:58:13] to have is an identity that is not fake
+[0:58:16] that is actually built from its
+[0:58:18] interactions with the world in real time
+[0:58:20] well I think we've got a lovely segue
+[0:58:22] there because
+[0:58:24] you you said that um you know artist art
+[0:58:27] is about representing our conscious
+[0:58:29] States
+[0:58:30] um in a way I disagree with because you
+[0:58:31] could say well it's very reductionist
+[0:58:33] I've just put I've just put a prompt in
+[0:58:35] there and I've created art well I think
+[0:58:36] it I think it is our but how much of a
+[0:58:38] representation of my conscious state is
+[0:58:40] it I think Douglas hofstatter would say
+[0:58:42] it wasn't but over over to the matter of
+[0:58:45] Consciousness because we're a bit low on
+[0:58:46] time I mean you you said actually that
+[0:58:48] you've spent much of your life thinking
+[0:58:50] about what Consciousness is and um you
+[0:58:53] said that you you thought it was very
+[0:58:55] mysterious but you now think that it's a
+[0:58:57] riddle that can be uh solved right so on
+[0:59:00] your recent Theory of Everything
+[0:59:01] interview with Donald Hoffman actually
+[0:59:03] you said that it was virtual not a
+[0:59:05] physical thing that brains are
+[0:59:07] mechanistic and that the elements of
+[0:59:10] Consciousness are magical somehow but
+[0:59:13] you said it had an a causal structure
+[0:59:15] but not the way physics is built but it
+[0:59:18] was a story which the physical system
+[0:59:20] tells to itself you said that the
+[0:59:23] organism is a coherent and consistent
+[0:59:25] pattern
+[0:59:26] which is State Building at least at some
+[0:59:28] level of analysis and that Consciousness
+[0:59:30] allows organisms to coordinate their
+[0:59:32] cells to succeed in their niches and
+[0:59:35] then you spoke of information processing
+[0:59:37] over cells now what model of I should
+[0:59:41] say like what measure of Consciousness
+[0:59:43] do you think you most align with
+[0:59:46] and it is only once you read that offers
+[0:59:48] a measure of Consciousness and there's
+[0:59:50] this integrated information Theory
+[0:59:51] whereas you actually put a number on it
+[0:59:53] and it's not clear what that number
+[0:59:55] means
+[0:59:57] right it's uh it's not that there's some
+[0:59:59] kind of scalar that measures this and
+[1:00:01] and people we think of Consciousness as
+[1:00:03] something that is more qualitative than
+[1:00:06] quantitative either somebody is
+[1:00:08] conscious or somebody is unconscious and
+[1:00:10] then you are conscious you can have a
+[1:00:12] lack of Acuity you can be adults in your
+[1:00:14] brain and you can be drifting in and out
+[1:00:17] of Consciousness but uh it's still a
+[1:00:20] qualitative thing of whether you have
+[1:00:22] that or not and this qualitative thing
+[1:00:25] seems to be simple
+[1:00:26] probably much simpler that people expect
+[1:00:29] it to be
+[1:00:30] the right thing might be perception
+[1:00:33] and Consciousness is on top of
+[1:00:35] perception is a certain way to deal with
+[1:00:36] our attention so I think a very
+[1:00:39] important aspect of Consciousness is
+[1:00:41] reflexive attention that we notice
+[1:00:44] ourselves attending to something and we
+[1:00:46] reflect on that and integrate this in
+[1:00:48] our model
+[1:00:49] the conundrum is understanding
+[1:00:51] Consciousness if you go right into the
+[1:00:54] history of everything striking is
+[1:00:56] lightness and many others leibniz says
+[1:00:58] this idea of imagine you could have a
+[1:01:01] Mill and this this is your mind and this
+[1:01:05] the mill is made of lots of mechanical
+[1:01:07] parts and somehow the thing is feeling
+[1:01:09] and perceiving things and we blow the
+[1:01:13] middle up so large that we can walk into
+[1:01:15] bit or if we would today they may zoom
+[1:01:18] into it until you see all the parts and
+[1:01:20] we just do these pushing and folding
+[1:01:22] parts and nothing of them can ever
+[1:01:24] explain a perception or a Feeling
+[1:01:26] and it's just uh it's a very strong
+[1:01:28] intuition that also drives the Chinese
+[1:01:30] room and many that other thinkers will
+[1:01:33] uh get attracted to this and it seems
+[1:01:36] pretty obvious that these mechanical
+[1:01:37] phenomena are insufficient to explain
+[1:01:40] what's going on it's not an obvious
+[1:01:41] connection so people become dualists
+[1:01:44] they're somehow are two completely
+[1:01:46] separate domains and I think in a way
+[1:01:48] this dualism is correct but not in the
+[1:01:51] sense that the mental states are
+[1:01:52] ontologically existing
+[1:01:55] they are exist as if
+[1:01:58] there is no argument that there is only
+[1:02:00] this connection of cells in this
+[1:02:02] collection of cells is acting in a
+[1:02:04] coherent way which means you can
+[1:02:06] compress it you can model it using a
+[1:02:08] very low dimensionals much circular
+[1:02:10] function then look at all the cells in
+[1:02:12] general and the organism is only
+[1:02:14] approximating this function but what
+[1:02:16] makes the organism more powerful than
+[1:02:18] the collection of cells is exactly that
+[1:02:20] function the structure that we project
+[1:02:22] into it and the interesting thing is
+[1:02:24] that by the information processing
+[1:02:26] within the organism the organism can
+[1:02:28] discover that function by itself and use
+[1:02:30] it to drive its own behavior
+[1:02:32] so while the organism is not a person
+[1:02:35] it's not even an organism it is very
+[1:02:38] useful for the organism to behave it if
+[1:02:40] it was an organism and also to have an
+[1:02:43] idea what it would be like to be a
+[1:02:44] person that interacts for instance with
+[1:02:46] the social world
+[1:02:47] so it creates a simulation of that and
+[1:02:50] it's often not even a simulation that's
+[1:02:51] often just a symbol aquam that's what
+[1:02:53] makes it a causal the difference between
+[1:02:55] a simulation and the reality is that the
+[1:02:59] simulation is modeling some aspects of
+[1:03:02] the Dynamics of a domain on a different
+[1:03:04] causal substrate on the different
+[1:03:05] quarter footing so you have a computer
+[1:03:07] game in which you can shoot a gun but
+[1:03:10] there is no proper physics in the game
+[1:03:12] that would uh
+[1:03:14] recreate what's happened in the real
+[1:03:16] world when you shoot the gun right it's
+[1:03:18] dead it is using a different causal
+[1:03:20] structure of your software program to
+[1:03:22] give you something that gives you good
+[1:03:23] enough Dynamics so you can interact with
+[1:03:25] the bolt and experience this course of
+[1:03:27] structures you can make a different
+[1:03:28] decision you make different move in the
+[1:03:31] game and as a result the game behaves as
+[1:03:33] if you would expect it because it's
+[1:03:35] imitating the same fossil structure
+[1:03:36] using this different substrate in the
+[1:03:39] symbolism because we don't have the
+[1:03:40] causal structure like a movie doesn't
+[1:03:42] have causal structure it only gives you
+[1:03:43] a sequence of observables and our own
+[1:03:46] mental model of ourselves is a mixture
+[1:03:49] of simulation and Similac from
+[1:03:51] so like we sometimes create a sequence
+[1:03:54] without cost of structure it looks like
+[1:03:55] it does this thing magically and
+[1:03:57] sometimes we have a causal model but
+[1:03:59] this quarter model is not the real deal
+[1:04:01] it's just this simplified geometric
+[1:04:03] simulation of how the world works at
+[1:04:04] game engine that our brain is producing
+[1:04:06] to anticipate what happens in the
+[1:04:08] physical world
+[1:04:09] yeah so that that very strongly
+[1:04:11] resonates with me in another uh another
+[1:04:14] person I very much respect his opinion
+[1:04:17] resonates with me regarding
+[1:04:18] Consciousness is Carl friston and uh you
+[1:04:22] know I'm not sure how much you're
+[1:04:23] familiar with his his free energy
+[1:04:25] principle and and his thoughts on uh
+[1:04:27] Consciousness but I'd like to put
+[1:04:28] forward to you one of his more recent
+[1:04:31] um definitions if you will or proposals
+[1:04:33] to explain Consciousness and I get your
+[1:04:36] opinion on it this is from his 2018
+[1:04:38] article
+[1:04:40] titled am I self-conscious or does
+[1:04:43] self-organization entail
+[1:04:45] self-consciousness and what he says here
+[1:04:47] is the proposal on offer here is that
+[1:04:50] the Mind comes into being when
+[1:04:52] self-evidencing has a temporal thickness
+[1:04:55] or counter factual depth which grounds
+[1:04:59] inferences about the consequences of my
+[1:05:02] action on this view Consciousness is
+[1:05:05] nothing more than inference about my
+[1:05:07] future namely the self-evidencing
+[1:05:10] consequences of what I could do
+[1:05:13] does that align pretty closely with your
+[1:05:16] your view
+[1:05:17] no I don't think it's sufficient and
+[1:05:20] also don't think it's necessary
+[1:05:22] I like for instance idea but most of the
+[1:05:25] free energy principle comes down to
+[1:05:26] predictive coding which is in some sense
+[1:05:29] a radically tested with gpg3 gbt3 is uh
+[1:05:33] trained in some sense entirely on
+[1:05:35] predictive coding it's only trying to
+[1:05:37] predict the future from the past
+[1:05:39] and the future is the next token based
+[1:05:42] on the token set it has seen so far in
+[1:05:44] gptv magically tries how far you can go
+[1:05:46] with this and you can go very far
+[1:05:48] but uh you will need waffle wall samples
+[1:05:51] than an organism does
+[1:05:52] so there are players in us that go
+[1:05:55] beyond predictive coding maybe the
+[1:05:57] converge towards this over many
+[1:05:59] generations in The evolutionary process
+[1:06:01] so I don't think it's a stupid idea that
+[1:06:03] Corporation proposes but uh we are born
+[1:06:06] this additional loss functions that let
+[1:06:10] us converge much much faster on
+[1:06:12] something that is useful to the organism
+[1:06:14] and uh if we think about Consciousness
+[1:06:16] he has a point about agency in there
+[1:06:19] agency means that you have a controller
+[1:06:22] that is able to control the future
+[1:06:25] took me some while to understand this
+[1:06:26] but when I grew up we talked about BDI
+[1:06:28] agents and they seem to be quite
+[1:06:30] complicated and convoluted to put a lot
+[1:06:32] of code there to make a PDI agent but
+[1:06:34] there is beliefs desires and intentions
+[1:06:36] and so on but uh if we think about what
+[1:06:39] actually is a minimal agent
+[1:06:41] it's almost out is not a minimal age and
+[1:06:43] the subject has not agency it doesn't
+[1:06:44] want anything it just acts on the
+[1:06:46] present frame by doing the obvious thing
+[1:06:49] but imagine that you give the thermostat
+[1:06:50] the ability to integrate the expected
+[1:06:53] temperature differentiates that
+[1:06:55] differences over the future when it does
+[1:06:57] X now or why now or does it a moment
+[1:06:59] later right so suddenly you have a
+[1:07:01] branching reality and in this branching
+[1:07:03] reality you can make decisions and you
+[1:07:06] will have preferences based on this
+[1:07:08] integrated expected reward right so just
+[1:07:11] by giving the thermostat the ability to
+[1:07:13] model the future you turn it into an
+[1:07:14] agent
+[1:07:15] this is sufficient and if you make this
+[1:07:18] motive deeper and deeper it's going to
+[1:07:19] get better and better at it and at a
+[1:07:22] certain depth the summer start is going
+[1:07:23] to discover itself it's the square and
+[1:07:25] discover the idiosyncrasies of its
+[1:07:27] sensors and notice that the sensor
+[1:07:29] operates differently when it's closer to
+[1:07:31] the heating element and so on and so on
+[1:07:33] right so it becomes aware of how it
+[1:07:35] functions it might even become aware of
+[1:07:37] the way in which it's modeling and
+[1:07:38] reasoning process works and to improve
+[1:07:41] it or to account for the its
+[1:07:44] inefficiencies in certain ways and this
+[1:07:46] is also what we do with our own cell but
+[1:07:49] this model of the self is not identical
+[1:07:52] to our Consciousness our Consciousness
+[1:07:54] is a feeling of what it's like in the
+[1:07:57] moment it's the experience often now
+[1:07:59] it's there is an experience of a
+[1:08:00] perspective that we are having right and
+[1:08:03] this is what's absent in the description
+[1:08:05] of first and he is missing the core
+[1:08:06] point of what for what it means for some
+[1:08:08] to be conscious doesn't mean that it has
+[1:08:10] a self it doesn't even just mean it is a
+[1:08:12] first person perspective it means that
+[1:08:15] it experiences reality
+[1:08:17] and this is
+[1:08:20] yeah we we explicitly asked and this
+[1:08:24] question actually when we talked talked
+[1:08:26] to him last time and his response there
+[1:08:27] was that you know this concept of of
+[1:08:30] feel feel like
+[1:08:32] um is really something that that would
+[1:08:34] need to be coded into the generative
+[1:08:37] model that this you know that this agent
+[1:08:39] has about the world like it number one
+[1:08:41] it has to have a generative model as
+[1:08:42] we've just been discussing it has to be
+[1:08:44] able to entertain counterfactual you
+[1:08:46] know possibilities uh for the predictive
+[1:08:49] coding right and he's saying that these
+[1:08:51] feel like Concepts would would literally
+[1:08:53] be encoded in that generative model as
+[1:08:56] hypotheses that we recognize you know so
+[1:08:59] so things like I'm I'm feeling pain for
+[1:09:01] example would be a concept within that
+[1:09:04] model and he says there's actually
+[1:09:05] evidence from uh you know treating
+[1:09:08] patients with chronic pain and this sort
+[1:09:10] of thing that that's actually exactly
+[1:09:12] what's happening in the mind that that
+[1:09:14] the feeling of pain is actually a
+[1:09:17] concept
+[1:09:17] that's built in as a slot if you will
+[1:09:20] into this generative model
+[1:09:22] I mean
+[1:09:24] what do you think about that proposal
+[1:09:27] the semantics of pain are given by the
+[1:09:29] avoidance
+[1:09:31] that you don't want to experience the
+[1:09:34] pain usually
+[1:09:35] and it could be that you cultivate the
+[1:09:38] pain and use it to make something
+[1:09:39] happening on the next level but it
+[1:09:41] requires that you are then building a
+[1:09:43] multi-level console structure if you
+[1:09:45] want to use pain productively some
+[1:09:47] artists that may be doing but the you
+[1:09:50] cannot have pain I think without an
+[1:09:52] action tendency without something that
+[1:09:54] modulates what you are doing
+[1:09:56] so your your cognition is embedded into
+[1:09:59] this engine and to build such an engine
+[1:10:02] that does it that causally changes how
+[1:10:04] you operate is not that hard
+[1:10:06] but when you live inside of such an
+[1:10:08] engine it feels very strange that there
+[1:10:10] is something that is happening that
+[1:10:12] somewhat depends on what you are
+[1:10:13] thinking but you cannot control it it
+[1:10:15] controls you it's Upstream from you you
+[1:10:17] are Downstream from it
+[1:10:19] and when you get Upstream of your own
+[1:10:22] pain the pain stops being pain it's
+[1:10:24] something that is a representation that
+[1:10:26] you can now control
+[1:10:27] and we are able to get there but it's
+[1:10:29] not easy and we are not meant to get
+[1:10:31] there because it means that we can
+[1:10:33] immunize ourselves to pain and sacrifice
+[1:10:35] the organism to our intellectual
+[1:10:37] interests what's crucial about feelings
+[1:10:39] when you look at them introspectively is
+[1:10:41] that feelings are essentially geometric
+[1:10:43] I don't know if you noticed that so for
+[1:10:46] instance we know this feelings typically
+[1:10:47] in our body
+[1:10:48] and that's because I think that the
+[1:10:51] feelings play out in a space and the
+[1:10:53] only space that we have always
+[1:10:54] instantiated in our mind is the body map
+[1:10:56] so they're being projected into the
+[1:10:58] space to make them distinct and when we
+[1:11:01] look at the semantics of the feeling we
+[1:11:03] notice that there are Contracting or
+[1:11:05] expanding or they are light or they're
+[1:11:08] heavy and so on is this all movement of
+[1:11:10] Staff in space right it's all geometry
+[1:11:12] plus valence the stuff that is going to
+[1:11:14] push your behaviors in a certain
+[1:11:16] direction
+[1:11:17] so these are basically the interactions
+[1:11:19] of uh some deep Learning System
+[1:11:22] that is producing a continuous geometric
+[1:11:25] representations and as we perceived from
+[1:11:28] an analytic engine right it's an
+[1:11:30] interface between two parts of your mind
+[1:11:32] between the analytic attention control
+[1:11:35] that is reflecting on the operations
+[1:11:37] that your mind is doing while it's
+[1:11:39] optimizing its attention and the
+[1:11:41] underlying system that represents the
+[1:11:43] state of the organism and tells where
+[1:11:44] you should be going
+[1:11:46] and makes this visible to you with this
+[1:11:48] A system that is not able to speak to
+[1:11:51] you uses geometry and this is the
+[1:11:54] geometrical features this is what we
+[1:11:55] call feelings
+[1:11:57] so that's a very interesting connection
+[1:11:58] and I think uh I think Jeff Hawkins of
+[1:12:01] uh you know nemento would be would be
+[1:12:03] quite interested in in that as well
+[1:12:05] because uh some of what he what he
+[1:12:08] discussed with us was that
+[1:12:10] um in his view the evolution of of let's
+[1:12:14] say abstract thinking and whatnot
+[1:12:16] actually came from systems that evolved
+[1:12:19] to operate in just a simple
+[1:12:20] three-dimensional kind of motion and
+[1:12:23] that eventually those were were
+[1:12:25] reutilized by by you know the
+[1:12:28] evolutionary process to start engaging
+[1:12:30] in abstract thinking which he views is
+[1:12:32] is movement through through an abstract
+[1:12:35] space and so I think there's a lot of
+[1:12:37] connection here to what you're saying
+[1:12:38] about feeling which is that again you
+[1:12:40] know in a sense in a sense our mind is
+[1:12:42] reutilized this this three three plus
+[1:12:45] one B you know movement mapping
+[1:12:48] capability that it needed in order to
+[1:12:50] survive in a three plus one b
+[1:12:53] um you know environment physical
+[1:12:54] environment and it's reutilized those
+[1:12:56] for mapping feelings it's reutilized
+[1:12:59] them for mapping to abstract thinking is
+[1:13:01] like a form of motion in in an abstract
+[1:13:04] space is that a fair connection
+[1:13:08] yeah yes but I don't think that it's
+[1:13:11] because it's borrowed from the world in
+[1:13:13] which we interact but because of the
+[1:13:15] this is the only game in town it's the
+[1:13:18] only mathematics that can deal with
+[1:13:19] multi-dimensional numbers
+[1:13:22] right so when we talk about spaces we
+[1:13:24] actually talk about multi-dimensional
+[1:13:25] numbers
+[1:13:26] about things that are not just the
+[1:13:28] scalar in a single Dimension but the
+[1:13:30] features that are related and sometimes
+[1:13:32] you can take these features that you
+[1:13:34] measure continuously because they have
+[1:13:36] too many steps for meaningful they
+[1:13:38] discretize them
+[1:13:39] out right so what you do is you
+[1:13:42] sometimes discover that you can rotate
+[1:13:43] something and this is when you get a
+[1:13:46] space in a sense as we have a space to
+[1:13:49] which we are moving and these spaces
+[1:13:50] which you can rotate things only exist
+[1:13:52] in 2D and 4D and 80.
+[1:13:56] and uh so the geometry that we're
+[1:13:59] talking about is constrained two certain
+[1:14:01] mathematical paradigms which you can
+[1:14:03] derive from number Theory purpose
+[1:14:05] principles and our brain is discovering
+[1:14:08] our brain is basically discovering a
+[1:14:10] useful set of functions to model any
+[1:14:12] sting a set of useful computational
+[1:14:14] Primitives and we can probably give our
+[1:14:17] deep Learning Systems a library of
+[1:14:18] predefined Primitives to speed up their
+[1:14:21] convergence that's also the reason why
+[1:14:23] there is useful transfer learning
+[1:14:24] between different domains you can train
+[1:14:27] a vision model
+[1:14:29] and use it as a pre-trained zoom for
+[1:14:31] audio and it's not because it's the same
+[1:14:33] thing but because it has learned useful
+[1:14:35] computational Primitives that it can
+[1:14:37] apply across domains
+[1:14:39] but there is geometry in the audio
+[1:14:41] signal
+[1:14:42] so this is very interesting territory I
+[1:14:44] hope uh you know I hope you'll come back
+[1:14:46] uh to dive into this a bit more deeply
+[1:14:48] when we have when we have more time and
+[1:14:50] a better connection because I agree with
+[1:14:52] you I think yeah let's put that some
+[1:14:54] very fascinating you know math here
+[1:14:59] fantastic well um Dr Joshua Bach it's as
+[1:15:03] I said You by far the most requested
+[1:15:06] guest
+[1:15:07] um that we've had right from the very
+[1:15:08] beginning so it's it's an honest fun to
+[1:15:10] get you on the show and I hope we can
+[1:15:12] get you back soon for a longer
+[1:15:13] conversation thank you so much
+[1:15:15] likewise I enjoyed this very much let's
+[1:15:17] meet again soon

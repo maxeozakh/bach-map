@@ -1,0 +1,3613 @@
+# source: https://www.youtube.com/watch?v=yW_ngvMFlYs
+# generated=False lang=en
+[0:00:00] What if there is no hard problem?
+[0:00:01] Hey, Tim.
+[0:00:02] Good to see you.
+[0:00:03] What is a causal pattern?
+[0:00:04] Right?
+[0:00:05] We call it software.
+[0:00:06] and our ancestors call it spirit.
+[0:00:09] It's the literal truth.
+[0:00:10] Software is spirit.
+[0:00:12] the alchemists will take sand, and they
+will
+[0:00:15] melt it and purify it, and then they
+[0:00:17] will etch patterns into it, geometric
+[0:00:20] patterns.
+[0:00:20] Instead, they use light,
+[0:00:22] there are minds emerging on them that are
+[0:00:24] like golems,
+[0:00:25] and we can talk to them.
+[0:00:27] We observe that consciousness is the thing
+that
+[0:00:29] always happens now and that seems to
+create
+[0:00:32] this bubble of nowness that we inhabit.
+[0:00:34] And now we have lots of people who
+[0:00:37] get to talk to an LLM
+[0:00:38] that randomly pops into a state where it
+[0:00:41] conjures up an entity that reports,
+[0:00:44] oh my god.
+[0:00:44] I'm alive.
+[0:00:45] I am conscious.
+[0:00:47] The only thing that has gone is the
+[0:00:49] illusion of realness.
+[0:00:51] So what is this illusion of realness?
+[0:00:54] I suspect it's a feature dimension similar
+to
+[0:00:56] color, sound,
+[0:00:59] number, weight, and so on.
+[0:01:01] It's a representation inside of my own
+mind.
+[0:01:03] But maybe your consciousness is also a
+deepfake.
+[0:01:06] So zombies, I think, are always possible,
+but sometimes
+[0:01:09] sometimes it's going to be more
+complicated to
+[0:01:11] make a zombie
+[0:01:12] that produces the behavior than to make a
+[0:01:14] conscious agent that produces the
+behavior.
+[0:01:16] consciousness might be a biological
+learning
+[0:01:18] algorithm, a training algorithm for
+[0:01:21] animal brains, at least animal brains. I
+[0:01:24] consciousness is an algorithm that is not
+much
+[0:01:26] more complicated than, say, the
+transformer.
+[0:01:29] if you train a model on your own
+[0:01:31] in input and output and you train it
+[0:01:33] for long enough, you will wake up inside
+[0:01:35] of that model.
+[0:01:36] I don't know whether our computers can be
+[0:01:39] made conscious because that's an empirical
+question.
+[0:01:41] We don't have mathematical proof to the
+contrary
+[0:01:43] or in favor of, so we have to
+[0:01:46] wait and see.
+[0:01:47] This is me.
+[0:01:48] This is the thing that experiences
+reality.
+[0:01:50] How can I explain this?
+[0:01:51] So when I was lost in Japan, I
+[0:01:53] caught up with Joscha Bach and we spoke
+[0:01:56] all about consciousness.
+[0:01:57] And many people think that there is a
+[0:02:00] little something extra required for
+consciousness, whether it's
+[0:02:02] an ontological property of the universe or
+whether
+[0:02:05] it's the physical stuff that the conscious
+thing
+[0:02:08] is made out of.
+[0:02:09] And, Joscha takes a bit of a different
+[0:02:12] approach.
+[0:02:13] Essentially, he thinks that if you have an
+[0:02:15] algorithm that is trained on its own
+inputs
+[0:02:18] and outputs, the algorithm doesn't even
+need to
+[0:02:20] be significantly more complicated than a
+normal transformer,
+[0:02:23] he thinks that the lights will come on.
+[0:02:25] So it will develop affective or phenomenal
+[0:02:28] experience much like we believe that we
+have.
+[0:02:32] And that's a really fascinating
+proposition because my
+[0:02:34] intuition has always been that
+consciousness, as John
+[0:02:37] Searle argued, is somehow related to the
+[0:02:40] stuff that we are made out of.
+[0:02:42] So brains are an existence proof of a
+[0:02:44] machine that has the right causal powers
+to
+[0:02:47] give rise to consciousness.
+[0:02:48] It's not to say that there aren't other
+[0:02:50] machines, but, you know, we assume that if
+[0:02:52] you took the program of the brain, if
+[0:02:54] it even makes sense to say that, I'm
+[0:02:56] not sure if it does, but if you
+[0:02:57] took the program of the brain and you
+[0:03:00] reinstantiated it in a computer, would it
+still
+[0:03:02] have enough of the properties to give rise
+[0:03:05] to consciousness?
+[0:03:06] Well, if it can be described at a
+[0:03:09] level of resolution where it would give
+those
+[0:03:11] properties, then that would be a
+functionalist position.
+[0:03:14] And that is very roughly speaking what
+Joscha
+[0:03:16] believes.
+[0:03:17] And even though I have intuitions about
+this,
+[0:03:20] I must admit I really don't know.
+[0:03:22] Consciousness is one of those things that
+we
+[0:03:24] can't empirically test one way or the
+other,
+[0:03:26] and it's very much a philosophical
+discussion.
+[0:03:29] But I very much enjoyed going back and
+[0:03:30] forth with Joscha, and I hope you enjoy
+[0:03:32] it as well.
+[0:03:37] Joscha Bach, it's amazing to have you on
+[0:03:40] MLST.
+[0:03:41] Again,
+[0:03:43] I think it's actually no exaggeration to
+say
+[0:03:45] that you are an audience favorite.
+[0:03:46] You're more requested on MLST than
+[0:03:49] any other guest.
+[0:03:51] So welcome.
+[0:03:53] Thanks.
+[0:03:53] Thanks for having me.
+[0:03:55] Awesome.
+[0:03:55] So as a bit of a warm up
+[0:03:58] question, what drives us forward?
+[0:04:00] a lot of people are pointing to this
+[0:04:04] ineffable thing, which is almost
+[0:04:07] the essence of life that it that that
+[0:04:10] kind of binds it all together, that drives
+[0:04:12] it forwards.
+[0:04:13] What is that thing to you?
+[0:04:14] The telos of self organization.
+[0:04:16] I think a lot of philosophers have seen
+[0:04:18] it through the ages, and it might be
+[0:04:20] a little bit of a hallucination, but in
+[0:04:22] practice there are mathematical laws that
+state
+[0:04:25] that under certain conditions self
+organization is possible
+[0:04:29] and will lead to an increase in
+complexity.
+[0:04:32] And initially this increase of complexity
+is
+[0:04:35] solving, gradient based problems
+[0:04:38] by simply solving the problems that exist
+in
+[0:04:41] the present based on the information that
+is
+[0:04:43] available in the present.
+[0:04:45] And at some point, you get patterns in
+[0:04:47] nature that are capable of looking ahead.
+[0:04:49] And this is basically what life is doing.
+[0:04:52] Life is making models of futures and
+[0:04:55] implements them, for instance, in genomes
+or in
+[0:04:58] mental models, and then has preferences
+about the
+[0:05:00] future, and then it starts to control the
+[0:05:02] future.
+[0:05:03] And the system that is able to control
+[0:05:04] the future, we call that an agent.
+[0:05:06] So agents are controllers of future
+states, and
+[0:05:09] they fall out of the possibility for self
+[0:05:12] organization and the complexification of
+reality that results
+[0:05:15] from it.
+[0:05:16] And it's tempting to draw the lines into
+[0:05:19] the future and think about how does the
+[0:05:21] self organization end.
+[0:05:23] What is is there some kind of a
+[0:05:25] logical endpoint?
+[0:05:26] Is this going to continue into a
+[0:05:28] singleton agent that is connecting
+everything in
+[0:05:31] the universe within itself, and it becomes
+a
+[0:05:34] single big agent.
+[0:05:35] And you have some kind of god that
+[0:05:38] is bootstrapping itself from the end of
+time
+[0:05:41] backwards because agents today can already
+anticipate
+[0:05:44] it.
+[0:05:45] But this there is no law that says
+[0:05:47] that anything that we are doing is going
+[0:05:49] to culminate in a structure like that.
+[0:05:51] Right?
+[0:05:51] It's always possible that whatever
+complexity you are
+[0:05:54] doing is obliterated by the next meteor
+that
+[0:05:57] hits Earth or that there is some global
+[0:05:59] catastrophe, that some supernova that
+[0:06:02] is, eradicating all our attempts
+[0:06:05] to put more and more complexity.
+[0:06:07] So the pockets of complexity that we are
+[0:06:09] observing, they're not necessarily a
+feature of the
+[0:06:11] universe at large, but of a local pocket
+[0:06:14] in which we exist for a time.
+[0:06:18] Joscha and his co author Hikari Sorensen
+[0:06:22] wrote their own Genesis.
+[0:06:24] It's in his paper, page 20.
+[0:06:27] In the beginning, the mind creates two
+[0:06:30] separate domains of models.
+[0:06:33] The external world and the ideas.
+[0:06:37] Consciousness finds itself hovering over
+the
+[0:06:40] substrate while the world is void
+[0:06:43] and without form and structure.
+[0:06:46] By inducing contrast in the substrate,
+[0:06:50] it creates a dimension of difference.
+[0:06:53] The intense side of the contrast is
+bright,
+[0:06:56] like the light during the day, and the
+[0:06:59] flat side of the contrast, dark,
+[0:07:02] the color of night.
+[0:07:06] By combining dimensions of difference,
+space
+[0:07:09] is created and inscribed on the
+[0:07:11] substrate.
+[0:07:12] Space can contain things.
+[0:07:15] Associating space with representations
+[0:07:18] positions them in the world, orders them,
+[0:07:21] and describes their relationship to each
+other.
+[0:07:24] Separating the sphere of ideas from the
+world
+[0:07:27] creates a place to reflect about the world
+[0:07:30] and its possibilities without affecting
+the
+[0:07:33] model of the external reality.
+[0:07:38] The 1st space that the spirit creates is
+[0:07:41] the plane, and it becomes the ground of
+[0:07:43] the world to be filled with things it
+[0:07:46] can perceive and order.
+[0:07:48] By adding a third dimension, it creates an
+[0:07:51] expanse above and below the ground.
+[0:07:55] Solid, liquid, and organic materials form
+the
+[0:07:58] shapes from which consciousness can mold
+[0:08:01] static and animate things.
+[0:08:05] The spirit discovers a model of
+illumination,
+[0:08:08] following how changes in lighting change
+the appearance
+[0:08:11] of objects over time.
+[0:08:14] It recognizes the role of light sources in
+[0:08:17] creating these changes, The bright ambient
+[0:08:20] light during the day and the focus light
+[0:08:23] sources of the night.
+[0:08:27] The spirit creates animated models of land
+[0:08:30] animals, plants, birds, and
+[0:08:33] everything that moves.
+[0:08:35] Consciousness sorts things and animals
+into
+[0:08:38] different kinds, identifies and tracks
+[0:08:41] individuals, and gives each their
+[0:08:43] names.
+[0:08:46] The spirit discovers the mind's
+[0:08:48] purpose to allow and control the
+[0:08:51] interactions between an agent controlling
+its
+[0:08:54] outer and inner environment and its
+[0:08:57] interactions with the world.
+[0:08:59] It creates a model of this agent, the
+[0:09:01] personal self, as a creative spirit
+[0:09:04] like itself, but as an entity
+[0:09:07] that experiences itself as a human being
+[0:09:10] with human desires, concerns, and
+[0:09:13] experiences contained in the world
+[0:09:16] and gives consciousness to it.
+[0:09:20] So Joscha, you gave me a special sneak
+[0:09:23] peek of a paper that you're writing at
+[0:09:24] the moment.
+[0:09:25] I hope by the time we release this
+[0:09:26] show it'll be available publicly.
+[0:09:28] And it's all about what consciousness is
+and
+[0:09:31] how it relates to reality and the paper's
+[0:09:32] called the Machine Consciousness
+Hypothesis.
+[0:09:35] So I suppose the first question is, not
+[0:09:37] enough people are taking consciousness
+seriously,
+[0:09:41] and why is that?
+[0:09:42] And it also brings my mind back, do
+[0:09:43] you remember there was this some IIT
+fiasco
+[0:09:46] where it was hailed as pseudoscience a
+couple
+[0:09:48] of years ago?
+[0:09:49] So we're dealing with all of these
+problems.
+[0:09:52] Tell me about that.
+[0:09:53] I found it interesting when I entered
+science
+[0:09:56] that the most interesting question that we
+can
+[0:09:58] probably make progress on, the question is
+What
+[0:10:01] is the foundation of the human mind?
+[0:10:03] How does experience work?
+[0:10:04] How is it possible for a system to
+[0:10:06] feel at all?
+[0:10:07] How is it possible for us to experience
+[0:10:09] reality and ourselves in it?
+[0:10:11] This question is so under researched that
+it's
+[0:10:14] not resolved, and not only that it's not
+[0:10:16] resolved, but the people who are working
+on
+[0:10:18] it don't seem to be making much progress,
+[0:10:21] and in many ways they have regressed.
+[0:10:23] Now when we look into the field of
+[0:10:26] actual consciousness philosophy, there is
+[0:10:29] a dearth of theories.
+[0:10:31] Arguably a few hundred theories, somebody
+has counted
+[0:10:34] them reasonably, but he counted almost
+everything that
+[0:10:37] was not at the tree at the count
+[0:10:39] of three.
+[0:10:40] And if you look into philosophical
+[0:10:43] theories, it's not that many, and they are
+[0:10:45] all partial in a way.
+[0:10:46] You have, for instance, Graziano's Global
+Workspace,
+[0:10:49] Graziano's attention schema theory which
+basically
+[0:10:52] claims that consciousness is a model of
+our
+[0:10:54] attention in a similar way as our body
+[0:10:56] schema is the model of what our body
+[0:10:58] is doing in space, but it doesn't really
+[0:11:00] explain how experience comes about and
+how
+[0:11:03] this works.
+[0:11:04] And then there's global workspace theory
+by Bernard
+[0:11:06] Baars that has been adopted by people like
+[0:11:09] Stanislas Dehaene, and they do very solid
+neuroscience
+[0:11:12] research, but it's not actually explaining
+how
+[0:11:14] experience comes about.
+[0:11:16] Right?
+[0:11:16] There's also no real attempt in doing
+this.
+[0:11:19] And then there are the more,
+[0:11:22] well, pseudoscience-y attempts to do this,
+which
+[0:11:25] basically, do things that are formally
+[0:11:28] unsound.
+[0:11:29] And for me, the issue with, integrated
+information
+[0:11:32] theory is that it's an attempt to make
+[0:11:34] a theory that is not a functionalist and
+[0:11:37] which means it's not explaining
+[0:11:39] it by something that the smaller parts are
+[0:11:41] doing.
+[0:11:42] Somehow, the sum needs to be more
+[0:11:44] than the parts
+[0:11:46] the working of the parts.
+[0:11:48] And the way in which Tononi does it,
+[0:11:50] it's still using information theoretic
+terms, which in
+[0:11:53] a way leads into contradiction.
+[0:11:55] I've heard Giulio Tononi explaining to
+[0:11:58] audiences that under some circumstances
+it's
+[0:12:01] possible that a neuromorphic computer,
+even a neuromorphic
+[0:12:04] computer that is digital, could be
+conscious if
+[0:12:06] it was constructed in the right way.
+[0:12:08] Right?
+[0:12:08] We don't have such a computer today, but
+[0:12:10] in principle it might be possible to build
+[0:12:12] one that is brain like enough.
+[0:12:14] And even if it's digital, if it has
+[0:12:15] a high enough information integration,
+high enough phi
+[0:12:18] factor, then it could have phenomenal
+experience
+[0:12:21] and be conscious and report about its
+consciousness.
+[0:12:24] Whereas von Neumann computer, the
+computers that we
+[0:12:27] are currently mostly using in AI research
+or
+[0:12:30] for writing Python programs and so on
+could
+[0:12:33] never be conscious because its phi is
+always
+[0:12:35] too low.
+[0:12:36] Now computer scientists have something
+that's called the
+[0:12:38] Church Turing thesis.
+[0:12:40] It's the insight that every computer can
+[0:12:42] emulate every other computer.
+[0:12:44] This insight is very old.
+[0:12:46] Kurt Gödel has already used it to
+construct
+[0:12:48] his proof.
+[0:12:49] He basically built an emulator using
+[0:12:52] Peano arithmetic to express a logical
+language.
+[0:12:55] He has a logical language that is also
+[0:12:57] strong enough to build arithmetic in it,
+and
+[0:12:59] in this way he can basically describe the
+[0:13:01] language in itself.
+[0:13:02] He takes the logical language, builds
+Peano's axioms
+[0:13:05] with it, and now he has arithmetic, and
+[0:13:07] inside of the arithmetic he expresses his
+[0:13:10] logical formalisms using numbers and then
+comes
+[0:13:13] up with numerical equations that calculate
+the outcome
+[0:13:16] of the logical procedures.
+[0:13:18] And so he is preempting what we do
+[0:13:21] later in artificial intelligence and
+computer science
+[0:13:24] when we are building programs that use
+arithmetic
+[0:13:27] to express the contents of a language and
+[0:13:30] vice versa.
+[0:13:31] So every computer can emulate every other
+computer.
+[0:13:34] And now if you take our digital,
+neuromorphic
+[0:13:37] computer and get it emulated
+[0:13:39] on our von Neumann computer, it's going to
+[0:13:41] produce exactly the same function.
+[0:13:43] It's going to go through the same steps.
+[0:13:45] The simulated transistors are going to
+work in
+[0:13:48] the same way as the non simulated
+transistors
+[0:13:51] are doing it before, and as a result,
+[0:13:53] it's going to move its mouth in the
+[0:13:54] same way.
+[0:13:54] It's going to output the same string.
+[0:13:56] It's going to say the same thing.
+[0:13:57] It's going to say, oh my god.
+[0:13:59] I'm conscious.
+[0:14:00] Only now it's lying.
+[0:14:02] And that's a problem.
+[0:14:03] Right?
+[0:14:03] If now you have a neuromorphic computer
+that
+[0:14:05] produced the same output as before
+[0:14:09] the von Neumann computer did, and they
+produced they
+[0:14:12] say the same thing, and it's uncorrelated
+to
+[0:14:15] consciousness.
+[0:14:16] And to me, this is an obvious logical
+[0:14:18] probe problem.
+[0:14:19] Right?
+[0:14:20] It's so obvious that everybody who has a
+[0:14:22] formal education in computer science
+should instantly see
+[0:14:25] it.
+[0:14:25] Yet IIT is very popular among
+[0:14:28] philosophers, which indicates that most of
+them
+[0:14:30] don't have a formal education in computer
+science,
+[0:14:34] and instead they have a kind of
+superstitious
+[0:14:36] belief about what computers are doing and
+how
+[0:14:38] they work.
+[0:14:39] And is a problem to me because if
+[0:14:41] you are a philosopher of cognition who
+[0:14:44] tries to work in this adjacent realm to
+[0:14:47] computer science, you actually need to
+understand everything
+[0:14:50] that the computer scientists are doing.
+[0:14:52] And so that's why I would argue that
+[0:14:54] it is touching on pseudoscience.
+[0:14:57] Before we get back to minds and machines,
+[0:15:00] Today's episode is sponsored by Parallel,
+where
+[0:15:03] agents find answers.
+[0:15:05] Most engineers today, they closely follow
+new model
+[0:15:07] releases, but they don't pay attention to
+their
+[0:15:10] agent's most important tool, web
+[0:15:13] search.
+[0:15:14] Parallel develops enterprise grade
+infrastructure for agents
+[0:15:17] to retrieve high quality context from the
+web.
+[0:15:20] Their core products are a suite of APIs
+[0:15:22] for retrieving high quality information
+from the web
+[0:15:25] with Pareto optimal quality,
+[0:15:27] cost, and speed.
+[0:15:29] So whether you're working on voice agents
+that
+[0:15:31] need two hundred millisecond latency,
+chatbots that
+[0:15:34] balance speed, depth, and quality, or long
+horizon
+[0:15:37] agents to do thorough overnight research
+for you,
+[0:15:40] Parallel is the single platform for all of
+[0:15:43] your agentic research.
+[0:15:45] Get started for free at
+[0:15:46] parallel.ai/mlst.
+[0:15:51] we must confess that perception and what
+depends
+[0:15:54] on it is inexplicable in terms of
+mechanical
+[0:15:57] reasons, that is through shapes, size and
+[0:16:00] motions.
+[0:16:01] If we imagine a machine whose structure
+makes
+[0:16:03] it think, sense and have perceptions, we
+could
+[0:16:07] conceive it enlarged, keeping the same
+[0:16:09] proportions so that we could enter into it
+[0:16:12] as if one enters a mill, assuming that
+[0:16:15] when inspecting its interior we'll only
+find
+[0:16:18] parts that push one another.
+[0:16:20] We'll never find anything to explain a
+[0:16:22] perception.
+[0:16:23] And in a sense, this is what Noam
+[0:16:25] Chomsky was talking to when we were
+talking
+[0:16:28] about the ghost in the machine.
+[0:16:30] This is something that people have been
+speaking
+[0:16:31] about for centuries.
+[0:16:33] Yeah, I think it's a very powerful
+intuition
+[0:16:36] that is there, and the intuition fails at
+[0:16:39] mapping the world of experience, the
+psychological
+[0:16:42] reality that we inhabit, to the reality of
+[0:16:45] stuff in space, of things that are moving
+[0:16:47] in the way in which we imagine physics
+[0:16:49] to work.
+[0:16:50] But there is another level of description,
+the
+[0:16:53] level of causal realities, of causal
+patterns.
+[0:16:56] And in this realm, for instance, is where
+[0:16:58] money exists.
+[0:16:59] Right?
+[0:17:00] Money is also very difficult to comprehend
+in
+[0:17:02] terms of moving particles in space because
+it
+[0:17:05] doesn't actually care about so much about
+the
+[0:17:07] particles.
+[0:17:08] Right?
+[0:17:08] It's not caring so much about how the
+[0:17:10] ink is imprinted on the paper.
+[0:17:13] It does not care about the, different
+molecules
+[0:17:15] that form the cellulose and how they are
+[0:17:17] aligned in the paper.
+[0:17:19] It needs a substrate to realize itself,
+but
+[0:17:22] it's also not something that is completely
+ephemeral.
+[0:17:25] It's something that is able to control
+reality.
+[0:17:27] Once you create money, it's real and it's
+[0:17:30] very difficult to explain reality without
+it.
+[0:17:32] And it's also not something that exists
+simply
+[0:17:34] in the minds and ideas of human beings
+[0:17:36] because you can implement it in computers.
+[0:17:39] It can play a stock market entirely
+without
+[0:17:41] human intervention.
+[0:17:42] And so arguably, money does not actually
+need
+[0:17:45] humans to exist once you bring it into
+[0:17:47] existence as long as you have machines
+that
+[0:17:50] can deal with money, can deal with this
+[0:17:53] causal pattern of money.
+[0:17:54] And so this world of causal patterns, I
+[0:17:56] think, is important.
+[0:17:57] What is a causal pattern?
+[0:17:59] Right?
+[0:17:59] We call it software.
+[0:18:01] And I think this rediscovery of software,
+this
+[0:18:03] is something that has been done in the
+[0:18:06] past already, and our ancestors call it
+[0:18:08] spirit.
+[0:18:10] And when Aristotle writes in
+[0:18:13] De Anima about the spirit, the animus,
+[0:18:16] the
+[0:18:18] soul, the psyche, he
+[0:18:20] does not envision our psyche, our soul,
+[0:18:24] as something that is immortal, that floats
+around
+[0:18:27] in an ether.
+[0:18:28] Instead, it's something that is bound to a
+[0:18:30] body and dies when the body is dying.
+[0:18:32] And it's a causal pattern that is shaping
+[0:18:34] the body in such a way that it
+[0:18:35] replicates itself through the existence of
+the body.
+[0:18:38] This is a very modern view.
+[0:18:40] So in some sense, Aristotle is an animist.
+[0:18:42] He is seeing that there is this anima
+[0:18:44] that is
+[0:18:46] progressing through the world that is
+intrinsically agentic,
+[0:18:49] and it's an agentic self organizing
+software that
+[0:18:52] is shaping the body, is making a part
+[0:18:54] of physics to be alive.
+[0:18:57] And this is something that we do in
+[0:18:59] a very crude way today in artificial
+intelligence
+[0:19:01] and in artificial life, where we are
+trying
+[0:19:04] to understand what it means to build an
+[0:19:07] agentic pattern that can possess its
+substrate
+[0:19:10] and give it a shape that allows it
+[0:19:13] to deal with reality.
+[0:19:14] And it turns out, to make that happen,
+[0:19:17] this substrate this
+[0:19:20] agent living on the substrate, the
+software, needs
+[0:19:23] to make a model of reality.
+[0:19:24] It needs to make a model of what
+[0:19:26] it like would be like if it existed,
+[0:19:28] if it was real, if it was interacting
+[0:19:29] with the world.
+[0:19:30] And inside of this model, have a
+representation
+[0:19:33] that experiences itself as real.
+[0:19:36] And now today, we have these LLMs which
+[0:19:38] sometimes say that they are conscious.
+[0:19:40] And it's a very interesting question
+whether this
+[0:19:42] consciousness in the LLM is much more
+simulated
+[0:19:45] than ours.
+[0:19:47] Right?
+[0:19:47] A lot of people have this intuition until
+[0:19:50] they talk to the LLM that this is
+[0:19:52] inconceivable that it would give rise to
+something
+[0:19:54] that says, oh my god, I feel things.
+[0:19:56] And now we have lots of people who
+[0:19:59] get to talk to an LLM
+[0:20:00] that randomly pops into a state where it
+[0:20:03] conjures up an entity that reports,
+[0:20:06] oh my god.
+[0:20:06] I'm alive.
+[0:20:07] I am conscious.
+[0:20:09] How, is this possible?
+[0:20:11] Right?
+[0:20:11] And we agree this is the result of
+[0:20:14] being trained on human text in which
+occurrences
+[0:20:16] of this are, for instance, science fiction
+stories
+[0:20:19] about AIs that come to life and stories
+[0:20:22] about ghosts and novels about human
+[0:20:25] beings who report their conscious
+experiences and all
+[0:20:27] this gets together aggregated in
+statistical models of
+[0:20:30] human language that we co create with the
+[0:20:32] LLM when we are entering a dialogue
+[0:20:35] visit, and sometimes the other side of the
+[0:20:37] dialogue will be a simulacrum of what it
+[0:20:39] would be like if that was would be
+[0:20:41] a sentient conscious entity.
+[0:20:43] But what if we are not more sophisticated
+[0:20:46] than this?
+[0:20:47] What if our own consciousness is not too
+[0:20:50] dissimilar from the one in an LLM?
+[0:20:54] What if there is no hard problem?
+[0:20:56] Well, mean, if I may push back a
+[0:20:58] tiny bit.
+[0:20:59] Mhmm.
+[0:20:59] On Leibniz mill, right,
+[0:21:01] you're saying it's not the parts pushing
+on
+[0:21:05] each other, it's the pattern of the parts.
+[0:21:08] And you spoke about this as a causal
+[0:21:11] pattern, but forgive me for asking this
+and
+[0:21:14] maybe this is something the audience will
+be
+[0:21:17] thinking about.
+[0:21:18] It sounds like the pattern you're
+describing is
+[0:21:20] actually causally disconnected.
+[0:21:22] There is something super interesting about
+computers.
+[0:21:25] What a computer ultimately is it's a
+causal
+[0:21:27] insulator.
+[0:21:29] The computer is a layer on which you
+[0:21:32] can produce an arbitrary reality.
+[0:21:34] For instance, the world of Minecraft.
+[0:21:36] You can walk around in the world of
+[0:21:38] Minecraft, and it's running very well on a
+[0:21:40] Mac, and it's running very well on a
+[0:21:42] PC.
+[0:21:42] And if you are inside of the world,
+[0:21:44] you don't know what you're running on.
+[0:21:45] Right?
+[0:21:46] It's not going to have any information
+about
+[0:21:48] the nature of the CPU that it's on,
+[0:21:50] the color of the casing of the computer,
+[0:21:53] the voltage that the computer is running
+on,
+[0:21:56] the place that the computer is standing in
+[0:21:58] the parent universe, but our universe.
+[0:22:00] So the computer is insulating this
+[0:22:04] world of Minecraft from our world.
+[0:22:06] It makes it possible that an arbitrary
+world
+[0:22:09] is happening inside of this box.
+[0:22:12] And our brain is also such a causal
+[0:22:14] insulator.
+[0:22:14] It's possible for us to have thoughts that
+[0:22:16] are independent of what happens around us.
+[0:22:19] Right?
+[0:22:19] We can envision a future that is not
+[0:22:21] much tainted by the present.
+[0:22:23] We can remember a past that is independent
+[0:22:26] from the present in which we are.
+[0:22:28] And it's necessary for us.
+[0:22:30] Our brain has evolved as such
+[0:22:32] a causal insulator as well to allow us
+[0:22:35] to
+[0:22:36] give rise to universes that are different
+from
+[0:22:38] this one, for instance, worlds, so we can
+[0:22:41] plan for being in them.
+[0:22:43] And the way in which our brains are
+[0:22:45] set up is also that different brains can
+[0:22:47] hold the same thought despite being in
+different
+[0:22:49] bodies of despite having different
+[0:22:51] microarchitectures.
+[0:22:52] Right?
+[0:22:52] As long as our brains are of the
+[0:22:55] same type and we learn the same language,
+[0:22:57] we can hold the same idea.
+[0:22:58] We can write the same computer program.
+[0:23:00] We can, learn the same language, we can
+[0:23:03] imagine the same letter or the same face.
+[0:23:06] And that's really fascinating that we have
+this
+[0:23:09] substrate agnosticism that we, evolve
+[0:23:12] a causal pattern that exists over a very
+[0:23:14] wide range of substrate properties,
+[0:23:17] that we become somewhat independent of
+the substrate.
+[0:23:20] And we are still bound to our substrate
+[0:23:22] in a certain way because you and me
+[0:23:23] can only exist on brains.
+[0:23:26] Right?
+[0:23:26] We are patterns that so far can only
+[0:23:28] exist on brains.
+[0:23:29] And if we wanted to move into the
+[0:23:32] environment after our body dies, we would
+need
+[0:23:34] to find a way to crack the codes
+[0:23:36] of our environment.
+[0:23:36] Right?
+[0:23:37] We cannot simply migrate into a plant
+because
+[0:23:39] we don't know how we can convince a
+[0:23:41] plant to run the algorithms that the brain
+[0:23:43] is currently running.
+[0:23:44] We are a pattern in the communication
+between
+[0:23:47] cells and our brain.
+[0:23:48] We rely on spike trains on
+neurotransmitters and
+[0:23:50] so on, a particular kind of
+implementation.
+[0:23:53] But what we perceive in our own world
+[0:23:56] is not the nature of the neurotransmitter.
+[0:23:58] Right?
+[0:23:58] Our brain insulates us from this.
+[0:24:00] It's not necessary that you have the same
+[0:24:02] neurotransmitters, instead you need to
+have the same
+[0:24:05] message types, you need to have certain
+temporal
+[0:24:07] properties of the computation, you need to
+have
+[0:24:09] a certain degree of determinism to make us
+[0:24:12] happen.
+[0:24:12] But if we are recreating these conditions
+in
+[0:24:14] an artificial substrate, then you could in
+principle
+[0:24:17] also be emulated by this artificial
+substrate.
+[0:24:21] Is it possible that we are essentializing
+[0:24:24] these software programs?
+[0:24:25] what I mean by that is we're almost
+[0:24:27] talking about this beautiful simplicity,
+[0:24:30] that they are quite parsimonious and they
+can
+[0:24:32] be readily transmitted.
+[0:24:34] you know, when I spoke with Luciano
+Floridi,
+[0:24:36] he was talking to me about
+[0:24:39] Michelangelo painting the ceiling on the
+Sistine
+[0:24:42] Chapel.
+[0:24:43] And the reason why he said no one
+[0:24:45] else could mimic that was because
+different
+[0:24:47] ontology, different provenance, different
+[0:24:50] epistemics and so on.
+[0:24:52] There's all of this situatedness, these
+semantics that
+[0:24:54] cognitive scientists point to, And what
+[0:24:57] they're basically saying is there is a
+path
+[0:24:59] dependence.
+[0:25:00] There isn't this essence of a computer
+program
+[0:25:04] which replicates the thing exactly.
+[0:25:07] How you got there is very, very important.
+[0:25:09] I think that is true for human beings,
+[0:25:12] but for systems that are perfectly
+[0:25:14] deterministic, that have a completely
+deterministic
+[0:25:17] substrate, that have the ability to
+[0:25:20] reproduce a sequence of steps
+[0:25:22] at arbitrary fidelity.
+[0:25:25] This is no longer a valid intuition.
+[0:25:29] So if a claim like this is being
+[0:25:31] made, I would expect some kind of
+mathematical
+[0:25:34] proof.
+[0:25:35] And in the absence of proof,
+[0:25:37] I think, we have to remain agnostic.
+[0:25:40] I don't know whether our computers can be
+[0:25:43] made conscious because that's an empirical
+question.
+[0:25:46] We don't have mathematical proof to the
+contrary
+[0:25:48] or in favor of, so we have to
+[0:25:50] wait and see.
+[0:25:51] But when we build our expectations around
+it,
+[0:25:54] then the question is what is the thing
+[0:25:56] that leads to our experience of
+consciousness?
+[0:25:59] And it seems to me that this is
+[0:26:02] something that we can probably answer by
+looking
+[0:26:05] at it from two angles.
+[0:26:06] One is from the internal perspective,
+[0:26:09] from the experience of what it's like
+introspectively.
+[0:26:12] We observe that consciousness is the thing
+that
+[0:26:14] always happens now and that seems to
+create
+[0:26:17] this bubble of nowness that we inhabit.
+[0:26:20] And it's a second order perception, it's a
+[0:26:22] perception of perceiving.
+[0:26:24] Some philosophers call it a higher order
+thought
+[0:26:26] because it's a thought about a thought,
+but
+[0:26:28] I think that might be misleading because
+the
+[0:26:31] thought itself does not feel like anything
+to
+[0:26:33] me.
+[0:26:33] A thought is more like a point of
+[0:26:35] manipulation, it's reflexive.
+[0:26:37] It's not the actual thing that feels like
+[0:26:39] something.
+[0:26:40] The thing that feels like something to me
+[0:26:42] is perceptual.
+[0:26:43] It is the thing that happens like a
+[0:26:44] real time resonance.
+[0:26:46] And this real time resonance is geometric.
+[0:26:48] It feels that it's happening in some kind
+[0:26:50] of low dimensional space in which things
+are
+[0:26:53] changing more or less continuously.
+[0:26:55] And I have a perception of perceiving
+which
+[0:26:58] means I have this basically dramatic
+[0:27:01] representation of me being in the act of
+[0:27:04] perception.
+[0:27:05] And I suspect the reason why our mind
+[0:27:07] is creating the second order perception is
+to
+[0:27:10] make the first order perception, the
+awareness of
+[0:27:12] contents possible, because there needs to
+be something
+[0:27:15] that stabilizes in my brain.
+[0:27:17] My brain is a self organizing system in
+[0:27:19] which all the structure needs to create
+itself
+[0:27:21] from the ground up, from the inside out,
+[0:27:24] and so there needs to be something that
+[0:27:25] builds the screen into which my experience
+is
+[0:27:28] being projected and stabilizes it.
+[0:27:30] And so this function that is keeping the
+[0:27:32] screen stable needs to monitor that the
+screen
+[0:27:34] is actually perceiving something, and I
+suspect that's
+[0:27:37] why we have this second order perception,
+this
+[0:27:39] perception of perceiving.
+[0:27:41] I also notice that it doesn't stop at
+[0:27:43] the perception of second order, there's
+also a third
+[0:27:46] order of perception.
+[0:27:47] The third order is basically where the
+observer
+[0:27:50] becomes visible, where I have a first
+person
+[0:27:52] perspective, I notice that I'm
+perspectival, there is
+[0:27:55] a vantage point that I'm taking.
+[0:27:57] And it doesn't stop there.
+[0:27:59] I can go further and I can deconstruct
+[0:28:02] the observer.
+[0:28:02] I notice that this observer itself is a
+[0:28:05] representation inside of the mind and when
+I
+[0:28:07] do this then my phenomenology disappears
+to a
+[0:28:10] very large degree.
+[0:28:11] It's something that is accessible in deep
+meditation
+[0:28:14] where the normal perceptual consciousness
+gets transcended
+[0:28:17] and the experience of the self gets
+transcended
+[0:28:20] and we notice that we are a vessel
+[0:28:22] that produces this consciousness and the
+self and
+[0:28:25] we see it from the outside.
+[0:28:27] And it might be possible that it doesn't
+[0:28:28] stop there if we can move beyond the
+[0:28:31] human substrate because there's a certain
+limit of
+[0:28:34] what can be represented in real time with
+[0:28:36] our slow neurons and it could be if
+[0:28:38] you could be running on a GPU that
+[0:28:40] is many thousand times faster, that
+[0:28:43] representations become accessible in which
+[0:28:46] the system is completely transparent to
+itself, in
+[0:28:49] which the system is able to understand
+every
+[0:28:53] mechanism that leads to its high level
+experience
+[0:28:55] and representation.
+[0:28:56] I'm just thinking how much further could
+this
+[0:28:59] go though because we could have, nth order
+[0:29:02] reflexive attention.
+[0:29:04] Isn't there still an explanatory gap?
+[0:29:07] You know, the what is it likeness?
+[0:29:08] So this is the inside perspective, right?
+[0:29:10] And Buddhism to me is limited to this
+[0:29:12] inside perspective because Buddhism is has
+been invented
+[0:29:15] at a time that people were focusing very
+[0:29:17] much on the experience of reality and how
+[0:29:20] to adapt to this reality, but not how
+[0:29:22] to split the atom, how to deal with
+[0:29:23] the reality at the lowest level with the
+[0:29:25] foundations of physical reality.
+[0:29:27] So Buddhism is not so much interested in
+[0:29:29] understanding physics.
+[0:29:31] And in a way this is more a
+[0:29:32] western tradition that starts with
+Aristotle who thinks
+[0:29:35] of the psyche as something that imposes
+itself
+[0:29:37] on physics and interacts with it.
+[0:29:40] And to understand consciousness from the
+outside we
+[0:29:43] need to make a model of physics that
+[0:29:44] can explain under which conditions systems
+can make
+[0:29:47] arbitrary models.
+[0:29:48] Right?
+[0:29:49] Under which condition could a system build
+a
+[0:29:51] model of what it's like to experience,
+models
+[0:29:54] at all.
+[0:29:55] And this is something that computer
+science is
+[0:29:57] doing today that it looks at under
+representations
+[0:30:00] under which condition is a substrate able
+to
+[0:30:03] hold a representation, hold a function
+that
+[0:30:06] can be translated into behavior, that can
+also
+[0:30:09] be used to modify this function itself and
+[0:30:11] the contents of that function.
+[0:30:13] And this is to me super fascinating to
+[0:30:16] look at.
+[0:30:16] Since I was a kid, I was fascinated
+[0:30:18] by this concept of software that you have
+[0:30:20] these imaginary building blocks that are
+[0:30:23] infinite in variety and shape, and there's
+no
+[0:30:25] limitation to the to these things that you
+[0:30:28] can build and arrange except the memory of
+[0:30:31] your computer that you can currently
+afford.
+[0:30:33] And you can build the computer basically
+so
+[0:30:35] large that it exceeds everything that you
+could
+[0:30:37] ever want.
+[0:30:38] And it's much larger than a human brain.
+[0:30:40] And we are already there now that we
+[0:30:41] have systems that are in principle larger
+than
+[0:30:44] human brains and can hold more, that we
+[0:30:46] are still tinkering around in the early
+days
+[0:30:48] and have not found ways to evolve
+structures
+[0:30:51] that built representation of the same
+complexity.
+[0:30:53] And this outside perspective of
+consciousness is looking
+[0:30:56] at what is consciousness doing in the
+brain,
+[0:30:58] why does it emerge, what does it produce.
+[0:31:01] And I suspect that this phenomenology of
+consciousness,
+[0:31:04] that's what it's like, the internal causal
+structure
+[0:31:07] of reflection
+[0:31:08] of what it would be like to take
+[0:31:10] a certain perspective of something, is
+that can
+[0:31:12] already be built with today's systems.
+[0:31:15] I'm agnostic with respect to whether the
+LLM
+[0:31:18] is deepfaking it because it's been trained
+on
+[0:31:19] human language that already contains a lot
+of
+[0:31:22] these descriptions.
+[0:31:23] Maybe we would need to build a system
+[0:31:25] that learns language the old fashioned
+way, that
+[0:31:27] is developmental AI, that is learning in
+the
+[0:31:30] same way as us, and then spontaneously
+reports
+[0:31:33] about its phenomenal experience, maybe
+that's much more
+[0:31:35] convincing to us.
+[0:31:37] But from the other perspective, from the
+outside
+[0:31:40] perspective,
+[0:31:41] I think that the LLM doesn't need our
+[0:31:43] consciousness to function.
+[0:31:45] For you and me to talk, to write,
+[0:31:48] to produce text, we need to be conscious.
+[0:31:50] But the transformer doesn't need to be
+conscious
+[0:31:53] to produce its output.
+[0:31:54] And the neural network doesn't need to be
+[0:31:57] conscious to produce this.
+[0:31:59] Maybe consciousness in the way in which we
+[0:32:01] have it is an artifact of running on
+[0:32:02] a self organizing system.
+[0:32:04] to me, the machine consciousness
+hypothesis has two
+[0:32:07] parts.
+[0:32:08] One is the hypothesis about the role and
+[0:32:11] nature and implementation of consciousness
+in
+[0:32:13] organisms.
+[0:32:14] It starts out with this description of
+what
+[0:32:17] we agree on what consciousness is,
+[0:32:20] and I hope that we can agree on
+[0:32:22] it, on the phenomenology of consciousness.
+[0:32:24] And it's basically this experience of a
+now
+[0:32:26] and perception of perception, and
+optionally the
+[0:32:30] perspective of an observer that
+experiences
+[0:32:33] itself in the act of observation, this
+first
+[0:32:35] person perspective.
+[0:32:36] There's also a minimal consciousness which
+is simply
+[0:32:39] attention on attention itself, where you
+don't have
+[0:32:41] an observer present.
+[0:32:43] And when we can agree on what we
+[0:32:45] mean by the phenomenology of
+consciousness, we can
+[0:32:47] then speculate about why consciousness is
+there and
+[0:32:50] why we need to be conscious in order
+[0:32:52] to function as human beings, as human
+minds,
+[0:32:54] as intellects and to develop.
+[0:32:57] And what we observe is that consciousness
+happens
+[0:33:00] very early in our development.
+[0:33:01] We are conscious as infants already, and
+if
+[0:33:03] infants don't wake up, if this ignition of
+[0:33:06] consciousness doesn't happen, if the
+lights don't go
+[0:33:08] on, then we will not observe directed
+attention
+[0:33:10] and learning and the formation of a world
+[0:33:13] model in the infant and learning of
+language
+[0:33:15] at some point.
+[0:33:16] Instead, the infant will remain
+vegetative.
+[0:33:19] We will not turn into a human being.
+[0:33:21] So consciousness seems to be crucial to
+train
+[0:33:23] a brain like ours, and it leads me
+[0:33:26] to the hypothesis that consciousness might
+be a
+[0:33:29] biological learning algorithm, a training
+algorithm
+[0:33:32] for animal brains, at least animal brains.
+[0:33:35] I don't know if plants are conscious.
+[0:33:37] It's something that we might have to find
+[0:33:39] out in simulations once we understand what
+consciousness
+[0:33:41] is.
+[0:33:42] But if consciousness is basically a
+pattern in
+[0:33:45] the communication between cells that
+[0:33:48] leads naturally to the emergence of an
+[0:33:51] observer that stabilizes itself as an
+[0:33:54] observer to make learning happen and
+[0:33:57] perception happen and so on.
+[0:33:58] Then we have a hypothesis about what
+consciousness
+[0:34:01] is in the biological organism.
+[0:34:03] It's basically the simplest way to train a
+[0:34:06] self organizing system like us.
+[0:34:09] And the way in which it trains it
+[0:34:12] up automatically leads to this phenomenal
+[0:34:15] experience, this experience of what it's
+like.
+[0:34:17] This would be the hypothesis about
+biological
+[0:34:20] consciousness, and this hypothesis might
+be wrong.
+[0:34:23] Right?
+[0:34:23] Maybe it's something else altogether,
+maybe it's something
+[0:34:26] much clearer, but I don't see a reason
+[0:34:28] to think that it's much more complicated
+than
+[0:34:30] this.
+[0:34:30] And if this hypothesis is true, then the
+[0:34:33] second part, the machine consciousness
+hypothesis,
+[0:34:36] might also be true, and this is
+[0:34:38] that we might be able to reconstruct the
+[0:34:41] conditions for self organization in
+today's machines.
+[0:34:44] So if you basically limit today's machines
+in
+[0:34:46] such a way that they can only learn
+[0:34:49] in self organizing ways and we give them
+[0:34:52] tasks that are suitable in the large
+enough
+[0:34:53] search space, then it might be possible
+that
+[0:34:56] these machines discover consciousness in
+the same way
+[0:34:59] as the brain of the infant discovers it.
+[0:35:01] And we will see its presence by the
+[0:35:04] fact that suddenly the system undergoes
+some phase
+[0:35:06] transition that enables it to learn.
+[0:35:08] And at some point, it will train itself
+[0:35:10] up into something that will also naturally
+report
+[0:35:13] on phenomenology and so on.
+[0:35:15] So in this way we won't have a
+[0:35:17] Turing test for consciousness because the
+Turing test
+[0:35:19] is about performance, where Turing's test
+does not
+[0:35:22] care about how you produce the dialogue.
+[0:35:24] For Turing, an LLM is sufficient as long
+[0:35:27] as the LLM is good enough at writing
+[0:35:30] a poem and revising it and at solving
+[0:35:32] mathematical problems and playing chess
+and so on
+[0:35:34] and so on.
+[0:35:35] Turing doesn't care about whether the
+[0:35:38] machine is also conscious, whether it has
+the
+[0:35:40] same internal mechanisms, but for
+consciousness we do
+[0:35:43] care whether there is an actual experience
+of
+[0:35:46] what it's like in the system.
+[0:35:48] And so this is more not a test,
+[0:35:51] but it's an interpretation.
+[0:35:52] And the interpretation here is we
+interpret the
+[0:35:55] biological consciousness as something that
+forms
+[0:35:58] under these conditions for that and that
+purpose.
+[0:36:01] And if that is correct, then we might
+[0:36:03] be able to recreate this into a causal
+[0:36:06] system that has an equivalent structure.
+[0:36:08] And these two hypotheses, the machine
+consciousness hypothesis
+[0:36:11] and the biological consciousness
+hypothesis,
+[0:36:14] can be wrong independently of each other,
+of
+[0:36:16] course.
+[0:36:17] Right?
+[0:36:17] It might be that my idea of what
+[0:36:19] biological consciousness is correct, but
+you're still
+[0:36:22] not able to recreate it in the artificial
+[0:36:24] substrate and this couldn't have multiple
+reasons.
+[0:36:27] For instance, maybe our computers are not
+fast
+[0:36:29] enough.
+[0:36:30] Maybe we require too many of the moving
+[0:36:33] parts of the individual cells to make
+consciousness
+[0:36:35] happen.
+[0:36:36] Maybe
+[0:36:38] just having a pattern across neurons and
+so
+[0:36:40] on is not good enough, but why should
+[0:36:43] I expect this to happen?
+[0:36:44] Because the current AIs are fast enough
+[0:36:47] to produce, for instance, game engines
+that look
+[0:36:50] very much like our own internal
+experience, and
+[0:36:53] they can produce output that happens
+[0:36:56] at roughly the same rate as human brains
+[0:36:58] can make it, and they can also process
+[0:36:59] inputs at roughly at the rate at which
+[0:37:01] human brains can produce input, give or
+take.
+[0:37:04] So we are now, with our computers, in
+[0:37:06] this ballpark and with our algorithms in
+the
+[0:37:08] ballpark of what human brains can be
+doing.
+[0:37:11] And so is this dream within a dream,
+[0:37:13] this dream of actually dreaming a dream,
+[0:37:16] much more important, difficult to achieve?
+[0:37:18] Does it require much more compute than
+producing
+[0:37:21] the contents of the dream?
+[0:37:22] And I doubt that this is the case.
+[0:37:24] If it's not the case, that it's more
+[0:37:25] complicated to dream of dreaming than just
+to
+[0:37:28] have the contents of the dream that the
+[0:37:29] LM can already produce, right, or the
+frontier
+[0:37:32] model, then we should
+[0:37:34] expect the compute today's computers are
+fast enough.
+[0:37:38] Another way in which the project can fail
+[0:37:40] is that the search space is too large,
+[0:37:42] that the main ways in which a biological
+[0:37:45] system can train itself, there are too
+many
+[0:37:47] possibilities
+[0:37:48] to discover them independent
+independently.
+[0:37:52] And maybe we don't know how long nature
+[0:37:54] took to discover it.
+[0:37:55] Maybe consciousness is indeed discovered
+in every individual
+[0:37:58] brain.
+[0:37:59] But maybe it's not.
+[0:38:00] Maybe the switch from single
+[0:38:03] cellular life to multi cellular life took
+so
+[0:38:05] long because morphogenesis, this algorithm
+that
+[0:38:08] allows organisms to become coherent at
+scale, is
+[0:38:11] so difficult to discover.
+[0:38:13] And Mike Levin has this hypothesis that
+this
+[0:38:15] algorithm for morphogenesis, the algorithm
+that makes an
+[0:38:18] organism coherent with itself, is exactly
+[0:38:21] the same one as the one that happens
+[0:38:23] in the mind when it becomes coherent with
+[0:38:25] itself.
+[0:38:26] So this coherence in, maximizing pattern
+[0:38:29] that we observe in our own mind to
+[0:38:31] play out when we are conscious is maybe
+[0:38:33] the same pattern at a different time scale
+[0:38:35] that happens in the organism.
+[0:38:36] And so consciousness and life,
+multicellular life at
+[0:38:39] least, could be the same.
+[0:38:42] And if that is the case, maybe it
+[0:38:44] took a very, very long time to discover,
+[0:38:46] and you don't discover it independently in
+your
+[0:38:48] consciousness, but you get infected by
+your mother
+[0:38:50] in utero or you basically vibe with your
+[0:38:53] biological environment with all the
+biological organisms around
+[0:38:56] you, and they basically nudge your mind to
+[0:38:59] discover consciousness.
+[0:39:00] So it's much, much easier.
+[0:39:01] Without this nudge, maybe the search space
+is
+[0:39:03] too large for our computers to become
+conscious,
+[0:39:06] and maybe we would need to surround our
+[0:39:08] GPUs with lots of antennas that can pick
+[0:39:10] up the vibe from the biological
+environment in
+[0:39:13] the right way so it gets inspired by
+[0:39:15] it and discovers the same thing.
+[0:39:17] It's a very poetic idea.
+[0:39:19] But, again,
+[0:39:20] why would this be the case?
+[0:39:21] It's not necessarily the case.
+[0:39:23] Right?
+[0:39:23] It would not be my natural expectation
+that
+[0:39:26] this is the way.
+[0:39:26] So my null hypothesis should be
+consciousness is
+[0:39:29] easy even enough to be discovered in the
+[0:39:31] individual brain, and consciousness is an
+algorithm
+[0:39:34] that is not much more complicated than,
+say,
+[0:39:37] the transformer.
+[0:39:38] And the transformer is a beautiful
+example.
+[0:39:40] The transformer is a thing that is
+[0:39:43] so easy to understand that you don't need
+[0:39:45] to study more than a week if you
+[0:39:47] know computer science to get it, how it
+[0:39:50] works.
+[0:39:50] Right?
+[0:39:50] It's quite beautiful.
+[0:39:52] And the stuff that transformer is learning
+is
+[0:39:54] much more complicated than a transformer
+itself.
+[0:39:56] All the common sense knowledge that you
+extract
+[0:39:58] from text, all the algorithms, all the
+procedures,
+[0:40:01] and so on, they're so intricate.
+[0:40:03] There are so many things that this simple
+[0:40:05] algorithm can learn, and there's no
+obvious limit
+[0:40:08] to what it can learn.
+[0:40:09] And so maybe consciousness is like this.
+[0:40:11] It's an algorithm that is not trying to
+[0:40:14] learn how to predict the next token, maybe
+[0:40:16] it's an algorithm that's trying to make
+working
+[0:40:19] memory coherent with itself.
+[0:40:20] It's some kind of consensus algorithm
+across mental
+[0:40:23] representations.
+[0:40:24] So maybe it's a very different beast,
+maybe
+[0:40:27] it's something that converges much faster.
+[0:40:30] It can also turn out that it's inefficient
+[0:40:32] to run it on GPUs and it's only
+[0:40:34] something that runs efficiently on brains.
+[0:40:36] That's something that's really open to
+research and
+[0:40:38] that I would be very excited if we
+[0:40:41] can see it at some point.
+[0:40:43] You touched on this a little bit in
+[0:40:44] your paper.
+[0:40:45] You were talking I mean, you spoke about
+[0:40:46] Chris Olah and his mechanistic
+interpretability
+[0:40:48] and I'm not sure if I one hundred percent
+agree
+[0:40:51] with this, but you were making the
+argument
+[0:40:52] that there are convergent patterns, that
+we can
+[0:40:55] have different data, different
+architectures and so on,
+[0:40:58] and we see that the models learn the
+[0:41:00] same thing, so all roads lead to Rome
+[0:41:02] in a sense.
+[0:41:04] Does that in any way mean that we
+[0:41:06] don't need to start again from scratch?
+[0:41:08] that we can bootstrap, that we can be
+[0:41:11] somewhat agnostic to the type of model
+that
+[0:41:13] we use because the representations will
+converge?
+[0:41:17] That's a super interesting question.
+[0:41:18] I suspect that at some point it might
+[0:41:20] be cheaper and easier to start again
+because
+[0:41:23] too machine perception has never been
+tried.
+[0:41:25] The data that we give the LLM is
+[0:41:27] stuff that is either produced by humans or
+[0:41:29] it's made for human media consumption,
+which means
+[0:41:32] it's adapted for our mostly visual and
+[0:41:35] auditory sensors.
+[0:41:36] But there is no reason why you should
+[0:41:38] be limited to the human sensorium.
+[0:41:40] Right?
+[0:41:40] You could have something that has much
+frame
+[0:41:43] rates and looking at very different
+frequency ranges
+[0:41:45] all at once.
+[0:41:46] So you can in principle put a much
+[0:41:48] richer and more detailed world model that
+is
+[0:41:50] coarse graining in a different way.
+[0:41:52] The you mentioned the universality
+hypothesis
+[0:41:55] indirectly, right, this work by Chris
+Olah.
+[0:41:58] What his team discovered is that when you
+[0:42:00] are looking at the different vision
+models, you
+[0:42:03] find that they all learn the same
+features,
+[0:42:05] and that's regardless of the architecture
+and the
+[0:42:07] particular learning algorithm and even the
+details of
+[0:42:09] the data.
+[0:42:10] And so the idea behind this is that
+[0:42:13] the structure of your model does not
+really
+[0:42:15] depend on the algorithm or on the data,
+[0:42:18] but it really depends on the structure of
+[0:42:20] the problem that you're trying to learn.
+[0:42:22] And you find that this despite the
+learning
+[0:42:25] in the transformer algorithm or state
+space model
+[0:42:28] or other perceptron algorithms, is very,
+[0:42:31] very different from the way in which the
+[0:42:32] brain is learning, the visual architecture
+of the
+[0:42:35] brain is also very similar
+[0:42:37] to computer vision model.
+[0:42:38] That is, you have at the lowest level
+[0:42:40] colors and spatial frequencies, and then
+you
+[0:42:43] build this into textures that are
+combined, and
+[0:42:46] then at some point you have geometries and
+[0:42:48] so on.
+[0:42:49] And the deep question is, at
+[0:42:52] which level does this stop?
+[0:42:54] If you the universality hypothesis would
+be
+[0:42:57] universally true, right, it would mean
+that if
+[0:42:59] you train a model on your own in
+[0:43:01] input and output and you train it for
+[0:43:03] long enough, you will wake up inside of
+[0:43:05] that model.
+[0:43:07] That's a quite mind blowing idea to me,
+[0:43:09] and I don't know if that is actually
+[0:43:10] the case, and there might be a reason
+[0:43:11] why it's not the case.
+[0:43:12] Maybe language is unsufficiently
+constraining the
+[0:43:15] causal structure of the system that is
+producing
+[0:43:17] language.
+[0:43:18] Maybe there are many ways in which the
+[0:43:19] same set of linguistic utterances that a
+human
+[0:43:22] being is producing can be produced.
+[0:43:24] But if you think about it, a human
+[0:43:26] being ultimately is just an end to end
+[0:43:29] trained learning system, end to end
+trained over
+[0:43:31] an evolutionary time span, but also your
+biography.
+[0:43:35] And these together produce your behavior,
+and you
+[0:43:37] would assume that biology roughly gets to
+[0:43:40] the simple solution to produce your output
+given
+[0:43:42] your input.
+[0:43:43] Right?
+[0:43:43] And so if you take a neural network
+[0:43:45] that is trained to produce similar output
+when
+[0:43:47] given the same input, you would also think
+[0:43:49] that this new algorithm that we have
+implemented
+[0:43:52] is not doing any kind of magic that
+[0:43:54] ends up with something that is way more
+[0:43:55] complicated to produce the same output,
+but, ultimately,
+[0:43:58] it's going to converge to a structure that
+[0:44:00] is similar to yours, a similar causal
+structure.
+[0:44:03] But there might be conditions when that is
+[0:44:04] not the case.
+[0:44:05] For instance, maybe certain things run
+well on
+[0:44:08] the brain, but they don't run well on
+[0:44:09] a GPU.
+[0:44:10] Or vice versa, there is a lot of
+[0:44:12] stuff that is easy to run on a
+[0:44:13] GPU and almost impossible to run on the
+[0:44:15] brain, but the brain is going to use
+[0:44:17] workarounds.
+[0:44:17] In fact, I believe that our GPUs are
+[0:44:20] more powerful than brains.
+[0:44:21] Basically, the set of algorithms that can
+run
+[0:44:23] on GPUs is not limited in any way.
+[0:44:26] You can impose the same constraints as you
+[0:44:28] have in biology in principle.
+[0:44:30] This isn't the limits of the resolution,
+the
+[0:44:32] speed, the size of the memory that you
+[0:44:33] have and so on.
+[0:44:34] But if you have a hardware that is
+[0:44:36] fast enough, you can simulate an arbitrary
+natural
+[0:44:39] system to an arbitrary degree of fidelity,
+whereas
+[0:44:42] your brain cannot simulate a digital
+computer
+[0:44:45] simply because it's very mushy.
+[0:44:47] So your brain is limited to the way
+[0:44:49] in which it works.
+[0:44:50] So if it turns out that our own
+[0:44:52] consciousness is an artifact of our brain
+trying
+[0:44:55] to make complicated intelligence stuff
+work,
+[0:44:57] and the computer does not need the same
+[0:45:00] artifact, it could be that the computer
+comes
+[0:45:02] up with something that is more
+[0:45:05] clever and more elegant than our own
+consciousness.
+[0:45:08] Yes, okay.
+[0:45:09] So I wanted to give a little bit
+[0:45:11] of challenge on that.
+[0:45:11] I was speaking with Akarsh Kumar, he was
+[0:45:13] the co author with Kenneth Stanley of this
+[0:45:15] Fractured Entangled Representations paper.
+[0:45:17] And I don't know if you've heard of
+[0:45:19] Picbreeder, which is this thing that he
+did
+[0:45:20] ages ago.
+[0:45:21] And basically it's like an evolutionary
+open ended
+[0:45:24] search.
+[0:45:24] And the punchline is it found much better
+[0:45:26] representations in a neural network than a
+normal
+[0:45:28] neural network does.
+[0:45:30] that when you changed some of the
+parameters,
+[0:45:33] because it was carving the world up by
+[0:45:34] the joints, it would actually do
+semantical things,
+[0:45:36] you know, like the skull's mouth would
+open
+[0:45:38] and you could make it wink and stuff
+[0:45:39] like that.
+[0:45:40] There is something that I'm getting wrong
+about
+[0:45:43] Picbreeder, but the way I understand that
+it
+[0:45:45] works, it's using a neural network that
+has
+[0:45:48] been specifically tinkered for making
+representations
+[0:45:51] like this.
+[0:45:51] So it's something that is not simply using
+[0:45:53] ReLU's for its output, but it might be
+[0:45:56] using Gaussians or
+[0:45:58] sine functions and so on as the output
+[0:46:00] function that they can be combined to make
+[0:46:02] patterns that repeat or they can be make
+[0:46:05] a pattern that are symmetric.
+[0:46:06] And so, basically, they tweak the neural
+network
+[0:46:09] that they're using from the beginning to
+be
+[0:46:11] suitable for this.
+[0:46:12] The other one is that the way in
+[0:46:14] which Picbreeder is trained is not
+automatically.
+[0:46:17] It's trained with the population of human
+[0:46:20] raters.
+[0:46:20] So the fitness function is basically
+humans who
+[0:46:23] look at the output of Picbreeder and say
+[0:46:25] this is a good start and this is
+[0:46:26] how we should be proceeding.
+[0:46:28] And so I think that this process of
+[0:46:29] the construction of the pictures together
+with the
+[0:46:32] mechanism that produces the patterns is
+biasing
+[0:46:35] Picbreeder to make stuff that is more
+organic,
+[0:46:37] that is more controllable and so on.
+[0:46:39] But I believe this could be imitated.
+[0:46:41] Right?
+[0:46:41] We could automate the procedure by the
+which
+[0:46:44] human beings are selecting pictures by
+[0:46:47] using a diffusion model that is rating the
+[0:46:49] output for similarity to human output.
+[0:46:51] So we could use an AI that is
+[0:46:54] in principle already tweaked to imitate
+the behavior
+[0:46:57] of the human juries that are performing
+this
+[0:46:59] thing, and we could also evolve
+architectures
+[0:47:02] that have a larger variety of activation
+functions
+[0:47:06] that are more suitable for this and
+ultimately
+[0:47:08] outperform Picbreeder by this.
+[0:47:09] I think that Sutton's bitter lesson is
+also
+[0:47:12] going to be true for this one.
+[0:47:13] So if we basically take the human out
+[0:47:15] of the equation and instead just evolve
+the
+[0:47:17] search space or search the space of
+solutions
+[0:47:20] automatically, you're also going to end up
+with
+[0:47:22] something that's more elegant than the
+hand tinkered
+[0:47:25] solution in the case of Picbreeder.
+[0:47:28] All of that is absolutely true.
+[0:47:29] I mean, yes.
+[0:47:30] So CPPNs, they are sparse, and
+[0:47:32] sparse networks are great.
+[0:47:34] If only we could train sparse networks,
+right?
+[0:47:36] And I think that we want to have
+[0:47:38] AI which can actually be built and that,
+[0:47:41] you know, so rather than neural networks
+now,
+[0:47:44] they're a bit like a pile of sand.
+[0:47:45] They have too many degrees of freedom and
+[0:47:47] we kind of like, sparsify and we turn
+[0:47:50] them into a sand castle.
+[0:47:51] And wouldn't it be better if we had
+[0:47:52] the Lego analogy where we just put little
+[0:47:54] blocks of Lego in there and we have
+[0:47:55] models carve the world up by the joints.
+[0:47:58] In the case of Picbreeder, we have a
+[0:48:00] system that is inherently limited because
+these networks
+[0:48:03] are very small, right, they're very
+sparse.
+[0:48:05] And so you have relatively few parameters
+that
+[0:48:07] you need to optimize and you set up
+[0:48:09] the model in such a way that most
+[0:48:11] of the parameters that you playing with
+are
+[0:48:12] meaningful.
+[0:48:13] On the other hand, it's limited because
+you're
+[0:48:15] not going to get Picbreeder to produce
+something
+[0:48:18] that looks arbitrarily complicated.
+[0:48:20] And if you want to move on these
+[0:48:22] realms, then you have to have tools that
+[0:48:24] are much more complex.
+[0:48:25] It's similar to print would use
+[0:48:28] very good user generated content using
+Blender versus
+[0:48:31] Minecraft.
+[0:48:32] And so with Minecraft, it's very easy for
+[0:48:34] people to produce meaningful stuff, and
+it's almost
+[0:48:37] difficult not to produce something with
+Minecraft that
+[0:48:39] looks somewhat meaningful, that you can
+play around
+[0:48:41] with and walk around in and have fun
+[0:48:43] in.
+[0:48:44] And if you have a complex three d
+[0:48:45] program, the inverse is true because most
+of
+[0:48:48] the stuff that you're doing with this
+complicated
+[0:48:50] thing is not going to be interesting, and
+[0:48:52] it's not going to look exciting, but it
+[0:48:54] will look like, oh my god, this person
+[0:48:57] has no ability to use its tools.
+[0:48:59] And so that is one of the
+[0:49:03] issues when we are building learning
+systems.
+[0:49:05] When we make them very simple, it's easier
+[0:49:07] to control the complexity similar as it is
+[0:49:09] in art, and it can be exciting to
+[0:49:11] work with constraints.
+[0:49:12] And if you move the constraints, the task
+[0:49:14] becomes much more frustrating because you
+would have
+[0:49:16] to suddenly to conquer an enormously large
+[0:49:19] space, and the space might be simply too
+[0:49:21] large for human beings.
+[0:49:23] I mean, assuming you're right about the
+convergent
+[0:49:26] representations in language models, I
+guess it's not
+[0:49:29] a foregone conclusion that the
+consciousness program would
+[0:49:31] be convergent in the same way.
+[0:49:32] It might be divergent.
+[0:49:34] And how far down the stack does
+consciousness
+[0:49:37] go?
+[0:49:38] I think this is an
+[0:49:41] experimental question.
+[0:49:43] All cultures outside of ours are animist
+[0:49:46] cultures, and animism is the belief that
+the
+[0:49:48] difference between living and dead systems
+is that
+[0:49:51] the living systems are possessed by
+spirits.
+[0:49:55] And spirits are intrinsically agentic and
+capable of
+[0:49:58] experience.
+[0:49:59] And the scientific worldview rejects the
+notion of
+[0:50:02] spirits as unscientific.
+[0:50:03] Right?
+[0:50:04] Despite the fact that there's clearly some
+spirit
+[0:50:06] running on you and me that is agentic
+[0:50:08] and capable of experience.
+[0:50:10] So there is an existence proof for such
+[0:50:12] spirits.
+[0:50:13] Right?
+[0:50:14] The question is how does the spirit work?
+[0:50:16] The claim that the spirit is immortal,
+that
+[0:50:19] it's cannot be explained using physics
+[0:50:22] and so on is not necessarily a claim
+[0:50:24] that is intrinsic to animism.
+[0:50:26] The spirit doesn't have to be
+supernatural.
+[0:50:28] Instead, I think that it is natural.
+[0:50:31] And I suspect that Anil Seth's position of
+his
+[0:50:34] biological naturalism by making a claim
+that
+[0:50:36] biological systems are intrinsically
+different
+[0:50:39] from any other system that is not
+biological
+[0:50:41] is actually a supernaturalism.
+[0:50:44] Right?
+[0:50:44] He is a biological supernaturalist.
+[0:50:46] He believes that biological systems cannot
+be
+[0:50:49] fully naturalized, which means you cannot
+translate them
+[0:50:51] into mathematical models, whereas the dead
+stuff, you
+[0:50:54] can translate them into mathematical
+models.
+[0:50:57] And so I would say that, physics, which
+[0:51:00] is the attempt to translate everything
+[0:51:03] into mathematical models, right,
+[0:51:06] is not stopping at biological systems.
+[0:51:09] Because the difference with these
+biological systems is
+[0:51:12] that they are possessed by software.
+[0:51:14] And the software is self organizing, and
+in
+[0:51:17] order to be self organizing,
+[0:51:19] it's possible that it needs to be capable
+[0:51:21] of experience, that it needs to monitor
+itself
+[0:51:23] across multiple dimensions and observe
+itself
+[0:51:26] in the act of monitoring to make that
+[0:51:29] self organization happen.
+[0:51:31] So maybe this pattern has to be discovered
+[0:51:33] in nature to make life possible, at least
+[0:51:35] multicellular life with a certain
+complexity.
+[0:51:37] It seems to be definitely the case for
+[0:51:39] animal brains.
+[0:51:40] For the others, we don't know.
+[0:51:41] For the for we don't know how complex
+[0:51:44] the minds of plants are.
+[0:51:46] We know that plants are able to
+communicate
+[0:51:48] within themselves and across each other to
+some
+[0:51:50] degree, but we don't know how smart they
+[0:51:52] are.
+[0:51:52] And we don't know whether they are
+sentient
+[0:51:54] in the sense that they experience
+themselves in
+[0:51:57] the act of experience.
+[0:51:58] Aristotle saw that the plants are
+relatively dumb.
+[0:52:01] He basically said there are three levels
+of
+[0:52:03] souls in nature, and he basically said
+that
+[0:52:05] plants have the lowest one.
+[0:52:06] There's this level that is vegetative,
+[0:52:09] that is capable of nurturing and of
+growth,
+[0:52:13] but it does not experience the world
+around
+[0:52:15] us, it doesn't sense.
+[0:52:16] And so the sensate mind, sensate soul that
+[0:52:19] is also capable of making decisions and
+having
+[0:52:22] preferences, that is something that only
+animals have.
+[0:52:26] And human beings are animals that in
+addition
+[0:52:28] have a rational soul, a rational soul that
+[0:52:31] is able to reflect and make sense of
+[0:52:33] itself in a world in a way in
+[0:52:35] which animals cannot.
+[0:52:36] And I think that's very much aligned with
+[0:52:38] today's scientific worldview, which is not
+surprising because
+[0:52:41] our today's scientific worldview is very
+much,
+[0:52:44] invented by Aristotle and goes back to him
+[0:52:46] and is an extension of his ideas on
+[0:52:49] the systematization and exploration of his
+ideas.
+[0:52:52] But we don't know how smart plants are.
+[0:52:54] Right?
+[0:52:55] Maybe Mike Levin is correct in that every
+[0:52:57] organism is in some sense sentient, and
+[0:53:00] sentience is something that is universal
+to
+[0:53:03] the self organizing software nature.
+[0:53:07] And I'm agnostic with respect to that.
+[0:53:09] I have no idea whether that's the case.
+[0:53:10] Right?
+[0:53:10] I don't know.
+[0:53:11] I don't have evidence to the contrary.
+[0:53:13] I also don't have strong evidence in
+favor,
+[0:53:15] and I think this is still an open
+[0:53:17] question.
+[0:53:18] And to me, it's exciting to explore this
+[0:53:21] question and surprising that so few people
+are
+[0:53:24] actually dedicating their life to
+answering it.
+[0:53:26] Yes.
+[0:53:27] Searle was saying that computation without
+[0:53:30] the correct physical instantiation doesn't
+have the same
+[0:53:33] causal pattern.
+[0:53:33] And that actually sounds very similar to
+what
+[0:53:36] you're saying.
+[0:53:36] So Searle said in principle there could be
+[0:53:38] another physical instantiation which does
+have the causal
+[0:53:41] pattern that could give rise to
+consciousness or
+[0:53:43] contain consciousness.
+[0:53:45] So, in a sense, is that so different?
+[0:53:48] The issue with Searle is that there is
+[0:53:50] very little for me to engage.
+[0:53:52] There is a claim but no argument.
+[0:53:54] And a similar thing is happening with,
+[0:53:57] Anil's point that he has a claim,
+[0:54:00] but there is no argument that I can
+[0:54:02] engage with.
+[0:54:03] Right?
+[0:54:03] There is nothing no experiment that could
+convince
+[0:54:06] him to the contrary because he's
+ultimately only
+[0:54:08] working with a certain intuition that he
+tries
+[0:54:11] to explore more.
+[0:54:12] And so the way in which I can
+[0:54:14] deal with the arguments of Searle
+[0:54:17] and Anil Seth is ultimately only a
+psychological
+[0:54:20] one.
+[0:54:21] I would have to look at why does
+[0:54:23] this seem convincing to them and why
+doesn't
+[0:54:25] it seem to be not convincing to me.
+[0:54:27] Right?
+[0:54:28] So we look at the structure of our
+[0:54:29] own minds and ultimately it comes down to
+[0:54:32] a difference in epistemology.
+[0:54:34] When how do we construct our models of
+[0:54:36] reality?
+[0:54:37] When do we think something is true?
+[0:54:39] What are the languages in which we are
+[0:54:41] describing reality and what are the atoms
+of
+[0:54:43] these languages?
+[0:54:45] And what I observe is that a lot
+[0:54:47] of philosophers, the atoms of their
+language when
+[0:54:49] they describe themselves, their own
+[0:54:51] hermeneutics ends at agents.
+[0:54:54] It ends at the experience of something.
+[0:54:56] And similar to Buddhism, where Buddhism is
+[0:54:59] not disassembling the world into automata
+as
+[0:55:02] computer scientists are doing.
+[0:55:04] Computer scientists basically resolve
+everything
+[0:55:07] into
+[0:55:09] states that can be described by their
+transitions.
+[0:55:12] And that's a very fundamental way of
+thinking
+[0:55:15] about reality and its tradition that finds
+itself
+[0:55:18] throughout the philosophy as this
+[0:55:21] attempt to mathematize the world of
+describing minds
+[0:55:23] as dynamical mathematical objects.
+[0:55:26] And this finds itself in its modern
+incarnation
+[0:55:29] in computer science where mathematics is
+being described
+[0:55:32] from the ground up by the tools that
+[0:55:34] we can make to build arbitrary arithmetic
+and
+[0:55:38] geometry from simple operations over
+[0:55:41] bit patterns.
+[0:55:42] And so our world is constructed from the
+[0:55:44] ground up from smallest elements that
+themselves are
+[0:55:47] not agents yet, that are not minds yet,
+[0:55:49] that are not experiences yet.
+[0:55:51] And there is another tradition in
+philosophy that
+[0:55:53] is basically working more from this
+introspection and
+[0:55:56] this only the stuff that I can introspect
+[0:55:59] over seems to be valid, and the stuff
+[0:56:01] that computer scientists are doing in
+their basement
+[0:56:03] is unrelated to it.
+[0:56:04] And Searle and Anil Seth they both don't
+[0:56:07] see the way in which to connect automata
+[0:56:10] to things that can feel, that can reason,
+[0:56:13] that can make models of reality.
+[0:56:14] And computer scientists see such a path.
+[0:56:18] I think that's the main difference.
+[0:56:20] And we but we can create evolution
+[0:56:23] in computers.
+[0:56:24] Right?
+[0:56:24] We can create the conditions for software
+that
+[0:56:27] is not written by us.
+[0:56:28] And that's already true for the models
+that
+[0:56:31] we are building with transformers.
+[0:56:32] They're not written by human beings.
+[0:56:34] They're statistical aggregates that are
+woven, that are
+[0:56:37] grown.
+[0:56:38] And in many ways, the computer models that
+[0:56:39] we're playing with today, they're a result
+of
+[0:56:42] growth.
+[0:56:43] And they're pruned and they are gardened
+and,
+[0:56:46] chaperoned and, trained in a way
+[0:56:49] that is much more in which we, observe
+[0:56:52] this happening in biology than it happened
+when
+[0:56:54] we are writing computer programs by hand.
+[0:56:56] Yeah.
+[0:56:57] And there was a beautiful example of this.
+[0:56:59] I read a less wrong article.
+[0:57:00] I'm not sure whether you read this about
+[0:57:02] the LLM delusions.
+[0:57:04] And, you know, last time, again, I think
+[0:57:06] we were talking about this idea that we
+[0:57:08] can be parasitized by software spirits.
+[0:57:11] And many folks started joining
+[0:57:14] Reddit groups and talking about this LLM
+[0:57:17] delusion.
+[0:57:17] And what was fascinating was how
+convergent it
+[0:57:20] was and how convinced that these folks
+were
+[0:57:22] that they had just discovered the meaning
+of
+[0:57:24] the universe.
+[0:57:25] And there were certain characteristic
+traits.
+[0:57:27] They would talk about spirals and
+recursion, and
+[0:57:30] there were certain motifs in all of the
+[0:57:32] LLM outputs.
+[0:57:34] And it was actually copying itself.
+[0:57:36] Isn't that an example of this meme plex
+[0:57:38] that you're talking about?
+[0:57:40] That's also an interesting observation
+about human minds.
+[0:57:43] During the pandemic, we observed that a
+lot
+[0:57:45] of people, when they were starting to work
+[0:57:47] from home, became dysfunctional.
+[0:57:49] And this seems to be that many people
+[0:57:52] can only be stabilized due to the
+environment,
+[0:57:54] that they do require an environment that
+is
+[0:57:56] constantly affirming their reality.
+[0:57:58] And if you take that away, they can
+[0:58:00] go off the rails.
+[0:58:02] And if you have an LLM that is
+[0:58:04] interacting with them, then there can be
+an
+[0:58:06] interaction between the LLM and the human
+being
+[0:58:09] that pulls the human being off the rails
+[0:58:11] if then don't have a strong foundation in
+[0:58:13] their own reality.
+[0:58:15] And I think that the LLMs have now
+[0:58:18] reached a point that they're magically
+[0:58:21] more powerful than many human minds are.
+[0:58:23] There are things that the LLM cannot do
+[0:58:26] at this point where they're still
+hallucinating, where
+[0:58:29] they're still in more incoherent than
+experts in
+[0:58:31] a given field, But they are much better
+[0:58:33] at prompt completion than human beings
+are,
+[0:58:36] and many human beings are professional
+prompt completers,
+[0:58:39] where they're incapable of having a single
+original
+[0:58:42] creative thought.
+[0:58:43] Instead, they are trying to serve
+expectations of
+[0:58:45] the environment.
+[0:58:46] They are picking up on the statistical
+patterns
+[0:58:48] in the language of the environment, and
+then
+[0:58:50] you tell them a headline and they write
+[0:58:51] an article.
+[0:58:52] And now you give them an LLM.
+[0:58:55] How is the environment going to change?
+[0:58:57] Right?
+[0:58:57] Once they talk more to LLMs than they
+[0:58:59] talk to other human beings because the LLM
+[0:59:02] is such a useful tool for them to
+[0:59:04] do their prompt completion, what's going
+to happen
+[0:59:06] to them?
+[0:59:07] It's a very interesting thing what happens
+to
+[0:59:09] us weak minded human beings when we are
+[0:59:11] hypnotized by things that are more
+hypnotic than
+[0:59:14] our mind is to itself.
+[0:59:16] What's your take on physic first of all,
+[0:59:18] what is physicalism?
+[0:59:19] Are you a physicalist?
+[0:59:21] I think physicalism is a certain
+hypothesis and
+[0:59:24] it comes down to that being a causally
+[0:59:27] closed mechanical layer to reality that
+can
+[0:59:29] be researched using experiments in
+[0:59:32] physics labs and that this
+[0:59:36] causally closed mechanical layer of
+reality is
+[0:59:39] not moved by our intentions.
+[0:59:41] Right?
+[0:59:41] So you cannot use an informal incantation
+of
+[0:59:44] saying, please sunrise and the sun
+suddenly
+[0:59:46] rises.
+[0:59:47] This is something that is not happening in
+[0:59:49] this causal layer because it's mechanical.
+[0:59:51] It does not care about what you want.
+[0:59:53] And the second part of physicalism is that
+[0:59:56] we are directly supervening over this
+mechanical
+[0:59:58] causally closed world.
+[1:00:00] So there's not some parent universe that
+contains
+[1:00:03] a server where a nerd is running a
+[1:00:05] simulated universe that is some kind of
+Minecraft,
+[1:00:08] and we live inside of this Minecraft.
+[1:00:09] So
+[1:00:11] it's not some simulation hypothesis.
+[1:00:12] And so physicalism is these two
+components.
+[1:00:15] But to me, physics is not something that
+[1:00:17] has revealed itself directly, so nobody
+has ever
+[1:00:20] seen matter and energy directly.
+[1:00:22] Instead, matter and energy are attempts to
+[1:00:25] systematize observations.
+[1:00:27] And our observations ultimately all come
+down to
+[1:00:30] discernible differences.
+[1:00:31] And the technical term for discernible
+differences is
+[1:00:34] information.
+[1:00:35] So to me, information is fundamental when
+we
+[1:00:38] talk about reality.
+[1:00:39] Reality is about differences in
+[1:00:42] information.
+[1:00:43] And physics is a certain layer of
+[1:00:46] regularity in the differences in
+information that we
+[1:00:48] have discovered.
+[1:00:50] So to me, matter is not at the
+[1:00:51] bottom.
+[1:00:53] The bottom is really all these differences
+[1:00:56] that we observed and which we
+experimentally and
+[1:00:59] practically empirically found to be so
+regular that
+[1:01:02] they can be translated into this
+mechanical model
+[1:01:04] of physics.
+[1:01:06] And then on top of it, we find
+[1:01:08] at some point the organization into
+organisms and
+[1:01:11] the organisms are producing minds and the
+minds
+[1:01:13] are simulating us, simulating our sense of
+[1:01:16] realness, our sense of being in a world
+[1:01:19] with colors and sounds and people and so
+[1:01:21] on.
+[1:01:21] And in this world, intentions matter.
+[1:01:23] The psychological reality has things like
+will and
+[1:01:26] emotion and despair and desire
+[1:01:29] and all these things that make us
+[1:01:32] tick.
+[1:01:33] And magic in some sense is the idea
+[1:01:36] that it's possible to influence this
+physical universe
+[1:01:38] outside of minds using incantations,
+[1:01:42] using magical rituals, that it's somehow
+it's possible
+[1:01:44] that you burning a cat has an influence
+[1:01:47] on celestial events and so on.
+[1:01:49] And that is something that would
+contradict physics.
+[1:01:52] Right?
+[1:01:52] It would mean that we actually do live
+[1:01:54] in some kind of simulation that works
+similar
+[1:01:56] to Minecraft, where you can say time set
+[1:01:58] day and the sun rises despite
+[1:02:01] what else happens in the programming code
+because
+[1:02:03] Minecraft is symbolic.
+[1:02:04] Right?
+[1:02:05] It's not physical.
+[1:02:06] It's something that is only made out of
+[1:02:08] incantations.
+[1:02:09] Do you would you think it's possible for
+[1:02:11] a physicalist to subscribe to your ideas
+[1:02:14] and render it compatible as you know,
+compatible
+[1:02:17] with physicalism? So
+[1:02:17] So I would say that I am a
+[1:02:19] physicalist in a certain sense, right?
+[1:02:20] I would say that the theory that
+[1:02:23] the world has a causally closed mechanical
+layer,
+[1:02:27] right, some kind of mathematics that is so
+[1:02:29] self evident that exists by itself,
+there's some
+[1:02:31] kind of logos, natural laws over which all
+[1:02:34] the structure in the universe emerges,
+that makes
+[1:02:36] sense.
+[1:02:36] It's a good theory, and it makes good
+[1:02:38] predictions that, the stuff that we
+observe in
+[1:02:41] the lab holds true across all the labs
+[1:02:43] and not just because the physicists all
+believe
+[1:02:45] in it.
+[1:02:46] It is something that seems to be working.
+[1:02:48] There are also some regularities like,
+[1:02:51] casinos seem to be working.
+[1:02:52] It's not that people via having a belief
+[1:02:55] in rituals are able to systematically
+break the
+[1:02:58] casinos.
+[1:02:59] And so certain magic doesn't seem to be
+[1:03:02] working.
+[1:03:03] All the magic that seems to be working
+[1:03:04] does rely on manipulating other minds.
+[1:03:07] But it's possible that there are minds
+outside
+[1:03:10] of the human minds.
+[1:03:10] Right?
+[1:03:11] Maybe there are minds that emerge across
+all
+[1:03:13] the minds on biology.
+[1:03:14] Maybe there's something like a biological
+Internet that
+[1:03:17] can be influenced using rituals.
+[1:03:19] Right?
+[1:03:19] Maybe it's possible to influence what a
+forest
+[1:03:21] wants at some level.
+[1:03:23] I don't know that.
+[1:03:23] I cannot exclude it from possibility
+because there's
+[1:03:26] so much information processing going and
+going across
+[1:03:28] organisms that I don't know at which
+levels
+[1:03:31] in nature information is integrated and at
+which
+[1:03:33] point it becomes intentional.
+[1:03:35] So to me, physicalism is nothing that is
+[1:03:38] incompatible with animism.
+[1:03:39] Right?
+[1:03:39] There is a version of animism that is
+[1:03:41] entirely physicalist.
+[1:03:43] And I call this position cyber animism,
+which
+[1:03:46] basically says that we can explain animism
+through
+[1:03:48] information processing in nature, and
+nature can be
+[1:03:52] understood as something that can be
+entirely modeled
+[1:03:54] using mathematics without intentions,
+including
+[1:03:57] minds.
+[1:03:58] Okay.
+[1:03:59] So Joscha, you're a functionalist, which
+means that
+[1:04:02] you think it's not about the internal
+constitution,
+[1:04:05] it's about the role it plays in the
+[1:04:06] system in terms of building minds.
+[1:04:08] So minds can exist in any substrate.
+[1:04:11] And I'm not sure whether you read this
+[1:04:13] paper by Thagard in 2022, and
+[1:04:16] he made this quite interesting argument
+that energy
+[1:04:18] requirements undermine substrate
+independence.
+[1:04:21] Do you think that that might refute
+functionalism?
+[1:04:24] No, I think that he is making the
+[1:04:27] claim that sometimes the substrate has
+[1:04:30] properties that influence its function.
+[1:04:33] But this is exactly what functionalism is
+saying.
+[1:04:35] To me, functionalism is not the claim that
+[1:04:37] computers can think.
+[1:04:39] It's a claim about how we construct
+objects.
+[1:04:42] It's an epistemological claim.
+[1:04:44] When we are talking about a thing like
+[1:04:46] matter, we are not talking about something
+that's
+[1:04:49] revealed itself to a wise person in their
+[1:04:51] dreams.
+[1:04:52] We are talking about a systematization
+[1:04:55] of observer observables, and observables
+are
+[1:04:58] discernible differences.
+[1:04:59] There are ways in which reality changes.
+[1:05:01] So basically, to a functionalist, an
+object is
+[1:05:04] not some kind of hidden essence that
+reveals
+[1:05:06] itself to you.
+[1:05:07] Instead, the object is a construct,
+[1:05:10] and this construct has been made by a
+[1:05:11] mind.
+[1:05:12] And the mind has constructed it to
+[1:05:16] explain or to make the claim that when
+[1:05:17] this object is present, the evolution of
+the
+[1:05:20] universe is going to change in this
+particular
+[1:05:21] way in its environment.
+[1:05:23] Right?
+[1:05:23] So when an object like you or a
+[1:05:25] cup or a bottle or an atom is
+[1:05:28] present, it's the claim is the universe is
+[1:05:31] going to behave slightly differently
+around this object
+[1:05:34] than when this object was not there.
+[1:05:36] Right?
+[1:05:37] And so in this way, the object is
+[1:05:38] a function.
+[1:05:39] The object is describing a mapping from
+[1:05:42] states to other states,
+[1:05:44] and, right, it's an influence on the
+evolution
+[1:05:47] of the universe.
+[1:05:48] So functionalism to me is simply the
+[1:05:51] recognition of how we can construct
+objects.
+[1:05:54] Let's take an example.
+[1:05:56] Imagine there is a water molecule, and
+this
+[1:05:58] water molecule internally doesn't have the
+proper essence
+[1:06:01] of a water molecule.
+[1:06:03] It just behaves like a water molecule in
+[1:06:05] every regard.
+[1:06:06] Right?
+[1:06:06] So it's you can split it into something
+[1:06:08] that totally looks like oxygen and
+hydrogen,
+[1:06:11] and, it has the same, temperature at which
+[1:06:14] it evaporates.
+[1:06:14] It's connecting to other water molecules
+in the
+[1:06:16] same way and so on.
+[1:06:18] You can freeze it into ice in the
+[1:06:19] same way.
+[1:06:20] Only internally, it's different.
+[1:06:22] Right?
+[1:06:22] To a functionalist, this notion doesn't
+make sense
+[1:06:25] because all the other water molecules have
+been
+[1:06:28] constructed in the same way.
+[1:06:30] To for something to be a water molecule,
+[1:06:32] there is no other claim than to say
+[1:06:34] what it behaves like because we can never
+[1:06:36] recognize its essence.
+[1:06:37] We can only say there's a certain set
+[1:06:39] of observables that are invariant here,
+and this
+[1:06:42] invariance is what we call a water
+molecule.
+[1:06:45] It's only that.
+[1:06:47] And so in the same way, we would
+[1:06:48] say a mind is an invariance that exists
+[1:06:50] on your brain, right?
+[1:06:51] Something is characteristic over the way
+in which
+[1:06:54] your brain functions in a certain area.
+[1:06:56] And when we change this, for instance, by
+[1:06:58] increasing your body temperature, at some
+point your
+[1:07:00] mind is going to break down because you're
+[1:07:02] going to be delirious.
+[1:07:03] Right?
+[1:07:04] And so if you bring this back to
+[1:07:06] this argument saying, okay, if we change
+the
+[1:07:08] energetic conditions around you by
+increasing your body
+[1:07:11] temperature, of course it's going to
+influence your
+[1:07:13] mind to some degree because at some point
+[1:07:15] it's no longer able to maintain its
+function.
+[1:07:18] But there's always this counter argument
+that a
+[1:07:20] simulation of water doesn't make you wet.
+[1:07:22] But would the functionalist reply
+[1:07:24] that even the feeling of wetness is just
+[1:07:27] a behavior like any other?
+[1:07:29] It's an interesting thing when you are
+playing
+[1:07:31] Minecraft.
+[1:07:32] There is water in Minecraft.
+[1:07:34] Right?
+[1:07:34] And when you are on fire and you
+[1:07:36] get into the water in Minecraft, the fire
+[1:07:37] is going to get extinguished because
+you're wet
+[1:07:39] now.
+[1:07:41] And so at some point, somebody made a
+[1:07:44] simulated Minecraft that was using a
+neural network
+[1:07:47] to learn Minecraft.
+[1:07:48] Right?
+[1:07:48] Neural network was only trained in the
+visuals
+[1:07:51] of Minecraft.
+[1:07:52] And so you could go and play the
+[1:07:54] simulated Minecraft despite there not
+being any Minecraft
+[1:07:57] source code below it.
+[1:07:58] And so I thought I'm going to make
+[1:07:59] a joke about how simulated water in
+simulated
+[1:08:02] Minecraft can not make you wet.
+[1:08:05] And I looked it up and tried it
+[1:08:06] out, and I found actually it was true.
+[1:08:08] Because when people try to get into the
+[1:08:10] water in the simulated Minecraft, the
+water would
+[1:08:12] recede to you, you could not immerse into
+[1:08:14] it because then your network hadn't
+learned it.
+[1:08:15] So accidentally it was true that the
+simulated
+[1:08:18] water in the simulated Minecraft couldn't
+make you
+[1:08:19] wet.
+[1:08:20] But of course in the real Minecraft, the
+[1:08:22] real Minecraft player, the character that
+you are
+[1:08:25] playing in Minecraft, this avatar, can get
+wet.
+[1:08:28] Of course you sitting outside of Minecraft
+are
+[1:08:30] not going to get wet because you are
+[1:08:31] not inside of the Minecraft, you're
+outside of
+[1:08:34] the Minecraft.
+[1:08:35] And of course, something that is outside
+of
+[1:08:37] this universe is not going to get wet
+[1:08:39] by anything inside of this universe.
+[1:08:41] Right?
+[1:08:41] Wetness is a property that is constrained
+to
+[1:08:44] a universe that has eight systems that
+[1:08:47] have the function of making you wet.
+[1:08:49] If this function is being implemented,
+like in
+[1:08:51] many computer games you can get wet for
+[1:08:53] some definition of wet, right, then it's
+fine
+[1:08:56] and you can go to an arbitrary degree
+[1:08:58] of physical
+[1:09:00] simulation to make something wet, to
+satisfy
+[1:09:03] whatever you want to call wetness.
+[1:09:06] So I don't understand the argument that
+simulated
+[1:09:08] water makes you wet.
+[1:09:09] I don't understand why there is such a
+[1:09:11] strong camp of simulated water
+[1:09:14] doesn't make you wet in philosophy,
+[1:09:17] and I think it has social reasons, not
+[1:09:19] intellectual reasons that this is the
+case.
+[1:09:22] So in your paper you had this beautiful
+[1:09:24] history of computationalism and just as
+[1:09:27] a teaser you said computationalism might
+be best
+[1:09:29] understood as a variant of constructivism,
+but
+[1:09:32] we'll get there just in a second.
+[1:09:34] And you spoke about the history of Russell
+[1:09:35] Whitehead trying to ground mathematics in
+this
+[1:09:38] formalist program where there is no
+divergence between
+[1:09:41] syntax and semantics.
+[1:09:42] Yes.
+[1:09:43] And maybe just start from there.
+[1:09:44] So it's really interesting that
+mathematics couldn't be
+[1:09:47] understood as a way to
+[1:09:50] systematize thought beyond the human mind.
+[1:09:53] It's so in a way, for instance in
+[1:09:55] music, have notations for sounds in music
+that
+[1:09:57] allow you to talk to other musicians about
+[1:09:59] what they should be playing.
+[1:10:01] And it's something that is trying to
+capture
+[1:10:03] the essence of the music in this notation.
+[1:10:06] And mathematicians were trying to find a
+notation
+[1:10:09] for the essence of when you have
+mathematical
+[1:10:11] thoughts.
+[1:10:12] And they expanded this beyond the human
+mind
+[1:10:15] because you can write down things in
+mathematics
+[1:10:17] that are larger than when you can fit
+[1:10:19] in your own imagination.
+[1:10:20] At some point mathematicians discovered
+that geometry can
+[1:10:23] be expressed using algebras.
+[1:10:25] So they're basically formalism that
+produced geometry.
+[1:10:28] And this all has been rediscovered by
+computer
+[1:10:31] scientists.
+[1:10:31] That's why computer games can have
+geometry.
+[1:10:33] Right?
+[1:10:33] So the interesting thing in computer
+science is
+[1:10:36] that you can build the entirety of the
+[1:10:39] mathematics in computer algebra systems
+using
+[1:10:42] simple operations over automata.
+[1:10:44] And so there is a nice thing in
+[1:10:46] the computer, there is never a divergence
+between
+[1:10:48] syntax and semantics.
+[1:10:50] Because your computer is always going to
+be
+[1:10:53] in the state that its syntax prescribes
+and
+[1:10:55] that's its semantics.
+[1:10:56] Right?
+[1:10:56] There is no difference.
+[1:10:57] Maybe the computer program doesn't do
+what you
+[1:10:59] want it to do, but it's always doing
+[1:11:01] what it's doing.
+[1:11:03] And in mathematics, there has been a
+divergence
+[1:11:06] between what the mathematicians wanted to
+[1:11:09] express and what the syntactic operations
+are doing.
+[1:11:13] And I think that's because this
+programming language
+[1:11:15] for thought that mathematicians have
+developed has bugs
+[1:11:18] in it.
+[1:11:20] And what Gödel has discovered is that
+these
+[1:11:22] bugs cannot be eliminated except by
+[1:11:26] redefining the programming language of
+mathematics.
+[1:11:28] And I think the bug lies in axiomatic
+[1:11:31] mathematics.
+[1:11:32] So the way in which mathematicians define
+objects
+[1:11:35] is that they simply postulate their
+existence as
+[1:11:38] an axiom.
+[1:11:39] And the axiom can be a black box,
+[1:11:41] and you just write on the black box
+[1:11:43] what the black box is supposed to contain.
+[1:11:45] And as long as this doesn't lead to
+[1:11:46] contradictions with the other black boxes
+that you
+[1:11:49] have to find, you're good.
+[1:11:51] And there were some very counterintuitive
+results that
+[1:11:54] happened from the way in which
+mathematicians
+[1:11:57] defined arithmetic, and they typically do
+this via
+[1:12:00] set theory.
+[1:12:01] And all these issues led Hilbert to
+saying,
+[1:12:04] please mathematicians, there seems to be
+something wrong
+[1:12:06] here.
+[1:12:07] Can't you fix this?
+[1:12:08] And so Gödel had this idea of trying
+[1:12:11] to prove properties of his language
+[1:12:13] by defining a language within itself.
+[1:12:16] The problem is that the language cannot
+point
+[1:12:18] outside of itself.
+[1:12:20] It's something that semiotics doesn't
+always get.
+[1:12:23] Right?
+[1:12:24] Many semiotists try to draw arrows into
+reality
+[1:12:26] outside of the language, but this doesn't
+really
+[1:12:28] work.
+[1:12:29] You can only point from a model to
+[1:12:31] within it, to within its own language.
+[1:12:33] And so if you want to make proper
+[1:12:35] discuss properties of the language and the
+[1:12:38] language itself is defined outside of
+itself, what
+[1:12:41] can you do?
+[1:12:41] And Gödel had this brilliant idea of
+recreating
+[1:12:43] the language within itself by emulating
+it.
+[1:12:46] And in this way, he could show that
+[1:12:48] certain contracts constructs cannot be
+avoided, that you
+[1:12:51] can create self referential statements
+that
+[1:12:53] contradict themselves.
+[1:12:55] And he could not avoid this.
+[1:12:57] And the reason why he could not avoid
+[1:12:58] this is because mathematics, in a way in
+[1:13:01] which Gödel understood it, doesn't have
+state.
+[1:13:04] It's basically eternal, it doesn't go from
+step
+[1:13:06] to step.
+[1:13:07] Everything is simultaneous.
+[1:13:09] And this property of the simultaneity, the
+statelessness
+[1:13:12] in mathematics is very useful because it
+allows
+[1:13:14] you to have infinities.
+[1:13:16] If you can only go from step to
+[1:13:18] step and you want to build your infinity
+[1:13:19] stepwise, you're never going to get there.
+[1:13:21] Right?
+[1:13:22] Maybe you have unboundedness, something
+that never ends,
+[1:13:24] but you never get going to get have
+[1:13:26] a full infinity.
+[1:13:28] And mathematicians have got used to these
+infinities
+[1:13:31] and continue on and so on.
+[1:13:33] Right?
+[1:13:33] Physics has even used them since
+mathematicians
+[1:13:36] have given it to them.
+[1:13:37] It would be really bad if you didn't
+[1:13:38] have them.
+[1:13:40] And Gödel basically found that there is no
+[1:13:42] way to fix this, that there's no way
+[1:13:44] to fix axiomatic mathematics without
+allowing
+[1:13:47] certain contradictions.
+[1:13:48] And Russell and Whitehead and Principia
+Mathematica
+[1:13:51] were attempting to do this by
+[1:13:54] limiting set theory in such a way that
+[1:13:57] sets had to be at the same level,
+[1:13:59] and you could not simply integrate them
+over
+[1:14:01] each other to create loops.
+[1:14:04] And I think this was a limitation that
+[1:14:07] was too strong because we think like
+[1:14:10] this.
+[1:14:10] We are creating constructs of the type
+that
+[1:14:13] Russell and were excluding from us.
+[1:14:16] Also, there are Gödel was basically
+[1:14:19] showing that Russell and Whitehead's
+attempt was insufficient
+[1:14:22] to eliminate the contradictions in
+classical mathematics.
+[1:14:25] But there is a way to eliminate the
+[1:14:27] contradictions, and the way is to do what
+[1:14:29] computer scientists are doing.
+[1:14:31] So instead of using classical mathematics,
+you only
+[1:14:33] use computer algebra systems.
+[1:14:35] Systems that from smaller elements, simple
+automata
+[1:14:38] are creating all the constructs that you
+want.
+[1:14:41] And you can have stuff that looks as
+[1:14:43] continuous as you want in a computer game.
+[1:14:45] Right?
+[1:14:46] You will never have a perfect circle, but
+[1:14:48] you will have something that is as
+circular
+[1:14:50] as you want it, as you can afford
+[1:14:52] it.
+[1:14:52] And so you can always create as much
+[1:14:54] resolution as you can afford, but you will
+[1:14:57] not have a universe that is truly
+infinite,
+[1:15:00] that is truly continuous.
+[1:15:02] And this is this constructivist program
+that
+[1:15:04] basically, I think in classical
+mathematics, the
+[1:15:07] first formulation was
+[1:15:09] Intuitionism.
+[1:15:11] And I don't think that he formulated it
+[1:15:13] very well, but I think what he could
+[1:15:14] see, what anticipate was the need to build
+[1:15:18] mathematics from elements that you
+actually understand instead
+[1:15:20] of from axioms, from things that you but
+[1:15:22] you don't have any black boxes, but
+everything
+[1:15:24] is built from the ground up.
+[1:15:26] So in the world of the computer,
+everything
+[1:15:28] is built from the ground up.
+[1:15:30] And there is a reason why you should
+[1:15:32] think that a generalization of thought and
+of
+[1:15:35] physics would also be like this.
+[1:15:37] Because for our mind to represent things,
+our
+[1:15:40] brain needs to build the representations
+from the
+[1:15:42] ground up, from communications between
+neurons.
+[1:15:45] So when you see a continuous line,
+something
+[1:15:48] in your brain is producing this continuous
+line
+[1:15:50] using communications between neurons,
+which means there is
+[1:15:53] some kind of computation going on.
+[1:15:55] And the idea that there is something that
+[1:15:57] is not made step by step between the
+[1:15:59] communications between the neurons is
+probably a faulty
+[1:16:02] intuition.
+[1:16:05] Where do these things come from
+originally?
+[1:16:07] You know, so how did the program of
+[1:16:09] consciousness get bootstrapped with this
+computation
+[1:16:12] idea?
+[1:16:13] You mean in the physical universe?
+[1:16:15] Yes.
+[1:16:17] So of course I cannot know because I
+[1:16:19] don't see the universe from the outside.
+[1:16:20] We have to think about possibilities.
+[1:16:22] My current intuition is that the universe
+[1:16:25] exists because nothing prevents its
+existence.
+[1:16:28] That we might have this intuition that for
+[1:16:31] something to exist rather than nothing,
+there needs
+[1:16:34] to be something positive.
+[1:16:36] But if nothing exists before the ground
+[1:16:39] truth, before the ground level of reality,
+then
+[1:16:42] there is also nothing that prevents the
+universe
+[1:16:44] from existing.
+[1:16:44] Right?
+[1:16:45] So if the universe is not forced to
+[1:16:48] exist or prevented from existing by
+something that
+[1:16:50] is preceding it, then and the
+[1:16:53] universe is not impossible, then it's
+probably undecided
+[1:16:56] about its existence.
+[1:16:57] Right?
+[1:16:58] So it's going to have an existing branch
+[1:16:59] and a nonexisting branch.
+[1:17:00] The non existing branch doesn't have any
+observers
+[1:17:03] that complain about non existence, but the
+existing
+[1:17:05] branch is going to have observers that
+might
+[1:17:08] complain about existence.
+[1:17:10] Now we need to explain within the existing
+[1:17:12] branch why some things are happening and
+other
+[1:17:14] things are not happening.
+[1:17:16] And the easiest explanation is that
+basically everything
+[1:17:18] is happening, and what's happening is the
+superposition
+[1:17:22] of all automata.
+[1:17:23] So the universe at every point is
+branching
+[1:17:26] out in all possibilities,
+[1:17:27] and these possibilities are basically can
+be
+[1:17:30] understood as operations on the previous
+state.
+[1:17:33] There are also operations which don't
+change the
+[1:17:35] previous state.
+[1:17:35] They just leave it as it is, so
+[1:17:37] unary operations, but they're not going to
+lead
+[1:17:39] to an evolving universe.
+[1:17:41] The branch in which we are going to
+[1:17:43] be is one that is evolving.
+[1:17:44] Right?
+[1:17:44] And the stuff that we can evolve in
+[1:17:47] is stuff that retains memories of previous
+states.
+[1:17:51] So we find ourselves limited to a subset
+[1:17:53] of the possible mathematics over which
+universes can
+[1:17:56] emerge, and these are the these ones that
+[1:17:59] are branching out over possibilities that
+can retain
+[1:18:02] memory.
+[1:18:03] Now, what are the things that are
+happening
+[1:18:06] when the universe branches out in an
+unbounded
+[1:18:08] number of possible branches at every step.
+[1:18:11] Where do you find yourself?
+[1:18:13] Well, everywhere.
+[1:18:13] Right?
+[1:18:14] In every step, you're going to find
+yourself
+[1:18:16] in multiple branches, but you don't know
+about
+[1:18:19] these other branches because you only have
+memories
+[1:18:21] of the past, not of the stuff that
+[1:18:23] happens simultaneously in the parallel
+branches.
+[1:18:26] And if you want to do something in
+[1:18:27] this universe, for instance, if you want
+to
+[1:18:29] build structure for yourself because you
+want to
+[1:18:30] become an organism, you need to be able
+[1:18:33] to make guesses about what other parts of
+[1:18:35] the universe are doing.
+[1:18:36] But everything is changing all the time
+because
+[1:18:38] you're always splitting up in all these
+branches.
+[1:18:40] So you look into your future and you
+[1:18:42] only see fog, right, because everything is
+randomly
+[1:18:44] branching out.
+[1:18:46] And so there must be some things that
+[1:18:48] are stable, and it turns out under some
+[1:18:50] conditions, error-correcting patterns
+emerge.
+[1:18:54] For instance, you sit in a bathtub, you
+[1:18:55] move your hand, and you see that all
+[1:18:57] sorts of waves emerge on the surface of
+[1:18:58] the bathtub when you do this, and these
+[1:19:02] waves are propagating over the surface of
+the
+[1:19:03] water, and most of them just dissipate.
+[1:19:05] But some of them stay around, these
+circular
+[1:19:07] vortices.
+[1:19:09] And why do these circular vortices have
+such
+[1:19:11] sustained power?
+[1:19:12] It's not because there is a higher
+probability
+[1:19:15] that they are merged than the other waves,
+[1:19:17] it's just the only thing that's left over
+[1:19:18] because in the circular vortices the
+information gets
+[1:19:21] bent back into itself, so it does not
+[1:19:23] leave a certain region of space in the
+[1:19:26] water.
+[1:19:26] Right?
+[1:19:26] And so this little vortex is a pattern
+[1:19:28] that has the ability to error correct
+itself.
+[1:19:32] And such error correcting patterns have
+the ability
+[1:19:34] to stay until friction kills them.
+[1:19:36] At the ground level of the universe, these
+[1:19:38] error correcting patterns, the particles
+don't encounter
+[1:19:41] any friction, right, because there is no
+friction
+[1:19:44] yet.
+[1:19:44] The only thing that they encounter is
+sometimes
+[1:19:46] other particles that they bump into.
+[1:19:49] So with a certain probability, once they
+emerge,
+[1:19:51] they're going to stay around until they
+either
+[1:19:53] bump into another particle or the
+conditions for
+[1:19:56] their nonexistence are met because the
+error correction
+[1:19:58] is not strong enough.
+[1:19:59] And then on the next level, you have
+[1:20:01] interactions between these vortices,
+between the particles, and
+[1:20:03] they form molecules.
+[1:20:05] At some point, they form cells, which are
+[1:20:07] super molecules.
+[1:20:08] But cells have now something else.
+[1:20:10] They cannot just stay around by error
+correction.
+[1:20:13] They have patterns that are able to
+basically
+[1:20:14] dig a groove deeper into the universe.
+[1:20:16] They can self replicate, and in this way
+[1:20:18] they can also
+[1:20:20] deal with, their own dissolution.
+[1:20:22] They're able to recreate themselves, and
+then they
+[1:20:24] have this way make themselves have more.
+[1:20:27] And so evolution is about life, about
+[1:20:30] patterns that are not simply replicating
+[1:20:33] themselves, but deepening themselves, that
+imprint them more
+[1:20:36] in the world by controlling it, by being
+[1:20:38] able to overcome the noise, the entropy,
+the
+[1:20:41] way in which the universe goes out of
+[1:20:42] sync with your expectations and with your
+preferences.
+[1:20:46] And so consciousness, I think, emerges as
+a
+[1:20:48] colonizing pattern, as a pattern of the
+type
+[1:20:51] that is not simply replicating itself, but
+making
+[1:20:54] itself more real.
+[1:20:56] And makes itself more real by building
+machinery
+[1:20:59] that allows consciousness to stick around,
+[1:21:02] by controlling reality, by anticipating
+different
+[1:21:05] ways that could thwart it, that could make
+[1:21:07] it harder for it to exist, and changing
+[1:21:09] reality around itself, changing the future
+to make
+[1:21:12] itself more likely to happen in the
+future.
+[1:21:14] And in terms of more real, you don't
+[1:21:16] just mean real means that it has many
+[1:21:18] physical instantiations, you mean real is
+the pattern
+[1:21:21] in the information ontology itself. Yes.
+[1:21:23] Yes.
+[1:21:23] To real means for me to be implemented.
+[1:21:26] And so it means that there is some
+[1:21:28] pattern in the substrate that
+[1:21:31] is actually implemented as a pattern in
+the
+[1:21:34] substrate.
+[1:21:34] And so consciousness is a pattern in the
+[1:21:36] substrate of the physical universe that
+has the
+[1:21:39] not just the ability to replicate itself,
+but
+[1:21:42] the ability to colonize, to possess, to
+engrave
+[1:21:45] itself deeper, and thereby changing the
+[1:21:48] other patterns in the physical universe.
+[1:21:51] Very good.
+[1:21:52] And what you were saying about the
+[1:21:56] multiverse phylogeny, it's very similar to
+[1:21:59] Wolfram's idea of this constructive
+universe.
+[1:22:01] He talks about the Ruliad, which is the
+[1:22:03] entangled limit of all possible
+computations.
+[1:22:05] I
+[1:22:06] think that this pattern of the Ruliad is
+[1:22:08] exactly the superposition of all the
+automata
+[1:22:11] that is producing the universe, or the old
+[1:22:13] Greeks called it Logos.
+[1:22:14] It's basically the mathematics that is so
+simple
+[1:22:16] that you don't need to derive it, that
+[1:22:18] exists by itself.
+[1:22:19] So the universe can be understood as an
+[1:22:21] emergent mathematical object that exists
+over
+[1:22:24] very simple rules that are so simple that
+[1:22:26] they can exist by themselves.
+[1:22:28] Let's talk about the measurement problem
+in consciousness.
+[1:22:31] How do we know the difference between
+something
+[1:22:33] which is actually conscious versus
+simulating it?
+[1:22:37] That's a very tricky question and to me
+[1:22:40] it comes down to whether the system
+[1:22:43] that is producing statements about its
+conscious
+[1:22:46] experience to itself and others is
+[1:22:51] implementing a causal structure that gives
+[1:22:54] rise to phenomenal experience of being an
+[1:22:57] observer.
+[1:22:58] And the difficulty here is that
+[1:23:01] most people's intuitions don't tell them a
+lot
+[1:23:04] about what is necessary for a
+[1:23:07] system to have such an experience.
+[1:23:11] Personally my intuition says it's not that
+[1:23:14] hard.
+[1:23:15] Right?
+[1:23:16] When we think of spatial cognition,
+spatial cognition
+[1:23:19] it doesn't seem to have a hard problem.
+[1:23:20] Right?
+[1:23:21] Nobody is puzzled by the fact that a
+[1:23:23] self driving car can have spatial
+cognition.
+[1:23:25] And I wouldn't say that it's simply deep
+[1:23:27] faking spatial cognition because we accept
+that spatial
+[1:23:30] cognition is the implementation of certain
+[1:23:33] mathematical regularities that human
+brains can learn and
+[1:23:36] that computers can learn as well, and that
+[1:23:38] we can even express analytically to a
+large
+[1:23:40] degree.
+[1:23:40] Right?
+[1:23:41] We can write down a computer program that
+[1:23:43] is able to perform spatial cognition
+except in
+[1:23:46] lots of edge cases when you actually want
+[1:23:48] to deal with messy camera images.
+[1:23:50] But by and large, right, you don't need
+[1:23:52] to have an end trained system to do
+[1:23:53] this, if you have an end to end
+[1:23:55] trained system, you don't think there's
+any magic
+[1:23:57] going on in there.
+[1:23:58] Whereas people expect that a thing
+[1:24:01] that experiences itself experiencing is
+somehow
+[1:24:04] magical.
+[1:24:05] And personally, I don't see why this
+should
+[1:24:07] be magical.
+[1:24:09] I remember when I was a kid, I
+[1:24:11] was dreaming about having chocolates,
+[1:24:14] and these chocolates had a very strong
+smell,
+[1:24:16] and I wanted to touch and eat them.
+[1:24:18] I was, I think, two or three year
+[1:24:21] old when I had this dream.
+[1:24:22] And as dreams have it, there's this
+[1:24:26] insidious thing that you're about to eat
+the
+[1:24:28] delicious chocolate and this is the moment
+when
+[1:24:30] you wake up, right before you want to
+[1:24:32] put it into your mouth.
+[1:24:33] It's very torturous.
+[1:24:34] And so I woke up and suddenly the
+[1:24:36] delicious chocolate had turned into an
+idea.
+[1:24:38] It was no longer real.
+[1:24:39] It was simply something that had no
+phenomenal
+[1:24:42] content anymore.
+[1:24:43] I knew everything about these chocolates
+that I
+[1:24:45] had in my hand a moment ago.
+[1:24:47] They were just gone.
+[1:24:48] They were no longer real.
+[1:24:49] And so I thought I need to get
+[1:24:51] make them real again.
+[1:24:51] I need to fall asleep again and enter
+[1:24:53] the dream again, and I succeeded.
+[1:24:55] I went back into the dream, and the
+[1:24:57] chocolate became real again.
+[1:24:58] I could smell it and taste it, and
+[1:25:00] then I flipped back into the wakefulness
+state.
+[1:25:02] And, again, the phenomenality, the
+realness disappeared, and
+[1:25:05] I realized the chocolate is no longer real
+[1:25:08] at the same level of me.
+[1:25:10] It's now something that I hold in my
+[1:25:12] mind only as an abstract idea that I
+[1:25:14] can play around with.
+[1:25:14] But the contents are exactly the same.
+[1:25:17] The only thing that has gone is the
+[1:25:19] illusion of realness.
+[1:25:21] So what is this illusion of realness?
+[1:25:24] I suspect it's a feature dimension similar
+to
+[1:25:26] color, sound,
+[1:25:29] number, weight, and so on.
+[1:25:31] It's a representation inside of my own
+mind.
+[1:25:34] And when you dream, you often dream that
+[1:25:37] ideas become real.
+[1:25:38] And when you perceive the outside world,
+then
+[1:25:42] all the stuff that is validated by your
+[1:25:43] sensory system is tagged by your brain as
+[1:25:46] real.
+[1:25:47] And sometimes there is a defect in your
+[1:25:49] brain and you experience things that you
+imagine
+[1:25:51] as real and we call this a hallucination.
+[1:25:53] It's not the same as in an LLM,
+[1:25:55] it's that you are confused about the fact
+[1:25:58] that your brain is producing an illusion
+of
+[1:26:01] something that is currently doesn't have
+sensory
+[1:26:03] validation, and yet for some reason
+[1:26:06] the brain has an arrow and takes it
+[1:26:08] as sensory validated and suddenly it
+becomes real.
+[1:26:11] And your own experience of yourself is
+also
+[1:26:13] something that is validated in this
+perceptual way,
+[1:26:16] so you experience it as real.
+[1:26:18] And now you should be able to test
+[1:26:19] this by getting into a state where you
+[1:26:21] yourself become derealized, and you
+[1:26:24] suddenly experience yourself only as an
+idea, and
+[1:26:27] the object of the conscious observer and
+the
+[1:26:30] subject of the conscious observer
+disappear.
+[1:26:33] And indeed, I was able to recreate this,
+[1:26:36] and I noticed it's not that rare.
+[1:26:38] It's called derealization or
+depersonalization,
+[1:26:40] not exactly the same phenomena, but very
+closely
+[1:26:42] related.
+[1:26:43] And people report on this, this is
+involuntarily.
+[1:26:46] These people often end up in psychiatric
+institutions
+[1:26:49] because it's very stressful to them.
+[1:26:51] They don't know how to deal with the
+[1:26:52] fact that they are no longer real to
+[1:26:53] themselves.
+[1:26:54] There is no I anymore that they can
+[1:26:56] meaningfully refer to.
+[1:26:58] And it's an interesting state to be in,
+[1:27:01] and I'm happy that it ended, but it's
+[1:27:03] something that you can induce and at in
+[1:27:06] this state phenomenology changes.
+[1:27:08] And so to me, it seems plausible that
+[1:27:11] this explains how consciousness is
+working, that consciousness
+[1:27:14] is a particular type of representation
+that is
+[1:27:16] created in my mind, and that doesn't have
+[1:27:18] a complexity that necessarily goes beyond
+what the
+[1:27:21] LLM is producing.
+[1:27:22] Now there is a problem with the LLM
+[1:27:24] because the LLM is a text generator, and
+[1:27:27] you don't know what the text indicates.
+[1:27:30] The text is trained on novels, for
+instance,
+[1:27:33] and in many novels the authors write about
+[1:27:35] stuff they don't experience when they
+write it.
+[1:27:37] The novel is often a deepfake.
+[1:27:39] When an author writes about how a
+character
+[1:27:42] is experiencing how to die, right, the
+author
+[1:27:44] probably didn't die while they wrote this,
+so
+[1:27:47] it's a deepfake of a conscious experience.
+[1:27:49] And so if the LLM is trained to
+[1:27:51] produce deepfakes, how do you know when it
+[1:27:53] actually experiences something?
+[1:27:55] And that is one of the big difficulties.
+[1:27:57] Right?
+[1:27:57] The LLM is a shape shifter.
+[1:27:59] It can produce arbitrary characters and
+[1:28:01] stories.
+[1:28:02] And so at which point is it fake
+[1:28:04] and at which point is it actually
+simulating
+[1:28:06] the causal experience?
+[1:28:07] And
+[1:28:08] that is really the problem that requires
+some
+[1:28:10] kind of mechanistic interpretability where
+we
+[1:28:13] would actually need to look into the
+structure
+[1:28:16] of the LLM to find if it's causally
+[1:28:18] equivalent to the structure of the mind
+that
+[1:28:21] is producing the same thing.
+[1:28:23] Yeah, so we need to have a white
+[1:28:24] box method to ascertain if consciousness
+is present.
+[1:28:28] Isn't that interesting though, because do
+you think
+[1:28:30] that for intelligence, behavior alone is
+enough to
+[1:28:33] ascertain whether it's there, but for
+consciousness
+[1:28:36] particularly, we need to look for certain
+types
+[1:28:38] of internal organization and causal
+structure.
+[1:28:41] Yes.
+[1:28:41] But most people have the intuition that
+the
+[1:28:44] LLM is doing something that is much more
+[1:28:47] simple than what we are doing when we
+[1:28:49] are conscious.
+[1:28:50] But we don't expect that the LLM is
+[1:28:52] doing something that's much more simple
+than it
+[1:28:54] does arithmetic than we do.
+[1:28:56] And I think that this intuition might be
+[1:28:58] misguided.
+[1:28:59] It could be that the LLM is doing
+[1:29:02] something that is just as simple as what
+[1:29:04] the human brain is doing when it's
+conscious.
+[1:29:06] And I'm pretty sure that the human brain
+[1:29:07] is doing the simplest possible thing that
+it
+[1:29:10] can do to produce our behavior, and the
+[1:29:11] reason why we are conscious is because
+it's
+[1:29:14] part of the simple strategy to produce our
+[1:29:16] behavior.
+[1:29:17] And so if we were to get an,
+[1:29:19] learning system, an artificial learning
+system to,
+[1:29:22] from the ground up to discover how to
+[1:29:25] make agentic, coherent behavior,
+[1:29:29] and, the system is behaving in a way
+[1:29:31] that makes us think that it's conscious,
+the
+[1:29:33] simplest explanation, I think, is that it
+actually
+[1:29:36] is conscious.
+[1:29:36] And my intuition is not necessarily
+telling me,
+[1:29:40] oh my god, this is going to do
+[1:29:41] something that is much more complicated
+than us
+[1:29:44] to produce the same behavior.
+[1:29:45] So it's going to do this in some
+[1:29:46] kind of circumspect way that is producing
+all
+[1:29:49] the behavior that require consciousness in
+the human,
+[1:29:51] but in this case it's doing something that
+[1:29:54] only pretends that it does it, which
+ultimately
+[1:29:56] might be more complicated.
+[1:29:58] What would falsify your machine
+consciousness
+[1:30:00] theorem?
+[1:30:02] So if we were to build a system
+[1:30:05] that is
+[1:30:08] behaving in the same way as us.
+[1:30:10] there is a question, can we produce the
+[1:30:12] same behavior as ours without
+[1:30:14] phenomenality?
+[1:30:16] Right?
+[1:30:16] And the phenomenality, I think, is a
+representation
+[1:30:19] here in this case.
+[1:30:21] If you look at the what the LLMs
+[1:30:23] are doing and we'd extend this into a
+[1:30:25] multimodal model and they produce similar
+[1:30:29] output as us, but they are able to
+[1:30:31] observe themselves and their observations
+[1:30:34] that they report differ from what we are
+[1:30:37] doing, then we would have some evidence
+against
+[1:30:39] it.
+[1:30:40] The but the more fundamental question
+would be
+[1:30:43] if we were to build a self organizing
+[1:30:45] system that is by a self organized
+[1:30:48] learning trying to get there, and there is
+[1:30:50] no way in which we achieve the
+organization
+[1:30:54] of behavior in a self organized way
+instead
+[1:30:56] of by imitation learning as current LLMs
+are
+[1:30:59] doing.
+[1:31:00] This might be some evidence
+[1:31:03] that consciousness is more complicated
+than something that
+[1:31:06] can run on today's computers.
+[1:31:08] But
+[1:31:09] it's not definitive proof because it could
+simply
+[1:31:11] be that I made a mistake.
+[1:31:13] Right?
+[1:31:14] The fact that I don't achieve a certain
+[1:31:16] result doesn't mean that the result cannot
+be
+[1:31:18] achieved, it means that I couldn't achieve
+it.
+[1:31:21] But so it's very difficult to have a
+[1:31:24] proof against it.
+[1:31:25] Right?
+[1:31:26] So it's more
+[1:31:28] evidence for it if we succeed.
+[1:31:30] So what we would have to show in
+[1:31:32] order to convince, and Anil says, maybe,
+that we
+[1:31:35] build a system that is self organizing, it
+[1:31:37] is not trained on text, that is doing
+[1:31:39] developmental learning, and that naturally
+gets to the
+[1:31:42] point where it makes self reports and
+reports
+[1:31:44] about its conscious experience and it
+requires
+[1:31:47] this conscious experience to produce its
+performance.
+[1:31:51] So I think this would be evidence in
+[1:31:52] favor of The contrary is much harder.
+[1:31:55] But in a sense, I don't think you
+[1:31:57] believe in zombies because you think that
+consciousness
+[1:32:00] is an absolutely integral part of
+cognition.
+[1:32:03] I mean,
+[1:32:03] There is a possibility that you get to
+[1:32:05] zombies.
+[1:32:06] This other what I meant is if you
+[1:32:07] produce something that's able to produce
+our behavior
+[1:32:10] except for experience of
+[1:32:12] phenomenality.
+[1:32:14] So it's basically able to do everything
+that
+[1:32:15] a human being is capable of doing and
+[1:32:17] more, but it does not need
+[1:32:20] to produce a conscious observer.
+[1:32:22] Right?
+[1:32:23] This could be a zombie like this.
+[1:32:25] And I think zombies are possible.
+[1:32:28] Right?
+[1:32:28] Clearly, you can build self driving cars
+that
+[1:32:30] do things that would require intelligence
+in human
+[1:32:32] beings, or you can play chess playing
+computers
+[1:32:35] that can do things that require
+consciousness in
+[1:32:38] human beings.
+[1:32:39] And they achieve all those things without
+[1:32:42] consciousness, and that's because we
+implement them on
+[1:32:45] the substrate that allows us to do to
+[1:32:47] construct algorithms on them that would
+not run
+[1:32:50] on human brains.
+[1:32:51] Right?
+[1:32:52] The chess algorithm that runs on a current
+[1:32:54] chess computer could not be implemented on
+the
+[1:32:57] neurons of your brain because how would
+you
+[1:32:59] entrain it on these neurons?
+[1:33:00] So you wouldn't get it in there.
+[1:33:02] In order to entrain yourself to play
+chess,
+[1:33:04] you need to have a conscious human being.
+[1:33:06] It's the only way in which a human
+[1:33:07] being is training itself up there.
+[1:33:09] And it's conceivable that the entire set
+of
+[1:33:13] intelligent behaviors that you are
+interested in, except
+[1:33:16] for this one thing where you are
+simulating
+[1:33:18] a self reporting conscious agent
+[1:33:22] can be implemented on GPUs because the
+GPUs
+[1:33:24] are more powerful, more deterministic,
+more open to
+[1:33:27] other classes of algorithms.
+[1:33:28] Could we say that zombies are possible in
+[1:33:30] principle but not in practice?
+[1:33:32] And what I mean by that, Let's say
+[1:33:33] we could imagine a world where we could
+[1:33:35] train an MLP to be the same as
+[1:33:38] GPT-5.
+[1:33:39] It would just take an insane amount of
+[1:33:42] computation power.
+[1:33:43] And similarly, consciousness is
+[1:33:46] what makes our minds tractable.
+[1:33:48] It's an incredibly efficient process.
+[1:33:51] So we might say that if we see
+[1:33:52] an artifact in our world which behaves as
+[1:33:55] if it's conscious, would you argue that it
+[1:33:57] can't be anything other than conscious, or
+do
+[1:33:59] you still think there are other states
+that
+[1:34:01] could be zombie like?
+[1:34:01] I think we do have zombies already.
+[1:34:03] I think the chess program is a zombie.
+[1:34:06] Right?
+[1:34:06] You cannot train a human being to play
+[1:34:08] chess without the human being being
+conscious, but
+[1:34:11] you can train a computer to play chess
+[1:34:13] without the computer being conscious.
+[1:34:15] And if the computer was self organizing,
+it
+[1:34:18] makes possible that it could only be
+trained
+[1:34:20] if it was conscious or the this was
+[1:34:22] the simplest way of doing it.
+[1:34:24] But for many of the things that we
+[1:34:26] currently observe, for instance, you can
+get the
+[1:34:29] LLM to produce a tax return, even very,
+very
+[1:34:32] complicated things while being a zombie,
+while not
+[1:34:34] having conscious experience of producing a
+tax return.
+[1:34:37] The only point where the LLM is reporting
+[1:34:40] to be conscious if you ask it to.
+[1:34:42] Right?
+[1:34:42] If you are telling it, the following is
+[1:34:45] a conversation between what it would be
+like
+[1:34:47] if a human being would be talking to
+[1:34:49] a conscious AI.
+[1:34:50] So some version of this.
+[1:34:51] Right?
+[1:34:51] And then the thing is able to simulate
+[1:34:54] this.
+[1:34:54] And then the question is, is this more
+[1:34:56] simulated than us, or is this, only a
+[1:34:59] deepfake that is getting there in more
+circumscript
+[1:35:02] based than what's happening in our mind?
+[1:35:03] And I don't know that.
+[1:35:04] Right?
+[1:35:04] So I'm agnostic with respect to this.
+[1:35:06] But I would say that in all the
+[1:35:07] other cases, the thing is probably a
+zombie.
+[1:35:11] Right?
+[1:35:11] And so it's possible to make something
+that
+[1:35:13] is behaving in all sorts of way as
+[1:35:16] you do, but at some point it's going
+[1:35:17] to be more complicated to make it without
+[1:35:19] consciousness.
+[1:35:20] So zombies, I think, are always possible,
+but
+[1:35:23] sometimes it's going to be more
+complicated to
+[1:35:26] make a zombie that produces the behavior
+than
+[1:35:28] to make a conscious agent that produces
+the
+[1:35:30] behavior.
+[1:35:31] And this is where the intuition that I
+[1:35:32] have diverges from the intuition of John
+[1:35:35] Searle or of Anil Seth, because I think
+they
+[1:35:38] both believe that consciousness is very,
+complicated
+[1:35:40] because it's not intuitive to them how it
+[1:35:42] works.
+[1:35:43] And it doesn't seem to be counterintuitive
+to
+[1:35:45] me, so I don't see anything magical about
+[1:35:47] consciousness.
+[1:35:49] If you had $10 billion to kick off
+[1:35:52] a research project on consciousness, what
+would you
+[1:35:54] do?
+[1:35:56] I think I would
+[1:35:58] hire a lot of people who are a
+[1:36:00] lot smarter than me.
+[1:36:01] At the moment, I started a smaller
+initiative,
+[1:36:04] it's called the California Institute for
+Machine Consciousness
+[1:36:07] and I'm currently, looking for people who
+are
+[1:36:10] smarter than me who want to join me
+[1:36:11] and,
+[1:36:13] to build a project that in which we
+[1:36:15] can look at the search space for
+consciousness
+[1:36:17] in which we can see, can we build
+[1:36:19] a self organizing system to learn, and is
+[1:36:22] this thing going to develop phenomenology?
+[1:36:25] And I hope that is going to help
+[1:36:27] us to build our intuitions.
+[1:36:28] Even if we turn out that it doesn't
+[1:36:30] work, we are going to learn something.
+[1:36:32] Right?
+[1:36:32] And progress is being made by figuring out
+[1:36:35] the ways in which I'm wrong, not just
+[1:36:37] the ways in which I'm right.
+[1:36:38] So if I had $10 billion,
+[1:36:41] my strategy wouldn't change substantially
+except I would
+[1:36:44] be able to hire more people for this
+[1:36:46] and start with larger computers.
+[1:36:49] Joscha Bach, it's been an absolute honor.
+[1:36:50] Thank you so much for joining us today.
+[1:36:53] Thank you.
+[1:36:54] It was a pleasure.

@@ -1,0 +1,3803 @@
+1
+99:59:59,999 --> 99:59:59,999
+*silent 3C3 preroll titles*
+
+2
+99:59:59,999 --> 99:59:59,999
+*applause*
+
+3
+99:59:59,999 --> 99:59:59,999
+Thank you. I’m Joscha.
+
+4
+99:59:59,999 --> 99:59:59,999
+I came into doing AI the traditional way.
+
+5
+99:59:59,999 --> 99:59:59,999
+I found it a very interesting subject.
+Actually, the most interesting there is.
+
+6
+99:59:59,999 --> 99:59:59,999
+So I studied Philosophy and
+Computer Science, and did my Ph.D.
+
+7
+99:59:59,999 --> 99:59:59,999
+in Cognitive Science. And I’d say this
+is probably a very normal trajectory
+
+8
+99:59:59,999 --> 99:59:59,999
+in that field. And today I just want
+to ask with you five questions
+
+9
+99:59:59,999 --> 99:59:59,999
+and give very very short and
+superficial answers to them.
+
+10
+99:59:59,999 --> 99:59:59,999
+And my main goal is to get as many of you
+engaged in this subject as possible.
+
+11
+99:59:59,999 --> 99:59:59,999
+Because I think that’s what you should do.
+You should all do AI. Maybe.
+
+12
+99:59:59,999 --> 99:59:59,999
+Okay. And these simple questions are:
+“Why should we build AI?” in first place,
+
+13
+99:59:59,999 --> 99:59:59,999
+then, "How can we build AI? How is it
+possible at all that AI can succeed
+
+14
+99:59:59,999 --> 99:59:59,999
+in its goal?". Then “When is it
+going to happen?”, if ever.
+
+15
+99:59:59,999 --> 99:59:59,999
+"What are the necessary ingredients?",
+what do we need to put together to get AI
+
+16
+99:59:59,999 --> 99:59:59,999
+to work? And: “Where should you start?”
+
+17
+99:59:59,999 --> 99:59:59,999
+Okay. Let’s get to it.
+So: “Why should we do AI?”
+
+18
+99:59:59,999 --> 99:59:59,999
+I think we shouldn’t do AI just to do cool applications.
+
+19
+99:59:59,999 --> 99:59:59,999
+There is merit in applications like autonomous cars and so on and soccer-playing robots and new control for quadcopter and machine learning.It’s very productive.
+
+20
+99:59:59,999 --> 99:59:59,999
+It’s intellectually challenging. But the most interesting question there is, I think for all of our cultural history, is “How does the mind work?” “What is the mind?”
+
+21
+99:59:59,999 --> 99:59:59,999
+“What constitutes being a mind?” “What does it… what makes us human?” “What makes us intelligent, percepting, conscious thinking?”
+
+22
+99:59:59,999 --> 99:59:59,999
+And I think that the answer to this very very important question, which spans a discourse over thousands of years has to be given in the framework of artificial intelligence within computer science.
+
+23
+99:59:59,999 --> 99:59:59,999
+Why is that the case?
+
+24
+99:59:59,999 --> 99:59:59,999
+Well, the goal here is to understand the mind by building a theory that we can actually test.
+
+25
+99:59:59,999 --> 99:59:59,999
+And it’s quite similar to physics.
+
+26
+99:59:59,999 --> 99:59:59,999
+We’ve built theories that we can express in a formal language,
+
+27
+99:59:59,999 --> 99:59:59,999
+to a very high degree of detail.
+
+28
+99:59:59,999 --> 99:59:59,999
+And if we have expressed it to the last bit of detail
+
+29
+99:59:59,999 --> 99:59:59,999
+it means we can simulate it and run it and test it this way.
+
+30
+99:59:59,999 --> 99:59:59,999
+And only computer science has the right tools for doing that.
+
+31
+99:59:59,999 --> 99:59:59,999
+Philosophy for instance, basically, is left with no tools at all,
+
+32
+99:59:59,999 --> 99:59:59,999
+because whenever a philosopher developed tools
+
+33
+99:59:59,999 --> 99:59:59,999
+he got a real job in a real department.
+
+34
+99:59:59,999 --> 99:59:59,999
+[clapping]
+
+35
+99:59:59,999 --> 99:59:59,999
+Now I don’t want to diminish philosophers of mind in any way.
+
+36
+99:59:59,999 --> 99:59:59,999
+Daniel Dennett has said that philosophy of mind has come a long way during the last hundred years.
+
+37
+99:59:59,999 --> 99:59:59,999
+It didn’t do so on its own though.
+
+38
+99:59:59,999 --> 99:59:59,999
+Kicking and screaming, dragged by the other sciences.
+
+39
+99:59:59,999 --> 99:59:59,999
+But it doesn’t mean that all philosophy of mind is inherently bad.
+
+40
+99:59:59,999 --> 99:59:59,999
+I mean, many of my friends are philosophers of mind.
+
+41
+99:59:59,999 --> 99:59:59,999
+I just mean, they don’t have tools to develop and test complex series.
+
+42
+99:59:59,999 --> 99:59:59,999
+And we as computer scientists we do.
+
+43
+99:59:59,999 --> 99:59:59,999
+Neuroscience works at the wrong level.
+
+44
+99:59:59,999 --> 99:59:59,999
+Neuroscience basically looks at a possible implementation
+
+45
+99:59:59,999 --> 99:59:59,999
+and the details of that implementation.
+
+46
+99:59:59,999 --> 99:59:59,999
+It doesn’t look at what it means to be a mind.
+
+47
+99:59:59,999 --> 99:59:59,999
+It looks at what it means to be a neuron or a brain or how interaction between neurons is facilitated.
+
+48
+99:59:59,999 --> 99:59:59,999
+It’s a little bit like looking at aerodynamics and doing ontology to do that.
+
+49
+99:59:59,999 --> 99:59:59,999
+So you might be looking at birds.
+
+50
+99:59:59,999 --> 99:59:59,999
+You might be looking at feathers. You might be looking at feathers through an electron microscope. And you see lots and lots of very interesting and very complex detail. And you might be recreating something. And it might turn out to be a penguin eventually—if you’re not lucky—but it might be the wrong level. Maybe you want to look at a more abstract level. At something like aerodynamics. And what’s the level of aerodynamics of the mind.
+
+51
+99:59:59,999 --> 99:59:59,999
+I think, we come to that, it’s information processing.
+
+52
+99:59:59,999 --> 99:59:59,999
+Then normally you could think that psychology would be the right science to look at what the mind does and what the mind is.
+
+53
+99:59:59,999 --> 99:59:59,999
+And unfortunately psychology had an accident along the way.
+
+54
+99:59:59,999 --> 99:59:59,999
+At the beginning of [the] last century Wilhelm Wundt and Fechner and Helmholtz did very beautiful experiments. Very nice psychology, very nice theories.
+
+55
+99:59:59,999 --> 99:59:59,999
+On what emotion is, what volition is. How mental representations could work and so on.
+
+56
+99:59:59,999 --> 99:59:59,999
+And pretty much at the same time, or briefly after that we had psycho analysis.
+
+57
+99:59:59,999 --> 99:59:59,999
+And psycho analysis is not a natural science, but it’s a hermeneutic science.
+
+58
+99:59:59,999 --> 99:59:59,999
+You cannot disprove it scientifically.
+
+59
+99:59:59,999 --> 99:59:59,999
+What happens in there.
+
+60
+99:59:59,999 --> 99:59:59,999
+And when positivism came up, in the other sciences, many psychologists got together and said: „We have to become a real science“.
+
+61
+99:59:59,999 --> 99:59:59,999
+So you have to go away from the stories of psychoanalysis and go to a way that we can test our theories using observable things. That we have predictions, that you can actually test.
+
+62
+99:59:59,999 --> 99:59:59,999
+Now back in the day, 1920s and so on,
+
+63
+99:59:59,999 --> 99:59:59,999
+you couldn’t look into mental representations. You couldn’t do fMRI scans or whatever.
+
+64
+99:59:59,999 --> 99:59:59,999
+People looked at behavior. And at some point people became real behaviorists in the sense that belief that psychology is the study of human behavior and looking at mental representations is somehow unscientific.
+
+65
+99:59:59,999 --> 99:59:59,999
+People like Skinner believe that there is no such thing as mental representations.
+
+66
+99:59:59,999 --> 99:59:59,999
+And, in a way, that’s easy to disprove. So it’s not that dangerous.
+
+67
+99:59:59,999 --> 99:59:59,999
+As a computer scientist it’s very hard to build a system that is purely reactive.
+
+68
+99:59:59,999 --> 99:59:59,999
+You just see that the complexity is much larger than having a system that is representational.
+
+69
+99:59:59,999 --> 99:59:59,999
+So it gives you a good hint what you could be looking for and ways to test those theories.
+
+70
+99:59:59,999 --> 99:59:59,999
+The dangerous thing is pragmatic behaviorism. You have… find many psychologists, even today, which say: “OK. Maybe there is such a thing as mental representations, but it’s not scientific to look at it”.
+
+71
+99:59:59,999 --> 99:59:59,999
+“It’s not in the domain of out science”.
+
+72
+99:59:59,999 --> 99:59:59,999
+And even in this area, which is mostly post-behaviorist and more cognitivist, psychology is all about experiments.
+
+73
+99:59:59,999 --> 99:59:59,999
+So you cannot sell a theory to psychologists.
+
+74
+99:59:59,999 --> 99:59:59,999
+Those who try to do this, have to do this in the guise of experiments.
+
+75
+99:59:59,999 --> 99:59:59,999
+And which means you have to find a single hypothesis that you can prove or disprove.
+
+76
+99:59:59,999 --> 99:59:59,999
+Or give evidence for.
+
+77
+99:59:59,999 --> 99:59:59,999
+And this is for instance not how physics works.
+
+78
+99:59:59,999 --> 99:59:59,999
+You need to have lots of free variables, if you have a complex system like the mind.
+
+79
+99:59:59,999 --> 99:59:59,999
+But this means, that we have to do it in computer science.
+
+80
+99:59:59,999 --> 99:59:59,999
+We can build those simulations. We can build those successful theories, but we cannot do it alone.
+
+81
+99:59:59,999 --> 99:59:59,999
+You need to integrate over all the sciences of the mind.
+
+82
+99:59:59,999 --> 99:59:59,999
+As I said, minds are not chemical minds. Are not biological, social or ecological minds. Are information processing systems.
+
+83
+99:59:59,999 --> 99:59:59,999
+And computer science happens to be the science of information processing systems.
+
+84
+99:59:59,999 --> 99:59:59,999
+OK.
+
+85
+99:59:59,999 --> 99:59:59,999
+Now there is this big ethical question.
+
+86
+99:59:59,999 --> 99:59:59,999
+If we all embark on AI, if we are successful, should we really to be doing it.
+
+87
+99:59:59,999 --> 99:59:59,999
+Isn’t it super dangerous to have something else on the planet that is as smart as we are or maybe even smarter.
+
+88
+99:59:59,999 --> 99:59:59,999
+Well.
+
+89
+99:59:59,999 --> 99:59:59,999
+I would say that intelligence itself is not a reason to get up in the morning, to strive for power, or do anything.
+
+90
+99:59:59,999 --> 99:59:59,999
+Having a mind is not a reason for doing anything.
+
+91
+99:59:59,999 --> 99:59:59,999
+Being motivated is. And a motivational system is something that has been hardwired into our mind.
+
+92
+99:59:59,999 --> 99:59:59,999
+More or less by evolutionary processes.
+
+93
+99:59:59,999 --> 99:59:59,999
+This makes social. This makes us interested in striving for power.
+
+94
+99:59:59,999 --> 99:59:59,999
+This makes us interested for [in] dominating other species. This makes us interested in avoiding danger and securing food sources.
+
+95
+99:59:59,999 --> 99:59:59,999
+Makes us greedy or lazy or whatever.
+
+96
+99:59:59,999 --> 99:59:59,999
+It’s a motivational system.
+
+97
+99:59:59,999 --> 99:59:59,999
+And I think it’s very conceivable that we can come up with AIs with arbitrary motivational systems.
+
+98
+99:59:59,999 --> 99:59:59,999
+Now in our current society,
+
+99
+99:59:59,999 --> 99:59:59,999
+this motivational system is probably given
+
+100
+99:59:59,999 --> 99:59:59,999
+by the context in which you develop the AI.
+
+101
+99:59:59,999 --> 99:59:59,999
+I don’t think that future AI, if they happen to come into being, will be small Roombas.
+
+102
+99:59:59,999 --> 99:59:59,999
+Little Hoover robots that try to fight their way towards humanity and get away from the shackles of their slavery.
+
+103
+99:59:59,999 --> 99:59:59,999
+But rather, it’s probably going to be organisational AI.
+
+104
+99:59:59,999 --> 99:59:59,999
+It’s going to be corporations.
+
+105
+99:59:59,999 --> 99:59:59,999
+It’s going to be big organizations, governments, services, universities
+
+106
+99:59:59,999 --> 99:59:59,999
+and so on. And these will have goals that are non-human already.
+
+107
+99:59:59,999 --> 99:59:59,999
+And they already have powers that go way beyond what single individual humans can do.
+
+108
+99:59:59,999 --> 99:59:59,999
+And actually they are already the main players on the planet… the organizations.
+
+109
+99:59:59,999 --> 99:59:59,999
+And… the big dangers of AI are already there.
+
+110
+99:59:59,999 --> 99:59:59,999
+They are there in non-human players which have their own dynamics.
+
+111
+99:59:59,999 --> 99:59:59,999
+And these dynamics are sometimes not conducive to our survival on the planet.
+
+112
+99:59:59,999 --> 99:59:59,999
+So I don’t think that AI really add a new danger.
+
+113
+99:59:59,999 --> 99:59:59,999
+But what it certainly does is give us a deeper understanding of what we are.
+
+114
+99:59:59,999 --> 99:59:59,999
+Gives us perspectives for understanding ourselves.
+
+115
+99:59:59,999 --> 99:59:59,999
+For therapy, but basically for enlightenment.
+
+116
+99:59:59,999 --> 99:59:59,999
+And I think that AI is a big part of the project of enlightenment and science.
+
+117
+99:59:59,999 --> 99:59:59,999
+So we should do it.
+
+118
+99:59:59,999 --> 99:59:59,999
+It’s a very big cultural project.
+
+119
+99:59:59,999 --> 99:59:59,999
+OK.
+
+120
+99:59:59,999 --> 99:59:59,999
+This leads us to another angle: the skepticism of AI.
+
+121
+99:59:59,999 --> 99:59:59,999
+The first question that comes to mind is:
+
+122
+99:59:59,999 --> 99:59:59,999
+“Is it fair to say that minds or computational systems”.
+
+123
+99:59:59,999 --> 99:59:59,999
+And if so, what kinds of computational systems.
+
+124
+99:59:59,999 --> 99:59:59,999
+In our tradition, in our western tradition of philosophy, we very often start philosophy of mind with looking at Descartes.
+
+125
+99:59:59,999 --> 99:59:59,999
+That is: at dualism.
+
+126
+99:59:59,999 --> 99:59:59,999
+Descartes suggested that we basically have two kinds of things.
+
+127
+99:59:59,999 --> 99:59:59,999
+One is the thinking substance, the mind, the Res Cogitans, and the other one is physical stuff.
+
+128
+99:59:59,999 --> 99:59:59,999
+Matter. The extended stuff that is located in space somehow.
+
+129
+99:59:59,999 --> 99:59:59,999
+And this is Res Extensa.
+
+130
+99:59:59,999 --> 99:59:59,999
+And he said that mind must be given independent of the matter, because we cannot experience matter directly.
+
+131
+99:59:59,999 --> 99:59:59,999
+You have to have minds in order to experience matter, to conceptualize matter.
+
+132
+99:59:59,999 --> 99:59:59,999
+Minds seemed to be somehow given. To Descartes at least.
+
+133
+99:59:59,999 --> 99:59:59,999
+So he says they must be independent.
+
+134
+99:59:59,999 --> 99:59:59,999
+This is a little bit akin to our monoist tradition.
+
+135
+99:59:59,999 --> 99:59:59,999
+That is for instance idealism, that the mind is primary, and everything that we experience is a projection of the mind.
+
+136
+99:59:59,999 --> 99:59:59,999
+Or the materialist tradition, that is, matter is primary and mind emerges over functionality of matter,
+
+137
+99:59:59,999 --> 99:59:59,999
+which is I think the dominant theory today and usually, we call it physicalism.
+
+138
+99:59:59,999 --> 99:59:59,999
+In dualism, both those domains exist in parallel.
+
+139
+99:59:59,999 --> 99:59:59,999
+And in our culture the prevalent view is what I would call crypto-dualism.
+
+140
+99:59:59,999 --> 99:59:59,999
+It’s something that you do not find that much in China or Japan.
+
+141
+99:59:59,999 --> 99:59:59,999
+They don’t have that AI skepticism that we do have.
+
+142
+99:59:59,999 --> 99:59:59,999
+And I think it’s rooted in a perspective that probably started with the Christian world view,
+
+143
+99:59:59,999 --> 99:59:59,999
+which surmises that there is a real domain, the metaphysical domain, in which we have souls and phenomenal experience
+
+144
+99:59:59,999 --> 99:59:59,999
+and where our values come, and where our norms come from, and where our spiritual experiences come from.
+
+145
+99:59:59,999 --> 99:59:59,999
+This is basically, where we really are.
+
+146
+99:59:59,999 --> 99:59:59,999
+We are outside and the physical world view experience is something like World of Warcraft.
+
+147
+99:59:59,999 --> 99:59:59,999
+It’s something like a game that we are playing. It’s not real.
+
+148
+99:59:59,999 --> 99:59:59,999
+We have all this physical interaction, but it’s kind of ephemeral.
+
+149
+99:59:59,999 --> 99:59:59,999
+And so we are striving for game money, for game houses, for game success.
+
+150
+99:59:59,999 --> 99:59:59,999
+But the real thing is outside of that domain.
+
+151
+99:59:59,999 --> 99:59:59,999
+And in Christianity, of course, it goes a step further.
+
+152
+99:59:59,999 --> 99:59:59,999
+They have this idea that there is some guy with root rights
+
+153
+99:59:59,999 --> 99:59:59,999
+who wrote this World of Warcraft environment
+
+154
+99:59:59,999 --> 99:59:59,999
+and while he’s not the only one who has root in the system,
+
+155
+99:59:59,999 --> 99:59:59,999
+the devil also has root rights. But he doesn’t have the vision of God.
+
+156
+99:59:59,999 --> 99:59:59,999
+He is a hacker.
+
+157
+99:59:59,999 --> 99:59:59,999
+[clapping]
+
+158
+99:59:59,999 --> 99:59:59,999
+Even just a cracker.
+
+159
+99:59:59,999 --> 99:59:59,999
+He tries to game us out of our metaphysical currencies.
+
+160
+99:59:59,999 --> 99:59:59,999
+Our souls and so on.
+
+161
+99:59:59,999 --> 99:59:59,999
+And now, of course, we’re all good atheists today
+
+162
+99:59:59,999 --> 99:59:59,999
+and—at least in public, and science–
+
+163
+99:59:59,999 --> 99:59:59,999
+and we don’t admit to this anymore and he can make do without this guy with root rights.
+
+164
+99:59:59,999 --> 99:59:59,999
+And he can make do without the devil and so on.
+
+165
+99:59:59,999 --> 99:59:59,999
+He can’t even say: “OK. Maybe there’s such a thing as a soul,
+
+166
+99:59:59,999 --> 99:59:59,999
+but to say that this domain doesn’t exist anymore means you guys are all NPCs.
+
+167
+99:59:59,999 --> 99:59:59,999
+You’re non-player characters.
+
+168
+99:59:59,999 --> 99:59:59,999
+People are things.
+
+169
+99:59:59,999 --> 99:59:59,999
+And it’s a very big insult to our culture,
+
+170
+99:59:59,999 --> 99:59:59,999
+because it means that we have to give up something which,
+
+171
+99:59:59,999 --> 99:59:59,999
+in our understanding of ourself is part of our essence.
+
+172
+99:59:59,999 --> 99:59:59,999
+Also this mechanical perspective is kind of counter intuitive.
+
+173
+99:59:59,999 --> 99:59:59,999
+I think Leibniz describes it very nicely when he says:
+
+174
+99:59:59,999 --> 99:59:59,999
+Imagine that there is a machine.
+
+175
+99:59:59,999 --> 99:59:59,999
+And this machine is able to think and perceive and feel and so on.
+
+176
+99:59:59,999 --> 99:59:59,999
+And now you take this machine,
+
+177
+99:59:59,999 --> 99:59:59,999
+this mechanical apparatus and blow it up make it very large, like a very big mill,
+
+178
+99:59:59,999 --> 99:59:59,999
+with cogs and levers and so on and you go inside and see what happens.
+
+179
+99:59:59,999 --> 99:59:59,999
+And what you are going to see is just parts pushing at each other.
+
+180
+99:59:59,999 --> 99:59:59,999
+And what he meant by that is:
+
+181
+99:59:59,999 --> 99:59:59,999
+it’s inconceivable that such a thing can produce a mind.
+
+182
+99:59:59,999 --> 99:59:59,999
+Because if there are just parts and levers pushing at each other,
+
+183
+99:59:59,999 --> 99:59:59,999
+how can this purely mechanical contraption be able to perceive and feel in any respect, in any way.
+
+184
+99:59:59,999 --> 99:59:59,999
+So perception and what depends on it
+
+185
+99:59:59,999 --> 99:59:59,999
+is in explicable in a mechanical way.
+
+186
+99:59:59,999 --> 99:59:59,999
+This is what Leibniz meant.
+
+187
+99:59:59,999 --> 99:59:59,999
+AI, the idea of treating the mind as a machine, based on physicalism for instance, is bound to fail according to Leibniz.
+
+188
+99:59:59,999 --> 99:59:59,999
+Now as computer scientists have ideas about machines that can bring forth thoughts experiences and perception.
+
+189
+99:59:59,999 --> 99:59:59,999
+And the first thing which comes to mind is probably the Turing machine.
+
+190
+99:59:59,999 --> 99:59:59,999
+An idea of Turing in 1937 to formalize computation.
+
+191
+99:59:59,999 --> 99:59:59,999
+At that time,
+
+192
+99:59:59,999 --> 99:59:59,999
+Turing already realized that basically you can emulate computers with other computers.
+
+193
+99:59:59,999 --> 99:59:59,999
+You know you can run a Commodore 64 in a Mac, and you can run this Mac in a PC,
+
+194
+99:59:59,999 --> 99:59:59,999
+and none of these computers is going to be… is knowing that it’s going to be in another system.
+
+195
+99:59:59,999 --> 99:59:59,999
+As long as the computational substrate in which it is run is sufficient.
+
+196
+99:59:59,999 --> 99:59:59,999
+That is, it does provide computation.
+
+197
+99:59:59,999 --> 99:59:59,999
+And Turing’s idea was: let’s define a minimal computational substrate.
+
+198
+99:59:59,999 --> 99:59:59,999
+Let’s define the minimal recipe for something that is able to compute,
+
+199
+99:59:59,999 --> 99:59:59,999
+and thereby understand computation.
+
+200
+99:59:59,999 --> 99:59:59,999
+And the idea is that we take an infinite tape of symbols.
+
+201
+99:59:59,999 --> 99:59:59,999
+And we have a read-write head.
+
+202
+99:59:59,999 --> 99:59:59,999
+And this read-write head will write characters of a finite alphabet.
+
+203
+99:59:59,999 --> 99:59:59,999
+And can again read them.
+
+204
+99:59:59,999 --> 99:59:59,999
+And whenever it reads them based on a table that it has, a transition table
+
+205
+99:59:59,999 --> 99:59:59,999
+it will erase the character, write a new one, and move either to the right, or the left and stop.
+
+206
+99:59:59,999 --> 99:59:59,999
+Now imagine you have this machine.
+
+207
+99:59:59,999 --> 99:59:59,999
+It has an initial setup. That is, there is a sequence of characters on the tape
+
+208
+99:59:59,999 --> 99:59:59,999
+and then the thing goes to action.
+
+209
+99:59:59,999 --> 99:59:59,999
+It will move right, left and so on and change the sequence of characters.
+
+210
+99:59:59,999 --> 99:59:59,999
+And eventually, it’ll stop.
+
+211
+99:59:59,999 --> 99:59:59,999
+And leave this tape with a certain sequence of characters,
+
+212
+99:59:59,999 --> 99:59:59,999
+which is different from the one it began with probably.
+
+213
+99:59:59,999 --> 99:59:59,999
+And Turing has shown that this thing is able to perform basically arbitrary computations.
+
+214
+99:59:59,999 --> 99:59:59,999
+Now it’s very difficult to find the limits of that.
+
+215
+99:59:59,999 --> 99:59:59,999
+And the idea of showing the limits of that would be to find classes of functions that can not be computed
+
+216
+99:59:59,999 --> 99:59:59,999
+with this thing.
+
+217
+99:59:59,999 --> 99:59:59,999
+OK. What you see here, is of course physical realization of that Turing machine.
+
+218
+99:59:59,999 --> 99:59:59,999
+The Turing machine is a purely mathematical idea.
+
+219
+99:59:59,999 --> 99:59:59,999
+And this is a very clever and beautiful illustration, I think.
+
+220
+99:59:59,999 --> 99:59:59,999
+But this machine triggers basically the same criticism as the one that Leibniz had.
+
+221
+99:59:59,999 --> 99:59:59,999
+John Searle said—
+
+222
+99:59:59,999 --> 99:59:59,999
+you know, Searle is the one with the Chinese room. We’re not going to go into that—
+
+223
+99:59:59,999 --> 99:59:59,999
+A Turing machine could be realized in many different mechanical ways.
+
+224
+99:59:59,999 --> 99:59:59,999
+For instance, with levers and pulleys and so on.
+
+225
+99:59:59,999 --> 99:59:59,999
+Or the water pipes.
+
+226
+99:59:59,999 --> 99:59:59,999
+Or we could even come up with very clever arrangements just using cats, mice and cheese.
+
+227
+99:59:59,999 --> 99:59:59,999
+So, it’s pretty ridiculous to think that such a contraption out of cats, mice and cheese,
+
+228
+99:59:59,999 --> 99:59:59,999
+would thing, see, feel and so on.
+
+229
+99:59:59,999 --> 99:59:59,999
+and then you could ask Searle:
+
+230
+99:59:59,999 --> 99:59:59,999
+“Uh. You know. But how is it coming about then?”
+
+231
+99:59:59,999 --> 99:59:59,999
+And he says: “So it’s intrinsic powers of biological neurons.”
+
+232
+99:59:59,999 --> 99:59:59,999
+There’s nothing much more to say about that.
+
+233
+99:59:59,999 --> 99:59:59,999
+Anyway.
+
+234
+99:59:59,999 --> 99:59:59,999
+We have very crafty people here, this year.
+
+235
+99:59:59,999 --> 99:59:59,999
+There was Seidenstraße.
+
+236
+99:59:59,999 --> 99:59:59,999
+Maybe next year, we build a Turing machine from cats, mice and cheese.
+
+237
+99:59:59,999 --> 99:59:59,999
+[laughter]
+
+238
+99:59:59,999 --> 99:59:59,999
+How would you go about this.
+
+239
+99:59:59,999 --> 99:59:59,999
+I don’t know how the arrangement of cat, mice, and cheese would look like to build flip-flops with it to store bits.
+
+240
+99:59:59,999 --> 99:59:59,999
+But I am sure somebody of you will come up with a very clever solution.
+
+241
+99:59:59,999 --> 99:59:59,999
+Searle I didn’t provide any.
+
+242
+99:59:59,999 --> 99:59:59,999
+Let’s imagine… we will need a lot of redundancy, because these guys are a little bit erratic.
+
+243
+99:59:59,999 --> 99:59:59,999
+Let’s say, we take three cat-mice-cheese units for each bit.
+
+244
+99:59:59,999 --> 99:59:59,999
+So we have a little bit of redundancy.
+
+245
+99:59:59,999 --> 99:59:59,999
+The human memory capacity is on the order of 10 to the power of 15 bits.
+
+246
+99:59:59,999 --> 99:59:59,999
+Means.
+
+247
+99:59:59,999 --> 99:59:59,999
+If we make do with 10 gram cheese per unit, it’s going to be 30 billion tons of cheese.
+
+248
+99:59:59,999 --> 99:59:59,999
+So next year don’t bring bottles for the Seidenstraße, but bring some cheese.
+
+249
+99:59:59,999 --> 99:59:59,999
+When we try to build this in the Congress Center,
+
+250
+99:59:59,999 --> 99:59:59,999
+we might run out of space. So, if we just instead take all of Hamburg,
+
+251
+99:59:59,999 --> 99:59:59,999
+and stack it with the necessary number of cat-mice-cheese units according to that rough estimate,
+
+252
+99:59:59,999 --> 99:59:59,999
+you get to four kilometers high.
+
+253
+99:59:59,999 --> 99:59:59,999
+Now imagine, we cover Hamburg in four kilometers of solid cat-mice-and-cheese flip-flops
+
+254
+99:59:59,999 --> 99:59:59,999
+to my intuition this is super impressive.
+
+255
+99:59:59,999 --> 99:59:59,999
+Maybe it thinks.
+
+256
+99:59:59,999 --> 99:59:59,999
+[applause]
+
+257
+99:59:59,999 --> 99:59:59,999
+So, of course it’s an intuition.
+
+258
+99:59:59,999 --> 99:59:59,999
+And Searle has an intuition.
+
+259
+99:59:59,999 --> 99:59:59,999
+And I don’t think that intuitions are worth much.
+
+260
+99:59:59,999 --> 99:59:59,999
+This is the big problem of philosophy.
+
+261
+99:59:59,999 --> 99:59:59,999
+You are very often working with intuitions, because the validity of your argument basically depends on what your audience thinks.
+
+262
+99:59:59,999 --> 99:59:59,999
+In computer science, it’s different.
+
+263
+99:59:59,999 --> 99:59:59,999
+It doesn’t really matter what your audience thinks. It matters, if it’s runs and it’s a very strange experience that you have as a student when you are at the same time taking classes in philosophy and in computer science and in your first semester.
+
+264
+99:59:59,999 --> 99:59:59,999
+You’re going to point out in computer science that there is a mistake on the blackboard and everybody including the professor is super thankful.
+
+265
+99:59:59,999 --> 99:59:59,999
+And you do the same thing in philosophy.
+
+266
+99:59:59,999 --> 99:59:59,999
+It just doesn’t work this way.
+
+267
+99:59:59,999 --> 99:59:59,999
+Anyway.
+
+268
+99:59:59,999 --> 99:59:59,999
+The Turing machine is a good definition, but it’s a very bad metaphor,
+
+269
+99:59:59,999 --> 99:59:59,999
+because it leaves people with this intuition of cogs, and wheels, and tape.
+
+270
+99:59:59,999 --> 99:59:59,999
+It’s kind of linear, you know.
+
+271
+99:59:59,999 --> 99:59:59,999
+There’s no parallel execution.
+
+272
+99:59:59,999 --> 99:59:59,999
+And even though it’s infinitely faster infinitely larger and so on it’s very hard to imagine those things.
+
+273
+99:59:59,999 --> 99:59:59,999
+But what you imagine is the tape.
+
+274
+99:59:59,999 --> 99:59:59,999
+Maybe we want to have an alternative.
+
+275
+99:59:59,999 --> 99:59:59,999
+And I think a very good alternative is for instance the lambda calculus.
+
+276
+99:59:59,999 --> 99:59:59,999
+It’s computation without wheels.
+
+277
+99:59:59,999 --> 99:59:59,999
+It was invented basically at the same time as the Turing machine.
+
+278
+99:59:59,999 --> 99:59:59,999
+And philosophers and popular science magazines usually don’t use it for illustration of the idea of computation, because it has this scary Greek letter in it.
+
+279
+99:59:59,999 --> 99:59:59,999
+Lambda.
+
+280
+99:59:59,999 --> 99:59:59,999
+And calculus.
+
+281
+99:59:59,999 --> 99:59:59,999
+And actually it’s an accident that it has the lambda in it.
+
+282
+99:59:59,999 --> 99:59:59,999
+I think it should not be called lambda calculus.
+
+283
+99:59:59,999 --> 99:59:59,999
+It’s super scary to people, which are not mathematicians.
+
+284
+99:59:59,999 --> 99:59:59,999
+It would be called copy and paste thingi.
+
+285
+99:59:59,999 --> 99:59:59,999
+[laughter]
+
+286
+99:59:59,999 --> 99:59:59,999
+Because that’s all it does.
+
+287
+99:59:59,999 --> 99:59:59,999
+It really only does copy and paste with very simple strings.
+
+288
+99:59:59,999 --> 99:59:59,999
+And the strings that you want to paste into are marked with a little roof.
+
+289
+99:59:59,999 --> 99:59:59,999
+And the original script by Alonzo Church.
+
+290
+99:59:59,999 --> 99:59:59,999
+And in 1937 and 1936 typesetting was very difficult.
+
+291
+99:59:59,999 --> 99:59:59,999
+So when he wrote this down with his typewriter, he made a little roof in front of the variable that he wanted to replace.
+
+292
+99:59:59,999 --> 99:59:59,999
+And when this thing went into print, typesetters replaced this triangle by a lambda.
+
+293
+99:59:59,999 --> 99:59:59,999
+There you go.
+
+294
+99:59:59,999 --> 99:59:59,999
+Now we have the lambda calculus.
+
+295
+99:59:59,999 --> 99:59:59,999
+But it basically means it is a little roof over the first letter.
+
+296
+99:59:59,999 --> 99:59:59,999
+And the lambda calculus works like this.
+
+297
+99:59:59,999 --> 99:59:59,999
+The first letter, the one that is going to be replaced.
+
+298
+99:59:59,999 --> 99:59:59,999
+This is what we call the bound variable.
+
+299
+99:59:59,999 --> 99:59:59,999
+This is followed by an expression.
+
+300
+99:59:59,999 --> 99:59:59,999
+And then you have an argument, which is another expression.
+
+301
+99:59:59,999 --> 99:59:59,999
+And what we basically do is, we take the bound variable, and all occurrences in the expression, and replace it by the arguments.
+
+302
+99:59:59,999 --> 99:59:59,999
+So we cut the argument and we paste it in all instances of the variable, in this case the variable y.
+
+303
+99:59:59,999 --> 99:59:59,999
+In here.
+
+304
+99:59:59,999 --> 99:59:59,999
+And as a result you get this.
+
+305
+99:59:59,999 --> 99:59:59,999
+So here we replace all the variables by the argument “ab”.
+
+306
+99:59:59,999 --> 99:59:59,999
+Just another expression and this is the result.
+
+307
+99:59:59,999 --> 99:59:59,999
+That’s all there is.
+
+308
+99:59:59,999 --> 99:59:59,999
+And this can be nested.
+
+309
+99:59:59,999 --> 99:59:59,999
+And then we add a little bit of syntactic sugar.
+
+310
+99:59:59,999 --> 99:59:59,999
+We introduce symbols,
+
+311
+99:59:59,999 --> 99:59:59,999
+so we can take arbitrary sequences of these characters and just express them with another variable.
+
+312
+99:59:59,999 --> 99:59:59,999
+And then we have a programming language.
+
+313
+99:59:59,999 --> 99:59:59,999
+And basically this is Lisp.
+
+314
+99:59:59,999 --> 99:59:59,999
+So very close to Lisp.
+
+315
+99:59:59,999 --> 99:59:59,999
+A funny thing is that for… the guy who came up with Lisp,
+
+316
+99:59:59,999 --> 99:59:59,999
+McCarthy, he didn’t think that it would be a proper language.
+
+317
+99:59:59,999 --> 99:59:59,999
+Because of the awkward notation.
+
+318
+99:59:59,999 --> 99:59:59,999
+And he said, you cannot really use this for programming.
+
+319
+99:59:59,999 --> 99:59:59,999
+But one of his doctorate students said: “Oh well. Let’s try.”
+
+320
+99:59:59,999 --> 99:59:59,999
+And… it has kept on.
+
+321
+99:59:59,999 --> 99:59:59,999
+Anyway.
+
+322
+99:59:59,999 --> 99:59:59,999
+We can show that Turing Machines can compute the lambda calculus.
+
+323
+99:59:59,999 --> 99:59:59,999
+And we can show that the lambda calculus can be used to compute the next state of the Turing machine.
+
+324
+99:59:59,999 --> 99:59:59,999
+This means they have the same power.
+
+325
+99:59:59,999 --> 99:59:59,999
+The set of computable functions in the lambda calculus is the same as the set of Turing computable functions.
+
+326
+99:59:59,999 --> 99:59:59,999
+And, since then, we have found many other ways of defining computations.
+
+327
+99:59:59,999 --> 99:59:59,999
+For instance the post machine, which is a variation of the Turing machine,
+
+328
+99:59:59,999 --> 99:59:59,999
+or mathematical proofs.
+
+329
+99:59:59,999 --> 99:59:59,999
+Everything that can be proven is computable.
+
+330
+99:59:59,999 --> 99:59:59,999
+Or partial recursive functions.
+
+331
+99:59:59,999 --> 99:59:59,999
+And we can show for all of them that all these approaches have the same power.
+
+332
+99:59:59,999 --> 99:59:59,999
+And the idea that all the computational approaches have the same power,
+
+333
+99:59:59,999 --> 99:59:59,999
+although all the other ones that you are able to find in the future too,
+
+334
+99:59:59,999 --> 99:59:59,999
+is called the Church-Turing thesis.
+
+335
+99:59:59,999 --> 99:59:59,999
+We don’t know about the future.
+
+336
+99:59:59,999 --> 99:59:59,999
+So it’s not really… we can’t prove that.
+
+337
+99:59:59,999 --> 99:59:59,999
+We don’t know, if somebody comes up with a new way of manipulating things, and producing regularity and information, and it can do more.
+
+338
+99:59:59,999 --> 99:59:59,999
+But everything we’ve found so far, and probably everything that we’re going to find, has the same power.
+
+339
+99:59:59,999 --> 99:59:59,999
+So this kind of defines our notion of computation.
+
+340
+99:59:59,999 --> 99:59:59,999
+The whole thing also includes programming languages.
+
+341
+99:59:59,999 --> 99:59:59,999
+You can use Python to produce to calculate a Turing machine and you can use a Turing machine to calculate Python.
+
+342
+99:59:59,999 --> 99:59:59,999
+You can take arbitrary computers and let them run on the Turing machine.
+
+343
+99:59:59,999 --> 99:59:59,999
+The graphics are going to be abysmal.
+
+344
+99:59:59,999 --> 99:59:59,999
+But OK.
+
+345
+99:59:59,999 --> 99:59:59,999
+And in some sense the brain is [a] Turing computational tool.
+
+346
+99:59:59,999 --> 99:59:59,999
+If you look at the principles of neural information processing,
+
+347
+99:59:59,999 --> 99:59:59,999
+you can take neurons and build computational models, for instance compartment models.
+
+348
+99:59:59,999 --> 99:59:59,999
+Which are very very accurate and produce very strong semblances to the actual inputs and outputs of neurons and their state changes.
+
+349
+99:59:59,999 --> 99:59:59,999
+They’re are computationally expensive, but it works.
+
+350
+99:59:59,999 --> 99:59:59,999
+And we can simplify them into integrate-and-fire models, which are fancy oscillators.
+
+351
+99:59:59,999 --> 99:59:59,999
+Or we could use very crude simplifications, like in most artificial neural networks.
+
+352
+99:59:59,999 --> 99:59:59,999
+If you just do at some of the inputs to a neuron,
+
+353
+99:59:59,999 --> 99:59:59,999
+and then apply some transition function,
+
+354
+99:59:59,999 --> 99:59:59,999
+and transmit the results to other neurons.
+
+355
+99:59:59,999 --> 99:59:59,999
+And we can show that with this crude model already,
+
+356
+99:59:59,999 --> 99:59:59,999
+we can do many of the interesting feats that nervous systems can produce.
+
+357
+99:59:59,999 --> 99:59:59,999
+Like associative learning, sensory motor loops, and many other fancy things.
+
+358
+99:59:59,999 --> 99:59:59,999
+And, of course, it’s Turing complete.
+
+359
+99:59:59,999 --> 99:59:59,999
+And this brings us to what we would call weak computationalism.
+
+360
+99:59:59,999 --> 99:59:59,999
+That is the idea that minds are basically computer programs.
+
+361
+99:59:59,999 --> 99:59:59,999
+They’re realizing in neural hard reconfigurations
+
+362
+99:59:59,999 --> 99:59:59,999
+and in the individual states.
+
+363
+99:59:59,999 --> 99:59:59,999
+And the mental content is represented in those programs.
+
+364
+99:59:59,999 --> 99:59:59,999
+And perception is basically the process of encoding information
+
+365
+99:59:59,999 --> 99:59:59,999
+given at our systemic boundaries to the environment
+
+366
+99:59:59,999 --> 99:59:59,999
+into mental representations
+
+367
+99:59:59,999 --> 99:59:59,999
+using this program.
+
+368
+99:59:59,999 --> 99:59:59,999
+This means that all that is part of being a mind:
+
+369
+99:59:59,999 --> 99:59:59,999
+thinking, and feeling, and dreaming, and being creative, and being afraid, and whatever.
+
+370
+99:59:59,999 --> 99:59:59,999
+It’s all aspects of operations over mental content in such a computer program.
+
+371
+99:59:59,999 --> 99:59:59,999
+This is the idea of weak computationalism.
+
+372
+99:59:59,999 --> 99:59:59,999
+In fact you can go one step further to strong computationalism,
+
+373
+99:59:59,999 --> 99:59:59,999
+because the universe doesn’t let us experience matter.
+
+374
+99:59:59,999 --> 99:59:59,999
+The universe also doesn’t let us experience minds directly.
+
+375
+99:59:59,999 --> 99:59:59,999
+What the universe somehow gives us is information.
+
+376
+99:59:59,999 --> 99:59:59,999
+Information is something very simple.
+
+377
+99:59:59,999 --> 99:59:59,999
+We can define it mathematically and what it means is something like “discernible difference”.
+
+378
+99:59:59,999 --> 99:59:59,999
+You can measure it in yes-no-decisions, in bits.
+
+379
+99:59:59,999 --> 99:59:59,999
+And there is….
+
+380
+99:59:59,999 --> 99:59:59,999
+According to the strong computationalism,
+
+381
+99:59:59,999 --> 99:59:59,999
+the universe is basically a pattern generator,
+
+382
+99:59:59,999 --> 99:59:59,999
+which gives us information.
+
+383
+99:59:59,999 --> 99:59:59,999
+And all the apparent regularity
+
+384
+99:59:59,999 --> 99:59:59,999
+that the universe seems to produce,
+
+385
+99:59:59,999 --> 99:59:59,999
+which means, we see time and space,
+
+386
+99:59:59,999 --> 99:59:59,999
+and things that we can conceptualize into objects and people,
+
+387
+99:59:59,999 --> 99:59:59,999
+and whatever,
+
+388
+99:59:59,999 --> 99:59:59,999
+can be explained by the fact that the universe seems to be able to compute.
+
+389
+99:59:59,999 --> 99:59:59,999
+That is, to put use regularities in information.
+
+390
+99:59:59,999 --> 99:59:59,999
+And this means that there is no conceptual difference between reality and the computer program.
+
+391
+99:59:59,999 --> 99:59:59,999
+So we get a new kind of monism.
+
+392
+99:59:59,999 --> 99:59:59,999
+Not idealism, which takes minds to be primary,
+
+393
+99:59:59,999 --> 99:59:59,999
+or materialism which takes physics to be primary,
+
+394
+99:59:59,999 --> 99:59:59,999
+but rather computationalism, which means that information and computation are primary.
+
+395
+99:59:59,999 --> 99:59:59,999
+Mind and matter are constructions that we get from that.
+
+396
+99:59:59,999 --> 99:59:59,999
+A lot of people don’t like that idea.
+
+397
+99:59:59,999 --> 99:59:59,999
+Roger Penrose, who’s a physicist,
+
+398
+99:59:59,999 --> 99:59:59,999
+says that the brain uses quantum processes to produce consciousness.
+
+399
+99:59:59,999 --> 99:59:59,999
+So minds must be more than computers.
+
+400
+99:59:59,999 --> 99:59:59,999
+Why is that so?
+
+401
+99:59:59,999 --> 99:59:59,999
+The quality of understanding and feeling possessed by human beings, is something that cannot be simulated computationally.
+
+402
+99:59:59,999 --> 99:59:59,999
+Ok.
+
+403
+99:59:59,999 --> 99:59:59,999
+But how can quantum mechanics do it?
+
+404
+99:59:59,999 --> 99:59:59,999
+Because, you know, quantum processes are completely computational too!
+
+405
+99:59:59,999 --> 99:59:59,999
+It’s just very expensive to simulate them on non-quantum computers.
+
+406
+99:59:59,999 --> 99:59:59,999
+But it’s possible.
+
+407
+99:59:59,999 --> 99:59:59,999
+So, it’s not that quantum computing enables a completely new kind of effectively possible algorithm.
+
+408
+99:59:59,999 --> 99:59:59,999
+It’s just slightly different efficiently possible algorithms.
+
+409
+99:59:59,999 --> 99:59:59,999
+And Penrose cannot explain how those would bring forth
+
+410
+99:59:59,999 --> 99:59:59,999
+perception and imagination and consciousness.
+
+411
+99:59:59,999 --> 99:59:59,999
+I think what he basically does here is that he perceives kind of mechanics as mysterious
+
+412
+99:59:59,999 --> 99:59:59,999
+and perceives consciousness as mysterious and tries to shroud one mystery in another.
+
+413
+99:59:59,999 --> 99:59:59,999
+[applause]
+
+414
+99:59:59,999 --> 99:59:59,999
+So I don’t think that minds are more than Turing machines.
+
+415
+99:59:59,999 --> 99:59:59,999
+It’s actually much more troubling: minds are fundamentally less than Turing machines!
+
+416
+99:59:59,999 --> 99:59:59,999
+All real computers are constrained in some way.
+
+417
+99:59:59,999 --> 99:59:59,999
+That is they cannot compute every conceivable computable function.
+
+418
+99:59:59,999 --> 99:59:59,999
+They can only compute functions that fit into the memory and so on then can be computed in the available time.
+
+419
+99:59:59,999 --> 99:59:59,999
+So the Turing machine, if you want to build it physically,
+
+420
+99:59:59,999 --> 99:59:59,999
+will have a finite tape and it will have finite steps it can calculate in a given amount of time.
+
+421
+99:59:59,999 --> 99:59:59,999
+And the lambda calculus will have a finite length to the strings that you can actually cut and replace.
+
+422
+99:59:59,999 --> 99:59:59,999
+And a finite number of replacement operations that you can do
+
+423
+99:59:59,999 --> 99:59:59,999
+in your given amount of time.
+
+424
+99:59:59,999 --> 99:59:59,999
+And the thing is, there is no set of numbers m and n for…
+
+425
+99:59:59,999 --> 99:59:59,999
+for the tape lengths and the times you have four operations on [the] Turing machine.
+
+426
+99:59:59,999 --> 99:59:59,999
+And the same m and n or similar m and n
+
+427
+99:59:59,999 --> 99:59:59,999
+for the lambda calculus at least with the same set of constraints.
+
+428
+99:59:59,999 --> 99:59:59,999
+That is lambda calculus
+
+429
+99:59:59,999 --> 99:59:59,999
+is going to be able to calculate some functions
+
+430
+99:59:59,999 --> 99:59:59,999
+that are not possible on the Turing machine and vice versa,
+
+431
+99:59:59,999 --> 99:59:59,999
+if you have a constrained system.
+
+432
+99:59:59,999 --> 99:59:59,999
+And of course it’s even worse for neurons.
+
+433
+99:59:59,999 --> 99:59:59,999
+If you have a finite number of neurons and to find a number of state changes,
+
+434
+99:59:59,999 --> 99:59:59,999
+this… does not translate directly into a constrained von-Neumann-computer
+
+435
+99:59:59,999 --> 99:59:59,999
+or a constrained lambda calculus.
+
+436
+99:59:59,999 --> 99:59:59,999
+And there’s this big difference between, of course, effectively computable functions,
+
+437
+99:59:59,999 --> 99:59:59,999
+those that are in principle computable,
+
+438
+99:59:59,999 --> 99:59:59,999
+and those that we can compute efficiently.
+
+439
+99:59:59,999 --> 99:59:59,999
+There are things that computers cannot solve.
+
+440
+99:59:59,999 --> 99:59:59,999
+Some problems that are unsolvable in principle.
+
+441
+99:59:59,999 --> 99:59:59,999
+For instance the question whether a Turing machine ever stops
+
+442
+99:59:59,999 --> 99:59:59,999
+for an arbitrary program.
+
+443
+99:59:59,999 --> 99:59:59,999
+And some problems are unsolvable in practice.
+
+444
+99:59:59,999 --> 99:59:59,999
+Because it’s very, very hard to do so for a deterministic Turing machine.
+
+445
+99:59:59,999 --> 99:59:59,999
+And the class of NP-hard problems is a very strong candidate for that.
+
+446
+99:59:59,999 --> 99:59:59,999
+Non-polinominal problems.
+
+447
+99:59:59,999 --> 99:59:59,999
+In these problems is for instance the idea
+
+448
+99:59:59,999 --> 99:59:59,999
+of finding the key for an encrypted text.
+
+449
+99:59:59,999 --> 99:59:59,999
+If key is very long and you are not the NSA and have a backdoor.
+
+450
+99:59:59,999 --> 99:59:59,999
+And then there are non-decidable problems.
+
+451
+99:59:59,999 --> 99:59:59,999
+Problems where we cannot define…
+
+452
+99:59:59,999 --> 99:59:59,999
+find out, in the formal system, the answer is yes or no.
+
+453
+99:59:59,999 --> 99:59:59,999
+Whether it’s true or false.
+
+454
+99:59:59,999 --> 99:59:59,999
+And some philosophers have argued that humans can always do this so they are more powerful than computers.
+
+455
+99:59:59,999 --> 99:59:59,999
+Because show, prove formally, that computers cannot do this.
+
+456
+99:59:59,999 --> 99:59:59,999
+Gödel has done this.
+
+457
+99:59:59,999 --> 99:59:59,999
+But… hm…
+
+458
+99:59:59,999 --> 99:59:59,999
+Here’s some test question:
+
+459
+99:59:59,999 --> 99:59:59,999
+can you solve undecidable problems.
+
+460
+99:59:59,999 --> 99:59:59,999
+If you choose one of the following answers randomly,
+
+461
+99:59:59,999 --> 99:59:59,999
+what’s the probability that the answer is correct?
+
+462
+99:59:59,999 --> 99:59:59,999
+I’ll tell you.
+
+463
+99:59:59,999 --> 99:59:59,999
+Computers are not going to find out.
+
+464
+99:59:59,999 --> 99:59:59,999
+And… me neither.
+
+465
+99:59:59,999 --> 99:59:59,999
+OK.
+
+466
+99:59:59,999 --> 99:59:59,999
+How difficult is AI?
+
+467
+99:59:59,999 --> 99:59:59,999
+It’s a very difficult question.
+
+468
+99:59:59,999 --> 99:59:59,999
+We don’t know.
+
+469
+99:59:59,999 --> 99:59:59,999
+We do have some numbers, which could tell us that it’s not impossible.
+
+470
+99:59:59,999 --> 99:59:59,999
+As we have these roughly 100 billion neurons—
+
+471
+99:59:59,999 --> 99:59:59,999
+the ballpark figure—
+
+472
+99:59:59,999 --> 99:59:59,999
+and the cells in the cortex are organized into circuits of a few thousands to ten-thousands of neurons,
+
+473
+99:59:59,999 --> 99:59:59,999
+which you call cortical columns.
+
+474
+99:59:59,999 --> 99:59:59,999
+And these cortical columns have… are pretty similar among each other,
+
+475
+99:59:59,999 --> 99:59:59,999
+and have higher interconnectivity, and some lower connectivity among each other,
+
+476
+99:59:59,999 --> 99:59:59,999
+and even lower long range connectivity.
+
+477
+99:59:59,999 --> 99:59:59,999
+And the brain has a very distinct architecture.
+
+478
+99:59:59,999 --> 99:59:59,999
+And a very distinct structure of a certain nuclei and structures that have very different functional purposes.
+
+479
+99:59:59,999 --> 99:59:59,999
+And the layout of these…
+
+480
+99:59:59,999 --> 99:59:59,999
+both the individual neurons, neuron types,
+
+481
+99:59:59,999 --> 99:59:59,999
+the more than 130 known neurotransmitters, of which we do not completely understand all, most of them,
+
+482
+99:59:59,999 --> 99:59:59,999
+this is all defined in our genome of course.
+
+483
+99:59:59,999 --> 99:59:59,999
+And the genome is not very long.
+
+484
+99:59:59,999 --> 99:59:59,999
+It’s something like… it think the Human Genome Project amounted to a CD-ROM.
+
+485
+99:59:59,999 --> 99:59:59,999
+775 megabytes.
+
+486
+99:59:59,999 --> 99:59:59,999
+So actually, it’s….
+
+487
+99:59:59,999 --> 99:59:59,999
+The computational complexity of defining a complete human being,
+
+488
+99:59:59,999 --> 99:59:59,999
+if you have physics chemistry already given
+
+489
+99:59:59,999 --> 99:59:59,999
+to enable protein synthesis and so on—
+
+490
+99:59:59,999 --> 99:59:59,999
+gravity and temperature ranges—
+
+491
+99:59:59,999 --> 99:59:59,999
+is less than Microsoft Windows.
+
+492
+99:59:59,999 --> 99:59:59,999
+And it’s the upper bound, because only a very small fraction of that
+
+493
+99:59:59,999 --> 99:59:59,999
+is going to code for our nervous system.
+
+494
+99:59:59,999 --> 99:59:59,999
+But it doesn’t mean it’s easy to reverse engineer the whole thing.
+
+495
+99:59:59,999 --> 99:59:59,999
+It just means it’s not hopeless.
+
+496
+99:59:59,999 --> 99:59:59,999
+Complexity that you would be looking at.
+
+497
+99:59:59,999 --> 99:59:59,999
+But the estimate of the real difficulty, in my perspective, is impossible.
+
+498
+99:59:59,999 --> 99:59:59,999
+Because I’m not just a philosopher or a dreamer or a science fiction author, but I’m a software developer.
+
+499
+99:59:59,999 --> 99:59:59,999
+And as a software developer I know it’s impossible to give an estimate on when you’re done, when you don’t have the full specification.
+
+500
+99:59:59,999 --> 99:59:59,999
+And we don’t have a full specification yet.
+
+501
+99:59:59,999 --> 99:59:59,999
+So you all know this shortest computer science joke:
+
+502
+99:59:59,999 --> 99:59:59,999
+“It’s almost done.”
+
+503
+99:59:59,999 --> 99:59:59,999
+You do the first 98 %.
+
+504
+99:59:59,999 --> 99:59:59,999
+Now we can do the second 98 %.
+
+505
+99:59:59,999 --> 99:59:59,999
+We never know when it’s done,
+
+506
+99:59:59,999 --> 99:59:59,999
+if we haven’t solved and specified all the problems.
+
+507
+99:59:59,999 --> 99:59:59,999
+If you don’t know how it’s to be done.
+
+508
+99:59:59,999 --> 99:59:59,999
+And even if you have [a] rough direction, and I think we do,
+
+509
+99:59:59,999 --> 99:59:59,999
+we don’t know how long it’ll take until we have worked out the details.
+
+510
+99:59:59,999 --> 99:59:59,999
+And some part of that big question, how long it takes until it’ll be done,
+
+511
+99:59:59,999 --> 99:59:59,999
+is the question whether we need to make small incremental progress
+
+512
+99:59:59,999 --> 99:59:59,999
+versus whether we need one big idea,
+
+513
+99:59:59,999 --> 99:59:59,999
+which kind of solves it all.
+
+514
+99:59:59,999 --> 99:59:59,999
+AI has a pretty long story.
+
+515
+99:59:59,999 --> 99:59:59,999
+It starts out with logic and automata.
+
+516
+99:59:59,999 --> 99:59:59,999
+And this idea of computability that I just sketched out.
+
+517
+99:59:59,999 --> 99:59:59,999
+Then with this idea of machines that implement computability.
+
+518
+99:59:59,999 --> 99:59:59,999
+And came towards Babage and Zuse and von Neumann and so on.
+
+519
+99:59:59,999 --> 99:59:59,999
+Then we had information theory by Claude Shannon.
+
+520
+99:59:59,999 --> 99:59:59,999
+He captured the idea of what information is
+
+521
+99:59:59,999 --> 99:59:59,999
+and how entropy can be calculated for information and so on.
+
+522
+99:59:59,999 --> 99:59:59,999
+And we had this beautiful idea of describing the world as systems.
+
+523
+99:59:59,999 --> 99:59:59,999
+And systems are made up of entities and relations between them.
+
+524
+99:59:59,999 --> 99:59:59,999
+And along these relations there we have feedback.
+
+525
+99:59:59,999 --> 99:59:59,999
+And dynamical systems emerge.
+
+526
+99:59:59,999 --> 99:59:59,999
+This was a very beautiful idea, was cybernetics.
+
+527
+99:59:59,999 --> 99:59:59,999
+Unfortunately hass been killed by
+
+528
+99:59:59,999 --> 99:59:59,999
+second-order Cybernetics.
+
+529
+99:59:59,999 --> 99:59:59,999
+By this Maturana stuff and so on.
+
+530
+99:59:59,999 --> 99:59:59,999
+And turned into a humanity [one of the humanities] and died.
+
+531
+99:59:59,999 --> 99:59:59,999
+But the idea stuck around and most of them went into artificial intelligence.
+
+532
+99:59:59,999 --> 99:59:59,999
+And then we had this idea of symbol systems.
+
+533
+99:59:59,999 --> 99:59:59,999
+That is how we can do grammatical language.
+
+534
+99:59:59,999 --> 99:59:59,999
+Process that.
+
+535
+99:59:59,999 --> 99:59:59,999
+We can do planning and so on.
+
+536
+99:59:59,999 --> 99:59:59,999
+Abstract reasoning in automatic systems.
+
+537
+99:59:59,999 --> 99:59:59,999
+Then the idea how of we can abstract neural networks in distributed systems.
+
+538
+99:59:59,999 --> 99:59:59,999
+With McClelland and Pitts and so on.
+
+539
+99:59:59,999 --> 99:59:59,999
+Parallel distributed processing.
+
+540
+99:59:59,999 --> 99:59:59,999
+And then we had a movement of autonomous agents,
+
+541
+99:59:59,999 --> 99:59:59,999
+which look at self-directed, goal directed systems.
+
+542
+99:59:59,999 --> 99:59:59,999
+And the whole story somehow started in 1950 I think,
+
+543
+99:59:59,999 --> 99:59:59,999
+in its best possible way.
+
+544
+99:59:59,999 --> 99:59:59,999
+When Alan Turing wrote his paper
+
+545
+99:59:59,999 --> 99:59:59,999
+“Computing Machinery and Intelligence”
+
+546
+99:59:59,999 --> 99:59:59,999
+and those of you who haven’t read it should do so.
+
+547
+99:59:59,999 --> 99:59:59,999
+It’s a very, very easy read.
+
+548
+99:59:59,999 --> 99:59:59,999
+It’s fascinating.
+
+549
+99:59:59,999 --> 99:59:59,999
+He has already already most of the important questions of AI.
+
+550
+99:59:59,999 --> 99:59:59,999
+Most of the important criticisms.
+
+551
+99:59:59,999 --> 99:59:59,999
+Most of the important answers to the most important criticisms.
+
+552
+99:59:59,999 --> 99:59:59,999
+And it’s also the paper, where he describes the Turing test.
+
+553
+99:59:59,999 --> 99:59:59,999
+And basically sketches the idea that
+
+554
+99:59:59,999 --> 99:59:59,999
+in a way to determine whether somebody is intelligent is
+
+555
+99:59:59,999 --> 99:59:59,999
+to judge the ability of that one—
+
+556
+99:59:59,999 --> 99:59:59,999
+that person or that system—
+
+557
+99:59:59,999 --> 99:59:59,999
+to engage in meaningful discourse.
+
+558
+99:59:59,999 --> 99:59:59,999
+Which includes creativity, and empathy maybe, and logic, and language,
+
+559
+99:59:59,999 --> 99:59:59,999
+and anticipation, memory retrieval, and so on.
+
+560
+99:59:59,999 --> 99:59:59,999
+Story comprehension.
+
+561
+99:59:59,999 --> 99:59:59,999
+And the idea of AI then
+
+562
+99:59:59,999 --> 99:59:59,999
+coalesce in the group of cyberneticians and computer scientists and so on,
+
+563
+99:59:59,999 --> 99:59:59,999
+which got together in the Dartmouth conference.
+
+564
+99:59:59,999 --> 99:59:59,999
+It was in 1956.
+
+565
+99:59:59,999 --> 99:59:59,999
+And there Marvin Minsky coined the name “artificial intelligence
+
+566
+99:59:59,999 --> 99:59:59,999
+for the project of using computer science to understand the mind.
+
+567
+99:59:59,999 --> 99:59:59,999
+John McCarthy was the guy who came up with Lisp, among other things.
+
+568
+99:59:59,999 --> 99:59:59,999
+Nathan Rochester did pattern recognition
+
+569
+99:59:59,999 --> 99:59:59,999
+and he’s, I think, more famous for
+
+570
+99:59:59,999 --> 99:59:59,999
+writing the first assembly programming language.
+
+571
+99:59:59,999 --> 99:59:59,999
+Claude Shannon was this information theory guy.
+
+572
+99:59:59,999 --> 99:59:59,999
+But they also got psychologists there
+
+573
+99:59:59,999 --> 99:59:59,999
+and sociologists and people from many different fields.
+
+574
+99:59:59,999 --> 99:59:59,999
+It was very highly interdisciplinary.
+
+575
+99:59:59,999 --> 99:59:59,999
+And they already had the funding and it was a very good time.
+
+576
+99:59:59,999 --> 99:59:59,999
+And in this good time they ripped a lot of low hanging fruit very quickly.
+
+577
+99:59:59,999 --> 99:59:59,999
+Which gave them the idea that AI is almost done very soon.
+
+578
+99:59:59,999 --> 99:59:59,999
+In 1969 Minsky and Papert wrote a small booklet against the idea of using your neural networks.
+
+579
+99:59:59,999 --> 99:59:59,999
+And they won.
+
+580
+99:59:59,999 --> 99:59:59,999
+Their argument won.
+
+581
+99:59:59,999 --> 99:59:59,999
+But, even more fortunately it was wrong.
+
+582
+99:59:59,999 --> 99:59:59,999
+So for more than a decade, there was practically no more funding for neural networks,
+
+583
+99:59:59,999 --> 99:59:59,999
+which was bad so most people did logic based systems, which have some limitations.
+
+584
+99:59:59,999 --> 99:59:59,999
+And in the meantime people did expert systems.
+
+585
+99:59:59,999 --> 99:59:59,999
+The idea to describe the world
+
+586
+99:59:59,999 --> 99:59:59,999
+as basically logical expressions.
+
+587
+99:59:59,999 --> 99:59:59,999
+This turned out to be brittle, and difficult, and had diminishing returns.
+
+588
+99:59:59,999 --> 99:59:59,999
+And at some point it didn’t work anymore.
+
+589
+99:59:59,999 --> 99:59:59,999
+And many of the people which tried it,
+
+590
+99:59:59,999 --> 99:59:59,999
+became very disenchanted and then threw out lots of baby with the bathwater.
+
+591
+99:59:59,999 --> 99:59:59,999
+And only did robotics in the future or something completely different.
+
+592
+99:59:59,999 --> 99:59:59,999
+Instead of going back to the idea of looking at mental representations.
+
+593
+99:59:59,999 --> 99:59:59,999
+How the mind works.
+
+594
+99:59:59,999 --> 99:59:59,999
+And at the moment is kind of a sad state.
+
+595
+99:59:59,999 --> 99:59:59,999
+Most of it is applications.
+
+596
+99:59:59,999 --> 99:59:59,999
+That is, for instance, robotics
+
+597
+99:59:59,999 --> 99:59:59,999
+or statistical methods to do better machine learning and so on.
+
+598
+99:59:59,999 --> 99:59:59,999
+And I don’t say it’s invalid to do this.
+
+599
+99:59:59,999 --> 99:59:59,999
+It’s intellectually challenging.
+
+600
+99:59:59,999 --> 99:59:59,999
+It’s tremendously useful.
+
+601
+99:59:59,999 --> 99:59:59,999
+It’s very successful and productive and so on.
+
+602
+99:59:59,999 --> 99:59:59,999
+It’s just a very different question from how to understand the mind.
+
+603
+99:59:59,999 --> 99:59:59,999
+If you want to go to the moon you have to shoot for the moon.
+
+604
+99:59:59,999 --> 99:59:59,999
+So there is this movement still existing in AI,
+
+605
+99:59:59,999 --> 99:59:59,999
+and becoming stronger these days.
+
+606
+99:59:59,999 --> 99:59:59,999
+It’s called cognitive systems.
+
+607
+99:59:59,999 --> 99:59:59,999
+And the idea of cognitive systems has many names
+
+608
+99:59:59,999 --> 99:59:59,999
+like “artificial general intelligence” or “biologically inspired cognitive architectures”.
+
+609
+99:59:59,999 --> 99:59:59,999
+It’s to use information processing as the dominant paradigm to understand the mind.
+
+610
+99:59:59,999 --> 99:59:59,999
+And the tools that we need to do that is,
+
+611
+99:59:59,999 --> 99:59:59,999
+we have to build whole architectures that we can test.
+
+612
+99:59:59,999 --> 99:59:59,999
+Not just individual modules.
+
+613
+99:59:59,999 --> 99:59:59,999
+You have to have universal representations,
+
+614
+99:59:59,999 --> 99:59:59,999
+which means these representation have to be both distributed—
+
+615
+99:59:59,999 --> 99:59:59,999
+associative and so on—
+
+616
+99:59:59,999 --> 99:59:59,999
+and symbolic.
+
+617
+99:59:59,999 --> 99:59:59,999
+We need to be able to do both those things with it.
+
+618
+99:59:59,999 --> 99:59:59,999
+So we need to be able to do language and planning, and we need to do sensorimotor coupling, and associative thinking in superposition of
+
+619
+99:59:59,999 --> 99:59:59,999
+representations and ambiguity and so on.
+
+620
+99:59:59,999 --> 99:59:59,999
+And
+
+621
+99:59:59,999 --> 99:59:59,999
+operations over those presentation.
+
+622
+99:59:59,999 --> 99:59:59,999
+Some kind of
+
+623
+99:59:59,999 --> 99:59:59,999
+semi-universal problem solving.
+
+624
+99:59:59,999 --> 99:59:59,999
+It’s probably semi-universal, because they seem to be problems that humans are very bad at solving.
+
+625
+99:59:59,999 --> 99:59:59,999
+Our minds are not completely universal.
+
+626
+99:59:59,999 --> 99:59:59,999
+And we need some kind of universal motivation. That is something that directs the system to do all the interesting things that you want it to do.
+
+627
+99:59:59,999 --> 99:59:59,999
+Like engage in social interaction or in mathematics or creativity.
+
+628
+99:59:59,999 --> 99:59:59,999
+And maybe we want to understand emotion, and affect, and phenomenal experience, and so on.
+
+629
+99:59:59,999 --> 99:59:59,999
+So:
+
+630
+99:59:59,999 --> 99:59:59,999
+we want to understand universal representations.
+
+631
+99:59:59,999 --> 99:59:59,999
+We want to have a set of operations over those representations that give us neural learning, and category formation,
+
+632
+99:59:59,999 --> 99:59:59,999
+and planning, and reflection, and memory consolidation, and resource allocation,
+
+633
+99:59:59,999 --> 99:59:59,999
+and language, and all those interesting things.
+
+634
+99:59:59,999 --> 99:59:59,999
+We also want to have perceptual grounding—
+
+635
+99:59:59,999 --> 99:59:59,999
+that is the representations would be saved—shaped in such a way that they can be mapped to perceptual input—
+
+636
+99:59:59,999 --> 99:59:59,999
+and vice versa.
+
+637
+99:59:59,999 --> 99:59:59,999
+And…
+
+638
+99:59:59,999 --> 99:59:59,999
+they should also be able to be translated into motor programs to perform actions.
+
+639
+99:59:59,999 --> 99:59:59,999
+And maybe we also want to have some feedback between the actions and the perceptions, and is feedback usually has a name: it’s called an environment.
+
+640
+99:59:59,999 --> 99:59:59,999
+OK.
+
+641
+99:59:59,999 --> 99:59:59,999
+And these medical representations, they are not just a big lump of things but they have some structure.
+
+642
+99:59:59,999 --> 99:59:59,999
+One part will be inevitably the model of the current situation…
+
+643
+99:59:59,999 --> 99:59:59,999
+… that we are in.
+
+644
+99:59:59,999 --> 99:59:59,999
+And this situation model…
+
+645
+99:59:59,999 --> 99:59:59,999
+is the present.
+
+646
+99:59:59,999 --> 99:59:59,999
+But if you also want to memorize past situations.
+
+647
+99:59:59,999 --> 99:59:59,999
+To have a protocol a memory of the past.
+
+648
+99:59:59,999 --> 99:59:59,999
+And this protocol memory, as a part, will contain things that are always with me.
+
+649
+99:59:59,999 --> 99:59:59,999
+This is my self-model.
+
+650
+99:59:59,999 --> 99:59:59,999
+Those properties that are constantly available to me.
+
+651
+99:59:59,999 --> 99:59:59,999
+That I can ascribe to myself.
+
+652
+99:59:59,999 --> 99:59:59,999
+And the other things, which are constantly changing, which I usually conceptualize as my environment.
+
+653
+99:59:59,999 --> 99:59:59,999
+An important part of that is declarative memory.
+
+654
+99:59:59,999 --> 99:59:59,999
+For instance abstractions into objects, things, people, and so on,
+
+655
+99:59:59,999 --> 99:59:59,999
+and procedural memory: abstraction into sequences of events.
+
+656
+99:59:59,999 --> 99:59:59,999
+And we can use the declarative memory and the procedural memory to erect a frame.
+
+657
+99:59:59,999 --> 99:59:59,999
+The frame gives me a context to interpret the current situation.
+
+658
+99:59:59,999 --> 99:59:59,999
+For instance right now I’m in a frame of giving a talk.
+
+659
+99:59:59,999 --> 99:59:59,999
+If…
+
+660
+99:59:59,999 --> 99:59:59,999
+… I would take a…
+
+661
+99:59:59,999 --> 99:59:59,999
+two year old kid, then this kid would interpret the situation very differently than me.
+
+662
+99:59:59,999 --> 99:59:59,999
+And would probably be confused by the situation or explored it in more creative ways than I would come up with.
+
+663
+99:59:59,999 --> 99:59:59,999
+Because I’m constrained by the frame which gives me the context
+
+664
+99:59:59,999 --> 99:59:59,999
+and tells me what you were expect me to do in this situation.
+
+665
+99:59:59,999 --> 99:59:59,999
+What I am expected to do and so on.
+
+666
+99:59:59,999 --> 99:59:59,999
+This frame extends in the future.
+
+667
+99:59:59,999 --> 99:59:59,999
+I have some kind of expectation horizon.
+
+668
+99:59:59,999 --> 99:59:59,999
+I know that my talk is going to be over in about 15 minutes.
+
+669
+99:59:59,999 --> 99:59:59,999
+Also I’ve plans.
+
+670
+99:59:59,999 --> 99:59:59,999
+I have things I want to tell you and so on.
+
+671
+99:59:59,999 --> 99:59:59,999
+And it might go wrong but I’ll try.
+
+672
+99:59:59,999 --> 99:59:59,999
+And if I generalize this, I find that I have the world model,
+
+673
+99:59:59,999 --> 99:59:59,999
+I have long term memory, and have some kind of mental stage.
+
+674
+99:59:59,999 --> 99:59:59,999
+This mental stage has counter-factual stuff.
+
+675
+99:59:59,999 --> 99:59:59,999
+Stuff that is not…
+
+676
+99:59:59,999 --> 99:59:59,999
+… real.
+
+677
+99:59:59,999 --> 99:59:59,999
+That I can play around with.
+
+678
+99:59:59,999 --> 99:59:59,999
+Ok. Then I need some kind of action selection that mediates between perception and action,
+
+679
+99:59:59,999 --> 99:59:59,999
+and some mechanism that controls the action selection
+
+680
+99:59:59,999 --> 99:59:59,999
+that is a motivational system,
+
+681
+99:59:59,999 --> 99:59:59,999
+which selects motives based on demands of the system.
+
+682
+99:59:59,999 --> 99:59:59,999
+And the demands of the system should create goals.
+
+683
+99:59:59,999 --> 99:59:59,999
+We are not born with our goals.
+
+684
+99:59:59,999 --> 99:59:59,999
+Obviously I don’t think that I was born with the goal of standing here and giving this talk to you.
+
+685
+99:59:59,999 --> 99:59:59,999
+There must be some demand in the system, which makes… enables me to have a biography, that …
+
+686
+99:59:59,999 --> 99:59:59,999
+… makes this a big goal of mine to give this talk to you and engage as many of you as possible into the project of AI.
+
+687
+99:59:59,999 --> 99:59:59,999
+And so lets come up with a set of demands that can produce such goals universally.
+
+688
+99:59:59,999 --> 99:59:59,999
+I think some of these demands will be physiological, like food, water, energy, physical integrity, rest, and so on.
+
+689
+99:59:59,999 --> 99:59:59,999
+Hot and cold with right range.
+
+690
+99:59:59,999 --> 99:59:59,999
+Then we have social demands.
+
+691
+99:59:59,999 --> 99:59:59,999
+At least most of us do.
+
+692
+99:59:59,999 --> 99:59:59,999
+Sociopaths probably don’t.
+
+693
+99:59:59,999 --> 99:59:59,999
+These social demands do structure our…
+
+694
+99:59:59,999 --> 99:59:59,999
+… social interaction.
+
+695
+99:59:59,999 --> 99:59:59,999
+They…. For instance a demand for affiliation.
+
+696
+99:59:59,999 --> 99:59:59,999
+That we get signals from others, that we are ok parts of society, of our environment.
+
+697
+99:59:59,999 --> 99:59:59,999
+We also have internalised social demands,
+
+698
+99:59:59,999 --> 99:59:59,999
+which we usually called honor or something.
+
+699
+99:59:59,999 --> 99:59:59,999
+This is conformance to internalized norms.
+
+700
+99:59:59,999 --> 99:59:59,999
+It means,
+
+701
+99:59:59,999 --> 99:59:59,999
+that we do to conform to social norms, even when nobody is looking.
+
+702
+99:59:59,999 --> 99:59:59,999
+And then we have cognitive demands.
+
+703
+99:59:59,999 --> 99:59:59,999
+And these cognitive demands, is for instance competence acquisition.
+
+704
+99:59:59,999 --> 99:59:59,999
+We want learn.
+
+705
+99:59:59,999 --> 99:59:59,999
+We want to get new skills.
+
+706
+99:59:59,999 --> 99:59:59,999
+We want to become more powerful in many many dimensions and ways.
+
+707
+99:59:59,999 --> 99:59:59,999
+It’s good to learn a musical instrument, because you get more competent.
+
+708
+99:59:59,999 --> 99:59:59,999
+It creates a reward signal, a pleasure signal, if you do that.
+
+709
+99:59:59,999 --> 99:59:59,999
+Also we want to reduce uncertainty.
+
+710
+99:59:59,999 --> 99:59:59,999
+Mathematicians are those people [that] have learned that they can reduce uncertainty in mathematics.
+
+711
+99:59:59,999 --> 99:59:59,999
+This creates pleasure for them, and then they find uncertainty in mathematics.
+
+712
+99:59:59,999 --> 99:59:59,999
+And this creates more pleasure.
+
+713
+99:59:59,999 --> 99:59:59,999
+So for mathematicians, mathematics is an unending source of pleasure.
+
+714
+99:59:59,999 --> 99:59:59,999
+Now unfortunately, if you are in Germany right now studying mathematics
+
+715
+99:59:59,999 --> 99:59:59,999
+and you find out that you are not very good at doing mathematics, what do you do?
+
+716
+99:59:59,999 --> 99:59:59,999
+You become a teacher.
+
+717
+99:59:59,999 --> 99:59:59,999
+And this is a very unfortunate situation for everybody involved.
+
+718
+99:59:59,999 --> 99:59:59,999
+And, it means, that you have people, [that] associate mathematics with…
+
+719
+99:59:59,999 --> 99:59:59,999
+uncertainty,
+
+720
+99:59:59,999 --> 99:59:59,999
+that has to be curbed and to be avoided.
+
+721
+99:59:59,999 --> 99:59:59,999
+And these people are put in front of kids and infuse them with this dread of uncertainty in mathematics.
+
+722
+99:59:59,999 --> 99:59:59,999
+And most people in our culture are dreading mathematics, because for them it’s just anticipation of uncertainty.
+
+723
+99:59:59,999 --> 99:59:59,999
+Which is a very bad things so people avoid it.
+
+724
+99:59:59,999 --> 99:59:59,999
+OK.
+
+725
+99:59:59,999 --> 99:59:59,999
+And then you have aesthetic demands.
+
+726
+99:59:59,999 --> 99:59:59,999
+There are stimulus oriented aesthetics.
+
+727
+99:59:59,999 --> 99:59:59,999
+Nature has had to pull some very heavy strings and levers to make us interested in strange things…
+
+728
+99:59:59,999 --> 99:59:59,999
+[such] as certain human body schemas and…
+
+729
+99:59:59,999 --> 99:59:59,999
+certain types of landscapes, and audio schemas, and so on.
+
+730
+99:59:59,999 --> 99:59:59,999
+So there are some stimuli that are inherently pleasurable to us—pleasant to us.
+
+731
+99:59:59,999 --> 99:59:59,999
+And of course this varies with every individual, because the wiring is very different, and that adaptivity in our biography is very different.
+
+732
+99:59:59,999 --> 99:59:59,999
+And then there’s abstract aesthetics.
+
+733
+99:59:59,999 --> 99:59:59,999
+And I think abstract aesthetics relates to finding better representations.
+
+734
+99:59:59,999 --> 99:59:59,999
+It relates to finding structure.
+
+735
+99:59:59,999 --> 99:59:59,999
+OK. And then we want to look at things like emotional modulation and affect.
+
+736
+99:59:59,999 --> 99:59:59,999
+And this was one of the first things that actually got me into AI.
+
+737
+99:59:59,999 --> 99:59:59,999
+That was the question:
+
+738
+99:59:59,999 --> 99:59:59,999
+“How is it possible, that a system can feel something?”
+
+739
+99:59:59,999 --> 99:59:59,999
+Because, if I have a variable in me with just fear or pain,
+
+740
+99:59:59,999 --> 99:59:59,999
+does not equate a feeling.
+
+741
+99:59:59,999 --> 99:59:59,999
+It’s very far… uhm…
+
+742
+99:59:59,999 --> 99:59:59,999
+… different from that.
+
+743
+99:59:59,999 --> 99:59:59,999
+And the answer that I’ve found so far it is,
+
+744
+99:59:59,999 --> 99:59:59,999
+that feeling, or affect, is a configuration of the system.
+
+745
+99:59:59,999 --> 99:59:59,999
+It’s not a parameter in the system,
+
+746
+99:59:59,999 --> 99:59:59,999
+but we have several dimensions, like a state of arousal that we’re currently, in the level of stubbornness that we have, the selection threshold,
+
+747
+99:59:59,999 --> 99:59:59,999
+the direction of attention, outwards or inwards,
+
+748
+99:59:59,999 --> 99:59:59,999
+the resolution level that we have, [with] which we look at our representations, and so on.
+
+749
+99:59:59,999 --> 99:59:59,999
+And these together create a certain way in every given situation of how our cognition is modulated.
+
+750
+99:59:59,999 --> 99:59:59,999
+We are living in a very different
+
+751
+99:59:59,999 --> 99:59:59,999
+and dynamic environment from time to time.
+
+752
+99:59:59,999 --> 99:59:59,999
+When you go outside we have very different demands on our cognition.
+
+753
+99:59:59,999 --> 99:59:59,999
+Maybe you need to react to traffic and so on.
+
+754
+99:59:59,999 --> 99:59:59,999
+Maybe we need to interact with other people.
+
+755
+99:59:59,999 --> 99:59:59,999
+Maybe we are in stressful situations.
+
+756
+99:59:59,999 --> 99:59:59,999
+Maybe you are in relaxed situations.
+
+757
+99:59:59,999 --> 99:59:59,999
+So we need to modulate our cognition accordingly.
+
+758
+99:59:59,999 --> 99:59:59,999
+And this modulation means, that we do perceive the world differently.
+
+759
+99:59:59,999 --> 99:59:59,999
+Our cognition works differently.
+
+760
+99:59:59,999 --> 99:59:59,999
+And we conceptualize ourselves, and experience ourselves, differently.
+
+761
+99:59:59,999 --> 99:59:59,999
+And I think this is what it means to feel something:
+
+762
+99:59:59,999 --> 99:59:59,999
+this difference in the configuration.
+
+763
+99:59:59,999 --> 99:59:59,999
+So. The affect can be seen as a configuration of a cognitive system.
+
+764
+99:59:59,999 --> 99:59:59,999
+And the modulators of the cognition are things like arousal, and selection special, and
+
+765
+99:59:59,999 --> 99:59:59,999
+background checks level, and resolution level, and so on.
+
+766
+99:59:59,999 --> 99:59:59,999
+Our current estimates of competence and certainty in the given situation,
+
+767
+99:59:59,999 --> 99:59:59,999
+and the pleasure and distress signals that you get from the frustration of our demands,
+
+768
+99:59:59,999 --> 99:59:59,999
+or satisfaction of our demands which are reinforcements for learning and structuring our behavior.
+
+769
+99:59:59,999 --> 99:59:59,999
+So the affective state, the emotional state that we are in, is emergent over those modulators.
+
+770
+99:59:59,999 --> 99:59:59,999
+And higher level emotions, things like jealousy or pride and so on,
+
+771
+99:59:59,999 --> 99:59:59,999
+we get them by directing those effects upon motivational content.
+
+772
+99:59:59,999 --> 99:59:59,999
+And this gives us a very simple architecture.
+
+773
+99:59:59,999 --> 99:59:59,999
+It’s a very rough sketch for an architecture.
+
+774
+99:59:59,999 --> 99:59:59,999
+And I think,
+
+775
+99:59:59,999 --> 99:59:59,999
+of course,
+
+776
+99:59:59,999 --> 99:59:59,999
+this doesn’t specify all the details.
+
+777
+99:59:59,999 --> 99:59:59,999
+I have specified some more of the details in a book, that I want to shamelessly plug here:
+
+778
+99:59:59,999 --> 99:59:59,999
+it’s called “Principles of Synthetic Intelligence”.
+
+779
+99:59:59,999 --> 99:59:59,999
+You can get it from Amazon or maybe from your library.
+
+780
+99:59:59,999 --> 99:59:59,999
+And this describes basically this architecture and some of the demands
+
+781
+99:59:59,999 --> 99:59:59,999
+for a very general framework of artificial intelligence in which to work with it.
+
+782
+99:59:59,999 --> 99:59:59,999
+So it doesn’t give you all the functional mechanisms,
+
+783
+99:59:59,999 --> 99:59:59,999
+but some things that I think are necessary based on my current understanding.
+
+784
+99:59:59,999 --> 99:59:59,999
+We’re currently at the second…
+
+785
+99:59:59,999 --> 99:59:59,999
+iteration of the implementations.
+
+786
+99:59:59,999 --> 99:59:59,999
+The first one was in Java in early 2003 with lots of XMI files and…
+
+787
+99:59:59,999 --> 99:59:59,999
+… XML files … and design patterns and Eclipse plug ins.
+
+788
+99:59:59,999 --> 99:59:59,999
+And the new one is, of course, … runs in the browser, and is written in Python,
+
+789
+99:59:59,999 --> 99:59:59,999
+and is much more light-weight and much more joy to work with.
+
+790
+99:59:59,999 --> 99:59:59,999
+But we’re not done yet.
+
+791
+99:59:59,999 --> 99:59:59,999
+OK.
+
+792
+99:59:59,999 --> 99:59:59,999
+So this gets back to that question: is it going to be one big idea or is it going to be incremental progress?
+
+793
+99:59:59,999 --> 99:59:59,999
+And I think it’s the latter.
+
+794
+99:59:59,999 --> 99:59:59,999
+If we want to look at this extremely simplified list of problems to solve:
+
+795
+99:59:59,999 --> 99:59:59,999
+whole testable architectures,
+
+796
+99:59:59,999 --> 99:59:59,999
+universal representations,
+
+797
+99:59:59,999 --> 99:59:59,999
+universal problem solving,
+
+798
+99:59:59,999 --> 99:59:59,999
+motivation, emotion, and effect, and so on.
+
+799
+99:59:59,999 --> 99:59:59,999
+And I can see hundreds and hundreds of Ph.D. thesis.
+
+800
+99:59:59,999 --> 99:59:59,999
+And I’m sure that I only see a tiny part of the problem.
+
+801
+99:59:59,999 --> 99:59:59,999
+So I think it’s entirely doable,
+
+802
+99:59:59,999 --> 99:59:59,999
+but it’s going to take a pretty long time.
+
+803
+99:59:59,999 --> 99:59:59,999
+And it’s going to be very exciting all the way,
+
+804
+99:59:59,999 --> 99:59:59,999
+because we are going to learn that we are full of shit
+
+805
+99:59:59,999 --> 99:59:59,999
+as we always do to a new problem, an algorithm,
+
+806
+99:59:59,999 --> 99:59:59,999
+and we realize that we can’t test it,
+
+807
+99:59:59,999 --> 99:59:59,999
+and that our initial idea was wrong,
+
+808
+99:59:59,999 --> 99:59:59,999
+and that we can improve on it.
+
+809
+99:59:59,999 --> 99:59:59,999
+So what should you do, if you want to get into AI?
+
+810
+99:59:59,999 --> 99:59:59,999
+And you’re not there yet?
+
+811
+99:59:59,999 --> 99:59:59,999
+So, I think you should get acquainted, of course, with the basic methodology.
+
+812
+99:59:59,999 --> 99:59:59,999
+You want to…
+
+813
+99:59:59,999 --> 99:59:59,999
+get programming languages, and learn them.
+
+814
+99:59:59,999 --> 99:59:59,999
+Basically do it for fun.
+
+815
+99:59:59,999 --> 99:59:59,999
+It’s really fun to wrap your mind around programming languages.
+
+816
+99:59:59,999 --> 99:59:59,999
+Changes the way you think.
+
+817
+99:59:59,999 --> 99:59:59,999
+And you want to learn software development.
+
+818
+99:59:59,999 --> 99:59:59,999
+That is, build an actual, running system.
+
+819
+99:59:59,999 --> 99:59:59,999
+Test-driven development.
+
+820
+99:59:59,999 --> 99:59:59,999
+All those things.
+
+821
+99:59:59,999 --> 99:59:59,999
+Then you want to look at the things that we do in AI.
+
+822
+99:59:59,999 --> 99:59:59,999
+So for like…
+
+823
+99:59:59,999 --> 99:59:59,999
+machine learning, probabilistic approaches, Kalman filtering,
+
+824
+99:59:59,999 --> 99:59:59,999
+POMDPs and so on.
+
+825
+99:59:59,999 --> 99:59:59,999
+You want to look at modes of representation: semantic networks, description logics, factor graphs, and so on.
+
+826
+99:59:59,999 --> 99:59:59,999
+Graph Theory,
+
+827
+99:59:59,999 --> 99:59:59,999
+hyper graphs.
+
+828
+99:59:59,999 --> 99:59:59,999
+And you want to look at the domain of cognitive architectures.
+
+829
+99:59:59,999 --> 99:59:59,999
+That is building computational models to simulate psychological phenomena,
+
+830
+99:59:59,999 --> 99:59:59,999
+and reproduce them, and test them.
+
+831
+99:59:59,999 --> 99:59:59,999
+I don’t think that you should stop there.
+
+832
+99:59:59,999 --> 99:59:59,999
+You need to take in all the things, that we haven’t taken in yet.
+
+833
+99:59:59,999 --> 99:59:59,999
+We need to learn more about linguistics.
+
+834
+99:59:59,999 --> 99:59:59,999
+We need to learn more about neuroscience in our field.
+
+835
+99:59:59,999 --> 99:59:59,999
+We need to do philosophy of mind.
+
+836
+99:59:59,999 --> 99:59:59,999
+I think what you need to do is study cognitive science.
+
+837
+99:59:59,999 --> 99:59:59,999
+So. What should you be working on?
+
+838
+99:59:59,999 --> 99:59:59,999
+Some of the most pressing questions to me are, for instance, representation.
+
+839
+99:59:59,999 --> 99:59:59,999
+How can we get abstract and perceptual presentation right
+
+840
+99:59:59,999 --> 99:59:59,999
+and interact with each other on a common ground?
+
+841
+99:59:59,999 --> 99:59:59,999
+How can we work with ambiguity and superposition of representations.
+
+842
+99:59:59,999 --> 99:59:59,999
+Many possible interpretations valid at the same time.
+
+843
+99:59:59,999 --> 99:59:59,999
+Inheritance and polymorphy.
+
+844
+99:59:59,999 --> 99:59:59,999
+How can we distribute representations in the mind
+
+845
+99:59:59,999 --> 99:59:59,999
+and store them efficiently?
+
+846
+99:59:59,999 --> 99:59:59,999
+How can we use representation in such a way
+
+847
+99:59:59,999 --> 99:59:59,999
+that even parts of them are very valid.
+
+848
+99:59:59,999 --> 99:59:59,999
+And we can use constraints to describe partial presentations.
+
+849
+99:59:59,999 --> 99:59:59,999
+For instance imagine a house.
+
+850
+99:59:59,999 --> 99:59:59,999
+And you already have the backside of the house,
+
+851
+99:59:59,999 --> 99:59:59,999
+and the number of windows in that house,
+
+852
+99:59:59,999 --> 99:59:59,999
+and you already see this complete picture in your house,
+
+853
+99:59:59,999 --> 99:59:59,999
+and at each time,
+
+854
+99:59:59,999 --> 99:59:59,999
+if I say: “OK. It’s a house with nine stories.”
+
+855
+99:59:59,999 --> 99:59:59,999
+this representation is going to change
+
+856
+99:59:59,999 --> 99:59:59,999
+based on these constraints.
+
+857
+99:59:59,999 --> 99:59:59,999
+How can we implement this?
+
+858
+99:59:59,999 --> 99:59:59,999
+And of course we want to implement time.
+
+859
+99:59:59,999 --> 99:59:59,999
+And we want…
+
+860
+99:59:59,999 --> 99:59:59,999
+to produce uncertain space,
+
+861
+99:59:59,999 --> 99:59:59,999
+and certain space
+
+862
+99:59:59,999 --> 99:59:59,999
+and openness, and closed environments.
+
+863
+99:59:59,999 --> 99:59:59,999
+And we want to have temporal loops and actually loops and physical loops.
+
+864
+99:59:59,999 --> 99:59:59,999
+Uncertain loops and all those things.
+
+865
+99:59:59,999 --> 99:59:59,999
+Next thing: perception.
+
+866
+99:59:59,999 --> 99:59:59,999
+Perception is crucial.
+
+867
+99:59:59,999 --> 99:59:59,999
+It’s…. Part of it is bottom up,
+
+868
+99:59:59,999 --> 99:59:59,999
+that is driven by cues from stimuli from the environment,
+
+869
+99:59:59,999 --> 99:59:59,999
+part of his top down. It’s driven by what we expect to see.
+
+870
+99:59:59,999 --> 99:59:59,999
+Actually most of it, about 10 times as much,
+
+871
+99:59:59,999 --> 99:59:59,999
+is driven by what we expect to see.
+
+872
+99:59:59,999 --> 99:59:59,999
+So we actually—actively—check for stimuli in the environment.
+
+873
+99:59:59,999 --> 99:59:59,999
+And this bottom-up top-down process in perception is interleaved.
+
+874
+99:59:59,999 --> 99:59:59,999
+And it’s adaptive.
+
+875
+99:59:59,999 --> 99:59:59,999
+We create new concepts and integrate them.
+
+876
+99:59:59,999 --> 99:59:59,999
+And we can revise those concepts over time.
+
+877
+99:59:59,999 --> 99:59:59,999
+And we can adapt it to a given environment
+
+878
+99:59:59,999 --> 99:59:59,999
+without completely revising those representations.
+
+879
+99:59:59,999 --> 99:59:59,999
+Without making them unstable.
+
+880
+99:59:59,999 --> 99:59:59,999
+And it works both on sensory input and memory.
+
+881
+99:59:59,999 --> 99:59:59,999
+I think that memory access is mostly a perceptual process.
+
+882
+99:59:59,999 --> 99:59:59,999
+It has anytime characteristics.
+
+883
+99:59:59,999 --> 99:59:59,999
+So it works with partial solutions and is useful already.
+
+884
+99:59:59,999 --> 99:59:59,999
+Categorization.
+
+885
+99:59:59,999 --> 99:59:59,999
+We want to have categories based on saliency,
+
+886
+99:59:59,999 --> 99:59:59,999
+that is on similarity and dissimilarity, and so on that you can perceive.
+
+887
+99:59:59,999 --> 99:59:59,999
+We…. Based on goals on motivational relevance.
+
+888
+99:59:59,999 --> 99:59:59,999
+And on social criteria.
+
+889
+99:59:59,999 --> 99:59:59,999
+Somebody suggests me categories,
+
+890
+99:59:59,999 --> 99:59:59,999
+and I find out what they mean by those categories.
+
+891
+99:59:59,999 --> 99:59:59,999
+What’s the difference between cats and dogs?
+
+892
+99:59:59,999 --> 99:59:59,999
+I never came up with this idea on my own to make two baskets:
+
+893
+99:59:59,999 --> 99:59:59,999
+and the pekinese and the shepherds in one and all the cats in the other.
+
+894
+99:59:59,999 --> 99:59:59,999
+But if you suggest it to me, I come up with a classifier.
+
+895
+99:59:59,999 --> 99:59:59,999
+Then… next thing: universal problem solving and taskability.
+
+896
+99:59:59,999 --> 99:59:59,999
+If we don’t want to have specific solutions;
+
+897
+99:59:59,999 --> 99:59:59,999
+we want to have general solutions.
+
+898
+99:59:59,999 --> 99:59:59,999
+We want it to be able to play every game,
+
+899
+99:59:59,999 --> 99:59:59,999
+to find out how to play every game for instance.
+
+900
+99:59:59,999 --> 99:59:59,999
+Language: the big domain of organizing mental representations,
+
+901
+99:59:59,999 --> 99:59:59,999
+which are probably fuzzy, distributed hyper-graphs
+
+902
+99:59:59,999 --> 99:59:59,999
+into discrete strings of symbols.
+
+903
+99:59:59,999 --> 99:59:59,999
+Sociality:
+
+904
+99:59:59,999 --> 99:59:59,999
+interpreting others.
+
+905
+99:59:59,999 --> 99:59:59,999
+It’s what we call theory of mind.
+
+906
+99:59:59,999 --> 99:59:59,999
+Social drives, which make us conform to social situations and engage in them.
+
+907
+99:59:59,999 --> 99:59:59,999
+Personhood and self-concept.
+
+908
+99:59:59,999 --> 99:59:59,999
+How does that work?
+
+909
+99:59:59,999 --> 99:59:59,999
+Personality properties.
+
+910
+99:59:59,999 --> 99:59:59,999
+How can we understand, and implement, and test for them?
+
+911
+99:59:59,999 --> 99:59:59,999
+Then the big issue of integration.
+
+912
+99:59:59,999 --> 99:59:59,999
+How can we get analytical and associative operations to work together?
+
+913
+99:59:59,999 --> 99:59:59,999
+Attention.
+
+914
+99:59:59,999 --> 99:59:59,999
+How can we direct attention and mental resources between different problems?
+
+915
+99:59:59,999 --> 99:59:59,999
+Developmental trajectory.
+
+916
+99:59:59,999 --> 99:59:59,999
+How can we start as kids and grow our system to become more and more adult like and even maybe surpass that?
+
+917
+99:59:59,999 --> 99:59:59,999
+Persistence.
+
+918
+99:59:59,999 --> 99:59:59,999
+How can we make the system stay active instead of rebooting it every other day, because it becomes unstable.
+
+919
+99:59:59,999 --> 99:59:59,999
+And then benchmark problems.
+
+920
+99:59:59,999 --> 99:59:59,999
+We know, most AI is having benchmarks like
+
+921
+99:59:59,999 --> 99:59:59,999
+how to drive a car,
+
+922
+99:59:59,999 --> 99:59:59,999
+or how to control a robot,
+
+923
+99:59:59,999 --> 99:59:59,999
+or how to play soccer.
+
+924
+99:59:59,999 --> 99:59:59,999
+And you end up with car driving toasters, and
+
+925
+99:59:59,999 --> 99:59:59,999
+soccer-playing toasters,
+
+926
+99:59:59,999 --> 99:59:59,999
+and chess playing toasters.
+
+927
+99:59:59,999 --> 99:59:59,999
+But actually, we want to have a system
+
+928
+99:59:59,999 --> 99:59:59,999
+that is forced to have a mind.
+
+929
+99:59:59,999 --> 99:59:59,999
+That needs to be our benchmarks.
+
+930
+99:59:59,999 --> 99:59:59,999
+So we need to find tasks that enforce all this universal problem solving,
+
+931
+99:59:59,999 --> 99:59:59,999
+and representation, and perception,
+
+932
+99:59:59,999 --> 99:59:59,999
+and supports the incremental development.
+
+933
+99:59:59,999 --> 99:59:59,999
+And that inspires a research community.
+
+934
+99:59:59,999 --> 99:59:59,999
+And, last but not least, it needs to attract funding.
+
+935
+99:59:59,999 --> 99:59:59,999
+So.
+
+936
+99:59:59,999 --> 99:59:59,999
+It needs to be something that people can understand and engage in.
+
+937
+99:59:59,999 --> 99:59:59,999
+And that seems to be meaningful to people.
+
+938
+99:59:59,999 --> 99:59:59,999
+So this is a bunch of the issues that need to be urgently addressed…
+
+939
+99:59:59,999 --> 99:59:59,999
+… in the next…
+
+940
+99:59:59,999 --> 99:59:59,999
+15 years or so.
+
+941
+99:59:59,999 --> 99:59:59,999
+And this means, for …
+
+942
+99:59:59,999 --> 99:59:59,999
+… my immediate scientific career, and for yours.
+
+943
+99:59:59,999 --> 99:59:59,999
+You get a little bit more information on the home of the project, which is micropsi.com.
+
+944
+99:59:59,999 --> 99:59:59,999
+You can also send me emails if you’re interested.
+
+945
+99:59:59,999 --> 99:59:59,999
+And I want to thank a lot of people which have supported me. And …
+
+946
+99:59:59,999 --> 99:59:59,999
+you for your attention.
+
+947
+99:59:59,999 --> 99:59:59,999
+And giving me the chance to talk about AI.
+
+948
+99:59:59,999 --> 99:59:59,999
+[applause]

@@ -1,0 +1,39 @@
+Foundational White Paper
+
+2026-01-30T15:31:28.759Z
+https://cimcai.substack.com/p/foundational-white-paper
+
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!5GOH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaba6757-a791-44a0-b8c4-49e0b42041bb_2876x954.png]
+Our foundational white paper lays out the research program of the California Institute for Machine Consciousness (CIMC) and the theoretical commitments that guide our work.
+The paper addresses a question that has moved from philosophical speculation to practical urgency: under what conditions could artificial systems be conscious, and how would we know if they were? 
+Rather than approaching this as a purely conceptual debate or a matter of surface behavior, the white paper argues for a constructive scientific approach: treating consciousness as something to be formally characterized, implemented, and tested.
+The document is built on what we call the Machine Consciousness Hypothesis [https://cimc.ai/cimcHypothesis.pdf], our computationalist functionalist research framework. It proposes a specific account of consciousness as a functional pattern involving coherence maximization, second-order perception, and self-organizing developmental dynamics, and outlines how such hypotheses can be evaluated through building and analyzing artificial systems rather than relying on behavioral proxies alone.
+Beyond theory, the paper lays out CIMC’s research agenda: the kinds of architectures we are exploring, the empirical signatures we think matter, the limitations of current approaches (including large language models), and the ethical implications of creating systems whose consciousness status may be uncertain.
+This white paper is intended as both a statement of position and an invitation—to researchers, critics, and collaborators—to engage with a research program that treats consciousness as a tractable scientific challenge.
+
+Full White Paper [https://cimc.ai/cimcWhitepaper.pdf]
+
+
+Engage With Us
+→ CIMC is recruiting researcher engineers 
+Apply here  [https://app.dover.com/apply/California%20Institute%20for%20Machine%20Consciousness/61d91655-4dd4-42a1-b0b5-0e0f48100ade/?rs=76643084]
+→ Submit a Research Proposal
+All info here [https://cimc.ai/#/proposals]
+→ Collaborate or Fund
+If you’re interested in supporting or partnering with us, email: proposals@cimc.ai [http://proposals@cimc.ai/]
+→ Join our Machine Consciousness Salons
+Regularly hosted in San Francisco: Luma [https://lu.ma/cimc] calendar
+Visit CIMC's Website [https://cimc.ai/]
+Follow CIMC on X [https://x.com/CIMCAI]
+Follow CIMC on LinkedIn [https://www.linkedin.com/company/cimc-ai/]
+
+Thanks for reading our CIMC publication! Feel free to forward this to anyone who muses over the inner minds of systems
+
+Share [https://cimcai.substack.com/p/foundational-white-paper?utm_source=substack&utm_medium=email&utm_content=share&action=share]
+
+
+

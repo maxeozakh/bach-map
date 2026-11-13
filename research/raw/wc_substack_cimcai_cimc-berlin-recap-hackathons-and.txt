@@ -1,0 +1,137 @@
+CIMC | Berlin Recap, Hackathons & Upcoming Events 
+
+2026-09-25T15:02:30.216Z
+https://cimcai.substack.com/p/cimc-berlin-recap-hackathons-and
+
+Monthly Researcher Note
+What are we asking when we ask whether machines can be conscious?
+
+
+
+Written by Hikari Sorensen
+Recent work in LLM interpretability, particularly by Anthropic, has shown that the way LLMs organize information to model human language includes functional, i.e. causally effective, representations of emotion, and also a distinct mode/space of concept-organization that resembles the organization of (what some cognitive science theories say distinguishes) the conscious contents of human mentality. We do not yet know whether these coarse resemblances of human mental organization entail phenomenality or experience in the sense that is generally considered morally relevant. Some philosophers have an intuition that there is a special quality to biology, or to direct, continuous embeddedness in a "real" environment underlain by physics, which cannot be captured by machine simulation. But human conscious experience is itself a matter of organizing information - neither do we have access to any "real" continuous physical environment beyond our internal representation of it, and us in it, as a model that organizes our perceptions and the information made available to us by them. At CIMC we are working to understand what phenomenality is as a representational format that gives human conscious experience its particular glowing shape, distinct from any particular contents that appear within it, and whether we can interpret existing or future AI as implementing this phenomenality, whether efficiently modeling a human reality, linguistically or otherwise, possibly or necessarily converges to phenomenal representation - and if not, how this distinct representational achievement could be sparked in a machine.
+
+
+Computational Consciousness in Berlin 
+September 11 - Berlin
+CIMC hosted Computational Consciousness in partnership with the Foresight AI Node [https://foresight.org/grants/ai-science-safety-nodes-rfp/], Zander Labs [https://www.zanderlabs.com/] and Xtropi [https://xtropi.com/?utm_source=luma]. This one-day salon brought together researchers, philosophers, builders, and funders to treat machine consciousness as an emerging domain requiring technical seriousness and ethical foresight.
+Computational Consciousness [https://cimc.ai/events/computational-consciousness]
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!IvWe!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff80e8374-be4c-43f1-87f6-e43fd0e65d1e_1600x899.jpeg]
+Keynotes & Highlights:
+The program featured keynotes exploring the frontiers of mind architectures and neurotechnology:
+Joscha Bach (CIMC), What would it mean for a machine to be conscious?
+
+Thorsten Zander (Zander Labs), The Neuroadaptive Alignment Shortcut
+
+Virginie van Wassenhove (CEA, INSERM, Université Paris-Saclay),
+Time & Consciousness
+
+Trent McConaghy (Xtropi), Towards Hybrid Human-Machine Consciousness
+
+Franz Hildebrandt-Harangozó (CIMC), The Phenomenological Profile of Conscious Experience
+
+Hikari Sorensen (CIMC), Defending computational functionalism
+
+Live Systems & Demos: participants also experienced live demonstrations of experimental systems:
+Toni Antonova (CIMC) presented a live demo of Neural Cellular Automata.
+
+Kazik Pogoda (Xemantic, Foresight Institute) showcased Golem XIV - Autonomous metacognitive AI system with semantic memory and self-directed research
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!3G6D!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7dadc591-fcaf-447b-828c-3a7ee6f89372_1600x899.jpeg]
+Video recordings of the talks and panels will be published soon on our Youtube Channel [https://www.youtube.com/@CIMCAIYT].
+
+Apart Research: Digital Minds Research Sprint
+August 14-16 - San Francisco & Berlin
+CIMC co-organized the Digital Minds Research Sprint with Apart Research, the NYU Center for Mind, Ethics & Policy, and Eleos AI Research, and hosted the San Francisco hub. Over three days, participants designed and ran experiments probing the preferences, welfare signals, introspective abilities, and identity of frontier AI models. 950 people signed up; 237 projects were submitted across six tracks.
+→ Watch Joscha Bach’s talk
+ [https://us06web.zoom.us/rec/share/dZ9nU5rDHQSf2UYwR3FOKAqRJkV41ItAAe82DypKmB2pniQXba3lkrbU2yFLSYjn.8FtIOxq8pXYs3Bfx]→ All winning projects [https://apartresearch.com/sprints/digital-minds-research-sprint-2026-08-14-to-2026-08-16]
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!QAtY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c4a6916-421e-40d8-9dd2-21510b00d255_1456x397.webp]
+
+ALIFE 2026
+August 17-21 - Waterloo, Canada
+CIMC researchers presented at the 2026 Artificial Life Conference. Toni Antonova presented Morphogenesis Through Synchronization: Compiling a Neural Cellular Automaton into an Executable Dynamical Program, on neural cellular automata driven by Kuramoto oscillators.
+→ Toni Antonova’s poster 
+ [https://drive.google.com/file/d/1sADYwSUyzN3wjRJ_XlMunEhVFUPBn_xo/view]→ Angie Normandale’s paper
+ [https://direct.mit.edu/isal/proceedings/isal2026/38/69/138227]→ ALIFE 2026 [https://2026.alife.org/]
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!cxoj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e8ca682-01c6-4dca-8670-9d6c308d1588_1500x500.jpeg]
+
+CIMC Hackathon: Distributed Mind Sandbox Coopetition
+August 1 - San Francisco
+Participants built the control logic for individual organisms navigating a shared world model, balancing cooperation and competition with other participants’ organisms in real time. The challenge ran on Loom, CIMC’s distributed compute fabric, programmed as a single machine. This was Loom’s first live test.
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!SbDf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae73b191-2587-4aab-9b2a-958e6982474d_800x420.jpeg]
+
+Upcoming: CIMC Hackathon: Lattice Animals
+September 25 - San Francisco
+A lattice animal is a mathematician’s name for a creature made of grid cells. This month, the name becomes literal. Each participant brings a mind for a single cell, and single cells don’t count. Only animals do. To exist, an animal needs several minds to find each other, agree on a form, and hold it, with no channel but movement and no commitment but position. Hosted by Philip Rosedale and Joscha Bach.
+Register [https://luma.com/vu8w1g9l]
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!KMRd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b0d4a44-927b-4a1d-9167-e5433d2ba3c8_1622x840.png]
+
+Joscha Bach on Artificial Intelligence and You Podcast
+A two-part conversation on CIMC’s research program: what it means to build a conscious machine, and how we would know if we had.
+→ Part 1 [https://aiandyou.net/e/324-guest-joscha-bach-ai-cognition-researcher-part-1/] · Part 2 [https://aiandyou.net/e/325-guest-joscha-bach-ai-cognition-researcher-part-2/]
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!lZHF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b4228e0-4f3a-4926-8ab2-40050392f13d_440x446.png]
+
+New at CIMC
+Jane Rhee joined CIMC in August as Assistant to the CTO, working with Philip Rosedale. Welcome, Jane.
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!F8Pu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3a035125-5a8a-4ee3-9e1e-20f6e76062ca_632x768.jpeg]
+
+Where to Find CIMC Next
+Models of Consciousness
+ [https://amcs-community.org/events/moc7-2026/]October 2026
+CIMC researchers will attend.
+Ambhasi: The AI X Consciousness Residency at Edge City India — Edge City, Goa, India
+October 18 – November 1, 2026
+A philosophy-of-mind research residency organized by CIMC, Edge City and Consciousness Foundation. Details and how to take part:
+Apply Now [https://docs.google.com/forms/d/1CW8d4Mg98IgVxb0TGqzrMvZxXlj4p29I23URrTzUbm8/viewform?edit_requested=true]
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!-9vh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F199b5a06-143d-43a0-82db-1a918544cded_1918x1080.png]
+
+Engage With Us
+→ Submit a Research Proposal
+All info here [https://cimc.ai/#/proposals]
+→ Collaborate or Fund
+If you’re interested in supporting or partnering with us, email: proposals@cimc.ai [http://proposals@cimc.ai/]
+→ Join our Machine Consciousness Salons
+Regularly hosted in San Francisco: Luma [https://lu.ma/cimc] calendar
+Visit CIMC's Website [https://cimc.ai/]
+Follow CIMC on X [https://x.com/CIMCAI]
+Follow CIMC on LinkedIn [https://www.linkedin.com/company/cimc-ai/]
+Follow CIMC on GitHub [https://github.com/cimcai]
+
+Thanks for reading our CIMC publication! Feel free to forward this to anyone who muses over the inner minds of systems
+
+Share [https://cimcai.substack.com/p/cimc-berlin-recap-hackathons-and?utm_source=substack&utm_medium=email&utm_content=share&action=share]
+
+Thanks for reading CIMC Publication! Subscribe for free to receive new posts.
+
+
+
+
+
+

@@ -1,0 +1,105 @@
+Best Wishes for 2026 A Year of Research, Collaboration, and Shared Progress 
+
+2026-01-10T15:02:39.489Z
+https://cimcai.substack.com/p/best-wishes-for-2026-a-year-of-research
+
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!5GOH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffaba6757-a791-44a0-b8c4-49e0b42041bb_2876x954.png]
+As we begin 2026, we would like to extend our warmest wishes to our community of researchers, collaborators, and readers around the world.
+To kick start this new year we are introducing some our current research projects. 
+We are also pleased to announce a new collaboration between AAAI and CIMC, strengthening bridges between academic research, emerging research communities, and long-term foundational questions in AI. This collaboration reflects our shared commitment to principled research, open dialogue, and constructive scientific exchange.
+
+
+Research Projects
+
+| Child LLM 
+Researchers: Hikari Sorensen & Joel Dietz
+Description: Create a language model trained exclusively on synthetic inner monologue data that simulates a coherent developmental trajectory. Then test whether it will exhibit qualitatively different cognitive properties than models trained on web text or fine-tuned from existing LLMs.
+
+
+
+| Coherent Active State Dynamics in Self-Organizing Systems
+Researchers: Priska Herger and Jochen Kerdels
+Description: A defining feature of conscious experience is the mostly seamless integration of diverse perceptions into a coherent inner state that is experienced from a single perspective. This project aims to explore how such coherence might emerge from distributed neural activity using computational models. The team proposes to develop machine learning systems based on coupling and contextualizing local attractor nodes, borrowing insights from self-organizing principles and mammalian cortical architecture, without replicating the underlying biological mechanisms in detail. These models will consist of unsupervised and continuously learning neuron groups forming local attractors, which will then be interconnected to form a globally coherent active state across the network.
+
+
+
+| Motivational Architecture For Conscious Control
+Researcher: Leander Rust
+Description: With the increasing performance of information processing machines, understanding consciousness has grown from a philosophical project into an ethical challenge with potential real-world applications. Phenomenal consciousness evolved in biological systems to solve a control problem. Approximating this functionality in a computational framework allows for a more rigorous investigation of its underlying mechanism.
+The project aims to develop a motivation module for a cognitive architecture. This module interprets action sequences by visualizing objects within phenomenal channels and models the progression and interactions of their states.
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!41ct!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc8e2fdb4-a353-4f0e-864b-70abac74cce1_400x400.jpeg]
+
+
+| Percepia
+Researcher: Patricia Craja
+Description: Current psychometric instruments rely on static, descriptive categories rather than dynamic computational mechanisms that generate perceptual diversity, leaving us unable to precisely measure, compare, or enhance how minds structure experience and interact with each other.
+Percepia creates a computational map bridging underlying architectures to perceptual personalities and consciousness development stages, enabling a predictive science of mind across human and artificial systems.
+Percepia approaches machine consciousness by assessing whether artificial systems exhibit the meta-inference architectures proposed to underlie conscious experience.
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!YxRX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53897c61-b13b-44bc-89dd-f5541a8fb564_345x345.jpeg]
+
+
+| Self-Organizing Generative Perception
+Researcher: Aleksandr Groznykh
+Description: Our minds are fundamentally self-organizing systems that emerge from local cell interactions without centralized control. This makes bio-inspired differentiable modeling, like Neural Cellular Automata, an exciting frontier for consciousness research — offering insights into how complex behaviors arise from simple, distributed processes.
+
+However, current Neural Cellular Automata face certain limitations: they rely on backpropagation through time and can only learn relatively small objectives. 
+We aim to develop scalable NCA models that can predict complex sequences, making progress toward truly self-organizing learning algorithms that don’t depend on global optimization.
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!N99o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65a5c06e-3eb0-4a1b-a19e-e0b787b1b2f6_591x591.jpeg]
+
+Explore Projects [https://cimc.ai/#research/?projectId=3]
+
+
+Call for Papers - AAAI Spring Symposium 2026
+Machine Consciousness: Integrating Theory, Technology, and Philosophy
+
+As part of this collaboration, we are highlighting the upcoming AAAI Spring Symposium on Machine Consciousness, to be held April 7–9, 2026 in Burlingame, California.
+The symposium will bring together researchers from AI, cognitive science, philosophy, and related fields to address foundational questions, including:
+How can (phenomenal) consciousness be formally defined?
+
+How might consciousness be measured in artificial systems?
+
+What would it take to build conscious machines?
+
+What ethical considerations arise from such efforts?
+
+The symposium welcomes full papers (6–8 pages), extended abstracts (2 pages), and position papers (4–6 pages).
+Submission deadline: January 23, 2026.
+This event reflects a growing recognition within the AI research community of the importance of engaging rigorously with questions of consciousness—both theoretical and practical.
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!cq9Z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48c382dc-f05a-4bcf-b379-f30d34ac8e82_1200x537.png]
+
+AAAI Spring Symposium [https://cimc.ai/events/aaai-symposium]
+Submit [https://easychair.org/account2/signin?l=8760949313187999778]
+
+Engage With Us
+→ Submit a Research Proposal
+All info here [https://cimc.ai/#/proposals]
+→ Collaborate or Fund
+If you’re interested in supporting or partnering with us, email: proposals@cimc.ai [http://proposals@cimc.ai/]
+→ Join our Machine Consciousness Salons
+Regularly hosted in San Francisco: Luma [https://lu.ma/cimc] calendar
+Visit CIMC's Website [https://cimc.ai/]
+Follow CIMC on X [https://x.com/CIMCAI]
+Follow CIMC on LinkedIn [https://www.linkedin.com/company/cimc-ai/]
+
+Thanks for reading our CIMC publication! Feel free to forward this to anyone who muses over the inner minds of systems
+
+Share [https://cimcai.substack.com/p/best-wishes-for-2026-a-year-of-research?utm_source=substack&utm_medium=email&utm_content=share&action=share]
+
+
+

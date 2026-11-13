@@ -1,0 +1,168 @@
+California Institute Of Machine Consciousness - Nonprofit Explorer - ProPublica
+California Institute Of Machine Consciousness
+ San Francisco, CA
+ Tax exemption issued: June 2025
+ EIN: 99-3858960
+ Organization summary
+ Type of Nonprofit
+ Designated as a 501(c)(3)
+ Organizations for any of the following purposes: religious, educational, charitable, scientific, literary, testing for public safety, fostering national or international amateur sports competition (as long as it doesn't provide athletic facilities or equipment), or the prevention of cruelty to children or animals.
+ Category:
+ Science and Technology Research Institutes, Services N.E.C. 
+ (NTEE)
+ Donations to this organization are tax deductible.
+ Tax Filings by Year
+ Form 990 is an information return that most organizations claiming federal tax-exempt status must file yearly with the IRS.
+ Nonprofit Explorer has IRS digitized Form 990 data for filings processed in 2012 and later. Duplicate download links may indicate a resubmission or amendment to this organization's original return. 
+ Organizations with gross receipts of less than $50,000 can file the form 990-N postcard filing, which doesn’t include financial details. All Form 990 data is from the IRS.
+ See an issue with the data?
+Contact Us
+ Fiscal Year Ending Dec.
+ 2024
+ Extracted Financial Data
+ Extracted Financial Data from 990-EZ
+ Revenue
+ $3,500
+ Expenses
+ $378
+ Net Income
+ $3,122
+ Net Assets
+ $3,122
+ Notable Sources of Revenue
+ Percent of Total Revenue
+ Contributions
+ $3,500 
+ 100%
+ Program Services
+ $0 
+ Investment Income
+ $0 
+ Net Fundraising
+ $0 
+ Sales of Assets
+ $0 
+ Net Inventory Sales
+ $0 
+ Other Revenue
+ $0 
+ Assets/Debt
+ Total Assets
+ $3,122 
+ Total Liabilities
+ $0 
+ Net Assets
+ $3,122 
+ Compensation
+ Key Employees and Officers
+ Compensation
+ Other
+ Erik Newton 
+ (President)
+ $0
+ $0
+ Joscha Bach 
+ (Executive Dir.)
+ $0
+ $0
+ Lou De K 
+ (Vice President)
+ $0
+ $0
+ Zhen Tan 
+ (Secretary)
+ $0
+ $0
+ Jim Rutt 
+ (Chairman)
+ $0
+ $0
+ Philip Rosedale 
+ (Treasurer)
+ $0
+ $0
+ Krill Eves 
+ (Director)
+ $0
+ $0
+ + View more people
+ Document Links
+ 990-EZ
+ Filed on Nov. 18, 2025
+ Short form tax return for a nonprofit’s activities, finances, and governance
+ View Filing
+ Schedules ▼ 
+ Form 990-EZ
+ Form 990, Schedule A
+ Form 990, Schedule O
+ XML
+ About This Data
+ What Is This Data?
+ Nonprofit Explorer includes summary data for nonprofit tax returns and
+ full Form 990 documents, in both PDF and digital formats.
+ The summary data contains financial information from tax returns processed 
+ by the IRS since the 2012 calendar years, as well as data extracted from 
+ digital filings. IRS summary data also includes limited older records. This 
+ data release includes only a subset of what can be found in the full Form 990s.
+ In addition to the raw summary data, we link to PDFs and digital copies
+ of full Form 990 documents wherever possible. This consists of separate
+ releases by the IRS of Form 990 documents processed by the agency, which
+ we update regularly.
+ We also link to copies of audits for nonprofit organizations that spent
+ $750,000 or more in federal grant money in a single fiscal year since
+ 2016. These audits are copied from the Federal Audit Clearinghouse.
+ Which Organizations Are Here?
+ Most organizations that have been recognized as tax exempt by the IRS
+ have to file the Form 990 every year, unless they make less than $200,000
+ in revenue and have less than $500,000 in assets, in which case they
+ have to file the Form 990-EZ. Organizations making less than $50,000
+ don’t have to file either form but do have to let the IRS they’re
+ still in business via a
+ Form 990N "e-Postcard," which does not contain financial details. Churches are not required to file Form 990.
+ Nonprofit Explorer has organizations that are claiming tax exemption in any
+ of the 27 subsections of the 501(c) section of the tax code. Taxable
+ trusts and private foundations that are required to file a form
+ 990PF are also included.
+ Types of Nonprofits
+ There are 27 nonprofit designations based on the numbered
+ subsections of section 501(c) of the tax code.
+ See the list »
+ Get the Data
+ For those interested in acquiring the original data from the source,
+ here’s where our data comes from:
+ Raw filing data. Includes Employer Identification Numbers and summary financials as structured data.
+ Exempt Organization profiles. Includes organization names, addresses, etc. You can merge
+ this with the raw filing data using EIN numbers.
+ Form 990 documents. Prior to 2017, these documents were obtained and processed by
+ Public.Resource.org
+ and ProPublica.
+ Form 990 documents as XML files. Includes complete filing data (financial details, names of
+ officers, tax schedules, etc.) in machine-readable format. Only
+ available for electronically filed documents. Electronic data
+ released prior to October 2021 is also available
+ through Amazon Web Services.
+ Audits. PDFs of single or program-specific audits for nonprofit
+ organizations that spent $750,000 or more in federal grant money
+ in a single fiscal year. Available for fiscal year 2015 and
+ later.
+ API
+ The data powering this website is available programmatically, via an
+ API. Read the API documentation »
+ See an issue with the data?
+Contact Us
+ About Nonprofit Explorer
+ Nonprofit Explorer
+ Browse millions of annual returns filed by tax-exempt organizations with
+ProPublica’s Nonprofit Explorer. See details like executive compensation,
+revenue, expenses and more. Search for an organization or a person, or search
+the full text of filings.
+ By
+ Andrea Suozzo,
+ Alec Glassford,
+ Ash Ngu and
+ Brandon Roberts.
+ Design by Jeff Frankl. Additional development by Ken Schwencke, Mike Tigas, and Sisi Wei.
+ E-file viewer adapted from
+ IRS e-File Viewer by Ben Getson. Code for scraping audit documents adapated from
+ Govwiki.
+ Updated October 22, 2026

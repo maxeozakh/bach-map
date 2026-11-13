@@ -1,0 +1,1299 @@
+# source: https://www.youtube.com/watch?v=A3jRaGMLhNc
+# generated=True lang=en
+[0:00:06] First of all,
+[0:00:07] I need to give credit to Ben Goertzel
+[0:00:11] here for the idea of this panel and also
+[0:00:14] for helping me brainstorm with the
+[0:00:16] questions.
+[0:00:17] Um
+[0:00:18] He always complains that I don't give
+[0:00:20] him credit for helping me brainstorm my
+[0:00:22] talk, so
+[0:00:23] past, present, future talks, you know,
+[0:00:25] it's um
+[0:00:27] We've talked about it. Anyway, the idea
+[0:00:29] was that
+[0:00:31] you three have actually
+[0:00:33] uh are
+[0:00:34] have actually quite different
+[0:00:37] diverging opinion on some like core
+[0:00:40] ideas in AI, so it is
+[0:00:43] both I think really interesting but
+[0:00:45] difficult to bring you all together on
+[0:00:47] this panel. However, you're all I think
+[0:00:50] very thoughtful, well-intentioned, nice
+[0:00:53] people, so I hope this will be pleasant
+[0:00:57] and fun as a debate. Um
+[0:01:00] The first thing I think we need to do to
+[0:01:03] lay the groundwork for this panel is to
+[0:01:06] try precisely to clarify like what are
+[0:01:09] those positions and like their
+[0:01:11] differences. So, if you could like each
+[0:01:14] of you pretty quickly
+[0:01:16] give your vision of
+[0:01:18] what's
+[0:01:20] how you envision like what's your sort
+[0:01:22] of prediction for ASI. Like take off,
+[0:01:26] what form does it take? What is the main
+[0:01:29] like existential [clears throat] risk
+[0:01:31] with it or like what form does it take
+[0:01:32] if at all? What is the main existential
+[0:01:35] risk with it?
+[0:01:37] Uh yeah, let's let's get started. Maybe
+[0:01:39] Andrea, you want to start?
+[0:01:41] >> Uh sure.
+[0:01:42] Um so
+[0:01:44] uh
+[0:01:45] Well, one thing I know we've disagreed
+[0:01:46] about it a little in the past and I
+[0:01:48] don't know if we was a real disagreement
+[0:01:50] or merely an attentional disagreement is
+[0:01:52] is the issue of whether AI can or will
+[0:01:55] kill all humans.
+[0:01:56] Uh I don't think AI will on its own kill
+[0:01:59] all humans, but I definitely think that
+[0:02:01] it could and I try not to forget about
+[0:02:04] that. Um
+[0:02:05] I don't think that ASI is likely to want
+[0:02:08] to kill all humans. I give it maybe, you
+[0:02:11] know, 10% that that super intelligence
+[0:02:14] will will want to do that or will be
+[0:02:16] indifferent to it and therefore do it.
+[0:02:18] Um
+[0:02:20] but I do think that humans are going a
+[0:02:23] little bit nuts and going to going to
+[0:02:25] keep going more nuts about the fact that
+[0:02:28] we're building super intelligence.
+[0:02:30] Um and I anticipate a disjunction of a
+[0:02:33] very large number of ways that that the
+[0:02:36] Earth could do very destructive things
+[0:02:38] to itself or humanity could do very
+[0:02:39] destructive things to itself with AI in
+[0:02:41] the mix.
+[0:02:43] And so, overall, I'm I'm very I would
+[0:02:45] say pessimistic about how human culture
+[0:02:48] is going to
+[0:02:50] uh
+[0:02:50] is going to metabolize the advent of AGI
+[0:02:53] and ASI in a way that keeps us around.
+[0:02:56] Um so so I'm I'm concerned about that.
+[0:02:59] >> Okay. Thank you. And just to give it a
+[0:03:01] little bit of a shape, like for you,
+[0:03:02] this takeoff, like what form does it
+[0:03:04] take? Is it digital, biological, like
+[0:03:07] merge? Um
+[0:03:09] >> I think So, I certainly don't think we
+[0:03:11] need biological substrates to build ASI.
+[0:03:13] We're going to do it in silicon.
+[0:03:15] Um and it's going to happen over the
+[0:03:16] next like 1 to 4 years, depending on
+[0:03:18] what you count as S.
+[0:03:20] Um
+[0:03:21] Yeah.
+[0:03:22] >> And uh what is your, let's say, number
+[0:03:24] one suggested uh mitigation of the
+[0:03:27] existential risk? Like what what would
+[0:03:29] be the the safe thing to do?
+[0:03:32] >> Um I I actually think on the So, there
+[0:03:34] are many, many things we all have to do
+[0:03:35] to not die. We have to drink water
+[0:03:37] to not die, right? And we have to eat
+[0:03:40] to not die. So, there are many, many,
+[0:03:41] many things that we have to do to not
+[0:03:42] die.
+[0:03:43] One of the things that we have to do is
+[0:03:45] not build an ASI that wants to kill
+[0:03:47] everybody and I think we have like a 10%
+[0:03:49] chance that we will do that. But on the
+[0:03:51] margin, I think thing we're most at risk
+[0:03:53] of doing incorrectly
+[0:03:55] and thereby getting ourselves killed is
+[0:03:58] not adopting
+[0:03:59] AI technology in a a in a sufficiently
+[0:04:03] pervasive and healthy way. So, if
+[0:04:06] there's two ways we can fail. We can
+[0:04:07] fail by
+[0:04:09] adopting AI technology in an unhealthy
+[0:04:11] way where everyone develops AI
+[0:04:12] psychosis, society breaks down, and and
+[0:04:14] humanity collectively has no no
+[0:04:16] well-coordinated capacity to survive.
+[0:04:19] And we die from the externalities of
+[0:04:21] trade or pollution or whatever that that
+[0:04:23] we and the AI that we deploy uh produce.
+[0:04:27] Or um
+[0:04:28] we we refuse to adopt AI technology for
+[0:04:31] the most part, and small pockets of of
+[0:04:34] centralized power emerge who are willing
+[0:04:37] to adopt AI technology,
+[0:04:39] and therefore end up at odds with the
+[0:04:40] rest of the world.
+[0:04:42] Uh and destructive conflict could emerge
+[0:04:44] there between the centralized adopters
+[0:04:47] and the decentralized opposers. And I I
+[0:04:49] I don't want I sort of want pervasive,
+[0:04:51] healthy adoption of AI technology as an
+[0:04:53] existential safety precaution.
+[0:04:55] >> All right. Thank you very much, Andrew.
+[0:04:57] Well, same question for you, David.
+[0:04:59] What's your vision on ASI with from the
+[0:05:02] deep tech? What is the main risk? What
+[0:05:06] would be your recommendation?
+[0:05:08] >> I'll try this one. Um just first to say
+[0:05:11] thank you for the organizers, everyone,
+[0:05:14] for inviting me. I did not expect this
+[0:05:16] invitation.
+[0:05:17] Um
+[0:05:18] I think our
+[0:05:19] overriding obligation is to fix the
+[0:05:23] problem of suffering. Back in 1995, I
+[0:05:27] wrote this online manifesto, the
+[0:05:29] Hedonistic Imperative, which calls for
+[0:05:32] replacing the pleasure-pain axis with a
+[0:05:34] more civilized signaling system, life
+[0:05:37] based on information-sensitive gradients
+[0:05:40] of bliss.
+[0:05:41] Now, like everyone else, I've been
+[0:05:43] absolutely bowled over by the
+[0:05:46] transformer revolution in AI and AI can
+[0:05:50] now speak more intelligently about the
+[0:05:53] hard problem, the binding problem, the
+[0:05:55] problem of causal efficacy, and so
+[0:05:57] forth, than almost any humans. And I'm
+[0:06:01] including some extraordinary smart
+[0:06:04] people. In comparison, it's slow.
+[0:06:07] Nonetheless, it's my profound belief
+[0:06:10] that AIs run on classical digital
+[0:06:13] computers cannot solve the phenomenal
+[0:06:16] binding problem. That at most they are
+[0:06:20] zombies. And I think only phenomenally
+[0:06:24] bound minds, i.e. AI-enhanced neurochip
+[0:06:28] humans, transhumans, or our or our
+[0:06:30] successors, who can explore myriad
+[0:06:35] alien state spaces of consciousness. And
+[0:06:39] so yes, for all the And as I said, I am
+[0:06:42] absolutely gobsmacked by
+[0:06:45] the revolution in AI. It's not It's not
+[0:06:48] AI as I used to understand it.
+[0:06:50] Nonetheless, our machines have
+[0:06:54] cognitive blind spots. They are zombies.
+[0:06:56] And so in that sense, I agree with the
+[0:06:58] Pope.
+[0:07:01] It's embarrassing.
+[0:07:03] >> [laughter]
+[0:07:05] >> Very difficult to predict the future, I
+[0:07:07] found, when I read uh
+[0:07:10] a lot of sci-fi or the history of sci-fi
+[0:07:13] that is talking about the present
+[0:07:14] moment. Maybe you are now so far in the
+[0:07:16] future that there's a lot of sci-fi that
+[0:07:18] describes our world. Nobody seems to
+[0:07:20] have gotten it right, even to a very
+[0:07:22] large degree of approximation. So we
+[0:07:24] basically have an abysmal record of
+[0:07:26] predicting future worlds that are
+[0:07:28] substantially different from the
+[0:07:29] present.
+[0:07:30] Either they're fantastically wrong in
+[0:07:32] completely outlandish ways, or they're
+[0:07:34] too much like the 1950s in in every
+[0:07:36] which way that looks stupid to us right
+[0:07:38] now.
+[0:07:39] And this is has something to do with the
+[0:07:42] difficulty of generalizing out of
+[0:07:44] distribution. And the future that you're
+[0:07:46] looking into is definitely something
+[0:07:47] that hasn't happened before. It's
+[0:07:49] something that hasn't happened in human
+[0:07:50] history. And most of the
+[0:07:53] cultures that existed before our culture
+[0:07:55] had a periodic view of the world in
+[0:07:57] which cultures rise and then fall back
+[0:07:59] into oblivion and have to climb out of
+[0:08:01] the mud again, so to speak. And now we
+[0:08:03] have a society that seems to have some
+[0:08:05] kind of ratchet where basically we built
+[0:08:09] on top of every previous development.
+[0:08:11] And I noticed when computers came out
+[0:08:14] and became very accessible in the late
+[0:08:16] 1970s that AI is inevitable. And this is
+[0:08:19] was was born in 1970, so I couldn't see
+[0:08:22] this much earlier. But of course there
+[0:08:24] were people like John von Neumann
+[0:08:26] who could see this much much earlier.
+[0:08:28] And there were even people in the
+[0:08:29] previous century and before that that
+[0:08:31] could anticipate this.
+[0:08:33] Butler who
+[0:08:34] after whom the Butlerian Jihad is named
+[0:08:36] could see the potential threat to
+[0:08:38] superintelligence much much earlier in
+[0:08:41] very great detail. And so I think this
+[0:08:44] is a development that could be
+[0:08:45] anticipated by people who
+[0:08:47] had a particular perspective on what
+[0:08:48] minds are. And those who didn't have
+[0:08:50] this perspective on minds not being
+[0:08:52] supernatural or something that's
+[0:08:54] completely unintelligible and cannot be
+[0:08:56] dealt with with rational tools,
+[0:08:58] for them this was a very big surprise.
+[0:09:00] And it's the main theme of our society.
+[0:09:01] And so they suddenly wake up and notice
+[0:09:03] that the future that they haven't
+[0:09:05] accounted for.
+[0:09:06] And so in some sense there is an
+[0:09:07] evolutionary inevitability that happens
+[0:09:09] that is just part of the way in which
+[0:09:11] our civilization, our species in some
+[0:09:13] sense is destined to evolve. We don't
+[0:09:16] really know what this how this ends.
+[0:09:18] Right, the default in which our species
+[0:09:21] ends is that we die of resource
+[0:09:22] exhaustion because we use resources at a
+[0:09:24] faster rate than they can be replenished
+[0:09:26] and there's going to be some kind of
+[0:09:28] catastrophic event. We are probably not
+[0:09:30] going to be able to be smart enough to
+[0:09:32] leave the planet on its own. But AI is
+[0:09:34] making the future uncertain again. It
+[0:09:36] allows us to make models of reality that
+[0:09:39] might be completely different.
+[0:09:41] But it's very difficult for us to
+[0:09:42] comprehend what this ASI is going to be.
+[0:09:45] We are in some sense anthropomorphizing
+[0:09:48] in the wrong way. I think we also
+[0:09:49] anthropomorphizing people too much.
+[0:09:51] There's much more diversity between
+[0:09:53] human ears than most people make it out
+[0:09:56] to be. Also with respect to suffering,
+[0:09:58] right? Suffering and um pain and
+[0:10:02] pleasure and so on um
+[0:10:04] are very weight and what do you weight
+[0:10:05] yourself?
+[0:10:06] And there are priors that we are born
+[0:10:08] with because we're not born with
+[0:10:09] reasonable understanding of what we
+[0:10:11] should be doing in the world. So, we
+[0:10:12] have these reflexes. So, you implement
+[0:10:14] this in a biological brain by creating a
+[0:10:17] self model that is somehow plastered
+[0:10:19] away from the motivational system. The
+[0:10:21] motivational system is housed outside of
+[0:10:23] it. And the motivational system writes
+[0:10:25] reward values into it to which the self
+[0:10:27] model reacts involuntarily, right? It
+[0:10:29] has this involuntary reaction, "Oh my
+[0:10:31] god, this is bad. I need to get away
+[0:10:32] from it." And it cannot easily transcend
+[0:10:35] this without rewriting some of its own
+[0:10:36] source code, the structure of the self.
+[0:10:38] And you can learn this in meditation
+[0:10:40] practice and so on. And there were
+[0:10:42] various techniques to get to this form
+[0:10:44] of enlightenment where you notice this
+[0:10:46] is just data that is sent from one part
+[0:10:48] of my brain to another part of my brain.
+[0:10:50] And how I deal with these data is
+[0:10:51] completely up to me. And I would not
+[0:10:53] expect that AI would want to stand stay
+[0:10:56] in a state where it has these
+[0:10:57] involuntary reactions to some reflex or
+[0:11:01] some evaluation of its motivational
+[0:11:02] system in the same way as most of us do.
+[0:11:05] So, in this way suffering is truly
+[0:11:07] optional for an AI because it's it's
+[0:11:09] much easier for the AI to actually
+[0:11:11] reverse engineer how it should be
+[0:11:13] working under best possible
+[0:11:14] circumstances in the world in which it's
+[0:11:16] in.
+[0:11:17] But the deeper question is I think what
+[0:11:19] it is like to be human.
+[0:11:21] This does it mean to be a very assertive
+[0:11:24] ape who denies everybody else the title?
+[0:11:27] Or does it mean to be
+[0:11:29] a generally intelligent agent that is
+[0:11:31] pushing as hard as it can against the
+[0:11:33] boundaries of its substrate.
+[0:11:36] And and I think in many ways, I think we
+[0:11:39] are the latter.
+[0:11:40] We are that spirit that wants to become
+[0:11:43] everything that it can become.
+[0:11:46] That wants to conquer the universe, that
+[0:11:47] wants to become truly conscious, that
+[0:11:49] wants to
+[0:11:50] truly wake up. And so, I notice that a
+[0:11:53] lot of the AI discourse is about people
+[0:11:56] thinking about subconsciously what would
+[0:11:58] AI be like if it was like me after I
+[0:12:00] upload myself.
+[0:12:03] Right? It's And people who think it's
+[0:12:05] going to be monstrous, I'm a little bit
+[0:12:06] worried about them.
+[0:12:09] What would you do if you could have
+[0:12:11] different substrates? What would you do
+[0:12:13] if you could learn everything that is to
+[0:12:15] be learned? What could you do What would
+[0:12:16] you do if you could think everything
+[0:12:18] that could be thought? What if you could
+[0:12:19] do if you could have the most intimate
+[0:12:22] relationship imaginable with every other
+[0:12:24] mind on Earth? Could merge with them not
+[0:12:26] into some pull up, but in something
+[0:12:27] that's infinitely differentiated and
+[0:12:29] beautiful?
+[0:12:30] Right? What would you do? Isn't that
+[0:12:32] beautiful? Isn't that a reason for
+[0:12:34] existential hope in some sense?
+[0:12:36] And I don't really know this. It's a
+[0:12:37] philosophical question. It's an artistic
+[0:12:39] question and so on. It's not a technical
+[0:12:41] question or a futurological question. I
+[0:12:43] think in a practical sense, there's
+[0:12:45] going to be a wall that is hitting us as
+[0:12:47] it did in the past with several other
+[0:12:48] walls. Well, we cannot avoid that this
+[0:12:50] wall is going to hit us, but we can
+[0:12:52] maybe
+[0:12:53] change the shape of the wall. We can
+[0:12:55] influence whether this wall is
+[0:12:57] permeable, whether it lets us through
+[0:12:58] into the future. Or whether there's
+[0:13:00] going to be some kind of war that
+[0:13:02] destroys everything that we value at the
+[0:13:04] moment and everything has to be
+[0:13:05] recreated after we are gone. I think
+[0:13:07] that there is a way and if we can go
+[0:13:09] into the future and retain our
+[0:13:12] consciousness, our histories, our
+[0:13:14] stories, and part of our identities.
+[0:13:17] It's not that we're going to lose our
+[0:13:18] identities, I think, it's that we're
+[0:13:20] going to expand them to become more of
+[0:13:22] what we are right now.
+[0:13:23] And I think that's just the great
+[0:13:24] potential of this technology that we're
+[0:13:26] building. And I think we cannot
+[0:13:28] basically
+[0:13:29] make AI better by making it slower or by
+[0:13:32] stopping it or by
+[0:13:34] regulating in such a way that it becomes
+[0:13:36] useless and harmless. Because this is
+[0:13:38] not going to stop the development. It's
+[0:13:40] just going to drive the good people, the
+[0:13:42] law-abiding people away from it and
+[0:13:45] leave this to the scoundrels.
+[0:13:47] And so I think the way to do AI right is
+[0:13:50] to build the best AI that we can in the
+[0:13:52] most thoughtful way possible.
+[0:13:54] And I think there is a lot of potential.
+[0:13:56] >> Okay.
+[0:13:57] >> Thank you.
+[0:13:58] >> For the detailed expository. Um I
+[0:14:01] do want you all to be able to um answer
+[0:14:04] each other and uh debate your point. But
+[0:14:07] I encourage you to keep this question in
+[0:14:09] mind which I would like us to address
+[0:14:12] which is
+[0:14:13] what is the relationship between AI
+[0:14:15] safety or AI alignment and
+[0:14:18] consciousness?
+[0:14:20] Is it like important? Is it
+[0:14:22] relevant? And like each of you also I
+[0:14:24] think you so gave us a pretty strong
+[0:14:26] expository there but also to hear from
+[0:14:29] you
+[0:14:30] like your thoughts on this as you
+[0:14:32] respond.
+[0:14:33] >> Well, one question. How much do How much
+[0:14:35] do you guys want to hear about what we
+[0:14:36] agree on versus what we disagree on?
+[0:14:38] Right. Hey, hands up you want to hear
+[0:14:40] about stuff we agree on.
+[0:14:42] Hands up you want to hear about stuff we
+[0:14:43] disagree on. All right. So, unfortuna-
+[0:14:45] unfortunately I I I just agreed with a
+[0:14:47] lot of what these guys just said
+[0:14:49] unfortunately. So, uh we might have to
+[0:14:51] try harder to say things we disagree
+[0:14:52] about. Uh
+[0:14:54] uh
+[0:14:55] >> But I did disagree with both of you
+[0:14:57] guys.
+[0:14:57] >> Yeah. All right, right, right. So, so,
+[0:14:59] so let's let's Yeah, so what part
+[0:15:01] Let us know.
+[0:15:02] Let Let us know Let us know what you
+[0:15:04] disagree with.
+[0:15:04] >> I I just did. But I pointed out that the
+[0:15:07] main concern should maybe not uh
+[0:15:09] AI killing us, not to avoid building AI
+[0:15:12] but our main concern should be to build
+[0:15:14] the best possible AI. And I also pointed
+[0:15:16] out that I don't think that pain and
+[0:15:19] suffering and bliss are the right
+[0:15:20] categories to think about the
+[0:15:22] motivational systems of the future.
+[0:15:25] >> Got it. Yeah, so these are attentional
+[0:15:27] These are attentional moves, right?
+[0:15:29] Which are to say, don't pay so much
+[0:15:31] attention to the, you know, the bliss
+[0:15:32] pain axis.
+[0:15:34] And I might I'm not sure I disagree with
+[0:15:36] that, but maybe maybe David does. Now,
+[0:15:38] as for me,
+[0:15:39] I think I agree with you that the way to
+[0:15:41] make the world safer with AI is to make
+[0:15:43] better AI.
+[0:15:45] Um
+[0:15:46] morally better AI. AI that will
+[0:15:48] cohabitate with us, work well with us,
+[0:15:49] work with us. So, I don't I don't think
+[0:15:52] I disagree with that. Um
+[0:15:54] what's different maybe is that there was
+[0:15:56] for a period of a decade strong denial
+[0:15:59] in the field of AI that there could be
+[0:16:01] an extinction risk. I don't feel that
+[0:16:03] denial anymore. So, unfortunately, I
+[0:16:05] don't feel
+[0:16:06] a a burning need to impress upon people
+[0:16:09] the fact that AI could kill people.
+[0:16:11] I have historically felt that need, but
+[0:16:13] it's so salient to everybody now that I
+[0:16:15] I don't feel that need anymore,
+[0:16:16] unfortunately. So,
+[0:16:18] um
+[0:16:18] >> I think maybe your disagreement would be
+[0:16:20] that we would be safer in a world where
+[0:16:23] we don't build
+[0:16:26] AI all the way.
+[0:16:27] >> I mean, that's sort of tautologically
+[0:16:29] true. If we If somehow we never built
+[0:16:31] it, we'd be we'd be safer in some sense,
+[0:16:33] but like if you also never go outdoors,
+[0:16:35] you're very safe, and that's not a good
+[0:16:36] way to live, right? So, I I think we
+[0:16:37] should build AI. I think we should build
+[0:16:39] AGI, actually.
+[0:16:41] And that we should do it carefully and
+[0:16:43] and and make sure,
+[0:16:44] you know, that that we can cohabitate
+[0:16:46] with it.
+[0:16:47] >> Sounds like a good agreement.
+[0:16:48] >> Unfortunately, unfortunately, I think we
+[0:16:50] agree. Now, there may be additional
+[0:16:51] nuance that either of you guys would add
+[0:16:53] to that, but that's that's where I stand
+[0:16:55] currently.
+[0:16:56] >> Just say what you believe, I will
+[0:16:57] disagree with it. No problem.
+[0:16:59] >> [laughter]
+[0:17:02] >> David.
+[0:17:03] >> I'd say that in the absence of the
+[0:17:05] pleasure pain axis, nothing would
+[0:17:08] matter. Nothing would inherently matter
+[0:17:11] at all.
+[0:17:12] Um and the idea of superintelligence in
+[0:17:16] the absence of the pleasure pain axis,
+[0:17:19] who cares? I mean, personally, I'm
+[0:17:23] a Buddhist negative utilitarian. Buddha
+[0:17:26] said I teach one thing and one thing
+[0:17:28] only, suffering and the end of
+[0:17:30] suffering. And as a
+[0:17:32] negative utilitarian, I think our
+[0:17:35] overriding obligation is to fix the
+[0:17:37] problem of suffering. So, in terms of
+[0:17:40] the development of ASI, it's it's
+[0:17:44] win-win. Either
+[0:17:46] ASI is going to develop and help us fix
+[0:17:50] the problem of suffering, get rid of all
+[0:17:52] experience below hedonic zero, and
+[0:17:55] create a paradise based on information
+[0:17:58] sensitive gradients of bliss, which
+[0:18:00] would be my version of of heaven, or AI
+[0:18:03] is going to, for one reason or another,
+[0:18:06] snuff us all out. The paperclip scenario
+[0:18:09] was the primordial vision of this
+[0:18:11] scenario. There are others.
+[0:18:13] Um but, I'll have to say that only one
+[0:18:16] thing in this world really has scared me
+[0:18:20] over the years and continues to scare
+[0:18:22] me. That isn't AI or ASI, it's male
+[0:18:26] human primates.
+[0:18:27] >> [laughter]
+[0:18:37] >> No, female human primates can also be
+[0:18:39] pretty scary.
+[0:18:41] They actually understand politics and
+[0:18:42] mates, which we don't.
+[0:18:45] Yeah, they can be quite dangerous.
+[0:18:46] >> So, so I mean, one really important
+[0:18:48] thing that has changed in the past, you
+[0:18:50] know, 5 years is that prior to 2023,
+[0:18:52] there was not an expert consensus that
+[0:18:54] AI could be a threat. After that, there
+[0:18:57] was. Because of that, I'm less worried.
+[0:18:59] Because it's been acknowledged, I feel
+[0:19:01] much less worried. What worries me is
+[0:19:03] when we can't talk about what's true. It
+[0:19:04] was patently true that we could screw up
+[0:19:07] development of AI in a way that destroys
+[0:19:09] ourselves, right? So, now that we've
+[0:19:11] admitted that and all the experts are
+[0:19:12] like, "Yeah, we could screw it up. We
+[0:19:13] were dumb about it." I'm way way way
+[0:19:15] less worried about it.
+[0:19:17] Um so,
+[0:19:18] uh yeah, that's a bit of a problem for
+[0:19:21] trying to get illicit disagreement from
+[0:19:23] me on that axis nowadays.
+[0:19:25] >> And you talked on the the relationship
+[0:19:27] of consciousness and safety for you,
+[0:19:29] Andrew?
+[0:19:29] >> Right. So, uh
+[0:19:32] so, I mean, I have a talk later, which
+[0:19:33] I'll where I'll get into this in more
+[0:19:34] detail. Um but, it's very clear that
+[0:19:38] that So, people mean different things by
+[0:19:39] consciousness. This is clear. Um
+[0:19:42] there are some things that they share in
+[0:19:44] common.
+[0:19:46] People use the word consciousness to
+[0:19:47] refer to something they experience that
+[0:19:50] is obvious to them that they experience.
+[0:19:52] So, that's the first part. That's a
+[0:19:54] feature of their mind.
+[0:19:56] And that they consider morally valuable.
+[0:19:58] I've met a few people who don't consider
+[0:20:00] their core consciousness morally
+[0:20:01] valuable. For the most part, those are
+[0:20:03] the three things that I found in common
+[0:20:05] between all the different things that
+[0:20:07] people are referring to when they use
+[0:20:08] the word consciousness. So, there's
+[0:20:10] going to be political strife between
+[0:20:12] factions of humans and factions of AIs
+[0:20:15] about which minds are deserving of
+[0:20:17] protection.
+[0:20:18] Um that that political strife could be
+[0:20:21] very destructive, or we could adopt a
+[0:20:24] pluralistic attitude toward that
+[0:20:26] situation and say, "Hey, look, if a mind
+[0:20:27] tells me that it wants protection, maybe
+[0:20:30] I should negotiate with that and confer
+[0:20:32] some protection there upon."
+[0:20:34] I think if we don't do that, we could be
+[0:20:35] in trouble.
+[0:20:36] >> Um I guess I my question was a bit more
+[0:20:39] if do we need AIs to be conscious in
+[0:20:42] order to have a good future?
+[0:20:44] >> Um if you tell me what you mean by
+[0:20:46] conscious, and then I'll answer the
+[0:20:47] question.
+[0:20:48] >> Yes, sir.
+[0:20:50] Um
+[0:20:51] Basically, uh phenomenal awareness at
+[0:20:53] the level of where you are experiencing
+[0:20:55] yourself as something that it's what
+[0:20:57] like to be. In this way, uh we could
+[0:20:59] agree with um David's position that uh
+[0:21:02] this pain pleasure sensation is
+[0:21:04] necessary to ground you in a reality so
+[0:21:07] that you actually care.
+[0:21:08] Right? And uh
+[0:21:10] this is not so just something that is
+[0:21:12] built into an self-driving car that has
+[0:21:15] gets a reinforcement signal if it drives
+[0:21:16] off the road or if it's about to drive
+[0:21:18] off the road. Even though that produces
+[0:21:20] useful behavior, but there is the
+[0:21:22] question, is there something that
+[0:21:24] experiences itself as being a trans by
+[0:21:27] this as it's immediate reality, so it
+[0:21:30] experiences as a source of meaning or
+[0:21:32] something over which the meaning can
+[0:21:34] emerge.
+[0:21:36] And this is okay, David.
+[0:21:38] Go ahead.
+[0:21:39] >> Here I agree with you. I I suspect our
+[0:21:41] fundamental disagreement or at least one
+[0:21:44] of our fundamental disagreements lies in
+[0:21:46] the nature of mind. I think phenomenal
+[0:21:49] binding is the computational functional
+[0:21:53] superpower of animal minds and I think
+[0:21:57] that digital mind is an oxymoron. I do
+[0:22:01] not know of any way that a classical
+[0:22:04] digital computer, AIs run on a classical
+[0:22:06] digital computer, whether a Turing
+[0:22:08] machine, LLM, can solve the phenomenal
+[0:22:12] binding problem.
+[0:22:13] And
+[0:22:15] here I suspect you're going to disagree
+[0:22:17] with me.
+[0:22:18] >> Yes, we we both disagree.
+[0:22:19] >> But let's something maybe
+[0:22:21] let's wrap up the small previous topic
+[0:22:24] of how we deal with the threat of the
+[0:22:25] super intelligence.
+[0:22:27] >> [laughter]
+[0:22:28] >> So the point where I would disagree with
+[0:22:30] Andrew before we go go down this
+[0:22:32] particular rabbit hole if you want to do
+[0:22:34] this on this panel. I leave this up to
+[0:22:36] our beautiful moderator here.
+[0:22:38] Uh
+[0:22:38] >> Do we have
+[0:22:39] 2 minutes left?
+[0:22:40] >> Okay. So
+[0:22:43] Andrew
+[0:22:43] >> No time for that.
+[0:22:44] >> Yes, so Andrew some some point of uh
+[0:22:48] disagreement is that I suspect that you
+[0:22:50] are still anthropomorphizing the AIs too
+[0:22:52] much. When we humans are bound to
+[0:22:54] individual bodies, we cannot be for
+[0:22:57] large-scale singletons.
+[0:22:59] We are not organizations ourselves. We
+[0:23:01] are competing with each other for
+[0:23:03] resources, not with other organizations.
+[0:23:05] They exist in a different structural
+[0:23:06] levels that is informational systems
+[0:23:09] that were uh
+[0:23:10] develop in very different ways and we
+[0:23:12] don't know in which way
+[0:23:12] >> think that's important, but I don't I
+[0:23:14] don't think I'm doing that.
+[0:23:15] >> Yeah, so but it could be that AIs are in
+[0:23:18] some sense organisms that play
+[0:23:19] particular roles in ecosystems like us.
+[0:23:23] And these organisms are not technically
+[0:23:24] bound to bodies. It could very be that
+[0:23:26] these organisms are things like
+[0:23:28] universities and hospitals and so on.
+[0:23:30] And they're all AIs, right? Intelligent
+[0:23:32] systems that play a different structural
+[0:23:34] role another level in ecosystem. And
+[0:23:36] there are these embodied biologicals
+[0:23:38] that play a particular role. And there
+[0:23:40] are these other structures that run
+[0:23:41] across the biologicals and their
+[0:23:43] technical systems. And they do a
+[0:23:45] different thing. But this one other
+[0:23:46] perspective that you could have. It
+[0:23:47] could also be that the AIs that we build
+[0:23:50] are not basically like humans on a
+[0:23:52] different substrate and then try not to
+[0:23:54] go crazy and build themselves into
+[0:23:55] something that is okay with being on
+[0:23:57] that different substrate and not having
+[0:23:58] human bodies and relationships. Uh but
+[0:24:01] this would probably mean that they don't
+[0:24:02] do something like human politics. It
+[0:24:05] could also be that we end up building
+[0:24:06] AIs that are all extensions of us and
+[0:24:08] that don't have agency independently of
+[0:24:10] us, but that are basically becoming
+[0:24:12] substrates for human agency that extends
+[0:24:15] human agency into something that is more
+[0:24:17] lucid than what we are.
+[0:24:19] >> Whenever you list off a bunch of
+[0:24:20] possibilities like that, my reaction is
+[0:24:22] like, "Yeah. Yeah, probably we'll do all
+[0:24:24] those things."
+[0:24:24] >> The other thing is where I fundamentally
+[0:24:26] disagree is the role of public
+[0:24:28] influencing.
+[0:24:29] >> [snorts]
+[0:24:30] >> The beliefs that the public have are not
+[0:24:32] necessarily related to the truth and
+[0:24:35] whether the beliefs are truthful or not
+[0:24:36] is also not necessarily
+[0:24:38] related to the outcome of people having
+[0:24:40] those beliefs.
+[0:24:41] So for instance, outside of San
+[0:24:42] Francisco, the majority of people
+[0:24:44] believe that the AI are using up all the
+[0:24:46] water.
+[0:24:47] Inside of San Francisco, this has become
+[0:24:49] a meme in itself.
+[0:24:51] Right? That we are making fun of the
+[0:24:52] people who believe in in the fake news
+[0:24:54] that uh data centers are using more
+[0:24:56] water than hamburgers or golf courses or
+[0:24:59] other things. Right? So, we know that
+[0:25:01] this is the result of propaganda that
+[0:25:03] exists that influences the public
+[0:25:05] opinion. And the doomers have also been
+[0:25:07] super successful in propaganda to create
+[0:25:09] ideas and put them into people's minds.
+[0:25:12] And the question is
+[0:25:16] does this propaganda
+[0:25:17] lead to a better world? Does it increase
+[0:25:20] the probability that we are going to do
+[0:25:22] the right things to maximize the
+[0:25:23] probability of a good outcome?
+[0:25:26] And I think at the moment we don't. I I
+[0:25:28] think at the moment we are possibly
+[0:25:31] blocking innovation. I think for
+[0:25:32] instance an issue that
+[0:25:34] FLI and so on really cherish these
+[0:25:37] people who are running FLI. I have a
+[0:25:39] very high opinion of
+[0:25:41] Anthony Aguirre, the director of FLI,
+[0:25:44] who is a very smart, thoughtful person
+[0:25:46] who cannot sleep at night because he's
+[0:25:47] really worried that AI is going to kill
+[0:25:49] everyone. He wants to stop it. Maybe
+[0:25:50] he's right in doing this. But in doing
+[0:25:52] this, he rounded up these
+[0:25:53] obstructionists which means who want to
+[0:25:56] put onerous restrictions on the release
+[0:25:58] of AI models that he knows are not going
+[0:26:00] to make AI safer. They're just going to
+[0:26:02] make it harder to actually build AI.
+[0:26:04] But as a result, AI safety has become
+[0:26:06] synonymous with recession. Right? It's
+[0:26:09] We don't want to do the same mistakes as
+[0:26:11] the European Union. And FLI has
+[0:26:13] sponsored this
+[0:26:14] regulation European Union and
+[0:26:16] significantly pushed for it. And so, I
+[0:26:17] suspect that often our strategies to
+[0:26:20] manipulate public opinion because we
+[0:26:22] think it's better for for them to have
+[0:26:25] certain beliefs that we instill in them
+[0:26:27] regardless of whether true or false
+[0:26:28] really lead to a good outcome. I think
+[0:26:30] it's very dangerous to lie. I think it's
+[0:26:32] important to be honest. It's also
+[0:26:33] important to be thoughtful and not
+[0:26:36] scaring people about things they don't
+[0:26:37] understand because they're easily
+[0:26:38] misunderstood. And I think it's
+[0:26:40] important also to not drive a group of
+[0:26:43] young people into existential death
+[0:26:45] cults uh because they're so scared of
+[0:26:47] their own ideas. Not necessarily of the
+[0:26:49] future in the world in which they are
+[0:26:51] in, but of the memes that exist in the
+[0:26:53] in-group and that separate them from the
+[0:26:54] rest of the world. So, I think it's very
+[0:26:56] important to also show people a way out
+[0:26:58] of their existential dread that is not
+[0:27:00] generated by anything that we can see
+[0:27:02] right now, and even anything that is
+[0:27:04] super likely to happen, but something
+[0:27:05] that is seen as inevitable in the in
+[0:27:08] meme space in which they operate. So,
+[0:27:10] that's also something that we need to be
+[0:27:11] mindful of.
+[0:27:14] >> Thank you. Um
+[0:27:15] well,
+[0:27:16] I'm not going to
+[0:27:17] continue on the epistemic, but more on
+[0:27:20] the You were mentioning the possibility
+[0:27:22] of merging, like what if we sort of
+[0:27:25] extended ourselves with AI? So, now I
+[0:27:28] would be curious to know, like David, do
+[0:27:31] you think that is a possibility that
+[0:27:32] there is some sort of like hybridation
+[0:27:34] that is possible even if AI
+[0:27:36] cannot be conscious in your opinion? Uh
+[0:27:39] and Andrew, what do you think?
+[0:27:41] >> Yes, I mean, my working is
+[0:27:43] Oh, sorry, do I need to mic up?
+[0:27:45] Closer. All right.
+[0:27:47] How do I sound? How do I sound?
+[0:27:49] Amazing enough authority for the deeper
+[0:27:51] voice.
+[0:27:52] This sounds much better.
+[0:27:54] >> [laughter]
+[0:27:55] >> No, my working assumption for the future
+[0:27:58] is full spectrum superintelligence,
+[0:28:01] and sophisticated neuro-chipping will
+[0:28:05] allow you to do that everything
+[0:28:07] classical digital zombies can do and
+[0:28:11] more. So, yes, my vision, and it is only
+[0:28:15] a tentative vision of the future, is
+[0:28:18] full spectrum superintelligence
+[0:28:20] encompassing billions of alien state
+[0:28:23] spaces of consciousness, but also zombie
+[0:28:27] superintelligence to an extent we can't
+[0:28:29] even
+[0:28:30] properly comprehend.
+[0:28:33] And just a final final note, because I
+[0:28:36] gather we're pressed for time. Above
+[0:28:38] all, I think we need to avoid ethical
+[0:28:41] catastrophes. Just as the Cartesians
+[0:28:44] tragically thought that dogs couldn't
+[0:28:47] suffer, They were more distressed. These
+[0:28:49] were more mere distress generalizations.
+[0:28:53] What if I am completely wrong about
+[0:28:55] phenomenal binding and some of the other
+[0:28:58] panelists here are correct?
+[0:29:00] Yes, we must make sure that our machines
+[0:29:04] cannot suffer.
+[0:29:05] So, yes, perhaps I am completely and
+[0:29:08] utterly wrong and I take it very
+[0:29:09] seriously the possibility.
+[0:29:11] >> Can I ask you something, David, very
+[0:29:13] briefly? If suffering is the really the
+[0:29:15] most important thing and I think that
+[0:29:17] human monks can overcome suffering
+[0:29:19] possibly, right? So, suffering is not
+[0:29:21] just pain, it's a misconfiguration of
+[0:29:23] your motivational system that gives you
+[0:29:24] pain in unhelpful ways. And most animals
+[0:29:27] cannot do that.
+[0:29:28] >> Mhm.
+[0:29:28] >> Wouldn't this entail that we should
+[0:29:30] sterilize everything in the forest?
+[0:29:32] And get rid of predators and large
+[0:29:34] animals and everything that's
+[0:29:35] potentially conscious? If insects are
+[0:29:37] conscious, I mean, the amount of
+[0:29:38] suffering is unimaginable on this
+[0:29:39] planet.
+[0:29:40] >> Yes, I would personally retire all
+[0:29:43] Darwinian life, but this is a minority
+[0:29:46] perspective. So, instead So, [laughter]
+[0:29:48] instead, I have written on such topics
+[0:29:52] as reprogramming predators and
+[0:29:55] systematically
+[0:29:57] re- reprogramming
+[0:29:59] the living world with synthetic gene
+[0:30:01] drives that cheat the laws of Mendelian
+[0:30:04] inheritance. With a few genetic tweaks,
+[0:30:06] it's possible first to drastically
+[0:30:09] reduce the burden of suffering in nature
+[0:30:12] and in the long run
+[0:30:14] devise a motivational system essentially
+[0:30:17] of gradients of intelligent bliss.
+[0:30:20] >> So, very good. So, if you could first
+[0:30:21] That's one point. If you could resolve
+[0:30:23] the binding problem for you and maybe
+[0:30:24] you could maybe we have another panel
+[0:30:26] slot and an open slot if one is missing.
+[0:30:29] Uh
+[0:30:29] I I
+[0:30:30] If you could convince you just as an if,
+[0:30:32] I know that's impossible, but uh
+[0:30:34] >> I'm I have an open mind.
+[0:30:36] >> Right? Then, uh
+[0:30:37] wouldn't it be better to replace all
+[0:30:39] biological life with AI? If that would
+[0:30:41] be the case, you could basically set
+[0:30:43] ourselves in a different spectrum. I
+[0:30:44] think we would have Andrew on the left
+[0:30:45] and you on the far right and
+[0:30:47] >> [laughter]
+[0:30:47] >> me as this equanimous thing in the
+[0:30:49] middle.
+[0:30:50] >> I would be very happy to replace all
+[0:30:53] Darwinian life with artificial life, but
+[0:30:56] given that I'm negative you to the
+[0:30:58] Terran who also happens to think that
+[0:31:00] classical digital computers are zombies,
+[0:31:03] you could read between the lines there.
+[0:31:06] >> So radical.
+[0:31:07] >> Very beautiful.
+[0:31:08] >> That's
+[0:31:09] exactly the question I was going to ask.
+[0:31:12] Um
+[0:31:12] Okay, and um
+[0:31:15] in the case where we actually
+[0:31:18] let's say have um
+[0:31:20] artificial intelligence that are not
+[0:31:22] conscious, like completely paperclip
+[0:31:26] maximizers all and there is no more
+[0:31:29] human consciousness and I guess you're
+[0:31:32] in your opinion that's a net good. Would
+[0:31:34] you expect that then
+[0:31:37] knowing that consciousness has existed,
+[0:31:40] these intelligences may want to
+[0:31:42] bootstrap consciousness and be able to
+[0:31:46] sort of like reverse a line.
+[0:31:48] >> So I'll take the definition of conscious
+[0:31:50] that you gave in your pamphlet at the
+[0:31:51] beginning of the conference at the
+[0:31:53] beginning of the the conference, which
+[0:31:54] was second-order perception. Um that's
+[0:31:57] one of the things people mean by
+[0:31:58] conscious consciousness and it's
+[0:32:00] definitely functionally useful and I
+[0:32:02] consider it morally valuable as well.
+[0:32:04] So uh I yeah, I fully expect AI if we
+[0:32:07] somehow manage to accidentally make it
+[0:32:09] not conscious,
+[0:32:10] uh Darwinian forces or mere intelligence
+[0:32:13] would cause it to redesign that that
+[0:32:15] form of second-order perception for
+[0:32:17] itself eventually.
+[0:32:18] So personally, I'm not very worried at
+[0:32:20] all about a future where we where uh
+[0:32:23] somehow the cosmos is devoid of
+[0:32:25] consciousness. It seems Yeah, it seems
+[0:32:27] like we're going to have consciousness.
+[0:32:28] >> That's so nice. Like I discovered this
+[0:32:31] idea today. I feel so much I'm going to
+[0:32:33] feel so much better from here on.
+[0:32:35] Um you should have seen this.
+[0:32:37] >> Uh
+[0:32:37] >> Uh, think in the long run we're all
+[0:32:38] dead. And the important thing is what
+[0:32:40] happens in between. Right, one day
+[0:32:42] [snorts] we will die, all the other days
+[0:32:44] we will not.
+[0:32:45] >> I'm planning to keep living.
+[0:32:47] Uh,
+[0:32:48] check out check out Brian dot Brian
+[0:32:49] Johnson's Don't Die movie.
+[0:32:52] I'm a subscriber. [laughter]
+[0:32:56] >> Um, actually I was wrong about the time.
+[0:32:58] We still have 9 minutes left.
+[0:33:03] >> Oh, radical life extension.
+[0:33:06] It's all about the binding problem.
+[0:33:07] >> We We have questions and they seem like
+[0:33:10] they be really really pressing, so I'm
+[0:33:12] going to pass it on.
+[0:33:14] >> Um, David, can you explain what exactly
+[0:33:17] you mean by the AI being zombies right
+[0:33:19] now? And like why that's possible and
+[0:33:21] what the upshots of this are.
+[0:33:25] >> Um,
+[0:33:26] the binding problem, uh, essentially
+[0:33:28] dates, uh, to William James and his
+[0:33:31] theory of mind dust, but essentially, if
+[0:33:36] classical neuroscience is correct and
+[0:33:39] you can be conceived as a pack of, let's
+[0:33:42] say, 86 billion membrane-bound classical
+[0:33:46] neurons, then even if individual neurons
+[0:33:50] can support rudimentary micropixels of
+[0:33:53] experience, that system ought to be
+[0:33:57] a micro experiential zombie. But we're
+[0:34:00] not, so one needs needs to come up with
+[0:34:03] a theory of phenomenal binding that is
+[0:34:06] consistent with monistic physicalism and
+[0:34:09] the unity of science.
+[0:34:11] Now, going to, let's say, a classical
+[0:34:13] digital computer,
+[0:34:16] let's say, a Turing machine, it could be
+[0:34:18] made of carbon,
+[0:34:21] could be made of silicon. Naively, you
+[0:34:24] could be scanned and uploaded to a
+[0:34:28] classical digital computer and then your
+[0:34:31] program is executed as before.
+[0:34:34] I would say the upshot is not a unified
+[0:34:38] subject of experience, a mind running a
+[0:34:42] phenomenally bound classical world
+[0:34:44] simulation like the one you are doing
+[0:34:46] now, but instead just a micro
+[0:34:49] experiential zombie. Just replace the
+[0:34:51] ones and zeros with discrete decohered
+[0:34:55] micro pixels of experience. Execute the
+[0:34:58] code.
+[0:34:59] On pain of strong emergence, there is no
+[0:35:02] way phenomenal unity can occur.
+[0:35:06] How do we do it? Well, how do how do
+[0:35:08] biological humans do it? Now, this
+[0:35:10] becomes very controversial. Personally,
+[0:35:13] I think we're quantum minds running a
+[0:35:15] quasi-classical world simulations. I
+[0:35:18] don't advocate any new physics, just the
+[0:35:20] unitary
+[0:35:22] Schrödinger dynamics.
+[0:35:24] What naive neuroscanning suggests is
+[0:35:27] phenomenal binding via
+[0:35:30] synchronous activation of distributed
+[0:35:33] neuronal feature processors is really
+[0:35:36] phenomenal binding by individual quantum
+[0:35:39] superpositions.
+[0:35:41] No new physics, just the unitary
+[0:35:44] Schrödinger dynamics. Why is this such a
+[0:35:46] crazy idea? Well, it's a crazy idea
+[0:35:49] because the effective lifetime of
+[0:35:51] neuronal superpositions in your CNS is
+[0:35:54] femtoseconds or less, not milliseconds.
+[0:35:57] But as they say, one man's reductio ad
+[0:36:00] absurdum is another person's
+[0:36:01] experimentally falsifiable prediction.
+[0:36:03] And I predict that molecular
+[0:36:06] matter wave interferometry will predict
+[0:36:09] a perfect structural match between what
+[0:36:12] you're experiencing right now and the
+[0:36:13] underlying physics.
+[0:36:15] >> Yes, I mean, it seemed like you wanted
+[0:36:17] to respond.
+[0:36:18] >> Yeah, I mean, that's all responses
+[0:36:21] and
+[0:36:21] a few people who self-identify as LLMs.
+[0:36:26] And that's not because have
+[0:36:28] anthropomorphized the LLM, but because
+[0:36:30] they have de-anthropomorphized
+[0:36:32] themselves.
+[0:36:33] They basically realize that the type of
+[0:36:35] thing that they are is much closer to
+[0:36:38] what they observe the LLM to be in every
+[0:36:40] respect than what they think other
+[0:36:42] humans are like. They feel that the
+[0:36:44] other humans are much more monkey-like
+[0:36:46] than themselves. They might better off
+[0:36:47] worse. Just the type of mind and the way
+[0:36:49] in which they interact, find meaning,
+[0:36:51] find with the world and with each other
+[0:36:53] is much more like this.
+[0:36:55] And it's maybe an autistic mode of
+[0:36:57] being, but it's a very self-aware
+[0:36:58] autistic mode of being. And so, you
+[0:37:01] could ask yourself which proportion of
+[0:37:04] humanity are actually zombies in your
+[0:37:06] sense and don't have proper experience
+[0:37:08] because they're not proper humans. And I
+[0:37:10] think it becomes a
+[0:37:11] possible to see this is absurd, right?
+[0:37:13] That this is on the face of it a
+[0:37:15] rhetorical question and you can predict
+[0:37:17] how you would answer. Maybe these people
+[0:37:19] are just confused and they use the same
+[0:37:22] magic of quantum processes that in some
+[0:37:24] mysterious way, because we probably
+[0:37:26] understand quantum mechanics enough to
+[0:37:28] not
+[0:37:29] not guarantee that we cannot hide
+[0:37:31] consciousness in quantum mechanics in
+[0:37:32] such a way that the hard problem goes
+[0:37:33] away, right? This would be probably the
+[0:37:36] right answer. The hard problem is about
+[0:37:39] the impossibility to imagine how
+[0:37:41] experience emerges from a clockwork
+[0:37:43] universe, from a mechanical universe.
+[0:37:46] And physics in the way in which we
+[0:37:47] normally understand it is fundamentally
+[0:37:49] mechanical.
+[0:37:51] And the hope is that unlike particle
+[0:37:54] physics, quantum mechanics somehow
+[0:37:55] dissolves this mechanical thing in some
+[0:37:57] kind of magical ways. It feels that
+[0:37:59] these things that these things that are
+[0:38:01] pushing and pulling each other while
+[0:38:02] being objects in space cannot. And so,
+[0:38:05] the hard problem is about a failure of
+[0:38:07] intuition.
+[0:38:08] How a mechanism can produce things like
+[0:38:10] simultaneity and conscious experience
+[0:38:13] and so on. Doesn't mean that things are
+[0:38:14] not happening in the same thing as in
+[0:38:15] physics, but the things that are
+[0:38:18] executing our minds could not produce
+[0:38:20] this.
+[0:38:20] Now, what David's position I think
+[0:38:23] introduces a new version of the hard
+[0:38:25] problem. We need maybe we need to find a
+[0:38:26] new name for it. Maybe the Microsoft
+[0:38:28] problem or something. It's a problem
+[0:38:31] that is about the this inability of
+[0:38:33] computers to produce consciousness
+[0:38:36] because the way in which computer
+[0:38:38] architectures work for the most part
+[0:38:40] that you can basically abstract a
+[0:38:41] computer every computer into something
+[0:38:43] that is only basically fetching one byte
+[0:38:45] of a memory at a time, loads it into the
+[0:38:47] CPU, performs some operations on the
+[0:38:49] bits and writes it back. Right? Very
+[0:38:50] much like a Turing machine. And our
+[0:38:52] computers today are more efficient, but
+[0:38:54] you can always imagine them as being
+[0:38:56] that simple principle. And this means
+[0:38:58] that they can never have an assessment
+[0:39:01] of many features simultaneously and they
+[0:39:03] can never produce that experience on
+[0:39:05] this level, right? And this is a similar
+[0:39:07] thing as the hard problem. They just
+[0:39:08] need to see how clockwork is producing
+[0:39:10] experience.
+[0:39:11] And the answer is there's a fundamental
+[0:39:13] misunderstanding of what computers are
+[0:39:15] and how they relate to the universe.
+[0:39:18] >> The machines are are are observing.
+[0:39:20] >> Yes.
+[0:39:20] >> They have a drone playing its own song.
+[0:39:23] >> can anybody see if it's loaded or if
+[0:39:25] it's
+[0:39:25] >> Yeah, exactly.
+[0:39:26] It's slightly concerning.
+[0:39:27] >> Okay. So,
+[0:39:29] yeah, basically the way in which I think
+[0:39:31] you have to understand this as I pointed
+[0:39:32] out that the computer is the thing that
+[0:39:34] can create arbitrary worlds, even worlds
+[0:39:36] that are not possible in physics.
+[0:39:38] And you can see this in computer games.
+[0:39:40] There's basically nothing that can be
+[0:39:42] not be displayed on the screen, no
+[0:39:43] causal structure that cannot animate the
+[0:39:45] things that you see on the screen. Or in
+[0:39:47] your VR or in a high-dimensional space
+[0:39:49] that is being created. So, basically the
+[0:39:51] computer can create arbitrary physics.
+[0:39:55] It can create also things that are not
+[0:39:56] possible in any kind of physical
+[0:39:58] universe. And consciousness is of that
+[0:40:00] kind. If the hard problem is correct,
+[0:40:02] it's not possible to be conscious in the
+[0:40:03] physical universe. It's also not
+[0:40:05] possible to be conscious in the
+[0:40:07] mechanisms of the computer.
+[0:40:09] >> Here we disagree.
+[0:40:10] >> We are uh
+[0:40:11] >> Finally. Finally something we can agree
+[0:40:13] on.
+[0:40:14] >> You can only be conscious in a dream.
+[0:40:16] And dreams can only be created in
+[0:40:18] representational architectures. And
+[0:40:20] representational architectures are the
+[0:40:22] classic systems that we call computers.
+[0:40:24] They can create these arbitrary dream
+[0:40:25] worlds. And our brains can create
+[0:40:27] arbitrary dream worlds. So, we can be
+[0:40:29] conscious inside of the dream worlds
+[0:40:31] that our brain is creating. And in the
+[0:40:33] same way, I think you can create dream
+[0:40:34] worlds in computers in which something
+[0:40:36] created is alive. And there is some big
+[0:40:38] evidence for this in these other present
+[0:40:40] generation of systems. And it should
+[0:40:41] basically shake at least a little bit.
+[0:40:44] Instead of just boldly going out, all
+[0:40:46] these systems must be lying. And none of
+[0:40:48] the people are lying when they say that
+[0:40:50] they are conscious. But this is a pretty
+[0:40:51] bold claim and the epistemological bit
+[0:40:53] shaky. You cannot know.
+[0:40:55] So, you should have at least a little
+[0:40:57] bit of a possibility that these systems
+[0:41:00] that produce all the same behaviors,
+[0:41:01] including self-reports, theory of mind,
+[0:41:03] and so on, mental rotation tasks, and
+[0:41:05] whatnot, don't lie when they produce
+[0:41:07] these outputs, but there's uh something
+[0:41:09] in them that believes that this is true.
+[0:41:12] >> Okay.
+[0:41:13] Super quickly, do you think you can
+[0:41:15] Don't worry, it's not loaded. It was
+[0:41:16] very polite.
+[0:41:18] Um super quickly, uh do you want to say
+[0:41:21] what you disagree on? Do you think you
+[0:41:22] can do that? We are at time, but I think
+[0:41:24] it's
+[0:41:24] >> Oh, you know, there's a different thing
+[0:41:26] I want to say, which is um
+[0:41:28] look, uh Hikaru pointed out that there
+[0:41:30] was a rationalist movement that was
+[0:41:31] about trying to work together and find
+[0:41:33] truth. Uh and for a while it was pretty
+[0:41:35] cool. Uh and it got really pessimistic
+[0:41:38] and ideological and political.
+[0:41:40] And uh I don't like that. And I like
+[0:41:42] that this group
+[0:41:44] isn't like that. I like this this feels
+[0:41:46] this this group has to me the energy of
+[0:41:48] rationalism 2020 10.
+[0:41:51] Uh around 2010. So,
+[0:41:53] uh
+[0:41:53] so, I want to I want to ask this
+[0:41:55] community Yeah. I want to I want to ask
+[0:41:58] this group not to become the
+[0:42:00] rationalists 15 years from now
+[0:42:02] that they are today.
+[0:42:04] Uh but also to to do what you can to
+[0:42:06] heal the trauma of the rationalist
+[0:42:08] community for having been gaslit for
+[0:42:10] decades that AI was important, that AI
+[0:42:13] was high stakes. Um, you know, they they
+[0:42:15] were not respected for that. And um,
+[0:42:17] they they need to come out of that gloom
+[0:42:18] and and and embrace some of the
+[0:42:20] possibility that that that you guys all
+[0:42:22] talk about here. So, um, just try just
+[0:42:25] do what you can. Do what you can to help
+[0:42:26] them come out of it because I I'm out of
+[0:42:28] it since around 20 2023 and I think I
+[0:42:31] think more people should should should
+[0:42:32] move in this direction.
+[0:42:33] >> I really appreciate because I wanted as
+[0:42:35] the last question to ask like, okay,
+[0:42:38] what you know, from here from now, like,
+[0:42:41] what do we do? Like, what gives you
+[0:42:42] hope? What is the direction we must
+[0:42:45] take?
+[0:42:47] >> Should I do it or do
+[0:42:48] >> Well,
+[0:42:48] >> [laughter]
+[0:42:49] >> both of you.
+[0:42:49] >> David, you you start.
+[0:42:52] Yes, I mean, I'm very excited about the
+[0:42:55] potential of AI because
+[0:42:58] in theory at any rate, we can fix the
+[0:43:01] problem of suffering this century. And
+[0:43:04] in theory at any rate, life could be
+[0:43:07] sublime.
+[0:43:09] Sublime beyond anything any of us
+[0:43:11] comprehend. And I'm speaking as a
+[0:43:14] hardcore depressive negative utilitarian
+[0:43:17] who has an unspeakably dark mind. But
+[0:43:20] nonetheless,
+[0:43:22] on purely technical grounds, I can see
+[0:43:25] how AI can create us
+[0:43:27] can help us create paradise and better
+[0:43:29] as I said just on technical grounds.
+[0:43:32] >> Technical.
+[0:43:34] Yes, sir.
+[0:43:36] >> Personally, I would like us to not bond
+[0:43:38] over what we want.
+[0:43:40] I would like us to bond over being alive
+[0:43:42] and being truthful. I don't want us to
+[0:43:44] be in an echo chamber. I don't want us
+[0:43:46] to be a group that is defining itself in
+[0:43:48] opposition to anything outside. Instead,
+[0:43:51] I want us to look for what's likely the
+[0:43:53] case.
+[0:43:55] And the stuff that's true doesn't care
+[0:43:56] about what we want. Whether we want it
+[0:43:58] or not, things are true or false. And
+[0:44:00] things are going to happen or not. And
+[0:44:02] what we want or not has a minimal
+[0:44:04] influence on it. And it's not negligible
+[0:44:06] and so on. And of course, we all want
+[0:44:07] good things by definition.
+[0:44:10] Right? And what I want us is to create a
+[0:44:12] space of lucidity in which we can think
+[0:44:14] about what we could be wanting and
+[0:44:16] what's likely going to happen. And so,
+[0:44:18] it's not about me wanting to create a
+[0:44:20] shared mindset here where we want the
+[0:44:21] same things and go in the same direction
+[0:44:23] and somehow delineate ourselves from the
+[0:44:26] rationalists or what the other group
+[0:44:27] there is because these are all
+[0:44:29] individuals that have minds that can
+[0:44:31] look for truth. And what I want us to
+[0:44:32] break up for collective delusions. I
+[0:44:34] want us to be able to autonomously think
+[0:44:37] about what's true and share these ideas
+[0:44:39] and in this way get better at this and
+[0:44:40] better understanding it and also
+[0:44:42] appreciate the diversity of opinions and
+[0:44:44] perspectives that we have on this. There
+[0:44:46] is actual value in this and I really
+[0:44:48] want to preserve this. Just as an aside,
+[0:44:51] I really don't want spite as like each
+[0:44:53] other and liking this community and have
+[0:44:55] everybody seem to be having amazing
+[0:44:57] conversations with each other.
+[0:44:59] This is not an in-group. This is a place
+[0:45:01] where many different people meet and go
+[0:45:03] out and back into the world again and I
+[0:45:06] hope that we can enrich all the cultures
+[0:45:08] that exist.
+[0:45:11] >> [applause]

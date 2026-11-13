@@ -1,0 +1,1398 @@
+# source: https://www.youtube.com/watch?v=bhSlYfVtgww
+# generated=False lang=en-US
+[0:00:00] This is an episode that's been almost one year in the making,
+[0:00:03] the theolocution of Donald Hoffman and Joscha Bach,
+[0:00:07] both of whom should be extremely familiar to you if you've surveyed this channel before,
+[0:00:11] as we've done an unduly technical dive into Donald Hoffman's research papers,
+[0:00:15] and we've spoken to Joscha Bach several times before as well.
+[0:00:18] If you're unfamiliar, Donald Hoffman is a professor at the University of Irvine, California,
+[0:00:23] studying consciousness and evolutionary psychology using mathematical models,
+[0:00:28] and Joscha Bach is a cognitive scientist recognized in the field of AI as being exceptionally ingenious.
+[0:00:34] Both have unexampled views of consciousness and free will,
+[0:00:37] which harmonize and contradict in prepossessing and informative ways.
+[0:00:41] Click on the timestamp in the description if you'd like to skip this intro.
+[0:00:44] My name is Curt Jaimungal, I'm a Torontonian filmmaker with a background in mathematical
+[0:00:49] physics dedicated to the explication of the variegated terrain of theories of everything,
+[0:00:55] from a theoretical physics perspective, but as well as analyzing consciousness and
+[0:00:59] seeing its potential connection to fundamental reality, whatever that is.
+[0:01:03] Essentially, this channel is dedicated to exploring the underrived nature of reality,
+[0:01:08] the constitutional laws that govern it, provided those laws exist at all and are even knowable to us.
+[0:01:12] If you enjoy witnessing and engaging with others on the topics of psychology,
+[0:01:17] consciousness, physics, etc., the channel's themes,
+[0:01:20] then do consider going to the Discord and the subreddit, which are linked in the description.
+[0:01:24] There's also a link to the Patreon, that is patreon.com slash CURTJAIMUNGAL,
+[0:01:28] if you'd like to support this podcast, as the patrons and the sponsors are the only reasons
+[0:01:33] that I'm able to have podcasts of this quality and this depth, given that I can do this now
+[0:01:38] full-time, thanks to both the patrons and the sponsors' support.
+[0:01:41] Speaking of sponsors, there are two. The first sponsor is Brilliant.
+[0:01:45] During the winter break, I decided to brush up on some of the fundamentals of physics,
+[0:01:48] particularly with regard to information theory, as I'd like to interview Chiara Marletto on
+[0:01:53] constructor theory, which is heavily based in information theory.
+[0:01:56] Now, information theory is predicated on entropy, at least there's a fundamental formula for entropy.
+[0:02:01] So I ended up taking the Brilliant course. I challenged myself to do one lesson per day,
+[0:02:05] and I took the courses Random Variable Distributions and Knowledge slash Uncertainty.
+[0:02:10] What I loved is that despite knowing the formula for entropy, which is essentially
+[0:02:13] hammered into you as an undergraduate, it seems like it comes down from the sky arbitrarily.
+[0:02:18] And with Brilliant, for the first time, I was able to see how the formula for entropy,
+[0:02:22] which you're seeing right now, is actually extremely natural,
+[0:02:25] and it'd be strange to define it in any other manner.
+[0:02:27] There are plenty of courses, and you can even learn group theory,
+[0:02:30] which is what's being referenced when you hear that the standard model is predicated on U1
+[0:02:34] cross SU2 cross SU3. Those are Lie groups, continuous Lie groups.
+[0:02:38] Visit brilliant.org slash TOE, T-O-E, to get 20% off an annual subscription.
+[0:02:43] And I recommend that you don't stop before four lessons. I think you'll be greatly surprised at
+[0:02:48] the ease at which you can now comprehend subjects you previously had a difficult time grokking.
+[0:02:52] The second sponsor is Algo. Now, Algo is an end-to-end supply chain optimization software
+[0:02:58] company with software that helps business users optimize sales and operations,
+[0:03:02] planning to avoid stockouts, reduce return and inventory write downs while reducing
+[0:03:07] inventory investment. It's a supply chain AI that drives smart ROI, headed by Amjad Hussain,
+[0:03:13] who's been a huge supporter of this podcast since near its inception. In fact, Amjad has his own
+[0:03:18] podcast on AI and consciousness and business growth. And if you'd like to support the TOE podcast,
+[0:03:23] then visit the link in the description to see Amjad's podcast because subscribing to him,
+[0:03:28] or at least visiting, supports the TOE podcast indirectly. Thank you and enjoy.
+[0:03:33] Okay, this should be live. If you can see this, type in Animaniacs into the chat. Animaniacs.
+[0:03:41] Great. There are already 275 people watching. Firstly, it's a distinct honor to be here.
+[0:03:47] Thank you both, Don and Joscha. I appreciate it tremendously and the audience does as well.
+[0:03:53] This theories of everything project is about exploring grand unified theories and theoretical
+[0:03:59] physics, as you know, and understanding consciousness and free will. I see those,
+[0:04:02] or at least intuit that those are integrally tied. And it's those, the latter two topics that bring us
+[0:04:08] here. Don, why don't we start with your definition of free will as well as how you view consciousness.
+[0:04:14] And you mentioned that you would like to give an overview of your point of view on science and
+[0:04:19] theories of everything in general. And then Joscha, you'll join afterward and commend Donald or amend
+[0:04:27] him. And then I'll pretty much shut my mouth and allow you both to speak to one another
+[0:04:30] interjecting only seldom. Okay. Thank you, Curt. And good to see you, Joscha.
+[0:04:38] My attitude about science is sort of like what Newton famously said, right? He said
+[0:04:46] that toward the end of his career, that he thought of himself as like a little boy playing on the
+[0:04:53] seashore, looking at some nice pebbles and shells while all before him lay the vast ocean of
+[0:05:02] truth that was undiscovered. And I think that that's a good attitude for us as scientists
+[0:05:11] to have is that as much as we've done, we've really not even begun to explore the possibilities
+[0:05:22] of truth. And what's interesting is that Newton's followers famously didn't follow him on that.
+[0:05:30] In the late 19th century, a lot of Newtonians thought that it was pretty much over. They had
+[0:05:35] a theory of everything. There were a few little wrinkles. There was the problem of Michelson-Morley
+[0:05:43] experiment and blackbody radiation wasn't quite working out according to Newton, but they thought
+[0:05:48] that that was pretty minor stuff and they would figure that all out and physics was pretty much
+[0:05:53] done. And we've discovered that no, physics was hardly beginning. There was so much more
+[0:06:00] to discover. And so my attitude is that science cannot have a theory of everything in principle,
+[0:06:11] that we will always be on Newton's seashore. We'll always be like Newton, the little boy
+[0:06:17] playing with pebbles and shells while the vast truth lays undiscovered before us,
+[0:06:24] the ocean of truth. And it's for a principled reason that scientific theories, if you look at
+[0:06:31] how they're structured, we start with a good scientific theory, tells you exactly what its
+[0:06:36] assumptions are. This is what I'm assuming. These are the derivation rules that I allow.
+[0:06:42] And then everything about the theory follows from that. But that theory doesn't explain its
+[0:06:48] assumptions. The assumptions are what's assumed. So Einstein in his special theory of relativity
+[0:06:55] assumes that light travels at the same speed for all observers in all inertial reference frames.
+[0:07:02] But that theory doesn't tell you what light is. And in fact, Einstein spent his whole life
+[0:07:08] wondering what light is and toward the end of his life said, I've spent my whole life studying it
+[0:07:12] and I still have no idea what light really is. And so we're in that situation as scientists where
+[0:07:20] what we're doing is valuable. It's absolutely essential because we're being precise about our
+[0:07:25] assumptions. We're being precise about what they entail. But there's going to be a fundamental
+[0:07:30] limit. And my guess is that science, as valuable as it is, is one of the most important advances
+[0:07:39] that humanity has made, will always and only scratch the surface beyond the seashore with
+[0:07:46] Newton while the vast ocean lays undiscovered. So when we talk about theories of consciousness
+[0:07:54] and free will and so forth going forward, I do it with sort of a very modest look at my own ideas.
+[0:08:02] The ideas are going to be very much in the framework of these are the best ideas we've
+[0:08:08] come up with so far. Of course, there's going to be much, much deeper work ahead and much more to
+[0:08:16] discover ahead. So we just have to, as scientists, be precise about the current assumptions we're
+[0:08:21] making and why we're making them and what follows from them, but be completely open to radical
+[0:08:28] transformations in knowledge and radical new understandings.
+[0:08:33] Your view on consciousness and free will.
+[0:08:35] So in a nutshell, my views on consciousness are not physicalist. So
+[0:08:50] physicalist approaches will say that we will start with space-time and some of its contents,
+[0:08:57] particles, neurons, neural systems, neural networks.
+[0:09:03] And those will be, so that's a scientific theory in which those are our assumptions.
+[0:09:08] Space-time and its contents are fundamental and particular contents may be very, very important.
+[0:09:13] For example, dynamical systems on neural networks, for example. And from that, we're going to try to
+[0:09:22] boot up subjective experience. And that's perfectly a fine project to try to do. What I
+[0:09:30] would want from that physicalist approach would be not a hand wave, but a specific accomplishment.
+[0:09:37] So how do we start with dynamical systems of neural networks and come up with the taste of chocolate
+[0:09:46] or the smell of garlic or something specific? Some specific conscious experience where we say,
+[0:09:52] my scientific theory says why this dynamical system of activity in neurons or in computer
+[0:10:00] system or something like that must be the taste of chocolate. It could not be the smell of garlic.
+[0:10:04] And these are the principled reasons why. If something like that were on the table,
+[0:10:08] I would be impressed. Until then, I'm not impressed. And there's nothing on the table
+[0:10:14] yet that can do that. So that's one reason why I've been casting around and looking for a
+[0:10:21] different direction. It's not starting with the physical, but starting somewhere else.
+[0:10:28] And partly because, and we can talk about this in greater detail,
+[0:10:34] because our best scientific theories right now, namely
+[0:10:38] quantum field theory and general relativity on the one hand, and evolution of natural selection
+[0:10:44] on the other, both entail that space-time is not fundamental. Our two or three premier scientific
+[0:10:55] theories really tell us their limits. They tell us that space-time cannot be fundamental.
+[0:11:03] And so if we're going to look for a theory of consciousness,
+[0:11:07] and we start with something inside space-time, we're already starting where our best scientific
+[0:11:12] theories tell us it's not fundamental. So as a result, I've been trying to then say, well,
+[0:11:19] if space-time isn't fundamental and we don't yet know what's more fundamental,
+[0:11:24] then we're going to have to look for a theory of consciousness. And I think that's a good
+[0:11:29] example. If space-time is not fundamental and we don't yet know what's more fundamental,
+[0:11:35] why don't we first start with trying to get a mathematical theory of consciousness on its own
+[0:11:41] terms? What is consciousness? What kinds of assumptions can we make about it? And then we
+[0:11:47] can ask the question, is consciousness more fundamental than space-time? What is the
+[0:11:52] time? So, and I can go in some of the details if we want to on that model, but the big picture is
+[0:12:02] that I'm taking very seriously that evolution of a natural selection entails that none of our
+[0:12:11] sensory systems tell us the truth about objective reality, and that therefore space-time is not an
+[0:12:17] objective truth, it's just a representation of fitness payoffs. And that physicists are finding
+[0:12:25] the same thing that Nima Arkani-Hamed, for example, at the Institute for Advanced Study at Princeton,
+[0:12:30] basically has lectures where he says space-time is doomed and here's why. And the best physicists
+[0:12:36] are now trying to figure out what's next. Space-time has had a good run for several centuries
+[0:12:41] and it's over. Space-time is not fundamental and the contents of space-time are not fundamental.
+[0:12:46] And so we need to figure out, and he's got things, working with Juan Maldacena on things like
+[0:12:50] cosmological polytopes, they're finding structures beyond space-time from which space-time can emerge
+[0:12:57] as a projection, as a special case. But in these deeper theories, there is no time
+[0:13:05] and there is no space. But there are symmetries that are true of, for example, scattering
+[0:13:10] amplitudes data, that are true, that you can't see in space-time. They can predict the data,
+[0:13:18] but they don't use space and time as the fundamental concepts. And I think that as we start to go into
+[0:13:26] scientific theories of consciousness, we cannot ignore what our physicist colleagues are telling
+[0:13:32] us. They're telling us if you're looking for something fundamental, it's not space-time,
+[0:13:36] and in particular, it's not time. And that is a real showstopper. It's for the physicists too. I
+[0:13:43] mean, trying to think outside of the time box is not easy for the physicists. And so what do we do
+[0:13:50] if we don't have space-time, if we don't have time? So I think that that's one of the interesting
+[0:13:58] questions that we have to face. If we're going to come up with a theory of consciousness,
+[0:14:01] what do we take as fundamental in our theory? If we take anything inside space-time,
+[0:14:07] we're already sort of cutting ourselves off because we know that as physics progresses,
+[0:14:14] things inside space-time will just be shown to be secondary. So we can go into my details on
+[0:14:22] my current model of consciousness, but maybe we should talk first about the more meta ideas.
+[0:14:27] Sure. And Josje, please.
+[0:14:32] It's interesting that you start outing yourself as a
+[0:14:36] mysterionist in a way, right? The mysterionism being the position that human minds are basically
+[0:14:40] not equipped to understand how they work or how the universe works, that they're embedded in at a
+[0:14:46] very deep level. And I sometimes joke that mysterionism is the position that something
+[0:14:51] cannot be understood if it cannot be understood by Noam Chomsky.
+[0:14:55] Noam Chomsky is a mysterious with respect to the mind. At the Science of Consciousness
+[0:14:59] conference, he once gave a presentation where he talks about Descartes and then mentions that
+[0:15:06] Descartes was actually a very smart fellow because he could already anticipate stuff that would only
+[0:15:11] be discovered much, much later on. And I was perking up and wondering, my God, Chomsky is
+[0:15:16] giving this guy credit. And it turned out what he anticipated was that he was actually a very smart
+[0:15:22] fellow. And it turned out what he anticipated was that we would later, like Chomsky, discover that
+[0:15:27] the mind is unintelligible. Right? So, it's fascinating, of course, if you are one of the
+[0:15:34] smartest minds of your own generation and you see that other people don't understand things that you
+[0:15:41] understand. And there is a boundary where nobody seems to have an understanding and you crash
+[0:15:46] against it. You might think, okay, maybe there is no way that humans can do it. Not convinced that
+[0:15:52] the case is. I'm not a mysterianist at this point in my intellectual career. And it's in part because
+[0:15:58] I come from the other side. So, many of the things that people took as a given for a long time, like
+[0:16:05] space and time, appeared to me in the beginning quite mysterious. So, basically, the dissolution
+[0:16:14] of space and time was not that mysterious to me. Basically, I'm a computer scientist. I started
+[0:16:20] very, very early on in my life to program before I properly understood mathematics and before I
+[0:16:25] understood physics. And I understood how to make things in a computer. And Einstein's watch that
+[0:16:33] is ticking away and you can observe its movements and so on, but you cannot open it and you can come
+[0:16:41] up with theories what's happening inside. To me, this watch was the screen of a computer.
+[0:16:46] And I understood that there is no limit to what can be put into the computer if it has enough
+[0:16:53] resources. So, if the computer is fast enough and has enough memory, there is no pattern that cannot
+[0:16:58] be shown on the screen. There is no limit to the sequence of patterns that is to be shown on the
+[0:17:02] screen. So, any observation that I am making, if I understand it as a pattern on some kind of screen
+[0:17:09] that is visible to me, I will always be able to construct something, a mechanism that is on the
+[0:17:14] other side and produces the sequence. And now the question is, can I produce an elegant sequence?
+[0:17:20] Can I produce a minimal pattern? Can I produce something from which I think it's plausible that
+[0:17:26] it emerged by itself? And that is to me this big important question of physics. The idea of
+[0:17:34] physicalism to me is the notion that we live in a reality that is fully emergent over a coarsely
+[0:17:40] closed mechanical layer. And we are in that base reality that emerges from it. And the alternatives
+[0:17:46] to physicalism is that this base layer is somewhere else. Because even if we live in a simulation that
+[0:17:53] is created by some kind of supernatural being, something must have created the supernatural being
+[0:17:58] in its parent universe, right? So, ultimately, every supernatural event is going to have some kind of
+[0:18:03] natural cause, some kind of prime mover that is taking away in the void and producing the
+[0:18:09] patterns that we observe. And the patterns that we observe are so damn regular. And there's all
+[0:18:14] this conservation going on of information that it doesn't seem like a conspiracy to me. It seems
+[0:18:21] that we're not in a simulation. It seems that the idea that consciousness could be primary to our
+[0:18:26] reality is not true. Because consciousness being primary means that you would have to live in
+[0:18:31] somebody else's mind. That we live in some kind of conspirational simulation that somebody has set
+[0:18:37] up for us. And while that is possible, and I can in principle not exclude it, because there can be no
+[0:18:42] evidence that can ever be fully conclusive if somebody sets it up to deceive me, there is no
+[0:18:47] reason for me to believe it. Because there are not enough things happening in my reality that
+[0:18:52] counteract the notion that I live in a mechanical universe. The few things that pop up, I can still
+[0:18:57] explain this by faulty memories and psychosis. Right? So, the only thing that needs to be explained,
+[0:19:05] I was puzzling people like Turing and other thinkers, is there's a possibility that telepathy
+[0:19:10] is true. If that would be true, right, it would not be compatible with the way in which we
+[0:19:15] understand physics right now. And there's this question, is there a point at which we have to
+[0:19:19] discard physics fully and accept that you live in some kind of simulation, in some kind of dream
+[0:19:24] universe that somebody has set up, like a computer game where you can arbitrarily break causality
+[0:19:29] when it's convenient? Or is this something that we need to extend physics? Or is it just
+[0:19:35] something where our minds are playing tricks with us? And we know our minds are playing lots of
+[0:19:39] tricks with us. So, Turing considered the possibility that telepathy exists as very real
+[0:19:45] to this, to the point where he included this in his 1950 paper, Computing Machinery and
+[0:19:50] Intelligence, where he sketches out the Turing test and seriously asks what the Turing test would
+[0:19:56] have to involve for such a system, the ability to be telepathic. And if it's not, what difference
+[0:20:02] would it make? Doesn't get to the point where he assesses out loud that if telepathy is possible,
+[0:20:08] you cannot be sure which of your thoughts and feelings originate in your own brain. They could
+[0:20:12] come from somewhere else, right? So, this opens up the door to lots and lots of things. But for
+[0:20:19] the time being, I think that the evidence for telepathy is weak. And if telepathy would exist,
+[0:20:26] I would be seriously willing to consider this together with Turing. It's not clear whether we
+[0:20:31] cannot find a mechanical explanation for it. There's always going to be some kind of computer
+[0:20:37] program that explains the patterns on the screen. Now, if we think about space, to me as a kid that
+[0:20:46] was programming, the notion of a continuous space never made sense. Because it's not computable. I
+[0:20:51] cannot write something that is continuous space. And when I tried to wrap my mind around the
+[0:20:56] mathematics, the language broke. I was not able to understand how to make a point that is infinitely
+[0:21:02] small, yet fits together. If you add infinitely many of these points into a continuum,
+[0:21:09] this just doesn't work, right? But it's not a problem to make something that exactly looks
+[0:21:15] like this. It's not a problem to make a computer game that looks continuous. It's not a computer
+[0:21:20] game that produces physics that looks similar to what we can observe, at least in the simplification.
+[0:21:25] Of course, our computers are extremely inefficient when it comes to simulating the substrate layer,
+[0:21:32] the quantum mechanics that we can observe, or a layer below the quantum mechanics, because quantum
+[0:21:38] mechanics is probably not the lowest layer in which physics plays out. It's just the lowest
+[0:21:43] layer in which we can currently make observations that we can conceptualize. And this leads us to
+[0:21:49] what you also mentioned, what is a photon? I don't think that Einstein started out with the assumption
+[0:21:54] that the speed of light is fixed. I think it was a derivation that he made. He concluded that the
+[0:22:00] speed of light is fixed. And he basically, once he had this conclusion, he had implications for
+[0:22:07] the possible descriptions of space-time that emerged. Because when the speed of light is fixed,
+[0:22:13] you end up with some very interesting paradoxes if you stay in a Newtonian universe. You have
+[0:22:19] this issue, imagine you fly in a very fast spaceship, and you are shooting light out of
+[0:22:25] your flashlight inside of your spaceship. Wouldn't the speed of light necessarily add up to the speed
+[0:22:31] of the spaceship to an external observer? So wouldn't this external observer not need to
+[0:22:36] observe a different speed of light than the person traveling in the spaceship? And if the speed of
+[0:22:41] light is constant always, it means that the thing that now has to change is time or space or both.
+[0:22:48] You can still fix this if you make sure that the speed of time runs in a different way.
+[0:22:54] And this leads us to the insight that the time and space that we observe from our own perspectives
+[0:23:01] as emergent observer and whatever universe produces us are interdependent. They're not
+[0:23:06] independent of each other. The speed of light depends on the trajectory that, you know, the speed
+[0:23:11] of time depends on the trajectory that you are taking through the universe. And if you want to
+[0:23:17] think about something that could be more fundamental, we would say that the photon is a carrier of
+[0:23:24] the electromagnetic force. It's a type of boson, which means it can be described as a certain
+[0:23:29] pattern that has an integer spin. And it has the property that it is describing the potentiality
+[0:23:36] for measuring some electromagnetic interaction. So if we take space-time from the perspective of
+[0:23:42] the observer, it's the set of locations that can contain information and the set of trajectories
+[0:23:48] that the information can take. And the photon is a model of information traveling through space-time.
+[0:23:54] And what we have discovered and what Einstein also sometimes suspected is that space itself
+[0:24:02] cannot be fundamental. And there were concrete reasons to see this because what was discovered
+[0:24:09] during Einstein's career, even when he was aware of this discovery, was that there were singularities
+[0:24:15] in space-time, which means points at where the mathematics of continuous space breaks down.
+[0:24:21] So your mathematics doesn't work anymore. You have some kind of a division by zero. Something
+[0:24:26] unpleasant happens where your mathematics is no longer valid. And what Einstein saw is that
+[0:24:32] you can fix this by shifting the singularities around in our space-time model. And we can
+[0:24:38] basically put them below the carpet. We can put them in centers of mass. So in the center of mass,
+[0:24:45] there is basically something like a little black hole where mathematics doesn't work anymore. The
+[0:24:49] mathematics of space-time, where your mathematical description of that world doesn't work anymore.
+[0:24:54] And what could be more fundamental than space-time? I think it could be transitions. So
+[0:24:59] you describe the universe as some kind of state vector, a set of information, and this
+[0:25:03] information is dynamic. You have the way in which information moves between the locations.
+[0:25:09] And in this paradigm, the speed of light could be the rate at which information propagates between
+[0:25:16] locations. And this would be an upper limit of all interactions that we observe within this
+[0:25:23] lattice, where stuff is densely connected. What would be necessary to, if you have a set
+[0:25:30] of locations, some kind of graph, a causal graph, and information flowing between them,
+[0:25:34] to understand that there is causal structure? Well, you need to understand where the information comes from
+[0:25:39] to understand what it signifies, so you can model it. How can a single bit mean anything to you if
+[0:25:44] it's just a single bit, if it's not attached with the source, with the type, with the context?
+[0:25:50] So what could be a way to figure out where information comes from? Well, it needs to have
+[0:25:54] some kind of momentum, some kind of direction. To carry information about direction, and you
+[0:26:00] send this to a graph that by itself just has just locations, connections. The only way that you can
+[0:26:05] do this is if this thing is extended, if it's not just a single location to which the information
+[0:26:11] propagates, but if it's neighboring connections, and you get information that verifies it. So you
+[0:26:15] need to be in some kind of densely strung lattice for information that you can pinpoint.
+[0:26:22] Basically, you need to have something that looks like a continuous space, so you can identify
+[0:26:26] controllable structure that you can identify where stuff comes from, like a photon. And if there is
+[0:26:34] information that is traveling across distance, so to speak, that is non-local, that is not
+[0:26:39] going through densely connected local connections, but that is going over individual long-range links,
+[0:26:44] this information will look like a random fluctuation or a distant entanglement that you can
+[0:26:49] no longer track if you don't know where it originated. And this will look like something like
+[0:26:55] indeterminism from your local observer perspective. Still, it would not be in contradiction to the
+[0:27:03] preservation of information. It would still be a universe in which information is not invented,
+[0:27:08] but in which the amount of discernible information is constant. And if the universe was not in such
+[0:27:14] a way that information would be preserved, of course it would not be learnable, because it would mean
+[0:27:19] that the present state of the universe is forgetting what happened before in the universe.
+[0:27:25] It gets disconnected, the worldline of the universe just gets disconnected. And so from an epistemological
+[0:27:30] perspective, we can only learn the aspects of the universe that look like they are conserved.
+[0:27:36] If there are things in the universe that are not conserved, then they will not be intelligible to us.
+[0:27:40] And of course it's conceivable that the universe is some kind of automaton that forgets information.
+[0:27:46] Another thing that shows us that space-time cannot be fundamental, besides a well-theorized
+[0:27:54] which destroys the notion of locality, is the notion of the collapse of the wave function.
+[0:27:59] Basically, this collapse of the wave function is the point in the history of an observer beyond
+[0:28:05] which we cannot obtain a model of locations of events in time and space.
+[0:28:12] Beyond that point, it's no longer not just that we don't have enough information to construct it,
+[0:28:18] but it makes no sense anymore to assume that the photon was at a particular point when it
+[0:28:23] went to the double slit. At this point, the space-time model breaks down. The space-time
+[0:28:28] model is a mathematical abstraction that works relatively well to look at things happening in
+[0:28:33] the limit. But it's not a model that can be fundamental, I think. But I'm not a physicist,
+[0:28:40] so I'm not actually qualified to have these opinions. This is just what it looks like to
+[0:28:44] me as a computer scientist who tries to understand the mind and thinks like Donald, that we have to
+[0:28:51] understand a certain degree of physics to make sure that our theories of consciousness are tight
+[0:28:57] and that they make sense. And we have to understand in which way they could possibly
+[0:29:02] relate to physics. I'm less convinced that Donald, that a deep understanding of physics is necessary
+[0:29:08] or that physics is going to teach us about consciousness, in part because I don't think that
+[0:29:13] consciousness is that mysterious anymore. I spent a lot of time in my life thinking that it was
+[0:29:20] mysterious, but it seems to be a riddle that can be solved. And basically, I think that there's some
+[0:29:27] aspects to consciousness, for instance, that you're observing yourself to be observing,
+[0:29:32] but consciousness is something that is entirely virtual. It's not a physical thing.
+[0:29:38] Electrons, photons, physical entities, neurons, brains cannot be conscious. They're just
+[0:29:44] mechanisms. And what we can see is that the elements of our consciousness are not mechanical,
+[0:29:50] they're magical somehow. There is magic happening. And if there is magic happening, it means that
+[0:29:55] it's an a-causal structure. It's something that has been made on some kind of causal loom,
+[0:30:00] but that is not necessarily built in the same mechanical way as physics is built.
+[0:30:07] It's a story. It's a tale being told by a physical system to itself. And if you think about
+[0:30:14] organisms, you often think of them as physical systems, and then neither, right? The organism
+[0:30:18] doesn't exist. It's not the same, if you think about it. What exists are cells that interact
+[0:30:23] with each other, and even the cells don't really exist. What exists are molecules, and even the
+[0:30:28] molecules don't really exist, right? They're all layers of descriptions. They're models that we can
+[0:30:32] make because they are coherent. They hold to some degree. It might be frazzling out at the boundaries,
+[0:30:40] but there are ways of thinking about the flow of information in the universe.
+[0:30:44] And the organism is a coherent pattern that we observe in the interaction between cells.
+[0:30:49] And the cells have been set up by evolution to interact in this coherent pattern because
+[0:30:54] when they interact, as if they were driven by a single spirit, by a single target, by a single
+[0:30:59] telos, and if their behavior is coherent and consistent, that are state-building, then they
+[0:31:04] have an advantage over cells which don't do that and just fight for themselves because together
+[0:31:08] they can play longer games. By playing longer games, they can occupy niches in nature that cannot
+[0:31:14] be occupied by control systems that play shorter games. And this is the benefit that organisms have,
+[0:31:21] these coordinations between cells. And an organism is a function that describes this pattern in the
+[0:31:26] cells. And the organism is facilitated by information processing across cells, among other things.
+[0:31:34] To coordinate its interactions, the organism needs to have something like a telegraph network
+[0:31:39] by which it's able to make models of reality and coordinate them between the cells and coordinate
+[0:31:44] the behavior of the cells. And in animals, this telegraph system is facilitated in large part by
+[0:31:51] the nervous system. It would not be necessary that the nervous system, basically every cell type, can
+[0:31:56] do this. But if you want to make it fast, you need to have specialized cells that have a very quick,
+[0:32:01] expensive metabolism and can send information over very long distances very quickly, which other cell
+[0:32:06] types cannot. So, neurons are a specific type of cells that allow particular kinds of information
+[0:32:12] processing. And this information processing has the property that it can put stuff on the screen.
+[0:32:17] So, it's some kind of computer. It's a thing that can produce arbitrary sequences of patterns if it
+[0:32:22] discovers a suitable function to produce them and implement them in the distributed networks of cells.
+[0:32:29] And part of what they're doing is that they create a story about a being that lives in the outside
+[0:32:35] world. And in our culture, we have difficulty understanding how that is, because we, in our
+[0:32:41] culture, as a default, teach our kids that what they see is the physical world. And the physical
+[0:32:47] world has sounds and colors and so on. Only much later, we tell them, well, it's slightly more
+[0:32:51] complicated and sounds and color are not actually in physics. Everything that you consider to be
+[0:32:57] sounds and colors is photons. Photons make electromagnetic interaction, which let air
+[0:33:01] molecules push against each other so they can form regular waves. And colors are local dimensions that
+[0:33:08] you get by measuring or sampling the frequency of the electromagnetic spectrum using different
+[0:33:15] receptor types and making a model of them using polar coordinates. So, this is something that
+[0:33:21] we don't tell the story fully to our children, which makes it even more confusing. And then we
+[0:33:25] tell them photons are actually not little billiard balls, but they are regions in the space-time that
+[0:33:31] have a potential for electromagnetic interaction. And this space that you're talking about is the
+[0:33:36] photonic space. It's the space where you can possibly have photon interactions. For some reason,
+[0:33:42] it's three-dimensional. And maybe there are other spaces that are not three-dimensional, and maybe
+[0:33:46] in these spaces, you cannot have interacting matter in the same way. Because maybe in order to get
+[0:33:54] stable objects, you need to make little knots in the electromagnetic structure or in the spatial
+[0:33:58] structure, and you cannot make knots in 2D and in 4D, they fall apart. So, maybe that's the reason.
+[0:34:04] Or maybe there's another one, and we haven't completely figured it out yet. And there are
+[0:34:07] some candidates that explain why the space that we are in is three-dimensional. So, why is it that
+[0:34:12] we are interacting with the photonic space and not with the others? Why are the others not seeming to
+[0:34:17] form a connected space in this connected lattice? But we don't know the answer yet. At least, I'm
+[0:34:24] not aware of the book that is sketching out the answer. And if I stumble on it, I pray that I
+[0:34:31] understand it. But I think that there are other cultures that have a better intuitive understanding
+[0:34:36] of what consciousness is. And if you look around, you find that some cultures don't find consciousness
+[0:34:41] mysterious. I even suspect that in the core of our own culture, before the Tower of Babel that
+[0:34:47] destroyed the shared understanding, it's still in there. So, a little bit obsessed these days with
+[0:34:54] thinking about Genesis in the Bible and read this epistemologically correct, not as a myth that is
+[0:35:01] stand-in for an origin theory until real science comes along, but as something that is literally
+[0:35:06] true. So, what would that mean? I'm talking about the first book. I'm talking about the book that
+[0:35:14] starts out with the creation of sky and darkness and heaven and earth and so on. And the thing with
+[0:35:21] this story, if you take it literally the way in which Christianity interprets it, it's a story
+[0:35:26] about a supernatural being creating a physical universe. And what's wrong with the story is that
+[0:35:30] whoever tells it to you had no evidence that it was true. So, there is no claim. If somebody makes
+[0:35:36] a claim without evidence, you don't have to listen. It could be interesting as a story for cultural
+[0:35:43] reference, or it could be interesting as an idea for something that you could test. But if it's
+[0:35:46] in principle not testable, this person cannot have that evidence. There is no secret source of
+[0:35:52] knowledge that this person had. There is in principle nothing that some other person can
+[0:35:59] have this with some kind of back channel by talking to a burning bush that would constitute
+[0:36:03] a valid experiment. So, this reading makes no sense. It would never make any sense, but it could
+[0:36:11] make sense, especially if you understand that sky and ground and light and sound and plants and
+[0:36:17] animals and their names don't actually exist in physics. They only exist in our mind as a
+[0:36:23] division of the universe into separate objects, so they become intelligible to us. And the way in
+[0:36:29] which we construct these objects is inside of the mind. So, the creation of the universe that is
+[0:36:34] being described in Genesis is not the physicalist universe with quantum mechanics. It's the creation
+[0:36:41] of the experiential universe in which we are actually in, in which we find ourselves to be in.
+[0:36:46] And the first thing that the mind is discovering when it creates this universe is how to make light,
+[0:36:52] right? How to create neural oscillators that are creating a contrast between light and darkness.
+[0:36:59] So, separate the light from the darkness and then organize this into multiple dimensions until you
+[0:37:04] get a space. And then you align the space with the information from your vestibular organs and what
+[0:37:10] you get is the two-dimensional plane of the ground and the three-dimensional space of the sky above it.
+[0:37:16] Right? So, after you create light and darkness, you create, literally, every mind does this in
+[0:37:21] their cognitive development, the sky and the ground. And then you discover the objects in it. So, you
+[0:37:27] basically learn how to model materials in your mind. So, you have solids and you have liquids
+[0:37:34] and you have organic shapes and you have animated agents. And then you discover features that you
+[0:37:39] cannot interact with, like celestial bodies, and anchor them in the world and you learn how to
+[0:37:45] navigate this world. And then you discover all the plants and the animals and you construct them in
+[0:37:49] your mind and you associate them all with their names. So, again, of course, not a feature of the
+[0:37:54] physical world. They are socially exchanged, these names and so on. We create this world together.
+[0:38:00] And then, last but not least, we create a person. So, the thing that creates it is not a person yet.
+[0:38:10] It's a mind that exists before a person is around. We don't remember how we made light.
+[0:38:16] We don't remember how we discovered the sky and the ground in the first space. This was another
+[0:38:21] observing agent in our own brain. And this observing agent in our own brain, at some point,
+[0:38:26] discovers the needs of a person, of the needs of an organism, the organism that its brain
+[0:38:33] is embedded in. And it creates a model of that, too. So, it creates an agent that is
+[0:38:41] observing this universe, that is embedded in this universe, because this first observer in our own
+[0:38:46] mind is discovering that such an entity exists. It's a useful model to describe reality, that
+[0:38:52] there is a person that has needs and desires and social embedding and dreams and hopes and memories
+[0:38:57] and expectations. And it will create a story of that. And that story is just as real as the trees
+[0:39:04] that exist in our mind as imaginations or the trees or the forest and beyond the horizon. And
+[0:39:13] as real as the sky and the clouds and the colors and so on. But they're all virtual. They're all
+[0:39:17] simulacra. They all exist to tell a story to the organism that is useful for the organism to model
+[0:39:23] the world. And this part where we become a person seems to be happening, I think, around the age of
+[0:39:30] one and a half to two and a half, roughly, in most children that I observed. And at this point,
+[0:39:35] a person that is different from before emerges in their mind. It's not that there is nobody there
+[0:39:40] before. It's just that the thing before is different. And you notice that there is a gap
+[0:39:44] in their memories. They have memories when they're in their first year when you talk to them,
+[0:39:50] where they remember what happened and have expectations already. But later on, there is
+[0:39:56] this point where they don't remember these things anymore. It's very weird. And most people, when
+[0:39:59] they think back, don't have memories that they can consciously access before they're like two and a
+[0:40:05] half years old. And so I wonder if this transition is the result of just a re-indexing of memories
+[0:40:10] due to our newfound linguistic ability. So if we can later on no longer access these memories,
+[0:40:15] or if it's really just basically a new agent that is created by the first agent in its own image
+[0:40:21] as an observer that is aware of the fact that it's observing. But in a different way,
+[0:40:27] as men and women, as something that thinks it's a person, that thinks it's a human being. And I'm
+[0:40:33] not a human being. I realize that at some level. I don't have an identity as a human being. This is
+[0:40:37] a story that my mind tells itself. It's an additional thing. My consciousness doesn't
+[0:40:42] have an identity. My consciousness is also not of the nature that it's the same as everybody else's
+[0:40:48] consciousness. The question, do we all have the same consciousness looking through different eyes
+[0:40:55] or with separate consciousnesses, is in some sense as meaningless as the question of asking, is the
+[0:41:01] text editor that you're running onto your computer the same text editor that everybody else runs on
+[0:41:05] their computer? Or is it a different one? The program word is in some sense a natural law. If
+[0:41:13] you put the circuits of your computer in the same functional configuration, then those things are
+[0:41:20] going to happen with the circuits of your computer and they will afford the following interactions.
+[0:41:24] But the program word doesn't have an identity. And it's also not that it has no identity in
+[0:41:29] the sense it's just not a meaningful category to apply to it. In the same sense, my consciousness
+[0:41:34] is not in this category that would have an identity or none. So it's not something that
+[0:41:39] is shared with others. And it's not something that is separate from others. It's a principle
+[0:41:44] that applies to the observation. And when the consciousness gets tied to a self-model,
+[0:41:49] then it becomes perspectival and I have an identity and so on. But this identity is a
+[0:41:54] particular kind of model that my organism tells itself by changing certain factors in my own brain.
+[0:42:02] Okay. Let's let Don respond.
+[0:42:04] Yeah. Well, there's quite a bit there. So on the nature of the physical world and computation
+[0:42:17] and the finiteness versus continuity of space-time and so forth, I think that the work,
+[0:42:27] you know, Gödel's incompleteness theorem is very relevant here. That the notion of truth
+[0:42:36] is far deeper than the notion of proof. There are any system, any computational system will have
+[0:42:44] things that it can prove, but there will be truths that that computational system cannot access.
+[0:42:52] And if you add a new truth of, you know, like Gödel's statement to your set of axioms,
+[0:42:57] then there'll be yet more truths that cannot be accessed from that. And so what you can compute
+[0:43:05] is always going to be trivial to what is true. There will always be, as far as I can tell,
+[0:43:13] again, it's sort of like Newton's notion of we're at the seashore and the vast ocean of
+[0:43:22] of reality of the truths, he actually used the word truth, the vast ocean of truths is out there
+[0:43:28] beyond what we can compute. And every truth that you add to your base for computation doesn't solve
+[0:43:34] the problem. And you might say, well, that's true, you know, of abstract mathematics, but that's not
+[0:43:41] true of physics. I mean, physics itself is computable, but that there's some recent work
+[0:43:48] suggesting that that's not the case. So Tony Kubit, a physicist, and his colleagues
+[0:43:59] have recently proved that a very important problem to condensed matter physicists
+[0:44:05] called the spectral gap problem is not computable. And that's a stunning result.
+[0:44:16] And they also suspect, and they're working on this, they haven't proven this yet, but that
+[0:44:21] something that's a big open problem, I think the Millennium Prize Committee has, this is one of
+[0:44:26] their problems, is to understand the Yang-Mills gas gap problem, which is, you know, why do
+[0:44:33] photons and gravitons have no mass, but the recarious of the strong weak force do have mass?
+[0:44:40] And Kubit and his collaborators think, again, that we're going to find that something
+[0:44:47] non-computational is going on here. It's not decidable. And my guess is that this is just
+[0:44:52] the beginning, that we're going to find that as powerful as computation is, and, you know,
+[0:44:59] I was in the artificial intelligence lab at MIT for my PhD, and I'm all for AI and for computation,
+[0:45:05] and I, you know, I think it's fabulous what computation can do. And the naysayers who
+[0:45:11] think that the computation can't do amazing things and artificial intelligence can have
+[0:45:16] important limits that, I think that the naysayers, I disagree with the naysayers.
+[0:45:22] On the other hand, I do believe Gödel's incompleteness theorem is correct,
+[0:45:25] and I do think that the notion of truth is just vastly, that the notion, the set of truths,
+[0:45:34] I'll put it this way, the set of things that we can prove from any system is essentially probability
+[0:45:38] zero in the set of all truths. In other words, we're always going to be, as I said,
+[0:45:44] we're always going to be, as Newton said, on the seashore with computation, and it's for
+[0:45:50] principled reasons. So it's not a mysterianism that's not founded, it's saying our best theories
+[0:45:57] tell us that truth and proof are not the same thing, and that proofs will always only leave
+[0:46:03] you on the seashore. And so that's why, I mean, I didn't like that conclusion, but, you know,
+[0:46:10] Gödel proved it, and now physicists are finding it in, you know, the spectral gap, and so as much
+[0:46:17] as I like computation, I'm a computer scientist myself, as much as I like computation, I have to
+[0:46:22] defer to the mathematical proofs that say computation goes thus far and no further,
+[0:46:29] then ask myself, okay, how can, so my conceptual system then is itself just a symbolic system.
+[0:46:40] With derivation rules. So what I can compute by my thought is also going to be limited,
+[0:46:47] which is why I was saying up front what I think about scientific theories, right? Scientific
+[0:46:52] theories are going to have these limitations. We will put down a set of axioms, each theory,
+[0:46:58] a good scientific theory will tell you exactly what it assumes, and it will also give you a hint
+[0:47:05] about the kind of derivations that you can give from those assumptions, and then you use, you find
+[0:47:10] what that theory will entail. But our best theories, like quantum theory and relativity,
+[0:47:18] and evolution of natural selection, the best theories will also tell you where they stop.
+[0:47:23] They will say we go this far and no further. And for example, physics tells us that
+[0:47:32] space-time itself cannot be fundamental, that the very notion of space-time cannot be fundamental,
+[0:47:37] which is stunning because physics for several centuries has essentially been the study of what
+[0:47:43] happens in space and time. And so to say that space-time is not fundamental means that the
+[0:47:49] physicists have to redefine what physics is about. And that's what, for example, Juan Maldacena and
+[0:47:55] Nimar Kani-Hamed are trying to do with things like the cosmological polytope and amplituhedron
+[0:48:00] and so forth. They're finding structures where there are no Hilbert spaces, so there's no quantum
+[0:48:06] theory, there is no time, there is no space, there are these positive geometries, and what you find
+[0:48:13] is you can predict events in space-time, like scattering processes that you see at the Large
+[0:48:19] Hadron Collider, you can predict them, and in fact you can actually compute them in some sense
+[0:48:27] better than if you assume space-time. So they're finding that, you know, if you use Feynman
+[0:48:32] diagrams and try to compute scattering amplitudes for two gluons coming in and four gluons
+[0:48:37] scattering out using the standard quantum field theoretic approaches where space and time is
+[0:48:42] assumed, you get hundreds of pages of algebra and it's a mess. Whereas if you let go of space-time
+[0:48:48] and look at these structures with symmetries that cannot be expressed in space-time, dual conformal
+[0:48:54] symmetry, then you find that the same scattering amplitudes can be processed in just two or three
+[0:49:02] terms that you can write down pen and paper on a sheet of paper. So all of a sudden, so what
+[0:49:07] they're seeing is space-time has had a good run, but if you force yourself to stick with space-time,
+[0:49:14] then the math is ugly, you get hundreds of pages of algebra to compute scattering amplitudes, you
+[0:49:20] can't see the symmetries that are there, like dual conformal symmetry. If you let go of space-time,
+[0:49:25] you're finding these amazing structures that they don't know what they're about,
+[0:49:29] but all of a sudden you see the right symmetries and the computations become trivial.
+[0:49:34] So there's some big hint that I think on a couple fronts from Gerdl and from the work by Tony Kubit
+[0:49:42] and his team that the computation is as powerful as it is and as much as I love it as an AI person
+[0:49:50] and a cognitive scientist, it's always going to be on the seashore with Newton. And when we let go
+[0:49:58] of space-time, we're still of course as theorists always going to have a finite set of axioms and
+[0:50:05] derivations about, you know, like the cosmological polytope and so forth that Nima and Juan are
+[0:50:11] finding. We're still going to have a finite set of concepts and derivations, so we're not going
+[0:50:17] to get around Gerdl's incompleteness theorem, but at least we're going beyond the notion of time,
+[0:50:22] which is really critical. And that also cuts at the computational issues, pretty interesting.
+[0:50:29] Computational complexity is about, you know, a lot of it is about time complexity.
+[0:50:35] And what physicists are telling us is that ultimately we're going to have to let go of
+[0:50:40] the notion of time. And so as computer scientists, we're going to have to rethink
+[0:50:44] complexity issues when the very notion of time itself isn't fundamental. So that's going to be
+[0:50:50] a real kicker for us in computer science. How do we think about complexity issues when time itself
+[0:50:58] is not the right way to think about things? And therefore the sequence of computations in time
+[0:51:03] is not the right way to think about things. We have some really deep thinking to do ahead.
+[0:51:09] But where I think we share some common ground, Joscha, is I think that a lot of
+[0:51:17] our experiences and so forth, our models that we built, I think that we are building internal
+[0:51:22] models. But the question is, what is the apparatus that's building those models?
+[0:51:30] And I'm saying it's nothing inside space and time. So in particular, I'll be very, very explicit. I
+[0:51:40] don't think that neurons exist when they're not perceived. I don't think space-time exists when
+[0:51:46] it's not perceived. I think neurons and space-time and even particles are simply data structures
+[0:51:58] that we use. And there's a formulation of quantum theory that's very similar to this. It's called
+[0:52:07] cubism, quantum Bayesianism, Chris Fuchs and David Merman, where they take this point of view that
+[0:52:14] it's the every act of observation in physics, every experiment that you do is an act of fact creation.
+[0:52:23] Right? It's not that there are pre-existing particles with pre-existing states and you're
+[0:52:28] measuring those states. Rather, they're subjective Bayesians. So all the probabilities in quantum
+[0:52:37] theory are subjective probabilities. They're not objective probabilities. And every outcome is a
+[0:52:44] fact creation. And they do have, I mean, Chris Fuchs has a very interesting 2010 paper
+[0:52:50] called Cubism that I highly recommend. And in that paper, he actually points to a very interesting
+[0:52:58] quantum discovery that there's a sequence of what's proven is that even if you know what the
+[0:53:08] outcome of your experiment is going to be with probability one, that does not entail that the
+[0:53:14] outcome is there and exists independent of your observation. That's a stunning thing to say.
+[0:53:19] It's a probability one, you know, with probability one, what you're going to measure. And yet you can
+[0:53:23] prove with quantum mechanics that it's impossible that the outcome was there, the value existed
+[0:53:31] before you made the measurement. So that the, it's really the case that the acts of observation
+[0:53:37] are fact creations, not fact discoveries. So most of the work that's done in consciousness
+[0:53:50] assumes, and I would say this is 99% of the theories that I've seen in consciousness,
+[0:53:55] assume that space-time is fundamental, assume that physical particles are fundamental,
+[0:54:01] and that somehow neural activity in humans and perhaps other kinds of more complex activity in
+[0:54:08] AIs creates consciousness. But the very founding assumptions that space-time is fundamental,
+[0:54:16] that neurons exist when they're not perceived, contradicts our best physics. And it also
+[0:54:21] contradicts evolution of natural selection, which is very, very clear. Natural selection makes it
+[0:54:29] very clear that the probability is zero, that the sensory systems of any organism tell them any
+[0:54:36] truths about objective reality. What they tell organisms, sensory systems evolved to tell
+[0:54:43] organisms how to behave in order to stay alive, period. That's it. And so that gives you a user
+[0:54:51] interface for staying alive, but gives you no access to the truth. And that fits with what
+[0:54:57] physics is telling us, that space-time is a user interface, but it's not the final truth.
+[0:55:02] And so what I want from a theory of consciousness as a scientist is I want a clear statement of
+[0:55:12] what am I assuming? What are the exact things that my theory takes as primitive?
+[0:55:18] What are the exact rules that allow me to derive things from those primitives? And how exactly do
+[0:55:24] I get the taste of chocolate from that? That's what I'm looking for from a theory of consciousness,
+[0:55:31] precise statement of exactly what I'm assuming up front with mathematical precision, and then
+[0:55:36] precise derivation. If I'm not taking the taste of chocolate as fundamental, if I'm saying that
+[0:55:41] somehow some dynamical system is going to give it to me, then I want to know exactly which
+[0:55:46] dynamical system is giving me the taste of chocolate and why that dynamical system could
+[0:55:51] not be the smell of garlic. I want to know exactly. Otherwise, there's no real science on the table
+[0:55:58] at all. So that's what I'm looking for, is theories that say exactly what the assumptions are
+[0:56:03] and tell me exactly for at least one specific conscious experience, how that conscious experience
+[0:56:09] must be derived in that way. And so that's where I'm coming from on those.
+[0:56:14] Now, in the case of cells and the brain, I would just mention something that's very interesting,
+[0:56:20] that you probably know about Mike Levin's work. And he's finding that cells, not just neurons,
+[0:56:30] but any cell in animals that, in fact, outside of the brain, they can learn and they can compute
+[0:56:41] and they can do morphogenesis of the cell's body. They use gap junction, communication, electric.
+[0:56:50] So they're effectively doing what neurons do, but in a very, very different way. And this is,
+[0:56:56] all cells can communicate in this way with gap junctions and so forth. So I suspect that
+[0:57:04] we're going to find that neurons aren't special in the sense of being information processors,
+[0:57:12] that information processing, and this seems to be where Mike is heading, is that information
+[0:57:18] processing is happening in what he calls these bioelectric fields, even if there are no neurons,
+[0:57:24] and that they can learn, they can retain memories, and they can be very intelligent.
+[0:57:29] So even as neuroscientists, we may find that we'll have to expand our horizons beyond neuroscience
+[0:57:36] and understand, if I were a reductionist and trying to do biological reduction, I would,
+[0:57:42] at this point with Mike Levin's stuff, be interested to say, well, maybe I wouldn't
+[0:57:47] necessarily reduce consciousness to neural activity. Maybe these gap junctions and the
+[0:57:51] computations that cells can do would also be a suitable format. But again, I'm not a
+[0:57:58] reductionist in that sense, but I'll stop unless you respond, Josche.
+[0:58:04] Thank you. You went very far and wide and tried to be a little bit more concise.
+[0:58:11] Let's start out with Gödel. Gödel's proof had a very profound and not necessarily very positive
+[0:58:19] influence on philosophy. And basically, Lukács and others in philosophy opened up a tradition
+[0:58:26] that the underlying current is that what Gödel has shown is that mathematics is impotent
+[0:58:33] to describe reality. And therefore, reality can only be described by people who don't really know
+[0:58:39] mathematics, that is philosophers. So philosophers like that intuition. But it implies that there is
+[0:58:46] something beyond mathematics that allows you to make sense of things that assign truth. And
+[0:58:54] slightly deeper, when you say that you like computation and you value it and so on, and you
+[0:58:58] see its limits, it implies that you see what comes beyond these limits and you're using that thing
+[0:59:03] beyond the limits to think. And I don't think that you are. Everything in my own mind that I can
+[0:59:09] observe, when I observe myself perceiving, when I perceive myself reflecting, when I perceive myself
+[0:59:16] reasoning, is computational. It means that I go from state to state in a somewhat deterministic
+[0:59:22] way. The random parts are just deleting bits that I computed before, so I have to do it again. The
+[0:59:28] randomness and determinism doesn't help me. So the part of my mind that is relevant to my thinking
+[0:59:34] is fundamentally computational. What Gödel discovered, and is often misunderstood, and also
+[0:59:40] by Gödel himself, is a very important thing. What Gödel has discovered is not that truth is deeper
+[0:59:46] than proof. That was in some sense the suspicion which he started with. He knew that, in his view,
+[0:59:54] that truth is platonic, that things can be true or not regardless of whether we find out or whether
+[1:00:00] it can be found out. And he hoped to find a notion of truth, of proof, that could reach truth.
+[1:00:08] And he found that it couldn't, and he found this in a devastating way.
+[1:00:13] And he drew the conclusion that there is truth that cannot be found with mathematics.
+[1:00:18] And the opposite is true. There is no deeper notion of truth than proof. You see,
+[1:00:26] a perception cannot be true or false. Perception just is. Physical events out there in the universe
+[1:00:34] cannot be true or false. They just are. A pattern that you observe is not true or false, it just is.
+[1:00:39] Right? You could be erroneously thinking that you're perceiving a pattern when you don't,
+[1:00:43] because you're suffering from false memory or a delusion or whatever that makes your thinking
+[1:00:47] or perception inconsistent. But the pattern itself is not true or false. It's an interpretation that
+[1:00:53] can be true or false. And the interpretation has to be in a symbolic language to have the property
+[1:00:59] that can be true or false. A perceptual interpretation by itself is not true or false,
+[1:01:04] it just is. Right? So in order to be true or false, you need to have a language. And the
+[1:01:10] language needs to be defined in such a way that truth can be established. And the process of
+[1:01:15] establishing truth is a computation. And there are two types of languages in which truth can be
+[1:01:21] defined. And the language of classical mathematics is a stateless language. It's one where time
+[1:01:28] doesn't exist, where everything happens all at once or in some kind of eternal moment. So if you
+[1:01:34] want to go from state to state in this language of eternal mathematics, in the stateless language,
+[1:01:39] you just assign an index and then you iterate over the index and you do this in a single instant,
+[1:01:44] in one moment. And the stateless mathematics has a very beautiful property. It allows you to deal
+[1:01:50] with infinities, because you can now construct functions that take infinitely many arguments in
+[1:01:54] a single step, perform an operation over them in a single step, and give the result back in a single
+[1:02:00] step. It's a language in which you can assign a value to pi. Right? In the computational system,
+[1:02:07] you cannot really assign a value to pi. You can have a function that gives you digit by digit,
+[1:02:11] but you never get to the latest last digit. It also means that pi can never be written down
+[1:02:17] in such a way that you can have a process that relies on knowing all the digits of pi and consumes
+[1:02:22] them to tune the outcome of some physical process. If you make the switch to a stateful language,
+[1:02:30] in which you can only go from step to step, you're losing certain things. You're losing
+[1:02:35] the ability to treat pi as a value. Pi is now suddenly a function that you can only approximate
+[1:02:41] to a certain degree. And many other things stop being values. You get a fundamental difference
+[1:02:47] between a value and a function. A value is something that you have already computed,
+[1:02:51] that you know how to compute by extension. And this means that also that truth changes. Truth
+[1:02:57] is no longer this platonic thing that precedes mathematics and where we can use mathematics as a
+[1:03:01] tool to figure it out. It has to be contingent on the language in which you use it. If your language
+[1:03:08] has internal contradictions, then truth becomes impossible to determine. Right? You get into
+[1:03:15] areas in this language where it falls apart. You can no longer use it to express coherent
+[1:03:20] thoughts about reality and coherent models about reality. You can never make statements in the
+[1:03:26] language that you can prove outside of the language. So you cannot use your language to
+[1:03:30] prove things that cannot be described in the language. Your only hope to prove statements
+[1:03:37] about the universe that you exist in in a language is that you are able to recreate the observations
+[1:03:42] that you make inside of the language, which means you recreate a model of the universe that is so
+[1:03:48] good that it gives you what you observe currently. And then you can hope that the statements that you
+[1:03:55] make in your language capture something about the reality outside of you that gives rise to
+[1:04:00] your observations. Of course, you cannot know because it could also be different. But if your
+[1:04:05] language is not able to produce what's on your screen, then your language is wrong. And Hilbert
+[1:04:13] gave out this task to mathematicians to find a machine, any kind of structural sound language,
+[1:04:20] that is able to run the semantics of mathematics without breaking. And what Gödel discovered is
+[1:04:25] that the semantics of stateless mathematics cannot be recovered. If you assume that there is a
+[1:04:31] solution to get stateless mathematics to work, you will run into contradictions of the way that Gödel
+[1:04:37] discovered. But there is a way out. You just drop the notion of truth that is independent of the
+[1:04:45] sequence of operations, the number of the set of steps that you took, the algorithm that you took,
+[1:04:51] to get to your result. It means that when you have a self-referential statement like this sentence is
+[1:04:57] false, right, this is a sentence that of the type that Gödel has shown leads into contradictions,
+[1:05:03] if you assume that there is a stable notion of truth that is stateless. If you accept that truth
+[1:05:10] is not necessarily a stable value and you look at the sentence, then as long as you look at it,
+[1:05:16] the truth value will fluctuate. Because the assumption that the sentence is true will lead to
+[1:05:22] the sentence being false and vice versa. So suddenly you have no longer a stable truth
+[1:05:26] predicate. And it just means that the property of the languages in which you can actually deal
+[1:05:31] with truth and assign it is that under some circumstances the truth predicate will not be stable.
+[1:05:38] And it's fine. There's nothing wrong with that. And this same thing applies to the Entscheidungsproblem
+[1:05:44] that Turing was dealing with when he came to the Harting problem. He defined originally the
+[1:05:50] Turing machine in such a way that we could translate stateless mathematics into algorithms.
+[1:05:56] And this might require that you have to go through an infinite sequence of steps.
+[1:05:59] And if you make this assumption that you sometimes in order to get to truth you have
+[1:06:03] to go through an infinite sequence of steps, you run into contradictions. So you might use an
+[1:06:10] unbounded sequence of steps that gives you continuously results. That's fine. But you cannot
+[1:06:14] accept that anything exists in any kind of universe that has causal structure that is going to produce
+[1:06:20] you a solution to the Harting problem, which would give you back stateless mathematics.
+[1:06:24] So basically what Gödel and Turing have shown is that stateless mathematics doesn't work.
+[1:06:31] And when we look back at the history of mathematics, mathematicians have never used
+[1:06:35] stateless mathematics. They only pretended to. Whenever they actually wanted to compute
+[1:06:39] something with mathematics, they under the hood used stateful descriptions. They never took in
+[1:06:45] infinitely many arguments and performed infinitely many operations on them. And the intuition
+[1:06:51] and the intuition that stateless mathematics makes sense is because we had this intuition
+[1:06:57] that continuity, that space and time in a continuous fashion exist. Why do we have this
+[1:07:02] intuition? Well, that's pretty easy to answer, right? The number of things that we interact
+[1:07:07] with, if we zoom in, we find that they are discrete. All our observations have a discrete
+[1:07:10] resolution in time and in space. All our knowledge that we store about these observables is as a
+[1:07:18] discrete number of bits that we can assign to them. There is only a finite number of information
+[1:07:25] that we can access and that we can deal with as an observer that is embedded in this universe.
+[1:07:29] So everything was discrete to begin with, but it's too many parts to count.
+[1:07:35] If you deal with too many parts to count, the insight that a number of atoms that you are in
+[1:07:41] an ocean is a finite bounded number doesn't help you at all because it's still almost infinite from
+[1:07:48] the perspective of an observer. So when you want to describe what the ocean is doing, it doesn't help
+[1:07:52] to count the molecules in it and to assign locations to them and model the interactions.
+[1:07:58] It doesn't work. There is too much. So when you look at the dynamics of too many parts to count,
+[1:08:03] you're looking for operations that converge in the limit, which means they behave quite similar
+[1:08:09] whether you're using a trillion or 10 trillion or a gazillion particles. Once you have
+[1:08:15] these operators that give you the same dynamics under all circumstances, when you take more and
+[1:08:21] more elements to them, this part of mathematics that describes the convergent operators,
+[1:08:27] that's geometry. And some of geometry is uncomputable, so you can only approximate it.
+[1:08:33] But our brain has discovered geometry to deal with a world of too many parts to count.
+[1:08:38] And this plays into what you're pointing out when you say that our perception doesn't give us
+[1:08:43] reality, it gives us something that we can work with. Of course, the reality that we are embedded
+[1:08:49] in has too many parts to count. We need a different reality. We need one that we can actually handle,
+[1:08:54] even if it's not computable and can only be approximated. And this experiential reality is a
+[1:08:59] very coarse simplification. It's about as coarse as a gaming engine is when you play a computer
+[1:09:05] game as compared to real physics. It's not much better than that. In many ways, it's even worse,
+[1:09:10] which you can verify if you put yourself into a lucid dream and look at the fidelity of what your
+[1:09:15] brain is able to generate. Light switches will usually not work. You will not be able to read
+[1:09:19] the same stuff twice on the same page when you imagine it and so on. There's only so many bits
+[1:09:24] in your working memory. The fidelity of what your perceptual system can track and imagine is limited.
+[1:09:30] It's relatively easy to overcome that. I don't really know what the number of bits in my working
+[1:09:34] memory is, and I would be very curious to find out. But it's not as big as I thought when I was
+[1:09:40] a child. It's not infinite. It's not unlimited. Perception of infinity is super easy to generate
+[1:09:45] when your mind is very finite. It's super easy to overwhelm my finite resolution mind.
+[1:09:52] So this deep thing that Gödel misunderstood, that Gödel has not discovered that mathematics cannot
+[1:09:58] reach truth, but that truth is no more than the result of a sequence of steps that is compressing
+[1:10:05] a statement to axioms losslessly. It doesn't go beyond that. That was the deep insight, and it's
+[1:10:11] one that basically has not percolated in most areas of philosophy and even physics yet, because
+[1:10:16] the physicists have checked out the code base for mathematics before that result was obtained and
+[1:10:21] understood. So basically, we need to switch from continuous stateless mathematics to constructive
+[1:10:27] mathematics that was not understood back then. And it needs to be understood now. So basically, my
+[1:10:36] question to somebody like Donald would not be so much how to explain the spectral gap
+[1:10:41] problem, because I think problems of this case, of this type, are with the result of using continuous
+[1:10:47] notions of space-time and infinities and assuming them as given. So there's a statement about certain
+[1:10:54] theories that are expressed in a language that has inconsistencies. And in this language, with these
+[1:11:00] inconsistencies, you get to the point that you cannot get certain results. There's also an issue
+[1:11:05] of computational irreducibility, which is difficult to understand in stateless mathematics.
+[1:11:10] Computational irreducibility is a property of a system. That means that you cannot obtain the
+[1:11:16] state of the system without running the system to that point. There is no way to predict the system
+[1:11:24] except by taking the system, all its detail and fidelity, and going through the sequence of steps.
+[1:11:30] So you cannot predict what the universe is going to do when the universe is computationally
+[1:11:35] irreducible. You're going to predict some things, but not all of things. And these some things only
+[1:11:39] with a certain degree of certainty, because you can often not insulate them from the parts that
+[1:11:45] you cannot predict, because they are computationally irreducible. In a universe that is played out and
+[1:11:52] implemented in a stateless language, that is a confusing property, because the cost of computation
+[1:11:57] doesn't play a role when you are in a stateless universe. In a stateful universe, the number of
+[1:12:02] state transitions that your model needs to make plays a certain role. And this spectra of
+[1:12:09] computational irreducibility dooms large. It means that you cannot compute things for practical reasons,
+[1:12:15] because you don't have enough information yet, and you cannot have information to make that
+[1:12:19] prediction. But there is no deep miracle that is not caused by the language when you discover that
+[1:12:25] the spectral gap problem is incomputable. So my question to Donald would be, if you think that
+[1:12:31] there is a limit to computation that you can see, and beyond you would still do something and make
+[1:12:36] statements, what is it that you use to make statements beyond the limits of computation?
+[1:12:42] What parts of your mind are you drawing from when you make statements beyond what a computational
+[1:12:48] system can derive? Right. So, well, one way of trying to focus this would be to talk about
+[1:12:57] the integers versus the real numbers and the rational numbers. So from your point of view, Joscha,
+[1:13:04] is it, do you think that, so for example, if we look at just the set of all functions from
+[1:13:14] the integers to the integers, right, it's trivial to show that that's not countable.
+[1:13:22] So, yet Turing showed that this set of computable functions is countable, the set of Turing
+[1:13:27] machines is countable. So in that simple example, just to make things very, very concrete,
+[1:13:35] the set of all functions from the integers to the integers isn't countable, the Turing
+[1:13:40] computable functions are countable. And so there's a sense in which the Turing computable
+[1:13:44] functions have measure zero. They have a, they're a probability zero in the set of all
+[1:13:49] of all functions. So do we want to conclude from this computationalist point of view that
+[1:13:57] all those other functions don't exist, that we're sort of, when I, so you're saying those functions,
+[1:14:03] so real numbers don't exist. Real numbers don't. Yes, for something to exist, it has to
+[1:14:09] be implemented. If it's something is not implemented anywhere, it doesn't make sense
+[1:14:13] to claim that it exists. I think it's a confusion of the notion of existence to say that something
+[1:14:18] that is not implemented and is not implementable could exist. The things that produce patterns
+[1:14:24] that we observe in order to exist, they need to be implemented, right? So you could say,
+[1:14:29] does the financial system exist? Well, it exists to the degree that it's implemented.
+[1:14:33] There are some boundaries where we project it and it's not actually implemented and where it
+[1:14:37] doesn't actually exist only in some cause approximation, but by and large, something
+[1:14:42] exists, right? Some causal structure is implemented here. The set of all the functions between the
+[1:14:47] integers is not implementable. Therefore, it doesn't exist. It's something that you can
+[1:14:52] specify. And this difference between specification and existence is something that is very obvious
+[1:14:58] to a computer scientist and sometimes not obvious to a traditional mathematician.
+[1:15:04] There is stuff that you can specify that makes no sense. It is only specifiable in your language,
+[1:15:09] but that's because your language is much more permissible than the set of things that can exist.
+[1:15:15] And computation is less permissible. Computation only permits you to build things that can actually
+[1:15:21] exist. If you can build things that cannot exist, it's a problem of your language in which you're
+[1:15:25] building things. It's not a problem of reality. Just confused. I have a comment. This one's from
+[1:15:31] Professor Edward Lee of Berkeley, and it may provide some insight and you both can tell us
+[1:15:37] your thoughts on this. So this is from Professor Edward Lee of Berkeley. This question is a major
+[1:15:41] theme in the second half of my book, Plato and the Nerd. UTMs, so universal Turing machines,
+[1:15:46] have the following properties. Number one, their operation is a sequence of discrete steps. Number
+[1:15:51] two, the data comes from a countable set. Number three, that sequence terminates. It is a huge leap
+[1:15:56] of faith to assume that physical processes have any of these constraints. I show in Plato and the
+[1:16:02] Nerd that the hypothesis that physical processes all have these properties is actually untestable.
+[1:16:08] I remember earlier, Joscha, you mentioned that if it's untestable and you can't provide evidence for
+[1:16:14] it, then perhaps it shouldn't be talked about. So this reminded me of this. And he says in brackets,
+[1:16:18] this follows from an information theorem due to Claude Shannon known as the channel capacity
+[1:16:23] theorem. The converse hypothesis that the physical world is not so constrained is also
+[1:16:28] untestable by experiment. But I argue in Plato and the Nerd that the converse hypothesis leads
+[1:16:34] to simpler models of the universe and therefore is a better choice by Occam's razor. My claim is
+[1:16:39] that universal Turing machines as realized on today's computers are simulations, quote unquote,
+[1:16:44] of a process that is fundamentally non-algorithmic. So I just want to place that out there and
+[1:16:48] perhaps you can use that as a jumping off board, Donald and then Joscha.
+[1:16:54] Very interesting. I'll want to read that book and make sure I understand what Professor Lee is
+[1:16:58] saying. That's quite interesting. So Plato and the Nerd. I'll be interviewing Edward at some
+[1:17:04] point in the next few weeks as well. Oh, very good. Yeah. That's really
+[1:17:08] quick because these are very, very deep issues. It seems to me that this also interacts with what
+[1:17:14] the physicists are telling us that there is no time fundamentally. So if time is not fundamental,
+[1:17:22] then these computational issues where there are fundamental limits to what can be computed because
+[1:17:30] we're assuming time, a sequence of... So in computer simulations, computer algorithms,
+[1:17:39] we're assuming a sequence in time of computations that can be... And the kinds of
+[1:17:45] limits that Joscha is talking about, it seems to me, are a consequence of assuming time to
+[1:17:52] be fundamental. And if we have to go to a physics in which time is not fundamental,
+[1:17:57] then that places this whole conversation in a completely different context. And so
+[1:18:04] what we may be pointing to is time has been a very useful and helpful thing for physics for
+[1:18:10] several centuries. And now the hard work that we have to do is to understand how to go beyond the
+[1:18:16] notion of time. And when we go beyond the notion of time, will the kind of discussion we're having
+[1:18:21] right now be fundamentally revised? The computational versus non-computational
+[1:18:26] notions, we may have to really revise how our whole conversation is going to be.
+[1:18:32] Our whole conversation here is going. I'd be very interested in what Joscha has to say on that.
+[1:18:39] Thank you. Also, thanks, Edward Lee, for your argument. I concur with you that it's in principle
+[1:18:49] not testable what physics is really like. What we can only say is which theory that we can come up
+[1:18:56] with is more elegant. A small thing, I think that this notion that the Turing machine has to get to
+[1:19:04] result after a finite sequence of steps might be a mistake in the sense in which Turing machines
+[1:19:10] were originally defined. So basically, a computer that can be built is not a Turing machine in this
+[1:19:17] sense, but it's always a finite state machine. And in a finite state machine, you can have a
+[1:19:26] sequence of steps that is unbounded, that doesn't stop, and that gives you more and more digits of
+[1:19:32] pi while you're looking at. In a sense, it doesn't come to a conclusion if you want to compute
+[1:19:37] physics, but it's not a problem to build a computer that as long as it runs gives you more digits of
+[1:19:42] pi. And so I think from a formal perspective, it doesn't make much of a difference because you can
+[1:19:48] easily fix it. But it's important if you think about your intuitions about how things work or
+[1:19:53] the proofs that you make in other contexts that the value of computation doesn't hinge on there
+[1:19:59] being a finite number of steps until a computation that is going to give you a result that was
+[1:20:04] formulated in classical mathematics terminates. But that it means that everything that you get
+[1:20:10] is the result of finite interactions. And if you assume that infinite interactions are possible,
+[1:20:18] you run into the difficulties that Gödel and Turing have discovered, which means that your
+[1:20:22] theories no longer work. They no longer make sense. And different from Edward, and maybe I'm
+[1:20:29] doing him injustice here, I haven't read this book, is so I would say that it's much more elegant from
+[1:20:36] the perspective of Horkheim's razor to describe reality in a language that doesn't break.
+[1:20:41] Because if your language breaks and you still try to make a model of reality, it's going to be
+[1:20:46] arbitrarily expensive. It doesn't work. You have to find a language that works. So if we find that
+[1:20:52] the languages in which we can describe reality have to be computational languages because the
+[1:20:57] others lead into contradictions, then we have to use the computational languages. That's the
+[1:21:02] situation that I find myself to be in. This doesn't mean that I can know what physics is like. It just
+[1:21:07] means that all the physics that I can talk about without my language breaking has to play out in
+[1:21:12] this way. The notion of what is time, so coming back to Donald, is very important. There are two
+[1:21:20] notions of time. One is this intuitive notion that we have as human beings, which is basically
+[1:21:27] this Newtonian time, this time where clocks run the same speed everywhere and so on. And it
+[1:21:34] describes the transition of the universe from the past into the future via the present.
+[1:21:40] And this notion of time is somewhat similar to the notion of the state transition in your
+[1:21:45] computer, except that the state transition in a computer has some kind of global clock where
+[1:21:50] everything in the computer goes from state to state all at once and progresses to the next step.
+[1:21:56] But what we see in our universe is that it only makes sense if we assume that it's dynamic.
+[1:22:01] If the universe would just be a decoupled sequence of states without a transition function, there
+[1:22:06] would not be any law that we can discover. There is nothing that we can control. Organisms would
+[1:22:10] not exist in the way in which they do. So from the observations that we make, we have to assume
+[1:22:16] that the transitions in the universe are somehow fundamental, that the universe is moving. And state
+[1:22:22] transitions seem to be crucial in order to be able to understand the universe. But there is some
+[1:22:27] notion of transition, and this notion of transition is much more basic than time. And the time that
+[1:22:34] we are talking about when we see that time is not fundamental in the notion of spacetime is relativistic
+[1:22:38] time. The relativistic time is what the universe looks like to a relativistic observer.
+[1:22:45] And we can obtain relativistic time if we understand that what we perceive as time is
+[1:22:52] basically the speed of the clocks in our environment. And the speed of the clocks that
+[1:22:57] we observe depend on our own speed. So if I move you through the universe and you are a supervenient
+[1:23:03] pattern on the structure of the universe, imagine the universe is something like an ocean. And the
+[1:23:10] present is the crest of a traveling wave through that ocean. And there are waves maybe in front
+[1:23:19] and behind us, but they're not our future, they're past, they're different universes that just happen
+[1:23:23] to be a little more along or a bit less along. The future and past would require you to leave the
+[1:23:28] crest of the wave, and you can't because you're always traveling with the wave. So there is no
+[1:23:33] way to leave that present because only the present exists from the perspective of that crest.
+[1:23:38] And you and me, we are vortices inscribed on the crest of that traveling wave. And the rotation
+[1:23:46] that the vortex is doing when it updates itself to observe the universe, to form a memory, and so on,
+[1:23:51] and to register its perceptions, and so on, will depend on the speed in which this vortex rotates.
+[1:23:57] And so if the vortex is moving along with the wave, then the updates in the vortex are a
+[1:24:04] function of the movement in the wave itself, the basic parasitize on the movement of the main wave.
+[1:24:10] And you cannot, as this vortex traveling with the wave, ever leave the wave. You can move a little
+[1:24:14] bit in the wave to the left or to the right. That is, moving to the left or to the right would be
+[1:24:20] movement in space. You cannot move in time. You just move with the time. And the faster you move
+[1:24:26] to the left or to the right, the less there will be updates available for turning up internal state.
+[1:24:33] So the fluctuations of the vortex becomes slower and slower the more the vortex moves in space.
+[1:24:39] And this leads to relativistic time. It means that from the perspective of the vortex, when it looks
+[1:24:44] at its environment, the environment gets distorted in time and space. So in this notion, we realize
+[1:24:50] why something would look like to a vortex that moves like this, like relativistic time. And we
+[1:24:56] understand that the relativistic time, from the fundamental perspective, how to make all this
+[1:25:00] happening, how to build a system that functions like this, cannot be fundamental. It's a result
+[1:25:06] to the observer. It will be what the universe looks like to the observer of the observer's
+[1:25:11] screens, as we always do. But it is not fundamental. What's fundamental are the state transitions.
+[1:25:17] So what we need to do is basically replace the physicalist time that is relativistic for good
+[1:25:23] reason in the frame of certain models by something that is more fundamental and allows us to derive
+[1:25:28] the relativistic time. And this would be state transitions. Very interesting. There's some,
+[1:25:36] in that spirit, or at least in that kind of direction, there's work by Marcus Mueller and
+[1:25:41] Philip Hohn, and then also some more recent work by Favio Mercati and Giovanni Emiliano Camiglia,
+[1:25:54] where they're showing how relativistic space times can be constructed from exchange of
+[1:26:03] quantum information. So you don't assume it up front, but you try to get a dictionary
+[1:26:07] that allows different quantum agents to send information back and forth. And it turns out
+[1:26:18] if you send enough information back and forth and try to set up a dictionary to make everything
+[1:26:22] consistent, you will get Einstein's special relativistic space time coming out of it. So
+[1:26:29] that's an interesting direction to go. Another interesting direction to think about,
+[1:26:38] just a simple notion, time and entropy, or at least physical time and entropy are deeply connected.
+[1:26:48] And so we would like to have some way of getting entropic time coming out of a deeper system in
+[1:26:55] which there is no entropic time. And I'm not saying this is the deepest way of doing it,
+[1:27:02] but an interesting simple way, just in the case of Markovian dynamics. So if I have a Markovian
+[1:27:08] system, homogeneous, and it's in a stationary, then the entropy of that system doesn't change.
+[1:27:18] So if for state X sub N and X N minus one and so forth, the entropy H of X sub N equals H of X
+[1:27:28] sub N minus one for all N. So there is no entropic time, but it's trivial to prove
+[1:27:38] that if you just do a simple conditioning, if I look at X N given X one or X N given,
+[1:27:46] then it turns out that H of X N given X one is greater than or equal to H of X N given X N minus
+[1:27:54] one. In other words, the very fact of doing conditioning, which is projection. So you can
+[1:28:02] think about, I take this dynamical system, which has a notion of state transition, it's a Markov
+[1:28:09] chain, but it doesn't have any entropic time. But as soon as you start projecting that nonentropic
+[1:28:16] system onto different perspectives by conditioning H of X N given X one, all of a sudden, now you
+[1:28:22] have entropy. And so now you have that kind of notion of time. So is that a direction that we
+[1:28:28] could go where we could still have, in some sense, a dynamical system, but it's not an entropic time
+[1:28:35] system and show how we get space time arising from that in the way that some of these
+[1:28:43] physicists are trying to do. I think that will be interesting. I think that it's a separate
+[1:28:49] question whether the real numbers exist versus, that's, it's a pretty strong statement to say
+[1:28:56] that real numbers don't exist. That's really quite interesting to say that they don't exist,
+[1:29:02] but I guess that's where you want to go anyway. Yeah, well, I agree with Pythagoras that real
+[1:29:08] numbers don't exist. And the time was not right back then. So real numbers are actually functions.
+[1:29:15] And you can, I can give you this function instead of a real number and it can give you as many
+[1:29:20] digits as you want, or as you can afford to compute, but this is it. And it's fine. So basically,
+[1:29:25] real numbers can be derived in a deterministic fashion. They are determined once they are
+[1:29:33] predetermined in the sense, but you will not know the billionth digit of the square root of two,
+[1:29:42] unless you find a procedure to compute it and the energy or the neck entropy to actually get there.
+[1:29:51] And this derivation of a result via using apneic entropy, I think, relates to our perception of
+[1:29:59] time. This causal arrow of time, which is aligned with the entropic arrow. Eric Drescher finds a
+[1:30:04] very good metaphor in his book, Good and Real, I think, to give an intuition how a symmetric system,
+[1:30:12] where the transitions are symmetric in both directions, is still not going to be symmetric
+[1:30:18] at scale when you look at it. So he takes as an example, a world that is made of large and small
+[1:30:24] billiard balls. And you put one of these billiard balls in motion and the transaction between the
+[1:30:32] billiard balls are all symmetrical, which means if you take a movie and you play it forward and
+[1:30:37] backward, you will see for every interaction between two billiard balls that it's the same
+[1:30:42] if you go the movie backwards or forwards. It's a simplified model where you have no friction.
+[1:30:47] And so we have no thermodynamic stuff going on. We look at the universe at the level where
+[1:30:53] thermodynamics doesn't exist yet, because maybe the stuff is too small to have these losses.
+[1:30:58] So we just look at the billiard ball universe where everything is deterministic and without
+[1:31:04] noise. And in this model, what we see is that when we zoom out, there is something that is happening
+[1:31:11] at scale. And that is some balls move after they have been hit and keep hitting other balls.
+[1:31:20] And if you play the movie backwards, it looks as if some balls are anticipating that they are going
+[1:31:26] to be soon hit and start moving as a result, as if they would be hit. So there is this asymmetry
+[1:31:33] that your balls leave a wake behind them. And this wake is describing in some sense the entropy
+[1:31:42] that we are looking at in our universe. That's the direction in which you can, as an embedded
+[1:31:46] observer, form memories. Because in order to form memories, you rely on the dissipation of
+[1:31:52] information between locations. And so whenever there is a way to form memories, it means that
+[1:31:58] you are aligned with some kind of entropic arrow. If you zoom out, it means that you can now sort
+[1:32:04] the states of the universe in such a way that you discover the concentric wave that you are part of
+[1:32:10] in our ocean-like universe has a point of origin. And this point of origin is a construction that
+[1:32:17] you make. You discover this by the wave expanding. And you discover it by information moving,
+[1:32:23] diffusing across the locations in the wave. So there is a hypothetical point
+[1:32:29] in the middle where the information is not diffused yet.
+[1:32:35] And this hypothetical point is what we imagine to be the Big Bang.
+[1:32:40] And it's a mathematical singularity in a way, because if you are in the Big Bang,
+[1:32:45] you don't know which direction to go unless the Big Bang is not completely perfect and symmetrical.
+[1:32:50] And the interesting thing about this before the Big Bang means it's the wrong question to ask,
+[1:32:56] because before the Big Bang, if you looked at it, it's like a moire pattern. This would be the point
+[1:33:03] where the information goes out of distribution or gets distributed or diffuses between locations in
+[1:33:08] the other direction. Every point of every trajectory that goes away from the Big Bang
+[1:33:14] goes into a future. Sorry to interrupt. Is this related to the Janus point?
+[1:33:18] Have you heard of Julian Barber's theory of time?
+[1:33:21] No. No, but it's an artifact of a certain description. Basically, we create a certain
+[1:33:27] mental model in which we describe the entropic arrow of time as the diffusion of information
+[1:33:35] across locations in the universe. And then we imagine that there is a single point where this
+[1:33:40] ends up. And if you go through this point on the other side, you go back into another future.
+[1:33:44] So the further we go away from this point in any direction, the further we go into a future
+[1:33:50] in which systems could form memories of the past. And to form memories of the past,
+[1:33:54] you need to have some kind of reservoir of neck entropy that you can tap and some kind of
+[1:33:59] puddle of neck entropy. And then you can reason about the conditions, how such puddles of neck
+[1:34:04] entropy could form, under which conditions, and how long they might last. I would like to get to
+[1:34:09] the topic of free will as well, and then also some audience questions. So why don't you, Donald,
+[1:34:14] outline your views on free will? Okay. Yeah. If in a physicalist framework,
+[1:34:30] which... So now I'll just talk about what most of my cognitive neuroscience peers think. Most of
+[1:34:37] them assume that physical systems are fundamental. Neural activity causes all of our behavior.
+[1:34:45] And in that case, there can be a fiction of... A useful fiction of free will, but it's really
+[1:34:55] just going to be a useful fiction. If I do something, it's really my neurons with the
+[1:35:00] neural activity that did it. And there is a sense in which you can say, I chose to do it because
+[1:35:07] neurons are part of me. So I think that's the point of view that Dan Dennett takes, for example,
+[1:35:14] on this. And Sam Harris replies on that. He says, well, yeah, I also grow my fingernails. I'm not
+[1:35:22] sure that I'm doing that by free will. So it's not real clear that just because my neurons are
+[1:35:28] doing it, I have free will, just in the same sense that I'm not using free will to grow my fingernails.
+[1:35:34] So Sam would say there's no such thing as free will, if you're a physicalist. Dan Dennett would
+[1:35:42] say I'm a physicalist and there is this important notion of free will. I think that, of course,
+[1:35:52] space-time isn't fundamental. And so that we have to completely think outside of that box
+[1:35:57] altogether. And as scientists, we have to say up front what our hypotheses, what our axioms or
+[1:36:05] fundamental assumptions are and be very clear about them up front. These conscious agents
+[1:36:14] in the mathematics, they get certain inputs. We can call them experiences that they have.
+[1:36:20] And then there's something called the Markovian kernel that describes what actions they take.
+[1:36:26] And those actions affect the experiences of other conscious agents. So that's just the mathematics
+[1:36:32] that my team has written down. It's a very simple notion of a Markovian dynamics of conscious agents
+[1:36:37] interacting. And it's not in physicalist framework. We're assuming that this is in its own world.
+[1:36:45] These are conscious agents and that's the foundation. Space and time are not the
+[1:36:49] foundation, conscious agents. So conscious experiences and interactions of conscious
+[1:36:54] agents are the foundational notion. And so then the question is, how shall we understand
+[1:37:02] the probability? So if I get a particular experience that comes into a conscious agent
+[1:37:08] and it then probabilistically affects the experience of other agents, how shall I
+[1:37:13] understand that probability? Shall I understand it as a free will choice or what?
+[1:37:24] And I could say, I refuse to answer the question. There's a probability there and that's as far as
+[1:37:33] I go with the theory. There's this agent. So I leave that probability as just where my theory
+[1:37:40] stops. I say, in some sense, wherever we see a probability in a theory, that's where explanation
+[1:37:46] stops. That's basically saying, I don't know. So I would say this, whenever in a scientific theory,
+[1:37:56] you see probabilities coming up, you're seeing the theory say, this is where I halt.
+[1:38:03] This is where my explanation stops. And there are two major
+[1:38:09] approaches toward understanding those probabilities, the objectivist and subjectivist
+[1:38:14] to probabilities. So objectivists say that these probabilities are
+[1:38:19] pointing to some real thing in the world. There is some real random generator in the world.
+[1:38:29] And subjectivists say, no, these are just degrees of belief. Whenever you see probabilities,
+[1:38:36] you're only talking about degrees of belief. But in either case,
+[1:38:45] explanation stops. How do I come to that belief? Well, I can only tell you probabilities.
+[1:38:51] What is that random objective process? I don't know, but I can just tell you probabilities.
+[1:38:56] And so really, whenever you see probabilities in a scientific theory, and they're all over the place,
+[1:39:01] I read that as saying, here's where explanation stops and our theories halt. And if we want to
+[1:39:09] go further, we're going to have to unpack that probability into some deeper theory.
+[1:39:15] So if I say that it's free will in the case of the conscious agents,
+[1:39:23] then, I mean, in some sense, that's just words. What the theory has is the probabilities,
+[1:39:33] and it has no further explanation. So if I say, if I call that probability of free will,
+[1:39:38] then I can call it that, but I haven't really done much to give much insight into the notion
+[1:39:45] of free will. Free will then becomes a primitive, and maybe that's what I want to do. I want to say,
+[1:39:49] this is where explanation stops, and so free will is primitive. So these probabilities are free will,
+[1:39:56] and I agree that that's where my theory stops, that I can do no further.
+[1:40:07] Now, what's interesting in the conscious agent dynamics that we're working on is that
+[1:40:11] any group of conscious agents together also satisfy the definition of a conscious agent,
+[1:40:18] and so they are a conscious agent. So any conscious agents interacting are also conscious
+[1:40:21] agents. So in the theory, there's one conscious agent, because if you take all of them together,
+[1:40:27] they would form one conscious agent. But then there are as many, if you're computational,
+[1:40:33] there's only a countable number of them, or in my case, I don't know, it may be an uncountable
+[1:40:37] number of conscious agents. But what's interesting is that you unpack this probability
+[1:40:44] in the Markovian kernel, there could be one big probability for the one agent, but you can unpack
+[1:40:49] that into all these dynamical systems that are interacting conscious agents with their own
+[1:40:53] probabilities and their own kernels. And what's interesting is that you could then give,
+[1:40:58] in some sense, an unpacking of the notion of free will in that way. You could say, well, yeah,
+[1:41:03] the one agent has free will and this probability, but I can actually do some non-trivial unpacking
+[1:41:09] of that notion in this sort of recursive unwinding of those probabilities throughout
+[1:41:14] the network. So there is the possibility here of, I mean, ultimately, there will be a primitive
+[1:41:23] notion of free will that is just primitive and not explained. But given that one, I can explain
+[1:41:28] all these other free wills sort of interacting, arising from this most primitive notion of free
+[1:41:33] will in a non-trivial way. But once again, I would point out something that I see all the time in
+[1:41:41] scientific theories, no theory in science will ever explain everything. And I would love to see
+[1:41:47] if Josje agrees or disagrees. I will just state to make a strong claim,
+[1:41:54] there cannot be a theory of everything because every theory has to make assumptions and those
+[1:41:58] assumptions are not explained, they're assumed. It's just that simple.
+[1:42:06] Okay. Am I correct in my summary of your views on free will that if in a physical theory you
+[1:42:12] have probability, now some of that probability is just due to our ignorance, but if there's a
+[1:42:16] fundamental probability, you can get a lot of things done. And I think that's a really
+[1:42:21] fundamental probability. You can just say, well, that's indicating that the theories break down,
+[1:42:27] we just don't know. Or you can say that there's something underneath producing those and that,
+[1:42:31] which is underneath the probabilities, is what you're calling free will. Is that correct or is
+[1:42:36] that off? Right. So if I'm a physicalist, I'll say that that probability is due to some
+[1:42:43] process that I can say no more about, but there's some process that generates this stuff. It's not
+[1:42:47] free will, it's just a physical process that I don't know. But if I'm taking consciousness to be
+[1:42:52] fundamental, then it's an interesting move to say that that probability can be interpreted as
+[1:43:00] free will. Now, of course, I'm not explaining anything. I'm just putting the notion free will,
+[1:43:06] the word free will on it, right? I see. And free will becomes just a primitive notion as well.
+[1:43:14] So that's where my explanation stops. And the most unpacking I can do is that recursive
+[1:43:19] unpacking that I mentioned, which is an interesting unpacking. But ultimately,
+[1:43:23] there's this primitive notion of free will that I have nothing further to say about.
+[1:43:26] But I think that that's not a problem specific to this theory. The last thing I was saying was that
+[1:43:34] that's endemic to all scientific theories. Every scientific theory will have miracles
+[1:43:39] at its foundation. By miracles, I mean assumptions that are taken for granted
+[1:43:44] and not explained. If you explain them, then you'll have a deeper theory with new assumptions
+[1:43:49] that explain those assumptions, but the new assumptions aren't explained. And so in this sense,
+[1:43:55] science can never have a theory of everything because science theories always have assumptions,
+[1:44:01] and the assumptions are what you don't explain.
+[1:44:03] Yeah. Joscha, I know Donald said there are quite a few elements to pick from there.
+[1:44:10] So we are interlocking claims, but let's address them. First of all, I don't know whether there
+[1:44:17] can be one theory of everything because my reasoning is not tight enough to make that
+[1:44:23] proof one way or the other. So at this point, I have to remain agnostic because I think from
+[1:44:29] where I stand, it seems to be possible that there can be a theory of everything, and it seems to be
+[1:44:33] possible that there cannot. From a computationalist perspective, whenever you have a set of
+[1:44:41] observations that is finite, you will be able to construct a computational model that explains
+[1:44:47] how to make such patterns. So in principle, there can always be a theory of everything that you
+[1:44:53] observe. That's something that I don't see a way around this. So this seems to be sound to me,
+[1:45:00] and I think that can be formally proven, but it seems to be almost trivial that it's proven. So
+[1:45:06] it's more interesting. The question is, can you narrow this down to a single one, to one theory
+[1:45:11] of everything? You will be always stuck with infinitely many theories of everything, where
+[1:45:17] most of these theories will be super inelegant and redundant and basically recordings of your
+[1:45:21] observations. Or will there be one theory that is the most elegant and explains everything neatly
+[1:45:28] and wraps it up? And of course, if you think about the space of all theories and think of them as
+[1:45:34] things that you can do in a language in which you can define truth, and if you realize that the
+[1:45:41] languages in which you can define truth consistently are the computational languages, it turns out that
+[1:45:46] all your models are going to be automata, and that you can sort the space of automata by the length
+[1:45:51] of their definitions. So it also seems that in principle it should be possible to find the
+[1:45:56] shortest automaton between two every pair of automata that you can construct and can up this.
+[1:46:01] Now the question is, what's your search procedure for all the possible automata? Do you have a search
+[1:46:06] procedure that you can hope that terminates? And this is not a question of whether it's mathematically
+[1:46:14] possible, but whether it's efficient. So is there an efficient strategy to find a theory of
+[1:46:20] everything that is the shortest one? And so far we haven't found one. And it relates to what AI is
+[1:46:28] doing in machine learning when it tries to identify what's going on in the domain. So in principle,
+[1:46:35] we can always be sure that we could be a brain in a vat and everything is just a nefarious conspiracy
+[1:46:40] that is playing out. And because we cannot exclude this, we can never be sure that our
+[1:46:45] theory of everything is the best theory that could exist of things. So that's obviously the
+[1:46:52] case. But if we take out this single thing and make the assumption that reality is not a conspiracy,
+[1:47:00] I think then it starts to look a lot brighter. Let's get to the notion of free will.
+[1:47:06] I think that free will is tied into the notion of agency. And the best explanation of what an agent
+[1:47:14] is that I found so far is that an agent is a control system that is intrinsically combined
+[1:47:20] with its own set point generator. A control system is a notion from cybernetics. It means you have
+[1:47:27] some system like a thermostat that is making a measurement using sensors, for instance,
+[1:47:32] the temperature in the room, and that has effectors by which it can change the dynamics of the system.
+[1:47:37] So the effector would be a switch that turns the heating on and off. And the system that's being
+[1:47:41] regulated is the temperature in the room. And the temperature in the room is disturbed
+[1:47:46] by the environment. And a simple thermostat will only act on its present measurement and then
+[1:47:53] translate this present measurement using a single parameter into whether it should switch or not.
+[1:47:57] And depending on choosing that parameter well, you have a more efficient regulation or not.
+[1:48:04] But if you want to be more efficient, you need to model the environment and the dynamics of
+[1:48:09] the system and maybe the dynamics of the sensory system and the actuator itself.
+[1:48:14] And you can do this. It means that you model the future of the regulation based on past
+[1:48:20] observations. So if you endow the controller with the ability to make a model of the future
+[1:48:25] and use this control model to fine tune the actions of the controller, it means that a
+[1:48:30] controller now is more than a thermostat. It's not going to just optimize the temperature in the room
+[1:48:35] the next frame. But it's going to optimize the integral of the temperature over a long time
+[1:48:40] span. So it basically takes a long expectation horizon. The further it goes, the better probably.
+[1:48:46] And then it tries to minimize all the temperature deviations from the ideal temperature from the
+[1:48:50] set point over that time span. This means that depending on the fidelity and detail of the model
+[1:48:56] of its environment and its interaction with the environment and itself, it's going to be better
+[1:49:02] and better if it assumes that there are trajectories in the world that are the result of
+[1:49:07] its own decisions. By turning the temperature on and off at this particular point in time,
+[1:49:13] I'm going to get this and this result, depending on the weather outside, depending on how often
+[1:49:17] people open and close the door to the room at different times of the day, depending on the
+[1:49:22] aging of my sensor or the distance of my sensor to the heating, and depending on whether the
+[1:49:29] window on top of the sensor is currently open or closed and so on. I get lots and lots more ways to
+[1:49:35] differentiate the event flow in the universe and the path that the universe can take and the
+[1:49:40] interactions that I can have with the universe that determine whether somebody will open the
+[1:49:45] window and so on and so on. So you have all these points where the controller is a very differentiated
+[1:49:53] model of reality, where it's going to prefer some events of others and is going to assign
+[1:49:59] its own decisions to these trajectories. And this decision making necessarily happens under
+[1:50:05] conditions of uncertainty, which means the controller will never be completely sure which
+[1:50:11] one is going to the right decision. The controller will have to make educated guesses, bets on the
+[1:50:16] future. And this even includes the models of itself, right? The better the control system
+[1:50:21] understands itself and the limitations of its modeling ability, the better its models are going
+[1:50:26] to be. So at some point of complexity, this thing is going to understand its own modeling procedure
+[1:50:31] to improve it and to find gaps in it and so on. And this also means that when it starts to do this,
+[1:50:38] it is going to discover that there are agents in the world, other controllers that have set
+[1:50:42] points, generators and model the future and make decisions. For instance, people that might open
+[1:50:47] the window when you make the room too hot and you lose energy because of that. So maybe not
+[1:50:51] overheat the room and people are in the room. This means you have to model agency at some point.
+[1:50:57] And you will also discover yourself as an agent in the world, as a controller, as a set point generator
+[1:51:01] and the ability to model the future. And you will discover this before you understand how your own
+[1:51:06] modeling of the future works. So you also have to make bets on how you work before you understand
+[1:51:13] yourself. So you will discover a self-model. The self-model is the agent where the contents of
+[1:51:19] your own model are driving the behavior of that agent. It's a very particular agent. It's one
+[1:51:25] where your reasoning and your modeling has an influence on what this agent is going to do,
+[1:51:30] a direct coupling. It's a very specific model, a very specific agent that you discover there.
+[1:51:35] And so in some sense, free will, I think, is a perspective on decision making under uncertainty
+[1:51:41] starting from the point where you discover your own self-model up to the point where you
+[1:51:46] deconstruct it again. And of course you will deconstruct it again at some point. You will be
+[1:51:51] able to fully understand how you're operating. And once you do this, making your decision becomes
+[1:51:56] indistinguishable from predicting your decision. Because of computational irreducibility, often you
+[1:52:02] will not be able to predict the position before you make it, right? But as soon as you understand
+[1:52:08] that there is just a computational process going on, and you understand the properties of that
+[1:52:13] process, you will no longer experience yourself as having free will. Free will is a particular
+[1:52:19] kind of model that happens as a result of your own self-model being a simulacrum, instead of being a
+[1:52:25] high-fidelity simulation of how you actually work. And we are young beings. We don't get very old.
+[1:52:33] It's very difficult for us to get to the point where we fully understand how we work,
+[1:52:37] except in certain circumstances, right? When we observe our children, very often we get to the
+[1:52:41] point as parents that we fully understand what they will be doing in a given situation.
+[1:52:45] And we can fully understand their own actions and anticipate their decisions. And the child
+[1:52:49] might experience that it has free will. And we experience that the child has free will up to the
+[1:52:53] point where we suddenly understand, oh, this is what's going on. And at this point, I can completely
+[1:52:58] control the child because I can out-model it, right? And it's only to the point where this
+[1:53:04] system is going to introduce levels that are, again, reaching my own level, that decisions
+[1:53:10] become unpredictable. But if I am a few levels of modeling depth above the other agent that might
+[1:53:16] think that it's free will, the free will starts to disappear from my own perspective. And also
+[1:53:20] happens in my own mind. There's many things that I do, but I thought as a child, I'm acting out of
+[1:53:25] my own free will. And now I understand how mechanical it is. And I can deal with myself
+[1:53:31] by controlling myself, by out-modeling myself successively, and becoming one more complex in
+[1:53:35] this way. And in all that, Josje, the computational process, the probabilities
+[1:53:44] in the transition rules, you would view those as objective probabilities then?
+[1:53:49] Yes. So there is also this issue that I don't actually exist in the way in which I model
+[1:53:54] myself. I only exist to some degree of approximation. I'm not this big tree that
+[1:53:59] is strictly implemented in physical reality. I'm more like a bunch of shrubbery. And some of the
+[1:54:05] shrubbery is tasked with making a model of myself as a tree. And that model is going to be coarse
+[1:54:11] approximation. So the fact that I am unable to follow up on my plans means that I'm only
+[1:54:17] approximately implemented. The rubber hand illusion is a good example of how we're continually
+[1:54:22] redefining who we are, right? Where you tap and drag on a hand at the same time you're
+[1:54:28] tapping and dragging on a rubber hand. And if you do it just right with a person,
+[1:54:32] they'll take this rubber hand and incorporate it into their body image. So we're always learning
+[1:54:36] who we are. But those probabilities in that learning process, you would take as objective
+[1:54:40] probabilities and not free will kinds of probabilities. What does it mean that a
+[1:54:46] probability is objective? It only means based on the models in which I have currently made.
+[1:54:51] And if I go far beyond back, I cannot assign an objective probability to the probabilities that I
+[1:54:59] am observing because they are contingent on the assumption, for instance, I'm currently not in a
+[1:55:03] dream. Or that my memories are correct or that my data are correct or that the theories that
+[1:55:09] event into establishing the relationships between my measurements and my data and so on are correct.
+[1:55:14] So I do agree that at some point there are a lot of assumptions that go into this. And these
+[1:55:20] assumptions differ with you are usually mild because I make so many observations that at some
+[1:55:26] point I can, the arrows cancel each other out. Or there's so many people that can verify my ideas
+[1:55:32] and shut them down. And so my ideas don't exist in isolation. They are being shot against every
+[1:55:38] philosophy and physics book that I can get my hands on and that I understand, right? And every
+[1:55:42] conversation that I have. So that doesn't mean that I will discover the truth in this way, but
+[1:55:49] it means that I discover many, many of the possible errors that I can make. And at some point I realized
+[1:55:54] that there is a finite space of theories that exists and that we are discovering the same things
+[1:56:00] again and again. So when we ask ourselves, what are integers, for instance, or what are rational
+[1:56:06] numbers, there are many ways of making theories about what integers are. For instance, we can say
+[1:56:11] that there are the cardinalities of sets. So basically you count members of a set, and this
+[1:56:16] is an integer, and all the numbers of members of sets that you can have are integers. Or you can say
+[1:56:22] that there are a subsequent Liebling scheme. That's the definition that I currently prefer.
+[1:56:27] Or you can use Peano's axioms to formalize them. And it turns out that they all describe exactly
+[1:56:33] the same thing. They are all different perspectives on the same thing. And once you understand the
+[1:56:39] larger space that runs the integers, you also understand why they are different perspectives,
+[1:56:44] because you understand how these perspectives are being constructed, and you can show that it's all
+[1:56:48] the same thing. So in some sense, the integers are a fractal. And you can describe this fractal
+[1:56:54] using a generator function, and you can also describe it in many other ways. And it seems that
+[1:56:59] mathematics, or all the languages that we can use that work, are usually a small, relatively
+[1:57:06] intelligible set of fractals. And they are the boundary of what is intelligible to the human
+[1:57:12] mind, but not that far above it, and probably still inside of it. So I'm more optimistic than you are.
+[1:57:21] I have a question for the both of you. It's about your models. How much of it would have to change,
+[1:57:26] let's say, Joscha, in your case, if classical logic was indeed correct, if continuities exist?
+[1:57:32] And for Donald, if the opposite was true, so continuity doesn't exist, intuitionist logic is
+[1:57:38] primary. So at some point in my life, I thought that continuity must exist, because everybody was
+[1:57:48] assuming that it did. Like, most of the eminent physicists thought that the universe must be
+[1:57:53] fundamentally continuous. Many of the foundational theories that we have in physics
+[1:57:57] assume that there is continuity. And I thought that my inability to derive continuity, to construct
+[1:58:03] a continuous system, is the result of my lack of understanding. And it took me quite some time to
+[1:58:10] realize that what Gödel has stumbled upon was actually the insight that continuity cannot exist,
+[1:58:17] because it's not constructive, cannot be implemented. So once you have the infinities,
+[1:58:23] once you presuppose them, there are an amazing cornucopia, all sorts of stuff falls out.
+[1:58:29] Like, you have Hilbert's Hotel that is completely booked out, but has infinitely many rooms, and then
+[1:58:34] there are infinitely many buses coming on, and you just ask everybody to move in the room with
+[1:58:38] twice their number, and then you fit in the infinitely many new people, right? This is not a feature.
+[1:58:46] This is a bug. This shouldn't happen. And no hotels work. No hotels work like this.
+[1:58:52] This is not good if something like this happens. And it's not surprising that this blows up when
+[1:58:58] you try to make proofs. And so I think that Hilbert's Hotel points not to a miracle in the
+[1:59:05] universe that under certain circumstances you get something for nothing, which is very nice if you
+[1:59:10] want to derive a universe from nothing. But it shows that your language can break. And so I don't
+[1:59:17] see a way to get the languages in which continuity exists to work. And I cannot exclude that I'm wrong,
+[1:59:25] and I might see a way in the future, or somebody else does, in a way that I don't. I just don't see
+[1:59:30] a way how to make continuity work. But I get all the benefits from continuity for the description
+[1:59:35] of practical systems using discrete logic. So in this sense, I would say that dynamical systems
+[1:59:42] that are truly continuous don't exist. They're not causally existing. They cannot be causal.
+[1:59:47] They are a layer of description that I use to deal with too many parts to count, and they are
+[1:59:53] sometimes a very useful abstraction. But they cannot be used for a foundational theory.
+[1:59:58] Because the foundational stuff has to work. It has to be described in a language where all the
+[2:00:04] parts have to interface in such a way that your language doesn't blow up, because otherwise
+[2:00:08] the terms in your language don't mean anything. So what this means is that the word
+[2:00:13] continuity does not actually mean anything in my world. It does not have a useful reference.
+[2:00:19] I cannot point at anything that is truly continuous without my language breaking.
+[2:00:25] So it doesn't exist. It's a word that only exists as a confusion. But it exists approximately.
+[2:00:31] It exists as the dynamics of too many parts to count, which is fine.
+[2:00:35] So I'm a confused man. And when you say that the language is breaking, I just see it as
+[2:00:40] you saying that there are extremely unintuitive results that, well, they don't seem to make sense,
+[2:00:45] but it doesn't mean that they don't make sense, because you defined work as what's implementable.
+[2:00:50] Now, what it doesn't work means that you can no longer derive truth. It means, for instance,
+[2:00:55] in an axiomatic system, if you have a contradiction in your axioms, it means that you can suddenly
+[2:01:00] derive everything and nothing. It just means that your fractal is no longer having a discernible
+[2:01:07] structure. This is what it means that it's breaking. What is the exact contradiction
+[2:01:13] in classical logic? Because it seems as though mathematicians are getting along fine,
+[2:01:18] and it's difficult, extremely difficult, to prove certain theorems. And it wouldn't be if there was
+[2:01:22] a contradiction. Well, not necessarily, but you understand what I mean. Yes. So the issue is that
+[2:01:28] the assumption of a stateless platonic notion of truth that holds independent of the process
+[2:01:34] by which you discover the truth leads into contradictions. And this was what Gödel had
+[2:01:39] proven. It basically means that a sentence that is true under these assumptions is also false under
+[2:01:45] these assumptions. So it cannot be true. And this is where undecidability comes in. It's not just
+[2:01:50] about that some sentences are not reachable, because you don't know whether they're true or
+[2:01:54] false. It also means that there are some sentences that are true and false at the same time. But if
+[2:02:00] you have to find truth in such a way that it can, that it includes falsity, something is either true
+[2:02:07] or false. If you have an excluded middle, then this cannot be the case. So this is a very bad
+[2:02:12] result. It just means that your language is not working. It gets to illegal states. It just means
+[2:02:18] that the application of steps that you have prescribed in your logic, if you apply them
+[2:02:23] properly, leads to an undefined result. It means that your language is segfaulting. It means your
+[2:02:30] mind is breaking apart. It means that the thoughts that you are thinking no longer have meaning,
+[2:02:34] because they can no longer point to anything that could be implemented.
+[2:02:41] Okay, so Don, the question that I asked before was, let's imagine the intuitionist logic is
+[2:02:47] correct. How does your theory change? Well, yeah, so I mean, I could easily
+[2:02:57] implement the theory of conscious agents, you know, in an intuitionist logic kind of approach
+[2:03:02] and run it that way. So that wouldn't really change my theory of conscious agents fundamentally. But
+[2:03:11] my own thinking on this, I guess, does differ from Joscha's in an interesting way here. And that is,
+[2:03:19] I do take Gödel's result, not necessarily to show that the notion of continuity is nonsense or
+[2:03:29] contradictory, but rather that if I have a finite system of axioms and derivation rules,
+[2:03:38] then you can look at the set of statements that can be proven by that system, then you can find
+[2:03:46] statements that are not provable within that system, so they're undecidable from within that
+[2:03:51] system. But what Gödel did was to put a mapping onto the language of that system, so he could
+[2:04:00] write down an analogy, as Douglas Hofstadter likes to talk about it. He found an analogy that he
+[2:04:07] could write down, where there is this sentence I could write down that says, I am true,
+[2:04:14] but not provable within this system. And that doesn't seem to me to require me going all the
+[2:04:21] way off to uncountable infinities and continuity and so forth. It's just saying, I mean,
+[2:04:26] here's the deflationary reading of Gödel. It's just saying, you give me any computational system,
+[2:04:32] I'll find a statement that's true, but can't be derived from within that system. Therefore,
+[2:04:36] any computation that you pick isn't the final word. I don't have to go all the way to
+[2:04:43] you know, uncountable sets and so forth. I can just use that to say that the computation can't
+[2:04:52] be the final truth. And so that would be sort of the minimal way. And that's why I think a lot of
+[2:05:02] researchers have interpreted Gödel, but I guess you all should disagree on that.
+[2:05:08] Okay, what would be the thing that goes beyond that? So what is the other language that you can
+[2:05:13] use after Gödel's language broke? Well, what you do is you take the new statement
+[2:05:20] that you showed was undecidable within that computation system, and you add it to your
+[2:05:26] computational system, right? Every computational system has axioms. You don't compute without
+[2:05:31] some assumptions. So your computation has to have certain axioms to begin with. So you add it to
+[2:05:35] your axiom. It's now still a finite set of axioms. And now you say, okay, now I'm good. I took that
+[2:05:41] undecidable sentence and I put it into my set of axioms. I'm good. Now I'm done. Well, no, you're
+[2:05:45] not. Now, because Gödel comes back and says, you know what, I just found another statement within
+[2:05:49] your new system, and that's not computable. So I'm not getting anywhere near to these uncountable
+[2:05:54] infinities. No, wait, wait, wait. You're making a step too far here, I think. You have just found
+[2:05:59] this procedure that discovers that something is true that is not true according to mathematics.
+[2:06:05] So Gödel is trying to find a foundation for all of mathematics. And he does this by reducing the
+[2:06:12] mathematics that he's interested in to Peano arithmetic, and then computes all of mathematics
+[2:06:17] in Peano arithmetic and discovers that he cannot recover the semantics that he wanted to discover,
+[2:06:23] which was a platonic notion of truth, one that is independent of the state sequence that he
+[2:06:27] runs it through. This is the thing that he cannot recover. And you try to recover the original
+[2:06:32] mathematics by extending the axiomatic system, Peano's axioms, with an infinite set of arbitrary
+[2:06:40] statements. This doesn't seem to be very elegant. Also, of course, Gödel shows that it doesn't
+[2:06:44] terminate. It doesn't work. It's not fixing mathematics in any way. So you still have
+[2:06:51] the intuition here that you have a procedure that allows you to discover truth in ways that
+[2:06:56] Gödel's procedure could not. And if you have that procedure, you should be able to prove that it's
+[2:07:02] true. If you cannot prove that it's true, I'm not going to believe you. I don't think that the
+[2:07:09] statements that you think are true but my system cannot prove are true. Unless you can compute them.
+[2:07:16] So you have to show a way that would force me as a rational observer and colleague of yours
+[2:07:22] that is completely charitable and so on and reasonable and rational to follow you there.
+[2:07:29] So if you can give me a rational procedure, then I expect that this procedure will be
+[2:07:35] computational. That there will be a sequence of steps that I can follow to see why your claim
+[2:07:42] that the sentence is true is actually valid. If you cannot make such a claim, I don't see how I can
+[2:07:48] believe you. Well, so the way I understand Gödel doing it is that he comes up with this whole
+[2:07:55] Gödel numbering approach. And he takes you through and shows you this mapping from the numbers into
+[2:08:04] these Gödel numbers that are making statements about the numbers themselves. And you look at
+[2:08:09] that and you go, yeah, okay. I understand that mapping. That's perfectly fine. And now I can
+[2:08:15] write down within that mapping, I can write down this number. And when I look at the interpretation
+[2:08:20] of that number under this mapping, the number says I am true but not provable within Keanu.
+[2:08:29] And so now, at this point, I sort of agree with Roger Penrose. Penrose looks at that and says,
+[2:08:36] okay, that means that there is something true here. I can see that it's true. I don't disbelieve
+[2:08:45] I saw the whole Gödel numbering construction. I saw how the sentence came to say what it says.
+[2:08:51] And I agree that it's all consistent. And what it's saying, it's saying that it's true and not
+[2:08:58] provable. So at this point, I guess I sort of agree with Penrose at that point. I go, okay,
+[2:09:08] there's something beyond the notion of proof, beyond the notion of derivation that's going on
+[2:09:15] here. There's the looking at analogies and understanding analogies that where we go,
+[2:09:23] this sentence is clearly true. And it's also by its own statement, its own declaration,
+[2:09:28] that it's not provable within this finite computational system.
+[2:09:34] Penrose is fascinating. He thinks that our brains are physical systems. And he also thinks that our
+[2:09:41] mental processes are generated by the brain, probably, but that our brains can do mathematics
+[2:09:47] that go beyond the mathematics that computers can do. That is a very specific statement that
+[2:09:52] is more concrete, I think, and specific than what you've said so far. And it leads him to
+[2:09:58] a weird spot, which is quite lonely at the moment. But I find this nevertheless a very
+[2:10:03] interesting argument to make. I'm afraid we will not be able to resolve it today because I have to
+[2:10:08] drop now. But I found it very interesting to see that you are a Penroseist at the end of the day.
+[2:10:14] Well, I don't like the microtubules theory, and I don't like the non-computational collapse of
+[2:10:20] microtubules theory.
+[2:10:21] He's not really to be blamed for this. I suspect that his reasoning is that since all known physics
+[2:10:26] is computational, basically, it takes a state, and then there is a transition between the states.
+[2:10:33] The resolution for what consciousness, where it comes from, if consciousness is enabling us to do
+[2:10:38] things that computers cannot, needs to be in an unknown area of physics. And the unknown area of
+[2:10:44] physics that's left, reasoning in the same way as Sherlock Holmes, if you actually exclude all the
+[2:10:49] possibilities, the only remaining thing must be the truth, right? That's quantum gravity,
+[2:10:54] because there is no generally accepted theory of quantum gravity. And then it just so happens that
+[2:11:00] Hameroff has this beautiful psychedelic theory of how to get the microtubules to have non-local
+[2:11:07] interactions that employ quantum gravities in a way that nobody really understands.
+[2:11:12] And this might be in this corner. And so they became friends. But I don't think that Penrose
+[2:11:20] theory is exactly the same thing as Hameroff theory.
+[2:11:22] Right, right. And I'm not talking about that more general theory of consciousness. I'm just
+[2:11:27] talking about his specific analysis of Gödel's incompleteness theorem and what it means for
+[2:11:30] mathematics. Yes. And it's basically also something that Chomsky is a few into,
+[2:11:36] in which leads Chomsky to mysterionism. So basically, they were confronted with the same
+[2:11:42] insight or the same idea that they think that the human brains can do things that mathematics cannot,
+[2:11:47] that mathematicians can make proofs that computers in principle cannot make, that they discover that
+[2:11:53] certain statements are true that in a computable axiomatic system cannot be derived. And this was
+[2:11:58] also what my question was pointing out, at how do you know that something is true there if you
+[2:12:03] cannot go show me a sequence of steps that does it, right? And so Penrose thinks that
+[2:12:14] there must be unknown physics. And Chomsky thinks it cannot be understood in principle,
+[2:12:19] which might be the same thing at the end of the day. Right. I guess we will have to go. I'll just
+[2:12:26] say our basic understanding of the axioms itself, then maybe one thing to, how do I understand the
+[2:12:34] basic axioms that are the foundation of the computational system? Where does that understanding
+[2:12:38] come from? Is that from within the computational system or does that escape the computational
+[2:12:43] system? From my own perspective, it's the case that my mind is constructing a model of reality,
+[2:12:51] the reality that I found myself to be in is something like a physics engine in which my
+[2:12:55] own conscious self acts as a puppet, as a simulacrum that is being used to tell the story about
+[2:13:02] an intelligent agent. And I don't see any limitations in my ability to make models that
+[2:13:08] could produce such an agent that would find itself in this world and associate a set of
+[2:13:14] valence precepts with a garlic and another one with sunlight. And that happens entirely through
+[2:13:23] the relational nature of my unified model of the universe that is being derived by completely
+[2:13:28] non-nefarious computation that are approximated in nervous systems. So I don't see where I currently
+[2:13:34] stand that this doesn't work out. And I'm very sympathetic to when you don't see this,
+[2:13:42] that it doesn't work out and that you have to think that you have to find the truth elsewhere.
+[2:13:47] And it could be that I am going to change my mind in the future when I stumble on something that
+[2:13:51] basically shows to me that what I'm intellectually trying doesn't work. So as far as it seems to work,
+[2:13:57] and I appreciate that we have this difference in our perspectives because it's a very productive
+[2:14:02] useful one to have. Absolutely. I've really appreciated the tenor of the conversation too,
+[2:14:07] very much so. I would just say my last thought on this would be that what I would love to see
+[2:14:13] from a computational system on consciousness is the association you just talked about between
+[2:14:18] the computation and say the taste of garlic. Is it principled or is it arbitrary, that association?
+[2:14:26] If it's arbitrary, then I'm not... Yes, it's not arbitrary.
+[2:14:29] It's arbitrary? Because it is related to the valence of the taste receptors that you have.
+[2:14:35] So it might be arbitrary in the sense that some people hate garlic and other people love garlic.
+[2:14:39] So the garlic will taste different to them. This means they will have a different experience when
+[2:14:44] they taste garlic because the relations of the taste of garlic will be different to the
+[2:14:49] entire world model that they have than they are to other people. So basically the types of
+[2:14:54] receptors that we have and the valence that they imply and the type of self-model that we have. So
+[2:14:59] in which way has the mind constructed itself that is entangled with its universe around it? What is
+[2:15:05] that boundary? What is the set points that are marking this boundary that keeps the self stable?
+[2:15:10] This is going to shape and alter the perception. But I don't think that there is an intrinsic
+[2:15:15] essence of perception beyond the relations that we establish between perceptual patterns
+[2:15:21] and our models of reality. So there'll always be the question why should this computational
+[2:15:28] process, independent of valence, be the taste of garlic? Why couldn't it have been the taste
+[2:15:34] of chocolate? I would want a principled answer to why is this computational process necessarily
+[2:15:41] the taste of garlic? Why isn't it the taste of chocolate? Because one is affiliated to garlic
+[2:15:46] and the other one is associated to chocolate. But I'm talking about the conscious experience
+[2:15:52] of the taste of... Oh well, chocolate is sweet for the most part and garlic is not. So this is one of
+[2:15:59] the dimensions in which the features vary and sweetness is perceived as pleasant under some
+[2:16:05] circumstances when you need certain types of nutrients and the soreness and bitterness and
+[2:16:10] sharpness of garlic is associated with other things that you might need or dislike at certain moments.
+[2:16:15] So the valence is crucial that you get and there are basically hundreds or thousands or
+[2:16:22] tens of thousands of valence dimensions that specify how we perceive this texture of the
+[2:16:27] pattern. But the resolution, the structure of the pattern and so on is entirely given by
+[2:16:33] its relational nature. I don't think that there's an essence beyond the relations.
+[2:16:38] It's like well this is the start of a whole other conversation.
+[2:16:40] This is round one. Take care everyone. Thank you so much.
+[2:16:44] Thank you too.
+[2:16:45] Good to talk.
+[2:16:46] I enjoyed this.
+[2:16:46] Thank you very much.
+[2:16:47] It was plenty of fun and the audience is all saying thank you as well. I think there were
+[2:16:51] about a thousand people.
+[2:16:53] Well thank you very much.
+[2:16:56] Thank you, Joscha. Please send me the mp3 if you don't mind.
+[2:17:00] And Don, I don't know if you still are recording yours.
+[2:17:03] Bye bye.
+[2:17:04] Okay.
+[2:17:04] Bye bye.
+[2:17:05] Take care.
+[2:17:07] Thank you all. Thank you all. Thank you all so much for being here. It was plenty of fun.
+[2:17:11] There's plenty to talk about for a round two whenever that occurs. Maybe toward the end of
+[2:17:16] the summer or the middle of summer. We'll see people's willingness and ability.
+[2:17:24] The podcast is now finished. If you'd like to support conversations like this, then do
+[2:17:28] consider going to patreon.com slash c u r t j a i m u n g a l. That is Curt Jaimungal. It's
+[2:17:37] support from the patrons and from the sponsors that allow me to do this full time. Every dollar
+[2:17:41] helps tremendously. Thank you.

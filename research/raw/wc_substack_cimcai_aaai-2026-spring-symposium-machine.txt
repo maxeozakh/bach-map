@@ -1,0 +1,92 @@
+AAAI 2026 Spring Symposium - Machine Consciousness: Integrating Theory, Technology, and Philosophy
+
+2026-03-16T18:43:07.301Z
+https://cimcai.substack.com/p/aaai-2026-spring-symposium-machine
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!uRlE!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fab9704aa-f092-46f4-9ed0-4db4e457c2f9_3176x1036.jpeg]
+
+The AAAI Spring Symposium Series will host a symposium dedicated to one of the most difficult and interdisciplinary subjects in light of the recent advances in AI: machine consciousness. 
+The symposium, Machine Consciousness: Integrating Theory, Technology, and Philosophy, brings together researchers working across computer science, cognitive science, neuroscience, mathematics, and philosophy. Its goal is to examine how questions about consciousness in artificial systems can be addressed through a combination of theoretical frameworks, technical research, empirical methods, and ethical analysis.
+April 7–9, 2026
+Burlingame, California
+→ How to register [https://aaai.org/conference/spring-symposia/sss26/]
+→ Explore the program [https://cimc.ai/events/aaai-symposium]
+Why this moment matters:
+Recent progress in AI has made questions about machine consciousness increasingly difficult to treat as purely speculative. As systems become more sophisticated, researchers must ask:
+What would count as a formal definition of consciousness?
+How could such a property be implemented in artificial systems?
+How could we detect or measure it?
+And what ethical implications would follow if machines were, or could plausibly be, conscious?
+These questions span multiple domains. Theoretical models make different predictions about what systems could instantiate consciousness; measurement remains an open problem; engineering constraints shape which approaches are viable; and ethical considerations become unavoidable when uncertainty itself carries risks. 
+The symposium is designed to create sustained engagement across these dimensions.
+
+What to expect:
+
+Theoretical Foundations
+Which theories of consciousness could apply to machines?
+Measurement & Attribution
+How can we detect or measure consciousness in artificial systems?
+Implementation Challenges 
+What would it take to build architectures that satisfy these criteria?
+Normative Implications 
+What ethical and governance questions arise if machines were conscious?
+Integration & Cross-Cutting Issues
+How can insights from theory, measurement, implementation, and ethics be unified?
+Over two and a half days, the symposium will explore these topics through keynote talks, selected presentations, and structured discussions that explicitly connect the different domains. 
+The program concludes with collaborative working groups aimed at identifying  research questions and fostering interdisciplinary connections.
+→ Accommodation [https://www.hyatt.com/events/en-US/group-booking/SFOBU/G-AAAI] 
+
+Speakers 
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!AteT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa5e825e8-7b42-421c-9170-89dfbdc71350_322x398.png]Ryota Kanai, Founder and CEO of Araya, Inc., Tokyo
+
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!14Iz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7aae8df2-d9fe-4498-bc38-61a10c9d8dc6_322x394.png]                            Michael Timothy Bennett, computer scientist at the                                  Australian National University
+
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!z2gl!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2c2675c7-6aeb-46d6-9d9e-aa7788b8a870_314x390.png]Takashi Ikegami, professor at the University of Tokyo
+
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!2GvP!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3ae98c6-3335-4775-9dee-980a0001433b_320x384.png]Hikari Sorensen, researcher at CIMC 
+
+→ Speaker line up [https://cimc.ai/events/aaai-symposium#tentative-schedule]
+
+Engage With Us
+→ CIMC is recruiting researcher engineers 
+Apply here  [https://app.dover.com/apply/California%20Institute%20for%20Machine%20Consciousness/61d91655-4dd4-42a1-b0b5-0e0f48100ade/?rs=76643084]
+→ Submit a Research Proposal
+All info here [https://cimc.ai/#/proposals]
+→ Collaborate or Fund
+If you’re interested in supporting or partnering with us, email: proposals@cimc.ai [http://proposals@cimc.ai/]
+→ Join our Machine Consciousness Salons
+Regularly hosted in San Francisco: Luma [https://lu.ma/cimc] calendar
+Visit CIMC's Website [https://cimc.ai/]
+Follow CIMC on X [https://x.com/CIMCAI]
+Follow CIMC on LinkedIn [https://www.linkedin.com/company/cimc-ai/]
+
+Thanks for reading our CIMC publication! Feel free to forward this to anyone who muses over the inner minds of systems
+
+Share [https://cimcai.substack.com/p/aaai-2026-spring-symposium-machine?utm_source=substack&utm_medium=email&utm_content=share&action=share]
+
+Thanks for reading CIMC Publication! Subscribe for free to receive new posts.
+
+
+
+
+
+

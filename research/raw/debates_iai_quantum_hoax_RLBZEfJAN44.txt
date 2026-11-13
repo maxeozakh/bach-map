@@ -1,0 +1,389 @@
+# source: https://www.youtube.com/watch?v=RLBZEfJAN44
+# generated=True lang=en
+[0:00:00] if everybody has the same ideas and the
+[0:00:01] same theories and builds in the same
+[0:00:03] place we're missing
+[0:00:05] [Music]
+[0:00:13] out thank you everyone and a very warm
+[0:00:16] welcome to you on this beautiful
+[0:00:18] day um if we believe the headlines
+[0:00:21] Quantum Computing is going to
+[0:00:23] revolutionize the world it has attracted
+[0:00:26] tens of billions of dollars in
+[0:00:28] investment involving the largest global
+[0:00:31] tech companies but some leading
+[0:00:34] scientists are arguing it is little more
+[0:00:36] than a hoax quantum computers they claim
+[0:00:39] have fundamental problems that show no
+[0:00:41] sign of being addressed or in principle
+[0:00:44] of being solvable the technology relies
+[0:00:46] on cubits only a handful have ever been
+[0:00:49] made and they need to operate barely
+[0:00:52] above absolute zero and cohere they
+[0:00:55] cohere for a mere 50 micros no result
+[0:00:59] they claim has been calculated that is
+[0:01:01] of any practical consequence should we
+[0:01:04] recognize that few understand Quantum
+[0:01:07] buzzwords like entanglement and
+[0:01:10] superposition so that even the
+[0:01:12] sophisticated are at risk of being taken
+[0:01:14] in by hype should funders Investments
+[0:01:18] and governments be highly skeptical of
+[0:01:20] quantum vocabulary along with the rest
+[0:01:22] of us when reading articles promoting a
+[0:01:24] Quantum future or are these skeptical
+[0:01:27] challenges to the quantum world a threat
+[0:01:30] to a vital breakthrough that risk
+[0:01:33] undermining funding and allowing others
+[0:01:36] including China to take a global
+[0:01:39] lead so on to our speakers josa bark is
+[0:01:43] a cognitive scientist an AI researcher
+[0:01:46] for MIT media lab and the Harvard
+[0:01:49] program for evolutionary Dynamics he is
+[0:01:52] the Mind behind mroi a cognitive
+[0:01:56] architecture which describes the
+[0:01:57] interaction of emotion motivation and
+[0:02:01] cognition of situated
+[0:02:03] agents Ruth olon is a photonics expert
+[0:02:08] professor of photonics and eprc Quantum
+[0:02:10] Technologies fellow at the quantum
+[0:02:13] engineering technology Labs at the
+[0:02:15] University of Bristol and Dominic W wman
+[0:02:19] is a science writer Quantum physicist
+[0:02:22] and YouTube
+[0:02:24] sensation he writes the awardwinning
+[0:02:27] professor Astro cat science books for
+[0:02:31] children please welcome the three of
+[0:02:40] them okay so uh I'm going to let each of
+[0:02:45] them give uh their three minute overview
+[0:02:48] about uh the quantum hoax so let's start
+[0:02:52] with
+[0:02:54] yosha in the late 90s Danny Hillis wrote
+[0:02:58] a wonderful book about comput ation it's
+[0:03:00] called the pattern on the stone it's a
+[0:03:01] very nice monograph that they used in
+[0:03:03] class and everything in this book has
+[0:03:06] aged exceptionally well including the
+[0:03:09] chapter about Quantum Computing which is
+[0:03:11] just around the corner 25 years ago and
+[0:03:15] uh I wouldn't say that uh Quantum
+[0:03:16] Computing is a hoax but it is an
+[0:03:18] extremely bold proposal right it's uh
+[0:03:21] the proposal that we can achieve
+[0:03:23] something that nature hasn't done that
+[0:03:26] we're able to build something that is
+[0:03:29] Computing polom faster than any kind of
+[0:03:33] classical process if you look at the
+[0:03:35] computers that we are building today
+[0:03:37] that we're using if you look at our
+[0:03:38] brains at all the interactions that we
+[0:03:40] can observe in nature they're all made
+[0:03:43] of dynamics that we can describe as the
+[0:03:46] interaction of particles or something
+[0:03:48] equivalent and um Quantum Computing
+[0:03:51] suggests that we can go below this level
+[0:03:53] of the particle universe and tap
+[0:03:55] directly into the CPU of the universe
+[0:03:58] and that the CPU of the universe is
+[0:04:00] running much much faster than uh the
+[0:04:03] particle dynamics that we are seeing and
+[0:04:05] that we are made of right so it's an
+[0:04:06] extremely bold proposal that is being
+[0:04:09] made and it's so complex that relatively
+[0:04:11] few people actually understand its
+[0:04:14] implications and um in the past some of
+[0:04:17] the people who saw the implications that
+[0:04:18] there might be a possibility to
+[0:04:20] basically bypass the particle Universe
+[0:04:22] with some Arcane technology and build
+[0:04:25] computers that are dramatically faster
+[0:04:26] for some applications at least and this
+[0:04:29] is an extremely bold statement and it
+[0:04:31] consists of two parts one is we can
+[0:04:33] build a non-local machine which has been
+[0:04:35] built right you were involved in dve and
+[0:04:38] uh the other one is hyper computation
+[0:04:40] it's really makes is about building
+[0:04:42] something that is able to compute faster
+[0:04:45] than a classical computer and this might
+[0:04:47] not be possible but or if it is uh
+[0:04:50] possible it might still not imply that
+[0:04:53] the church touring thesis uh the
+[0:04:55] computer science statement that all
+[0:04:57] computers have basically the same power
+[0:04:58] just different and memory that they have
+[0:05:00] and processing speed this will probably
+[0:05:02] not be broken right and there the
+[0:05:05] question does Quantum Computing make the
+[0:05:06] claim that it breaks this is quantum
+[0:05:08] Computing in part based on some faulty
+[0:05:11] part of physics because the physicists
+[0:05:13] have checked out the C code base from
+[0:05:15] the mathematicians uh before GLE
+[0:05:18] happened and before mathematics was
+[0:05:19] forced to become constructive so maybe
+[0:05:21] there are some specifications in the
+[0:05:22] mathematics that we use to describe
+[0:05:24] quantum mechanics that lead give rise to
+[0:05:27] hopes that we can build computers that
+[0:05:28] cannot be built
+[0:05:30] and to me it's very very exciting to
+[0:05:32] observe these developments because there
+[0:05:34] are open metaphysical questions to be
+[0:05:36] answered and whether this is being built
+[0:05:38] with respect to the Practical
+[0:05:40] implications of funding a large amount
+[0:05:43] of funding that was be made available as
+[0:05:45] part of the stimulus packages during Co
+[0:05:47] and so on and uh I found that when I
+[0:05:49] talked to some of these companies that
+[0:05:51] the people in these companies did not
+[0:05:53] actually understand how to build a
+[0:05:54] quantum computer which was very
+[0:05:56] frightening to me they didn't not
+[0:05:57] understand the underlying physics they
+[0:05:58] were hoping that we have this physicist
+[0:06:00] our company who's going to figure this
+[0:06:02] out for us but we are all building this
+[0:06:04] amazing machine that's all going to make
+[0:06:05] us rich if it ever works right so it's a
+[0:06:07] lot like crypto and
+[0:06:12] uh maybe this is enough as a start by 3
+[0:06:14] minutes over all right thank you very
+[0:06:17] much uh let's go to Ruth okay that's a
+[0:06:20] good starting point so I think we're
+[0:06:22] here to discuss the hype about Quant
+[0:06:24] Computing and I'm a researcher that's
+[0:06:26] been working on this topic for the past
+[0:06:28] sort of 20 years and even I would say
+[0:06:30] that yes Quantum Computing is somewhat
+[0:06:32] hyped but actually I'm not too bothered
+[0:06:35] about it and that's because all emerging
+[0:06:37] Technologies all disruptive Technologies
+[0:06:39] undergo a very well-known hype cycle
+[0:06:41] where there's a lot of enthusiasm a lot
+[0:06:43] of investment it goes up and then
+[0:06:44] disillusionment when it doesn't
+[0:06:46] immediately come to fruition and then
+[0:06:48] the winning Technologies tend to be
+[0:06:50] invested in longterm and you see a kind
+[0:06:52] of slow recovery and these become mature
+[0:06:55] Technologies so this has already
+[0:06:56] happened with AI and Quantum Computing
+[0:06:59] is some where along that curve and it's
+[0:07:01] what we expect actually there is some
+[0:07:03] some um questionable journalism
+[0:07:05] sometimes about the claims around Quant
+[0:07:07] Computing most actual um scientists
+[0:07:11] working on it are actually much more
+[0:07:12] circumspect but really there's some
+[0:07:14] there is some hype and we do admit that
+[0:07:17] so why invest all this money in Quantum
+[0:07:19] Computing if you don't even know it's
+[0:07:20] going to work well what we're actually
+[0:07:23] doing is investing in Computing so
+[0:07:25] actually there haven't been many
+[0:07:27] developments in Quantum Computing
+[0:07:28] Hardware where that really changed the
+[0:07:30] way we process information we've been
+[0:07:32] working on Silicon chips um for the past
+[0:07:34] sort of 50 years what we've been doing
+[0:07:36] is making them smaller and cheaper uh
+[0:07:39] that's given us huge computational power
+[0:07:42] increase B but now we're coming to the
+[0:07:43] point where transistors are only a few
+[0:07:46] atoms in in length and we can't go much
+[0:07:48] further so we need some big revolution
+[0:07:50] in in Computing and Quantum Computing
+[0:07:52] should be one of those okay I think what
+[0:07:56] we need to ask ourselves is what's the
+[0:07:58] worst case scenario after investing all
+[0:08:00] this money well the worst case scenario
+[0:08:02] is that we don't have a quantum computer
+[0:08:04] at the end of it and I would say that's
+[0:08:06] still not a disaster because actually
+[0:08:08] what we've learned to do is manipulate
+[0:08:11] information with single particles and
+[0:08:13] the amount of energy you need um per
+[0:08:16] particle to do a calculation suddenly
+[0:08:17] becomes very small so it looks like a
+[0:08:20] route to do very efficient low power
+[0:08:22] Computing um and that is something
+[0:08:24] that's going to become very important
+[0:08:26] and we're also training a huge number of
+[0:08:28] um physic s who have um and Engineers
+[0:08:31] who've got basic understanding and
+[0:08:33] they've got Technical knowhow and if
+[0:08:36] that if quantum Computing doesn't work
+[0:08:38] they'll go and use those skills
+[0:08:39] somewhere else and because they're doing
+[0:08:40] something extremely challenging they'll
+[0:08:42] be able to apply that mindset to all
+[0:08:44] sorts of other fields but actually I
+[0:08:46] think with the progress the way it's
+[0:08:47] going we will see quantum computers I
+[0:08:49] don't know when it will be but I I
+[0:08:52] expect within the next 10 or 20 years
+[0:08:53] we'll see a useful quantum computer
+[0:08:56] thank you okay let's go to Dominic
+[0:09:00] yeah so my um approach to this so I used
+[0:09:04] to work in a quantum computer company
+[0:09:06] one of the first ones called d-wave in
+[0:09:08] Canada um and then I left to be a
+[0:09:11] YouTuber um so what in terms of the
+[0:09:14] hyper Anon Computing it's not a hoax um
+[0:09:18] because companies like Google and IBM
+[0:09:21] don't plow hundreds of millions and
+[0:09:23] dollars into things that are a hoax
+[0:09:26] they're they're they're clever people
+[0:09:28] they know what they're doing
+[0:09:29] um in terms of the hype around it I
+[0:09:32] think it is hyped but the hype isn't
+[0:09:34] even everywhere so certain places make
+[0:09:39] Grand claims which I would consider hype
+[0:09:42] other places are more measured about it
+[0:09:44] and what I try and do on my YouTube
+[0:09:47] channel is to have a sober
+[0:09:49] measured um communication about uh
+[0:09:52] Quantum Computing to to give people as
+[0:09:54] many tools as they can to critically
+[0:09:56] analyze the claims that come out and and
+[0:09:58] the good thing about about Quant
+[0:09:59] Computing which um gives me
+[0:10:02] encouragement is that there are actual
+[0:10:04] metrics to be able to
+[0:10:06] measure the progress of quantum
+[0:10:08] computers and there are specific
+[0:10:11] criteria so there's this thing called
+[0:10:13] def in chenzo criteria which are a set
+[0:10:16] of
+[0:10:18] engineering Milestones that they need to
+[0:10:21] accomplish to be able to make what we'
+[0:10:23] consider a working quantum computer and
+[0:10:26] so what you can do is you can look at
+[0:10:27] the industry and you can't see inside
+[0:10:30] the companies obviously because they're
+[0:10:32] keeping everything secret so you can
+[0:10:34] only look at what they're publishing and
+[0:10:36] you can track what their road maps are
+[0:10:38] that's the other encouraging thing is
+[0:10:41] that they've published road maps about
+[0:10:42] how many cuits how big the Quant
+[0:10:45] computers are going to be over a certain
+[0:10:47] amount of time projecting into the
+[0:10:50] future and you can track those and then
+[0:10:53] you can track actually which of these
+[0:10:56] Criterion they've met and so this is
+[0:10:59] an empirical rational approach to
+[0:11:03] emerging technology so that's the thing
+[0:11:06] to focus on like actually how are they
+[0:11:08] progressing over time and the the claims
+[0:11:11] the hype U which we'll probably get to
+[0:11:14] is like exactly what they can be used
+[0:11:15] for in the future and that's where you
+[0:11:18] get a lot of space for people to make up
+[0:11:21] all sorts of um
+[0:11:24] Shenanigans uh but I think the the the
+[0:11:27] basic uh promise is to
+[0:11:30] simulate Quantum systems with a quantum
+[0:11:32] computer if you've got a quantum
+[0:11:33] computer it's made out of a Quantum
+[0:11:35] system so it's natural that you can use
+[0:11:37] that to simulate chemical reactions and
+[0:11:40] that can be very useful for for many
+[0:11:42] different things um and those chemical
+[0:11:46] reactions are typically very hard to
+[0:11:47] simulate on normal computers and the
+[0:11:50] other thing to say is quantum computers
+[0:11:51] aren't some
+[0:11:52] magic machine that will be able to solve
+[0:11:55] anything they've got a very specific
+[0:11:58] realm where um normal computers today if
+[0:12:00] you want to play you know computer games
+[0:12:04] um quantum computers aren't going to
+[0:12:06] help with that rendering Graphics
+[0:12:08] classical computers they're they're
+[0:12:09] brilliant at that so we need to be like
+[0:12:11] measured about what they will be good at
+[0:12:13] and what they
+[0:12:14] won't okay wonderful so let's go to our
+[0:12:18] first question about this I think all of
+[0:12:20] the speakers have talked about the
+[0:12:23] excitement of quantum theory this is the
+[0:12:25] way the physical world seems to work
+[0:12:28] quantum theory is one of the best
+[0:12:31] established areas of physics extremely
+[0:12:35] successful but uh what that very success
+[0:12:38] of quantum physics has uh led to this um
+[0:12:43] or supported this hype that quantum
+[0:12:46] physics is now going to produce a
+[0:12:48] totally spectacular computer that is
+[0:12:51] going to dramatically supersede you know
+[0:12:54] anything we've seen so far so let's talk
+[0:12:56] specifically about the hype
+[0:12:59] why is it that fundamental science is
+[0:13:02] used to generate extreme hype which then
+[0:13:06] pulls in lots of investment is this a
+[0:13:09] rational way for the world to
+[0:13:11] work so first of all I don't think that
+[0:13:13] there is so much of a hype about Quantum
+[0:13:16] Computing outside of very narrow circles
+[0:13:18] and also I don't think that it attracts
+[0:13:20] a lot of funding $100 million might
+[0:13:22] sound a lot to most of us who don't
+[0:13:25] have1 million dollar in the bank but the
+[0:13:27] amount of funding that for instance went
+[0:13:29] into deep learning is many magnitudes
+[0:13:31] more And if quantum Computing would ever
+[0:13:33] work it would be a trillion dollar
+[0:13:35] industry if Google is not putting many
+[0:13:38] billions of dollars into Quantum
+[0:13:39] Computing it believes that uh means
+[0:13:41] Google doesn't believe that Quantum
+[0:13:42] Computing is going to work near term in
+[0:13:44] a scalable way right so the Practical
+[0:13:47] relevance of this Technology based on
+[0:13:48] the amount of funding that KY goes into
+[0:13:50] it suggests that the smartest investors
+[0:13:53] who put money into it do not bet on it
+[0:13:55] working it is more like an also run on
+[0:13:58] the a chance that it might work of
+[0:14:00] course we should invest into it if
+[0:14:01] you're Google and are have indef
+[0:14:03] unlimited riches uh only chance that it
+[0:14:06] works definitely we should be pushing
+[0:14:08] for it and something useful is probably
+[0:14:10] going to come out of it but it's
+[0:14:11] consistent with these people who put
+[0:14:13] money into it being okay with it not
+[0:14:17] working right so uh I think that's
+[0:14:20] that's fine we should I think develop
+[0:14:22] basic technologies that have a chance of
+[0:14:25] not working because if they work they
+[0:14:27] are super useful
+[0:14:30] we should not put money into stuff where
+[0:14:31] we where we see no chance that are
+[0:14:33] working except in a few very few cases
+[0:14:35] like my friend the chemist Lee Cronin uh
+[0:14:38] has ideas that are wrong and he has them
+[0:14:41] out in the open and he is willing to
+[0:14:43] have these ideas that are wrong or or
+[0:14:46] whether where he does not completely
+[0:14:47] know why they are true or how they could
+[0:14:49] be arguably true or that contradict the
+[0:14:52] evidence and this enables him to build
+[0:14:54] things that nobody else is building and
+[0:14:56] these things are working they might be
+[0:14:58] working for different reasons and his
+[0:14:59] theories but he is very smart and he is
+[0:15:02] very creative and productive and is very
+[0:15:05] useful to work on all sorts of areas and
+[0:15:07] tinker and just see what comes out of
+[0:15:09] this and if everybody has the same ideas
+[0:15:11] and the same theories and builds in the
+[0:15:13] same place we're missing out for
+[0:15:15] podcasts talks debates courses and
+[0:15:18] articles visit the Institute of Art and
+[0:15:21] ideas click the link on screen now to
+[0:15:24] ii.
+[0:15:26] TV

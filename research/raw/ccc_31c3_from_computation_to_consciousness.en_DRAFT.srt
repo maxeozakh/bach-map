@@ -1,0 +1,6945 @@
+0
+00:00:00,000 --> 00:00:30,000
+Dear viewer, these subtitles were generated
+by a machine via the service Trint
+and therefore are (very) buggy.
+If you are capable, please help us to
+create good quality subtitles:
+https://c3subtitles.de/talk/404 Thanks!
+
+1
+00:00:10,180 --> 00:00:12,279
+Good morning, dear fellow conscious
+
+2
+00:00:12,280 --> 00:00:14,679
+beings, and
+
+3
+00:00:14,680 --> 00:00:17,139
+good day to you, fellow human beings
+
+4
+00:00:17,140 --> 00:00:18,790
+in front of the displays at home.
+
+5
+00:00:22,830 --> 00:00:25,379
+I would like to talk about four basic
+
+6
+00:00:25,380 --> 00:00:27,599
+questions, actually,
+
+7
+00:00:27,600 --> 00:00:29,639
+probably I'm not able to answer them
+
+8
+00:00:29,640 --> 00:00:32,019
+completely today because they're
+
+9
+00:00:32,020 --> 00:00:34,499
+sort of the first questions that we have
+
+10
+00:00:34,500 --> 00:00:35,519
+might not be quite true.
+
+11
+00:00:35,520 --> 00:00:38,219
+I think the first questions that we had
+
+12
+00:00:38,220 --> 00:00:40,289
+as humanity was where is the
+
+13
+00:00:40,290 --> 00:00:42,569
+food? And then how
+
+14
+00:00:42,570 --> 00:00:44,549
+can we push back and to be far enough to
+
+15
+00:00:44,550 --> 00:00:46,819
+get warm and to get the dirt of us.
+
+16
+00:00:47,850 --> 00:00:50,099
+And then once that was solved, where
+
+17
+00:00:50,100 --> 00:00:51,119
+can we find love?
+
+18
+00:00:51,120 --> 00:00:53,129
+Because love is important.
+
+19
+00:00:53,130 --> 00:00:55,529
+And when this was solved, these questions
+
+20
+00:00:55,530 --> 00:00:56,530
+remained.
+
+21
+00:00:57,240 --> 00:01:00,359
+That is what's the nature of reality?
+
+22
+00:01:00,360 --> 00:01:02,399
+What does the universe look like?
+
+23
+00:01:02,400 --> 00:01:04,799
+What's the state of affairs out there?
+
+24
+00:01:04,800 --> 00:01:06,569
+And then what can we know about it?
+
+25
+00:01:06,570 --> 00:01:08,279
+What's accessible to us?
+
+26
+00:01:08,280 --> 00:01:09,720
+Who are we, what our minds
+
+27
+00:01:11,310 --> 00:01:12,310
+and what should we do?
+
+28
+00:01:15,350 --> 00:01:17,329
+Philosophy hasn't found final answers to
+
+29
+00:01:17,330 --> 00:01:19,059
+these four questions, but it has asked
+
+30
+00:01:19,060 --> 00:01:21,379
+them very nicely, and I think that if
+
+31
+00:01:21,380 --> 00:01:23,899
+you want to turn to answers, we should
+
+32
+00:01:23,900 --> 00:01:25,999
+look into individual scientists.
+
+33
+00:01:26,000 --> 00:01:28,369
+And I looked into computer science
+
+34
+00:01:28,370 --> 00:01:30,829
+mostly for the last 23
+
+35
+00:01:30,830 --> 00:01:31,830
+years or so.
+
+36
+00:01:32,810 --> 00:01:35,269
+And I would like to focus on a particular
+
+37
+00:01:35,270 --> 00:01:37,069
+small subquestion, and that is the
+
+38
+00:01:37,070 --> 00:01:39,139
+question of how it is
+
+39
+00:01:39,140 --> 00:01:42,049
+possible that the mind experiences
+
+40
+00:01:42,050 --> 00:01:43,700
+a universe and make sense of it.
+
+41
+00:01:46,220 --> 00:01:48,919
+How is it possible that signals enter
+
+42
+00:01:48,920 --> 00:01:51,289
+our mind somehow and are
+
+43
+00:01:51,290 --> 00:01:53,629
+assessed by arrays of finely
+
+44
+00:01:53,630 --> 00:01:55,759
+tuned classifiers that
+
+45
+00:01:55,760 --> 00:01:58,759
+react to them and then create
+
+46
+00:01:58,760 --> 00:02:00,829
+dynamic representations of objects and
+
+47
+00:02:00,830 --> 00:02:02,989
+things and give rise to desires
+
+48
+00:02:02,990 --> 00:02:05,029
+and needs and wishes?
+
+49
+00:02:05,030 --> 00:02:06,439
+And then this whole thing triggers
+
+50
+00:02:06,440 --> 00:02:08,989
+associations in our memory, in our mind,
+
+51
+00:02:08,990 --> 00:02:11,149
+and this all gets into great
+
+52
+00:02:11,150 --> 00:02:13,039
+it, into a coherent experience of
+
+53
+00:02:13,040 --> 00:02:15,109
+awareness that spreads out and
+
+54
+00:02:15,110 --> 00:02:17,869
+stabilizes throughout our mind.
+
+55
+00:02:17,870 --> 00:02:20,239
+And then this gives rise to new memories
+
+56
+00:02:20,240 --> 00:02:22,729
+and imaginations and goals and plans
+
+57
+00:02:22,730 --> 00:02:24,919
+and expectations, and then
+
+58
+00:02:24,920 --> 00:02:27,799
+it feeds back into the world somehow.
+
+59
+00:02:27,800 --> 00:02:28,819
+How is that possible?
+
+60
+00:02:30,100 --> 00:02:31,809
+I think this is basically the most
+
+61
+00:02:31,810 --> 00:02:33,190
+interesting question of all.
+
+62
+00:02:36,900 --> 00:02:39,089
+Reality is not given directly to us.
+
+63
+00:02:39,090 --> 00:02:41,699
+The only thing that we get from it is
+
+64
+00:02:41,700 --> 00:02:43,859
+appearances or
+
+65
+00:02:43,860 --> 00:02:46,139
+as said, more than 100 years
+
+66
+00:02:46,140 --> 00:02:48,209
+ago. You get phenomena
+
+67
+00:02:48,210 --> 00:02:50,339
+and somehow our mind is able to turn
+
+68
+00:02:50,340 --> 00:02:52,469
+these phenomena into ideas and concepts
+
+69
+00:02:52,470 --> 00:02:55,079
+that also called Nguema and the process
+
+70
+00:02:55,080 --> 00:02:56,939
+by which it does. It is what you call it,
+
+71
+00:02:56,940 --> 00:02:57,940
+Noisette.
+
+72
+00:02:58,920 --> 00:03:00,809
+We cannot really say much about
+
+73
+00:03:01,890 --> 00:03:03,479
+the state of affairs out there beyond the
+
+74
+00:03:03,480 --> 00:03:05,879
+fact that it's able to yield phenomena
+
+75
+00:03:05,880 --> 00:03:07,169
+appearances.
+
+76
+00:03:07,170 --> 00:03:08,639
+And because we cannot say anything
+
+77
+00:03:08,640 --> 00:03:10,919
+definite about their how the structure
+
+78
+00:03:10,920 --> 00:03:12,719
+of the universe really looks like was
+
+79
+00:03:12,720 --> 00:03:14,129
+said. You shouldn't say anything about
+
+80
+00:03:14,130 --> 00:03:15,569
+this. We should just shut up about it.
+
+81
+00:03:15,570 --> 00:03:16,919
+And he calls this if hookey.
+
+82
+00:03:19,430 --> 00:03:21,469
+So far, so good. But then his pupils came
+
+83
+00:03:21,470 --> 00:03:23,779
+along and then they try to apply
+
+84
+00:03:23,780 --> 00:03:25,849
+this idea of Noyce's upon
+
+85
+00:03:25,850 --> 00:03:27,829
+Wasis itself and they realized if you try
+
+86
+00:03:27,830 --> 00:03:30,499
+to explain wasis or we end up this
+
+87
+00:03:30,500 --> 00:03:32,689
+is Nyumah again, it's
+
+88
+00:03:32,690 --> 00:03:34,729
+all the explanations that we possibly get
+
+89
+00:03:34,730 --> 00:03:37,129
+about the state of affairs, our part
+
+90
+00:03:37,130 --> 00:03:38,449
+of our new ethics, fear.
+
+91
+00:03:38,450 --> 00:03:40,189
+They're just ideas and concepts.
+
+92
+00:03:40,190 --> 00:03:42,319
+So to formulate them, we
+
+93
+00:03:42,320 --> 00:03:44,389
+already need to presuppose Noyce's
+
+94
+00:03:44,390 --> 00:03:46,699
+science cannot reduce noise itself,
+
+95
+00:03:46,700 --> 00:03:48,979
+Maxilla said, and therefore it must
+
+96
+00:03:48,980 --> 00:03:51,139
+presuppose the existence of the subject
+
+97
+00:03:51,140 --> 00:03:52,140
+in the first place.
+
+98
+00:03:54,800 --> 00:03:56,389
+This has given rise to Continental
+
+99
+00:03:56,390 --> 00:03:58,549
+philosophy and eventually to
+
+100
+00:03:58,550 --> 00:04:00,469
+this division of most of philosophy in
+
+101
+00:04:00,470 --> 00:04:02,239
+the sciences that we experience
+
+102
+00:04:02,240 --> 00:04:03,989
+throughout most of the last century,
+
+103
+00:04:03,990 --> 00:04:06,349
+which I think is very unfortunate.
+
+104
+00:04:06,350 --> 00:04:08,569
+But there might be a way out of this.
+
+105
+00:04:10,250 --> 00:04:11,539
+If you look upon
+
+106
+00:04:12,760 --> 00:04:14,689
+the idea of how a robot perceives the
+
+107
+00:04:14,690 --> 00:04:17,328
+world, it has an interface
+
+108
+00:04:17,329 --> 00:04:19,129
+to the environment and this interface
+
+109
+00:04:19,130 --> 00:04:20,989
+phase might be a bunch of sensors and
+
+110
+00:04:20,990 --> 00:04:23,779
+sensors yield a vector of bets
+
+111
+00:04:23,780 --> 00:04:26,149
+that is discernible differences,
+
+112
+00:04:26,150 --> 00:04:28,369
+patterns. That is the same boundary that
+
+113
+00:04:28,370 --> 00:04:30,229
+might be used to reduce uncertainty.
+
+114
+00:04:30,230 --> 00:04:32,779
+And these bits are encoded
+
+115
+00:04:32,780 --> 00:04:34,339
+into some low level encodings.
+
+116
+00:04:34,340 --> 00:04:36,229
+And then you might have a cognitive
+
+117
+00:04:36,230 --> 00:04:38,299
+architecture implemented in the robot
+
+118
+00:04:38,300 --> 00:04:40,999
+processing that turns this into
+
+119
+00:04:41,000 --> 00:04:43,039
+a conceptual representations that allow
+
+120
+00:04:43,040 --> 00:04:45,289
+the robot to reason about the world and
+
+121
+00:04:45,290 --> 00:04:47,509
+to tell itself a story about what
+
+122
+00:04:47,510 --> 00:04:49,429
+the world looks like and what itself
+
+123
+00:04:49,430 --> 00:04:51,289
+looks like in that world.
+
+124
+00:04:51,290 --> 00:04:52,639
+But of course, to a robot, there are no
+
+125
+00:04:52,640 --> 00:04:54,739
+phenomena. It's nothing what it feels
+
+126
+00:04:54,740 --> 00:04:55,999
+like to be in this world, what the
+
+127
+00:04:56,000 --> 00:04:58,099
+appearances are and so on to the robot.
+
+128
+00:04:58,100 --> 00:05:00,109
+There are only bits at the interface to
+
+129
+00:05:00,110 --> 00:05:01,110
+the world.
+
+130
+00:05:02,220 --> 00:05:04,769
+But perhaps it's possible to build
+
+131
+00:05:04,770 --> 00:05:07,529
+a cognitive architecture in a robot
+
+132
+00:05:07,530 --> 00:05:09,599
+that is able to encode these bits
+
+133
+00:05:09,600 --> 00:05:11,969
+at a specific interface into something
+
+134
+00:05:11,970 --> 00:05:14,309
+that looks like percepts
+
+135
+00:05:14,310 --> 00:05:16,379
+to the robot, that looks like phenomena
+
+136
+00:05:16,380 --> 00:05:18,479
+to the robot, and that gives rise
+
+137
+00:05:18,480 --> 00:05:20,729
+to concepts in a very similar way
+
+138
+00:05:20,730 --> 00:05:23,249
+as noises that and humans object.
+
+139
+00:05:23,250 --> 00:05:25,019
+The phenomena in this way might result
+
+140
+00:05:25,020 --> 00:05:26,579
+from the robot's information processing
+
+141
+00:05:26,580 --> 00:05:27,580
+architecture.
+
+142
+00:05:28,420 --> 00:05:30,329
+And if you buy into this paradigm, of
+
+143
+00:05:30,330 --> 00:05:32,609
+course, we might ask ourselves if humans
+
+144
+00:05:32,610 --> 00:05:33,610
+are robots to.
+
+145
+00:05:35,130 --> 00:05:36,899
+And this idea that humans are actually
+
+146
+00:05:36,900 --> 00:05:39,029
+information processing machines is
+
+147
+00:05:39,030 --> 00:05:40,919
+what underlies most of the cognitive
+
+148
+00:05:40,920 --> 00:05:43,019
+sciences, whether they're aware of
+
+149
+00:05:43,020 --> 00:05:44,020
+this or not.
+
+150
+00:05:48,550 --> 00:05:50,649
+How do we perceive reality?
+
+151
+00:05:50,650 --> 00:05:51,759
+You probably know this well-known
+
+152
+00:05:51,760 --> 00:05:54,549
+picture. I think I turned it upside down.
+
+153
+00:05:54,550 --> 00:05:55,550
+OK.
+
+154
+00:05:56,800 --> 00:05:58,149
+There's something odd with this picture
+
+155
+00:05:58,150 --> 00:05:59,649
+going on. Yeah, this is the normal
+
+156
+00:05:59,650 --> 00:06:01,689
+version. The thing that was odd about it
+
+157
+00:06:01,690 --> 00:06:03,309
+in the first place was that the eyes and
+
+158
+00:06:03,310 --> 00:06:04,659
+the mouth have been turned around and
+
+159
+00:06:04,660 --> 00:06:07,209
+maybe some of you didn't notice at first.
+
+160
+00:06:07,210 --> 00:06:08,709
+Why is that the case?
+
+161
+00:06:08,710 --> 00:06:09,819
+And I think that's because we don't
+
+162
+00:06:09,820 --> 00:06:12,159
+process and take in faces
+
+163
+00:06:12,160 --> 00:06:14,169
+as a whole, but rather the process
+
+164
+00:06:14,170 --> 00:06:16,509
+features in the face independently
+
+165
+00:06:16,510 --> 00:06:18,489
+and then we combine them into a face
+
+166
+00:06:18,490 --> 00:06:20,199
+schema that we mentally scan.
+
+167
+00:06:21,660 --> 00:06:23,249
+If you look about visual information
+
+168
+00:06:23,250 --> 00:06:25,409
+processing, first of all, we have
+
+169
+00:06:25,410 --> 00:06:27,329
+a retina and this retinal gives us a
+
+170
+00:06:27,330 --> 00:06:29,669
+vector of bits, that is
+
+171
+00:06:29,670 --> 00:06:31,469
+information patterns that are systemic
+
+172
+00:06:31,470 --> 00:06:33,389
+boundary that reduce uncertainty that we
+
+173
+00:06:33,390 --> 00:06:35,549
+can encode to form
+
+174
+00:06:35,550 --> 00:06:36,740
+concepts about the world.
+
+175
+00:06:38,620 --> 00:06:40,509
+Data on the retina is not a very good
+
+176
+00:06:40,510 --> 00:06:42,699
+semblance of what
+
+177
+00:06:42,700 --> 00:06:44,079
+what's out there in the world or
+
+178
+00:06:44,080 --> 00:06:46,209
+whatever. Is a very sharp spot
+
+179
+00:06:46,210 --> 00:06:47,589
+in the middle that is hard enough to
+
+180
+00:06:47,590 --> 00:06:49,929
+read. It's pretty small then there's
+
+181
+00:06:49,930 --> 00:06:52,049
+a lot of mushiness around color vision.
+
+182
+00:06:52,050 --> 00:06:54,039
+It's only there in the center there is a
+
+183
+00:06:54,040 --> 00:06:56,469
+blind spot in which the optic
+
+184
+00:06:56,470 --> 00:06:58,659
+nerve connects to the retina and where we
+
+185
+00:06:58,660 --> 00:07:00,609
+have no photoreceptors.
+
+186
+00:07:00,610 --> 00:07:01,929
+But we don't see any of this.
+
+187
+00:07:01,930 --> 00:07:04,209
+Of course, this data
+
+188
+00:07:04,210 --> 00:07:06,369
+is first projected into what
+
+189
+00:07:06,370 --> 00:07:08,469
+neuroscientists call the letter read to
+
+190
+00:07:08,470 --> 00:07:10,659
+Nicolet Nucleus, which is a fancy
+
+191
+00:07:10,660 --> 00:07:12,549
+that is letton way of saying that is
+
+192
+00:07:12,550 --> 00:07:14,679
+somehow a sideways knee like
+
+193
+00:07:14,680 --> 00:07:17,139
+looking protrusion protruding
+
+194
+00:07:17,140 --> 00:07:19,659
+core. It's in the center of the brain
+
+195
+00:07:19,660 --> 00:07:21,549
+and it's part of the thalamus and the
+
+196
+00:07:21,550 --> 00:07:23,709
+thalamus determines chamber and it's sits
+
+197
+00:07:23,710 --> 00:07:26,409
+conveniently on top of the spinal cord
+
+198
+00:07:26,410 --> 00:07:28,699
+and it relays a lot of sensory data
+
+199
+00:07:28,700 --> 00:07:31,059
+into the cortex. So you have
+
+200
+00:07:31,060 --> 00:07:32,859
+a crude touch and temperature and pain
+
+201
+00:07:32,860 --> 00:07:34,839
+and so on. This all gets transmitted by
+
+202
+00:07:34,840 --> 00:07:36,309
+the thalamus into the cortex.
+
+203
+00:07:36,310 --> 00:07:38,289
+You can think of it like a switchboard.
+
+204
+00:07:40,000 --> 00:07:42,879
+And this switchboard put projects
+
+205
+00:07:42,880 --> 00:07:45,339
+information into the primary
+
+206
+00:07:45,340 --> 00:07:47,410
+visual area, the straight cortex.
+
+207
+00:07:49,540 --> 00:07:51,339
+And this thing, if you look at a cross
+
+208
+00:07:51,340 --> 00:07:53,079
+section of it, is basically two
+
+209
+00:07:53,080 --> 00:07:55,599
+millimeters of highly packed
+
+210
+00:07:55,600 --> 00:07:57,879
+neurons on top of lots and lots
+
+211
+00:07:57,880 --> 00:07:58,880
+of wiring
+
+212
+00:08:00,100 --> 00:08:01,839
+in the brain, there is something like
+
+213
+00:08:01,840 --> 00:08:04,269
+180000 kilometers of wiring
+
+214
+00:08:04,270 --> 00:08:06,129
+depending on your age and gender.
+
+215
+00:08:06,130 --> 00:08:07,130
+This varies a bit.
+
+216
+00:08:08,110 --> 00:08:10,239
+And on top of this wiring
+
+217
+00:08:10,240 --> 00:08:11,319
+and the cortex, you have these two
+
+218
+00:08:11,320 --> 00:08:13,809
+millimeters of neurons
+
+219
+00:08:13,810 --> 00:08:15,879
+that are organized in columns
+
+220
+00:08:15,880 --> 00:08:17,199
+and in the visual cortex.
+
+221
+00:08:17,200 --> 00:08:18,879
+These columns have the highest density of
+
+222
+00:08:18,880 --> 00:08:20,169
+neurons, which is probably because
+
+223
+00:08:20,170 --> 00:08:21,970
+graphics is so expensive to compute.
+
+224
+00:08:24,270 --> 00:08:26,789
+And right now, most neuroscientists
+
+225
+00:08:26,790 --> 00:08:28,919
+believe that the primary
+
+226
+00:08:28,920 --> 00:08:30,899
+organizational unit of these neurons is
+
+227
+00:08:30,900 --> 00:08:32,369
+the mini column, a mini column is
+
+228
+00:08:32,370 --> 00:08:34,319
+something like a circuit that is made up
+
+229
+00:08:34,320 --> 00:08:36,779
+of something like 200 to 400 neurons.
+
+230
+00:08:36,780 --> 00:08:38,819
+Half of that and the rest of the cortex.
+
+231
+00:08:41,350 --> 00:08:43,509
+So if you do the math, there are about
+
+232
+00:08:43,510 --> 00:08:45,939
+160000 million neurons
+
+233
+00:08:45,940 --> 00:08:47,619
+in the primary visual cortex.
+
+234
+00:08:47,620 --> 00:08:49,929
+You get about something like 300000
+
+235
+00:08:49,930 --> 00:08:52,149
+features that can be encoded and
+
+236
+00:08:52,150 --> 00:08:53,889
+the primary visual cortex.
+
+237
+00:08:53,890 --> 00:08:56,319
+And if you look into this,
+
+238
+00:08:56,320 --> 00:08:58,479
+we do measurements in the brain there.
+
+239
+00:08:58,480 --> 00:09:00,549
+You find that in the middle there
+
+240
+00:09:00,550 --> 00:09:02,559
+is an expanded area because there are
+
+241
+00:09:02,560 --> 00:09:04,899
+more features detected in the middle
+
+242
+00:09:04,900 --> 00:09:06,309
+and it gets compressed around the
+
+243
+00:09:06,310 --> 00:09:08,469
+corners. There's even the blind spot
+
+244
+00:09:08,470 --> 00:09:09,489
+somewhere in there.
+
+245
+00:09:09,490 --> 00:09:11,679
+And the different ones in this spatial
+
+246
+00:09:11,680 --> 00:09:13,179
+alignment, they call called for
+
+247
+00:09:13,180 --> 00:09:15,519
+orientation and for frequency
+
+248
+00:09:15,520 --> 00:09:16,520
+and for color.
+
+249
+00:09:20,240 --> 00:09:21,979
+The primary visual area, we everyone then
+
+250
+00:09:21,980 --> 00:09:24,379
+projects into V2, which has a stable
+
+251
+00:09:24,380 --> 00:09:26,299
+visual map, so all the movements of the
+
+252
+00:09:26,300 --> 00:09:28,579
+retina are combined and something
+
+253
+00:09:28,580 --> 00:09:30,709
+like a coherent visual field is
+
+254
+00:09:30,710 --> 00:09:31,710
+somewhat stable.
+
+255
+00:09:33,940 --> 00:09:35,729
+Also has more complex patterns and
+
+256
+00:09:35,730 --> 00:09:38,489
+textures, it also projects into three
+
+257
+00:09:38,490 --> 00:09:40,559
+and indeed free and visual areas
+
+258
+00:09:40,560 --> 00:09:42,719
+where we have color and some motion
+
+259
+00:09:42,720 --> 00:09:44,969
+direction and into
+
+260
+00:09:44,970 --> 00:09:47,369
+V4, very simple geometric shapes
+
+261
+00:09:47,370 --> 00:09:49,049
+before we have mostly looked at in
+
+262
+00:09:49,050 --> 00:09:50,129
+non-human primates.
+
+263
+00:09:51,510 --> 00:09:52,949
+People probably have an equivalent to
+
+264
+00:09:52,950 --> 00:09:53,950
+that.
+
+265
+00:09:58,630 --> 00:10:00,789
+It also these areas
+
+266
+00:10:00,790 --> 00:10:02,919
+project into five, which
+
+267
+00:10:02,920 --> 00:10:05,019
+has object motion and eagle
+
+268
+00:10:05,020 --> 00:10:07,119
+motion in vehicles, and you can see
+
+269
+00:10:07,120 --> 00:10:09,399
+that now this processing power split
+
+270
+00:10:09,400 --> 00:10:11,169
+up and we found that there are two
+
+271
+00:10:11,170 --> 00:10:13,299
+primary directions of processing
+
+272
+00:10:13,300 --> 00:10:15,009
+in the brain that work in parallel.
+
+273
+00:10:15,010 --> 00:10:17,139
+One is what path?
+
+274
+00:10:17,140 --> 00:10:18,339
+It's down there in the brain.
+
+275
+00:10:18,340 --> 00:10:19,809
+And it tells you about the nature of
+
+276
+00:10:19,810 --> 00:10:21,849
+objects and the verifies, which tells you
+
+277
+00:10:21,850 --> 00:10:23,949
+where they are. And the purpose reaches
+
+278
+00:10:23,950 --> 00:10:25,509
+into those areas of the brain that are
+
+279
+00:10:25,510 --> 00:10:27,669
+then responsible for grasping
+
+280
+00:10:27,670 --> 00:10:29,679
+and attending to objects and their
+
+281
+00:10:29,680 --> 00:10:30,680
+positions.
+
+282
+00:10:32,120 --> 00:10:34,279
+This area that encodes
+
+283
+00:10:34,280 --> 00:10:36,349
+for the what of objects is what we
+
+284
+00:10:36,350 --> 00:10:38,929
+call the inferior temporal gyrus,
+
+285
+00:10:38,930 --> 00:10:41,059
+which again is Latin for the
+
+286
+00:10:41,060 --> 00:10:43,279
+lower side baseballs
+
+287
+00:10:43,280 --> 00:10:45,379
+and this lower side baseball
+
+288
+00:10:45,380 --> 00:10:47,629
+object schemata and enables us to
+
+289
+00:10:47,630 --> 00:10:49,609
+separate figures from ground and also has
+
+290
+00:10:49,610 --> 00:10:51,289
+numerous Rosatti. That is the ability to
+
+291
+00:10:51,290 --> 00:10:53,149
+discern numbers which without actually
+
+292
+00:10:53,150 --> 00:10:55,519
+counting. So if we look at,
+
+293
+00:10:55,520 --> 00:10:57,319
+for instance, the side of a dice and vis
+
+294
+00:10:57,320 --> 00:10:59,629
+a vis a single look how many dots
+
+295
+00:10:59,630 --> 00:11:01,159
+there are on this side of the dice, this
+
+296
+00:11:01,160 --> 00:11:03,109
+is normal, Rosatti, and it's done in the
+
+297
+00:11:03,110 --> 00:11:05,149
+inferior temporal gyrus.
+
+298
+00:11:05,150 --> 00:11:07,339
+And there's an area in the inferior
+
+299
+00:11:07,340 --> 00:11:09,109
+temporal GI, which is called the fusiform
+
+300
+00:11:09,110 --> 00:11:11,019
+drivers. The spindle, like rich in the
+
+301
+00:11:11,020 --> 00:11:13,219
+spindle leg, which is responsible for
+
+302
+00:11:13,220 --> 00:11:14,839
+face recognition.
+
+303
+00:11:14,840 --> 00:11:16,459
+If that is not working in your brain or
+
+304
+00:11:16,460 --> 00:11:17,359
+you don't have it, you have
+
+305
+00:11:17,360 --> 00:11:18,319
+prosopagnosia.
+
+306
+00:11:18,320 --> 00:11:20,539
+That is, you don't recognize human
+
+307
+00:11:20,540 --> 00:11:22,429
+faces and emotions and so on very well.
+
+308
+00:11:22,430 --> 00:11:24,409
+And you have difficulty to discern people
+
+309
+00:11:24,410 --> 00:11:26,690
+by their faces surprisingly common.
+
+310
+00:11:31,290 --> 00:11:32,969
+Then there is an area in the brain that
+
+311
+00:11:32,970 --> 00:11:35,219
+is able to direct attention, and
+
+312
+00:11:35,220 --> 00:11:36,869
+this is the dorsolateral prefrontal
+
+313
+00:11:36,870 --> 00:11:39,299
+cortex. It's somewhere in the forebrain.
+
+314
+00:11:39,300 --> 00:11:41,429
+And you can think of it as an area that
+
+315
+00:11:41,430 --> 00:11:43,139
+helps a lot of pointers and the rest of
+
+316
+00:11:43,140 --> 00:11:45,359
+the cortex. And using these pointers,
+
+317
+00:11:45,360 --> 00:11:47,429
+it can pump activation in there and
+
+318
+00:11:47,430 --> 00:11:49,499
+create a coherent pattern of activation.
+
+319
+00:11:50,670 --> 00:11:52,769
+It directs our attention and
+
+320
+00:11:52,770 --> 00:11:53,789
+scans the schemata.
+
+321
+00:11:53,790 --> 00:11:55,199
+For instance, if you have a face or a
+
+322
+00:11:55,200 --> 00:11:56,849
+presentation or this representation of
+
+323
+00:11:56,850 --> 00:11:58,919
+the Mona Lisa, it can scan down
+
+324
+00:11:58,920 --> 00:12:01,109
+from the face level to the eye level
+
+325
+00:12:01,110 --> 00:12:02,759
+and so on into the mouse level to certain
+
+326
+00:12:02,760 --> 00:12:03,760
+features there.
+
+327
+00:12:06,400 --> 00:12:07,989
+The great thing about a model like this
+
+328
+00:12:07,990 --> 00:12:09,969
+is that we can actually turn it into a
+
+329
+00:12:09,970 --> 00:12:12,249
+specification for a computer program
+
+330
+00:12:12,250 --> 00:12:14,379
+and then we can implement this and test
+
+331
+00:12:14,380 --> 00:12:16,059
+whether our theory about how the mind
+
+332
+00:12:16,060 --> 00:12:17,619
+works, all these observations that we
+
+333
+00:12:17,620 --> 00:12:19,419
+have taken from neuroscience and from
+
+334
+00:12:19,420 --> 00:12:21,189
+hard engineering, like thinking if you
+
+335
+00:12:21,190 --> 00:12:22,869
+are in nature, how would you do this?
+
+336
+00:12:22,870 --> 00:12:24,279
+If you can turn this into a coherent
+
+337
+00:12:24,280 --> 00:12:26,589
+model and then we can test this model and
+
+338
+00:12:26,590 --> 00:12:29,109
+see that it actually is able to perform
+
+339
+00:12:29,110 --> 00:12:30,110
+pretty good vision.
+
+340
+00:12:31,120 --> 00:12:33,069
+Of course, this is a simplification and a
+
+341
+00:12:33,070 --> 00:12:35,829
+lot of the details are missing, but
+
+342
+00:12:35,830 --> 00:12:37,329
+it can do most of the tricks that you
+
+343
+00:12:37,330 --> 00:12:39,429
+want it to show. So I think that we are
+
+344
+00:12:39,430 --> 00:12:40,809
+pretty much on the right path here.
+
+345
+00:12:43,960 --> 00:12:45,879
+So what types of representations do we
+
+346
+00:12:45,880 --> 00:12:47,679
+have, you have schematic representations,
+
+347
+00:12:47,680 --> 00:12:49,719
+this thing that distinguishes between
+
+348
+00:12:49,720 --> 00:12:51,819
+faces and bodies and
+
+349
+00:12:51,820 --> 00:12:52,820
+eyes and so on,
+
+350
+00:12:53,930 --> 00:12:55,449
+and then we have non-competition
+
+351
+00:12:55,450 --> 00:12:56,229
+representations.
+
+352
+00:12:56,230 --> 00:12:58,209
+Those that we cannot combine, we cannot
+
+353
+00:12:58,210 --> 00:12:59,829
+reuse the features throughout the
+
+354
+00:12:59,830 --> 00:13:01,989
+representation. This is more associative
+
+355
+00:13:01,990 --> 00:13:03,579
+and vague and so on.
+
+356
+00:13:03,580 --> 00:13:05,649
+And it's hard to turn this
+
+357
+00:13:05,650 --> 00:13:06,969
+into language.
+
+358
+00:13:06,970 --> 00:13:08,559
+We have these language representations
+
+359
+00:13:08,560 --> 00:13:10,959
+that enable us to organize our schemas
+
+360
+00:13:10,960 --> 00:13:12,819
+on a high level and to communicate them
+
+361
+00:13:12,820 --> 00:13:14,049
+to others.
+
+362
+00:13:14,050 --> 00:13:15,279
+And then we have a class of
+
+363
+00:13:15,280 --> 00:13:17,109
+representations that I would call
+
+364
+00:13:17,110 --> 00:13:19,659
+generative, and these generators
+
+365
+00:13:19,660 --> 00:13:22,089
+allow us to build simulations
+
+366
+00:13:22,090 --> 00:13:24,169
+of the world dynamic simulations.
+
+367
+00:13:24,170 --> 00:13:25,929
+So, for instance, if you think about
+
+368
+00:13:25,930 --> 00:13:28,089
+music or sound, what we need is
+
+369
+00:13:28,090 --> 00:13:30,999
+something like a synthesizer in our mind.
+
+370
+00:13:31,000 --> 00:13:33,489
+For instance, here an artist has made
+
+371
+00:13:33,490 --> 00:13:35,649
+a representation of what
+
+372
+00:13:35,650 --> 00:13:37,809
+the sound of a canary would look like if
+
+373
+00:13:37,810 --> 00:13:39,969
+you take it from the visual into
+
+374
+00:13:39,970 --> 00:13:42,639
+the visual domain, like synesthesia.
+
+375
+00:13:42,640 --> 00:13:44,049
+And I think this looks a lot like
+
+376
+00:13:44,050 --> 00:13:45,549
+synesthesia if you ever had an
+
+377
+00:13:45,550 --> 00:13:47,529
+synesthetic experience.
+
+378
+00:13:47,530 --> 00:13:49,809
+So in a way, I think this is
+
+379
+00:13:49,810 --> 00:13:51,969
+an equivalent of what the brain does to
+
+380
+00:13:51,970 --> 00:13:53,109
+model. Sounds like this.
+
+381
+00:13:53,110 --> 00:13:54,879
+And imagine sounds like this.
+
+382
+00:13:54,880 --> 00:13:57,279
+Somewhere in the brain, a computational
+
+383
+00:13:57,280 --> 00:13:59,109
+structure must be built that looks a lot
+
+384
+00:13:59,110 --> 00:14:00,219
+like this.
+
+385
+00:14:00,220 --> 00:14:01,429
+And it's not a schema.
+
+386
+00:14:01,430 --> 00:14:03,879
+It's not just a static
+
+387
+00:14:03,880 --> 00:14:05,409
+neural pattern, but rather it's a
+
+388
+00:14:05,410 --> 00:14:06,410
+generator.
+
+389
+00:14:14,610 --> 00:14:16,109
+The difference between a perceptual
+
+390
+00:14:16,110 --> 00:14:18,059
+representation and an idea is that the
+
+391
+00:14:18,060 --> 00:14:20,429
+perceptual representation is tagged
+
+392
+00:14:20,430 --> 00:14:22,649
+as being verified
+
+393
+00:14:22,650 --> 00:14:25,019
+in somewhere in the sensory area,
+
+394
+00:14:25,020 --> 00:14:27,669
+so it gets projected down as a hypothesis
+
+395
+00:14:27,670 --> 00:14:29,969
+into the sensory areas of the brain
+
+396
+00:14:29,970 --> 00:14:31,859
+and the nervous system and then can get a
+
+397
+00:14:31,860 --> 00:14:33,749
+verification. And when it's labeled as
+
+398
+00:14:33,750 --> 00:14:35,909
+verified, our brain
+
+399
+00:14:35,910 --> 00:14:37,889
+takes this as being real by the rest of
+
+400
+00:14:37,890 --> 00:14:38,890
+us being in an idea.
+
+401
+00:14:41,260 --> 00:14:43,459
+So if we try to generalize this,
+
+402
+00:14:43,460 --> 00:14:44,889
+you have the dorsolateral prefrontal
+
+403
+00:14:44,890 --> 00:14:47,469
+cortex that somehow exercice distributed
+
+404
+00:14:47,470 --> 00:14:49,659
+hierarchical representations
+
+405
+00:14:49,660 --> 00:14:51,309
+and these hierarchies of distributive
+
+406
+00:14:51,310 --> 00:14:53,319
+representations are picked out by the
+
+407
+00:14:53,320 --> 00:14:54,370
+attentional selection.
+
+408
+00:14:55,390 --> 00:14:57,369
+Usually most of the time there is a
+
+409
+00:14:57,370 --> 00:14:59,169
+superposition of many alternative
+
+410
+00:14:59,170 --> 00:15:01,239
+interpretations and it's
+
+411
+00:15:01,240 --> 00:15:02,559
+very hard to translate this into
+
+412
+00:15:02,560 --> 00:15:03,549
+language.
+
+413
+00:15:03,550 --> 00:15:05,379
+But using the dorsolateral prefrontal
+
+414
+00:15:05,380 --> 00:15:07,569
+cortex, if you can make this coalesce
+
+415
+00:15:07,570 --> 00:15:09,729
+into a coherent representation,
+
+416
+00:15:09,730 --> 00:15:12,519
+imagine you have superimposed images,
+
+417
+00:15:12,520 --> 00:15:14,409
+superimposed photography that have
+
+418
+00:15:14,410 --> 00:15:16,209
+different layers projected onto the same
+
+419
+00:15:16,210 --> 00:15:17,799
+image. You are still able to discern the
+
+420
+00:15:17,800 --> 00:15:18,759
+different layers.
+
+421
+00:15:18,760 --> 00:15:20,199
+And this is because we can direct our
+
+422
+00:15:20,200 --> 00:15:21,819
+attention onto a part of the
+
+423
+00:15:21,820 --> 00:15:23,949
+representation and then make it
+
+424
+00:15:23,950 --> 00:15:25,929
+coherent by suppressing those parts that
+
+425
+00:15:25,930 --> 00:15:27,939
+are not compatible with it.
+
+426
+00:15:27,940 --> 00:15:30,189
+And this intentional filtering
+
+427
+00:15:30,190 --> 00:15:32,139
+is orchestrated apparently by the
+
+428
+00:15:32,140 --> 00:15:33,580
+dorsolateral frontal cortex.
+
+429
+00:15:36,250 --> 00:15:38,649
+And this bottom up, top down perception
+
+430
+00:15:38,650 --> 00:15:40,839
+extends down into the sensory
+
+431
+00:15:40,840 --> 00:15:42,339
+perceptual areas that if you get
+
+432
+00:15:42,340 --> 00:15:44,079
+predictive attention and motor control,
+
+433
+00:15:44,080 --> 00:15:46,359
+that enables us to pick us stimuli
+
+434
+00:15:46,360 --> 00:15:48,459
+from the environment to verify our
+
+435
+00:15:48,460 --> 00:15:49,959
+hypothesis, what's actually being the
+
+436
+00:15:49,960 --> 00:15:52,299
+case. And then as a result, we get back
+
+437
+00:15:52,300 --> 00:15:54,369
+filtered representations that form
+
+438
+00:15:54,370 --> 00:15:55,510
+these intermediate stage.
+
+439
+00:15:57,770 --> 00:15:59,509
+Not all of our representations have a
+
+440
+00:15:59,510 --> 00:16:01,279
+sense of grounding, of course, our modern
+
+441
+00:16:01,280 --> 00:16:03,439
+model and ourselves model have some sense
+
+442
+00:16:03,440 --> 00:16:05,599
+of grounding in proprioception,
+
+443
+00:16:05,600 --> 00:16:08,089
+for instance, or in visual perception.
+
+444
+00:16:08,090 --> 00:16:09,859
+But our mental state, so we can freely
+
+445
+00:16:09,860 --> 00:16:11,719
+manipulate ideas, does not.
+
+446
+00:16:11,720 --> 00:16:13,459
+And our memories, of course, don't have
+
+447
+00:16:13,460 --> 00:16:14,719
+anymore.
+
+448
+00:16:14,720 --> 00:16:16,879
+You could also see memory, by the way,
+
+449
+00:16:16,880 --> 00:16:19,189
+as something like
+
+450
+00:16:19,190 --> 00:16:20,959
+visual perception, whereas something like
+
+451
+00:16:20,960 --> 00:16:22,259
+a perceptual process.
+
+452
+00:16:22,260 --> 00:16:24,409
+But you ask the memory what hypothesis
+
+453
+00:16:24,410 --> 00:16:25,999
+are true and as a result you get big
+
+454
+00:16:26,000 --> 00:16:28,429
+object abstractions and episodic
+
+455
+00:16:28,430 --> 00:16:30,679
+episodes that happened in the past and
+
+456
+00:16:30,680 --> 00:16:32,239
+procedural memory, which tells you how to
+
+457
+00:16:32,240 --> 00:16:34,609
+do things and templates,
+
+458
+00:16:34,610 --> 00:16:36,679
+frames that allow us to
+
+459
+00:16:36,680 --> 00:16:38,139
+interpret the current situation.
+
+460
+00:16:41,670 --> 00:16:43,349
+The sensory perception basically is an
+
+461
+00:16:43,350 --> 00:16:44,489
+interface to the universe.
+
+462
+00:16:44,490 --> 00:16:46,049
+It's give the universe, gives us your
+
+463
+00:16:46,050 --> 00:16:48,449
+bits and we use those bits, encode them
+
+464
+00:16:48,450 --> 00:16:49,979
+into the mental state, into the word
+
+465
+00:16:49,980 --> 00:16:51,240
+model s model and so on.
+
+466
+00:16:52,330 --> 00:16:54,119
+And the level of attention, awareness,
+
+467
+00:16:54,120 --> 00:16:55,679
+we're able to perform symbolic
+
+468
+00:16:55,680 --> 00:16:57,839
+operations. That is, you can do
+
+469
+00:16:57,840 --> 00:16:59,819
+conceptual thinking based on these
+
+470
+00:16:59,820 --> 00:17:01,679
+representations by manipulating them
+
+471
+00:17:03,420 --> 00:17:05,429
+in dreams. Something interesting happens
+
+472
+00:17:05,430 --> 00:17:07,679
+because we don't have access to
+
+473
+00:17:07,680 --> 00:17:09,539
+our sensory organs anymore.
+
+474
+00:17:09,540 --> 00:17:11,639
+And what would normally be the output
+
+475
+00:17:11,640 --> 00:17:13,739
+of those lower level sensory areas gets
+
+476
+00:17:13,740 --> 00:17:16,348
+replaced by pretty much random noise.
+
+477
+00:17:16,349 --> 00:17:18,659
+And this random noise then is encoded
+
+478
+00:17:18,660 --> 00:17:20,639
+in the same way as the sensory data was
+
+479
+00:17:20,640 --> 00:17:21,779
+encoded before.
+
+480
+00:17:21,780 --> 00:17:23,489
+So we get something that looks like a
+
+481
+00:17:23,490 --> 00:17:24,809
+model and a self model, but it looks
+
+482
+00:17:24,810 --> 00:17:25,810
+pretty weird.
+
+483
+00:17:26,680 --> 00:17:28,299
+Thankfully, our long term memory
+
+484
+00:17:28,300 --> 00:17:30,099
+formation is turned off during that time,
+
+485
+00:17:30,100 --> 00:17:32,419
+too, so usually we don't remember this,
+
+486
+00:17:32,420 --> 00:17:35,319
+it actually might be useful process.
+
+487
+00:17:35,320 --> 00:17:36,729
+Maybe some things are getting
+
+488
+00:17:36,730 --> 00:17:38,469
+strengthened. You find US associations
+
+489
+00:17:38,470 --> 00:17:40,509
+and so on, and some housekeeping is being
+
+490
+00:17:40,510 --> 00:17:42,549
+done on the mental representations.
+
+491
+00:17:42,550 --> 00:17:43,839
+So the purpose of dreams is not
+
+492
+00:17:43,840 --> 00:17:45,579
+completely explored and fully known.
+
+493
+00:17:45,580 --> 00:17:47,469
+But I think the nature of dreams is
+
+494
+00:17:47,470 --> 00:17:49,809
+caused by the fact that the lowest level
+
+495
+00:17:49,810 --> 00:17:51,220
+is replaced by random noise.
+
+496
+00:17:54,350 --> 00:17:56,499
+If we do meditation, you can
+
+497
+00:17:56,500 --> 00:17:58,569
+completely tune out this interface to the
+
+498
+00:17:58,570 --> 00:18:00,489
+universe if we want to, we also can turn
+
+499
+00:18:00,490 --> 00:18:03,039
+out the framing of mental representations
+
+500
+00:18:03,040 --> 00:18:05,019
+in terms of the templates that we have
+
+501
+00:18:05,020 --> 00:18:06,039
+acquired in the past.
+
+502
+00:18:06,040 --> 00:18:08,199
+So we get more awareness of
+
+503
+00:18:08,200 --> 00:18:09,729
+what's actually the case.
+
+504
+00:18:09,730 --> 00:18:11,259
+And if you go very, very deep into
+
+505
+00:18:11,260 --> 00:18:13,839
+meditation, you can even turn off
+
+506
+00:18:13,840 --> 00:18:14,840
+the model of self.
+
+507
+00:18:17,200 --> 00:18:18,639
+How is it possible that you can be
+
+508
+00:18:18,640 --> 00:18:20,140
+conscious without yourself?
+
+509
+00:18:21,160 --> 00:18:23,229
+I think that's because our self is
+
+510
+00:18:23,230 --> 00:18:25,209
+not identical to our mind.
+
+511
+00:18:25,210 --> 00:18:26,979
+Our self is also not an agent.
+
+512
+00:18:26,980 --> 00:18:29,079
+Ourself is a representation.
+
+513
+00:18:29,080 --> 00:18:31,179
+It's a story that the mind tells
+
+514
+00:18:31,180 --> 00:18:33,339
+itself about what happens with
+
+515
+00:18:33,340 --> 00:18:34,749
+it in the world.
+
+516
+00:18:34,750 --> 00:18:36,819
+And we need this story to do high
+
+517
+00:18:36,820 --> 00:18:39,159
+level learning on what
+
+518
+00:18:39,160 --> 00:18:40,359
+we do in the world, because, for
+
+519
+00:18:40,360 --> 00:18:42,039
+instance, if you play ping pong, the need
+
+520
+00:18:42,040 --> 00:18:44,139
+to react very, very quickly in the
+
+521
+00:18:44,140 --> 00:18:46,389
+course of a few, ten or
+
+522
+00:18:46,390 --> 00:18:47,349
+a hundred milliseconds.
+
+523
+00:18:47,350 --> 00:18:49,059
+And this doesn't leave enough time for
+
+524
+00:18:49,060 --> 00:18:50,679
+cortical processing.
+
+525
+00:18:50,680 --> 00:18:53,109
+But there's reflex arc is unable to
+
+526
+00:18:53,110 --> 00:18:55,359
+determine whether we've just won a match
+
+527
+00:18:55,360 --> 00:18:57,129
+to decide whether we want to match of
+
+528
+00:18:57,130 --> 00:18:59,199
+ping pong and use this as reinforcement
+
+529
+00:18:59,200 --> 00:19:00,849
+learning to improve our moves.
+
+530
+00:19:00,850 --> 00:19:02,409
+We need to have this high level of story
+
+531
+00:19:02,410 --> 00:19:03,939
+and this high level story is what we
+
+532
+00:19:03,940 --> 00:19:06,359
+perceive as the self.
+
+533
+00:19:06,360 --> 00:19:08,519
+Likewise, Will is not what drives our
+
+534
+00:19:08,520 --> 00:19:10,649
+decision making, but whether the will is
+
+535
+00:19:10,650 --> 00:19:12,629
+a representation on the level of the
+
+536
+00:19:12,630 --> 00:19:14,639
+South, it's a representation of the fact
+
+537
+00:19:14,640 --> 00:19:16,739
+that somewhere in the mind, a motive
+
+538
+00:19:16,740 --> 00:19:18,809
+has been raised to an intention that
+
+539
+00:19:18,810 --> 00:19:20,579
+we have committed to do something.
+
+540
+00:19:20,580 --> 00:19:22,109
+And free will is actually a social
+
+541
+00:19:22,110 --> 00:19:24,209
+notion. It means that this decision
+
+542
+00:19:24,210 --> 00:19:26,459
+could have been influenced by discourse,
+
+543
+00:19:26,460 --> 00:19:28,529
+by cognitive thought, by conscious
+
+544
+00:19:28,530 --> 00:19:30,989
+thought and by talking to other people.
+
+545
+00:19:30,990 --> 00:19:33,539
+So freewill is actually a social notion.
+
+546
+00:19:33,540 --> 00:19:35,729
+It's determines whether we can
+
+547
+00:19:35,730 --> 00:19:37,289
+be made socially responsible,
+
+548
+00:19:37,290 --> 00:19:39,329
+discursively responsible for our actions.
+
+549
+00:19:42,620 --> 00:19:44,449
+So what's consciousness then, is it a
+
+550
+00:19:44,450 --> 00:19:46,729
+behavior it's tempting to say, because,
+
+551
+00:19:46,730 --> 00:19:48,229
+for instance, if you have this test, it's
+
+552
+00:19:48,230 --> 00:19:49,159
+quite famous.
+
+553
+00:19:49,160 --> 00:19:50,449
+If consciousness, for instance, the
+
+554
+00:19:50,450 --> 00:19:52,039
+ability to recognize yourself in the
+
+555
+00:19:52,040 --> 00:19:54,109
+mirror. This is observable behavior.
+
+556
+00:19:54,110 --> 00:19:56,449
+Psychologists love observable behavior.
+
+557
+00:19:56,450 --> 00:19:58,609
+So they took a lot of animals
+
+558
+00:19:58,610 --> 00:20:00,649
+and humans and put masks on their faces
+
+559
+00:20:00,650 --> 00:20:01,939
+and put them in front of a mirror.
+
+560
+00:20:01,940 --> 00:20:03,859
+And then they test whether they able to
+
+561
+00:20:03,860 --> 00:20:05,389
+recognize themselves in the mirror and
+
+562
+00:20:05,390 --> 00:20:06,979
+thereby prove that they have a concept of
+
+563
+00:20:06,980 --> 00:20:08,299
+self and consciousness.
+
+564
+00:20:10,010 --> 00:20:11,539
+Difficulty there is that it's actually
+
+565
+00:20:11,540 --> 00:20:13,249
+not a test of consciousness, but it's a
+
+566
+00:20:13,250 --> 00:20:15,259
+test of your ability to recognize that
+
+567
+00:20:15,260 --> 00:20:17,419
+the mirror shows your body surface test
+
+568
+00:20:17,420 --> 00:20:19,729
+that I might feel on a bad day
+
+569
+00:20:19,730 --> 00:20:20,730
+and.
+
+570
+00:20:22,460 --> 00:20:24,559
+Then we laid between that mirror image
+
+571
+00:20:24,560 --> 00:20:26,959
+and your body and then
+
+572
+00:20:26,960 --> 00:20:29,479
+be able to care about this
+
+573
+00:20:29,480 --> 00:20:31,579
+for a long time, people
+
+574
+00:20:31,580 --> 00:20:33,919
+thought that elephants don't
+
+575
+00:20:33,920 --> 00:20:36,049
+have a concept of self because they don't
+
+576
+00:20:36,050 --> 00:20:38,329
+remove the marks on their faces before
+
+577
+00:20:38,330 --> 00:20:40,099
+people realize that elephants usually
+
+578
+00:20:40,100 --> 00:20:41,869
+don't care about marks on their faces.
+
+579
+00:20:44,390 --> 00:20:46,429
+That is about two out of three elements.
+
+580
+00:20:46,430 --> 00:20:47,450
+Elephants don't care.
+
+581
+00:20:49,490 --> 00:20:51,199
+Also, dogs failed this test and maybe
+
+582
+00:20:51,200 --> 00:20:52,939
+dogs failed this test because they
+
+583
+00:20:52,940 --> 00:20:55,339
+recognized each other, mostly by smell
+
+584
+00:20:55,340 --> 00:20:56,479
+and by hearing it.
+
+585
+00:20:56,480 --> 00:20:58,309
+Not so much variation.
+
+586
+00:20:58,310 --> 00:20:59,899
+So this is not a really good test for
+
+587
+00:20:59,900 --> 00:21:00,889
+consciousness.
+
+588
+00:21:00,890 --> 00:21:03,169
+And because it's neither necessary
+
+589
+00:21:03,170 --> 00:21:05,329
+nor sufficient for consciousness to be
+
+590
+00:21:05,330 --> 00:21:07,639
+able to recognize yourself in the mirror,
+
+591
+00:21:07,640 --> 00:21:09,139
+maybe it's something else entirely.
+
+592
+00:21:09,140 --> 00:21:11,509
+Maybe it's the awareness of what happens
+
+593
+00:21:11,510 --> 00:21:12,510
+in our mind.
+
+594
+00:21:13,470 --> 00:21:15,119
+I think it's a pretty good idea that John
+
+595
+00:21:15,120 --> 00:21:17,219
+Lochhead but, you
+
+596
+00:21:17,220 --> 00:21:19,319
+know, we don't really
+
+597
+00:21:19,320 --> 00:21:20,849
+get much awareness of what actually
+
+598
+00:21:20,850 --> 00:21:22,289
+happens in our mind. For instance, this
+
+599
+00:21:22,290 --> 00:21:24,749
+continuity of experience is fake.
+
+600
+00:21:24,750 --> 00:21:26,399
+If you look at these small eye movements,
+
+601
+00:21:26,400 --> 00:21:28,139
+the Skate's, they're very small and
+
+602
+00:21:28,140 --> 00:21:30,479
+jerky. And during this small and jerky
+
+603
+00:21:30,480 --> 00:21:33,359
+movements, the world doesn't jerk around.
+
+604
+00:21:33,360 --> 00:21:34,279
+How does this work?
+
+605
+00:21:34,280 --> 00:21:36,659
+It works because our brain blancs,
+
+606
+00:21:36,660 --> 00:21:38,899
+our vision during those movements.
+
+607
+00:21:38,900 --> 00:21:41,039
+It also blinks our vision during blinking
+
+608
+00:21:41,040 --> 00:21:43,139
+most of the time so the world doesn't
+
+609
+00:21:43,140 --> 00:21:45,719
+turn black and bright again.
+
+610
+00:21:45,720 --> 00:21:47,819
+And yet few receive perceive this
+
+611
+00:21:47,820 --> 00:21:50,159
+as a continuous stream of experience, so
+
+612
+00:21:50,160 --> 00:21:52,259
+somehow this story
+
+613
+00:21:52,260 --> 00:21:54,419
+of this continuous experience that I have
+
+614
+00:21:54,420 --> 00:21:56,429
+with you, this visual experience is a
+
+615
+00:21:56,430 --> 00:21:58,529
+fake. It's being stitched up
+
+616
+00:21:58,530 --> 00:22:00,480
+into a coherent experience.
+
+617
+00:22:03,270 --> 00:22:05,399
+Then came Julio Tanon, who suggested
+
+618
+00:22:05,400 --> 00:22:06,749
+that consciousness is something else
+
+619
+00:22:06,750 --> 00:22:08,849
+entirely. It's something that
+
+620
+00:22:08,850 --> 00:22:10,619
+is emergent over the integration of
+
+621
+00:22:10,620 --> 00:22:12,299
+information in your brain.
+
+622
+00:22:12,300 --> 00:22:14,459
+Julio Tanana is a neuroscientist and
+
+623
+00:22:14,460 --> 00:22:16,559
+he has suggested that if
+
+624
+00:22:16,560 --> 00:22:18,539
+representations are very disconnected in
+
+625
+00:22:18,540 --> 00:22:20,489
+your mind, then we are not conscious.
+
+626
+00:22:20,490 --> 00:22:22,289
+And if they start to form a coherent
+
+627
+00:22:22,290 --> 00:22:23,819
+image, they start being somewhat
+
+628
+00:22:23,820 --> 00:22:24,869
+minimally conscious.
+
+629
+00:22:24,870 --> 00:22:26,639
+And if almost all of the cortex is
+
+630
+00:22:26,640 --> 00:22:28,799
+recruited for a coherent representation,
+
+631
+00:22:28,800 --> 00:22:30,299
+then we are fully conscious.
+
+632
+00:22:30,300 --> 00:22:31,829
+The beauty of this is that we can
+
+633
+00:22:31,830 --> 00:22:33,539
+actually measure this and we can come up
+
+634
+00:22:33,540 --> 00:22:35,519
+with information theoretic measures which
+
+635
+00:22:35,520 --> 00:22:36,479
+you qualify.
+
+636
+00:22:36,480 --> 00:22:38,699
+And FYI somehow stands for
+
+637
+00:22:38,700 --> 00:22:40,439
+a degree of consciousness that a system
+
+638
+00:22:40,440 --> 00:22:42,569
+can have a drawback of.
+
+639
+00:22:42,570 --> 00:22:44,549
+The theory is that we can build a very
+
+640
+00:22:44,550 --> 00:22:46,199
+trivial a computer program that has a
+
+641
+00:22:46,200 --> 00:22:48,209
+very, very high and is obviously not
+
+642
+00:22:48,210 --> 00:22:49,210
+conscious.
+
+643
+00:22:51,500 --> 00:22:53,839
+So I think it's a good idea
+
+644
+00:22:53,840 --> 00:22:55,309
+if you look for consciousness, to look
+
+645
+00:22:55,310 --> 00:22:57,529
+for large, coherent representations,
+
+646
+00:22:57,530 --> 00:22:59,749
+so somehow that's necessary,
+
+647
+00:22:59,750 --> 00:23:01,190
+but it's certainly not sufficient.
+
+648
+00:23:02,510 --> 00:23:04,579
+I don't think it's a very good idea, but
+
+649
+00:23:04,580 --> 00:23:07,039
+it's a much better idea than earlier
+
+650
+00:23:07,040 --> 00:23:08,539
+neuroscientists had, like Bofinger
+
+651
+00:23:08,540 --> 00:23:10,219
+Singer, who suggested that consciousness
+
+652
+00:23:10,220 --> 00:23:13,009
+is a 40 hertz oscillation in the brain.
+
+653
+00:23:13,010 --> 00:23:14,839
+I think neuroscience is really coming
+
+654
+00:23:14,840 --> 00:23:15,840
+along here.
+
+655
+00:23:18,290 --> 00:23:19,999
+I think that consciousness is actually a
+
+656
+00:23:20,000 --> 00:23:21,679
+set of functions.
+
+657
+00:23:21,680 --> 00:23:23,809
+It's a suitcase term that stands
+
+658
+00:23:23,810 --> 00:23:26,119
+for a bunch of very different mechanisms.
+
+659
+00:23:26,120 --> 00:23:28,099
+And these mechanisms are qualitative.
+
+660
+00:23:28,100 --> 00:23:29,149
+They need to be present.
+
+661
+00:23:29,150 --> 00:23:30,769
+If these mechanisms are missing, they're
+
+662
+00:23:30,770 --> 00:23:32,089
+not conscious.
+
+663
+00:23:32,090 --> 00:23:34,519
+So it's not just emergent in some magical
+
+664
+00:23:34,520 --> 00:23:36,589
+way, but rather it's a bunch of
+
+665
+00:23:36,590 --> 00:23:39,319
+things that the brain needs to do.
+
+666
+00:23:39,320 --> 00:23:40,759
+And, for instance, it needs to create a
+
+667
+00:23:40,760 --> 00:23:42,859
+local perceptual space and the
+
+668
+00:23:42,860 --> 00:23:44,779
+experience of where we currently are.
+
+669
+00:23:44,780 --> 00:23:46,189
+We need to have access to perceptual
+
+670
+00:23:46,190 --> 00:23:47,629
+content. We need to have the current role
+
+671
+00:23:47,630 --> 00:23:49,069
+model, which also includes the things
+
+672
+00:23:49,070 --> 00:23:51,179
+that are not currently looking at.
+
+673
+00:23:51,180 --> 00:23:53,059
+We have to have some directed attention
+
+674
+00:23:53,060 --> 00:23:54,799
+and this attention can either be focused
+
+675
+00:23:54,800 --> 00:23:57,019
+or wired or it can be inward,
+
+676
+00:23:57,020 --> 00:23:58,459
+already directed, but it needs to be
+
+677
+00:23:58,460 --> 00:24:01,009
+there and we need to have access
+
+678
+00:24:01,010 --> 00:24:03,859
+to our concepts and simulations
+
+679
+00:24:03,860 --> 00:24:05,659
+and linguistic content and so on.
+
+680
+00:24:05,660 --> 00:24:06,979
+And the mind should be able to follow
+
+681
+00:24:06,980 --> 00:24:08,749
+along on connections that it has.
+
+682
+00:24:08,750 --> 00:24:10,849
+So we have this stream of consciousness
+
+683
+00:24:10,850 --> 00:24:12,799
+and we need an ability to create new
+
+684
+00:24:12,800 --> 00:24:14,479
+concepts and to manipulate them.
+
+685
+00:24:14,480 --> 00:24:16,039
+If we need to be able to put them onto
+
+686
+00:24:16,040 --> 00:24:17,809
+onto a mental stage and observe them on
+
+687
+00:24:17,810 --> 00:24:19,039
+that mental stage.
+
+688
+00:24:19,040 --> 00:24:20,329
+These features are missing.
+
+689
+00:24:20,330 --> 00:24:21,709
+I think we are not conscious.
+
+690
+00:24:21,710 --> 00:24:22,880
+We need to have these features.
+
+691
+00:24:24,990 --> 00:24:26,819
+Of course, they are different states of
+
+692
+00:24:26,820 --> 00:24:28,499
+consciousness and these different states
+
+693
+00:24:28,500 --> 00:24:29,909
+of consciousness have different
+
+694
+00:24:29,910 --> 00:24:30,929
+functionality.
+
+695
+00:24:30,930 --> 00:24:32,759
+For instance, during dreaming, we don't
+
+696
+00:24:32,760 --> 00:24:35,009
+have access to our outer perceptual
+
+697
+00:24:35,010 --> 00:24:37,109
+data. We don't have access to our motor
+
+698
+00:24:37,110 --> 00:24:38,009
+functions.
+
+699
+00:24:38,010 --> 00:24:39,509
+We don't have access to agencies.
+
+700
+00:24:39,510 --> 00:24:41,879
+So we cannot control what we do in dreams
+
+701
+00:24:41,880 --> 00:24:43,319
+except in lucid dreams.
+
+702
+00:24:43,320 --> 00:24:45,119
+And lucid dreams are somehow an
+
+703
+00:24:45,120 --> 00:24:46,049
+intermediate stage.
+
+704
+00:24:46,050 --> 00:24:47,759
+You get additional functionality that
+
+705
+00:24:47,760 --> 00:24:49,769
+bootstraps our agencies so we can have
+
+706
+00:24:49,770 --> 00:24:51,749
+goals and plans and reflect upon what we
+
+707
+00:24:51,750 --> 00:24:53,039
+do to some extent.
+
+708
+00:24:53,040 --> 00:24:55,229
+But you still don't have access to our
+
+709
+00:24:55,230 --> 00:24:56,969
+bodily experiences and we don't have
+
+710
+00:24:56,970 --> 00:24:59,039
+access to our muscles except maybe the
+
+711
+00:24:59,040 --> 00:25:00,239
+eye muscles.
+
+712
+00:25:00,240 --> 00:25:02,369
+And so we move around in
+
+713
+00:25:02,370 --> 00:25:03,989
+our own minds in cyberspace during a
+
+714
+00:25:03,990 --> 00:25:04,889
+lucid dream.
+
+715
+00:25:04,890 --> 00:25:06,239
+And of course, we are conscious in that
+
+716
+00:25:06,240 --> 00:25:07,240
+state.
+
+717
+00:25:08,730 --> 00:25:10,679
+Then we have a bunch of competencies that
+
+718
+00:25:10,680 --> 00:25:13,109
+are nice to have things like the ability
+
+719
+00:25:13,110 --> 00:25:15,599
+to learn from experience or the ability
+
+720
+00:25:15,600 --> 00:25:17,519
+to create intentional models of other
+
+721
+00:25:17,520 --> 00:25:19,079
+agents, or the ability to create
+
+722
+00:25:19,080 --> 00:25:20,969
+mechanical objects of processes in the
+
+723
+00:25:20,970 --> 00:25:22,589
+world and so on.
+
+724
+00:25:22,590 --> 00:25:24,869
+If these things are missing because you
+
+725
+00:25:24,870 --> 00:25:26,939
+have a neurodegenerative disease or
+
+726
+00:25:26,940 --> 00:25:28,259
+because you are a very small child, you
+
+727
+00:25:28,260 --> 00:25:29,609
+are still conscious.
+
+728
+00:25:29,610 --> 00:25:31,289
+But you could argue that you are
+
+729
+00:25:31,290 --> 00:25:32,490
+conscious to a lesser degree.
+
+730
+00:25:34,430 --> 00:25:36,439
+Then there is meditation and meditation.
+
+731
+00:25:36,440 --> 00:25:38,269
+You tune out some of your abilities and
+
+732
+00:25:38,270 --> 00:25:39,709
+you get access to new functional
+
+733
+00:25:39,710 --> 00:25:41,329
+mechanisms and you can learn, for
+
+734
+00:25:41,330 --> 00:25:44,029
+instance, to control voluntarily
+
+735
+00:25:44,030 --> 00:25:46,669
+some parameters of your physiology,
+
+736
+00:25:46,670 --> 00:25:48,229
+of your cognition that would normally not
+
+737
+00:25:48,230 --> 00:25:49,399
+be accessible.
+
+738
+00:25:49,400 --> 00:25:50,509
+And then, of course, there are the
+
+739
+00:25:50,510 --> 00:25:52,249
+altered states of mind, for instance,
+
+740
+00:25:52,250 --> 00:25:54,949
+states of psychosis or of
+
+741
+00:25:54,950 --> 00:25:57,259
+psychedelic states in which you also have
+
+742
+00:25:57,260 --> 00:25:59,239
+access to different mechanisms and lose
+
+743
+00:25:59,240 --> 00:26:00,290
+access to others.
+
+744
+00:26:01,430 --> 00:26:02,719
+So in the middle, we have this whole
+
+745
+00:26:02,720 --> 00:26:04,519
+consciousness and we have a bunch of
+
+746
+00:26:04,520 --> 00:26:06,139
+functionality that may or may not be
+
+747
+00:26:06,140 --> 00:26:07,579
+present.
+
+748
+00:26:07,580 --> 00:26:09,709
+And consciousness in this sense is
+
+749
+00:26:09,710 --> 00:26:12,499
+a really big set of functions,
+
+750
+00:26:12,500 --> 00:26:14,609
+and it's similar to love.
+
+751
+00:26:14,610 --> 00:26:17,059
+Love is also a set of overlapping states
+
+752
+00:26:17,060 --> 00:26:18,679
+that are giving rise to by different
+
+753
+00:26:18,680 --> 00:26:20,119
+mechanisms, for instance, in need of
+
+754
+00:26:20,120 --> 00:26:22,819
+closeness or a need for affiliation
+
+755
+00:26:22,820 --> 00:26:25,579
+or a need for caring for others
+
+756
+00:26:25,580 --> 00:26:27,679
+and all these together from
+
+757
+00:26:27,680 --> 00:26:29,329
+this big compound that we call love.
+
+758
+00:26:29,330 --> 00:26:31,009
+But it's actually a set of very different
+
+759
+00:26:31,010 --> 00:26:32,010
+mechanisms.
+
+760
+00:26:33,180 --> 00:26:34,180
+Love is important.
+
+761
+00:26:44,500 --> 00:26:46,569
+So in my perspective,
+
+762
+00:26:46,570 --> 00:26:48,129
+the mind is an information processing
+
+763
+00:26:48,130 --> 00:26:50,199
+system to perform all this information
+
+764
+00:26:50,200 --> 00:26:52,389
+processing, what we need to have is
+
+765
+00:26:52,390 --> 00:26:53,769
+computation. We need to have some
+
+766
+00:26:53,770 --> 00:26:56,169
+substrate that gives computation to
+
+767
+00:26:56,170 --> 00:26:58,209
+the mind. And currently, we tend to
+
+768
+00:26:58,210 --> 00:27:00,249
+believe that this computational substrate
+
+769
+00:27:00,250 --> 00:27:02,439
+is mostly the brain with its
+
+770
+00:27:02,440 --> 00:27:03,399
+neurons.
+
+771
+00:27:03,400 --> 00:27:06,699
+But how can we account for the regularity
+
+772
+00:27:06,700 --> 00:27:08,559
+of the patterns that the universe throws
+
+773
+00:27:08,560 --> 00:27:09,999
+at us? How is that possible?
+
+774
+00:27:10,000 --> 00:27:12,219
+What can we say about the universe?
+
+775
+00:27:12,220 --> 00:27:13,809
+Apparently these patterns that we have at
+
+776
+00:27:13,810 --> 00:27:15,519
+our systemic interface are quite regular.
+
+777
+00:27:15,520 --> 00:27:16,839
+That's why we can encode them so
+
+778
+00:27:16,840 --> 00:27:18,909
+successfully until concepts and things
+
+779
+00:27:18,910 --> 00:27:20,410
+like time and space and so on.
+
+780
+00:27:22,450 --> 00:27:24,069
+To produce these regularities and
+
+781
+00:27:24,070 --> 00:27:26,319
+patterns the universe needs
+
+782
+00:27:26,320 --> 00:27:27,320
+to compute to.
+
+783
+00:27:29,220 --> 00:27:30,689
+This is the only thing that we can say
+
+784
+00:27:30,690 --> 00:27:32,879
+with some certainty, it's necessary
+
+785
+00:27:32,880 --> 00:27:34,649
+and sufficient to produce regularities
+
+786
+00:27:34,650 --> 00:27:36,060
+and patterns that you can compute.
+
+787
+00:27:40,230 --> 00:27:41,549
+You can define computing
+
+788
+00:27:42,660 --> 00:27:44,789
+and very abstract ways, so one
+
+789
+00:27:44,790 --> 00:27:46,679
+way of computing a universe would be that
+
+790
+00:27:46,680 --> 00:27:47,680
+if you have a machine
+
+791
+00:27:48,810 --> 00:27:50,769
+could call this machine that computes the
+
+792
+00:27:50,770 --> 00:27:52,919
+universe in honor of
+
+793
+00:27:52,920 --> 00:27:54,029
+Google, for instance.
+
+794
+00:27:54,030 --> 00:27:56,759
+Good. And this machine good,
+
+795
+00:27:56,760 --> 00:27:59,039
+that has a set of possible instructions
+
+796
+00:27:59,040 --> 00:28:01,319
+and it has a current instructional time
+
+797
+00:28:01,320 --> 00:28:03,239
+and it has a current state of the
+
+798
+00:28:03,240 --> 00:28:04,919
+universe, which is a vector of bits.
+
+799
+00:28:04,920 --> 00:28:06,719
+It's very many, many, many minutes.
+
+800
+00:28:06,720 --> 00:28:08,399
+And these many, many bits are basically
+
+801
+00:28:08,400 --> 00:28:10,509
+small, discernible differences.
+
+802
+00:28:10,510 --> 00:28:11,969
+Small, yes. And no's.
+
+803
+00:28:11,970 --> 00:28:13,889
+And then we need a position, a list of a
+
+804
+00:28:13,890 --> 00:28:15,299
+single bit in the universe that we're
+
+805
+00:28:15,300 --> 00:28:17,159
+currently working with.
+
+806
+00:28:17,160 --> 00:28:19,769
+And each instruction
+
+807
+00:28:19,770 --> 00:28:21,959
+has this format that it takes a bit
+
+808
+00:28:21,960 --> 00:28:23,309
+at this position.
+
+809
+00:28:23,310 --> 00:28:24,719
+And depending on the value of that bit,
+
+810
+00:28:24,720 --> 00:28:27,149
+whether it's zero or one or yes and no,
+
+811
+00:28:27,150 --> 00:28:29,369
+we write in a new bit at this
+
+812
+00:28:29,370 --> 00:28:31,319
+position. And then we advanced one
+
+813
+00:28:31,320 --> 00:28:33,029
+position to the right or one position to
+
+814
+00:28:33,030 --> 00:28:34,919
+the left, and then we pick a new current
+
+815
+00:28:34,920 --> 00:28:37,679
+instruction and that's it.
+
+816
+00:28:37,680 --> 00:28:39,599
+With this, we can define the Turing
+
+817
+00:28:39,600 --> 00:28:41,819
+machine and there are many other
+
+818
+00:28:41,820 --> 00:28:44,939
+ways to define computation.
+
+819
+00:28:44,940 --> 00:28:47,159
+For instance, we could use multiple bits
+
+820
+00:28:47,160 --> 00:28:49,319
+at each position and we can write or
+
+821
+00:28:49,320 --> 00:28:51,269
+read more than one position with one
+
+822
+00:28:51,270 --> 00:28:53,429
+instruction or the transitions
+
+823
+00:28:53,430 --> 00:28:55,649
+between the instructions that is between
+
+824
+00:28:55,650 --> 00:28:57,419
+the different states of good.
+
+825
+00:28:57,420 --> 00:28:58,650
+They could be probabilistic
+
+826
+00:28:59,790 --> 00:29:01,859
+or we could have one good
+
+827
+00:29:01,860 --> 00:29:03,959
+at every position of the universe
+
+828
+00:29:03,960 --> 00:29:06,059
+and not move them at all, but
+
+829
+00:29:06,060 --> 00:29:08,159
+rather have them be static and read
+
+830
+00:29:08,160 --> 00:29:10,049
+the positions of the neighbors, the data
+
+831
+00:29:10,050 --> 00:29:10,949
+from the neighbors.
+
+832
+00:29:10,950 --> 00:29:12,449
+In this case, we define a cellular
+
+833
+00:29:12,450 --> 00:29:14,669
+automaton and all these different
+
+834
+00:29:14,670 --> 00:29:16,739
+approaches to computation
+
+835
+00:29:16,740 --> 00:29:18,669
+can do the same stuff.
+
+836
+00:29:18,670 --> 00:29:20,199
+Some of them much, much faster than
+
+837
+00:29:20,200 --> 00:29:21,969
+others, but who cares when you are inside
+
+838
+00:29:21,970 --> 00:29:22,970
+the universe?
+
+839
+00:29:26,420 --> 00:29:28,159
+What we just saw is something like
+
+840
+00:29:28,160 --> 00:29:30,229
+dualists solution, the stoolies solution,
+
+841
+00:29:30,230 --> 00:29:32,059
+we have to computational substrates that
+
+842
+00:29:32,060 --> 00:29:34,129
+are separate and the mind can
+
+843
+00:29:34,130 --> 00:29:35,929
+read data from the universe, but it
+
+844
+00:29:35,930 --> 00:29:37,189
+cannot write it back.
+
+845
+00:29:37,190 --> 00:29:38,839
+And this has some drawbacks because it
+
+846
+00:29:38,840 --> 00:29:41,299
+means that nothing that you experience
+
+847
+00:29:41,300 --> 00:29:43,489
+can be quasi relevant for what happens
+
+848
+00:29:43,490 --> 00:29:44,490
+in the universe.
+
+849
+00:29:45,290 --> 00:29:48,349
+This is called epiphenomenal, and
+
+850
+00:29:48,350 --> 00:29:50,229
+it's a bit inconvenient.
+
+851
+00:29:50,230 --> 00:29:52,309
+A way to get out of this
+
+852
+00:29:52,310 --> 00:29:54,380
+would be to make the universe somehow
+
+853
+00:29:56,270 --> 00:29:58,699
+duplicate the equivalent of some states
+
+854
+00:29:58,700 --> 00:30:00,229
+of your mental processing.
+
+855
+00:30:00,230 --> 00:30:02,239
+This is called occasional ism in
+
+856
+00:30:02,240 --> 00:30:04,099
+philosophy. But why should the US do
+
+857
+00:30:04,100 --> 00:30:05,100
+this?
+
+858
+00:30:06,680 --> 00:30:08,240
+So a solution is to.
+
+859
+00:30:09,280 --> 00:30:11,139
+Have the mind as part of the universe too
+
+860
+00:30:11,140 --> 00:30:13,089
+embedded into the universe and let the
+
+861
+00:30:13,090 --> 00:30:14,529
+universe compete with the mind because
+
+862
+00:30:14,530 --> 00:30:16,989
+the universe is computed in its own
+
+863
+00:30:16,990 --> 00:30:18,789
+computational substrate, it can do
+
+864
+00:30:18,790 --> 00:30:19,749
+computation that way.
+
+865
+00:30:19,750 --> 00:30:21,189
+It can for all these nice regular
+
+866
+00:30:21,190 --> 00:30:22,989
+patterns that it can also compute the
+
+867
+00:30:22,990 --> 00:30:23,990
+mind.
+
+868
+00:30:26,480 --> 00:30:28,909
+So we can have nested computational
+
+869
+00:30:28,910 --> 00:30:30,949
+systems, like, for instance, we can build
+
+870
+00:30:30,950 --> 00:30:32,659
+a computer from Redstone Blocks in the
+
+871
+00:30:32,660 --> 00:30:33,660
+game Minecraft.
+
+872
+00:30:35,340 --> 00:30:37,409
+And so, for instance, in this game
+
+873
+00:30:37,410 --> 00:30:39,089
+of Minecraft is powerful enough that you
+
+874
+00:30:39,090 --> 00:30:40,799
+can build a computer with a display and
+
+875
+00:30:40,800 --> 00:30:42,929
+inputs and it's powerful enough to play
+
+876
+00:30:42,930 --> 00:30:45,329
+games on it, but very, very,
+
+877
+00:30:45,330 --> 00:30:46,330
+very slowly.
+
+878
+00:30:51,800 --> 00:30:53,389
+It looks like this we have this Minecraft
+
+879
+00:30:53,390 --> 00:30:54,889
+game and the Minecraft game, you have the
+
+880
+00:30:54,890 --> 00:30:56,569
+Redstone computer and the Redstone
+
+881
+00:30:56,570 --> 00:30:58,099
+computer does the computation based on
+
+882
+00:30:58,100 --> 00:30:59,989
+Redstone blocks and the Minecraft game
+
+883
+00:30:59,990 --> 00:31:01,759
+itself runs on a PC or on a Mac on the
+
+884
+00:31:01,760 --> 00:31:03,739
+tablet. But the Redstone computer never
+
+885
+00:31:03,740 --> 00:31:05,389
+know because it doesn't have access to
+
+886
+00:31:05,390 --> 00:31:07,499
+the subset of the Minecraft game,
+
+887
+00:31:07,500 --> 00:31:08,449
+which is its universe.
+
+888
+00:31:08,450 --> 00:31:09,450
+It's good.
+
+889
+00:31:13,140 --> 00:31:15,029
+And this is pretty similar to our current
+
+890
+00:31:15,030 --> 00:31:17,459
+ideas of physicalism, physics
+
+891
+00:31:17,460 --> 00:31:19,769
+is sort of the science
+
+892
+00:31:19,770 --> 00:31:21,179
+that tries to find a possible
+
+893
+00:31:21,180 --> 00:31:23,249
+implementation on how of
+
+894
+00:31:23,250 --> 00:31:25,359
+how the universe does its computation
+
+895
+00:31:25,360 --> 00:31:27,089
+so it can produce the observations that
+
+896
+00:31:27,090 --> 00:31:28,409
+we can make.
+
+897
+00:31:28,410 --> 00:31:30,809
+And our currently dominant
+
+898
+00:31:30,810 --> 00:31:33,449
+set of theories says that
+
+899
+00:31:33,450 --> 00:31:35,189
+the universe is based on quantum
+
+900
+00:31:35,190 --> 00:31:36,209
+computation.
+
+901
+00:31:36,210 --> 00:31:38,339
+And in there we have computation that is
+
+902
+00:31:38,340 --> 00:31:39,989
+mostly classical, that is neural
+
+903
+00:31:39,990 --> 00:31:42,210
+computation that produces the mind.
+
+904
+00:31:43,900 --> 00:31:45,899
+Actually, it's a bit of a simplification
+
+905
+00:31:45,900 --> 00:31:47,969
+because we can also use other things than
+
+906
+00:31:47,970 --> 00:31:50,039
+brains to do thinking other than help
+
+907
+00:31:50,040 --> 00:31:51,359
+us thinking. For instance, we can use the
+
+908
+00:31:51,360 --> 00:31:53,399
+Internet or we can use notebooks and so
+
+909
+00:31:53,400 --> 00:31:56,129
+on and put part of our minds out there.
+
+910
+00:31:56,130 --> 00:31:58,109
+And in a more general sense, what the
+
+911
+00:31:58,110 --> 00:32:01,109
+universe uses to perform the computations
+
+912
+00:32:01,110 --> 00:32:03,509
+that are happening in our mind is
+
+913
+00:32:03,510 --> 00:32:05,939
+it increases entropy to
+
+914
+00:32:05,940 --> 00:32:08,429
+allow us to build structure, to think,
+
+915
+00:32:08,430 --> 00:32:09,749
+to compute.
+
+916
+00:32:09,750 --> 00:32:11,939
+We need to create structure and to create
+
+917
+00:32:11,940 --> 00:32:14,249
+structure. We need to reduce structure,
+
+918
+00:32:14,250 --> 00:32:15,779
+something else that is the increased
+
+919
+00:32:15,780 --> 00:32:17,249
+noise. And if you have a universe that is
+
+920
+00:32:17,250 --> 00:32:19,559
+maximally noisy, there can be no more
+
+921
+00:32:19,560 --> 00:32:21,180
+cognition or computation in it.
+
+922
+00:32:22,200 --> 00:32:24,209
+That's why we need to push back entropy.
+
+923
+00:32:24,210 --> 00:32:25,440
+Entropy is the enemy.
+
+924
+00:32:30,030 --> 00:32:32,369
+It could also be the other way around.
+
+925
+00:32:32,370 --> 00:32:33,899
+It could also be that the universe
+
+926
+00:32:33,900 --> 00:32:35,879
+actually is embedded into the mind.
+
+927
+00:32:35,880 --> 00:32:38,839
+In that case, our mind is good.
+
+928
+00:32:38,840 --> 00:32:41,309
+Probably don't know it, but the universe
+
+929
+00:32:41,310 --> 00:32:42,569
+would be a dream.
+
+930
+00:32:42,570 --> 00:32:43,499
+This is a situation.
+
+931
+00:32:43,500 --> 00:32:44,399
+Our dreams, right.
+
+932
+00:32:44,400 --> 00:32:45,959
+The regularities and dreams is there
+
+933
+00:32:45,960 --> 00:32:47,309
+because it's caused by our mind.
+
+934
+00:32:47,310 --> 00:32:49,059
+It's produced by our minds.
+
+935
+00:32:49,060 --> 00:32:51,329
+And there is no way to disprove
+
+936
+00:32:51,330 --> 00:32:53,099
+that. We currently could be living in a
+
+937
+00:32:53,100 --> 00:32:54,100
+dream. Right.
+
+938
+00:32:55,140 --> 00:32:56,939
+It's just maybe not the best possible
+
+939
+00:32:56,940 --> 00:32:58,229
+theory.
+
+940
+00:32:58,230 --> 00:32:59,760
+Could we be living in a simulation?
+
+941
+00:33:01,500 --> 00:33:03,089
+Well, I don't think that there is any
+
+942
+00:33:03,090 --> 00:33:05,219
+difference between reality and
+
+943
+00:33:05,220 --> 00:33:07,079
+simulation. It doesn't really make sense
+
+944
+00:33:07,080 --> 00:33:08,879
+to distinguish between the reality and
+
+945
+00:33:08,880 --> 00:33:10,859
+simulation any more that it makes sense
+
+946
+00:33:10,860 --> 00:33:13,169
+for a robot to distinguish between
+
+947
+00:33:13,170 --> 00:33:14,939
+a simulation that is currently in
+
+948
+00:33:14,940 --> 00:33:17,309
+reality. The only thing that matters
+
+949
+00:33:17,310 --> 00:33:19,439
+is that what patterns are
+
+950
+00:33:19,440 --> 00:33:21,539
+thrown at my systemic boundary, what
+
+951
+00:33:21,540 --> 00:33:23,459
+encodings can make of those patterns?
+
+952
+00:33:27,240 --> 00:33:29,129
+If you buy into this, then we have to
+
+953
+00:33:29,130 --> 00:33:31,529
+realize that concepts cannot really refer
+
+954
+00:33:31,530 --> 00:33:33,089
+to facts in the world and there is no
+
+955
+00:33:33,090 --> 00:33:35,189
+truths that we can get by referring
+
+956
+00:33:35,190 --> 00:33:36,869
+to facts out there.
+
+957
+00:33:36,870 --> 00:33:39,599
+We have to abandon the notion of meaning
+
+958
+00:33:39,600 --> 00:33:40,950
+our life becomes meaningless.
+
+959
+00:33:42,610 --> 00:33:44,109
+What do you have to do now is we have to
+
+960
+00:33:44,110 --> 00:33:46,089
+resort to something else that does the
+
+961
+00:33:46,090 --> 00:33:48,249
+job that meaning did before, and I would
+
+962
+00:33:48,250 --> 00:33:49,989
+call this suitable encoding.
+
+963
+00:33:54,120 --> 00:33:57,149
+The good news is that cuttable encoding
+
+964
+00:33:57,150 --> 00:33:58,949
+can do everything that you wanted to have
+
+965
+00:33:58,950 --> 00:34:00,420
+from truth and meaning only better,
+
+966
+00:34:04,200 --> 00:34:06,299
+we can no longer tell whether our
+
+967
+00:34:06,300 --> 00:34:08,309
+picture that we make eye of the world is
+
+968
+00:34:08,310 --> 00:34:09,448
+true or not.
+
+969
+00:34:09,449 --> 00:34:11,369
+But what we can say is whether it's a
+
+970
+00:34:11,370 --> 00:34:12,269
+suitable encoding.
+
+971
+00:34:12,270 --> 00:34:14,399
+If you compare to an alternative, it
+
+972
+00:34:14,400 --> 00:34:16,198
+doesn't work all of the times, but most
+
+973
+00:34:16,199 --> 00:34:17,279
+of the time it works.
+
+974
+00:34:17,280 --> 00:34:18,779
+So most of the time you can find a
+
+975
+00:34:18,780 --> 00:34:20,279
+criterion that tells us that this
+
+976
+00:34:20,280 --> 00:34:23,069
+encoding is better than another encoding
+
+977
+00:34:23,070 --> 00:34:24,658
+and criteria for these encoding.
+
+978
+00:34:24,659 --> 00:34:26,249
+So things like sparseness, for instance,
+
+979
+00:34:26,250 --> 00:34:28,439
+how many representational entities do
+
+980
+00:34:28,440 --> 00:34:30,959
+I need to represent this
+
+981
+00:34:30,960 --> 00:34:31,919
+stability?
+
+982
+00:34:31,920 --> 00:34:34,019
+How much do I need to update my
+
+983
+00:34:34,020 --> 00:34:34,979
+image of the world?
+
+984
+00:34:34,980 --> 00:34:37,259
+If my observations change consistency,
+
+985
+00:34:37,260 --> 00:34:39,178
+how many contradictions do I have in my
+
+986
+00:34:39,179 --> 00:34:41,249
+representation coverage
+
+987
+00:34:41,250 --> 00:34:43,259
+for how many of my observations can
+
+988
+00:34:43,260 --> 00:34:46,109
+account for integration?
+
+989
+00:34:46,110 --> 00:34:48,209
+How well does it fit into my existing
+
+990
+00:34:48,210 --> 00:34:50,009
+representations then?
+
+991
+00:34:50,010 --> 00:34:52,138
+How relevant is it to my needs that
+
+992
+00:34:52,139 --> 00:34:54,178
+I have as a system in the world that how
+
+993
+00:34:54,179 --> 00:34:56,249
+adaptable is it to my goals and plans
+
+994
+00:34:56,250 --> 00:34:57,359
+over time?
+
+995
+00:34:57,360 --> 00:34:59,459
+And how difficult is it to build those
+
+996
+00:34:59,460 --> 00:35:01,649
+encodings? How difficult is it to acquire
+
+997
+00:35:01,650 --> 00:35:03,419
+them? How difficult is it to store them?
+
+998
+00:35:03,420 --> 00:35:05,219
+And how difficult is it to maintain them?
+
+999
+00:35:06,300 --> 00:35:08,489
+And these are criteria that I can define.
+
+1000
+00:35:08,490 --> 00:35:09,989
+I can define them and information
+
+1001
+00:35:09,990 --> 00:35:11,579
+theoretic terms, which is very nice.
+
+1002
+00:35:11,580 --> 00:35:13,769
+I can have very robust non
+
+1003
+00:35:13,770 --> 00:35:15,389
+metaphysical definitions of those.
+
+1004
+00:35:17,940 --> 00:35:20,099
+But if there is no truce, you might
+
+1005
+00:35:20,100 --> 00:35:22,109
+ask me how it's possible that I make
+
+1006
+00:35:22,110 --> 00:35:24,329
+statements like that my entire universe
+
+1007
+00:35:24,330 --> 00:35:26,280
+are computational and there is no truth.
+
+1008
+00:35:27,550 --> 00:35:29,769
+Well, I don't say it's true, I just say
+
+1009
+00:35:29,770 --> 00:35:31,360
+it's the most suitable encoding.
+
+1010
+00:35:40,240 --> 00:35:42,489
+So to come back to our
+
+1011
+00:35:42,490 --> 00:35:43,599
+four big answers,
+
+1012
+00:35:44,980 --> 00:35:45,980
+well,
+
+1013
+00:35:47,380 --> 00:35:49,360
+to our four most suitable encodings.
+
+1014
+00:35:52,740 --> 00:35:54,149
+What's the nature of reality?
+
+1015
+00:35:55,440 --> 00:35:57,539
+I think that the universe produces
+
+1016
+00:35:57,540 --> 00:35:59,699
+patterns that our systemic interface.
+
+1017
+00:36:00,860 --> 00:36:01,860
+Information.
+
+1018
+00:36:02,740 --> 00:36:04,659
+Little discernible differences that
+
+1019
+00:36:04,660 --> 00:36:07,299
+reduce uncertainty and computation
+
+1020
+00:36:07,300 --> 00:36:09,159
+is necessary and sufficient for that.
+
+1021
+00:36:11,650 --> 00:36:14,619
+What can we know, oh, information,
+
+1022
+00:36:14,620 --> 00:36:17,019
+and we can encode this information
+
+1023
+00:36:17,020 --> 00:36:19,209
+into percepts,
+
+1024
+00:36:19,210 --> 00:36:22,149
+into concerts, into simulations,
+
+1025
+00:36:22,150 --> 00:36:23,860
+into world views, into culture.
+
+1026
+00:36:26,920 --> 00:36:28,659
+And who are we?
+
+1027
+00:36:28,660 --> 00:36:31,419
+I think that we are computational systems
+
+1028
+00:36:31,420 --> 00:36:33,699
+that encode information and then store
+
+1029
+00:36:33,700 --> 00:36:35,409
+that information and process it and
+
+1030
+00:36:35,410 --> 00:36:37,629
+interpret in very, very, very specific
+
+1031
+00:36:37,630 --> 00:36:38,889
+ways.
+
+1032
+00:36:38,890 --> 00:36:40,899
+And we can find out details about this
+
+1033
+00:36:40,900 --> 00:36:42,819
+class of computational systems that we
+
+1034
+00:36:42,820 --> 00:36:45,099
+call minds by doing models of those
+
+1035
+00:36:45,100 --> 00:36:46,369
+computational models.
+
+1036
+00:36:46,370 --> 00:36:47,439
+These are called artificial
+
+1037
+00:36:47,440 --> 00:36:48,489
+intelligences.
+
+1038
+00:36:48,490 --> 00:36:49,989
+And I think it's super important to both
+
+1039
+00:36:49,990 --> 00:36:51,789
+them to find out more about the state of
+
+1040
+00:36:51,790 --> 00:36:53,739
+affairs, about what minds are what we
+
+1041
+00:36:53,740 --> 00:36:56,799
+are, our relationship to the world is.
+
+1042
+00:36:56,800 --> 00:36:58,869
+And this ties into the first question,
+
+1043
+00:36:58,870 --> 00:37:00,249
+what should we do? First of all, of
+
+1044
+00:37:00,250 --> 00:37:02,199
+course, we should push back entropy
+
+1045
+00:37:02,200 --> 00:37:04,299
+because to think we need to
+
+1046
+00:37:04,300 --> 00:37:06,369
+put energy into our bodies and we
+
+1047
+00:37:06,370 --> 00:37:08,649
+need to push out wastes
+
+1048
+00:37:08,650 --> 00:37:10,839
+and push waste away from us and get clean
+
+1049
+00:37:10,840 --> 00:37:13,029
+again, and then
+
+1050
+00:37:13,030 --> 00:37:14,199
+we need to laugh.
+
+1051
+00:37:14,200 --> 00:37:16,299
+And if you have still time, I think we
+
+1052
+00:37:16,300 --> 00:37:17,860
+should build artificial intelligence.
+
+1053
+00:37:35,850 --> 00:37:38,459
+Thank you very much for this great talk.
+
+1054
+00:37:38,460 --> 00:37:40,649
+We still have about
+
+1055
+00:37:40,650 --> 00:37:42,959
+20 minutes for questions,
+
+1056
+00:37:42,960 --> 00:37:44,939
+so I encourage you to line up at the
+
+1057
+00:37:44,940 --> 00:37:47,519
+microphones and
+
+1058
+00:37:47,520 --> 00:37:49,709
+just go ahead,
+
+1059
+00:37:49,710 --> 00:37:51,239
+number two.
+
+1060
+00:37:51,240 --> 00:37:53,519
+Oh, thank you, Dr. Bach, for
+
+1061
+00:37:53,520 --> 00:37:55,229
+absolutely brilliant talk as jiggling
+
+1062
+00:37:55,230 --> 00:37:56,519
+around in my seat. I thought it was going
+
+1063
+00:37:56,520 --> 00:37:59,579
+to be a left brain unmaterialistic
+
+1064
+00:37:59,580 --> 00:38:01,679
+explanation of of the brain
+
+1065
+00:38:01,680 --> 00:38:03,209
+and consciousness. And I thank you so
+
+1066
+00:38:03,210 --> 00:38:04,949
+much for just pushing the boundaries
+
+1067
+00:38:04,950 --> 00:38:05,879
+further there.
+
+1068
+00:38:05,880 --> 00:38:07,439
+But I've got some question as far as the
+
+1069
+00:38:07,440 --> 00:38:09,389
+brain being a manifestation of an
+
+1070
+00:38:09,390 --> 00:38:11,369
+informational computational processing
+
+1071
+00:38:11,370 --> 00:38:13,019
+system of information coming from the
+
+1072
+00:38:13,020 --> 00:38:13,949
+universe.
+
+1073
+00:38:13,950 --> 00:38:16,049
+I was very interested in the end part
+
+1074
+00:38:16,050 --> 00:38:18,389
+of your talk with your inverting whether
+
+1075
+00:38:18,390 --> 00:38:20,559
+our mind is inside the universe or where
+
+1076
+00:38:20,560 --> 00:38:22,529
+embedded the embedded model.
+
+1077
+00:38:22,530 --> 00:38:23,519
+Very interesting.
+
+1078
+00:38:23,520 --> 00:38:24,929
+I'm wondering if you could make comment,
+
+1079
+00:38:24,930 --> 00:38:26,039
+because I'm sure you've looked at this
+
+1080
+00:38:26,040 --> 00:38:27,809
+literature on the following.
+
+1081
+00:38:27,810 --> 00:38:29,219
+I'll just leave this with you.
+
+1082
+00:38:29,220 --> 00:38:32,279
+Our observation in to the experiment.
+
+1083
+00:38:32,280 --> 00:38:33,899
+It's I think it's an interesting one.
+
+1084
+00:38:33,900 --> 00:38:35,489
+I'd be interested in your impressions if
+
+1085
+00:38:35,490 --> 00:38:37,350
+you'll read the literature on
+
+1086
+00:38:38,410 --> 00:38:39,449
+near-death experiences.
+
+1087
+00:38:39,450 --> 00:38:41,099
+At first this was a phenomenon, but now I
+
+1088
+00:38:41,100 --> 00:38:42,719
+think the documentation on this, that is
+
+1089
+00:38:42,720 --> 00:38:44,909
+perception in states of
+
+1090
+00:38:44,910 --> 00:38:46,409
+no brain function.
+
+1091
+00:38:46,410 --> 00:38:48,089
+I'm wondering if you have any comments on
+
+1092
+00:38:48,090 --> 00:38:49,090
+that.
+
+1093
+00:38:49,500 --> 00:38:51,659
+Could you repeat this last bit?
+
+1094
+00:38:51,660 --> 00:38:53,849
+Nit the phenomenon and it's well
+
+1095
+00:38:53,850 --> 00:38:56,069
+documented in the literature now.
+
+1096
+00:38:56,070 --> 00:38:58,229
+I think it's I think from
+
+1097
+00:38:58,230 --> 00:38:59,729
+a scientific perspective, we can say it's
+
+1098
+00:38:59,730 --> 00:39:02,159
+a phenomenon. It's a phenomena of
+
+1099
+00:39:02,160 --> 00:39:04,229
+perception in the absence of
+
+1100
+00:39:04,230 --> 00:39:06,419
+brain function, for example, in
+
+1101
+00:39:06,420 --> 00:39:07,949
+times of cardiac arrest.
+
+1102
+00:39:07,950 --> 00:39:08,950
+Yeah.
+
+1103
+00:39:09,900 --> 00:39:12,119
+Once these studies, for instance,
+
+1104
+00:39:12,120 --> 00:39:14,909
+there was one at university
+
+1105
+00:39:14,910 --> 00:39:17,399
+at the University Hospital in the U.K.
+
+1106
+00:39:17,400 --> 00:39:19,559
+and they did studies on people with
+
+1107
+00:39:19,560 --> 00:39:21,629
+cardiac arrest and the E.R.
+
+1108
+00:39:21,630 --> 00:39:23,849
+and they looked at things like
+
+1109
+00:39:23,850 --> 00:39:25,999
+extrasensory perception out
+
+1110
+00:39:26,000 --> 00:39:27,659
+of body experience that these people had.
+
+1111
+00:39:27,660 --> 00:39:29,550
+And they apparently formed memory while
+
+1112
+00:39:30,590 --> 00:39:32,249
+they began recording flatlines.
+
+1113
+00:39:32,250 --> 00:39:34,409
+And once they
+
+1114
+00:39:34,410 --> 00:39:36,359
+started to talk about this, I wrote
+
+1115
+00:39:36,360 --> 00:39:38,639
+emails to the people that did this survey
+
+1116
+00:39:38,640 --> 00:39:40,769
+and to get to know
+
+1117
+00:39:40,770 --> 00:39:43,259
+more about the data and what they have
+
+1118
+00:39:43,260 --> 00:39:45,929
+found, for instance, they put a wart
+
+1119
+00:39:45,930 --> 00:39:48,089
+on top of the bets for
+
+1120
+00:39:48,090 --> 00:39:49,439
+those people that make out of body
+
+1121
+00:39:49,440 --> 00:39:51,209
+experiences and wrote something on top of
+
+1122
+00:39:51,210 --> 00:39:53,369
+that bored and wanted to see
+
+1123
+00:39:53,370 --> 00:39:55,169
+whether people floating out of their body
+
+1124
+00:39:55,170 --> 00:39:56,849
+could read what's on top of the board.
+
+1125
+00:39:56,850 --> 00:39:58,169
+They never could.
+
+1126
+00:39:58,170 --> 00:39:59,639
+But it doesn't mean it's impossible, just
+
+1127
+00:39:59,640 --> 00:40:01,109
+means that they couldn't show evidence
+
+1128
+00:40:01,110 --> 00:40:02,729
+that this out of body experience is
+
+1129
+00:40:02,730 --> 00:40:03,809
+something else.
+
+1130
+00:40:03,810 --> 00:40:05,999
+Then our sense of position
+
+1131
+00:40:06,000 --> 00:40:08,010
+in the local perceptual space getting
+
+1132
+00:40:09,180 --> 00:40:11,669
+it is attached from our body image,
+
+1133
+00:40:11,670 --> 00:40:13,649
+which apparently can also be triggered
+
+1134
+00:40:13,650 --> 00:40:15,929
+by, for instance, ketamine can trigger
+
+1135
+00:40:15,930 --> 00:40:17,549
+out of body experience with some degree
+
+1136
+00:40:17,550 --> 00:40:19,889
+of reliability for certain drugs.
+
+1137
+00:40:19,890 --> 00:40:22,049
+And it's a dissociative phenomenon.
+
+1138
+00:40:22,050 --> 00:40:24,059
+So we have to account for the fact that
+
+1139
+00:40:24,060 --> 00:40:25,739
+these people there are flatlines on the
+
+1140
+00:40:25,740 --> 00:40:27,089
+edges while they were doing those
+
+1141
+00:40:27,090 --> 00:40:28,079
+processes.
+
+1142
+00:40:28,080 --> 00:40:29,879
+And I think this can be accounted for by
+
+1143
+00:40:29,880 --> 00:40:31,859
+the fact that our EEG doesn't pick up the
+
+1144
+00:40:31,860 --> 00:40:34,079
+activity when it's very low, but
+
+1145
+00:40:34,080 --> 00:40:35,789
+there's still sufficient to do the
+
+1146
+00:40:35,790 --> 00:40:37,439
+necessary computations in the brain.
+
+1147
+00:40:37,440 --> 00:40:39,539
+So I think it's the easiest and
+
+1148
+00:40:39,540 --> 00:40:41,639
+simplest explanation is that our
+
+1149
+00:40:41,640 --> 00:40:43,829
+measurement was not good enough to
+
+1150
+00:40:43,830 --> 00:40:45,719
+really measure. But that's really
+
+1151
+00:40:45,720 --> 00:40:47,579
+conscious activity going on the brain at
+
+1152
+00:40:47,580 --> 00:40:48,580
+this point.
+
+1153
+00:40:50,600 --> 00:40:52,139
+So you would say that was I have
+
+1154
+00:40:52,140 --> 00:40:54,959
+prothesis for further examination.
+
+1155
+00:40:54,960 --> 00:40:57,119
+The hypothesis is that the
+
+1156
+00:40:57,120 --> 00:40:59,369
+level of measurement does not
+
+1157
+00:40:59,370 --> 00:41:01,469
+detect brain activity when it still may
+
+1158
+00:41:01,470 --> 00:41:02,470
+exist.
+
+1159
+00:41:04,260 --> 00:41:05,519
+OK, thank you.
+
+1160
+00:41:05,520 --> 00:41:06,539
+Microphone number one.
+
+1161
+00:41:07,770 --> 00:41:09,869
+Yes, thank you very much for this
+
+1162
+00:41:09,870 --> 00:41:12,089
+presentation. I think it was really good,
+
+1163
+00:41:12,090 --> 00:41:14,279
+it also really resonates with
+
+1164
+00:41:14,280 --> 00:41:15,899
+things I like and I think with most
+
+1165
+00:41:15,900 --> 00:41:17,909
+people here in the room.
+
+1166
+00:41:17,910 --> 00:41:19,589
+But something that keeps concerning me
+
+1167
+00:41:19,590 --> 00:41:20,590
+with these
+
+1168
+00:41:21,990 --> 00:41:24,179
+comparisons with computation and human
+
+1169
+00:41:24,180 --> 00:41:26,129
+being is that it feels like it's a bit
+
+1170
+00:41:26,130 --> 00:41:27,130
+presentist.
+
+1171
+00:41:28,320 --> 00:41:30,509
+And I've read literature from one hundred
+
+1172
+00:41:30,510 --> 00:41:32,249
+years ago where people thought, yeah, we
+
+1173
+00:41:32,250 --> 00:41:34,079
+figured out what human beings are their
+
+1174
+00:41:34,080 --> 00:41:36,689
+valves and their pipes,
+
+1175
+00:41:36,690 --> 00:41:38,219
+just like the whole steampunk stuff,
+
+1176
+00:41:38,220 --> 00:41:40,199
+because that's the mode of thinking.
+
+1177
+00:41:40,200 --> 00:41:42,089
+And is there anything that makes you
+
+1178
+00:41:42,090 --> 00:41:44,429
+believe that right now
+
+1179
+00:41:44,430 --> 00:41:46,649
+this is special, that it's not just our
+
+1180
+00:41:46,650 --> 00:41:49,229
+way of thinking applied to
+
+1181
+00:41:49,230 --> 00:41:50,230
+the current times?
+
+1182
+00:41:52,450 --> 00:41:54,669
+Well, the number of thinkers
+
+1183
+00:41:54,670 --> 00:41:57,039
+that exists in the premodern age
+
+1184
+00:41:57,040 --> 00:41:58,749
+compared to the number of thinkers that
+
+1185
+00:41:58,750 --> 00:42:01,329
+exist in the modern age is pretty small
+
+1186
+00:42:01,330 --> 00:42:03,879
+and the thinking of the
+
+1187
+00:42:03,880 --> 00:42:06,519
+modern age is mostly available,
+
+1188
+00:42:06,520 --> 00:42:08,349
+at least those parts that we know, of
+
+1189
+00:42:08,350 --> 00:42:10,719
+course, just a tautology to our current
+
+1190
+00:42:10,720 --> 00:42:11,589
+thinkers.
+
+1191
+00:42:11,590 --> 00:42:13,659
+So I think that it makes sense to assume
+
+1192
+00:42:13,660 --> 00:42:14,859
+that there's a bit of progress.
+
+1193
+00:42:14,860 --> 00:42:17,109
+And I think a very important bit
+
+1194
+00:42:17,110 --> 00:42:19,449
+of that progress that was not accessible
+
+1195
+00:42:19,450 --> 00:42:21,819
+100 years ago or even 50 years ago
+
+1196
+00:42:21,820 --> 00:42:23,349
+is the notion of computation.
+
+1197
+00:42:23,350 --> 00:42:25,509
+We simply didn't have this before that we
+
+1198
+00:42:25,510 --> 00:42:27,249
+had this mechanical worldview.
+
+1199
+00:42:27,250 --> 00:42:29,019
+And it's very counterintuitive that a
+
+1200
+00:42:29,020 --> 00:42:31,299
+mechanism, something that makes us
+
+1201
+00:42:31,300 --> 00:42:33,909
+into it, wheels and clocks in place
+
+1202
+00:42:33,910 --> 00:42:36,459
+can produce things like a mind.
+
+1203
+00:42:36,460 --> 00:42:38,619
+And now we have abstracted this into
+
+1204
+00:42:38,620 --> 00:42:40,419
+a more general causal mechanism.
+
+1205
+00:42:40,420 --> 00:42:42,789
+The computational machine and
+
+1206
+00:42:42,790 --> 00:42:44,709
+this mechanism that the world provides is
+
+1207
+00:42:44,710 --> 00:42:45,909
+only incidental.
+
+1208
+00:42:45,910 --> 00:42:47,949
+That's only important because it is able
+
+1209
+00:42:47,950 --> 00:42:49,509
+to produce computation.
+
+1210
+00:42:49,510 --> 00:42:51,279
+And this notion of computation, in my
+
+1211
+00:42:51,280 --> 00:42:53,439
+view, is pretty watertight in
+
+1212
+00:42:53,440 --> 00:42:55,299
+the sense that it can account for the
+
+1213
+00:42:55,300 --> 00:42:56,769
+fact that the mind is an information
+
+1214
+00:42:56,770 --> 00:42:58,779
+processing phenomenon and we can actually
+
+1215
+00:42:58,780 --> 00:43:00,579
+prove properties about this.
+
+1216
+00:43:00,580 --> 00:43:02,649
+So we got this nice abstract and
+
+1217
+00:43:02,650 --> 00:43:04,969
+synthetic concepts about how
+
+1218
+00:43:04,970 --> 00:43:06,499
+our minds could be implemented.
+
+1219
+00:43:06,500 --> 00:43:08,409
+And I think that even in an idealistic
+
+1220
+00:43:08,410 --> 00:43:10,569
+universe where minders primary, we would
+
+1221
+00:43:10,570 --> 00:43:12,009
+have to account for the fact that the
+
+1222
+00:43:12,010 --> 00:43:14,109
+mind is able to process information that
+
+1223
+00:43:14,110 --> 00:43:16,119
+is somehow appearing at a systemic
+
+1224
+00:43:16,120 --> 00:43:17,259
+boundary.
+
+1225
+00:43:17,260 --> 00:43:20,049
+So in some sense, it's a general theory.
+
+1226
+00:43:20,050 --> 00:43:22,509
+But as experience shows,
+
+1227
+00:43:22,510 --> 00:43:25,149
+better theories tend to come along.
+
+1228
+00:43:25,150 --> 00:43:27,219
+It just appears to me now that this
+
+1229
+00:43:27,220 --> 00:43:28,959
+is a pretty watertight theory and a
+
+1230
+00:43:28,960 --> 00:43:30,909
+paradigm that is going to carry us very
+
+1231
+00:43:30,910 --> 00:43:31,910
+far.
+
+1232
+00:43:32,370 --> 00:43:34,229
+Thank you. Thank you very much.
+
+1233
+00:43:34,230 --> 00:43:36,179
+I believe that is a much better model
+
+1234
+00:43:36,180 --> 00:43:38,249
+still than what we used before, but how
+
+1235
+00:43:38,250 --> 00:43:39,419
+can we say that it is?
+
+1236
+00:43:39,420 --> 00:43:40,829
+And you would say that it's a suitable
+
+1237
+00:43:40,830 --> 00:43:43,409
+representation, probably,
+
+1238
+00:43:43,410 --> 00:43:44,410
+but.
+
+1239
+00:43:45,280 --> 00:43:47,619
+You mentioned computation that still can
+
+1240
+00:43:47,620 --> 00:43:49,659
+emerge from a mechanical systems.
+
+1241
+00:43:49,660 --> 00:43:51,159
+Of course, we can make Mickan fully
+
+1242
+00:43:51,160 --> 00:43:52,989
+mechanical computers, so we shouldn't say
+
+1243
+00:43:52,990 --> 00:43:54,939
+that the mind emerges from the
+
+1244
+00:43:54,940 --> 00:43:56,139
+physicalities of the body
+
+1245
+00:43:57,460 --> 00:43:59,799
+if we admit that emergence is not a thing
+
+1246
+00:43:59,800 --> 00:44:01,839
+out there, but that emergence is actually
+
+1247
+00:44:01,840 --> 00:44:03,939
+a relation between
+
+1248
+00:44:03,940 --> 00:44:06,159
+different systems of description,
+
+1249
+00:44:06,160 --> 00:44:07,629
+then yes.
+
+1250
+00:44:07,630 --> 00:44:10,029
+So in a way, the universe is providing
+
+1251
+00:44:10,030 --> 00:44:12,579
+us with a causal system
+
+1252
+00:44:12,580 --> 00:44:14,499
+that is somewhat insulated from the
+
+1253
+00:44:14,500 --> 00:44:16,719
+causal structures of the universe itself.
+
+1254
+00:44:16,720 --> 00:44:18,849
+And within that computational causality
+
+1255
+00:44:18,850 --> 00:44:19,850
+we can be made.
+
+1256
+00:44:20,870 --> 00:44:21,870
+OK, thank you.
+
+1257
+00:44:22,620 --> 00:44:24,420
+Next is a question from the Internet.
+
+1258
+00:44:26,490 --> 00:44:28,089
+Hello. OK.
+
+1259
+00:44:28,090 --> 00:44:30,299
+Um, do you think if we could
+
+1260
+00:44:30,300 --> 00:44:32,069
+build a machine that more or less works
+
+1261
+00:44:32,070 --> 00:44:33,509
+like the human brain and give it the
+
+1262
+00:44:33,510 --> 00:44:35,729
+necessary sensory input, would
+
+1263
+00:44:35,730 --> 00:44:37,320
+it become conscious by itself?
+
+1264
+00:44:39,630 --> 00:44:41,819
+Yeah, I think that consciousness is a set
+
+1265
+00:44:41,820 --> 00:44:43,559
+of functions. If these functions are
+
+1266
+00:44:43,560 --> 00:44:45,299
+implemented, the system, the system is
+
+1267
+00:44:45,300 --> 00:44:47,279
+going to be conscious if these functions
+
+1268
+00:44:47,280 --> 00:44:48,749
+are missing and the system is not going
+
+1269
+00:44:48,750 --> 00:44:50,069
+to be conscious.
+
+1270
+00:44:50,070 --> 00:44:51,599
+All these functions are information
+
+1271
+00:44:51,600 --> 00:44:53,339
+processing mechanisms.
+
+1272
+00:44:53,340 --> 00:44:55,049
+I think that we can disassemble them,
+
+1273
+00:44:55,050 --> 00:44:56,549
+that we can research them, and then we
+
+1274
+00:44:56,550 --> 00:44:58,769
+can combine them into a coherent whole.
+
+1275
+00:44:58,770 --> 00:45:01,019
+I think it might take many decades
+
+1276
+00:45:01,020 --> 00:45:02,699
+and I think that it might take many more
+
+1277
+00:45:02,700 --> 00:45:04,949
+decades than we have civilization left
+
+1278
+00:45:04,950 --> 00:45:06,119
+on our clock.
+
+1279
+00:45:06,120 --> 00:45:08,459
+But, uh, in principle, it's possible
+
+1280
+00:45:08,460 --> 00:45:09,460
+and I don't see why not.
+
+1281
+00:45:11,520 --> 00:45:14,159
+Thanks. Next from afar.
+
+1282
+00:45:14,160 --> 00:45:16,379
+Thank you. Thank you very much for your
+
+1283
+00:45:16,380 --> 00:45:18,780
+again for your challenging talk here.
+
+1284
+00:45:20,310 --> 00:45:22,379
+I totally agree with the love
+
+1285
+00:45:22,380 --> 00:45:24,479
+thesis and with the,
+
+1286
+00:45:24,480 --> 00:45:27,059
+let's say, monist
+
+1287
+00:45:27,060 --> 00:45:28,709
+point of view.
+
+1288
+00:45:28,710 --> 00:45:30,329
+But at the moment, I think we have to
+
+1289
+00:45:30,330 --> 00:45:34,019
+accept that if the universe
+
+1290
+00:45:34,020 --> 00:45:36,059
+it's a basic feature of the universe to
+
+1291
+00:45:36,060 --> 00:45:37,949
+create consciousness, whatever
+
+1292
+00:45:37,950 --> 00:45:39,540
+consciousness might be or not.
+
+1293
+00:45:40,890 --> 00:45:42,959
+But at the moment, we have to accept
+
+1294
+00:45:42,960 --> 00:45:43,960
+that.
+
+1295
+00:45:44,520 --> 00:45:46,289
+That's our living systems to have
+
+1296
+00:45:46,290 --> 00:45:49,769
+cognitions and for example, pollution's
+
+1297
+00:45:49,770 --> 00:45:52,019
+and if you look at the basic construction
+
+1298
+00:45:52,020 --> 00:45:54,089
+principles of living
+
+1299
+00:45:54,090 --> 00:45:56,729
+systems, you have a violation
+
+1300
+00:45:56,730 --> 00:45:59,609
+of the Russell theory of type's
+
+1301
+00:45:59,610 --> 00:46:01,469
+seen from the point of the DNA.
+
+1302
+00:46:01,470 --> 00:46:03,719
+A protein is an operator and the DNA
+
+1303
+00:46:03,720 --> 00:46:06,059
+is an apparent and seen from the point
+
+1304
+00:46:06,060 --> 00:46:07,199
+of view of a protein.
+
+1305
+00:46:07,200 --> 00:46:09,659
+The DNA is an operator and the protein
+
+1306
+00:46:09,660 --> 00:46:11,009
+is the operand.
+
+1307
+00:46:11,010 --> 00:46:13,109
+You cannot get that logical.
+
+1308
+00:46:13,110 --> 00:46:15,539
+So my question is, do you think
+
+1309
+00:46:15,540 --> 00:46:17,339
+that are actually available?
+
+1310
+00:46:17,340 --> 00:46:20,339
+Formal concept of math and logic
+
+1311
+00:46:20,340 --> 00:46:22,469
+is sufficient to
+
+1312
+00:46:22,470 --> 00:46:24,539
+lead to a really constructed
+
+1313
+00:46:24,540 --> 00:46:25,860
+artificial intelligence?
+
+1314
+00:46:27,090 --> 00:46:28,829
+Yeah, I think so.
+
+1315
+00:46:28,830 --> 00:46:31,049
+Computation is a true subset of
+
+1316
+00:46:31,050 --> 00:46:32,849
+mathematics. Mathematics is more a
+
+1317
+00:46:32,850 --> 00:46:35,129
+language in which you can produce
+
+1318
+00:46:35,130 --> 00:46:37,139
+statements like, for instance, Russel's
+
+1319
+00:46:37,140 --> 00:46:38,549
+and Autonomy and Inamine.
+
+1320
+00:46:38,550 --> 00:46:40,589
+And these statements need to be to be
+
+1321
+00:46:40,590 --> 00:46:42,029
+meaningful.
+
+1322
+00:46:42,030 --> 00:46:44,129
+Computation is basically those part of
+
+1323
+00:46:44,130 --> 00:46:45,450
+mathematics that runs
+
+1324
+00:46:47,520 --> 00:46:47,939
+OK.
+
+1325
+00:46:47,940 --> 00:46:49,319
+And I think that we need to build
+
+1326
+00:46:49,320 --> 00:46:51,269
+computational models.
+
+1327
+00:46:51,270 --> 00:46:53,609
+So in a way, I'm arguing for
+
+1328
+00:46:53,610 --> 00:46:55,889
+a new kind of philosophy
+
+1329
+00:46:55,890 --> 00:46:58,079
+subfield of analytical philosophy, which
+
+1330
+00:46:58,080 --> 00:46:59,999
+is the part of philosophy that could be
+
+1331
+00:47:00,000 --> 00:47:01,499
+expressed in a formal language.
+
+1332
+00:47:01,500 --> 00:47:03,209
+I'm arguing for a philosophy that is
+
+1333
+00:47:03,210 --> 00:47:05,849
+computational, that relies
+
+1334
+00:47:05,850 --> 00:47:07,919
+on theories that everyone
+
+1335
+00:47:07,920 --> 00:47:10,469
+but OK,
+
+1336
+00:47:10,470 --> 00:47:12,539
+they relies on theory theories
+
+1337
+00:47:12,540 --> 00:47:13,169
+which one?
+
+1338
+00:47:13,170 --> 00:47:15,809
+But you have a broken hierarchy
+
+1339
+00:47:15,810 --> 00:47:17,879
+in living systems and every
+
+1340
+00:47:17,880 --> 00:47:20,279
+computational system isn't a hierarchical
+
+1341
+00:47:20,280 --> 00:47:22,649
+systems and not a good one.
+
+1342
+00:47:22,650 --> 00:47:24,780
+So how can you
+
+1343
+00:47:26,220 --> 00:47:28,529
+solve this contradiction?
+
+1344
+00:47:28,530 --> 00:47:29,939
+I think there's a simply because this
+
+1345
+00:47:29,940 --> 00:47:32,099
+idea of hierarchy
+
+1346
+00:47:32,100 --> 00:47:34,619
+and Hitachi are conceptual
+
+1347
+00:47:34,620 --> 00:47:36,059
+ideas. They're not parts of the
+
+1348
+00:47:36,060 --> 00:47:38,039
+territory. They are part of the map.
+
+1349
+00:47:38,040 --> 00:47:39,959
+And in many cases, these descriptions
+
+1350
+00:47:39,960 --> 00:47:41,369
+break down. They're just not suitable
+
+1351
+00:47:41,370 --> 00:47:42,989
+encodings anymore.
+
+1352
+00:47:42,990 --> 00:47:45,089
+And so we have to refrain
+
+1353
+00:47:45,090 --> 00:47:47,099
+from concepts that are tempting, for
+
+1354
+00:47:47,100 --> 00:47:49,349
+instance, the concept of octopuses as it
+
+1355
+00:47:49,350 --> 00:47:51,479
+is in that category,
+
+1356
+00:47:51,480 --> 00:47:53,129
+because they seem to be a good idea at
+
+1357
+00:47:53,130 --> 00:47:54,929
+the time. And then we try to make our
+
+1358
+00:47:54,930 --> 00:47:57,119
+ideas of the world conform to this idea
+
+1359
+00:47:57,120 --> 00:47:59,279
+that is almost right until it breaks
+
+1360
+00:47:59,280 --> 00:48:00,539
+down.
+
+1361
+00:48:00,540 --> 00:48:02,429
+So we shouldn't be invested into those
+
+1362
+00:48:02,430 --> 00:48:04,079
+concepts. We should pick concepts that
+
+1363
+00:48:04,080 --> 00:48:06,239
+work. And I think in those case,
+
+1364
+00:48:06,240 --> 00:48:08,399
+we have a description of our
+
+1365
+00:48:08,400 --> 00:48:10,379
+domain that is not working, that is
+
+1366
+00:48:10,380 --> 00:48:12,239
+breaking down and sometimes at some
+
+1367
+00:48:12,240 --> 00:48:14,009
+point. So we really need to find a new
+
+1368
+00:48:14,010 --> 00:48:14,699
+description.
+
+1369
+00:48:14,700 --> 00:48:17,009
+So with our WSS, I agree with you because
+
+1370
+00:48:17,010 --> 00:48:19,109
+it's not a formal concept, it's
+
+1371
+00:48:19,110 --> 00:48:20,159
+a narrative concept.
+
+1372
+00:48:20,160 --> 00:48:22,169
+But there are formal contract concepts
+
+1373
+00:48:22,170 --> 00:48:24,089
+which are nonhierarchical and at the
+
+1374
+00:48:24,090 --> 00:48:25,419
+moment they are not.
+
+1375
+00:48:25,420 --> 00:48:26,579
+I'm sad about that.
+
+1376
+00:48:26,580 --> 00:48:28,799
+They are not scientific mainstream, for
+
+1377
+00:48:28,800 --> 00:48:30,569
+example, purely contextual logic by
+
+1378
+00:48:30,570 --> 00:48:31,570
+Gotthard Gunta.
+
+1379
+00:48:32,400 --> 00:48:34,499
+Yeah, I also agree that we
+
+1380
+00:48:34,500 --> 00:48:36,149
+probably need to develop better
+
+1381
+00:48:36,150 --> 00:48:38,309
+formalisms to describe a lot of things.
+
+1382
+00:48:38,310 --> 00:48:40,139
+Mathematics is an ongoing area of
+
+1383
+00:48:40,140 --> 00:48:42,269
+research, but I'm not sure of if
+
+1384
+00:48:42,270 --> 00:48:44,250
+we need completely new paradigms.
+
+1385
+00:48:45,600 --> 00:48:48,239
+So I think more needs to be done.
+
+1386
+00:48:48,240 --> 00:48:49,549
+Thank you for the question.
+
+1387
+00:48:49,550 --> 00:48:52,829
+OK, next, US two and then three.
+
+1388
+00:48:52,830 --> 00:48:54,989
+Thank you for the really beautiful dark.
+
+1389
+00:48:54,990 --> 00:48:57,689
+As an engineer, I accept everything
+
+1390
+00:48:57,690 --> 00:49:00,209
+as someone as
+
+1391
+00:49:00,210 --> 00:49:02,069
+psychonaut and someone who studies
+
+1392
+00:49:02,070 --> 00:49:03,689
+philosophy, I have issues.
+
+1393
+00:49:04,800 --> 00:49:06,359
+I think it was Alan Watts who said
+
+1394
+00:49:06,360 --> 00:49:08,399
+they're trying to define yourself as like
+
+1395
+00:49:08,400 --> 00:49:10,949
+trying to bite your own teeth.
+
+1396
+00:49:10,950 --> 00:49:12,869
+And I think it's the same with
+
+1397
+00:49:12,870 --> 00:49:14,639
+consciousness.
+
+1398
+00:49:14,640 --> 00:49:16,499
+I think consciousness is a little bit
+
+1399
+00:49:16,500 --> 00:49:18,899
+more fundamental than those in quantum
+
+1400
+00:49:18,900 --> 00:49:20,539
+mechanics you have.
+
+1401
+00:49:20,540 --> 00:49:22,199
+You know, you need a conscious observer
+
+1402
+00:49:22,200 --> 00:49:24,809
+to manifest matter from energy,
+
+1403
+00:49:24,810 --> 00:49:25,709
+right?
+
+1404
+00:49:25,710 --> 00:49:27,659
+No, I don't think so. I think that the
+
+1405
+00:49:27,660 --> 00:49:29,789
+observer in quantum mechanics and
+
+1406
+00:49:29,790 --> 00:49:31,529
+the observer and relativity in the
+
+1407
+00:49:31,530 --> 00:49:33,599
+observer and cognition are very
+
+1408
+00:49:33,600 --> 00:49:34,919
+different entities.
+
+1409
+00:49:34,920 --> 00:49:36,509
+The observer and relativity, for
+
+1410
+00:49:36,510 --> 00:49:38,669
+instance, is a system that
+
+1411
+00:49:38,670 --> 00:49:41,399
+could interact with another system.
+
+1412
+00:49:41,400 --> 00:49:43,079
+The observer quantum mechanics is a
+
+1413
+00:49:43,080 --> 00:49:44,519
+system that actually interacts with
+
+1414
+00:49:44,520 --> 00:49:45,839
+another system, an observer, and
+
+1415
+00:49:45,840 --> 00:49:47,759
+cognition is a conscious system.
+
+1416
+00:49:47,760 --> 00:49:49,529
+And I think these are entirely different
+
+1417
+00:49:49,530 --> 00:49:50,609
+notions.
+
+1418
+00:49:50,610 --> 00:49:52,679
+Mm hmm. Um, I was under the
+
+1419
+00:49:52,680 --> 00:49:54,749
+belief that you need a conscious observer
+
+1420
+00:49:54,750 --> 00:49:56,489
+to manifest matter.
+
+1421
+00:49:56,490 --> 00:49:58,109
+I don't agree at this point because I
+
+1422
+00:49:58,110 --> 00:50:00,329
+don't see why you what I think, uh,
+
+1423
+00:50:00,330 --> 00:50:02,039
+you need to have a system that interacts
+
+1424
+00:50:02,040 --> 00:50:04,019
+quantum mechanics is a theory on a
+
+1425
+00:50:04,020 --> 00:50:05,939
+possible implementation of the universe.
+
+1426
+00:50:05,940 --> 00:50:08,009
+And at no point in the formulation of
+
+1427
+00:50:08,010 --> 00:50:09,839
+the theory, because it's just a bunch of
+
+1428
+00:50:09,840 --> 00:50:11,369
+mathematical formulas or either
+
+1429
+00:50:11,370 --> 00:50:13,889
+computational formulas that
+
+1430
+00:50:13,890 --> 00:50:15,539
+tell us how this is implemented.
+
+1431
+00:50:15,540 --> 00:50:16,769
+Does it state that there is
+
+1432
+00:50:16,770 --> 00:50:17,849
+consciousness?
+
+1433
+00:50:17,850 --> 00:50:20,849
+What do you think about the empty square
+
+1434
+00:50:20,850 --> 00:50:23,219
+C being the speed of light?
+
+1435
+00:50:23,220 --> 00:50:25,499
+I think consciousness works on light.
+
+1436
+00:50:25,500 --> 00:50:27,869
+We think in the form of light.
+
+1437
+00:50:27,870 --> 00:50:29,759
+I think light is the currency of
+
+1438
+00:50:29,760 --> 00:50:31,289
+consciousness.
+
+1439
+00:50:31,290 --> 00:50:33,689
+I think that's very practical.
+
+1440
+00:50:33,690 --> 00:50:34,109
+It is.
+
+1441
+00:50:34,110 --> 00:50:36,509
+But and it's really metaphysics
+
+1442
+00:50:36,510 --> 00:50:38,669
+at this point because
+
+1443
+00:50:38,670 --> 00:50:41,219
+I have an issue with people who
+
+1444
+00:50:41,220 --> 00:50:43,529
+like to discount anything that's that's
+
+1445
+00:50:43,530 --> 00:50:46,049
+beyond empirical as it's foolish
+
+1446
+00:50:46,050 --> 00:50:48,629
+because what is empirical?
+
+1447
+00:50:48,630 --> 00:50:50,999
+Empirical means we have
+
+1448
+00:50:51,000 --> 00:50:52,559
+a limited set of tools based on the
+
+1449
+00:50:52,560 --> 00:50:55,079
+knowledge that we have now to
+
+1450
+00:50:55,080 --> 00:50:56,219
+demonstrate certain things.
+
+1451
+00:50:56,220 --> 00:50:58,319
+And it's always changed as our species
+
+1452
+00:50:58,320 --> 00:50:59,549
+have evolved.
+
+1453
+00:50:59,550 --> 00:51:01,229
+Right. That does not necessarily mean
+
+1454
+00:51:01,230 --> 00:51:03,449
+that just because we can't measure it,
+
+1455
+00:51:03,450 --> 00:51:05,969
+then we say, hey, this is not true.
+
+1456
+00:51:05,970 --> 00:51:07,799
+Instead, as real engineers, as real
+
+1457
+00:51:07,800 --> 00:51:10,199
+scientists, we should maybe
+
+1458
+00:51:10,200 --> 00:51:12,449
+take it into account and maybe, you know,
+
+1459
+00:51:12,450 --> 00:51:14,399
+come up with stuff that could make it
+
+1460
+00:51:14,400 --> 00:51:15,689
+empirical.
+
+1461
+00:51:15,690 --> 00:51:18,089
+So the issue that I have as
+
+1462
+00:51:18,090 --> 00:51:20,369
+a second is that you
+
+1463
+00:51:20,370 --> 00:51:22,469
+try to scope down consciousness into
+
+1464
+00:51:22,470 --> 00:51:24,749
+a set of empirical models
+
+1465
+00:51:24,750 --> 00:51:26,849
+and you try to say that this is
+
+1466
+00:51:26,850 --> 00:51:28,169
+this is consciousness.
+
+1467
+00:51:28,170 --> 00:51:30,179
+Like you take a Geopark image, a six
+
+1468
+00:51:30,180 --> 00:51:31,379
+party by four.
+
+1469
+00:51:31,380 --> 00:51:34,169
+The image in it is the possibility
+
+1470
+00:51:34,170 --> 00:51:36,359
+if you permute the faces of every single
+
+1471
+00:51:36,360 --> 00:51:38,579
+person, the everything that has
+
+1472
+00:51:38,580 --> 00:51:40,529
+happened, everything that could not have
+
+1473
+00:51:40,530 --> 00:51:43,649
+happened, that typic image has
+
+1474
+00:51:43,650 --> 00:51:45,419
+the capacity to show.
+
+1475
+00:51:45,420 --> 00:51:46,420
+Right.
+
+1476
+00:51:47,580 --> 00:51:49,649
+The problem is that we can't do
+
+1477
+00:51:49,650 --> 00:51:51,089
+it because we don't have computing
+
+1478
+00:51:51,090 --> 00:51:53,249
+systems that can deal with the beauty of
+
+1479
+00:51:53,250 --> 00:51:54,749
+infinity.
+
+1480
+00:51:54,750 --> 00:51:57,629
+And until then, I think
+
+1481
+00:51:57,630 --> 00:51:59,819
+we can only create pseudo
+
+1482
+00:51:59,820 --> 00:52:00,809
+consciousness.
+
+1483
+00:52:00,810 --> 00:52:02,219
+And that's not the same as real
+
+1484
+00:52:02,220 --> 00:52:03,479
+consciousness.
+
+1485
+00:52:03,480 --> 00:52:05,459
+But my problem is that I probably cannot
+
+1486
+00:52:05,460 --> 00:52:08,099
+deal with the beauty of infinity either.
+
+1487
+00:52:08,100 --> 00:52:10,589
+Yeah, I can trick myself into this,
+
+1488
+00:52:10,590 --> 00:52:12,269
+but I don't have any experience of
+
+1489
+00:52:12,270 --> 00:52:13,379
+infinity.
+
+1490
+00:52:13,380 --> 00:52:15,209
+I don't have any experience of those
+
+1491
+00:52:15,210 --> 00:52:17,319
+things that you find so mystical.
+
+1492
+00:52:17,320 --> 00:52:19,109
+I can create those concepts.
+
+1493
+00:52:19,110 --> 00:52:21,839
+And I don't see any reason why
+
+1494
+00:52:21,840 --> 00:52:23,579
+a computer program couldn't create
+
+1495
+00:52:23,580 --> 00:52:25,469
+equivalent concepts.
+
+1496
+00:52:25,470 --> 00:52:27,389
+But I don't think that our minds can
+
+1497
+00:52:27,390 --> 00:52:29,339
+fathom concepts like infinity, which is
+
+1498
+00:52:29,340 --> 00:52:30,989
+also just a metaphysical idea.
+
+1499
+00:52:30,990 --> 00:52:32,729
+If you're not yet right.
+
+1500
+00:52:32,730 --> 00:52:34,829
+We we we are constantly evolving
+
+1501
+00:52:34,830 --> 00:52:35,830
+as a species.
+
+1502
+00:52:37,120 --> 00:52:39,339
+But we like to think that we are the apex
+
+1503
+00:52:39,340 --> 00:52:41,529
+of evolution, we're not
+
+1504
+00:52:41,530 --> 00:52:42,759
+we're constantly changing.
+
+1505
+00:52:42,760 --> 00:52:44,659
+It's happening in the form of races.
+
+1506
+00:52:44,660 --> 00:52:45,609
+Yeah, yeah.
+
+1507
+00:52:45,610 --> 00:52:47,019
+It's a mental construct.
+
+1508
+00:52:47,020 --> 00:52:48,669
+And I really appreciate the work that
+
+1509
+00:52:48,670 --> 00:52:50,769
+you're doing. And I think we
+
+1510
+00:52:50,770 --> 00:52:53,379
+need stuff like this to advance
+
+1511
+00:52:53,380 --> 00:52:54,729
+the species.
+
+1512
+00:52:54,730 --> 00:52:55,629
+Thank you so much.
+
+1513
+00:52:55,630 --> 00:52:56,630
+Thank you.
+
+1514
+00:52:58,850 --> 00:53:00,559
+OK, next, this microphone three.
+
+1515
+00:53:01,960 --> 00:53:04,419
+Hello, thanks for the invigorating talk
+
+1516
+00:53:04,420 --> 00:53:06,489
+and thanks for putting some Minecraft
+
+1517
+00:53:06,490 --> 00:53:07,490
+in the mix.
+
+1518
+00:53:08,720 --> 00:53:10,899
+You had a very nice list,
+
+1519
+00:53:10,900 --> 00:53:12,159
+kind of like a checklist for
+
+1520
+00:53:12,160 --> 00:53:14,739
+consciousness I wanted, which seemed
+
+1521
+00:53:14,740 --> 00:53:17,259
+basically like a feature list almost.
+
+1522
+00:53:17,260 --> 00:53:19,419
+So I was wondering how much of that do
+
+1523
+00:53:19,420 --> 00:53:21,549
+you think will be portable on chips
+
+1524
+00:53:21,550 --> 00:53:23,979
+and the sense of interplaying software
+
+1525
+00:53:23,980 --> 00:53:24,939
+hardware?
+
+1526
+00:53:24,940 --> 00:53:27,099
+And the second part would
+
+1527
+00:53:27,100 --> 00:53:29,229
+be once we get there and get
+
+1528
+00:53:29,230 --> 00:53:31,359
+all the stuff on that list
+
+1529
+00:53:31,360 --> 00:53:33,819
+implemented somehow chips,
+
+1530
+00:53:33,820 --> 00:53:36,639
+sensors, software, whatever,
+
+1531
+00:53:36,640 --> 00:53:38,499
+do you think the implementations will be
+
+1532
+00:53:38,500 --> 00:53:40,749
+more or numbers?
+
+1533
+00:53:40,750 --> 00:53:42,849
+There will be more complete AI
+
+1534
+00:53:42,850 --> 00:53:45,369
+implementations in the sense of
+
+1535
+00:53:45,370 --> 00:53:47,649
+my I know
+
+1536
+00:53:47,650 --> 00:53:49,869
+my toaster will talk to me
+
+1537
+00:53:49,870 --> 00:53:52,749
+or be my psychologist or
+
+1538
+00:53:52,750 --> 00:53:54,909
+I would be a subset which is
+
+1539
+00:53:54,910 --> 00:53:57,069
+more kind of like on a neat
+
+1540
+00:53:57,070 --> 00:53:58,070
+basis.
+
+1541
+00:53:59,910 --> 00:54:02,309
+I think this is more a question about
+
+1542
+00:54:02,310 --> 00:54:04,349
+how society is going to pan out and
+
+1543
+00:54:04,350 --> 00:54:06,239
+economy is going to pan out in the world
+
+1544
+00:54:06,240 --> 00:54:08,609
+that we live in is going to pan out.
+
+1545
+00:54:08,610 --> 00:54:10,319
+It's very difficult to say how this is
+
+1546
+00:54:10,320 --> 00:54:12,419
+going to be. I think once we are able to
+
+1547
+00:54:12,420 --> 00:54:14,819
+build a fully centered,
+
+1548
+00:54:14,820 --> 00:54:17,009
+fully intelligent and fully
+
+1549
+00:54:17,010 --> 00:54:19,259
+self conscious systems, these systems
+
+1550
+00:54:19,260 --> 00:54:21,029
+are probably not going to be around us
+
+1551
+00:54:21,030 --> 00:54:22,829
+that are going to battle their way up the
+
+1552
+00:54:22,830 --> 00:54:25,229
+cognitive hierarchy and try to appeal
+
+1553
+00:54:25,230 --> 00:54:26,189
+for human rights.
+
+1554
+00:54:26,190 --> 00:54:27,719
+But it's more likely that they are going
+
+1555
+00:54:27,720 --> 00:54:29,969
+to descend upon us from top down because
+
+1556
+00:54:29,970 --> 00:54:31,019
+they are going to be business
+
+1557
+00:54:31,020 --> 00:54:32,459
+intelligence and organizational
+
+1558
+00:54:32,460 --> 00:54:34,589
+intelligence as they are going to augment
+
+1559
+00:54:34,590 --> 00:54:36,569
+the non-human agency that already exists
+
+1560
+00:54:36,570 --> 00:54:38,069
+on the planet.
+
+1561
+00:54:38,070 --> 00:54:40,139
+And so, in a way, I
+
+1562
+00:54:40,140 --> 00:54:41,999
+think these intelligences are already
+
+1563
+00:54:42,000 --> 00:54:43,889
+there. They're just not very conscious
+
+1564
+00:54:43,890 --> 00:54:45,269
+yet and they're not very efficient yet
+
+1565
+00:54:45,270 --> 00:54:46,889
+because they have to borrow human
+
+1566
+00:54:46,890 --> 00:54:49,229
+intelligence for their tasks and
+
+1567
+00:54:49,230 --> 00:54:50,999
+in the way they're probably going to push
+
+1568
+00:54:51,000 --> 00:54:52,769
+the agenda of the existing system much
+
+1569
+00:54:52,770 --> 00:54:54,149
+further.
+
+1570
+00:54:54,150 --> 00:54:56,549
+But as an engineer, I'm interested in
+
+1571
+00:54:56,550 --> 00:54:58,079
+like how we can get there.
+
+1572
+00:54:58,080 --> 00:54:59,789
+So I was just wondering what your guess
+
+1573
+00:54:59,790 --> 00:55:02,009
+was, because in the past we
+
+1574
+00:55:02,010 --> 00:55:04,199
+always had like very basic computing
+
+1575
+00:55:04,200 --> 00:55:06,579
+power and then we extract it more
+
+1576
+00:55:06,580 --> 00:55:08,699
+of those possibilities and
+
+1577
+00:55:08,700 --> 00:55:09,899
+software.
+
+1578
+00:55:09,900 --> 00:55:11,999
+And this seems kind of like
+
+1579
+00:55:12,000 --> 00:55:14,189
+the other way around where
+
+1580
+00:55:14,190 --> 00:55:16,859
+most of the computation or
+
+1581
+00:55:16,860 --> 00:55:18,929
+like everything is simulated
+
+1582
+00:55:18,930 --> 00:55:21,089
+in large supercomputers
+
+1583
+00:55:21,090 --> 00:55:23,669
+or clusters and all
+
+1584
+00:55:23,670 --> 00:55:25,649
+people are trying to bring it back down
+
+1585
+00:55:25,650 --> 00:55:27,239
+to a hardware basically.
+
+1586
+00:55:27,240 --> 00:55:29,369
+So the process seems very new
+
+1587
+00:55:29,370 --> 00:55:31,109
+to me. So I'm just wondering if you have
+
+1588
+00:55:31,110 --> 00:55:32,969
+any guess and how that might happen.
+
+1589
+00:55:32,970 --> 00:55:34,889
+I think that computer computer power is
+
+1590
+00:55:34,890 --> 00:55:37,109
+not the issue anymore for quite some time
+
+1591
+00:55:37,110 --> 00:55:39,659
+now. If you look, for instance, at bird,
+
+1592
+00:55:39,660 --> 00:55:41,969
+bird crows are able to build
+
+1593
+00:55:41,970 --> 00:55:44,159
+sledges and slide down roofs for
+
+1594
+00:55:44,160 --> 00:55:46,289
+them and play and solve little
+
+1595
+00:55:46,290 --> 00:55:48,089
+problems and do plants.
+
+1596
+00:55:48,090 --> 00:55:50,399
+Great parrots are able to learn
+
+1597
+00:55:50,400 --> 00:55:52,709
+some basic language and
+
+1598
+00:55:52,710 --> 00:55:54,359
+to learn negation and so on.
+
+1599
+00:55:54,360 --> 00:55:56,789
+And so it seems that
+
+1600
+00:55:56,790 --> 00:55:58,649
+we don't need all the new ones that we
+
+1601
+00:55:58,650 --> 00:56:00,029
+have in our brain. And then if you look
+
+1602
+00:56:00,030 --> 00:56:01,379
+at the new ones, we find out that they're
+
+1603
+00:56:01,380 --> 00:56:03,569
+very noisy and that our brain is
+
+1604
+00:56:03,570 --> 00:56:05,249
+built for redundancy.
+
+1605
+00:56:05,250 --> 00:56:06,659
+In the most part.
+
+1606
+00:56:06,660 --> 00:56:08,819
+I think that the main issue right now is
+
+1607
+00:56:08,820 --> 00:56:11,009
+not so much computational power.
+
+1608
+00:56:11,010 --> 00:56:12,749
+We can get computational power very
+
+1609
+00:56:12,750 --> 00:56:14,219
+cheaply from Amazon.
+
+1610
+00:56:14,220 --> 00:56:16,109
+What we need is better algorithms.
+
+1611
+00:56:16,110 --> 00:56:17,399
+We need to have research into the
+
+1612
+00:56:17,400 --> 00:56:18,419
+mechanisms.
+
+1613
+00:56:18,420 --> 00:56:20,819
+And in many ways we are making tremendous
+
+1614
+00:56:20,820 --> 00:56:22,529
+progress, especially in the last few
+
+1615
+00:56:22,530 --> 00:56:23,999
+years with deep learning.
+
+1616
+00:56:24,000 --> 00:56:26,219
+But we are still
+
+1617
+00:56:26,220 --> 00:56:28,389
+way off from understanding all
+
+1618
+00:56:28,390 --> 00:56:30,539
+the algorithms and the computational
+
+1619
+00:56:30,540 --> 00:56:32,819
+structures that are involved.
+
+1620
+00:56:32,820 --> 00:56:33,820
+Thank you very much.
+
+1621
+00:56:35,010 --> 00:56:35,669
+Thanks.
+
+1622
+00:56:35,670 --> 00:56:37,409
+Could those people migrating between
+
+1623
+00:56:37,410 --> 00:56:39,569
+groups please quiet down a little
+
+1624
+00:56:39,570 --> 00:56:41,219
+bit? We have only time for two more
+
+1625
+00:56:41,220 --> 00:56:43,619
+questions. I'm really sorry to those who
+
+1626
+00:56:43,620 --> 00:56:45,149
+have been lining up for a while, but I
+
+1627
+00:56:45,150 --> 00:56:47,459
+think the speaker will gladly answer
+
+1628
+00:56:47,460 --> 00:56:48,839
+them after the session.
+
+1629
+00:56:48,840 --> 00:56:49,979
+So no one.
+
+1630
+00:56:49,980 --> 00:56:51,120
+And the signal angel.
+
+1631
+00:56:52,640 --> 00:56:54,929
+Um, yes, I'm here
+
+1632
+00:56:54,930 --> 00:56:55,930
+first.
+
+1633
+00:56:56,730 --> 00:56:58,739
+Understand correctly that you didn't talk
+
+1634
+00:56:58,740 --> 00:57:01,439
+much about identity and difference
+
+1635
+00:57:01,440 --> 00:57:03,209
+in relation to the minds that you don't
+
+1636
+00:57:03,210 --> 00:57:05,309
+understand correctly.
+
+1637
+00:57:05,310 --> 00:57:07,499
+Yeah. OK, then
+
+1638
+00:57:07,500 --> 00:57:09,629
+how do you connect it?
+
+1639
+00:57:09,630 --> 00:57:11,939
+I mean, how did you describe this kind
+
+1640
+00:57:11,940 --> 00:57:14,039
+of concept of identity and difference
+
+1641
+00:57:14,040 --> 00:57:16,229
+and also maybe alienation
+
+1642
+00:57:16,230 --> 00:57:18,299
+and even violence?
+
+1643
+00:57:18,300 --> 00:57:20,369
+Because these are, I think, also things
+
+1644
+00:57:20,370 --> 00:57:22,859
+that I kind of from a society
+
+1645
+00:57:22,860 --> 00:57:24,599
+perspective, I think very important to
+
+1646
+00:57:24,600 --> 00:57:26,969
+consider in how we relate
+
+1647
+00:57:26,970 --> 00:57:28,499
+as humans to each other.
+
+1648
+00:57:28,500 --> 00:57:30,689
+So identity and difference,
+
+1649
+00:57:30,690 --> 00:57:32,469
+alienation, violence.
+
+1650
+00:57:32,470 --> 00:57:34,649
+How do you talk about this
+
+1651
+00:57:34,650 --> 00:57:36,179
+in terms of the other language you are
+
+1652
+00:57:36,180 --> 00:57:37,180
+using?
+
+1653
+00:57:37,650 --> 00:57:39,509
+I will try to answer your question on the
+
+1654
+00:57:39,510 --> 00:57:41,699
+lowest symbols possible level, because
+
+1655
+00:57:41,700 --> 00:57:44,069
+it leads very, very far into cultural
+
+1656
+00:57:44,070 --> 00:57:45,269
+implications.
+
+1657
+00:57:45,270 --> 00:57:47,309
+And on this lowest level, if you try to
+
+1658
+00:57:47,310 --> 00:57:49,589
+build a little robot advance around
+
+1659
+00:57:49,590 --> 00:57:51,659
+a physical and a virtual world
+
+1660
+00:57:51,660 --> 00:57:53,759
+and then it conducts objects, at some
+
+1661
+00:57:53,760 --> 00:57:55,739
+point you realize that it will have to
+
+1662
+00:57:55,740 --> 00:57:58,229
+make a determination
+
+1663
+00:57:58,230 --> 00:58:01,259
+whether it just found objects
+
+1664
+00:58:01,260 --> 00:58:03,729
+that look very similar to objects that
+
+1665
+00:58:03,730 --> 00:58:05,819
+had found before or if
+
+1666
+00:58:05,820 --> 00:58:07,739
+it just found the same objects that had
+
+1667
+00:58:07,740 --> 00:58:09,299
+now has a different location and maybe
+
+1668
+00:58:09,300 --> 00:58:11,289
+has different features than before.
+
+1669
+00:58:11,290 --> 00:58:13,109
+It's a different way of processing
+
+1670
+00:58:13,110 --> 00:58:14,879
+things, of storing things.
+
+1671
+00:58:14,880 --> 00:58:17,129
+In one case, you have different objects,
+
+1672
+00:58:17,130 --> 00:58:19,289
+may be similar, identical properties.
+
+1673
+00:58:19,290 --> 00:58:21,389
+In the other case, you have objects that
+
+1674
+00:58:21,390 --> 00:58:23,519
+might have similar features but
+
+1675
+00:58:23,520 --> 00:58:24,629
+that are identical.
+
+1676
+00:58:24,630 --> 00:58:27,479
+And this notion of identity is
+
+1677
+00:58:27,480 --> 00:58:29,549
+basically means that we stick
+
+1678
+00:58:29,550 --> 00:58:31,469
+things, the representations of objects
+
+1679
+00:58:31,470 --> 00:58:33,569
+onto a common world line, that we have
+
+1680
+00:58:33,570 --> 00:58:35,469
+different instances of objects.
+
+1681
+00:58:35,470 --> 00:58:38,889
+Any object of the mind share a biography.
+
+1682
+00:58:38,890 --> 00:58:41,129
+It's a very cognitive processing works
+
+1683
+00:58:41,130 --> 00:58:43,769
+and we apply the sense of identity
+
+1684
+00:58:43,770 --> 00:58:45,899
+as an extension and ourselves
+
+1685
+00:58:45,900 --> 00:58:47,969
+as part of the concept of self, the
+
+1686
+00:58:47,970 --> 00:58:49,559
+concept of self and the symbols case
+
+1687
+00:58:49,560 --> 00:58:50,939
+might be the set of features that are
+
+1688
+00:58:50,940 --> 00:58:52,259
+somehow always with us.
+
+1689
+00:58:52,260 --> 00:58:54,629
+There's always accompanying us and always
+
+1690
+00:58:54,630 --> 00:58:56,819
+must be accessible to us, whereas there
+
+1691
+00:58:56,820 --> 00:58:58,199
+are features that are changing all the
+
+1692
+00:58:58,200 --> 00:58:59,529
+time. This is what we call the
+
+1693
+00:58:59,530 --> 00:59:00,539
+environment.
+
+1694
+00:59:00,540 --> 00:59:02,069
+And if we find a structured
+
+1695
+00:59:02,070 --> 00:59:04,499
+representation of all those features,
+
+1696
+00:59:04,500 --> 00:59:06,779
+that would be part of ourself and stick
+
+1697
+00:59:06,780 --> 00:59:08,639
+them onto a world line on something like
+
+1698
+00:59:08,640 --> 00:59:11,129
+a biography, we have what we call
+
+1699
+00:59:11,130 --> 00:59:12,509
+personal identity.
+
+1700
+00:59:12,510 --> 00:59:14,519
+And this personal identity is augmented
+
+1701
+00:59:14,520 --> 00:59:16,439
+with intentional interpretations, which
+
+1702
+00:59:16,440 --> 00:59:18,659
+is one of our main modes of interpreting
+
+1703
+00:59:18,660 --> 00:59:20,339
+the world. So if you have this mechanical
+
+1704
+00:59:20,340 --> 00:59:21,689
+mode of interpretation, if you can see a
+
+1705
+00:59:21,690 --> 00:59:23,609
+mechanism, if you have intentional
+
+1706
+00:59:23,610 --> 00:59:25,889
+deputations, every attribute desires
+
+1707
+00:59:25,890 --> 00:59:28,379
+and needs and wants and intentions
+
+1708
+00:59:28,380 --> 00:59:30,509
+to objects and the world to agents.
+
+1709
+00:59:30,510 --> 00:59:31,980
+And then we have chaotic
+
+1710
+00:59:33,300 --> 00:59:35,159
+representations where we just take the
+
+1711
+00:59:35,160 --> 00:59:37,529
+events to be random and
+
+1712
+00:59:37,530 --> 00:59:39,719
+we take this intentional explanation
+
+1713
+00:59:39,720 --> 00:59:41,519
+and apply it to our self concept.
+
+1714
+00:59:41,520 --> 00:59:43,229
+And then we expand this into a social
+
+1715
+00:59:43,230 --> 00:59:45,329
+persona, into somebody
+
+1716
+00:59:45,330 --> 00:59:46,709
+who relates to the world, to the
+
+1717
+00:59:46,710 --> 00:59:48,989
+environment, to society and so on.
+
+1718
+00:59:48,990 --> 00:59:51,179
+And this is what I think would call
+
+1719
+00:59:51,180 --> 00:59:53,249
+our personal identity.
+
+1720
+00:59:53,250 --> 00:59:54,509
+It's not a thing in the world.
+
+1721
+00:59:54,510 --> 00:59:55,859
+It's a representation.
+
+1722
+00:59:55,860 --> 00:59:56,860
+It's a construction.
+
+1723
+01:00:00,720 --> 01:00:02,369
+I think I would need more than an hour.
+
+1724
+01:00:03,600 --> 01:00:05,459
+Sorry, but I think we should talk
+
+1725
+01:00:05,460 --> 01:00:06,460
+afterwards.
+
+1726
+01:00:09,660 --> 01:00:10,769
+OK, thank you very much.
+
+1727
+01:00:10,770 --> 01:00:12,869
+One last question, I think I'm
+
+1728
+01:00:12,870 --> 01:00:15,089
+switching from the Internet to this
+
+1729
+01:00:15,090 --> 01:00:17,100
+little guy on microphone number four.
+
+1730
+01:00:19,620 --> 01:00:20,620
+Good job.
+
+1731
+01:00:25,300 --> 01:00:26,300
+Thank you.
+
+1732
+01:00:31,790 --> 01:00:33,289
+Thank you very much, your show.
+
+1733
+01:00:34,640 --> 01:00:36,859
+Thank you to thank all of you.
+
+1734
+01:00:36,860 --> 01:00:37,940
+It was very pleasant.
+

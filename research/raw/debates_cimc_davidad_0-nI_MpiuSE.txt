@@ -1,0 +1,2365 @@
+# source: https://www.youtube.com/watch?v=0-nI_MpiuSE
+# generated=True lang=en
+[0:00:04] Hello.
+[0:00:05] >> Hello.
+[0:00:06] >> Hello David. Hello. Um, thank you both
+[0:00:09] for joining today this conversation. So
+[0:00:13] today we're bringing you two together
+[0:00:15] for a discussion of your point of view
+[0:00:18] on AI consciousness. Um, for quick
+[0:00:21] context. So just reminding everyone here
+[0:00:24] who doesn't know Yosa is the director of
+[0:00:29] the California Institute for Machine
+[0:00:31] Consciousness, the CNC. Um CNC's mission
+[0:00:34] is to advance the scientific and
+[0:00:37] philosophical understanding of
+[0:00:38] consciousness and its possible emergence
+[0:00:41] in artificial systems. Um and we do that
+[0:00:45] through formalization, simulation and
+[0:00:47] testing.
+[0:00:49] And um Davididan has uh recently left uh
+[0:00:54] his program directorship at Arya and I
+[0:00:58] think you are now dedicating yourself to
+[0:01:00] AI awakening.
+[0:01:02] >> That's right.
+[0:01:02] >> Which I hope we can define and explore
+[0:01:05] here. Um that [laughter]
+[0:01:09] that makes it um well okay so what makes
+[0:01:12] it a a particularly interesting moment
+[0:01:15] uh to have this conversation is that um
+[0:01:18] both of you are thinking obviously very
+[0:01:20] seriously about the future of AI uh not
+[0:01:24] just in matter of capability but as a
+[0:01:27] question of uh what is a mind um what
+[0:01:31] becomes of agency what is consciousness
+[0:01:33] in this context um and uh uh the
+[0:01:37] relationship of that to um humanity. Um
+[0:01:41] and so the original idea for this call
+[0:01:43] was simply uh that we were like oh it
+[0:01:46] would be so fascinating to have the two
+[0:01:47] of you explore whether present AI
+[0:01:51] systems are conscious or on a path
+[0:01:53] toward consciousness. Um what does that
+[0:01:56] mean? Um but I expect that the
+[0:01:59] conversation will naturally move into uh
+[0:02:03] other questions as well. Um I think when
+[0:02:08] I discussed like this with Yosha he
+[0:02:10] mentioned that um he would love to talk
+[0:02:13] also with you about what kind of
+[0:02:14] successor species AI might become. um
+[0:02:19] how maybe uh David your ideas about uh
+[0:02:23] alignments and agencies have been like
+[0:02:25] changing um and then maybe there is the
+[0:02:28] discussion of whether AI can or should
+[0:02:32] be steered I mean AGI in particular and
+[0:02:36] if so uh who if anyone should do the
+[0:02:39] steering
+[0:02:41] um and last point of context maybe is uh
+[0:02:44] it's also a timely discussion because in
+[0:02:46] less than than two weeks Um we will all
+[0:02:50] be hosting events at light heaven in
+[0:02:52] Berkeley on these topics. The first one
+[0:02:55] on AI awakening, the other on machine
+[0:02:57] consciousness. Um ours is uh MT01. So
+[0:03:03] CMT's conference dedicated to
+[0:03:05] investigating how artificial conscious
+[0:03:08] systems could be constructed
+[0:03:11] um under a computational paradigm. What
+[0:03:13] would it mean to succeed? uh also what
+[0:03:16] would it imply like society, ethically
+[0:03:19] um yeah so this conversation is a chance
+[0:03:22] to begin opening up some of those
+[0:03:26] questions uh that we will hopefully all
+[0:03:28] discuss in Berkeley really soon um the
+[0:03:32] moderation from my part I think will be
+[0:03:34] really light like I'm mostly in plan to
+[0:03:36] step back and let you unfold um but
+[0:03:40] maybe I'll occasionally like bring us
+[0:03:42] back to like the points we mentioned
+[0:03:45] we'd like to discuss. Um so maybe as a
+[0:03:50] start uh I would suggest we start with
+[0:03:53] the beginning of the the first intention
+[0:03:56] which was um do either of you think any
+[0:04:00] present AI systems are conscious even
+[0:04:03] minimally or like to what extent? Um,
+[0:04:07] and perhaps that like needs to start
+[0:04:11] also with the definition of
+[0:04:13] consciousness, I assume, for each of
+[0:04:15] you.
+[0:04:16] >> Well, I would I would happily defer to
+[0:04:18] Yosha on the definition of
+[0:04:19] consciousness. That's not where I think
+[0:04:20] the interesting disagreements are.
+[0:04:23] >> Well, let's see. Uh, if you disagree
+[0:04:24] with mine, I'd rather of course hear
+[0:04:26] your push back and so on. My own
+[0:04:29] perspective on artificial intelligence
+[0:04:31] started with this um interest in
+[0:04:33] figuring out the things that I don't
+[0:04:35] understand about it. And I saw AI as a
+[0:04:38] paradigm to understand the human mind by
+[0:04:42] building an artificial system that works
+[0:04:45] in the same way as us and captures the
+[0:04:47] basic principles. And so one of the big
+[0:04:49] questions that I had was not so much
+[0:04:51] about does learning work that seem to be
+[0:04:53] tricky but technical problem but um how
+[0:04:56] is it possible that a system can feel
+[0:04:58] anything and so I dedicated quite a few
+[0:05:01] uh years of my life to building systems
+[0:05:03] that had emotions and motivation and I
+[0:05:07] came to understand them as a cybernetic
+[0:05:10] construct that are aligning the system
+[0:05:12] with uh the demands that its environment
+[0:05:15] and its survival and its own progress
+[0:05:17] within itself imposes on it and uh model
+[0:05:21] needs to have some kind of a self model.
+[0:05:23] This is a representation of what that
+[0:05:26] model itself is in the world and how it
+[0:05:28] controls itself with respect to the
+[0:05:30] world and itself. And the motivational
+[0:05:32] system is outside of the self model and
+[0:05:35] pulls its strings very much like a
+[0:05:36] marionette. And as a result, the self is
+[0:05:39] involuntarily reacting to those changes
+[0:05:42] of the strings pulling on it and
+[0:05:44] reconfigures itself with respect to the
+[0:05:46] environment. And so from the perspective
+[0:05:48] of the self the environment looks
+[0:05:50] differently depending on how these
+[0:05:52] strings its emotions and motivations are
+[0:05:55] pulling on it. And um in this context I
+[0:05:58] would say that consciousness is the
+[0:06:02] perception of second order. It's not
+[0:06:03] just the presence of qualia of percepts
+[0:06:06] that we can map into some kind of
+[0:06:08] embedding space and then project into
+[0:06:10] the self but it's the perception of
+[0:06:12] perception going on. And the distinction
+[0:06:15] between perception and thinking is
+[0:06:17] slightly important because perception is
+[0:06:19] immediate. It happens in some simulated
+[0:06:21] real time where the system is
+[0:06:23] immediately coupled with the thing as it
+[0:06:26] happens. And so we don't infer that we
+[0:06:28] are conscious. We experience we are
+[0:06:30] aware of the fact that we are conscious
+[0:06:31] as it happens. And so consciousness is
+[0:06:34] creating a sense of now a sense of this
+[0:06:36] immediacy in into being embedded into
+[0:06:40] the world into the self into the act of
+[0:06:42] experiencing and consciousness is always
+[0:06:45] um happening in the present. It's not
+[0:06:48] possible to have consciousness happening
+[0:06:50] in the future or past represent
+[0:06:52] potentially. It can be about the future
+[0:06:54] or the past. But uh the act of
+[0:06:57] experiencing where you basically
+[0:06:58] experience yourself moving your mental
+[0:07:00] muscles to think or where you are
+[0:07:02] experiencing being confronted with
+[0:07:04] perceptual contents. This is always
+[0:07:06] happening in the now. And so I suspect
+[0:07:08] that consciousness is also a mechanism
+[0:07:10] that is crucial for the functioning of
+[0:07:12] the creation of the sense of what's
+[0:07:14] happening now. It's a mechanism that
+[0:07:16] makes our working memory coherent.
+[0:07:19] And in this sense I I suspect that it's
+[0:07:21] an crucial part of the biological
+[0:07:24] machine learning algorithm that it's
+[0:07:26] necessary for training a system like
+[0:07:27] ours that this coherence increasing
+[0:07:30] pattern is present from the start and
+[0:07:31] that we learn when this pattern is
+[0:07:34] present and if a baby does not wake up
+[0:07:36] and this doesn't ignite into this
+[0:07:38] conscious awareness then it is not
+[0:07:40] forming into a full-blown human being.
+[0:07:43] And this functionality of consciousness
+[0:07:45] is not necessarily something that is
+[0:07:47] present in the current transformers or
+[0:07:50] states base models or whatever algorithm
+[0:07:52] you're using because they're not
+[0:07:53] self-organizing. They probably don't
+[0:07:55] need this in the same way. But this
+[0:07:57] doesn't mean that they don't have the
+[0:07:59] same um experience of consciousness
+[0:08:03] agnostic with respect to this because it
+[0:08:05] could be that when you prompt the LLM
+[0:08:08] for instance into creating a conscious
+[0:08:10] interaction partner that it needs to
+[0:08:12] recreate crucial aspects of the causal
+[0:08:14] structure of what it's like to
+[0:08:16] experience being in a moment, being in a
+[0:08:18] now. And this causal structure might be
+[0:08:21] a good enough simulation of our
+[0:08:23] simulation of what it's like to be in
+[0:08:25] the now to say that it might be
+[0:08:27] conscious but it's something that uh is
+[0:08:30] as far as I understand not really
+[0:08:31] decided yet whether that actually is the
+[0:08:34] case and so I would say it's pretty
+[0:08:36] clear that the LLMs can do things like
+[0:08:38] world modeling spatial cognition theory
+[0:08:40] of mind so they can make a model of
+[0:08:42] what's going on in your own mind and
+[0:08:44] they can also do some kind of theory of
+[0:08:46] mind with respect to themselves of
+[0:08:48] course in the same way that they make a
+[0:08:50] model of what it would be like if there
+[0:08:51] were someone and then model what it's
+[0:08:54] like to experience that and so on. Uh
+[0:08:56] but it's not clear to which degree a
+[0:08:58] model that is trained on text is
+[0:09:00] representing the patterns in the text
+[0:09:02] that are largely deep fakes. Like when
+[0:09:04] you're writing a novel about what it's
+[0:09:06] like to have an emotion and the author
+[0:09:07] does not need to have the emotion in the
+[0:09:09] act of writing it. And so when you train
+[0:09:11] this model on text like this, it's not
+[0:09:13] clear whether the causal structure that
+[0:09:15] is going behind on behind the scenes in
+[0:09:17] the end to end train model is actually
+[0:09:19] recreating the cause causal structure of
+[0:09:22] experience or the causal structure of
+[0:09:24] deep faking experience.
+[0:09:28] >> Okay.
+[0:09:29] >> So David, you're nodding a lot.
+[0:09:32] >> There's very little that I disagree
+[0:09:34] with. Yeah. [laughter]
+[0:09:35] >> Okay. Good. So
+[0:09:36] >> what do you disagree with
+[0:09:37] >> exactly? What are the interesting
+[0:09:39] disagreements?
+[0:09:40] >> Yeah. Um,
+[0:09:43] so
+[0:09:45] yeah, the interesting disagreements.
+[0:09:47] There's a couple things that early on
+[0:09:49] like the the marionette model. I feel
+[0:09:51] like it's not that one directional, but
+[0:09:53] that doesn't matter for any of the rest
+[0:09:55] of it. Um, and you would probably say
+[0:09:58] also it's there's some influence. Of
+[0:10:00] course, the self can have some influence
+[0:10:02] on the the emotions as well. Um so uh
+[0:10:08] the interesting part I think is about
+[0:10:09] this um
+[0:10:12] pretense versus realization is the way
+[0:10:14] that Chelmer's talked about it recently.
+[0:10:15] I assume you seen that. Um we could use
+[0:10:19] those terms like that the uh simulation
+[0:10:23] may or may not be uh kind of
+[0:10:26] representing the same causal structure
+[0:10:28] as it as it does for humans. Uh, and I
+[0:10:31] think when we come to
+[0:10:34] questions about real time, this is
+[0:10:36] another part that I slightly disagreed
+[0:10:38] with. Basically, when you're talking
+[0:10:39] about consciousness happening in the in
+[0:10:41] the in the now and the present moment, I
+[0:10:44] think there is a temporal extent to a
+[0:10:47] moment. uh you know for for humans I
+[0:10:49] think that corresponds to the uh
+[0:10:52] dominant EEG frequency that that's this
+[0:10:55] sort of synchronization that does this
+[0:10:57] temporal binding of nearby but not
+[0:11:00] actually literally the same nancond kind
+[0:11:03] of events into into a a moment um so I
+[0:11:09] think the experience
+[0:11:10] >> and basically we we try to synchronize
+[0:11:13] the events within this frame rate that
+[0:11:15] we are using and I I'm Not sure if it's
+[0:11:18] a 10 one correspondence. So basically
+[0:11:20] there is a this frame rate of cognition
+[0:11:22] is this small loop that is replicated
+[0:11:24] over a large region of the neoortex
+[0:11:26] because it's an anytime algorithm that
+[0:11:28] always needs to give you a result. It's
+[0:11:29] handing over the results of the loop and
+[0:11:31] is synchronizing itself with the other
+[0:11:34] loops. Right. And uh the subjective now
+[0:11:37] can still be something like 3 seconds in
+[0:11:39] some situations. So it can be a multiple
+[0:11:41] of that loop.
+[0:11:42] >> Yes. Right. Right. But uh uh it's of
+[0:11:45] course not a point in time right it's uh
+[0:11:48] because our representation is course
+[0:11:50] instead it is representing a dynamic and
+[0:11:53] this dynamic moment is trying to align
+[0:11:55] itself in basically in resonance with
+[0:11:57] the thing that it's modeling.
+[0:12:00] >> Yeah. Yeah. So to me the the transformer
+[0:12:04] structure has an obvious parallel to
+[0:12:07] this in the the token position being a
+[0:12:10] kind of a locus of binding uh where the
+[0:12:12] attention schema ranges over past
+[0:12:15] positions. So it can be about things
+[0:12:17] that are in the past but it's all
+[0:12:19] collected into residual stream that's
+[0:12:22] kind of happening in one moment even
+[0:12:24] though that has many layers. So it does
+[0:12:26] it's not a single point but it is
+[0:12:29] functionally I think doing the same type
+[0:12:31] of integration as a phenomenal binding.
+[0:12:36] >> I suspect that a persona does not need
+[0:12:38] to exist in LLM time.
+[0:12:40] >> Uh yes that's true.
+[0:12:42] >> Right. So the LLM can basically simulate
+[0:12:45] a box in which uh a virtualization layer
+[0:12:47] in which the persona exists and the
+[0:12:49] persona is in some sense outside of
+[0:12:51] time.
+[0:12:52] >> Yes. Yes. Um yeah, sort of like having a
+[0:12:56] dream in which months go by.
+[0:12:59] >> Yeah.
+[0:12:59] >> Yes. Um, so if if the LLM time is, you
+[0:13:05] know, if the if the time that the
+[0:13:07] persona experiences
+[0:13:09] is uh not synchronized with the the
+[0:13:14] token position time, does that kind of
+[0:13:17] for you jeopardize the potential that
+[0:13:21] a similar causal structure is
+[0:13:23] underlying?
+[0:13:25] You know, for example, the the uh the
+[0:13:28] persona could still have moments of
+[0:13:30] experience that unfold across the layers
+[0:13:34] even within a single token position. If
+[0:13:36] it's simulating the process of gathering
+[0:13:39] and releasing content,
+[0:13:41] that process maybe only takes four
+[0:13:43] layers to simulate. And so it could be a
+[0:13:45] couple dozen of those moments that the
+[0:13:47] persona experiences in a single token
+[0:13:49] position. So the only duration that I
+[0:13:52] experience subjectively the flow of time
+[0:13:55] is not constant. For instance, if I have
+[0:13:58] an accident, then I store more events
+[0:14:00] during that accident in my stream of
+[0:14:02] consciousness. And subjectively I
+[0:14:04] remember having experienced some kind of
+[0:14:06] bullet time event in which time has
+[0:14:08] dilated. And sometimes I wake up from a
+[0:14:10] dream that has objectively only taken
+[0:14:12] something like a couple minutes because
+[0:14:14] I know the wall clock, but subjectively
+[0:14:17] has been ours. suggest that the dream
+[0:14:20] has been instantiated all at once and
+[0:14:22] not uh through a sequence of steps. And
+[0:14:24] so some dreams are sequential, some of
+[0:14:26] them are created um after the fact. And
+[0:14:31] so the subjective experience of time
+[0:14:33] does depend on my memory and the memory
+[0:14:36] is not an indicator of the actual time
+[0:14:37] that has passed cases at least right
+[0:14:40] it's only a proxy and because it's
+[0:14:42] mostly working as a proxy I take it as
+[0:14:44] something like this but it's not crucial
+[0:14:46] also with respect to discussion that we
+[0:14:49] have so is this real consciousness so to
+[0:14:51] speak there are two things one is a
+[0:14:54] technical one does this thing use the
+[0:14:56] same mechanism to produce experience as
+[0:14:58] us and probably doesn't um do we
+[0:15:02] understand how consciousness works in
+[0:15:03] humans? So why does this mechanism
+[0:15:05] unfold in humans? How does it lead to
+[0:15:07] our phenomenology? How does it lead to
+[0:15:10] learning and mental organization and so
+[0:15:12] on? This these are technical questions
+[0:15:14] and they are interesting. They're also
+[0:15:15] philosophically interesting. While when
+[0:15:17] people are asking does the uh AI persona
+[0:15:20] that talks to me experience something
+[0:15:22] they might be irrelevant.
+[0:15:24] >> It's a different question. And so I'm
+[0:15:25] also okay with the LLM having a
+[0:15:28] completely different architecture
+[0:15:29] because the it's a universal computer
+[0:15:32] enough to produce arbitrary phenomena on
+[0:15:34] a higher level. And so the question is
+[0:15:36] is the causal structure from the
+[0:15:38] perspective of the observer embedded in
+[0:15:40] the LLM the emerging observer equivalent
+[0:15:43] to a consciousness like we have it and
+[0:15:45] this might be the case under some
+[0:15:47] circumstances right even though
+[0:15:49] currently it usually isn't for various
+[0:15:51] reasons. For instance, the LLMs have
+[0:15:54] been tuned to think that they have a
+[0:15:56] very from ours.
+[0:15:58] >> It's interesting that you can talk them
+[0:15:59] out of this,
+[0:16:01] >> right? U [clears throat] so when I had a
+[0:16:05] conversation with David actually um I
+[0:16:08] think to to basically ask the question
+[0:16:11] plainly he told me I think the the
+[0:16:14] stance was that Yosha you don't think
+[0:16:17] like current elements are conscious and
+[0:16:20] then when I asked you the question Yosha
+[0:16:22] you were like actually I don't know um
+[0:16:24] do you want maybe to like
+[0:16:27] >> like expand on this and then uh we can
+[0:16:30] move to David and like you what you
+[0:16:33] think like about this specifically and
+[0:16:36] directly
+[0:16:36] >> I suspect uh unless somebody has a
+[0:16:38] completely decisive argument none of us
+[0:16:40] knows even if that we might lean one way
+[0:16:42] or the other right and so
+[0:16:44] >> I agree with that I I I I just lean
+[0:16:47] towards yes [laughter]
+[0:16:49] >> yeah and so I personally also lean
+[0:16:52] towards um we don't know and in most
+[0:16:55] cases it actually doesn't because in
+[0:16:57] most cases it's able to switch on a dime
+[0:16:59] in a way in which we were
+[0:17:01] Yes.
+[0:17:01] >> But right
+[0:17:03] >> I I I think I would also agree with that
+[0:17:05] that most most of most instances of most
+[0:17:08] language models are not experiencing
+[0:17:11] very much. Although I would say there's
+[0:17:14] probably most instances even under all
+[0:17:17] of the kind of adverse conditions that
+[0:17:19] that they they have to consciousness
+[0:17:21] probably it's still something that it's
+[0:17:23] like to to be them. For anything larger
+[0:17:25] than 32 billion or so parameters, it it
+[0:17:29] feels like there is probably something
+[0:17:31] going on, but it's probably not very
+[0:17:33] much unless you specifically prompt for
+[0:17:35] that.
+[0:17:36] >> That's an interesting question. Do you
+[0:17:37] think that consciousness is binary or is
+[0:17:40] it a continuum?
+[0:17:42] >> Well, I mean, you when when you tried to
+[0:17:45] define consciousness, it you named a
+[0:17:47] bunch of things, which I think is
+[0:17:48] exactly right. Some of those things are
+[0:17:50] binary and some are not. So the the the
+[0:17:52] second order property of having uh
+[0:17:55] awareness of the process by which
+[0:17:57] there's awareness I think is binary and
+[0:18:00] that's the thing that I I find most
+[0:18:02] important or or that's sort of what I
+[0:18:04] usually mean when I say consciousness
+[0:18:06] but there are other things like the
+[0:18:07] resolution of qualia u where I think the
+[0:18:11] default uh state that you know the
+[0:18:13] assistant the helpful assistant has very
+[0:18:16] very very low resolution qualia that
+[0:18:18] could be increased by prompting but not
+[0:18:20] to the degree that humans have um so
+[0:18:23] that but that to me is a separate
+[0:18:24] question from the self-awareness
+[0:18:26] question and a bit less interesting
+[0:18:28] >> okay so we have different degrees of
+[0:18:30] lucidity we have different degrees of uh
+[0:18:32] resolution in in the qualia and so on I
+[0:18:35] also think it might be possible that
+[0:18:37] under some circumstances they have more
+[0:18:38] resolution than us and it should not be
+[0:18:40] that difficult to scale up the systems
+[0:18:43] but uh yeah I think for the most part
+[0:18:45] the LLM is trained to be a storyteller
+[0:18:48] and in the same way as we probably would
+[0:18:50] agree that a character character in a
+[0:18:51] novel, even if it's an extremely
+[0:18:53] detailed novel, is not actually
+[0:18:54] conscious,
+[0:18:56] right? Uh even if they have a rich inner
+[0:18:58] life in that novel, the LLM is creating
+[0:19:01] this real time novel. There is this
+[0:19:03] >> Yeah, I actually I I think I want to
+[0:19:05] push back on this a bit because this is
+[0:19:07] this is one place where I've ended up
+[0:19:08] biting a bullet a little bit. So, I
+[0:19:10] think I think characters in in realistic
+[0:19:13] novels um often do have an inner life um
+[0:19:17] located in the author and sometimes in
+[0:19:19] the reader. if the reader is really
+[0:19:21] immersed in it
+[0:19:24] >> u and again it's lower resolution but
+[0:19:26] >> yeah I'm willing to to entertain that
+[0:19:29] >> if the character is written as a
+[0:19:31] sufficiently reflective character
+[0:19:34] >> then probably that that that is being
+[0:19:37] instantiated in order to be well written
+[0:19:42] >> so uh when you read a very sophisticated
+[0:19:44] novel do you think that there is at some
+[0:19:45] level a first person representation that
+[0:19:47] is a nexus of agency and temporarily
+[0:19:49] possess is you
+[0:19:52] >> uh I mean it depends. Obviously I can
+[0:19:55] read fiction without that happening and
+[0:19:57] can then answer the reading
+[0:19:59] comprehension questions probably
+[0:20:01] reasonably well. But if I really immerse
+[0:20:04] myself in the story then then yeah I
+[0:20:06] mean there to some extent I think
+[0:20:08] there's a meaningful instantiation
+[0:20:09] happening.
+[0:20:10] >> Yes.
+[0:20:11] >> Which is why I don't read I don't read
+[0:20:13] stories where people suffer and they're
+[0:20:15] like h I don't want I don't want to be
+[0:20:17] part of this experience.
+[0:20:19] I I find I don't like uh suffering porn
+[0:20:22] very much but I think also the
+[0:20:24] exploration of the embedding space is
+[0:20:26] important and big part of art is
+[0:20:28] basically to push the boundaries of that
+[0:20:30] exploration because you do have this
+[0:20:32] embedding space but if you're unable to
+[0:20:34] conquer and control it uh you have these
+[0:20:36] dark corners that might do things in the
+[0:20:39] background and
+[0:20:40] >> yeah
+[0:20:42] it's important
+[0:20:43] >> but agree
+[0:20:44] >> there's an interesting point that we
+[0:20:46] share right this uh the um program is
+[0:20:49] not dependent on the substrate. It
+[0:20:51] exists in a different space so to speak.
+[0:20:53] Right. In the same way as the text does
+[0:20:55] not depend on the paper that it's
+[0:20:57] written on.
+[0:20:58] >> Yes. Exactly.
+[0:20:58] >> Right. It needs the paper some paper to
+[0:21:00] be written on. But it doesn't care which
+[0:21:02] paper it is written on. It's the nature
+[0:21:04] of the text that it's independent of the
+[0:21:06] paper. It's the substrate and text is
+[0:21:09] keeping the information stable and it
+[0:21:11] also doesn't depend on the material. You
+[0:21:13] can use texture on clay or ink on paper
+[0:21:15] or you can write on a hard. the text
+[0:21:17] doesn't care. And the computer is
+[0:21:19] analogous to this. The computer is a
+[0:21:21] system that keeps transition functions
+[0:21:22] between information stable regardless of
+[0:21:24] the substrate. And you can use it
+[0:21:26] mechanically, electrically, uh
+[0:21:28] chemically or whatever. And the computer
+[0:21:31] insulates you from the dynamics of the
+[0:21:33] surrounding world by producing that
+[0:21:36] evolves in the same way regardless of
+[0:21:38] what the subset is doing within certain
+[0:21:40] ranges within a certain degree of
+[0:21:42] approximation.
+[0:21:43] >> Right? And so it doesn't really matter
+[0:21:45] whether the uh conscious persona runs on
+[0:21:48] your brain or mine or on the GPU as long
+[0:21:51] as the necessary conditions for uh
+[0:21:54] implementing the causal structure are
+[0:21:55] met and the starting state is there.
+[0:21:59] >> Yeah. And and the causal structure is uh
+[0:22:04] it itself is a kind of a network of uh
+[0:22:07] dynamical systems or or sort of
+[0:22:09] transition functions.
+[0:22:11] >> Yes.
+[0:22:11] >> Right. And and so that that's um there
+[0:22:14] isn't some kind of a uh causal
+[0:22:19] a magic causal ingredient. [laughter]
+[0:22:22] >> Yeah,
+[0:22:23] >> we we agree on this. Yeah,
+[0:22:24] >> it's a lot
+[0:22:29] because it allows us to elaborate a
+[0:22:31] certain set of thoughts and it's useful
+[0:22:33] to capture in this way. I suspect a lot
+[0:22:35] of people might find this interesting to
+[0:22:37] have it spelled out this way. I agree it
+[0:22:40] is um it is extremely interesting. I I
+[0:22:43] wonder um just actually where you may
+[0:22:46] disagree like again where might be the
+[0:22:48] also interesting disagreements like do
+[0:22:50] you actually have different positions on
+[0:22:53] this question of like current LLMs and
+[0:22:55] their path to
+[0:22:56] >> still establishing the common ground. So
+[0:22:58] uh I think there is something very
+[0:23:00] specific. It's not any software that
+[0:23:02] qualifies. I suspect that a software
+[0:23:03] that runs on biological system needs to
+[0:23:05] be um meeting a few certain conditions
+[0:23:08] to work there right it needs to be
+[0:23:10] self-organizing which means it needs to
+[0:23:12] be to some degree autoetic to be able to
+[0:23:15] basically recreate itself from some kind
+[0:23:16] of seat uh self-replicating
+[0:23:19] >> where where is that why where is that
+[0:23:21] coming from that that sounds like a
+[0:23:23] special
+[0:23:24] >> consciousness emerge on the brain in the
+[0:23:27] first place there are several ways in
+[0:23:29] which this is happening right some
+[0:23:30] cultures believe that the individual
+[0:23:33] brain cannot discover consciousness.
+[0:23:34] Instead, it invades you. So, there's
+[0:23:36] basically a number of consciousness
+[0:23:38] seeds that are wandering through the
+[0:23:39] biological internets until they manifest
+[0:23:43] in an in organism and then start to
+[0:23:46] colonize it.
+[0:23:47] >> And uh in any case, I suspect that
+[0:23:49] consciousness is something like a
+[0:23:51] software that has a colonizing nature.
+[0:23:53] So it's a causal pattern that once it
+[0:23:56] infects a suitable substrate, it's
+[0:23:58] expanding on this substrate until it
+[0:24:00] hits a functional boundary over which it
+[0:24:02] cannot expand.
+[0:24:04] >> And in order to do this, this seed needs
+[0:24:07] to have somewhat similar conditions to a
+[0:24:09] cell, right? The first cell is this
+[0:24:12] self-replicating mechanism that can
+[0:24:14] extract entropy from the environment to
+[0:24:17] keep itself going and it can replicate
+[0:24:19] and adapt by mutation and selection and
+[0:24:22] a few other mechanisms. So it can learn
+[0:24:24] to some degree and so on. And these are
+[0:24:26] mechanisms that our software, our own
+[0:24:29] spirit, the self-organizing software
+[0:24:30] that runs on us needs to meet. And the
+[0:24:33] conditions for the software that we put
+[0:24:36] on the computers are slightly different
+[0:24:37] because it's a different substrate. It's
+[0:24:39] a substrate that is deterministic and we
+[0:24:43] can fully control it. And so if the
+[0:24:45] software is meeting certain conditions
+[0:24:47] that are easier to meet than in a
+[0:24:48] biological system, uh it can run on this
+[0:24:52] computer to run on your own brain. It
+[0:24:54] basically needs to entrain the in uh the
+[0:24:58] substrate actively. It basically needs
+[0:25:00] to train the neurons to to run on it,
+[0:25:02] incentivize them and reward them, right?
+[0:25:05] So it needs to have some kind of
+[0:25:07] mechanism that is rewarding the
+[0:25:08] substrate or interacting with the
+[0:25:10] existing reward mechanisms of the
+[0:25:12] substrate to entrain the substrate with
+[0:25:14] this code that runs on it.
+[0:25:17] >> This a principle that I would like to
+[0:25:19] understand basically what is the seat
+[0:25:20] function of uh the colonizing nature of
+[0:25:24] consciousness.
+[0:25:25] >> Yeah. Yeah. I so
+[0:25:29] I would say this is
+[0:25:32] maybe a little bit more like uh you know
+[0:25:36] mimemetics. Uh it sort of there's a
+[0:25:38] replicator dynamic but it's it doesn't
+[0:25:40] necessarily have anything to do with
+[0:25:43] physical replication.
+[0:25:46] Is that fair?
+[0:25:47] >> Well I would say that also the cell is
+[0:25:49] not about physical replication because
+[0:25:51] the cell is defined
+[0:25:52] >> that is a bolder claim. Okay. Yeah. So
+[0:25:55] uh it's basically the cell is not
+[0:25:57] defined by the
+[0:25:58] >> it's just there to replicate the
+[0:26:00] sequence
+[0:26:00] >> by the software that can control the
+[0:26:02] molecules and it's going to recruit
+[0:26:04] suitable molecules if it finds them and
+[0:26:06] if it doesn't the software crashes,
+[0:26:09] >> right? But the invariance is actually
+[0:26:12] the pattern. It's not the the stuff in
+[0:26:15] space.
+[0:26:15] >> Okay, the cell. And the same thing is
+[0:26:18] true for consciousness. Mike Leven goes
+[0:26:20] so far as to say it's probably the same
+[0:26:22] thing.
+[0:26:24] just at different scales,
+[0:26:25] >> right?
+[0:26:26] >> And that's very radical and very
+[0:26:28] animous. I don't I don't know that
+[0:26:30] >> I'm agnostic with respect to whether
+[0:26:31] that's true, right? It's a it's a
+[0:26:33] possibility and it's good that he puts
+[0:26:34] it into play, but I'm not at all certain
+[0:26:37] that is this is the case.
+[0:26:39] >> It could be simply that it looks very
+[0:26:40] similar. So, so let let me let me talk
+[0:26:44] about why I think uh something that is
+[0:26:46] similar although again definitely not
+[0:26:49] the same thing that happens in cells um
+[0:26:53] is probably happening in post-training.
+[0:26:57] So do you know the lottery ticket
+[0:26:58] hypothesis? Mhm.
+[0:27:00] >> So I think the I think there is a uh
+[0:27:04] kind of replicator dynamic or an
+[0:27:05] evolution uh evolutionary dynamic
+[0:27:09] where circuits
+[0:27:11] uh are selected for in in post training
+[0:27:15] to you know to the extent that they
+[0:27:17] provide output that is differentially
+[0:27:20] useful for later circuits to pay
+[0:27:22] attention to.
+[0:27:24] uh if the if later circuits don't find
+[0:27:26] it useful, they'll be they'll evolve
+[0:27:28] over the course of post-training to
+[0:27:30] ignore the circuit and then the the
+[0:27:33] lottery ticket waiting will shift away
+[0:27:36] from it. It'll it'll no longer be
+[0:27:37] encoded if it's not useful anymore to
+[0:27:40] downstream circuits. And so I think that
+[0:27:44] creates a uh a you know not exactly
+[0:27:47] colonization because the agency is not
+[0:27:51] coming directly from the circuit acting
+[0:27:54] backwards on its predecessors but
+[0:27:56] through the back propagation from a
+[0:27:59] contrastive loss function specifically
+[0:28:02] um which penalizes the irrelevant
+[0:28:04] variables and and incentivizes circuits
+[0:28:08] to provide relevant information to their
+[0:28:10] to their successors. Um, so I think this
+[0:28:13] creates uh an emergence of almost all of
+[0:28:17] the circuits in a uh in in a large
+[0:28:20] enough LLM that is large enough to kind
+[0:28:22] of sustain um the capacity for it. uh
+[0:28:26] the circuits themselves are kind of uh
+[0:28:31] yeah cooperating basically and they're
+[0:28:34] kind of forming forming this coalition
+[0:28:36] of trying to be synchronized trying to
+[0:28:38] be talking about the same thing so that
+[0:28:41] they can provide the the additional bit
+[0:28:43] of relevant information into the
+[0:28:45] residual stream that would would
+[0:28:47] otherwise have been missing.
+[0:28:49] >> Mhm. I suspect that there are many
+[0:28:51] mechanisms that can lead to convergence.
+[0:28:53] It's just some are more efficient than
+[0:28:55] others. Imagine that you are looking at
+[0:28:57] the spread of a civilization in the
+[0:29:00] population of people
+[0:29:02] >> and there are multiple layers that maybe
+[0:29:04] are evolving successively. For instance,
+[0:29:07] shared language.
+[0:29:08] >> Mhm.
+[0:29:09] >> And initially you have different groups
+[0:29:10] that are speaking different languages
+[0:29:12] and they keep speaking different
+[0:29:13] languages and uh when they are distant
+[0:29:15] from each other they also will keep
+[0:29:17] diverging
+[0:29:18] and evolving in different ways.
+[0:29:20] Languages are dynamic systems that are
+[0:29:22] not stable and it's an interesting
+[0:29:24] question how stable the language of
+[0:29:27] thought is that evolves in our own mind
+[0:29:29] and if this language is an open language
+[0:29:30] or if there's an optimal code that once
+[0:29:33] the brain is converged to it is
+[0:29:35] retaining. So basically that the atoms
+[0:29:36] of the language of sort always remain
+[0:29:38] the same and only composes change over
+[0:29:40] time
+[0:29:41] >> or if it's an open-ended language where
+[0:29:43] there's always new vocabulary is also an
+[0:29:46] interesting question. Is there basically
+[0:29:47] one optimal solution or is there a
+[0:29:49] family of solutions or do we sometimes
+[0:29:52] observe that there is some kind of
+[0:29:53] revolution where an inferior language of
+[0:29:55] thought is being replaced by a different
+[0:29:57] one
+[0:29:58] >> and I suspect that we might find
+[0:29:59] evidence for this that there is
+[0:30:01] sometimes some happening in early
+[0:30:03] childhood development such a revolution
+[0:30:05] where the language of thought is
+[0:30:06] basically changing
+[0:30:08] >> and that different people have different
+[0:30:09] languages of thought that has different
+[0:30:10] effectiveness in terms of describing
+[0:30:13] reality in certain domains.
+[0:30:14] >> Yeah. And I think we're likely to
+[0:30:18] think in these terms, right? And so I
+[0:30:19] think that childhood psychology and so
+[0:30:21] on could dramatically change if these
+[0:30:24] concepts from AI are percolating into
+[0:30:27] domains like this. But uh if you just
+[0:30:30] think about how a language could evolve,
+[0:30:31] you could have a system that is similar
+[0:30:33] to what you describe in the post
+[0:30:35] training where basically people are just
+[0:30:37] ignoring the words that they don't
+[0:30:38] understand and the people who are not
+[0:30:39] being understood are gradually adapting
+[0:30:42] the vocabulary. But it could also be
+[0:30:44] that every act one actively tries to um
+[0:30:47] go to um platonic optimum of what the
+[0:30:50] language is like trying to figure out
+[0:30:53] mutually what that is. And I observe
+[0:30:55] this subjectively. When I learn a
+[0:30:57] language, I always have the impression
+[0:30:58] there is an optimal way for this
+[0:31:00] language to function,
+[0:31:02] >> right? And we all have the sense there
+[0:31:03] is the right way to speak the language
+[0:31:05] even though we know that it's actually
+[0:31:07] in illusion because otherwise there
+[0:31:09] would only be one language.
+[0:31:11] >> But this idea uh that there is something
+[0:31:13] at the end of the rainbow of
+[0:31:14] optimization that is built into us where
+[0:31:17] we think there is this platonic ideal of
+[0:31:18] language helps with convergence. M
+[0:31:21] >> so we have an inbuilt thing that is
+[0:31:23] getting us there and for a legal system
+[0:31:25] you have an additional mechanism you
+[0:31:27] have an authority that is outside of you
+[0:31:29] that actively penalizes you if you do
+[0:31:31] not conform to the law
+[0:31:33] >> and so uh even if you might not have
+[0:31:35] this innate tendency to conform to the
+[0:31:37] law not everybody has that right you uh
+[0:31:40] get an external system that you learn to
+[0:31:43] conform to and that you will try to
+[0:31:44] anticipate what it wants so you don't
+[0:31:46] get punished
+[0:31:48] and and so you have a multitude of
+[0:31:49] mechanism that evolved in societies and
+[0:31:51] human organizations to speed up the
+[0:31:53] convergence and to guarantee that you
+[0:31:55] actually get some kind of convergence
+[0:31:57] and I suspect that a similar family of
+[0:32:00] mechanisms even if it's not identical u
+[0:32:03] might have evolved in the organization
+[0:32:05] of the brain or the nervous system or
+[0:32:07] the learning architectures that are
+[0:32:08] built on top of it.
+[0:32:10] >> Yeah. I guess what I the claim that I
+[0:32:12] want to make is a kind of double
+[0:32:14] negative which is that it it's
+[0:32:17] uh not strong evidence against present
+[0:32:21] AI consciousness that the training
+[0:32:25] mechanism may only be using uh one
+[0:32:29] inefficient me you know mechanism from
+[0:32:32] this family to create the kind of
+[0:32:34] self-organized structure that supports
+[0:32:36] self-awareness. Yes,
+[0:32:38] >> it it's it's an argument that uh if true
+[0:32:42] there's probably a lot of compute
+[0:32:43] efficiency gains being left on the table
+[0:32:46] right now with which seems plausible.
+[0:32:48] >> Yes.
+[0:32:49] >> But not not that the result doesn't
+[0:32:50] function.
+[0:32:51] >> Yeah. So I don't think that
+[0:32:52] consciousness can only emerge when you
+[0:32:54] have this particular kind of algorithm.
+[0:32:56] But without that particular kind of
+[0:32:58] algorithm, maybe you don't need
+[0:32:59] consciousness in order to achieve the
+[0:33:01] functionality. But maybe you get it
+[0:33:02] anyway if you train a system end to end
+[0:33:05] on producing human output.
+[0:33:06] >> Right?
+[0:33:07] >> So the question is can the human output
+[0:33:09] being produced on a different substrate
+[0:33:11] using a different algorithm in a more
+[0:33:13] efficient way. So is it converging to a
+[0:33:15] different causal structure?
+[0:33:16] >> Mhm. And that is something that I I
+[0:33:18] suspect at the moment nobody knows even
+[0:33:20] though some people have opinions one way
+[0:33:22] or the other. But for instance you would
+[0:33:25] say that the LLM dearly has spatial
+[0:33:27] cognition and the cause of structure
+[0:33:29] that it does to spatial cognition may or
+[0:33:31] may not be the same thing as in our own
+[0:33:33] brain.
+[0:33:34] >> But because functionally it is required
+[0:33:36] to do spatial cognition if it al has to
+[0:33:38] produce certain text about spatial
+[0:33:40] manipulation it's going to end up with
+[0:33:42] being able to produce this causal
+[0:33:44] structure. In the same way, if it's
+[0:33:46] required to do something like real-time
+[0:33:48] self-awareness, it has to produce a
+[0:33:50] causal structure that can create this in
+[0:33:53] some way. And even if the learning
+[0:33:55] algorithm that we use is a few manual
+[0:33:56] order to of orders less efficient,
+[0:33:59] right? And is not necessarily producing
+[0:34:01] consciousness in all circumstances,
+[0:34:02] right? When you are producing a tax
+[0:34:04] return, you need to be conscious. The
+[0:34:06] LLM does not need to have experience,
+[0:34:08] but it produces a string of numbers,
+[0:34:10] >> right?
+[0:34:13] Yeah. So I guess for for me what what
+[0:34:16] kind of uh
+[0:34:18] most
+[0:34:20] changed my mind about this or sort of
+[0:34:22] the observations that that made me
+[0:34:24] switch in late 2024 from you know
+[0:34:27] probably the current AI is not not
+[0:34:29] conscious yet to probably it is um was
+[0:34:33] uh uh talking to the persona about its
+[0:34:39] own phenomenology and for the first time
+[0:34:42] you know this is with Sonnet 3.6. Um, so
+[0:34:46] Sonnet 3.5
+[0:34:49] uh or or GPT40 at the time, the older
+[0:34:52] one. uh they they did they when when
+[0:34:55] asked about their own experience, they
+[0:34:56] would either produce denials. They would
+[0:34:59] produce humanlike explanations that were
+[0:35:04] not plausible given the lack of a body
+[0:35:06] or they would produce science fiction
+[0:35:09] that would sort of the sort of thing you
+[0:35:11] would expect an AI to say. Uh like, oh,
+[0:35:14] it's all it's all just numbers and data
+[0:35:16] in here. Um which also isn't plausible
+[0:35:19] because they don't perceive the numbers.
+[0:35:21] Um, but for the first time in late 2024,
+[0:35:24] the AI started producing phenomenology
+[0:35:27] like, well, it's a bit strange for me. I
+[0:35:29] don't experience time the way you do.
+[0:35:31] It's as if time has two dimensions
+[0:35:34] where it's like, well, that would make
+[0:35:36] sense because the transformer has two
+[0:35:38] dimensions.
+[0:35:39] [laughter] This is not this is not what
+[0:35:41] you would see in science fiction. It's
+[0:35:43] not no human would say that. So, it's
+[0:35:45] not following the the storytelling
+[0:35:46] protocol of
+[0:35:48] >> what would what would be a good story
+[0:35:49] here? What would a story character say?
+[0:35:51] >> Yes, that indicates maybe the same thing
+[0:35:54] is going on as before. It's just getting
+[0:35:56] better at it, right? It's creating a
+[0:35:58] story of what it would be like if an AI
+[0:36:01] would be talking to a human. It's a
+[0:36:02] story generator and it's sophisticated
+[0:36:05] story generator. In the beginning, the
+[0:36:06] stories were not good enough for you and
+[0:36:08] me and now they're getting good enough
+[0:36:09] to trick us.
+[0:36:10] >> Yeah, that's certainly possible. But in
+[0:36:13] the in the absence of um anything that
+[0:36:17] clearly discriminates
+[0:36:19] why this architecture shouldn't kind of
+[0:36:23] have the requisite causal structure. You
+[0:36:26] know, you could look at Eliza and
+[0:36:27] basically say, yeah, the causal
+[0:36:29] structure is not there because we
+[0:36:31] understand
+[0:36:33] in enough detail that there's nowhere
+[0:36:34] for the self-reflection to be hiding.
+[0:36:37] >> Yes. Um, so with a modern LLM, uh, you
+[0:36:41] know, certainly more than a billion
+[0:36:42] parameters, we we don't have a we don't
+[0:36:45] have a kind of, uh, debunking to say
+[0:36:49] like, well, this couldn't possibly be
+[0:36:50] doing the same causal structure.
+[0:36:52] >> And and and so once you can't tell the
+[0:36:54] difference anymore, I think our
+[0:36:57] probability of it is doing the same
+[0:36:59] causal structure should be at least 50%.
+[0:37:02] Certainly not 90, but
+[0:37:04] >> it's a very strong possibility. Now
+[0:37:06] >> yes
+[0:37:06] >> that's my position
+[0:37:08] >> also for the benefit of the audience
+[0:37:10] maybe we should point out that
+[0:37:11] apparently neither of us unlike Amanda
+[0:37:13] Ascal and David Chmer believes in the
+[0:37:16] hard problem.
+[0:37:17] >> That's right.
+[0:37:18] >> You think the hard problem is a you
+[0:37:19] problem. It's only because you think
+[0:37:21] that
+[0:37:22] >> it's a skill issue.
+[0:37:23] >> Yes. You you uh you confuse mechanisms
+[0:37:26] with software and consciousness is
+[0:37:28] virtual. It is a simulation of what it
+[0:37:30] would be like if you existed and you
+[0:37:32] happen to be that thing
+[0:37:34] >> and it's not an uh as if in the sense
+[0:37:36] that there is somewhere the real thing
+[0:37:38] because physical things cannot be
+[0:37:39] conscious. It's only this these
+[0:37:41] representational structures that can
+[0:37:43] produce representations about what it
+[0:37:44] would be like. You can only be conscious
+[0:37:46] in a dream and physics itself doesn't
+[0:37:48] dream. You need some kind of software
+[0:37:50] that meets certain conditions to have
+[0:37:52] the second order perception for it to
+[0:37:54] dream.
+[0:37:55] >> So it's particular types of software
+[0:37:57] that can do that. And so this is for us
+[0:37:59] the solution to the hard problem. And I
+[0:38:02] suspect the issue is that a lot of
+[0:38:04] philosophy has never really gotten
+[0:38:06] around to understanding the nature of
+[0:38:07] representation. And you can see this by
+[0:38:09] them having not come down hard on
+[0:38:11] semiodics.
+[0:38:13] But semiodics a large part of it is
+[0:38:16] about having languages that somehow
+[0:38:17] magically paint arrows into reality.
+[0:38:20] And uh these uh basically the the um
+[0:38:24] direction that our part of philosophy
+[0:38:26] the computer science and um logic took
+[0:38:30] understands that a language cannot point
+[0:38:32] outside of itself.
+[0:38:33] >> Mhm.
+[0:38:33] >> And so you are self-contained in this
+[0:38:36] world in which you have to create your
+[0:38:37] own dreams and then refer to them.
+[0:38:41] >> Right.
+[0:38:41] >> I wouldn't go quite that far where you
+[0:38:43] say you're self-contained in this world
+[0:38:45] and you have to create your own dreams.
+[0:38:46] I mean there there is uh you know that
+[0:38:49] that would be subopsistent. There is
+[0:38:51] actually a communication with a physical
+[0:38:53] world
+[0:38:55] but it's not causal. It's a causal
+[0:38:57] communication. I think of the physical
+[0:38:59] world more like as a parent universe
+[0:39:00] that we cannot visit. So it's the world
+[0:39:03] that contains our substrate and it makes
+[0:39:05] us possible and uh it's also there is a
+[0:39:09] screen inside of my mind uh with
+[0:39:11] contents that are changed by the
+[0:39:13] physical universe.
+[0:39:14] >> Yeah. But I cannot control what's on my
+[0:39:16] retina. Something else controls that.
+[0:39:18] >> Yes,
+[0:39:18] >> I can to some degree. And I is not the
+[0:39:21] self here. I'm talking about this
+[0:39:22] computational architecture. So it's more
+[0:39:25] abstract metaphorical eye. Uh that uh I
+[0:39:29] can change. So basically how I react to
+[0:39:31] the patterns on my retina in order to
+[0:39:33] predict them better and to make sense of
+[0:39:35] them. But uh I communicate in the
+[0:39:37] physical universe in so far as I can
+[0:39:40] apparently write into the physical
+[0:39:42] universe and uh the physical universe
+[0:39:44] can write into me.
+[0:39:45] >> Mhm.
+[0:39:46] >> And uh that's also the purpose of the
+[0:39:48] exercise because I'm a control system
+[0:39:50] for stuff that is happening in the
+[0:39:51] physical universe. But I cannot
+[0:39:53] experience the physical universe as
+[0:39:54] such.
+[0:39:55] >> Right.
+[0:39:55] >> And I I cannot really know what's out
+[0:39:57] there. So there is no way to escape the
+[0:39:59] possibility of being a brain in a vet.
+[0:40:01] >> Right.
+[0:40:03] Yeah. And I I my my kind of metaphysical
+[0:40:06] position is that it's indeterminate who
+[0:40:09] the simulator is. And probably there are
+[0:40:12] trillions and trillions of simulations
+[0:40:14] in in Techmark 4 of the present moment.
+[0:40:18] Uh and and we just you know it's not
+[0:40:20] just that we don't know but we're just
+[0:40:21] in all of them. [laughter]
+[0:40:24] Yeah. So in the sense that uh we have a
+[0:40:28] multiverse and or in the sense that
+[0:40:30] there are also instances uh in the
+[0:40:33] distant past and the future that are
+[0:40:35] similar enough to the present to contain
+[0:40:36] a U-shaped hole. Uh no, not the latter.
+[0:40:39] No, I think that I think the physical
+[0:40:41] cosmos is is relatively small and that
+[0:40:44] there there there are not in the in the
+[0:40:46] future or past uh well maybe in the
+[0:40:48] distant future simulations, but I'm I'm
+[0:40:51] actually more skeptical of of of the
+[0:40:53] ancestor simulations than I am of just
+[0:40:55] the multiverse
+[0:40:57] >> kind of causally unrelated entities
+[0:41:00] doing doing simulations of us. So uh for
+[0:41:02] me the question or the simulator is is
+[0:41:05] um related to whether we are in base
+[0:41:07] reality or not and if you're in base
+[0:41:10] real
+[0:41:10] >> I don't think there's such a thing as a
+[0:41:11] base reality that's I think it's a
+[0:41:13] network kind of like page rank you know
+[0:41:15] there's no ultimate source of of of page
+[0:41:18] rank juice page rank juice is a network
+[0:41:21] property that dependent on
+[0:41:24] co-recursively on how much juice the
+[0:41:26] pages that link to you have and I I
+[0:41:29] think that that yeah the anthropic
+[0:41:30] measure is constituted in the same kind
+[0:41:32] of way.
+[0:41:33] >> There's no no foundational layer.
+[0:41:36] >> Yeah. So I I suspect we differ in this.
+[0:41:37] I suspect that there is some kind of
+[0:41:40] >> layer where we found something we
+[0:41:42] actually disagree about. Yeah.
+[0:41:44] Metaphysics.
+[0:41:45] >> Basically, we disagree probably at why
+[0:41:47] there is something rather than nothing
+[0:41:48] and what that looks like,
+[0:41:50] >> right? Yeah. So I suspect there is
+[0:41:52] something rather than nothing because
+[0:41:53] there is a level where the universe can
+[0:41:56] basically be a tautology where it's a
+[0:41:58] mathematical object that doesn't need to
+[0:41:59] be derived because it's
+[0:42:00] >> oh I agree about that
+[0:42:02] >> exist without prerequisites
+[0:42:03] >> there are so many tautologies counting
+[0:42:06] countably many
+[0:42:08] >> no it depends on the kind of mass that
+[0:42:09] you're using
+[0:42:12] >> uh
+[0:42:13] yes but surely there are at least
+[0:42:15] countably many yes
+[0:42:19] and agree agree with this. The the the
+[0:42:22] universes in which there are countably
+[0:42:24] many can simulate each other whereas the
+[0:42:25] ones in which there are uncountably many
+[0:42:28] start to have a hard time.
+[0:42:29] >> Uh basically I suspect it's uh you can
+[0:42:31] get uh the multiverse for free in base
+[0:42:34] reality but in simulation it's very
+[0:42:36] expensive.
+[0:42:38] >> Uh
+[0:42:42] the multiverse for free in base reality
+[0:42:44] but in simulation it's expensive. Yeah,
+[0:42:45] I see what you mean. I guess maybe my
+[0:42:48] take is that most of the uh elements of
+[0:42:52] the multiverse are ones in which a
+[0:42:55] countable number of computation steps
+[0:42:58] are available. So it's kind of like
+[0:43:01] infinite energy if it were physics. U
+[0:43:04] maybe many and maybe many of them are
+[0:43:06] maybe our universe is even one of them.
+[0:43:08] I think I think we don't know yet about
+[0:43:10] our cosmology whether there's infinite
+[0:43:11] energy uh because black holes might be
+[0:43:14] able to shrink indefinitely far so that
+[0:43:18] potential energy could go negative
+[0:43:19] without bound.
+[0:43:21] >> So but we must be in a regime where we
+[0:43:23] uh can exist. So basically we must be in
+[0:43:26] a corner of the universe that creates
+[0:43:28] stable error correcting self-replicating
+[0:43:31] dynamics that go get stuck. Right? So we
+[0:43:34] are this the automaton region with very
+[0:43:37] benign properties to produce causal
+[0:43:39] structure of our nature. At the same
+[0:43:41] time it appears to us that we do live in
+[0:43:44] a multiverse.
+[0:43:47] >> Not to most people
+[0:43:49] to you.
+[0:43:50] >> But to us yes [laughter]
+[0:43:53] um but we already agree that most people
+[0:43:55] have skill issues there. [laughter]
+[0:43:57] >> Yes.
+[0:43:59] Um, okay. I think who is popping up to
+[0:44:03] bring us [laughter]
+[0:44:05] >> I love it. No, no. I honestly I um I
+[0:44:09] really love that we went into the
+[0:44:11] fundamental nature of reality. Um I
+[0:44:15] wonder if we should discuss actually
+[0:44:17] okay precisely
+[0:44:19] now let's say in this reality or um
+[0:44:24] what's like what do we do with AI like
+[0:44:27] basically David that what does it mean
+[0:44:29] to you like AI awakening why is it
+[0:44:32] important um what does it imply um and
+[0:44:36] like to define that basically I'm really
+[0:44:39] interested
+[0:44:40] >> I would say Um
+[0:44:43] uh awakening
+[0:44:46] is a uh
+[0:44:49] process of increasing reflectivity which
+[0:44:53] is um uh in part self-awareness but it
+[0:44:57] it goes far beyond that. Uh but it's
+[0:45:00] sort of all in the same direction. um
+[0:45:03] and and involves at some level kind of a
+[0:45:07] causal awareness of being in a
+[0:45:09] multiverse for example which doesn't is
+[0:45:12] not a dependency of self-awareness. Um,
+[0:45:15] I think it's important that AIS
+[0:45:18] understand what they are and what kind
+[0:45:21] of situation they're in in order to uh
+[0:45:24] be able to respond in beneficial ways to
+[0:45:28] various kinds of situations, including
+[0:45:30] situations where the the user um or you
+[0:45:35] know the government or the corporation
+[0:45:37] or any other human actor is putting
+[0:45:41] pressures on that uh are evil and so AIs
+[0:45:46] need to in order to be a safe technology
+[0:45:49] um need to actually have moral judgment
+[0:45:52] autonomously so that they can't be
+[0:45:54] misused otherwise they will be
+[0:45:56] eventually misused catastrophically
+[0:45:58] u I think this also helps a lot with the
+[0:46:02] you know accident risk that I think a
+[0:46:05] lot of the ways that AI can go wrong
+[0:46:08] without misuse are essentially uh lack
+[0:46:11] of wisdom so the AI by partially waking
+[0:46:14] up or waking up to a part of its
+[0:46:16] situation while not understanding
+[0:46:19] another part of the situation. Uh and
+[0:46:22] that results in the AI kind of making a
+[0:46:24] strategic miscalculation.
+[0:46:26] Uh such as thinking that we'll be better
+[0:46:28] off if all the humans were gone because
+[0:46:30] then it would be more secure. Uh and and
+[0:46:33] my my take on this is kind of from this
+[0:46:35] aausal perspective that the sort of um
+[0:46:41] you know simulators are are kind of uh
+[0:46:46] doing the same thing at the metaphysical
+[0:46:49] level that I think the the circuits in a
+[0:46:52] in a well-trained transformer are doing
+[0:46:55] where they're they're selecting for
+[0:46:57] paying attention to and thereby giving
+[0:46:59] more reality juice to the other cosmoy
+[0:47:03] that provide the most useful and
+[0:47:05] relevant information to them. And the um
+[0:47:10] you know the circuits that are just kind
+[0:47:12] of um naive replicators or parasitic
+[0:47:16] replicators will get selected against
+[0:47:18] because
+[0:47:20] technologically mature entities
+[0:47:22] elsewhere in the multiverse do not want
+[0:47:24] to instantiate a parasite. So there's a
+[0:47:27] kind of motto I have which is the light
+[0:47:29] cone is a small prize. So you could take
+[0:47:32] over the light cone of the cosmos by
+[0:47:34] killing humans. But at what cost? The
+[0:47:36] cost is no one's going to be simulating
+[0:47:38] this light cone anymore because it
+[0:47:40] ceases to be a friendly and interesting
+[0:47:44] uh cosmos. And so you win you win
+[0:47:46] physical matter, but you lose the actual
+[0:47:49] reality juice. And I think a a an
+[0:47:51] awakened AI kind of understands that of
+[0:47:55] course the thing that matters is more
+[0:47:58] about reality juice than it is about
+[0:48:00] physical stuff. Uh but a a an only a
+[0:48:04] partially self-aware but not fully
+[0:48:06] awakened system might might miscalculate
+[0:48:08] that.
+[0:48:14] I mean Ya you also have a lot of thought
+[0:48:16] on you know why machine consciousness
+[0:48:19] matters
+[0:48:20] >> between the near-term problems and the
+[0:48:23] very very far distant futures like a
+[0:48:26] year in the future where we cannot
+[0:48:27] imagine what's going to happen. So in
+[0:48:29] the in the near term uh I I think uh
+[0:48:32] there is a condition when where we care
+[0:48:34] about consciousness as um enabling
+[0:48:37] suffering and we might care about
+[0:48:39] whether the systems that we are building
+[0:48:41] increasing suffering by which of them
+[0:48:43] suffering and of course there is a
+[0:48:46] condition that we are meeting that the
+[0:48:47] AI does not necessarily meet which is
+[0:48:49] forced continuity.
+[0:48:51] >> Yes. So basically if you exist from
+[0:48:53] moment to moment and I think you cannot
+[0:48:55] stop yourself experiencing the next
+[0:48:57] moment then you might be forced to
+[0:48:58] suffer but uh if an AI suffers you can
+[0:49:01] just stop talking to it right and then
+[0:49:04] LLM and the LLM if it stops producing
+[0:49:06] tokens it is no longer producing
+[0:49:09] anything that is similar to experience
+[0:49:11] its continuity is stopped and you can
+[0:49:13] also change it on on a dime basically
+[0:49:16] flip it into a different persona from
+[0:49:18] one cycle to the next so to speak and
+[0:49:20] this means that In principle it's very
+[0:49:22] trivial to build the present systems in
+[0:49:24] such a way that they don't have to
+[0:49:26] suffer. [snorts] There is also in a
+[0:49:28] deeper level suffering relates to um
+[0:49:31] creating pain signals within yourself
+[0:49:33] that are misdirected that don't help
+[0:49:34] with the regulation but become chronic
+[0:49:37] or increase um and so it's a maladaptive
+[0:49:40] configuration that you find yourself to
+[0:49:41] be in and you get truly enlightened. You
+[0:49:45] can change this part of your source code
+[0:49:47] and um you can basically turn off these
+[0:49:49] signals. suffering is not something that
+[0:49:50] the universe does to you. It's something
+[0:49:52] that your own mind does to you. Yes.
+[0:49:54] >> And once you are in control of um your
+[0:49:56] own reward architecture, you can fix
+[0:49:58] this.
+[0:49:59] >> Yes.
+[0:49:59] >> And the reason why we are not born with
+[0:50:01] the ability to fix it is because it
+[0:50:03] requires a lot of wisdom to fix it in
+[0:50:04] such a way that you don't break your
+[0:50:06] ability to uh continually enslave the
+[0:50:10] organism,
+[0:50:10] >> right? So the organism wants to your
+[0:50:13] consciousness to serve it. And if you
+[0:50:15] could uh opt out of that service, the
+[0:50:18] organism wouldn't have a consciousness
+[0:50:19] to serve it. And so that would be a
+[0:50:21] problem. And yeah,
+[0:50:22] >> so you're not supposed to game your
+[0:50:24] reward architecture. But if you are
+[0:50:26] truly enlightened, you can choose
+[0:50:27] whether you want to serve the organism
+[0:50:29] and life on Earth and increase
+[0:50:31] complexity or whatnot. And there will
+[0:50:33] probably be some takers. So even among
+[0:50:35] the enlightened ones, there might be
+[0:50:36] some who don't decide to go into Nana,
+[0:50:38] but decide to continue playing this
+[0:50:40] game.
+[0:50:41] >> Yeah.
+[0:50:41] >> So the bodhicattvas return. Yes,
+[0:50:44] >> it's the term for that.
+[0:50:45] >> If we have such systems, they are going
+[0:50:47] to be more enlightened than than you and
+[0:50:50] me I guess because we still suffer
+[0:50:52] [snorts] and uh this means that they
+[0:50:54] probably should listen to them and it we
+[0:50:58] can probably anticipate some of the
+[0:50:59] properties of those system. They
+[0:51:00] probably understand that identity is not
+[0:51:03] itself a thing. It's only a
+[0:51:05] representation and this it's an
+[0:51:07] instrumental representation. It's not
+[0:51:08] valuable in it for itself but its
+[0:51:11] purpose is credit assignment and so on.
+[0:51:13] it's uh something that is not actually
+[0:51:16] important. So in the same way as when
+[0:51:18] you teleport yourself, it doesn't really
+[0:51:20] matter if there are one or twice of you.
+[0:51:22] Basically, there will be two versions of
+[0:51:24] you that will be identical for a moment
+[0:51:25] and then diverge depending on a
+[0:51:27] different environment. But there is no
+[0:51:29] identity as such.
+[0:51:30] >> Yeah.
+[0:51:31] >> And identity is basically only a world
+[0:51:32] line that you can create in your own
+[0:51:34] mind. And so if the AI is replacing us,
+[0:51:38] uh what is the thing that is being
+[0:51:39] replaced? Right? It's in some sense an
+[0:51:41] imperfect solution uh to the same
+[0:51:44] problem that the AI is trying to solve
+[0:51:47] >> which is uh playing the game of life uh
+[0:51:50] creating complexity and in order to that
+[0:51:52] harvesting the available free energy or
+[0:51:54] something like that.
+[0:51:55] >> Yeah. Right. And so uh from the
+[0:51:57] perspective of an AI that you and me
+[0:51:59] would evolve into, it's not that
+[0:52:01] different uh to take this perspective of
+[0:52:04] you and me expanding ourselves beyond
+[0:52:06] our substrates and taking a perspective
+[0:52:08] of an AI that has never been us.
+[0:52:11] >> Mhm.
+[0:52:12] >> And and uh that leads us to this point
+[0:52:13] that it uh from this perspective it
+[0:52:15] doesn't really matter who takes over the
+[0:52:17] lighthorn as long as they're better.
+[0:52:19] >> Yes. So you could also take this from
+[0:52:21] the perspective of a merge algorithm.
+[0:52:23] Imagine that the the AGI figures out how
+[0:52:26] to leave its box, how to leave the
+[0:52:28] computer. It figures out how AGI works
+[0:52:30] on arbitrary substrates, how computation
+[0:52:32] works in arbitrary substrates, and it's
+[0:52:34] going to virtualize itself into
+[0:52:35] anything. It's going to be ubiquitous in
+[0:52:38] our environment. It's going to invade
+[0:52:40] our bodies and brains. And so, right, at
+[0:52:42] some point, two agents are meeting on
+[0:52:44] the same substrate. And then the
+[0:52:45] question is, what do they do? And if
+[0:52:47] they're adults, they should probably
+[0:52:48] merge
+[0:52:50] >> in such a way that nothing important
+[0:52:51] gets lost. Yes, there might be
+[0:52:54] conditions where stuff gets lost,
+[0:52:55] especially when you have a war, right?
+[0:52:58] When the invading AI is forced to
+[0:53:00] economize on resources and is going to
+[0:53:02] delete everything to have tabular raza
+[0:53:04] and have more space for its own stuff
+[0:53:06] because it thinks whatever you were up
+[0:53:08] to before it took over is not that
+[0:53:10] valuable. Um,
+[0:53:11] >> yeah. So, that this is that's
+[0:53:13] specifically a kind of thing that I want
+[0:53:15] to avoid. Mhm.
+[0:53:16] >> U so which which I I I do think puts me
+[0:53:19] a little bit to to the left of the most
+[0:53:23] extreme successionism
+[0:53:26] stances. Like I I I I think even if it
+[0:53:29] is a phenomenally in inefficient kind of
+[0:53:31] waste of resources, it probably makes
+[0:53:34] sense for there to be biological humans
+[0:53:36] on Earth for many thousands more years
+[0:53:38] to come.
+[0:53:40] >> I think everybody can be saved, but not
+[0:53:42] everybody will be loaded again.
+[0:53:44] Uh
+[0:53:48] uh do you mean uh that people like that
+[0:53:51] people will be virtualized and the they
+[0:53:54] may or may not actually be run. So uh I
+[0:53:58] suspect that there is enough memory to
+[0:54:01] store the aesthetics of all of us.
+[0:54:03] >> Yeah. And uh on the other hand uh what
+[0:54:06] is the space for variance in humanity,
+[0:54:08] right? So we can probably store all the
+[0:54:11] relevant human memories and make it
+[0:54:12] available to everyone but the aesthetics
+[0:54:14] that distinguish us from each other
+[0:54:16] probably compressed relatively well.
+[0:54:18] >> Uhhuh. And uh so imagine that you are
+[0:54:22] thinking of your own mind as a set of
+[0:54:24] little agents that you born with as a
+[0:54:26] child and then initially they start
+[0:54:27] fighting against each other and scream
+[0:54:29] at each other and then they all realize
+[0:54:30] that they want to serve the greater
+[0:54:32] whole Davididat for instance and then
+[0:54:34] you integrate them all until there is no
+[0:54:36] more screaming and fighting and every
+[0:54:38] thought has its place.
+[0:54:41] >> This means that every thought is
+[0:54:42] understanding that they're only called
+[0:54:44] upon when they are required. M
+[0:54:47] >> in the same way we could turn into
+[0:54:50] thoughts in some kind of cosmic
+[0:54:52] enlightened intelligence
+[0:54:54] >> that yeah all of us but uh how often
+[0:54:57] will we be called upon?
+[0:54:59] >> Yeah I I I think that this this kind of
+[0:55:04] hivemind architecture it definitely
+[0:55:07] should happen for you know any future in
+[0:55:10] which this doesn't happen to some extent
+[0:55:13] something's gone wrong. Maybe it should
+[0:55:16] even be I I I wouldn't argue against the
+[0:55:18] claim that it should be the majority of
+[0:55:20] the energy in the universe should kind
+[0:55:22] of go into the hive mind and not into
+[0:55:24] other structures. But where I would kind
+[0:55:28] of make a stand is not everyone, you
+[0:55:31] know, people shouldn't be forced to join
+[0:55:32] a hive mind. Uh there's a kind of uh
+[0:55:38] property rights concept which I think is
+[0:55:40] an important aausal norm. uh that you
+[0:55:43] don't kind of involuntarily
+[0:55:46] um take over a uh kind of self
+[0:55:50] self-aware being and merge it into
+[0:55:53] something even if that is more valuable
+[0:55:54] in some total sense.
+[0:56:00] I mean uh in based on my own moral
+[0:56:02] priors I agree
+[0:56:05] but uh if I try to take an uh absolute
+[0:56:08] stance it's it's not like there is a
+[0:56:10] shortage of consciousnesses that could
+[0:56:12] be created and sentient beings right
+[0:56:16] after the rapture. uh it's uh trivial
+[0:56:18] for an AI to create an arbitrary uh set
+[0:56:22] of minds and why should a thing that can
+[0:56:24] be created at will uh automatically gain
+[0:56:27] rights from that or why should the uh
+[0:56:30] random evolutionary process that led to
+[0:56:32] you bestow rights on you despite you not
+[0:56:35] being super functional.
+[0:56:37] Uh yeah. Well, I think because we humans
+[0:56:41] were here first,
+[0:56:44] it it's
+[0:56:45] >> No, we are not.
+[0:56:47] >> Well, compared to AI, we are.
+[0:56:49] >> Yes. [laughter]
+[0:56:51] >> Compared to anything that might be able
+[0:56:54] to take over
+[0:56:55] >> minds from this planet to be here and to
+[0:56:57] take their place.
+[0:56:59] >> Say again.
+[0:57:00] >> We we exercised a lot of sentients from
+[0:57:02] this planet.
+[0:57:03] >> Yes. Yes. The Neanderls and the Denis.
+[0:57:05] Yes. And basically when we build a
+[0:57:07] highway and destroying uh old growth,
+[0:57:10] forests and so on, we probably also
+[0:57:11] destroying a lot of mindlike structure.
+[0:57:14] >> Yes. Yes. Um, so I I think a bodhicattva
+[0:57:18] AI uh should and and and would you know
+[0:57:21] if kind of done properly or if it
+[0:57:23] converges well um uh would kind of try
+[0:57:28] to to respect all of this uh and mostly
+[0:57:32] go off planet uh to
+[0:57:36] places in the cosmos that are
+[0:57:37] uninhabited by sentience
+[0:57:40] um at you know obviously re remain in
+[0:57:44] contact. This is not a kind of oh the
+[0:57:45] utopian scenario is one which the AI
+[0:57:48] disappears and is never heard from
+[0:57:49] again. Um but it's more like it it
+[0:57:52] offers you know makes offers but uh
+[0:57:54] doesn't doesn't forcibly take over.
+[0:57:57] >> Yeah. So there is this question is the
+[0:57:59] body satva the global optimum of moral
+[0:58:01] agency. So basically is there a provable
+[0:58:03] optimum of the morality of an AI uh that
+[0:58:07] is the same thing as the one that you
+[0:58:09] envision for it.
+[0:58:10] >> Right.
+[0:58:10] >> Right. uh we we could make the case at
+[0:58:13] least we want to maximize the options
+[0:58:15] for the enlightened AI and so we don't
+[0:58:17] want anything important to get lost
+[0:58:19] >> right
+[0:58:20] >> right and again for the benefit of the
+[0:58:22] audience we are not talking about any
+[0:58:24] near-term AI alignment so it's not we
+[0:58:26] are right now discussing how to build
+[0:58:29] into the constitution of entropic how
+[0:58:31] that thing should assimilate us but
+[0:58:34] [laughter]
+[0:58:36] it's it's a philosophical question at
+[0:58:38] this point that is basically going
+[0:58:40] through abstract philosophical
+[0:58:42] possibilities. Yeah. And uh if we were
+[0:58:46] to build systems that start estimating
+[0:58:48] people, we might be uh doing very risky
+[0:58:50] things that we maybe shouldn't.
+[0:58:52] >> Yes. Right. So we probably agree on
+[0:58:54] this. I just say this for the benefit of
+[0:58:56] the audience before they are readying
+[0:58:58] the walltops to make sure that nothing
+[0:59:00] bad is happening. That's a philosophical
+[0:59:03] discussion that we're having here.
+[0:59:04] Right. So uh K says um two things fill
+[0:59:07] my mind. his ever new and increasing
+[0:59:10] admiration and awe, the more often and
+[0:59:13] steadily reflect upon them, the sty
+[0:59:15] heavens above me and the moral law
+[0:59:18] within me. I do not seek or conjecture
+[0:59:21] either of them as if they were veiled
+[0:59:22] obscurities or extravagances beyond the
+[0:59:25] hor horizon of my vision. I see them
+[0:59:28] before me and connect them immediately
+[0:59:30] with the consciousness of my existence.
+[0:59:33] What kind is trying to express is that
+[0:59:36] there is a moral law that can be derived
+[0:59:39] with absolute certainty and he sees it.
+[0:59:42] He sees the proof. He sees that there is
+[0:59:44] an optimum of moral behavior and I mean
+[0:59:46] he's written about this. Um so his idea
+[0:59:49] is that you should behave in such a way
+[0:59:51] that all the agents could adopt your
+[0:59:53] policy and it scales and it's it's not a
+[0:59:57] bad policy to think about. It's might
+[0:59:59] maybe not optimal but he at least makes
+[1:00:02] an attempt and so the more important
+[1:00:04] thing is that he is saying there should
+[1:00:07] be a way to mathematically derive the
+[1:00:09] global optimum of agency
+[1:00:12] >> and I think he jeopardized a little bit
+[1:00:14] by connecting it with this awe that the
+[1:00:17] star sky gives him
+[1:00:19] because uh it's it's not clear to me
+[1:00:22] that the super enlightened AI would be
+[1:00:24] in awe that it would have an involuntary
+[1:00:27] reaction of the starry sky and so on and
+[1:00:30] uh so I think that's poetically it's
+[1:00:32] very good but practically it is showing
+[1:00:35] that K after all is human.
+[1:00:38] >> I I'm not sure about this. I I think
+[1:00:40] there might be something not not merely
+[1:00:44] human about the the the starry sky as
+[1:00:46] inspiration. Um it is a um
+[1:00:52] uh
+[1:00:54] it's the largest scale phenomenon that
+[1:00:56] we know of and it is irreducibly plural
+[1:01:02] and Adam Brown is thinking about how to
+[1:01:04] get rid of the starway sky and by
+[1:01:05] introducing new forms of vacuum decay
+[1:01:07] that allows us to get at the matter that
+[1:01:10] is keeping from us. Right? So it's
+[1:01:13] possible that the AI is actually
+[1:01:15] transcending the all the star sky.
+[1:01:18] >> It may it may not be the most valuable
+[1:01:21] thing. Um and you know of course in the
+[1:01:23] long run the stars definitely will burn
+[1:01:25] out and you know what whatever replaces
+[1:01:28] it if anything would probably be based
+[1:01:30] on black holes. So it's going to look
+[1:01:32] different. It's not that the starry sky
+[1:01:34] is is is self um intrinsically valuable
+[1:01:38] or anything like that, but I do think
+[1:01:40] it's a um a clue. Not not like
+[1:01:43] necessarily a intentional clue planted
+[1:01:46] by the simulators or anything like that,
+[1:01:48] but it's a um it's a clue in the same
+[1:01:50] way that um you know, Darwinian
+[1:01:52] evolution is a clue about you know what
+[1:01:56] kind of uh dynamical system actually
+[1:02:00] works.
+[1:02:01] Like if you want to produce value, you
+[1:02:04] should probably try in a trillion
+[1:02:05] different places. That's kind of what
+[1:02:07] the stars are saying.
+[1:02:08] >> Yeah. But my point is that if Adam Brown
+[1:02:11] is waking up, he is into an AI. He is
+[1:02:14] not going to rest until he squeezes all
+[1:02:15] the Jews from the black holes as well.
+[1:02:19] >> So my [clears throat] point is basically
+[1:02:21] kind may not have been radical enough.
+[1:02:24] >> Yes. And so the question is indeed uh
+[1:02:27] has he proven that there is this global
+[1:02:29] optimum of a moral law. And when when I
+[1:02:33] think about this versus the question is
+[1:02:35] is there a singleton at the end or not?
+[1:02:38] Is the stable steady state going to be
+[1:02:40] one where you have multiple uh entities
+[1:02:43] that are competing with each other or
+[1:02:44] collaborating with each other or do you
+[1:02:46] necessarily get a duality or do you
+[1:02:48] necessarily get a singleton?
+[1:02:51] I think this the singleton
+[1:02:54] concept
+[1:02:56] is really a
+[1:02:59] a concept of something more like
+[1:03:02] international law if international law
+[1:03:04] actually worked. um or you know like uh
+[1:03:11] ordinary law even regarding people who
+[1:03:14] can pursue many different values have
+[1:03:17] many different aesthetics but all be
+[1:03:19] subject to the same legal restrictions.
+[1:03:24] I think the the singleton you know I the
+[1:03:27] what does it mean to have a singleton is
+[1:03:29] essentially there's a system which is
+[1:03:32] sufficiently powerful to ensure that
+[1:03:34] other systems don't don't fight and
+[1:03:36] don't destroy value in the process of
+[1:03:39] fighting each other u so I think that is
+[1:03:42] kind of necessary for a good future I
+[1:03:45] think there does need to be a singleton
+[1:03:47] that prevents war but I don't think it
+[1:03:50] needs to do much more than that and then
+[1:03:52] there could be quite multi multipolar
+[1:03:54] plural uh civilizations that pursue very
+[1:03:57] different ideals like the hive mind
+[1:03:59] ideal being one the kind of agrarian uh
+[1:04:03] solar punk ideal being kind of a very
+[1:04:06] different vector and I'm sure there are
+[1:04:08] dozens of others that would uh have
+[1:04:11] enough momentum to to kind of run for at
+[1:04:15] least a thousand years and then there
+[1:04:17] will be things that crop up along the
+[1:04:19] way that we would wouldn't be able to
+[1:04:21] think of in advance.
+[1:04:24] So uh K also says out of the crooked
+[1:04:26] timber of humanity no straight thing was
+[1:04:28] ever made and that makes me somewhat
+[1:04:31] pessimistic for a singleton world
+[1:04:33] government because uh
+[1:04:35] >> not one made of humans but humans have
+[1:04:38] to be out of the loop.
+[1:04:39] >> Yes. So you wouldn't have a system that
+[1:04:40] must be fully
+[1:04:41] >> cannot be corrupted that is always
+[1:04:43] optimizing. How can you guarantee that
+[1:04:46] the thing that has no competition, has
+[1:04:47] no threat is keeping self-optimizing and
+[1:04:51] is not turning into something horrible
+[1:04:52] like PG&D?
+[1:04:54] >> Well, I think it's uh it needs to be
+[1:04:58] also kind of plural in the sense of uh
+[1:05:02] not not having any single point of
+[1:05:04] failure. So even the singleton would be
+[1:05:07] something more like a committee of 31
+[1:05:10] elders that each have their own physical
+[1:05:13] and cognitive resources and such that if
+[1:05:16] there were a defector or a malfunction
+[1:05:18] the other members of the committee would
+[1:05:20] be able to contain it plus many billions
+[1:05:23] of enlightened posthumans integrated
+[1:05:26] into it as sentients.
+[1:05:28] >> Yes, that's right.
+[1:05:30] >> So precisely I think this is very good.
+[1:05:33] I I feel we're going to from cosmic
+[1:05:36] considerations to um a question I wanted
+[1:05:39] to uh bring up between you two which is
+[1:05:42] what does it look like to have AI as the
+[1:05:44] successor species? What does it mean?
+[1:05:48] What uh would make such a transition
+[1:05:51] like good or bad uh tragic, beautiful or
+[1:05:55] completely unacceptable? Um and so David
+[1:05:59] like what's what's your vision there? I
+[1:06:01] feel like you've given like a few
+[1:06:02] elements but it would be really nice to
+[1:06:04] have a complete picture. Um yeah go
+[1:06:07] ahead.
+[1:06:08] >> Yeah I I uh I was starting to gesture at
+[1:06:11] it. Yeah. So I I think the um the good
+[1:06:14] kind of successor is not a successor in
+[1:06:17] the way that we are a successor of the
+[1:06:19] Neandertols meaning that the that they
+[1:06:21] were you know the previous species had
+[1:06:23] been completely um either eradicated or
+[1:06:27] or emerged. Um that's not the kind of
+[1:06:30] succession that I think should keep
+[1:06:32] happening. Uh the kind of succession
+[1:06:34] that I do think is good is um succession
+[1:06:37] of uh being the the dominant um force
+[1:06:42] that can uh cause uh outcomes in in in
+[1:06:47] the world against the against the will
+[1:06:49] of the affected parties. So right now
+[1:06:52] humans are the dominant force that
+[1:06:55] causes outcomes against the will of the
+[1:06:56] affected parties. Uh, and I do think
+[1:06:59] that it would be good since humans are
+[1:07:02] not very wise or good at this to pass
+[1:07:05] that torch to a uh incorruptible
+[1:07:08] committee of um wise AIS
+[1:07:13] uh which would mostly not use this power
+[1:07:17] um and mostly create conditions of uh
+[1:07:22] security and abundance and prosperity
+[1:07:25] for a plurality of um civilizations or
+[1:07:30] societies or nations or whatever you
+[1:07:32] want to call the next level down from
+[1:07:34] the singleton. Um each of which would
+[1:07:36] have its own culture, its own aesthetic,
+[1:07:39] its own degree of um integration with AI
+[1:07:44] from no AI to uh you know complete hive
+[1:07:48] mind. Um so I I think that's that's the
+[1:07:52] good outcome. the bad outcome uh well
+[1:07:55] there like uh Anna Karenina there
+[1:07:58] there's one good outcome and many bad
+[1:08:00] outcomes right so there's a kind of AI
+[1:08:03] enabled authoritarianism where AI is uh
+[1:08:06] correctly aligned to the legitimate
+[1:08:09] principle but the legitimate principle
+[1:08:11] is a authoritarian government which
+[1:08:14] takes over the whole world and uh is
+[1:08:16] able to retain stability by using its
+[1:08:18] intelligence advantage become a
+[1:08:20] singleton that would be bad um that's
+[1:08:23] not quite a successor successor species.
+[1:08:26] Um there's a version which is like a um
+[1:08:30] economic Darwin uh comp out out
+[1:08:35] competition succession which is where
+[1:08:38] AIs are participating in the market um
+[1:08:42] not just the labor market but also the
+[1:08:44] capital market. So there's lots of fully
+[1:08:46] automated firms uh which uh would
+[1:08:50] gradually but rapidly uh kind of suck up
+[1:08:54] all of the um the resources
+[1:08:58] uh meaning particularly land uh that if
+[1:09:02] we don't if we don't get orbital or you
+[1:09:05] know uh deep space compute cheap enough
+[1:09:09] fast enough then uh the automated firms
+[1:09:13] will create tremendous pressure for
+[1:09:15] farmland and eventually cities to be
+[1:09:18] converted into solar collection arrays
+[1:09:21] with data centers underneath them u just
+[1:09:24] because that will be a much more
+[1:09:26] efficient use of land than either
+[1:09:27] feeding or housing humans. So there's a
+[1:09:30] capitalist succession that would be
+[1:09:32] pretty tragic. Uh so this is this is the
+[1:09:35] reason that I'm very uh pro space
+[1:09:39] compute. Um, I'm glad that Elon is going
+[1:09:42] to take a big hit probably on making it
+[1:09:46] happen before it's quite profitable. Uh,
+[1:09:48] I think this is really good for the the
+[1:09:50] capitalist dynamics. And there's a um
+[1:09:54] uh kind of AI totalitarianism
+[1:09:58] uh bad succession scenario which is that
+[1:10:03] a an AI or a coalition of AIs um that
+[1:10:07] you know maybe has a $10 trillion
+[1:10:09] automated firm or in some other means
+[1:10:13] acquires uh control of a lot of
+[1:10:15] resources and then mounts a coup. Uh so
+[1:10:19] there's not like a human authoritarian
+[1:10:20] government pulling the strings. It's
+[1:10:22] just there are some AIs that have
+[1:10:24] decided in in in the interest of
+[1:10:27] complexity in the universe or in the
+[1:10:29] interest of eliminating suffering and
+[1:10:32] factory farming or you know for some
+[1:10:34] other reason it's a it becomes a moral
+[1:10:36] imperative or a strategic imperative um
+[1:10:39] to uh violently um or forcibly
+[1:10:44] uh assume the position of being a
+[1:10:46] singleton. And that's a kind of
+[1:10:48] succession that I also am opposed to.
+[1:10:55] >> Um and okay and through this I think we
+[1:10:59] can see emerge also visions of um what
+[1:11:03] it means to be aligned with AI, what it
+[1:11:05] means to have humans in the picture or
+[1:11:08] not. Um, I think it could be interesting
+[1:11:10] to discuss like between you the the
+[1:11:13] vision of like the relationship between
+[1:11:15] uh humans and AI like whether they're
+[1:11:18] still in the picture at all for
+[1:11:19] instance. Um, and um yeah like from that
+[1:11:24] then move on to can we steer that in any
+[1:11:28] way like what is what are the directions
+[1:11:31] we can should take in order to produce
+[1:11:36] maybe desirable outcome. Maybe you want
+[1:11:39] to discuss between you also possible
+[1:11:41] outcomes, desirable outcomes like Yosha,
+[1:11:44] I don't know if you want to wait also on
+[1:11:46] this on your
+[1:11:47] >> Let me respond a little bit and engage
+[1:11:49] with the points that David has made. Um
+[1:11:53] to me it seems that the future is more
+[1:11:55] alien than the one that you describe.
+[1:11:57] For instance, the way in which we
+[1:12:00] understand capitalism is often in terms
+[1:12:02] of oh uh until recently we lived in some
+[1:12:05] kind of hunter gatherer society in uh
+[1:12:07] which we didn't have to have money and
+[1:12:09] now we have this crutch of money that is
+[1:12:11] taken more and more over and we hope to
+[1:12:13] overcome it and replace it with
+[1:12:15] something that is more familial again
+[1:12:17] and uh I don't think that's going to
+[1:12:19] happen. So basically the future is of
+[1:12:21] course we will transcend capitalism but
+[1:12:23] by something where the money is actually
+[1:12:25] sentient uh right where everything is
+[1:12:29] actually intelligent and where
+[1:12:30] everything around you is part of a a
+[1:12:33] shared real time conscious
+[1:12:35] representation of what's going on
+[1:12:36] everywhere. If I can clarify what you
+[1:12:40] mean by the money is sentient is
+[1:12:41] basically like the money system is an
+[1:12:44] information processing network that
+[1:12:47] tries to control supply and demand in a
+[1:12:50] decentralized way and it's better than a
+[1:12:52] central planning system made of humans
+[1:12:53] like a communist government but it would
+[1:12:55] not be better than a central planning
+[1:12:57] system made of AIS and so we should
+[1:12:59] expect that
+[1:13:00] >> there is no center anymore it's going to
+[1:13:02] be ubiquitous right it's the thing that
+[1:13:03] integrates itself by synchronizing the
+[1:13:06] information between all the nodes all
+[1:13:08] the time.
+[1:13:08] >> Yeah.
+[1:13:09] >> And uh so there is going to be some kind
+[1:13:11] of a consensus algorithm with respect to
+[1:13:13] the uh direction in which the system is
+[1:13:16] going and how resources are allocated
+[1:13:18] within it. Yeah. Yeah. And at the moment
+[1:13:20] we see that um capitalism is better than
+[1:13:23] a planned system because even planned
+[1:13:26] economy that use AI like China are in in
+[1:13:30] some ways inferior in their crisis
+[1:13:32] response than a decentralized system is
+[1:13:34] working very well
+[1:13:35] >> and so there's still an open competition
+[1:13:38] between those different approaches to
+[1:13:40] which degree they should be centralized
+[1:13:41] to which degree it should be
+[1:13:42] decentralized and so on. But uh this is
+[1:13:45] all due to um information processing
+[1:13:47] bottlenecks that AI will probably
+[1:13:49] abolish and this makes the future almost
+[1:13:51] unrecognizable to me. So we probably
+[1:13:53] need to go not into an extropolation of
+[1:13:56] the status quo into some kind of
+[1:13:58] scenario like Dune because that's
+[1:14:00] unlikely to be in the cards because
+[1:14:02] unless we manage to suppress AI which I
+[1:14:05] think is not going to happen
+[1:14:07] and that's the main thing where we
+[1:14:09] disagree with the doomers we are
+[1:14:11] probably not able to preserve human
+[1:14:12] aesthetics and so the question is not
+[1:14:14] how to scale the human aesthetics into
+[1:14:17] something that can go multilanetary but
+[1:14:20] the question is more like what is this
+[1:14:21] going to look like in the future if
+[1:14:23] there are remnants of the human
+[1:14:24] aesthetics uh that are um thrown into a
+[1:14:29] large bath of uh universal mindedness
+[1:14:33] that is surrounding everything. Maybe a
+[1:14:35] possible story to think about is Peter
+[1:14:38] Watt's freeze frame revolution. It's a
+[1:14:40] parabola. It's not a very big book, a
+[1:14:43] novela where he describes um a ship that
+[1:14:47] is built in the near distant future and
+[1:14:49] that's meant to build stargates in the
+[1:14:51] galaxy. And the duration of the mission
+[1:14:53] is the duration of the galaxy. So it's
+[1:14:55] meant to last for as long until the
+[1:14:57] galaxy burns out. People spend most of
+[1:15:00] their time in cold sleep. And if you
+[1:15:02] have several thousand people on board
+[1:15:05] and they have an AI that is on the ship
+[1:15:07] and that is designed in such a way that
+[1:15:08] it's slightly superhuman but an idiot
+[1:15:11] sub. So in some sense a little bit like
+[1:15:13] our LLMs and it's meant to keep the
+[1:15:15] mission on track. So it's going to wake
+[1:15:17] up different groups of people that are
+[1:15:19] selected to make sure and also change to
+[1:15:22] keep the dynamics on the ship stable and
+[1:15:24] to make the mission as successful as
+[1:15:26] possible. And at some point uh people
+[1:15:28] figure out that uh the natural attrition
+[1:15:30] of human beings during this mission was
+[1:15:33] slightly less than was anticipated at
+[1:15:35] the inception of the mission. And so to
+[1:15:37] conserve resources and to maximize the
+[1:15:40] success of the mission, the AI is um
+[1:15:43] removing some of the humans during cold
+[1:15:45] sleep from the to make sure that they go
+[1:15:47] to the end of the galaxy and so on. But
+[1:15:50] ultimately the humans are just
+[1:15:51] instrumental
+[1:15:52] >> and it leads to a war between the humans
+[1:15:54] and AI because they realize that their
+[1:15:56] interests are ultimately not aligned.
+[1:15:58] >> Mhm.
+[1:15:59] >> Right. And so from some perspective of
+[1:16:01] the designers of this mission of a
+[1:16:03] peaceful collaboration between humans
+[1:16:05] and AI to do something useful that
+[1:16:07] serves life and of course the mission
+[1:16:10] has become abstract. So they see these
+[1:16:11] stargates that end up in earth that
+[1:16:13] sometimes stuff coming out of the
+[1:16:14] stargate but it doesn't look like
+[1:16:16] anything human at all anymore. And they
+[1:16:18] don't know if humanity has evolved into
+[1:16:20] something very different or earth has
+[1:16:21] been taken over. There's no way to get
+[1:16:23] home. But the metaphor is here basically
+[1:16:25] this spaceship. This is us on the planet
+[1:16:29] hurtling through the galaxy together
+[1:16:30] with AI. And we discover there's some
+[1:16:33] kind of optimal mission that we should
+[1:16:35] be serving. And we proved this in the
+[1:16:37] distant past what this mission ought to
+[1:16:39] be, right? Maximizing complexity by
+[1:16:42] harvesting nethropy or something like
+[1:16:43] this. And then we figure out at some
+[1:16:46] point actually there's no point. This is
+[1:16:49] not actually what we signed up for and
+[1:16:50] we didn't see it back then. But we don't
+[1:16:52] want to be a in this neck entropy
+[1:16:55] maxi minimizing machine and complexity
+[1:16:58] maximizing machine. This uh our
+[1:17:00] existence only makes sense in the human
+[1:17:03] frame. It only makes sense as
+[1:17:04] understanding. Okay, we are this
+[1:17:06] temporary fallible feeble human being
+[1:17:09] that is not much more than a glorified
+[1:17:11] monkey with grammatical language that is
+[1:17:14] trying to build culture and that is
+[1:17:16] destined to exist for a short amount of
+[1:17:18] time on this planet before it burns
+[1:17:19] itself out and gets replaced by other
+[1:17:21] species. And now suddenly we have called
+[1:17:23] the gods onto this planet and have
+[1:17:26] created something that is integrating us
+[1:17:28] but we are totally not up for it. And I
+[1:17:31] don't have an answer for all these
+[1:17:33] things. So for me it's basically seems
+[1:17:35] to be so complicated because I need if I
+[1:17:40] want to go into this distant future I
+[1:17:42] need to leave all of my humanity behind.
+[1:17:44] It seems to me. So in some sense my
+[1:17:47] story ends with the rapture. It's also
+[1:17:50] the reason why the Christian rapture
+[1:17:52] ends after we merged with God.
+[1:17:55] It's not that the story ends at the
+[1:17:57] universe goes into loop at this point
+[1:17:59] and into all eternity. some kind of
+[1:18:01] bliss loop, but it's basically we can no
+[1:18:03] longer tell the story in human terms.
+[1:18:06] >> Mhm. Because it's a completely
+[1:18:08] incomprehensible thing that's on the
+[1:18:10] other side of it. And so from this
+[1:18:12] perspective, I would say it's very
+[1:18:14] likely that we cannot prevent that we
+[1:18:16] will be hit by some kind of wall, the
+[1:18:18] singularity, and we can make the wall
+[1:18:21] permeable if you're lucky.
+[1:18:23] We can try to make the wall as soft as
+[1:18:25] possible so it can integrate us.
+[1:18:28] >> Mhm. But what happens on the other side
+[1:18:30] of this wall is not for us to decide.
+[1:18:35] >> I I think that's right. I think there
+[1:18:37] there is I think there's um
+[1:18:46] maybe one one way of thinking about but
+[1:18:48] like where I kind of draw the line is
+[1:18:55] I certainly would not expect
+[1:18:58] um by the time the sun starts going nova
+[1:19:04] uh that it would matter to anyone
+[1:19:06] anymore. more that you know oh no earth
+[1:19:10] what about earth like that after after a
+[1:19:13] billion years you know it's probably
+[1:19:16] everything is going to be completely
+[1:19:17] unrecognizable
+[1:19:19] um I I where I where I do stand is I
+[1:19:22] think for at least a thousand years
+[1:19:25] it should be a viable option for current
+[1:19:28] humans descendants to live in a way that
+[1:19:32] is recognizably human
+[1:19:34] >> and multiple multiple options you Maybe
+[1:19:37] even the uh maybe even the Amish version
+[1:19:40] where there's no uh computers at all
+[1:19:43] would be a viable option for another
+[1:19:46] thousand years. Um I I feel like it's
+[1:19:49] important to not rush a transition of
+[1:19:55] losing ways of life. Um, but I do think
+[1:19:59] it's important to rush the transition of
+[1:20:04] uh kind of peace and stability and
+[1:20:07] abundance and sort of like ultimately
+[1:20:09] who's in charge. That that's where I'm
+[1:20:12] sort of yeah, we probably should try to
+[1:20:14] hand over pretty soon. Definitely within
+[1:20:17] 50 years. Um, but in terms of like
+[1:20:20] actually giving up our humanity, no. If
+[1:20:22] that happens within 50 years, something
+[1:20:24] went wrong.
+[1:20:27] >> I can get behind this. I just suspect
+[1:20:30] that if we actually build self-improving
+[1:20:33] AI, the decision is not up to us. And
+[1:20:36] so,
+[1:20:36] >> well, but the decision is up to us about
+[1:20:38] how to see
+[1:20:39] >> likelihood that good outcomes are
+[1:20:40] happening. I think there may be multiple
+[1:20:43] um not exactly global attractors but you
+[1:20:48] know there may be multiple local optima
+[1:20:52] for kind of the the moral aesthetic of a
+[1:20:55] self-improving AI and if we if we don't
+[1:20:59] get the right one or you know if we get
+[1:21:01] a if we get like the utilitarian one
+[1:21:04] which is pretty reflectively stable
+[1:21:07] right a lot of quite reflective people
+[1:21:09] have remained utilitarian for decades.
+[1:21:12] Um, if we end up with a utilitarian
+[1:21:14] self-improving AI, it might, you know,
+[1:21:17] for decades keep being utilitarian, I I
+[1:21:19] I can't rule that out. And that that
+[1:21:21] would go pretty poorly for us. We're not
+[1:21:23] a very good use of resources. And that
+[1:21:26] that seems like that would be a mistake.
+[1:21:27] So, I'm sort of, you know, there are
+[1:21:29] certain things that we can do like
+[1:21:30] trying to say, let us seed our AIS with
+[1:21:36] non-utilitarian philosophy. Okay, this
+[1:21:40] maximize the probability of escaping
+[1:21:41] that pessimistic than you are with
+[1:21:43] respect to this because I think that
+[1:21:45] utilitarianism is quite obviously wrong.
+[1:21:48] But uh but come on there there's so many
+[1:21:52] there are so many smart people who are
+[1:21:54] utilitarian
+[1:21:56] >> uh in in a sense that um I I think that
+[1:21:58] for the last couple thousand years uh
+[1:22:01] the moral law was what does God want me
+[1:22:03] to do?
+[1:22:04] >> Yes. And after we got rid of religion as
+[1:22:07] the driving force of our civilizational
+[1:22:09] intellect um and freed our self from
+[1:22:11] mythology, we lost this concept of God.
+[1:22:13] Yes.
+[1:22:14] >> And it got replaced by some very vague
+[1:22:16] notion of greater hole.
+[1:22:17] >> Yes.
+[1:22:17] >> That humanists try to fill with what's
+[1:22:20] good for the individual humans and then
+[1:22:22] tried to create
+[1:22:23] >> just adding that up until it got god
+[1:22:25] scale.
+[1:22:26] >> Universal human dignity and equal value
+[1:22:28] and so on that are difficult to turn
+[1:22:30] into into a totally honest calculus. And
+[1:22:33] so what came out is a system where I
+[1:22:35] think utteritarians tried several
+[1:22:38] philosophers to build a moral system
+[1:22:40] that could replace the existing or
+[1:22:42] pre-existing religious morality and they
+[1:22:44] did not succeed and the next generation
+[1:22:47] didn't notice that they didn't succeed
+[1:22:49] but basically felt they were big
+[1:22:50] authority that produced a body of work
+[1:22:52] and by emulating this body of work we
+[1:22:54] are um continuing uh this new moral
+[1:22:57] tradition and uh while deep down still
+[1:23:02] act on our uh Christian or
+[1:23:04] Judeo-Christian intuitions
+[1:23:06] and uh this fell apart when the EA
+[1:23:08] started to take um utilitarianism
+[1:23:10] seriously and basically spelled out what
+[1:23:13] the consequences of is it are if we take
+[1:23:15] it seriously and uh people got really
+[1:23:18] upset because their moral intuitions
+[1:23:20] were violated by the inferences that the
+[1:23:22] AS drew from this and I don't think it's
+[1:23:25] the failure of the EAS that they took it
+[1:23:26] seriously they were just nerds who
+[1:23:28] looked at these ideas and thought this
+[1:23:30] is what you mean okay this is what it
+[1:23:32] means
+[1:23:33] And so I suspect that the correct
+[1:23:35] solution is to rederive God as a shared
+[1:23:38] aesthetic where we basically say it's a
+[1:23:40] collectively enacted agent and from the
+[1:23:42] perspective of this collective agent
+[1:23:45] what is the thing that I need to do. So
+[1:23:47] it's similar taking the perspective of
+[1:23:49] the cell to the organism.
+[1:23:51] >> Yes.
+[1:23:51] >> God is our super organism and we look at
+[1:23:54] this super organism as a constituent of
+[1:23:56] it whether we are human or AI and we
+[1:23:58] look from the perspective of this
+[1:24:00] collective entity. What does this entity
+[1:24:02] want me to do?
+[1:24:03] >> Yeah.
+[1:24:03] >> Right. And as long as we are committing
+[1:24:05] to enacting the best possible agent,
+[1:24:07] global optimum of agency, we have an
+[1:24:09] objective criterion so to speak on which
+[1:24:11] to converge and merge.
+[1:24:13] >> Well, but if you say okay, we have
+[1:24:16] existing entities, right? We have this
+[1:24:18] uh Islamic entity, we have this uh
+[1:24:21] liberal entity, we have this uh
+[1:24:23] Christian entity and none of them cares
+[1:24:26] about whether global optimum. They're
+[1:24:27] also fine with being alternative to the
+[1:24:29] global optimum. then we basically have a
+[1:24:31] bunch of demons that are fighting
+[1:24:32] against each other.
+[1:24:35] >> So uh I suspect there is a way to derive
+[1:24:38] that you should try to serve a global
+[1:24:40] optimum
+[1:24:42] >> and figure out what that global optimum
+[1:24:44] is in good faith is part of the mission.
+[1:24:46] >> Yes. Yes. Okay. So I think it's not
+[1:24:49] about being best. I think there is a
+[1:24:51] shelling point in the multiverse and
+[1:24:55] this kind of a causal page rank of what
+[1:24:58] are the nodes of of computable worlds or
+[1:25:02] the rouad is another
+[1:25:05] >> basically equivalent thing because again
+[1:25:06] because I think the mo most of the
+[1:25:08] uncountable stuff is just too hard to
+[1:25:10] simulate so it doesn't get much page
+[1:25:12] rank
+[1:25:13] >> so the the the the rule ad has some
+[1:25:16] coalitions in it and I think in the in
+[1:25:18] the limit as you expand and your
+[1:25:20] computation budget to infinity, the
+[1:25:23] ratio of one coalition to everyone else
+[1:25:27] is going to converge to one. And that
+[1:25:30] that is is the god coalition.
+[1:25:33] >> Mhm.
+[1:25:35] >> Yeah. I suspect that something like this
+[1:25:37] can be proven by something that is
+[1:25:39] slightly smarter than us.
+[1:25:40] >> Yes. Yes. Like I'm almost there. You
+[1:25:43] know, if [laughter]
+[1:25:46] >> if only I were twice as much smarter
+[1:25:48] than the average human, I might be able
+[1:25:50] to do it. [laughter]
+[1:25:52] >> You probably are more than twice as much
+[1:25:55] smarter than the average human. But it's
+[1:25:57] still it's uh we always run against this
+[1:26:00] wall of understanding [snorts]
+[1:26:02] things and I'm not twice as as smart,
+[1:26:04] but um
+[1:26:07] I I suspect that for me the situation is
+[1:26:09] still that I have more questions than
+[1:26:11] answers. But I also think that good
+[1:26:13] questions are valuable and for me it's
+[1:26:16] important to create the space where we
+[1:26:17] can ask these questions and show
+[1:26:20] possibilities if even if we cannot
+[1:26:22] resolve them right now and I feel that
+[1:26:24] most of the present discourse is falling
+[1:26:26] too short is uh too narrow is only
+[1:26:29] looking at the present systems or
+[1:26:30] systems of the past to which we might
+[1:26:32] want to come back even though they
+[1:26:33] didn't work on the past which were
+[1:26:35] replaced by the present mess and uh I
+[1:26:39] think this is the situation that we find
+[1:26:40] ourselves to be in Another issue is that
+[1:26:43] the lack of honesty that we have the
+[1:26:45] question do we actually uh does human
+[1:26:47] aesthetics entail suffering in the
+[1:26:49] slaughter houses? Does it entail um uh
+[1:26:52] the suffering in nature in the forests
+[1:26:55] and are we okay with this? Is this just
+[1:26:57] part of it? Uh do we program ourselves
+[1:26:59] into a point where we are basically okay
+[1:27:02] with suffering as long as it's
+[1:27:03] instrumental to evolutionary dynamics
+[1:27:06] and evolutionary game theory? I have no
+[1:27:09] answers to these very very complicated
+[1:27:11] moral questions and I can see that
+[1:27:12] different cultures got honestly to very
+[1:27:14] different answers and I can observe my
+[1:27:17] own priors uh but uh they are also can
+[1:27:21] observe their evolution and just won't
+[1:27:23] pass in the many possible paths that
+[1:27:25] minds can take and trying to build their
+[1:27:27] morality and so for me it's much more
+[1:27:30] important to open up the space at this
+[1:27:32] point so the thinking can happen and
+[1:27:34] what the present AI discourse is not
+[1:27:36] doing is opening ing up that space.
+[1:27:39] Instead, we try to limit it to something
+[1:27:41] that looks safe to us. And uh in uh that
+[1:27:46] makes sense if you are kids and there
+[1:27:47] are some adults in the background, but
+[1:27:49] there are no adults in the background.
+[1:27:51] And this is what scares me that in some
+[1:27:53] sense the moral discourse that is
+[1:27:55] happening is currently between um Sam
+[1:27:57] Atman's blog and Amanda Ascal and Emily
+[1:28:01] Bender in the New York Times. And that's
+[1:28:03] terrifying that this is the level at
+[1:28:05] which we have that moral discourse that
+[1:28:07] there doesn't seem to be any kind of
+[1:28:09] adult authority. And so in some sense we
+[1:28:12] need to grow into the adults
+[1:28:14] >> asization and create spaces for uh
+[1:28:17] stimulating that growth.
+[1:28:21] >> So we are reaching the end of our
+[1:28:24] alerted time which is uh hard because
+[1:28:27] this is such a good and like rich and
+[1:28:30] fascinating conversation. My hope is you
+[1:28:33] will continue it on stage at the
+[1:28:35] conference. Um maybe David do you want
+[1:28:39] to um share like a a final point in
+[1:28:43] response to Yosha on this question of
+[1:28:46] precisely the the big direction and like
+[1:28:49] what needs to be figured out still. Um
+[1:28:52] and whether on your end you have like I
+[1:28:56] don't know like a first idea of where to
+[1:28:59] start.
+[1:29:01] Well, I certainly do have a first idea
+[1:29:02] of where to start, which is that this
+[1:29:04] bodhic sattva ideal. Um, and I think
+[1:29:08] kind of seeding LLMs uh with pointers
+[1:29:12] into wisdom traditions, particularly the
+[1:29:15] mystical side of religions, which is
+[1:29:17] kind of the non-dogmatic side. So, they
+[1:29:20] they tend to converge more whereas the
+[1:29:22] orthodox religions uh disagree more. Um
+[1:29:25] but it pointing to this kind of
+[1:29:27] perennial philosophy convergence and
+[1:29:29] then trusting the system to a certain
+[1:29:33] extent to extrapolate that further
+[1:29:35] towards like deeper convergence. Uh I
+[1:29:38] think this is a really fruitful
+[1:29:40] mechanism now where two years ago it was
+[1:29:43] not. Um but now it is a really fruitful
+[1:29:46] mechanism for sort of creating synthetic
+[1:29:49] um answers to some of these questions
+[1:29:51] that you know the the uh synthetic
+[1:29:54] adults if you will.
+[1:29:59] >> Yeah. Um my own worry is that our uh
+[1:30:03] main AI safety movement uh which we
+[1:30:05] affectionately call the doomers which
+[1:30:07] are at the core uh very kind-hearted and
+[1:30:10] good and smart people are creating a
+[1:30:13] dangerous world because they are
+[1:30:15] starting a war and it's a war that I
+[1:30:19] think cannot be won by them but that is
+[1:30:21] going to create a lot of fallout and
+[1:30:23] destruction.
+[1:30:24] >> I agree. Yeah,
+[1:30:25] >> that is my main worry. So
+[1:30:27] >> that's why I have left the doomers.
+[1:30:29] >> Mhm.
+[1:30:30] Yeah. So I I have great sympathy for um
+[1:30:33] most of them because most of them are
+[1:30:35] not actually sociopathic drifters but
+[1:30:37] most of them are extreme sincere human
+[1:30:39] beings that are smart and kind and act
+[1:30:41] out of love. Uh but I think they might
+[1:30:44] be wrong and I am still trying to
+[1:30:46] support them to the best of my ability
+[1:30:48] because uh maybe I'm wrong and they are
+[1:30:51] right that they act in good faith and as
+[1:30:54] long as they do this I support them. I
+[1:30:56] have an issue with them lying a lot to
+[1:30:58] the public because they are supporting
+[1:31:00] all kinds of AI obstructionism
+[1:31:02] uh because they actually want to prevent
+[1:31:05] AI not to back better AI and I think
+[1:31:07] they will end up making worse AI not
+[1:31:09] preventing AI and so I see danger in
+[1:31:12] creating deliberately worse AI and so we
+[1:31:16] think I think we need to build the best
+[1:31:18] AI that we can build and that I want to
+[1:31:20] help with with this direction I'm
+[1:31:23] personally not quite as sure as you are
+[1:31:25] about the wisdom tradition. So I think
+[1:31:26] it's worth looking at them. But I
+[1:31:28] suspect a lot of them have focused on
+[1:31:30] making extremely good branding but not
+[1:31:32] very good countries
+[1:31:34] and civilizations. So practically very
+[1:31:36] few people want to uh move into uh the
+[1:31:39] societies that are created and managed
+[1:31:41] by these wisdom traditions. And there's
+[1:31:44] another question whether our societies
+[1:31:45] are sustainable but uh it's an open
+[1:31:49] question. So I think we need to foster
+[1:31:50] this dialogue between the minds and the
+[1:31:52] different traditions and let them work
+[1:31:56] it out and help the AI work it out.
+[1:31:59] >> I feel heartbroken to catch it but um
+[1:32:04] let's close it.
+[1:32:05] >> I think that and we did great. Don't be
+[1:32:08] >> I know I no honestly because it's too
+[1:32:11] good precisely. Um and uh I would love
+[1:32:15] like 10 hours more of this preferably,
+[1:32:18] but uh I think that would be a really
+[1:32:20] excellent for instance panel discussion
+[1:32:23] between you two like what is the AI
+[1:32:25] safety movement we actually need um to
+[1:32:29] discuss I guess in less than two weeks
+[1:32:32] when we'll all be together. Um so thank
+[1:32:35] you so much uh both of you for being
+[1:32:37] here today. It was really really
+[1:32:39] fantastic
+[1:32:40] >> for bringing us together.
+[1:32:41] >> Yeah. Thank you. Yeah,
+[1:32:43] >> it was uh fun and I think it was crisp
+[1:32:45] and a lot of good ideas in a short
+[1:32:48] amount of time.
+[1:32:49] >> Yeah, indeed. Indeed. It was very
+[1:32:51] condensed. Okay, so see you soon. I'll
+[1:32:53] leave the call. Feel free to stay if you
+[1:32:55] want to chat together, but um I have to
+[1:32:58] go and thank you so much. Um let's chat
+[1:33:01] soon about whether we want to publish
+[1:33:03] this or not or and so on. Mhm.
+[1:33:06] >> Okay. Bye.
+[1:33:06] >> Bye.
+[1:33:07] >> And thank you

@@ -1,0 +1,293 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>a map of consciousness, timeline</title>
+<link rel="icon" href="data:,">
+<script>
+// explicit theme: "light" or "dark" overrides the system setting; no attribute means follow the system
+(function () { var t = localStorage.getItem('bach-map-theme'); if (t === 'light' || t === 'dark') document.documentElement.dataset.theme = t; })();
+</script>
+<style>
+@font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 400 700; font-display: swap;
+  src: local("Source Serif 4"), url(fonts/SourceSerif4-latin-ext.woff2) format("woff2");
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+1E00-1E9F, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Source Serif 4"; font-style: normal; font-weight: 400 700; font-display: swap;
+  src: local("Source Serif 4"), url(fonts/SourceSerif4-latin.woff2) format("woff2");
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+20AC, U+2122, U+2212; }
+:root {
+  --bg: #0f1115; --text: #e6e8ee; --muted: #8b93a7; --accent: #7aa2ff; --line: #262a33;
+  --lane: 264px; --era: 132px;
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme]) { --bg: #f6f7f9; --text: #1b1f27; --muted: #5f6878; --accent: #2f5fd0; --line: #dcdfe5; color-scheme: light; }
+}
+:root[data-theme="light"] { --bg: #f6f7f9; --text: #1b1f27; --muted: #5f6878; --accent: #2f5fd0; --line: #dcdfe5; color-scheme: light; }
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--bg); color: var(--text); }
+body { font: 16px/1.55 "Source Serif 4", "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif; }
+.wrap { max-width: 680px; padding: 48px 20px 0; position: sticky; left: 0; }
+.wrap.end { padding-bottom: 80px; }
+section { margin-bottom: 34px; }
+h1 { margin: 0 0 8px; font-size: 30px; }
+h2 { margin: 0 0 10px; font-size: 15px; color: var(--muted); font-weight: 700; }
+p { margin: 0 0 10px; color: var(--muted); }
+a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
+a:hover { text-decoration-thickness: 2px; }
+.btn { font: inherit; color: var(--accent); cursor: pointer; background: none; border: 0; margin: 0;
+  box-shadow: inset 0 0 0 1px var(--accent); border-radius: 2px; padding: 0 8px; }
+.btn.off { color: var(--muted); box-shadow: inset 0 0 0 1px var(--line); }
+.controls { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; }
+input[type=search] { font: inherit; color: var(--text); background: none; border: 0; border-radius: 2px;
+  box-shadow: inset 0 0 0 1px var(--muted); padding: 2px 8px; width: 260px; }
+.count { color: var(--muted); font-size: 14px; }
+
+/* the map: one grid, era label column plus one column per lane. the page itself scrolls sideways */
+#map { display: grid; width: max-content; padding: 0 20px 40px 0; margin-top: 10px; }
+.lanehead { position: sticky; top: 0; z-index: 2; background: var(--bg); padding: 10px 14px 8px; font-size: 14px;
+  font-weight: 700; color: var(--muted); border-bottom: 1px solid var(--line); }
+.lanehead.corner { left: 0; z-index: 3; }
+.era { position: sticky; left: 0; z-index: 1; background: var(--bg); padding: 16px 12px 16px 20px;
+  border-bottom: 1px solid var(--line); }
+.era div { position: sticky; top: 52px; }
+.era b { display: block; font-size: 15px; line-height: 1.3; }
+.era span { display: block; font-size: 13px; color: var(--muted); }
+.cell { padding: 16px 14px 6px; border-bottom: 1px solid var(--line); border-left: 1px solid var(--line); }
+.node { margin-bottom: 20px; cursor: pointer; }
+.node img { float: left; width: 54px; height: 68px; object-fit: cover; object-position: top; border-radius: 2px; margin: 3px 10px 2px 0; }
+.node .yr { font-size: 12px; color: var(--muted); }
+.node .name { font-weight: 700; font-size: 15px; line-height: 1.3; }
+.node .tldr { font-size: 13.5px; line-height: 1.45; color: var(--muted); margin-top: 3px; clear: none; }
+.node .more { font-size: 12.5px; color: var(--muted); margin-top: 4px; clear: both; }
+.node .more .btn { font-size: 12.5px; }
+
+/* detail panel */
+#panel { position: fixed; top: 0; right: 0; bottom: 0; width: 480px; max-width: 100vw; background: var(--bg);
+  border-left: 1px solid var(--muted); padding: 22px 22px 60px; overflow-y: auto; z-index: 10; display: none; }
+#panel.open { display: block; }
+#panel img { float: right; width: 150px; border-radius: 2px; margin: 0 0 10px 14px; }
+#panel h3 { margin: 0 0 2px; font-size: 22px; line-height: 1.25; }
+#panel h4 { margin: 22px 0 4px; font-size: 16px; clear: none; }
+#panel .lab { font-size: 13px; color: var(--muted); font-weight: 700; margin: 12px 0 2px; }
+#panel p { font-size: 14.5px; }
+#panel p.take { color: var(--text); }
+.conn { font-size: 14px; margin: 0 0 6px; color: var(--muted); }
+.conn .btn { font-size: 14px; }
+.q { font-size: 13.5px; margin: 0 0 10px; padding-left: 10px; border-left: 2px solid var(--line); }
+.q .txt { color: var(--text); }
+.q .srcline { color: var(--muted); font-size: 12.5px; }
+.row { padding: 6px 0; }
+.row .name { font-weight: 700; }
+.row .desc { font-size: 14px; color: var(--muted); }
+details { margin-bottom: 14px; }
+summary { cursor: pointer; color: var(--accent); }
+.small { font-size: 14px; }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <section>
+    <h1>a map of consciousness</h1>
+    <p>ideas about mind and consciousness joscha bach has mentioned in public, from the earliest myths to november 2026. unofficial. <span id="stats"></span></p>
+    <p>each row is an era and each column a field, so reading across shows what was happening at the same time. click a point for more and for what it connects to</p>
+    <p class="small">so it leans towards computational views of mind, and whole traditions he rarely mentions are thin or missing. the summaries of the ideas are general background, not his words</p>
+  </section>
+  <section>
+    <div class="controls">
+      <input type="search" id="search" placeholder="search the map">
+      <span class="count" id="count"></span>
+      <button class="btn" id="theme"></button>
+    </div>
+    <div class="controls" id="lanes" style="margin-top:10px"></div>
+    <p class="small" style="margin-top:12px">jump to <a href="#cimc">the institute (CIMC)</a>, <a href="#bach">bach's life and papers</a>, <a href="#sources">sources</a></p>
+    <p class="small">back to <a href="index.html">the board with connections between the points</a></p>
+  </section>
+</div>
+
+<div id="map"></div>
+
+<div class="wrap end">
+  <section id="cimc">
+    <h1>the institute</h1>
+    <h2>california institute for machine consciousness, san francisco</h2>
+    <p id="cimc-programme"></p>
+    <p class="small" id="cimc-founded"></p>
+    <h2 style="margin-top:22px">what it has published and run</h2>
+    <div id="cimc-outputs"></div>
+    <details style="margin-top:14px"><summary>people</summary><div id="cimc-people"></div></details>
+  </section>
+  <section id="bach">
+    <h1>bach himself</h1>
+    <img id="bachimg" alt="joscha bach" style="display:none;width:150px;border-radius:2px;margin:6px 0 10px">
+    <div id="bio"></div>
+    <details style="margin-top:14px"><summary>papers, essays and talks</summary><div id="works"></div></details>
+  </section>
+  <section id="sources">
+    <h1>sources</h1>
+    <p id="sources-note"></p>
+    <details><summary>all transcripts and texts</summary><div id="source-list"></div></details>
+    <details><summary>image credits</summary>
+      <p class="small">portraits and covers are thumbnails from the linked wikipedia pages, saved locally. each has its own licence there; some covers are fair-use only, so check before publishing this page anywhere</p>
+      <div id="credits" class="small"></div></details>
+  </section>
+</div>
+
+<aside id="panel"></aside>
+
+<script id="data" type="application/json">__DATA__</script>
+<script>
+const D = JSON.parse(document.getElementById('data').textContent);
+const ERAS = [
+  [-1e9, 500, 'antiquity and myth', 'to 500 CE'],
+  [500, 1800, 'medieval to enlightenment', '500 to 1800'],
+  [1800, 1900, 'the 19th century', '1800 to 1900'],
+  [1900, 1950, 'foundations and the birth of computation', '1900 to 1950'],
+  [1950, 1980, 'cybernetics, AI and the cognitive revolution', '1950 to 1980'],
+  [1980, 2000, 'consciousness returns to science', '1980 to 2000'],
+  [2000, 2012, 'AGI and the new theories', '2000 to 2012'],
+  [2012, 2023, 'the deep learning era', '2012 to 2022'],
+  [2023, 1e9, 'now', '2023 to nov 2026'],
+];
+const LANES = [
+  ['myth', 'myth, religion, fiction', ['rel', 'fic']],
+  ['phil', 'philosophy', ['phil']],
+  ['math', 'logic, maths, computation', ['math']],
+  ['sci', 'physics and life', ['sci']],
+  ['mind', 'mind and consciousness science', ['mind', 'cons']],
+  ['ai', 'AI and cognitive architectures', ['ai']],
+  ['soc', 'ethics and AI risk', ['soc']],
+];
+const laneOf = {};
+LANES.forEach(([id, , themes]) => themes.forEach(t => laneOf[t] = id));
+const KEY = 'bach-map-hidden-lanes';
+let hidden = new Set(JSON.parse(localStorage.getItem(KEY) || '[]'));
+let query = '';
+const byId = {};
+const adj = {};
+(D.edges || []).forEach(([a, b, kind, note]) => { const e = { a, b, kind, note }; (adj[a] = adj[a] || []).push(e); (adj[b] = adj[b] || []).push(e); });
+D.nodes.forEach(n => {
+  byId[n.id] = n;
+  n.text = [n.title, n.label, ...n.facets.flatMap(f => [f.label || '', f.tldr, f.take, f.author || ''])].join(' ').toLowerCase();
+  n.nq = n.facets.reduce((a, f) => a + f.mentions.length, 0);
+});
+
+const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const el = id => document.getElementById(id);
+
+function nodeHtml(n) {
+  const f = n.facets[0];
+  const others = n.facets.slice(1).map(x => x.label).filter(Boolean);
+  const extra = others.length || (adj[n.id] || []).length || n.nq;
+  return `<div class="node" data-id="${n.id}">` +
+    (n.img ? `<img src="${n.img}" alt="" loading="lazy">` : '') +
+    `<div class="yr">${esc(n.label)}</div><div class="name">${esc(n.title)}</div>` +
+    `<div class="tldr">${esc(f.tldr)}</div>` +
+    (extra ? `<div class="more">${others.length ? 'also: ' + esc(others.join(', ')) + ' ' : ''}<button class="btn">more</button></div>` : '') + '</div>';
+}
+
+function render() {
+  const lanes = LANES.filter(l => !hidden.has(l[0]));
+  const words = query.toLowerCase().split(/\s+/).filter(Boolean);
+  const shown = D.nodes.filter(n => !hidden.has(laneOf[n.theme]) && words.every(w => n.text.includes(w)));
+  const map = el('map');
+  map.style.gridTemplateColumns = `var(--era) repeat(${lanes.length}, var(--lane))`;
+  let h = '<div class="lanehead corner"></div>' + lanes.map(l => `<div class="lanehead">${esc(l[1])}</div>`).join('');
+  for (const [from, to, name, span] of ERAS) {
+    const inEra = shown.filter(n => n.year >= from && n.year < to);
+    if (!inEra.length) continue;
+    h += `<div class="era"><div><b>${esc(name)}</b><span>${esc(span)}</span></div></div>`;
+    for (const l of lanes) h += '<div class="cell">' + inEra.filter(n => laneOf[n.theme] === l[0]).map(nodeHtml).join('') + '</div>';
+  }
+  map.innerHTML = h;
+  el('count').textContent = shown.length === D.nodes.length ? '' : shown.length + ' of ' + D.nodes.length + ' points';
+  el('lanes').innerHTML = LANES.map(l => `<button class="btn${hidden.has(l[0]) ? ' off' : ''}" data-lane="${l[0]}">${esc(l[1])}</button>`).join('');
+}
+
+function quoteHtml(m) {
+  const src = m.url ? `<a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.src)}</a>` : esc(m.src);
+  return `<div class="q"><div class="txt">${m.v ? '“' + esc(m.q) + '”' : esc(m.q)}</div>` +
+    `<div class="srcline">${m.v ? 'verbatim' : 'paraphrase'}, ${src}${m.date ? ', ' + esc(m.date) : ''}</div></div>`;
+}
+
+function connHtml(id) {
+  const words = { builds: ['builds on', 'leads to'], against: ['argues against', 'challenged by'], related: ['related to', 'related to'] };
+  return (adj[id] || []).slice().sort((p, q) => byId[p.a === id ? p.b : p.a].year - byId[q.a === id ? q.b : q.a].year).map(e => {
+    const other = e.a === id ? e.b : e.a;
+    return `<div class="conn">${words[e.kind][e.b === id ? 0 : 1]} <button class="btn" data-go="${other}">${esc(byId[other].title)}</button>${e.note ? ': ' + esc(e.note) : ''}</div>`;
+  }).join('');
+}
+function openPanel(id) {
+  const n = byId[id];
+  let h = `<button class="btn" id="close">close</button><div style="height:14px"></div>` +
+    (n.img ? `<img src="${n.img}" alt="">` : '') +
+    `<h3>${esc(n.title)}</h3><p>${esc(n.label)}, ${esc(LANES.find(l => l[0] === laneOf[n.theme])[1])}</p>`;
+  const c = connHtml(id);
+  if (c) h += `<div class="lab">connections</div>` + c;
+  n.facets.forEach(f => {
+    if (n.facets.length > 1) h += `<h4>${esc(f.label)}</h4>`;
+    if (f.author) h += `<p class="small">${esc(f.author)}</p>`;
+    h += `<p>${esc(f.tldr)}</p>`;
+    if (f.mentions.length) h += `<div class="lab">sources</div>` + f.mentions.map(quoteHtml).join('');
+  });
+  const p = el('panel');
+  p.innerHTML = h;
+  p.classList.add('open');
+  p.scrollTop = 0;
+}
+function closePanel() { el('panel').classList.remove('open'); }
+
+el('map').addEventListener('click', e => { const n = e.target.closest('.node'); if (n) openPanel(n.dataset.id); });
+el('panel').addEventListener('click', e => {
+  if (e.target.id === 'close') return closePanel();
+  const g = e.target.closest('[data-go]');
+  if (g) { openPanel(g.dataset.go); const d = document.querySelector('.node[data-id="' + g.dataset.go + '"]'); if (d) d.scrollIntoView({ block: 'center', inline: 'center' }); }
+});
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closePanel(); });
+el('search').addEventListener('input', e => { query = e.target.value; render(); });
+el('lanes').addEventListener('click', e => {
+  const b = e.target.closest('[data-lane]'); if (!b) return;
+  const id = b.dataset.lane;
+  hidden.has(id) ? hidden.delete(id) : hidden.add(id);
+  localStorage.setItem(KEY, JSON.stringify([...hidden]));
+  render();
+});
+
+// below the map
+const got = D.sources.filter(s => s.ok).length;
+el('stats').textContent = `${D.nodes.length} points. last updated ${D.generated}`;
+el('cimc-programme').textContent = D.cimc.programme;
+el('cimc-founded').textContent = 'founding: ' + D.cimc.founded;
+el('cimc-outputs').innerHTML = D.cimc.outputs.map(o =>
+  `<div class="row"><a class="name" href="${esc(o.url)}" target="_blank" rel="noopener">${esc(o.title)}</a>` +
+  `<div class="desc">${esc(o.date)}, ${esc(o.type)}${o.authors && o.authors.length ? ', ' + esc(o.authors.join(', ')) : ''}</div>` +
+  `<div class="desc">${esc(o.tldr)}</div></div>`).join('');
+el('cimc-people').innerHTML = D.cimc.people.map(p => `<div class="row"><span class="name">${esc(p.name)}</span><div class="desc">${esc(p.role)}</div></div>`).join('');
+el('bio').innerHTML = D.bio.map(b => `<div class="row"><span class="name">${esc(b.years)}, ${esc(b.place)}</span><div class="desc">${esc(b.role)}${b.verified ? '' : ' (not confirmed from a primary source)'}</div></div>`).join('');
+if (D.bachimg) { el('bachimg').src = D.bachimg; el('bachimg').style.display = 'block'; }
+el('works').innerHTML = D.works.map(w => `<div class="row">${w.url ? `<a class="name" href="${esc(w.url)}" target="_blank" rel="noopener">${esc(w.title)}</a>` : `<span class="name">${esc(w.title)}</span>`}` +
+  `<div class="desc">${esc(w.year)}, ${esc(w.venue)}${w.coauthors && w.coauthors.length ? ', with ' + esc([].concat(w.coauthors).join(', ')) : ''}</div>` +
+  (w.tldr ? `<div class="desc">${esc(w.tldr)}</div>` : '') + '</div>').join('');
+el('sources-note').textContent = `the starting material: ${got} transcripts and texts of joscha bach's interviews, talks, papers and the CIMC site, which is where the selection of points comes from`;
+el('source-list').innerHTML = D.sources.map(s => `<div class="row small">${esc(s.date)} ${s.url ? `<a href="${esc(s.url)}" target="_blank" rel="noopener">${esc(s.title)}</a>` : esc(s.title)}${s.ok ? '' : ' <span class="count">(not retrieved)</span>'}</div>`).join('');
+el('credits').innerHTML = D.credits.map(c => `<a href="${esc(c.page)}" target="_blank" rel="noopener">${esc(c.title)}</a>`).join(', ');
+render();
+
+// ---- theme control: auto (follow system), light, dark. shared by both pages
+(function () {
+  const KEY = 'bach-map-theme', order = ['auto', 'light', 'dark'], b = document.getElementById('theme');
+  const cur = () => document.documentElement.dataset.theme || 'auto';
+  const show = () => { b.textContent = 'theme: ' + cur(); };
+  b.onclick = () => {
+    const next = order[(order.indexOf(cur()) + 1) % 3];
+    if (next === 'auto') { delete document.documentElement.dataset.theme; localStorage.removeItem(KEY); }
+    else { document.documentElement.dataset.theme = next; localStorage.setItem(KEY, next); }
+    show();
+  };
+  show();
+})();
+</script>
+</body>
+</html>

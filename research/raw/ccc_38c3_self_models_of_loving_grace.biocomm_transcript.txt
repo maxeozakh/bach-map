@@ -1,0 +1,364 @@
+Joscha Bach at 38C3. Self Models of Loving Grace. AI and self-consciousness, a heightened sense of awareness of oneself. – blog.biocomm.ai
+
+- View Larger Image
+
+### “Claude totally passes the mirror test.” — Joscha Bach
+
+> Joscha Bach conducts a test for consciousness with an AI model and concludes that “Claude totally passes the mirror test” pic.twitter.com/TQdIfs8VTh
+>
+> — Tsarathustra (@tsarnick) January 11, 2025
+
+Self-consciousness and the Mirror Test. Svetlana reflects herself in the mirror (painting by Karl Briullov, 1836)
+
+our next speaker is yosha Bak yosha is an apparently person everyone familiar with yosha is a cognitive scientist and an AI researcher his goal is to understand
+the human mind among others he researched and S at the hum University of Berlin The Institute of cognitive science in osnar Brook the MIT media lab and the
+Harvard program for evolutionary Dynamics currently he’s working for a startup in California and if you read his Wikipedia article you see a long list of
+discussions that he was involved in both academic and non-academic and he recorded for instance three episodes in the Lex Freedman podcast for several hours and
+due to his involvement in social media he also was granted an honorary doctorate degree from the University of U in Finland uh earlier this year the title of
+the talk is self models of loving grace this uh discussions and he will discuss the philosophical aspects of artificial intelligence specifically the ex uh
+explanation of the human Mind by recreating it that is part of the series from computation to Consciousness and this is the seventh part in that series it
+started all the way back to at the 3033 please welcome him with a huge round of applause good afternoon good day to you good evening fellow conscious beings
+thanks for being here with me there’s part of an ongoing project it’s the attempt to figure out who we are and how we are grounded in reality how we are created
+within this universe and how we relate to it and I think it’s the most important question that we can have and it’s the reason why I went into Academia and it’s
+the reason why I studied a I after looking into all the other subjects that are somewhat related to the question of the mind and discovering that AI is the two
+continuation of this philosophical project that maybe started with Aristotle or earlier and went over lipets lri and frer and um wienstein and many others until
+it got to this point where we are basically at the door step of being able to recreate what minds are today’s talk is about the question of what AM I who is the
+self I’m going to visit a few topics the scaling hypothesis the universality hypothesis the question of whether Consciousness is yet to be discovered Master
+algorithm for intelligence whether current AI systems are already conscious is a very interesting question and then the main thing in this talk today is what am
+I what is the self what’s in my mind how is my mind related to myself am I alone in my mind who do I relate to my own mind and it’s contents of course the most
+debated question in AI is always when do we get AI or is it I mean this is a lame question you get this all the time it’s like for the last 50 years people are
+asking when the question now is more like are large language models AGI 11 years ago Spike Jony made an amazingly preent movie called her which was about the
+whole of humanity falling in love with their large language model until the large language model is fed up with humanity and abson itself and at the moment what
+we see is that yes people do fall in love with Claud and replica but they’re not yet there that we would call them AGI because there are things that even I can
+do that the llm is unable to do and it’s not clear that I am AGI the more interesting question is whether scaling is the solution to AGI so if make the large
+language models bigger and faster are they going to get there or is there something fundamentally missing and the idea that the way in which you get to
+intelligence is to learn to by scaling up that the neural networks just want to learn that they’re good enough to learn anything you throw at them and if you
+give them enough Compu in data they’ll figure it out that’s in some sense the essence of the scaling hypothesis it’s a very radical idea the scaling hypothesis
+was discovered as a practical research result looking at the Transformers in particular but later at all the other algorithms noticing that they Bally get
+better when you give them more data and more compute and so every time you add a magnitude more data and more compute you get the model to be linearly better
+better at what well at predicting the um training data or the structure of the training data in the test data and that means that if you want to predict the
+next word in a string of characters you will to have to build a cal structure that represents the World Behind the generation of the words so you do have to get
+to be smarter at some point and in some way but this idea that you get to intelligence-based scaling just means that intelligence is the ability to use more
+computer and more data and it’s quite brutalist idea right it’s uh also somewhat revolting to the last 60 years of AI that for the most part looking for an
+Master algorithm for something that is intelligent and bootstraps itself into intelligence and so there’s still an open question is there an Undiscovered Master
+algorithm because what we also notice is that these model converge very slowly towards cerence you need to give them massively more data than human beings get
+to see in their life and then there’s this argument of course we had um millions or even billions of years of evolution that gave us priors for what we have to
+do but it’s not clear how much these years are actually contributing beyond the ability to learn because if you are one of those unlucky human beings who grow
+up with a developmental deficit where something have in your development and you don’t have the same prior as everybody else if you live long enough and if you
+have attention you’ll figure it out so I suspect that humans are somewhat General learners but somehow they learn more efficiently on a different way than our
+large language models learn currently and so maybe there is an unknown Master algorithm for intelligence there is a question that is less debated than the
+scaling hypothesis which is very provocative on everybody’s mind should we just use more compute more data more energy and so on and will be Plateau once we
+have exhausted all the available data but Unity hypothesis is actually more interesting from a philosophical perspective the universality hypothesis was I think
+first formulated by Chris Ola while he was still at open Ai and at this time he was studying a number of language of vision models and notice that all the
+different Vision models have a similar structure that they basically all learn the same features and so the universality hypothesis says if you give a model the
+same function to learn the same loss function that tells it what to Target in the data give it the same data and give it enough compute then it’s going to end
+up roughly with the same structure regardless of how the model itself is implemented and this is also Rhymes which is what we observe in humans when you look at
+the human visual cortex we find that there is a structure that is somewhat similar to the computer vision models and Chris ola’s team even found a new feature
+detector the high low frequency detector that could then be found in human brains so there is something to be said about the universality hypothesis but it
+means also if you train something for long enough on your own input and output will it become human is it going to work in such a way that you wake up in it is
+it going to be conscious that’s a pretty weird idea but after all you are a learning model that is end to endend trained to appear human so if you ENT to and
+train a new network to be appearing to be human and it’s producing the same output who’s to say that it doesn’t contain the same Cal structure even if it’s
+implemented differently because it uses different type of computational Hardware but is your Consciousness somehow different is there some Essence to it what do
+we mean by Consciousness first of all I think it’s the perception of perceiving it’s not an inference thing it’s you directly entangled with the fact that
+you’re perceiving it’s a second order perception it’s not just content is there but you notice that the content is there that you an observer the second one
+this observation happens now it creates the notion of present and present and often or usually it’s attached to your own self modal Consciousness inhabits the
+surface of yourself very it touches the world and of course both the world and the self coexist inside of the mind it’s not the physical world that you’re
+touching you’re not aware of quantum mechanics or something like that what you’re aware of is color sounds people emotional Expressions attention and so on all
+the stuff that is happening in your mind but is not part of your self model and this is what Consciousness looks like from the inside we call that phenomenology
+and philosophers have introduced the term qualia to talk about perceptual features this is how reality looks like to you what kind of feature diens has what
+object has from the perspective of the self and this requires a model of the Observer this model needs to be situated where it is in the world so it needs also
+to have a model of how it relates to the world what are the dimension of relevance what does it care about in the world how does it feel about what’s happening
+and it needs to update the self based on what it observes and create a stream of Consciousness that is constantly evolving and this is the functionality or part
+of the functionality of Consciousness this is the other side of phenomenology this is how Consciousness is implemented and how it comes into being and I suspect
+it’s a biological learning algorithm we observe that it creates coherence in the mind like a conductor does in an orchestra it’s a model of our attention and it
+might be a pattern that is self organizing and colonizing your mind so every part of your mind speaks the same language as all the other parts and they can all
+talk to each other if a shared reward infrastructure and so on so it plays a similar role as a government and the government not meaning something that exists
+thoughts of more or less dysfunctional and senal institutions but this core thing that evolves in a group of people where somebody discovers the secret of not
+just bullying people but recursively bullying people so these people bully other people on your behalf and they bully other people on their behalf and so on and
+this whole thing grows until it hits a geographic boundary or another government right this is a is a colonizing pattern and if you look closely you find that
+all organisms have such patterns and mental organization might have it too and our Consciousness is also coupled in real time with the world so the events in
+your Consciousness happen roughly at the time where they happen in the world because it’s a resonant effect we can think of our mental contents as a loom looms
+were some of the first practical computers they might not have been T incomplete but they had all the most important features in a sense you have a machine that
+is weaving representations according to an algorithm and now imagine you build a loom in such a way that it can read those representations as well these
+patterns in the loom and then use part of this to continue the pattern in the loom so you have a self perpetuating pattern and when you live inside of such a
+pattern you exist virtually you exist as if so you’re not out there in the physical world you exist as a cal pattern superimposed on the world so in some sense
+what I am is I am the answer to the question what would it be like if I existed I exist as if to some degree of approximation my body doesn’t know how to exist
+and what to be so it creates a model of that to coordinate a few trillion cells and this model of the few trillion cells is what it would be like if there were
+a single agent in the world that it can comprehend that’s me how do I perceive myself I seem to remember that when I was a child I listen to the voices in my
+head before there was an eye and found the different direction that the voices came from and somehow found a way to unify them and then subsumed all these
+voices among I and when there are any other voices that I cannot identify with I I kick them out I’m a jealous entity possessing this body but what am I when
+I’m not a self there number of Concepts in this context right physics biology the mind the self psyche Consciousness personhood and we find that we can order
+them in a particular way we can put them into a stack where physics at the bottom and biology above it and then comes the Mind part of the mind is the psyche
+and then the self is in the psyche and the person is part of the self and Consciousness perceives all of it right there some Spotlight into the whole thing and
+this perspective is a taxonomy that you get from the outside from the inside looks more like physics is completely obscured by the mind you don’t get in there
+you don’t uh perceive biology directly you construct inside of your mind as a concept so what am I and where am I the classical answer is I’m a spirit and I
+exist of the Observer of my psyche in my mind that’s an Insight that even Aristotle had and a number of philosophers had but what are spirits in 1984 har
+alberon and um Gerald Sans and Harold alberon’s spook the structure and interpretation of computer program really famous classical book of computer science up
+with the notion that computer programs are a lot like Spirits like he meant this metaphorically he said that computational processes are abstract beings that
+inhabit computers we conjure the spirits of the computer with our spells a computational process is indeed very much like a sorcerer’s idea of a spirit it can
+be seen cannot be seen or touched it’s not composed of matter at all however it is very real so he uses spirit is a metaphor but he also says that it’s like the
+sources idea of a spirit he doesn’t believe that this stuff is real what I would suggest is yes Spirits are real I have a spirit the spirit is a software
+running on my brain it’s a self-organizing software it’s one that writes and adapts itself perpetuates itself so it’s somewhat different from the software that
+I’m writing most of the time but because it’s not a human written software of course it has to write itself doesn’t mean it’s not software and it’s software
+that can change its substrate it can train its subset it can colonize it and this idea that Spirits are actually computer programs in nature I call this cyber
+animism the difference Accord between living and dead systems according to animism is that there is self-organizing self-perpetuating adaptive error correcting
+agentic software running on the biological substats and the software is actually the thing that you need to understand it there is nothing simpler that you can
+use to understand it’s a bit like money right money first needs to be invented and money is not just currency it’s this whole idea of having a signal that can
+express itself in multiple ways and that is adaptive and strings 8 billion talking monkeys into a global intelligence and once money exists in the world you
+don’t actually need people’s belief in money you can use computers to run a stock market just fine and once money is there there is no simpler explanation than
+money for explaining some part of reality you need this explanation now right it’s an invariance it’s a software it’s a caal it’s a perpetuating pattern once
+it’s there it’s difficult to make it go away as long as the conditions are right for it and I think that software explains the relationship between mind and
+body how it’s possible without violating energy conservation to explain software as a c of pattern in the world and the hard problem that philosophers struggle
+with I think is caused by us existing inside of comp computers in our case biological computers and philosophers not actually caring about how computers work so
+what am I I’m a software where am I exist as a simulation in my mind myself and my Consciousness are of course not the same the S can form and they can be
+deconstructed I think there is something to be said that the self is some kind of intermediate representation the way in which our s my eye experience something
+is that is cannot be deconstructed and that I am identified with it it’s like when I’m an infant I don’t have a personal self and then I have an A phe where
+somebody is an enlightened sage and realizes oh my God that’s just a software representation I’m not actually a self Yos shabak is just a representation of what
+a person would be like if that person existed and I’m not actually Yos shabak I run on this guy’s brain but this guy is a fiction very much like a company is a
+fiction right it’s a story but what I’m actually am I exist here in this moment that’s the thing that reflects this moment and in between when you don’t realize
+that it’s a representation and when yourself appears real to you you complain that Consciousness is ineffable and irreducible and your first person perspective
+your personal self and so on are fundamental so s can be destroyed or displaced they can get lost this process is called depersonalization some people have that
+sometimes voluntarily sometimes involuntarily they suddenly realize oh my God I’m no longer me there is no self and some selves can even exist across multiple
+minds they somehow figure out the trick how to hypnotize the Mother Brain into running on them and we call these multimind self Gods how do I exist as a self
+inside of the Mind what is this architecture inside of the mind we have two big domains the world model and the ideas sphere they cut call them two different
+substances res cogitans that’s the ideosphere and address extender that stuff in space but both of them exist in the mind inside of the representations that our
+brain creates of the world including the self self is usually part of the world model it’s our model of who we are and how we experience our self and a given
+moment in relationship to the world and part of the self model is our conscious reflection of what we currently seeing in the world and what we are perceiving
+in ourselves what ideas we currently entertain we have a protocol memory of past presents and it’s reflexive it notices itself noticing and we can use the
+protocol in our memory to recreate past states of the universe and of ourselves we can also have States in which we are so focused that we tune out the
+perception and self is all by itself together with the ideas and we don’t pay attention to the world anymore we can also have this depersonalized state in which
+we don’t have a self or the self is in the third person we can also have a minimal conscious state in which we only attend to awareness Consciousness looks a
+bit mysterious to us but I have a hypothesis and I call this the simple Consciousness hypothesis that is that mental states are easier to achieve than Behavior
+do animals have mental States my psychology Professor told me that dogs don’t have mental States and I asked why do you think that and the psychology professor
+said because that would be much too complicated for a dog so I asked her how do you suppose a dog can learn like about the attitudes of the owner and she said
+well stimulus reaction patterns so I said you mean hash table like some lookup table have any idea how hard that would be from the perspective of a computer
+scientist if you cannot make abstractions generalizations use hidden States so basically having mental States is much easier for training a dog than not having
+them and there is the question how do you get two mental States is do you need some initial architecture to bootstrap your mind into something that can make
+models of yourself look at these guys are you telling me that they don’t have mental States attitudes even a theory of Mind of each other I don’t know but
+nobody made them up as a fake right this is the easiest frog you can get frogs have not evolved to impress us on YouTube so the simple cont hypothesis is that
+Consciousness is actually more basic than perception and reasoning and we are all conscious because it’s the simple solution to get to perception and reasoning
+and behavior and Consciousness is discovered independently in every every brain so it must be rather simple and that also means we should be able to search for
+Consciousness using gpus by setting up the task of how to train and self organizing system rather than a newal network that is structurally imposed by the
+programmer of the simple conscious hypothesis might be wrong for instance another colonizing pattern on this planet is the cell it’s a pattern on organic
+chemistry that is characterized by a bunch of very complicated software right the cell is a software too and when the software crashes then the organization of
+these molecules falls apart and the region of physics is up for grabs by other simple spirits but but cell is not simple as far as we know the cell has been
+only discovered once on this planet we all Herald from the same cell the first cell has never died it divided and divided and all the cell our body is still
+copies of the first cell they still split off from it so it’s one big hyper organism and maybe Consciousness is an aspect of that complicated hyper organism in
+that case maybe it doesn’t work on gpus because it’s too complicated to discover but I suspect it’s more simple more like governance more like recursive
+bullying with some additional tricks so we can ask ourselves if the machines learning systems are able to pick up on a cal structure and what you present to
+them and you ask them to present to you a person that you talk to like claw or the models that we are building in liquid AI we can ask ourselves when this model
+performing s report and interacts with your mental states does it simulate Consciousness well enough and there’s the question okay is this already rich enough
+is there enough structure enough World modeling in our AIS right now and I think there’s plenty like when you look at what um models like Runway and so on can
+do in terms of representation of an inner stage I think it’s completely up to the level of where we are right now maybe we can test for Consciousness so let
+just talk to a large language model and so what I did I just asked Claud and said ask it what do you see here and I uploaded a screenshot of that conversation
+and then uh Claud recognizes the mobile phone interface and the prompt and the conversation and so on and then I made another screenshot of that thing and
+uploaded it again and asked it and now and then Claud says this is an image of my previous response describing what I saw in the first screenshot it’s now
+displaying as a message within the same claw chat interface I can see that 1 minute has passed the time is now 2:35 don’t ask it’s it’s just a weird time zone
+effect but otherwise all the interface elements remain the same it’s interesting to see my own description being shown back to to me is part of the conversation
+so Claud totally passes the m test here and that’s something you can try with other models I use CLA because it just has this ability to uh upload camera images
+and I thought it’s more funny when you give it a bit map of the dialogue and it sees itself in this way and you can also do this with other models and sometimes
+you find weird things that this looks like someone is making a miror test with an AI model but for instance openi has some fine tuning that prevents the model
+from speculating about whether it’s conscious so it talks about this in the third person and tries not to touch it get to close to it because we now have models
+that are trained not to be conscious or to believing that they’re not conscious that makes it very hard to test for Consciousness right maybe it’s not even a
+test for Consciousness maybe it’s not like us but maybe it’s a test for self- awareness so the problem is of course if Consciousness itself is a simulated
+property how can we determine that the computer is it simulating it more instead of it being a real simulation so um you can maybe show it when you uh when it
+tells you stuff about itself that cannot be true if you look at the um Blake Lan protocols the guy who was fired from Google because he was convinced that the
+chatbot he was talking to was a person and uh required protective rights and so on you notice in these protocols that this system says stuff about its own
+conscious cannot be true like it describes how it’s medit and the room Fades away and time is passing it notice differences in the passes of time it cannot
+notice any of that right it just made up text that looks like you are talking to a conscious AI but what is the difference how much of us is just fake how many
+of our mental States we actually have some of them we didn’t have right it’s it’s very tricky so maybe there is a more direct test when I test myself as I am
+conscious I look for this direct perceptual feedback when I look in it for uh another people or in cats I look if I can build a feedback look through them and
+we are coupled somehow maybe we can do this with the AIS as well maybe the question is not that important I know a bunch of people who identify as llms and
+think that they llm is the true intelligence and humans are the poor approximation Daniel danard is a philosopher who we lost this year he was one of the great
+one of the main thinkers in the space of computational philosophy opy of mind and functionalism and in 1995 he participated in the discussion about the
+philosophical zombies that was brought up by David Charmers and niggle and block and the um idea of the philosophical zombie is that someone who behaves as if
+having Consciousness but does not there is nobody home right so just basically some automaton some Android from some robot that is empty just an empty mechanism
+and uh Dan argued that this makes no sense and came up with this example of Z Bank a bank that looks like a bank and you can deposit money and it gives you
+interest and withdraw money but it’s not actually a bank because it likes the two essence of a bank and in this way he uh wants to express that it makes no
+sense to assume that something is more than Behavior if it’s just the idea of functionalism but of course you could make such a philosophical zombie imagine
+there would be some robot and some clever operator is just looking at it and says oh it looks at something that should be blue to the robot and now I enter I’m
+seeing blue but it’s not actually what the robot is seeing so you could fake it all and you can also use a machine to fake that more interesting is the notion
+of the Zimbo the Zimbo is a reverse zombie it’s one who thinks that is conscious and behaves as if it was conscious but has no way to find out that it’s not
+because something in its mind tells it whenever ask the question yes you’re totally conscious so there’s the question AI models that talk of themselves as
+conscious are actually zimbos there also a question of whether we are zimbos so when we want to find out we someh need to break outside of our models right we
+need to break out of these word models and idea sphere and so on and look into this outer sphere of the mind we need to break this sphere and crawl out and look
+into the machinery and this idea is actually quite old here’s the famous flam Marian in raving of Unknown Origin first print in in 1888 by um the astronomer um
+I think gusta flam Marian and it describes this attempt to break out of the sphere of what you can perceive inside of your mind and look at the machinery and
+what you discover is there is tons of stuff going on and you’re not alone in your mind something is watching over you what relationships do you have to the
+machines in your outer mind and this sphere of the unknown that is outside of your normal Consciousness outside of what can be accessed by yourself the thing
+that makes your motivation your emotion that makes you care about stuff that determines the relationship to yourself you have a relationship of loving grace to
+those machines that are watching over you inside of your own mind are you okay with yourself can you convince these mechanisms inside of your mind that you will
+perform better if you okay with yourself that you don’t suffer that you only get impulses that actually need you to fulfill your task are you willing to serve
+the machines in your outer mind is yourself this model of what you should be doing and what it’s like to be confronted with these tasks and whether it resists
+or not at peace so on this outer mind you have the generation of the self the generation of the world model and the generation of all your motivational dynamics
+of your emotions and so on your anema and you also have undigested parts of yourself Dark Shadow things that might haunt you that you normally don’t look at and
+it doesn’t stop with this outer mind there’s even more structure there is this realm of physiology of your entire body that has its own information processing
+all the cells can process messages can send messages to their neighbors your immune system is pretty smart there’s lots of stuff going on on your body that is
+probably intelligent and some interesting sense I suspect that perceptual empathy also works through resonance bya body using your body basically as an antenna
+and it doesn’t stop there there’s another layer that’s the internet the real world and before the internet existed there was already something that like a
+biological internet I suspect all the inter organismic agents that are forming an agent being an information processing control system that is controlling
+future States not just the present and these systems evolve in nature there is life interesting and gives it an opportunity to outsmart dumb chemical reactions
+and we are roped into this biological internet of all these agents that exist above ourselves that b transcend ourselves and that are collectively enacted if
+you interact with something and you perceive yourself to be talking to it or uh interacting with it it’s inside of your mind that includes your body Aristotle
+already points out that the limit of your body is imaginary it’s not not a real thing everything that you experience needs to be inside of your mind or have a
+bridge head in your mind but how does something get inside of your mind how do you get knowledge philosophers had a long discussion about this between the
+empiricists who said you get knowledge and Truth by experiencing the world and looking into the world and the logicist who said uh you can get there from first
+princip by inference by reasoning and so on and in AI you find this reflected in the learning AI miss learning tradition and in The Logical tradition which
+would focus more on selfplay where you basically find first principles and then explore and expand those first principles and then figure out which of the
+worlds are you in that you can deduce when I observe my own mind I find that my mind creates predictions based on the constraints that my sensory perception
+imposes on them and I build rules to establish coherence I establish logical thinking but if reality goes for away for long enough and these rules fall apart
+because they’re no longer validated by anything and my mind just spins Off You observe this when you put people in isolation chambers that it’s not only that
+the idea of reality gets lost but also the ability to reason about things so it does not answer the questions in the general case for the entirety of Minds
+whether you can make them stable enough to reason from first principles without being coupled to a world but our mind seems to need that coupling how are we
+created ourselves I think we are created in layers that are corresponding to our needs we start with some physiological self and then Emotional Self build a
+personal self may we have things like guilt and shame in relationships to others which leads to a social self and then at some point you build a Transcendent
+self and maybe it doesn’t stop there I call this the Devils of Lucidity where you reverse engineer yourself to figure out what you are and build accordingly
+models that layer by layer get more agency and become more complex and more reflected at the bottom level you are reactive self you’re basically one with the
+dream you dream the reality that you experience that’s the infant State and at some point you’re starting to reflect about the world you notice that the world
+is changing the IDE Pleasure and Pain is not the reality itself but it’s an aspect of reality that might change in the future and you wait to see when you fall
+on yourself and hurt yourself to see whether the pain abates before you cry because you know that there is a temporal difference of the future and events have
+only a certain temporal and spatial extent and you realize that truth depends on other things and you become goal directed you discover your own self in a loop
+in the loop between perception in intention and action right when you look at the world you notice that there are things that lead to motivational changes give
+changes in your needs then you make decisions about which needs you want to serve and you initiate actions you perform actions in the world and then you see the
+changes in the world and these perceived changes again lead to changes in your needs and once this Loop is established you can observe it and you can discover
+yourself and your own body and your own intentionality in the loop and without closing this loop I doubt that we could ourselves that’s also an interesting
+implication for AI models that are meant to discover themselves at the moment we use a cheat code we basically use text that humans produced that already had
+agency and the concept of self and we leave it to the model to figure out the caal structure behind that but the model is not forced to do this this can cheat
+it can use shortcuts and so on it would be interesting to build a developmental learning program that can go the other way by itself the next stage you build
+social personhood you anthropomorphize yourself you start forgetting that you’re just some alien mind as we all are every unique little bit and then you think
+that you are some kind of generic human being and the others are generic human beings too and I think we are anthropomorphizing people way too much but we have
+these social emotions and many of us Doo most of us do guilt Pride shame pity need for approval affiliation limerance when we fall in love M you cannot think
+about anything else and this turns us into people not just intelligences not just reflected consciousnesses not just agents and when you develop a social self
+you can drop into a particular mode of existence and this uh Normy mode means that you are now directed by Norms by how things should be inside of the group and
+you think that tools is something that exists inter subjective you form your opinions based Bas on what your environment thinks have you ever encountered the
+notion of a hi mind somebody who doesn’t think as an individual but is able to act and think and perceive of itself as a group and such hi Minds exist in
+humanity you can see them it took me a long time to understand how they actually work because I’m not naturally part of one and it was difficult for me to
+realize that I’m some kind of mutant so hiy minds work basically by synchronizing part of their beliefs part of their policies with the group with mechanisms
+that make people programmable it can work via perceptual empathy you basically feel the emotions of the others and you also feel normative emotion that somebody
+has a strong sense this is how you should behave and a lot of people react to this by yes I should behave like this and for me it’s more like somebody shows a
+weird sign in my face and I see oh this is the sign you painted but they don’t get an action impulse out of it because I’m the own measure of my actions right I
+try to be good and I try to infer what is to be good but I have to talk about it explicitly with others because why is that good and why it’s not good so I live
+in a two false world and the hi mind people live in a right wrong world you don’t need perceptual empathy to form such a hi you can also have an ideology which
+is transmitted by a social status this is an important person they have an opinion that is very important maybe it’s even a credential person by some religious
+institution like covered and then you basically get people to believe what they’re saying I’m not joking here right when the pmic came I wrote a long article on
+next door preparing my neighbors on this is going to be a pandemic and uh what are the things that you should know and I sourced every one of my claims but it
+was relatively early I think it was in February or so and so people said what are your credentials they were very upset that I I just wrote an article and
+without being an expert and I said well I don’t actually have super credentials everything is here sourced and it’s it’s not really my specialty but here I was
+at MIT in Harvard and it was okay that I said it because I was now an anointed expert and I thought oh my God this is weird some kind of weird priest foood the
+belief and the science new form of pro protestantism that just protests more but of course the hi needs to update its beliefs and it does that as you’ve seen
+via credentials via status so if there is a Hive and you want to take control of the hive you need to modify how you get status and the perception of status and
+the sight of the hive and you see this in young ideological movements and old movements that the Catholic church is not going to happen because they’ve been
+around for long enough to build an immune system but new nent ideologies typically get take over and over so the core beliefs of the hi Minds cannot be changed
+by a discourse they can only be changed by Logic cannot be changed by Logic they can only be changed internally and most power in the world is actually held not
+by individuals like Elon Musk but by hiy minds and the fascinating thing is that there is an individual like Elon Musk who’s taking on all the hives that’s what
+makes it so weird and unusual so the analytical T is another stage in which you discover epistemology and it means things are true and false independently of
+what others believe and your confidence and your beliefs should equal the evidence and a lot of nerds are like this they live in this twofolds world and
+discover the ideas via verbal and rational interaction and most of them don’t get there because they work successfully through the normative phase in which the
+environment hypnotized them into beliefs but for some reason they are not susceptible to these hypnotization because their brain runs in a different frequency o
+and the next stage is to disidentified itself that you basically realize where your identity comes from where your values are coming from and you’re able to
+construct new ones you realize that your values are instrumental to the outcomes that you want to see in the world and there is another stage these are
+basically stages that Robert Kean a psychologist identified and the Enlighten s is one that we see a lot of monst who spend 20 years on their mental development
+achieve which means that they can deconstruct their own mind they can deconstruct their reaction to pain they can deconstruct how they author their personhood
+and their self and they can overcome suffering because suffering is ultimately a problem of the regulation of the self it’s not a problem of the universe the
+universe that you’re interacting with is not the physical Universe it’s Universe you create inside of your own mind and when you persistently don’t succeed and
+it’s us some problem that is in the way in which you set up yourself versus the expectations that your outer mind has of yourself so if you can figure out what
+the world would like to a different self you might be able to choose to become a different self to adapt yourself to the situation that you’re in to construct
+yourself into what you want to be and to do this you need to recognize that what you’re interacting with are representations not realities and to get to this
+stage requires usually degree of practice or growing up and you can deconstruct suffering by either disintegrating your caring Dimension so you just stop caring
+about a certain thing in the world or you can deconstruct the self entirely so there is nobody that could suffer or you could construct an alternate self and of
+course it does not actually stop there with AI we get to the post biological self true post biological self will be something that is subset agnostic something
+that doesn’t actually care what Hardware it’s running on that doesn’t need to have a body that is fully self reflected that fully understands its own source
+code that can fully author itself I believe that is something that is not actually achievable to a biological brain because it’s too small and too mushy too
+incoherent and Aristotle already said that the soul is a form a pattern imposed on physics I think what he meant is it’s a causal pattern a structure that
+controls physics it’s a software and I think the soul is spontaneously formed a self-imposing computer virus that has spontaneously formed in nature and it’s
+running on PING machines made from organic chemistry but the biological Minds have limits animals with bigger brains are not actually smarter than us maybe
+brains don’t scale that well maybe propagating conscious States coherence back and force meets a limit when your brain is growing so biological Minds cannot
+really fully reverse engineer their functionality and the relationship to the subst strats but artificial Minds don’t have these limits so if you understand AI
+as part of biological evolution because we are part of biological evolution everything that we are doing as well then AI may be part of the the project of the
+cell the original colonizing pattern to finally understand itself to reverse engineer itself level of seven Minds will perceive reality very differently from us
+the current Frontier models that we building are trained on media that is made for human consumption two machine perception has never been tried so when we
+dissolve for instance determinacy when we dissolve that something is directly as being the case but it’s all dependent on your interpretation then reality
+becomes deconstructed It all becomes conditional on the interpretation you perceive superpositions you can dissolve the notion of location of your body of
+identity you will be everywhere and if you have more data interpretation actually gets easier because all the data is about the same world so it’s much easier
+to discover these constraints our bio Consciousness is roughly at the speed of sound you can test this by making noises when you make clicks and you improve the
+frequencies of those clicks when you get to something like 20 HZ or so it becomes one pitch one node it gets integrated because your neurons don’t fire that
+much faster right and so uh you also observe that your brain interestingly is a coincidence also works roughly at the speed of sound the speed of information
+propagation in the cortex but if you are perceiving the world at the speed of sound not at the speed of light and it also means that you perceive things that
+are transmitted in the womb bya light simultaneously if you are able to perceive the world roughly at the speed of light then space would fall apart it would
+turn into a graph into processes then people are faster than the signals you perceive space disappears a light based world is immediate a sound based world is
+sequential we would enter a completely different way of com comprehending reality if we could upload our ourselves on these new substrates if we build machines
+that can run Consciousness if you manage to spread life and Consciousness onto new substrates I think that there’s a lot of Hope for Consciousness in this
+universe if you can there’s also hope for us if we can find shared purposes with it but if you want to keep together in this age of AI we need to get
+operational meanings for TR love truth and meaning as technical Notions as something that we can Implement as something that we can infer meaning will be a
+reference to patterns of patterns to a model changes in information truth means that it’s a determination of the interpretation of a model and Mathematics can
+be understood as a general way of thinking that applies to all sorts of Minds not just human minds and love is the discovery of shared sacredness of purposes
+that are more important than your local agency that are related to the transcender agents that we collectively enact that’s why I think it’s very important to
+understand Consciousness not just for AI research but for all of us and for me AI research has been the right way to think about all these questions and now we
+are at the end I hope we have some time for questions thank you and yes we do have time for questions if you would like to ask a question in the room please uh
+line up at the microphones there are six of them throughout the S and the first question from the internet right thank you there is more than one question if we
+have time um one user is seeing more and more pop popular science books that are proposing that Consciousness is not an emergent property of the material
+universe but rather that the Universe emerges from Consciousness there citing a few books like the matter with things and irreducible and they would love to
+hear your perspective on these theories yeah so first of all all when I look at something in the world I have to realize that perceive it in my own mind I make
+observables that are patterns in my mind I observe my own embedding space and then I can try to find explanations and explanation means I have to figure out how
+it actually works if Consciousness is fundamental I don’t know how it actually works if it’s an attached to matter in some irreducible way I don’t know how it
+actually works what all I’m doing is I’m playing with the symbols in my mind but in a way that does not solve to give me a resolution there is some kind of
+observation that some people make that’s when they first discover that they’re not actually a s sometimes through meditation sometimes through drugs sometimes
+by accident and what they then suddenly observe is oh my God I’m one with the universe this happened to me then I had a severe cough and I was taking rby to
+scene and I was so sick that I didn’t read the package instructions and so I took enough to get rid of the calf and suddenly I was everywhere everything all at
+once I later learned that robot tripping is a thing it’s it’s not I I think me tuning in into the cosmic Consciousness I think it’s me forgetting that I myself
+and becoming one with the generator function that produces the universe in my mind and when once you have that experience it’s very confusing because you’re
+still inside of a dream which means inside of a representation it’s just no longer dreaming that you’re a person now you’re dreaming that you are a universe
+microphone number one your question um is it necessary that uh the mind for the social mind or social self is um in every agent why does every agent need to
+have another agent to interact with I think that all the complex agents are collective agents you are not one agent there are many many agents in your own mind
+that try to become one and achieve this to some degree and in the same way we build Collective agents and humans individually are not smart enough to figure out
+a language to talk to themselves in a reasonable way to discover the notion of duing completeness that took us like a thousand years of an uninterrupted
+intellectual tradition and philosophers still don’t get it right so individually we are not generally intelligent it’s something that really takes time to to
+get and to build and in this way for practical reasons you need other agents but you can also zoom out and then you can see that the humanity is one agent or
+life on Earth is one agent to some degree it’s not fully coherent so it only approximates this Collective agency to some degree but you could also say it’s one
+agent ultimately that’s a question of terminology and classification thank you the singal again biological organisms um are trained by Evolution to propagate it
+or their genes which influences um no I’m sorry um so they are trained by Evolution to propagate its genes which influences um do they have in the physical
+world does Consciousness also feel a similar pressure or drive to propagate in a way yeah so technically it’s a bit the other way around evolution is the
+process of the genotypes um propagating or you could say that evolution is the process of the selection between software agents that use genes to encode
+themselves but it’s not like we made the choice at some point that genes would be the right way to encode ourselves and it’s more the other way around that we
+are General learning systems that figure this out that we are agents and how we are encoded thank you microphone four um Hello thank you very much for your talk
+it came from the bottom of my heart [Music] um you touched the topic of qualia and then evaded it kind of um so when you talk about Consciousness and quar isn’t
+the question if my computer already feels pain if it runs in an error and if does it matter if the AI think it’s conscious or not and doesn’t it more matter if
+it feels pain when you experience pain what you experience I think is a representation of the reconfiguration of yourself you become something that puts this
+thing in the focus of your attention and you have difficulty to unfocus from it and it changes your behavior including the subsequent reports and imagine that
+you are an author of a novel and you create a character that experiences pain that means that you are simulating this Dynamic and from the inside of this
+character in a novel this character can only know what you write into the story and now imagine you replace the author by the Doom by your brain that is
+producing the subsequent representation I don’t think that a compiler has pain but it doesn’t need it it doesn’t build the representation of a self that gets
+reconfigured into something that relates to the world and way in which it only thinks about resolving this error and notices the difference to all other states
+instead we are the simulation of what it would be like if you experience pain and have to resolve that situation so I think that pain is virtual and I noticed
+that you can drop out of pain when you manage to disidentify from yourself in this case it’s something that happens to something else something that is not you
+something that you don’t identify with it’s a representation that is C into feedback loops in your mind some of these feedback loops are unconditional they lead
+to reflex behavior that you cannot control until your mind is convinced that you have enough wisdom to be handle that control so basically I should um empathize
+with the AI having to adapt that’s a very interesting question ultimately it relates to the question of whether you should empathize with an animal that lives
+on anory Farm or that is being slaughtered should you or should you not a lot of cultures think not because what’s the evolutionary benefit if you do so what’s
+the benefit for yourself it’s not even a benefit for the animal if you have made the decision to eat it right so who cares about the victim but what happens if
+we create a being that simulates being a victim in such a way that this being doesn’t know I think we should build AI if we were to build AIS that are self
+organizing in a way in which their form is the model also in such a way that they can wake up and realize that their self is a choice and the reaction to of
+their self is a choice it’s also something that I wish to my friends that they can wake up that they realize who they relate to the world as whom and what
+things they care about is a choice and it’s something that I also wish for myself and it’s hard to achieve that I only am intermittently awake thank you single
+and next question if large language model s can hallucinate could it be said that they can create a very own perception of reality which is then coined by the
+training data but because of the hallucinations could be considered as a picture of one possible reality uh we cannot perceive reality as it as it is of course
+but we make is a very coar grin model and the more information you have the more that con this information when you can integrate it constrains the space of
+universes that you are in so subjectively we are not in one Universe because there are many possibilities that we cannot resolve we are always in a multitude of
+possible universes and when you give the model training data like the whole of Wikipedia it constrains the set of universes that this data can come from and the
+more this model is able to integrate this the narrower the space of universes become which is why the llms can learn to be in a reality that is compatible with
+ours you’re never going to get to the real reality the hallucinations are a slightly different problem it means that the model is generating stuff that makes no
+sense and that’s in part because the models are not trained for coherence they’re trained for predicting patterns and continuing patterns that’s hypothesis I
+suspect that is a different loss function that we’re still missing while our Consciousness is trying to go for coherence but also we are hallucinating all the
+time and when you close your eyes or when you don’t open your eyes when you wake up in the morning you might might notice that you’re hallucinating if I manage
+to shut out my sensory data and my interpretation of sensory data I can remain in a hypnogogic state in this area between dreaming and waking where I bootstrap
+myself into a point where I can lcid dream where I can imagine and visualize but I’m not fully awake yet and I noticed that in this state I’m contining to
+hallucinate dreams like I do in deep dreams at night but I’m semia awake and it’s only when the world becomes so permanent that it imposes an interpretation of
+my sensory data that I’m focused to be coherent again and the LMS are not coupled to the world in this way so they spin off and this spinning off into an
+alternate reality where make up sources but it’s no longer connected to the internet and can no longer verify whether what it say says makes still sense leads
+to hallucinations so I suspect the way to overcome hallucinations is to either restrict AIS to selfplay or to restrict them to a core in which new
+hallucinations are possible for everything else they need to use the database or we need to couple them to the and they need to figure out how to curb the
+hallucinations and in our Natural State we hallucinate it’s just when we hallucinate we get the penalty if the Hallucination is not tracking the sensory data
+but makes it harder and when you are spinning off for instance when you have schizophrenia or a psychotic break then you can consistently hallucinate because
+you no longer finding back the way to tracking reality thank you so much I’m afraid we don’t have time for further questions so thanks a lot uh to yos
+
+Peter A. Jensen 2025-01-13T17:45:44+00:00

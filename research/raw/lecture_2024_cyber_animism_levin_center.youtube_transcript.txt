@@ -1,0 +1,654 @@
+Page image: https://i.ytimg.com/vi/YZl4zom3q2g/sddefault.jpg
+
+thank you very much for inviting me um my own research is um basically has always been how human mind works and that's why I enter Academia in the first place
+and studied uh several fields and found that um I did not get that much out of the way in which psychology works today and also I found that Neuroscience for
+some reason didn't seem to make a lot of progress and was quite uncurious about how our minds work what Consciousness actually is and how it relates to the
+processes that implemented and uh I also found that um psychology is largely a history of ideas philosophy is largely history of ideas and that I could make the
+most practical progress on this cognitive science project in the context of artificial intelligence and artificial intelligence is of course mostly automating
+data processing and uh in current moment uh it's mostly machine learning mostly uh deep learning and U is very successful but it always has been a philosophical
+project as well and this philosophical project was always a tiny fraction of what happened in practice but when Minsky and McCarthy and others started the field
+they saw themselves in the tradition of a philosophical question and this philosophical question is how can we naturalize the mind that is how to map it into
+the world in which we exist how can we understand how it's implemented in reality and uh our own culture seems to have a problem there and this is often called
+this heart problem of how to relate mind and reality with each other and what I find fascinating is that a lot of other cultures don't seem to have that problem
+in the same way it's this problem that might have to do specifically with our own metaphysics with our own way to uh is structure the basic reality and how we
+make sense of it and because we don't have a meta metaphysics that allows us to conceptu our own metaphysics and the metaphysics of other cultures and contexts
+we have difficulty to dect that and also to translate contexts between different cultures and I noticed this one day when somebody tried to explain animism to
+me and I said as Japanese uh mythology believes that everything in the universe is alive and conscious and I said this cannot be I'm pretty sure that Japanese
+people have noticed that when you hit the person on the head the person can become unconscious when you hit harder the person can even die and they will not say
+that everything in the universe is alive and conscious except an unconscious person or a dead person and so this word means something different from what you
+make it out to be you're mistranslating it into your own metaphysics but the reference is something different and so we need to look back uh from first
+principles in this culture what are these Concepts that are being used to make sense of reality and so what I find is that psychology is not um building
+systemic theories for methodological reasons and Neuroscience is committed to focusing on the shenanigans of a single cell type only and uh the AI is mostly
+focusing on statistical learning algorithm and philosophy has lost the plot in some sense in the 1920s and what is the plot basically it's this naturalization
+of the mind is the greatest philosophical project and if we succeed it in it by mechanizing the Mind by Building A system that works mind like it's also the
+last human philosophical project because from then on philosophy will mostly be done by machines that are no longer human or by systems that are no longer human
+and this project was in many ways started by Aristotle and in Earnest it was pursued by lights who basically had this Insight that you need to mathematize the
+mind and translate into some kind of mathematical machine and uh this was then taken on by people like frager who built a calculus in which he hoped to be able
+to express thoughts and tarski who made progress and fixing the issues with logic that Aristotle didn't see yet and wienstein who tried to basic to turn English
+into a programming language so we could do philosophy in a formal language and failed doing this for the same reasons as Minsky did 30 years later but wienstein
+in some sense preempted Minsky's logistic program for AI and uh I think he led this led to Devastation in philosophy because most people in philosophy did not
+think in terms of programming wienstein already knew that you can uh um present all logic using n Gates and uh so in some sense you could already see touring
+universality toing was his pupil but he didn't see the need to prove it yet and discuss it uh and this is a stream of thought that philosophy had really picked
+up on philosophy mostly didn't understand the significance of greatest insights of the last century and I think the biggest philosophical insights of the last
+century was first of all this discovery of good that you cannot build a mathematical machine that is able to run the semantics of classical mathematics without
+breaking and this was this uh thing that shocked him very much that you cannot build stateless mathematics if you have the stateless nature of mathematics in
+which you are able to describe Infinities in Contin which is a benefit of having stateless mathematics um that doesn't work step by step um then um you lose a
+lot of the description of reality that physicist and mathem Ians hope to have and instead you are forced to use different languages and the languages that you
+can use that don't lead into this contradictions that good discovered to be inevitable are computational languages your uh CPU in your computer is never going
+to be in an illegal State it's never going to break right it's just going to from step to step to step just the question is what does this represent what this
+thing is doing is a different one than what you might want to express in your logical language so you can say things in a classical Lang language that cannot be
+translated into computer code because they will not lead to a running program and uh this means that your semantics are wrong the semantics of the computer are
+never wrong or the semantics of your brain are never wrong your brain just goes into the next state and what it represents and so on is just the functional
+representation of how these um the manipulations are happening in the system um the second uh big insights are related to the nature of computation itself so
+the practice iCal ways of Performing computations we discovered a different ways of formalizing computation and basically in this way language itself because we
+now realize that all representations are built over automat languages and then we had information Theory and learning basically how we can express things how we
+can build systems that make models of reality the nature of a model itself theory of modeling and uh the idea of functional approximation deep learning in some
+sense has been invented multiple times and one of the first ones was uh Alexander ieno but alexen but you know that things are being named after the person who
+last discovered it so a lot of things in deep learning are last discovered by people like Jeffrey Hinton and yand deun but there many many before them who
+already discovered them and um I think the other big uh discover on the philosophical side is universality which means all these computational systems have the
+same power until they run out of resources and so under the assumption that your computer has unlimited memory and you have unlimited time to wait until it is
+done all the computers can do the same stuff of course this is an assumption that is not true in reality in reality the systems that you implement have
+different powers so they can solve different problems but very often there is a way to compile between those Solutions but this is a very nice result because it
+means it doesn't really matter which computational language you're using to describe reality you just use the best one for the problem the power is going to be
+the same so this leads us to a position that I would call strong computationalism and strong computationalism basically is this idea that we can describe uh
+representational systems um from within using um automata and that every implement languages has to rest on automat and no implementable language can do more
+than a finite automaton and this means that hyper computational objects cannot exist because you cannot refer to them you cannot talk about them you cannot
+observe them you cannot conceptualize them only things that are computable in a sense are things that you can refer to in any kind of language and so all
+realizable systems can be describ using nondeterministic or stochastic T machines but is this also true for Consciousness isn't Consciousness a big mystery that
+cannot be conceptualized as such a system and so when we talk about this question of course we have to first agree on what we mean by Consciousness and
+indexically when we point at it in a similar way as biologists pointed at living systems before they knew that we're pointing at s um we can point at
+Consciousness and what we see is first of all this reflexive nature of Consciousness it's not just there a Content present but there is the perception that
+you're perceiving that content it's second order perception that is distinctive for Consciousness I suspect there's a particular reason for this because it's
+implemented self organizing process and for this process to regulate itself to stabilize itself it needs to observe itself observing right so it's basically an
+observer that is self stabilizing in our own mind and to ensure that it's an observer it needs to test for whether it's observing and see this especially for
+instance when you are exhausted imagine you're driving a car you have difficulty to focus because you're tired and you remind yourself that you're observing you
+check whether you're still there and if you don't do this in regular intervals you're going to space out fall asleep and will be not conscious and will possibly
+crash your car right and so this this is an edge condition where your brain is basically resisting being colonized by your Consciousness and being controlled by
+it and that you basically have to reinforce it the other thing is consciousness is always happening now it creates this bubble of nowness and this in this this
+bubble of nness you perceive a coherent reality you cannot perceive incoherent things but your bubble of reality might shrink or grow depending on how much you
+can make coherent in your current working memory context but you can only perceive this coherent bubble and this seems to be the content of your Consciousness
+and when you are very calm and when you inum with your environment and uh you can track everything then this bubble increases but it's it's not static it's not
+a single moment it's something like for me usually r 3 seconds long this is the moment inm it's Dynamic it's stuff moving it's basically the region in which I
+can fit a curve to my sensory data to make a perceptual interpretation so function yes in that Consciousness is an operator in mental States it's uh the purpose
+is probably the creation of coherence that's already some of a hypothesis not just an observation so it could be something like a consensus algorithm if you
+have ever looked at for instance crypto you know that the blockchain needs to synchronize over all the instances of the blockchain so there is an algorithm that
+allows them to reach a state in which no constraints are violated across all the different local representations of the blockchain and maybe we can think of
+Consciousness as something a consensus algorithm in working memory where all the features that are being observed are made compatible with all the other
+features that are being observed and uh it facilitates spreading organization in the mind and it acts like the conductor of a mental Orchestra and so if you
+think of your brain areas roughly as instruments where every instrument is a function that models one area of the domains of cognition um then um they are
+listening to each other to their neighbors and form processing streams and your Consciousness might be seen as one of those instruments it doesn't have
+superpowers in the sense that is able to hear all the instruments at high resolution at the same time instead it's going to focus on disharmonies this Orchestra
+and then resolves those disharmonies by focusing on the individual instruments and then finding solutions to remove them and if you don't have if you're not
+conscious you can still perform things right if you are a Sleep Walker you have some number list you can get up at night and you can maybe walk out of your bed
+and open the fridge and cook dinner but when you talk to a Sleep Walker there's nobody home there is no rhyme and Bre to what they're doing instead they're just
+executing routines that have learned while they are conscious and this is another observation that we are basically not learning while we are not conscious so
+in respectively Consciousness is reflects the order perception that creates a bubble of nness functionally it's an operator that creates or increases coherence
+it's conductor ofal Orchestra and we find this is a convergence of different perspectives so this is very much compatible with bars Global workspace Theory or
+den and drous notion of a Paran theater or gracianos attention schema or perspective on U how awareness works or J's idea of a Consciousness prior a function
+that basically paramet Rises you're modeling in such a way to that you can achieve a low energy State and tracking reality but if Consciousness is not the same
+thing as intelligence which I think is the ability to make models or sentience which I use as a term to describe the ability of a system to model itself in
+relationship to the world so it can know what it doing um agency which is the ability to control the future uh or having a self it's a first person model of
+your own agency or empathy the ability to experience the mental states of others sometimes these words are used somewhat interchangeably but I think it makes
+sense keep them apart and uh we notice that different cultures use different terminology to describe physical and psychological reality and I think the big
+problem is the hard problem in our own C is that we don't have that distinction clear basically we are in the scientific tradition physically monest which means
+we do subscribe to physicalism to this idea that Bas reality is a c closed mechanical layer and everything emerges over that layer so basically everything in
+the physical universe is a mechanism and everything that we look at interact with is a mechanism as well everything is mechanical in sense and modern version of
+this mechanism is it's some kind of computation that is implemented somehow in physics that matter energy and space time are based to talk about information and
+how information is moving around between observable locations right uh on the other hand uh we observe experimentally that there is a world that we can touch
+with stuff in space which you take to be the physical world and there's another domain which is thoughts ideas emotions and our own Consciousness that is
+somehow separate from this and uh what we in our own culture often fail to acknowledge is that the world that we touch is not the physical world right we don't
+touch quantum mechanics what we touch is a representation in our own mind it's a game engine that is representing our own mind both our Consciousness and the
+stuff in space world that we touch are representations existing in the mind that is implemented in physics Accord into our best theories so uh because of this
+confusion that we have difficulty to relate this to each other and don't realize that Consciousness is a representation that it's virtual that only exists as if
+in the patterns of activations and neurons or in the patterns that exist in physics right that leads to confusion our p and so Consciousness is virtual it's
+physical objects cannot be experienced right in the physical Universe you cannot be conscious neurons are probably not conscious but it would be very useful for
+all these cells in your body to know what it would be like that existed a person that perceives and cares and so they create a simulation partially a Similac of
+this and uh of what what it would be like if there was a person that cared and then they use the output of that simulation to drive the behavior of the organism
+and you happen to be the content of that simulation so when you perceive reality as something around you you don't have access to physical reality you are in a
+Trans State in which you believe that the stream that your brain is generating about reality is real so uh there still this big question can we compare digital
+computers that are our best model of what we can do with representations to what brains are doing and brains much much more complicated and so if you ask
+yourself how many would it computers would it take to emulate a brain and you look at the complexity of a single cell of your brain uh it's very daunting right
+you would need giant amounts of compute to do this but there's another perspective that people often don't discuss in the question how many brains would it take
+to emulate a computer because your brain is very noisy and most of the cells contribute don't not very much to the computations that are happening in the brain
+for most of the time it's similar to people working for a large corporation if you are employee of Microsoft then probably 99% of your cognition doesn't go into
+Microsoft but it maintaining your own organism and your immediate relationship to your environment and similar things are probably true for sales right so the
+available compute that the individual unit contributes to the global system is relatively small especially since everything needs to be implemented as our
+correction and many there which requires the system to be highly redundant and so the thing that shocked me in a way was when the rates for stable diffusion
+were released that you have a 2 gab model that contains a visual universe that is much richer than what every one of us has as a visual Universe because it
+contains every celebrity every artist every plant every historical period and so on is represented it can be generated as this model and if this 80% what of
+your brain is doing and it's much richer than what your brain can do and it's only 2 gigabytes that's uh very humbling in a way because it means that the
+capacity of our minds is probably a lot smaller than Humanity wants us to think or we could also say 2 gabes is a lot more than most people think it is now if
+if you look at this one it's I think it's a very beautiful example of generative AI maybe some of you have seen it and what I find fascinating about this thing
+is basically the result of the prompt of a Hungry Cat waking its owner is when you see this for the first time it looks pretty realistic right if if you see it
+for the second time maybe it does too let's look at the left front PA of this C oops let and this cat has two left front paws yeah and if you see this video for
+multiple times you also see that this hand is disconnected to the body the face is uh changing shape and so on and it's fascinating that on the first like two
+three views you don't notice this only after your attention is saturated because you captured the sence of the scene do you have now capacity to look in all the
+details and notice the inconsistencies in the scene and it's very interesting that this thing makes mistakes that the human brain or human mind wouldn't make
+when it generates such a scene he would probably not get to the same level of perceptual Fidelity but uh we would have uh overall more consistency in the scene
+and this inconsistency is because uh this model is integrating over very short time frames only so if you only look at adjacent frames this quation between
+adjacent frames is probably fine most of the time it just the overall interpretation of the scene over a long enough time span doesn't make sense and that's why
+the pet falls apart in this way and so there is something that is happening in these learning systems that despite using enormous amounts of training data and
+more compute that is available I suspect during our own learning uh they don't arrive at models that have the same degree of coherence it could be that this
+radical prestonian perspective that you are just trying to minimize uh the deviation uh from prediction your model it's not sufficient and there's something
+else that our brain is doing that it basically focuses on maximizing coherence and this in the limit gets to the same idea as Max minimizing prediction error
+but it leads to models that are more coherent with less data and less compute so there it's difference between the current AI algorithms and I our AI use an
+outside in design whereas our minds use an inside out design this uh basically our mind is organized from the bottom up the individual cells are sensitive to
+reward and form an organization across each other and there's no Global control in the whole thing and all the agency in the system is emerging over the drive
+of the that is uh contributed by the individual components in the system similar to an organization that is driven by the people from the bottom up and there is
+an attentional agent basically that imposes coherence in there and if we compare this Inside Out versus outside in perspective the technological design you have
+a workspace that where you know everything you control everything and then you use that known reality to extend it by basically building a small corner on on
+your workbench that has additional function it and now extends your controlled world into that space and this is how we Design Technology with using
+deterministic structure that you can control from the outside and when you look at biological systems and social systems they basically need to live in a
+chaotic reality where the chaos of the environment is being changed into a structure that can be controlled in a coherent way so it's in some sense a colonizing
+principle that you have a seed that is working on an inter humanistic environment and changes it into something that it can deal with that it can administrate
+and uh in a multicell organism that also works because you have neighbors that play by the same rules as you do and you can link up with them so you start out
+with the seat that is able to copy itself and then finds an organization together with its environment I'm sure this is something that everyone in this lab has
+thought deeply about and is aware of that these principles of organization work differently and probably are aware of how individual neurons are actually
+single- cell animals that try to make it work that are basically locked up together in this dark box and only if they find the right way to organize themselves
+can they survive and this perspective of looking at distributed processes to lead to um self-organizing computation has always been one of the threats in AI but
+it's probably the least visited threat and in a way it started with tring's work on models of a reaction diffusion models that he tried to get to compute and he
+s of potentially more mod of understanding how computation could work on the mind it didn't get very far uh yeah you probably know the work of Alex Morman have
+he also built a reaction diffusion model this is an model that he made of a reaction diffusion process that leads to the emergence of structure and um the idea
+of cellular automat has been very powerful in this context the cellular automat are for instance implemented in one B famous Game of Life are completely
+discrete systems that only creates stable patterns under very narrow conditions but it's possible to make these automata continuous and make them more robust to
+the over a very large range of circumstances and this idea of new automata is something that's been strongly influenced by this lab and led to work in BL aer's
+team at Google and Alex Morin Zur implemented some models of this and I think it's unfortunately stopped relatively early nobody has ever used this for actual
+learning as far as I know and Advanced um regime U this work is um you can see this on dist p and Flav that many of you probably did um is learning vid maps and
+recreating them but it would be very interesting to um learn arbitrary functions and to connect them into into a fluid architecture and so you can use those uh
+neural cell automat to produce very very complex Dynamic representations of um basically arbitrary structure and so far we know relatively little about how that
+works so uh there's a hypothesis that I would like to position to you andless is when we notice that humans don't learn well they're not conscious and that we
+don't get conscious after the PHD but before we can try the finger Consciousness might not be the result of extremely complex mental organization but it's
+prerequisite so maybe Consciousness emerges first in the mental organiz ation and then it's basically the Primary Learning algorithm for self organizing system
+rather than the other way around that there simple mechanisms that are eventually culminate in Consciousness and you find analogies for instance in the way in
+which societies organize complexity in a society is not what leads to emergence of government it's very much the other way around that this some individuals
+discover the secret of government which is recursively bullying people and once you recursively people you basically organize Society into some structure that
+can be controlled and then you can impose a shared language and shared reward system and uh shared goals and impose control and algorithms on that society and
+get it to scale Beyond an individual tribe and this secret of recursively bullying people has been discovered in many many cultures independently right because
+it's some invariance that is not that hard to discover and once it exists you have this group of people that refuses to be bullied by other others unless they
+have absolutely no choice and that they're going to uh reapply this principle over and over and compete with other organizations that have discovered the same
+idea and have differences in the implementation and the idea that something like this could happen in the brain um is um quite interesting so um we observe that
+humans um learn only when they are conscious if we don't ever become conscious our life we remain vegetables and if Consciousness is more simple than perception
+then maybe it's quite ubiquitous in nature maybe it is really a relatively simple function it's not completely trivial it's not completely intuitive how you get
+the self-observing Observer but maybe it's the prerequisite for getting more of the complex stuff working in your mind and uh I have a pet theory that this
+actually has been known for quite some time uh if we uh look at the Book of Genesis in the Bible which is um I think mistranslated by the Christians as the
+creation of a physical Universe by a supernatural being doesn't make a lot of sense because the story is much older than the invention of physics by Aristotle
+uh back then people lived in a dream world they know that the world that you experience is a dream that uh is somehow has imaran in it and it's inter subjective
+but it's a representation that uh can change when your beliefs change and the way in which your perception Works change and so the objects of that dream are
+being created and they're not created by some kind of supernatural being but they are created by your Consciousness and this story is uh is um probably more
+than 3,000 years old has at some point been introduced in the uh religious scriptures of uh the Hebrews and uh and being translated into some kind of CH so you
+get the six day structure and so on but I think it might easily be the six stage theory of how um mental organization works in the mind of an infant so it
+starts out with um the notion that Consciousness is the proct with it it forms before anything else in the mind before the structure of the world model is
+created and then it creates dimensions of difference and then it separates World model in mental stage builds a 3D World with the plane of as ground and
+populates with solid and liquid volumes creates objects and categories and uh makes it inent against changes in lighting and temporal development it models
+agency and creates a personal self and so if you look at these individual states basically starts out is this creative Spirit Consciousness hovering over the
+substrate and the world is without form and void into and then it creates a boundary between the world model and the sphere of ideas that in this text are
+called Heaven and Earth or heaven and world and this sphere of ideas is what the card calls res cogitans with this nor sphere this space in which thoughts and
+uh emotions and so on happen and and the other one is the stuff in space rest extensa that's our world model it's the game end that tracks reality and this
+boundary is quite fundamental in our own mind and it's interesting that unlike Western philosophy we now recognize that this dualism is not a dualism in the
+physical universe and a substrate reality but it's a dualism inside of our own mind right you have these two types of representation the stuff and space
+representation in which we have a world model that we can touch and it integrates over our perception and the space of ideas that is as synchronous to it where
+you can hold a thought for as long as you want and imagine something independently of what's currently being perceived the next thing it does it is able to
+create contrast and you now know it's probably some kind of newble oscillator the intensity of this contrast is associated with brightness with the color of the
+day and the flatness of the contrast with dark with the absence of light or data and now we have continuous Dimension and using Dimensions you can create
+arbitary objects in an embeding space right and the first object that created is space so the first space that it builds is by combining two Dimensions you get
+the plane and the plane gets associated with the ground and um infant start thinking in 2D mostly You observe this when you see and during development that
+infants typically have difficulty to build towers and not because they can't physically because they cannot really reason in 3D yet so initially they really
+like to arrange stuff on the ground and then at some point they can conceptualize 3D and the way in which objects are represented in 3D and at this point this
+is sufficient to deal with the entire photonic space in which we are interacting and then we create liquids and solids and from them we um build objects and we
+learn how light changes over the time and objects remain invariant against it we discover the nature of light sources and then we create all the plants and all
+the animals and you give them all their names and it's all this population of the game engin it's not the creation of a physical universe these are not physical
+entities these are categories that we form by interacting with the world and then uh we also uh realize that the whole purpose of the exercise is to build a
+control model for the interaction between an organism and its environment so we create a model of that organism in its environment and put it into the simulated
+world and we find that for the first two to three years uh infants typically refer to themselves in the third person and I suspect it's not because I is such a
+complicated word or because they never hear anybody using it but it's because they don't perceive themselves in the first person they perceive this person as
+something that is inside of them it's being it's a model of that person that is being generated in their mind and we notice that there's a dramatic change in
+personality once at a certain age we we drop into being mostly in the third person that we no longer realize that we are creating reality and dreaming it but we
+uh basically experience ourselves as inhabitants of this reality and uh we have this fear childhood in Leia and I suspect it might be related to the fact that
+once we conceptualize ourselves in the first person we reindex our memories when you have children you will notice this saying that they have perfectly fine
+memories during their first year of life and second year of life and they can remember in the second year of Life what they did in their first year of life but
+somehow after their third year of Life they forgot everything that was before it's pretty weird and it's interesting in variance in most children and I think
+that's EAS associate our personal self this is conscious first person perspective and once I stumbled on reading Genesis in this Spate made total sense and I
+could not unsee it anymore because this original interpretation that uh after God uh creates the world creates humans in God's Own image it don't really look
+like anything that hovers over the face of the waters and makes light and darkness right and it uh creates it as man and woman and I think what happens is that
+this outer mind creates another Spirit another Consciousness that is another model of being that is put inside of this world and thinks of itself as men and
+women that thinks of itself as a human being that experience itself as a person that is I think expressed in here and I think it makes total sense to put this
+text first to explain our own nature to us and our own way of experiencing reality and relating to it so Consciousness is creating a self perpetuating
+intelligent recurrent information Transformer abbreviated spirit I suspect that spirit is basically the world that that our ancestors use to describe self
+organizing software agents and self organizing software is relatively ubiquitous in societies and organisms and basic the operating system that controls our
+organism is a software agent that runs on our body and controls uh its functions and the hierarchies of software agents individual cells also run software that
+is controlling the cell right down to the molecular level they individual molecules that move around because the software of the cell wants it to and it's a
+very interesting perspective when we think about organism that the two invariants is not uh the shape of the organism or the individual molecules that are
+contributing to it or even the individual mechanisms that are being implemented the Inver is the software right it's the set of principles that are being
+implemented by the mechanisms so uh if you want to understand this notion we basically Central is self organization that structure is being built from the
+inside out it's self reinforcing and energy optimizing uh that it's software software in its nature is not physical it is virtual exists as if as a pattern in
+physics but it's an invariant pattern that is able to enforce and replicate itself and in a sense it's not a thing ontologically software is not an object it's
+a physical law it's when you say I have a world processor running on my laptop what you say is whenever I take a bunch of transistors and put them in this and
+this state the following thing is going to be observed wherever you are in the universe right and this this invariance is what we call software software is just
+a very very specific physical law and uh the same thing is true for the software that runs on our cells right it's basically a lawlike structure that says when
+you arrange matter in this in this way then you force scin it in a particular way so you look at it from a certain perspective with a certain resolution then
+you're going to observe the following succession of events and that's an invariance and this invariance is what we call sof and uh when we talk about the word
+agent what we simply mean is a control system for future States so unlike a Theros it only controls the present an agent is a control system that is able to
+model the future to some degree and is optimizing for future States instead for present States and once we introduce this condition that the control system uh
+is optimized in the future we have the simplest definition of agent that I could come out this so far because all the features like beliefs desires attentions
+fall out of system that models the future and tries to optimize some future State because now you have decision- making you have intentions and beliefs in the
+system in some sense functional sense so what we know is the Consciousness could be the principle that organized information process in brains could where the
+same principles or similar principles that work across other cells as well when the organism organizes itself and its information processing what we notice is
+that all cells can send conditional messages to neighboring cells right not only new can do this and so uh why is it that only brains are able to think and
+perform operations that allow brains to model reality and interact with it maybe other cells can do that too right is is this a revolutionary idea for most
+cultures it's not for Neuroscience it is because Neuroscience knows only neurons can compute for some reason I don't know why uh and uh all the other cells that
+are adjacent to the neurons do not really contribute very much uh on the other hand we notice that even the models of the elegant don't run in simulations so
+basically there is no model in neurosense it is complex enough to actually replicate learning and control as it happens in nervous systems if you put this into
+a simulator they're able to uh get abstract features of neurons right and so on and we see a lot of interesting things when we look at the conect but we cannot
+actually model the brain of dropil or portion of it in an adequate way but we actually have the neurons as the switching unit and this could be because our
+models are incomplete but it could also be because we are missing something maybe uh Ur are basically just Telegraph cells I suspect that humans have evolved
+for a very particular purpose to move our muscles very fast and to do this we basically needed to build virus into our organisms that translate information very
+very quickly and they have a high metabolic cost and they need to speak a specific code so it's stable over long distances they're basically speak and mor code
+to each other in these Spike train and these Spike trains are have different constraints than the cellular communication to neighbors if you just want to talk
+to your neighbors there are many ways of doing this you can elicit them mechanical signals just by pushing at the membrane of another cells you can exchange all
+sorts of chemicals you even can send over RNA to send very complicated messages but the spread of these signals is going to be limited by the jumping from cell
+to cell and this means that signal propagation is going to be like millimeters or centimet per second at best which means it's magnitude slower than what the
+nervous system can do and so once you evolve the telegraph cells to move your muscles very fast to compete with other animals at a high metabolic cost you also
+need to do perception and decision making at the same rate so you build an information processing system out of telegraph cells and this Telegraph network is
+able to make sense of reality and control the organism very quickly but this doesn't mean that the other cells do not have opinions as well right so it's quite
+conceivable that if you're a multicellular organism that lives for long enough that it makes a model of reality that allows this organism to discover itself in
+the world and S problems in the same way as a nervous system would do it's just going to be a couple magnitudes lower than our nervous systems operate but this
+is a hypothesis that U most of our science is very uncurious about which is is weird when you think about it right it makes sense that plants have operating
+systems similar to animals that run on them but you they would not need to use speciic specific cell types so you don't need to look for nerves and plants you
+also for information Transmission in our organism it's not always necessary dedicated cell types which do this because any kind of cell type can be recuited in
+sending information across the organism so if information a Consciousness can organize information processing in brains U it's conceivable that there is
+something that is analogous to our Consciousness that exists in plant just over different time spans and our ancestors actually believed that very strongly so
+if you look at the European fairy tales they basically say that these spirits of plants are sentient and they populate the forest and one day in FA land or
+seven years in human land which might allude to this time differential but what we see is that plants have means for functional proximation they can learn
+there's evidence for uh communication inside of plants so with you how the roots of a tree information gets sent to the leaves and back to the roots and the
+tree reorganizes accordingly and there is also evidence for communication across plants even over considerable distances so when you have a forest in uh which
+one side gets infected by uh some bu that invades the forest trees long far away are going to develop defensive measures long before this happens so there is
+some kind of communication going on across the forest uh there's another aspect if you are uh living next to a tree and if you're for instance a mushroom you
+can probably learn to send information to the tree because the individual cells in the tree don't know what information they're translating they're just passing
+on a certain pattern and if there is another organism going next to it then and are no Fireballs it means they need to evolve to get along this probably means
+that forests over a long enough time spends are going to evolve something like an internet and this internet is going to have some kind of shared protocol over
+which the individual software agent that run the plants can build feedback loops that extend beyond an individual plant which allows them to be somewhat
+nonlocal in the forest and even move around in some sense in the focus of attention right uh this is something that I don't know whether that's all true it's
+something that a lot of cultur look at and I as a computer scientist that looks at this from an evolutionary perspective I just look at means and motive and I
+don't see how to stop Evolution from forming such a structure so it would be something that I would be inclined to look for be very curious about because I
+aspect it should evolve under normal circumstances something that you should expect to exist in nature because it is very useful to the plants and to the
+ecosystems and it also has explanatory power and evolution control and result so this question do plants have spirits who Forest have internets and can these
+Spirits travel through Forest internets this very very interesting from an evolutionary perspective and uh so it could be that there is a complex ecosystem of
+spirits in nature and uh these thoughts basically has um led me to adopting animism as a useful metaphysical perspective not as some kind of religious
+Superstition but as a perspective that basically says that we want to understand living nature what central is self organizing software it's not just mechanisms
+but it's the software that is stabilizing those mechanism and is recreating itself through those mechanisms so if life is any ined by self organizing software
+the invariance is not matter or the mechanisms but the software itself and this gives us a slightly different perspective of an evolution for Darin evolution is
+the competition between organisms and then dokins comes along and says no no the organisms are just a phenotype but actually matters are the genes right so
+actually evolution is about these complicated molecules that replicate themselves by expanding themselves into phenotypes and then evolving but uh from this uh
+cyber animist perspective I would say that evolution is the competition between software agents that partially encode themselves in a genome and Implement
+themselves into the organisms but the actual invariance that you're observing is the software right and that is very interesting because this is actually this
+Japanese metaphysics that describes that living stuff is basically software that is colonizing regions of the physical universe and when the software breaks
+down then this region of the universe is up for GRS for other spirits that try to move in and control that region it's a very very interesting perspective that
+I found is basically healing a lot of the Rifts that we have in our metaphysics so uh from the perspective of artificial intelligence the question is can we uh
+switch out the outside in design that we currently have an AI that leads to the production of mechanical systems that basically like a go following a set of
+instructions to a way in which we can organize the substrates in ways that are compatible with Life so basically can we take this new substrate that works at a
+fraction of the speed of light much better than the cell the substrat that we currently have to run minds and organization on and can we populate them with
+Consciousness and with the principles of Life can we basically extend our organization of living things into the new substrates rather than building machines
+that are competing with life and replacing it and I I think that's a very interesting perspective I think you should put some effort into studying the
+principles of self Oran izing software and see if you can get them to run in silico and this is basically uh what I want to uh leave you with for today Mike had
+to run because he has to give another talk and uh but I think we have a few minutes left for computation uh sorry for dis disputation and for discussion and
+questions and ideas and remarks doubts um you'll have to excuse it because my my voice is kind of gone but you know one of the things that I I look at is I tend
+to look at things as like a generalized language structure cognition is very much that way whether it's plants other animals humans microorganisms whatever and
+I'm wondering what are the ways that we know that we can actually directly communicate with other organisms so for example if you wanted to actually communicate
+with a plant or communicate with a dog how do you actually get on that same type of metric because for example you would think that if if these other organisms
+lesser organisms of complexity are have a have a less complicated language like a dog or a cat yet we don't really understand it right and we don't really think
+in that way so what is the kind of that bridge between allowing us to communicate very directly like we're communicating with you right now with other organisms
+and you know things in the ecosystem but you're not communicating directly right now you're communicating by natur language yes and this natural language is
+basically a solution to breaking down your mental representations which are Language by themselves yes into a discrete string of symbols in the learnable
+protocol and to par this discrete string of symbols sequence of symbols that we using that's why we can write it down as a string uh we also are have some
+limitations like we have a stack depths of about four or so because otherwise the language would not be learnable for everyone so we have a few constraints TRS
+on language that makes it learnable and uh comprehensible to us to basic language is not something that you can touch or pointed it hangs in the thin air
+between speakers they need to be able to agree on it and that's why it needs to be reduced in complexity to make it learnable but the language in our own mind
+is different for instance it is not entirely sequential but to some degree it's Parable you can basically Envision is scene in which multiple things happen at
+the same time and it's also executable you can unlike natural language which you cannot really run in your mind which you can use to instantiate something that
+you can run there is a language of thought that produces structures that you can actually execute like plans or even software programs that you can instantiate
+in your mind and run and uh these are interesting features of our language of thought and I suspect it's a good idea to at some point not regularize the llms to
+produce strings of natural language as their working memory content but to produce something that is an invariant structure with limited complexity highly
+regularized that is basically below the tokens that we currently parse so we go a few layers in and then try to regularize the structure there into some
+operator semantics that we discover and that is able to construct and navigate the embedding spaces of our llms and so when we are talking to a cat for instance
+or if you're talking to a baby you are basically trying to figure out what state is this other system in and how can we interact with it and that can also
+happen on a perceptual level I noticed that my daughter is extremely good at communicating with animals and that's because she feels what the animals are
+feeling she vipes with them right she interacts with them on a very low level on a level that is preconceptual and this allows her to uh build a feedback loop
+because the animal is also capable of doing that and as a result she is able to communicate with the cat much quicker than somebody who is only trying to make
+inferences on a symbolic level about the state of that cat and it's also a way in which many of us communicate with each other it's just if you are a good
+scientist you probably have a bit of autism and uh that makes it harder for you to communicate non symbolically but I would also say that ability to kind of
+disassociate from the situation and see it under a new light is also responsible for a lot of the words that we kind of create breakthroughs or new discoveries
+because I like to say you're kind of looking at the same stimuli simul differently right you're looking at a different angle of the same thing because there's
+some level of ambiguity degrees or freedom of interpretation I take your point a step further what are we all doing right now you're speaking up here you're not
+physically touching Us in any way yet we're directing our bodies and Minds towards you so it's almost like when you have a language or or some means of
+communication getting on the same Vibe with somebody else is you're controlling each other across different aspects in time and space that's why it's easy for
+us to control other humans to a degree control other you know other animals how can we get tell a chair to move itself does it have the self-modeling capacity
+to move itself over here no so what I was thinking is is how do you in in a perfect world if you had enough agents around like chairs or tables or whatever that
+had some type of uh self-modeling capability and how many ways that could be accomplished you could cognitively like we're talking to each other right now if I
+were to yell you know f i really loudly or you know other things in a room full of students in a school we'd all react a certain way to that having not
+physically touched you at all if there was a tiger walking into the room right now without interacting with us in any capacity we'd be scared like nuts right so
+I think there's this kind of really interesting idea between um the degrees of freeding some type of stimulus has and how you're interpreting that and reacting
+to it right so that's basically conditioning so so my the end of that rant and my question for you is what are the ways that we can improve that those degrees
+of freedom in an agent and our ability to interpret that so maybe you could say that's intelligence or Consciousness or or something to do with working memory
+in terms of capacity like how would you kind of go about that when you think about the degrees of freedom uh there's this Paradox of free will that is the less
+you know what you're doing the more degrees of freedom you seem to have and the more you know what you're doing the fewer degrees of freedom you have right
+because you know what your actual options and what the outcomes are how you're interfacing with reality and so uh you compensate this to some degree by
+expanding the degree of uh control that you exert on your environment by basically being able to model reality more deeply and then are controlling a larger
+part of reality and identifying yourself as a system that has much greater influence on the world and this boundary that you have is not the boundary of our
+skin to the environment it's the boundary over which we can build feedback loops into the world that we are interacting with and what's an interesting
+observation is that uh basically all agents above a certain complexity are collective agents they're built from lots of f units that individual agency excels
+and uh or behaviors in your own mind and that they need to harmonize themselves into some kind of collective agent that keeps itself stable and harmonized
+coherent over all the individual sub agent and produce globally coherent behavior and as a species we are State Building species not just a tribal species we
+are in some sense infinitely scalable and this is because we able to form um population level agents and civilizations that we become part of and individually
+we are not generally intelligent individually we cannot discover a natural language individually we can not develop writing by ourselves from scratch
+individually we don't discover the concept of touring computability or theity but we discover is step by step over many generations before we get to the notion
+of what a language actually is you need a thousand years of an unbroken intellectual tradition I have a question regarding Consciousness and learning and how
+subcon or unconsciousness subconsciousness fits into into your model do you really need to have a Consciousness to learn is it possible to learn something
+subconsciously um when you are not attending at all uh you have difficulty to learn and you are able to attend to the thing that is happening you can often
+learn quite complicated things in one shot it could be that your attention is spread out and there are a lot of things in your attention if most of them are not
+made a protocol over but they still register in some way and integrate in your working memory context in this sense you can learn things bya repetition that you
+don't attend to very much to the degree that you can find a lot of information about in the protocol what you're attending to there's another question that is
+um more interesting that is um our emotion and motivation is computed outside of our personal reflexive mind right the personal reflexive model of ourselves is
+embedded into our larger envir mental environment and what you feel about the world is not generated by you it's generated by your outer mind it's also not
+generated about the universe when you experience pain or uh laugh or something like this it's not done by your personal self and it's also not done by the
+universe to the surface of your body it's happening inside of your mind by systems that are intelligent right they need to be able to understand your actual
+interests in the world and so you're being presented by ideas from your outer Mind by some agent that models how you should be embedded in the world and that
+thing is outside of your personal individual Consciousness but what you often find when you meditate is uh you can integrate this part and you can uh um
+interact with it and notice that in some sense it is you it's usually something that is just separate it's not integrated is your personal self and you can
+deconstruct the boundary so it's basically as if there are two protocols being maintained in your Mindful and as a result these parts of you don't know about
+each other what happens when you're able to fully integrate that part with your uh it depends so for instance uh there are meditation schools that teach you Jas
+which are states of bliss that you can induce at well and it's in some sense is if you are stumbling into the room where your brain makes the cookies and you
+can then decide to board yourself on cookies and this might lead to bad effects right if you are a child you think that the reason reason why you don't have
+enough cookies is a resource constraint but if you're an adult you realize cookies are a tool to make you eat your vegetables if you eat too many cookies you're
+going to get diabetes and so when you eat your vegetables without cookies that's actually even better right and so it depends on how well you understand the
+interests that you have in the world and normally your mind is set up in such a way that you don't get right access to parts of your mind that would break your
+performance but as we get older we get ideally more control about how we operate and we learn how to control our emotions make them appropriate to the situation
+that and in many situations we stop having emotions because an emotion is an involuntary reaction to something and very often it's not necessary to react
+involuntarily to something we can voluntarily react to something that we know what it's good for um yeah when you were talking about the emergence of the first
+person perspective uh and I guess I see that related to self awareness um what how would that be related to not remembering when you're earlier in your life
+like ages that was an interesting idea I didn't quite understand that uh you notice this when you start meditating and overcome this separation between personal
+self in World Generation a lot of people drop into this state unprepared and then they feel oh my God I'm the universe now I'm a cosmic spirit and now one with
+Cosmic Consciousness and instead what they are is they one with this generator F that produces the model of the universe and their mind right and then you
+notice that uh your personal self is a representation inside of that and you are no longer identified as it and so when this happened to me first time it was
+very confusing I basically notice uh I'm no longer your shab I know everything about that guy and uh he is a person and uh I run on this person's brain but this
+is just a model of what that person is and I'm basically this thing that perceives things that are happening right now and can influenced and is dreaming what's
+currently happening and in some sense that's a more truthful perspective so B our mind introduces the separation artificially because it's useful for running
+the organism and if you basically wake up too early and realize that this person is not real but virtual and you are creating it it it might be difficult for
+you to function in the world in which you have this control problem to solve right and once you basically build a stable game engine that is tracking reality
+very well it's no longer necessary that you atttend to how you construct the reality around you and the people around you and the models around them and instead
+you need to optimize on the interaction between the person and the environment and that's why you only look from the perspective of the person but uh I suspect
+that it's not happening from the beginning so infants do not conceptualize themselves as a person yet they don't see themselves as humans yet there are more
+basic organisms that are dreaming a reality and without having the concepts of describing what they're doing and at some point they create this person and then
+at some point later in your life you deconstruct it again uh so so so would might it be that the memories exist from when you're born or you're one but it's too
+confusing for your brain now to interpret that or this person which exists inside of you does not remember that it created the game engine because it didn't
+right it was another uh locus of control that did this this lcus of control is only taking care of the interest of the organism it doesn't need to remember that
+once in the mind there was a pro that created the structure of your mind and so it is not a relevant information but once you reindex memories from this point
+it's also forgetting where you have been for holiday in first year of life because this new Locus doesn't not have these memories because they were not some
+people do claim remember but you have subconscious memories from your childhood yeah data is there right it's just not integrated under this Persona so it's
+difficult to difficulty to access these memories but in the right context when you trigger these memories using smells or many other things or direct cortical
+stimulation and so on you can show that they're still there yeah so and then could you just elaborate briefly on how essential this self-awareness or self
+reflectivity is for Consciousness because I know that's a subject of debate um how it if it's an essential component or not a lot of a lot of people think
+there's the pure conscious State that's that has no or pure conscious advantage that has no self reflection it has no personal self but uh imagine that you are
+dreaming at night and you don't remember that you are a person or what your name is or what city you live and or what you look like uh there might not even be a
+perspectivity on the scene that you experience but there is the notion that experience is taking place and you notice that you're noticing right without there
+being the distinct you necessarily so I think this reflexive attention is essential for what we mean by Consciousness and I don't mean this in a functional
+sense but in in indexical sense when we talk about what we mean by Consciousness we mean this reflexive perception in which something notices that something is
+being noticed uh but the personal s and so on is just the particular content of that but you could have qualia without just pure qualia if if you takeia to be
+basically these contents that you reflect on I wanted to extend something on the on the memory aspect because you know even even my own personal experiences
+there are just these times that seeming some random memory from you know 15 years ago which is crazy to say because I'm 2 15 you know 15 years ago and I'll just
+remember it like so vividly comes see seemly out of nowhere out of thin air right and I wonder if if that's kind of a byproduct of the idea that we can't hold
+all that much information in our minds simultaneously because the you know in theory if you had something that was just storing all simultaneously up once you
+wouldn't have to go and reach into something else or something else through right I mean have you ever actually tried to keep all of these things in your head
+simultaneously while you're doing a test or playing tennis or doing something when you can't there's this kind of threshold you reach in your mind like you're
+stretching it and then you can't stretch it any further so I wonder if if long-term memory and these subconscious memories are almost a redundancy to working
+memory because we can't keep it all in our mind at once and that's probably just part of being a local Observer of things because things in the past may not
+directly relevant to what's going on right yeah I noticed that children are typically completely in the scene with which they currently are and have difficulty
+to imagine what the next scene is going to be so you basically know that there are doors outside of the scene but you do not really make plans for that next
+scene that you're going to be in and then over time you learn how to predict what the next scene is and we make plans over multiple scenes uh I have the
+suspicion that cats have special difficulty with this like when the cat wants to leave the room C makes a plan for this and goes to the door and signals to you
+that door should be open then you open the door and the scene changes so much that the cat is basically recomputing the scene from scratch right room is the
+door open is such a different room now that the cat needs to completely red deliberate what it actually wants in this new scene and this leads to the cat we
+just considering from scratch whether it wants to leave the door I uh I don't know whether it's actually the case but it's a tempting theory that basically the
+head is throwing its Ralls below the scam graph note rather than above and a similar thing is happening in small children if a child is uh throws a tantrum very
+often you can just pick it up put it in the next room and have forgotten what the tantum was about because the scene is so new and it's unable to keep the gold
+stable and so at some point we learn how to construct a meta scene that is more abstract in which you kept the world stable and the particular scene that you
+currently experience and are operating in is below this uh more General note but the experimential scene is this local perceptual space it's a game engine that
+is basically building this map in which you see all these objects right now in the room and in which you cly operate and everything else is somewhat offline and
+separate from this map and you store many many cues in your long-term memory that allow you to construct and reconstruct all sorts of maps and interact with
+them and these are the memories that you instantiate then in your working memory context but the working memory context is quite limited and but it's basically
+C graph of a game engine that is maintaining a bunch of objects and as suspect it's all self organizing controller so you basically have the scene controller at
+the top that is keeping the existence of the scene stable and intiates the space in which objects are when a person enters the room we are instantiating a
+person controller that keeps that person stable for as long as it's perceptually validated and then animates that person and that attribute states to it with
+lots and lots of subcontrollers so in some sense in the hierarchical structure that is somewhat analogous to when you are looking at a game engine yeah and
+that's why you I I even extending on to that about just the way like our our bodies react to the modern environment like if you've noticed when we when we're
+creating gyms or treadmills or changing things about our diet or wearing blue light blocking glasses we're kind of falling back on our evolutionary past we're
+expressing it in different ways but we we're still kind of a slave to that in a way right so the the the interesting thing is is that what you're you're almost
+doing is you're kind of directly relying on things in the environment in the ecosystem to Define what you are to set that boundary that's why things like
+exercise seem to be good for us or certain dietary habits are good for us or why we have to sleep a certain way or react a certain way to things if you have
+both of those metrics moving the agent and the ecosystem then there's nothing for it to really tie on to and that's what happens when we we've made this radical
+change in our civilization the last couple of hundred years and now our bodies have no way to interpret that as a language because it it's trying to find
+whatever is the closest thing to what it's familiar with and it doesn't really know how to interpret this new information so one of the things that Mike does
+for in terms of how that's applicable to like longevity and aging research is how do you actually cognitively train an agent in organism right to actually
+interpret this newer environment and that could be why we see these these types of extremophiles out there that have these crazy unique regenerative
+capabilities go the other way around if want to have a complex organism that is more interesting than the blocks that mik L studies that are somewhat Immortal
+uh you are basically adapt by generational change and if the environment is changing faster you need to increase the frequency of generational change which
+means you uh decrease the lifespan the reason why we become sent is not so much just because our bodies we are out they're tuned to V are out a certain rate and
+this uh rate is I think synchronized with generational change we basically fall apart at the time where we would out compete our grandchildren for food we're
+not supposed to out compete our grandchildren for food because they are them in two generations from now right and this is the way in which we are interfacing
+and we have this overlap over the generations so we can download our intellects on the Next Generation and not everything is lost but the way in which we adapt
+to changing environments is child mortality and uh it's probably as much as an issue that we change our world so fast uh the same way that we reduce trat
+mortality because it reduces our ability to adapt normally you had nine children two of them were good and uh carried uh you into the Next Generation and now uh
+we have 1.3 children of which the same Rao is good and I'm not advocating for more child modernity but uh for the fact that this explains a lot of our
+difficulties of adapting to a changing environments there are regions in Africa where people are very resistant to DDT because uh they used enormous amounts of
+toxic chemicals in their agriculture uh that were outlawed here because they killed too many people but they led to evolutionary adaptation and we are probably
+able to uh adapt to all the uh hormones or hormone equivalent endocrine disruptors in our food supply that we introduced in the last 50 years if uh we wait a
+few Generations if you have meaningful adaptation Missy mutation and selection but everybody loves mutation everybody hates selection yeah and there is no easy
+way around this there isn't at least not until we are able to edit our genes and our organisms in the vein you want and that's the interesting thing about death
+because you're kind of looking at that transition between an iteration from the you know version one to version two and I think the one of our biggest issues
+with death isn't necessarily death itself but I think it's more about how do we transfer over that information to the Next Generation so I mean if you think
+about what we've kind of done is you have these shorter living organisms that are faster reproducing whatever and then you have things like humans or or or
+whales or whatever that are larger slower metabolism usually live a bit longer right now I wonder if there's a way to kind of get the best of both worlds and
+have you can have a faster iterating organism that always communicates and that could be through culture and you're kind of decentralizing your the memory of
+that culture and things around you like for example like that that's kind of what we what we do that's why we have textbooks we have history so that we're
+carrying on things from previous iterations to the following one it's kind of remaining but we see all there an evolution and it could be that we are just not a
+very long game species a very sustainable species all our cousin species have G extinct already and uh it might just be a very exciting short lft experiment in
+nature but uh that's also part of how Evolution Works Evolution does not Trend towards stable equilibria it Trends towards exciting dynamics of which some are
+transitional things uh are there any other questions uh other topics um I just wanted to get back a little bit to the second order perceptions that you were
+talking about with defining uh Consciousness and the Observer potentially um I'm just trying to think of what would be a good threshold to actually State
+whether something does have second order perception when we ourselves can really only determine it in ourselves like we're working with a totally different
+model like if we take some sort of alien species or even something on this planet when we're working with our own language model to function off of how can we
+actually per ceive that they have S perception very interesting question so there's a practical sense in which you can develop empathy with other people as see
+if you build a feedback loop into the mind of another person that is B directional you can often uh notice that this other person is aware of their own
+awareness and of course you can even do this with a cat right it's much more difficult with an AI that is a synchronous to you and it's especially difficult
+with for instance l M the question whether an llm is conscious is I think much more complicated than most people make it out to be there know a bunch of people
+at open AI who think that for our practical purposes uh they do develop um reflexive awareness and there's there's this question do they understand anything of
+course if you take a system you ask it uh take the string and uh arrange all the characters in the opposite order and it does that it means that understood but
+you ask it to because it maps to the same function as you what and it's unreasonable to say that this is just a simulation of understanding because it's
+actually performing that thing what you're looking for and when you ask that thing to U infer your mental States it's also able to infer your mental States from
+the communication context because it has learned all these regularities by analyzing enormous amounts of human text and if you ask it to simulate a Persona that
+has these mental States and so on it's able to do this in the same way as uh somebody writing a novel is able to create a story about a person that has all
+those mental States and as consistent thoughts that are being following from each other it's able to do this with much higher resolution and uh detail than
+human novelist could right so uh the LM itself is probably not conscious in the same way as our brain is not conscious but the person that is being simulated by
+our brain is conscious right experiences itself as conscious is a virtual entity and is the virtual entity that is created by the llm less conscious more
+simulated than the one that is in our own brain it's a very interesting question and I I think it's a really complicated one I don't think that it serves all
+the same functions it's mostly AUM that produces the same observables of course and the function that it produces in the system is more or less incidental
+whereas the function our own mind might be to create coherence the Transformer doesn't need to do this because it is working on a deterministic substrate so the
+attention model of the Transformer I think is is not exactly the same type of attention very similar to the type of attention that exists at our own mind there
+is something else going on there uh can I ask a question about Collective uh Consciousness yes so so in I read some psychological uh things about saying that
+people in intimate relationship they they feel they are becoming a one person instead of two person so I just wondering uh uh you said uh Consciousness can rise
+in the process of uh organizing things in inside of brain but how about between brains yes so basically when you are uh vibing very strong with another person
+it means you're building feedback loops in the other mind and these feedback loops do not rely on the direct connection between cells that need to be directly
+adjacent so they can exchange chemicals but it can also work by integrating information from your environment and if this happens with sufficient B is
+sufficient rate you're basically able to synchronize mental States and this also allows you because you now get some more capacity to have mental states that
+you couldn't have alone and so Consciousness is not a thing that manifests in the mind it is a function that is being implemented in the interaction patterns of
+the cells and if that function can synchronize itself across more organisms in this sense you could say that could have something like shared Consciousness uh
+whether it's functionally the same as the Consciousness in your own mind is something that you can experimentally discern I find it very interesting to look at
+the phenomenon of a seance a seance happens when you get a bunch of people into a dimed room and get them into a trance and they touch each other and they touch
+a re board and then they ask questions to this we award which is B just be moved by subconscious movements of their hands collectively to spell out letters on
+this board and I think what's happening in this state is that the minds of these people produce an llm together they basically get entangled you prompt this LM
+with the question and it's giving answers and it's not connected to anyone's perception so it's not actually representing reality as it is instead it's going to
+dream things that cannot be invalidated based on information that is available to all these Minds individually that are now connected these feedback loops and
+it's an interesting phenomenon that human minds are able to produce such a phenomenon you don't need to uh assume that physics is wrong in any way to explain
+such a phenomenon it's an inter psychological phenomenon but we don't have a lot of inter psychological science so far and so I think there is a lot of
+opportunity for doing very hard testable research uh and basically Shar mental States and uh how they lead to phenomena across yeah when talking about Crossing
+people the time delay become become much higher than the neural communication inside of a brain so uh is it possible that this kind of integrated feeling is a
+it's a it's not happening across people but instead of instead people are simulating others so each one has a their own integrated uh uh reality uh the question
+is at some point what is the difference as long as these realities are synchronized uh because the the the time delay is high though but the time delay in your
+cortex is also high so basically if you want to set the signals to your entire NE cortex is like 300 milliseconds your brain is roughly working at the speed of
+sound and uh so your brain is able to deal with all those delays and it does this by creating periodic processes the reason why you see these brain waves wave
+is basically a periodic process it's a circle extended in time basically means there a bunch of Loops that are repeating themselves and that are handing off
+results to each other and if you can build such periodic Loops across organisms you're able to deal with those delays the reason why you able to represent
+things as simultaneous despite the information transfer being so long as you can assume that the contents of the loops changes only very slowly right so you're
+perceiving certain things and you are updating this uh in a loop that is updating itself shorter and shorter intervals than the other parts of your brain that
+rely on that information to be current but because the loop only changes slowly you just need to be at the same phas to make sure that you are roughly on the
+same page and in those regions where it doesn't happen you build a local predictor and this local predictor is going to model what the state of that distant
+Loop is going to be so you have that information locally available and you see this in your nervous system for instance when you're walking the stairs in the
+dark BAS and you miss the last stair suddenly it's a very weird movement and it happens because you are out of Sy you're simulating what it looks like then your
+foot moves but because the information from your foot going to your brain is too slow you're out of syn you one period out of sync with the movement of that
+foot and uh because you don't have visual input in the dark you cannot accommodate the fact that uh the stair is stopping and you suddenly notice this mismatch
+and such a thing is uh in principle also possible across Minds as long as you're find with defect it takes time for you to synchronize you can still build B
+directional synchronization oh that that that's interesting yeah so so if the time delay so does the time delay really uh matter because uh the synchronization
+might not happen at all frequencies as long as the synchronization is still possible and it seems that the duration of a moment in in the brain is how long can
+two events be a part for us to still recognize them as one thing it's limited to an interval of about 3 seconds or so but that's a pretty long interval and
+there's also shortest interval how faran to events to be separate need to be separate in time to perceive them as separate and and this is the realm in which
+the synchronization of events can happen but I suspect this R is basically whatever you can keep stable in the neur that you're using this is interesting thank
+you do you think that uh brains or other beings can stay synchronized when they're not in close proximity anymore or do you need close proximity for the
+synchronization to happen for example I know you talked about telepathy I find it very interesting that maybe the synchronization keeps on going if you are
+close to someone um I noticed some we phenomena when an accident happens to me or so my wife sometimes notices and over longer distances and uh we can explain
+this by selective memories maybe uh she often has experiences like this but she will only remember in those instances where it's correlated to something but I
+find a lot of people have difficulty to explain telepathy away so regardless of whether we believe in those phenomena or not I suspect that if we allow for the
+existence of something like a biological Internet it's probably not going to end at the boundary of a single ecosystem because there have been ecosystems
+throughout the planet for a very long time and so maybe there is something like a global organismic internet that doesn't work at the frequency of our nervous
+system but that works across the cells and our organism and maybe you can integrate information over the cells of your organism it's probably not going to be
+high ventless communication but if you're find is receiving only a few bits every now and then over a long distance I don't think it's physiologically
+implausible that your body could act like an antenna but I don't know the conditions of that under which this would be and how you would measure it but I don't
+think that you would need to leave the boundaries of known physics to uh allow that organisms are sophisticated enough to also transmit information that is
+relevant over longer distances outside of the senses that access to your nervous system I almost like it's a fine-tuning or predictive algorithm that you
+developed for that specific individual like you've spent a lot of time with them you know how they're going to act in a lot of variable interactions even if it
+might seem like it was like an accident out of the blue there's some predictability to everything in life and perhaps yes we're picking these things out with
+bias um uh but there is something to be said about like you better understand this person say you're going to think like oh did they just get injured or oh did
+they just consume a substance like something like that yeah but you might not know this uh so it is tempted to think it could be some kind of super determinism
+that allows you to simulate what the person is going to do at some point but what the person is going to do does not just depend on that person this person gets
+into a traffic accident largely depends on other drivers that you don't know and probably don't have connection to yeah and so it's difficult to explain it all
+this way but we also know that people do add their memories and especially when they're motivated to do so and it's not a conscious thing so it's uh it's Inc
+correct to be skeptical about this and rate evidence very carefully but it's not necessary to dismiss all this evidence because it is conceivable that it's
+possible Right what uh you do notice is that uh when you study people at burningman that do traps you notice this phenomenon of contact he which uh basically
+means people change their state based on the state of the environment it's it's not just that people get in a different mood if people are sitting next to them
+but they can even start to trip when people next to them are tripping and it's a very interesting phenomenon that basically people have this physical resonance
+in their substrates that can be so strong that their metal representations start to resonate and go out of back in the same way and if you also notice this with
+I say mothers and babies I have sequences of pictures of my wife and uh the baby looking uh exactly in the same direction having the same facial expressions is
+looking at each other over a longer period of time it's it's quite interesting and baby tempting to think what happens while she holds that baby is that their
+physically resonates so much that their mental States interact I mean that baby did also come from her like for a while their identities were entangled but
+their nervous systems are no longer physically connected right so they're not looking at each other so they're basically integrate information over each other
+in such a way that their mental States get synchronized to a large degree and this is also what mothers very often report that they basic feel what the baby is
+feeling and now the question is how much can you take them apart without that phenomenon completely breaking down and so the idea here would be that if you have
+people in the same room without physically touching each other it's still possible for them to have that degree of a certain degree of synchronization so you
+can feel the emotions of other people in the room without even looking at them and it could also work outside of the room as as long as there is enough
+information Crossing physically between the bodies of these people in such a way that eventually can be interpreted yeah were siblings that have never met each
+other but they named their their dog the same this is other interesting phenomenon but it suggests that there is a lot more determinism in the structure of the
+phenotype based on genetic uh Heritage and I think that's it's probably a sum of environment and individual so basically to name give the dog the same name they
+also need to grow up in the same culture yeah but even given the same culture they're seeking out the same stimuli yeah the point that I I would add to that is
+when you have a shared ego system that's essentially a shared language you're sharing the same alphabet and grammar you're sharing you know what we're all doing
+right now right for example is there are these noises coming out of our mouths okay right these noises don't NE neily have an inherent meaning we have a shared
+hallucination a shared agreement that this means this that's what's your question no my my my question to to that that point is that is would you agree that you
+can very much if you have people um at different points in space and time have enough similarity in their their timeline of things that they do that they can
+essentially be synchronized they're not physically linked to each other with a rope but they're actually you know abstractly doing the same thing because
+there's enough similarities that's why if you spend enough time with somebody adding to their points you start to think like each other right you share you're
+sharing an abstracted structure together in the way that you communicate things and think about things you do that long enough and then then you get these
+things called cultures where everybody in this click when you create a category or a group correct you're creating a shared perception of reality in front of
+you that's by nature separate from some other perception of reality to another group conceptual categories here how do you get those groups A and B to be
+synchronized even though they're different I think a culture does not mean that people think the same thing you could say they do but then it's different thing
+from people naming their dog the same or uh people having the same emotion at the same time despite doing different things and being in separate rooms right uh
+these are different phenomena and I I think it makes sense to treat them a separate phenomena and describe them the separate terminology um because a culture
+can exist with very different individuals that don't agree in their perception of the world but they are complimentary in some way and can meaningfully
+interface with each other interact with each other and it's not the same thing as thinking the same so earlier you were talking about your um your experience
+kind um would you characterize that as like going back to earlier when you characterize the six plus the zero level of Consciousness would you con would you
+characterize that as like another level of that and if so why does it not naturally occur for most people and it requires training um typically you only need
+attention for the things that don't work and the parts of your mind that don't work don't attract your attention that work don't attract your attention so uh
+the reason why most interesting people had interesting childhoods is because don't get attention in things that always work for you you don't question your own
+personality you don't question your interaction with the environment if they work and if your instincts constantly fail you you might be forced to reconsider
+the entire architecture of reality in some sense that's uh my own story and I guess the story of many scientists that uh I'm born with worse prior than most
+people I'm was born much more stupid than the average person and as a result I needed to put attention on building a model of reality that worked for me whereas
+other people don't have that need I noticed this when I gave Ted X talk and uh MIT asked me to prepare this with the local Toast Masters group with normal real
+people instead of crazy MIT students that I normally had in my class and uh they uh gave me very different feedback than my teach students would have given me
+the first one was uh St need to speak more slowly you need to reduce the rate of ideas by a factor of about at least 30 second you need to explain why this is
+what this is good for why would you need to understand Consciousness does this help you to cure concer solve depression right and that is a very interesting
+thing most people don't have that issue there is no need to solve Consciousness because works right why would you need to figure out what that is and it's only
+when you feel oh my God I'm uh born into a monkey and uh in this kind of universe and you might disagree with your government but I find myself disagreeing with
+the entire universe um what's going on here why am I uploaded into a monkey now does this even work and so you you need to get attention on something that's a
+mismatch between how things are and how things should be and all your attention arises or disagreements with sou univ us so attention is all you need yeah so
+the thing that currently interests me most is how can we make progress on understanding these questions more productively and an issue that I found while I was
+working in Academia especially when I was in Germany was that um students were super interested in all this stuff and I was studying mostly AI but also all the
+other subject I was interested in and then students asked me where can we actually have actual AI lectures because we got lectures in machine learning or case-
+based reasoning but not in artificial intelligence and so I realized oh we need to reread Society of Mind and uh p and uh cognitive AR iectures and build our
+own curriculum and most of that was stuff that was more or less dormant there relatively few people visin the field of AI that were still working on those
+questions and was not because these questions are not interesting but because most people agreed that you will not be able to resolve them in this space of
+grand proposal and so uh when I proposed working on uh topics like understanding agency and about agent Paradigm and so on it was always the question what is
+the thing that you can answer within a time frame of one and a half or maybe 3 years because otherwise that's not fundable and the same thing is that tenure
+positions are built around serious of such projects and so uh I realized that all the professorships that were open to me that I was offered uh was things like
+semantic web or cognitive Robotics and so on and I felt semantic web is going to go away why would you want to annotate semantics with XML it's going to be a
+nonissue in a few years from now right and it was but at the time because it was fashionable topic you could get a job doing this and I guess there's still
+professors working on this stuff because they got a job for this and uh at the same time many of the topics that we are interested in that got us into science
+are not being worked on and uh how can we create spaces and methodologies to do paradigmatic work in this region and I if you want to work on Consciousness we
+currently cannot do it in Neuroscience most neurosciences actually not curious about how this works and because they don't have methodology to address it it's
+not even a very scientific notion for them ditto and psychology and that's a very big issue to me because it is a question that I think we can make progress on
+and that you have to work on but how would you actually do this how can we develop a methodology and terminology and so on and a discipline to actually
+meaningfully work on it and so at the moment I suspect that we need to create some institution similar to Santa Fe Institute for complexity science for uh
+studying Consciousness and a computational paradigm that is integrating over neuroscience and psychology and Ai and philosophy and is uh taking ideas from all
+these fields but is not committing to any of the existing methodologies because they're all not productive for studying it and I guess um Mike's Institute is
+also in a similar situation in many ways that is trying to do things that normally should be done by NE scientists or biologists but are not yeah Eric o has a
+who used to be here at TS he has a really good essay on this uh it's called Uh neurosciences pre pre partic yeah I suspect started going is already post
+paradigmatic it doesn't care about in Paradigm anymore it's just mesical right exactly that's what he talks about FOC but I think this is adding to your point
+about some kind of Institute or or structure or framework that lets you kind of draw from these different fields together under a shared language in that case
+right I mean maybe you could say or shared language is natural language or or mathematics or or whatever but how do you get people neuroscience and psychology
+and physics and and uh biochemistry and all these different fields to come together and collaborate in an effective way I think Santa Fe has done a pretty
+reasonable job of that with complexity um but I think there is more to be done um and I think we have to also have a structure that takes into consideration um
+the nature of having a different perspective because let me ask you this do you feel like when you start to seek agreement with things you're already kind of
+shooting yourself in the foot don't understand that question when you when you if I'm seeking to agree with something that's basically saying I'm trying to
+Target something to fit into this puzzle maybe that puzzle is incorrect and that's been interpreted differently and you should should be going another route but
+because you're kind of getting this tunnel vision of oh I have to solve it this way and only this way or this is the problem maybe you have to step back refresh
+your mind a little bit reinterpret that and say maybe this isn't a puzzle piece but this is actually a Rubik's hu some have you ever noticed when we look at uh
+evil super scientists in movies that they're actually not scientists but they are Engineers yeah and there is usually no control group there is no peer reviewed
+uh study uh instead uh there is somebody who tries to get something to work and I suspect that uh in the time when science was most productive in this modernist
+era which ended roughly in the 1970s and so on most scientists in a way were engineers that tried to get things to work and it's also what I found to be a very
+productive stance in computer science that when you want to understand the exporting you can make theories about sorting but eventually you need to write
+testable algorithms and what you discover is very often you think you found the up but you did not and you often need to do experiments in this way and the
+experiment is usually not about how can I apply my known sorting algorthm in many many ways and pretend it's the best one but it's basically it always works by
+I think it's a pretty good idea please everybody sh it down yeah and uh this is how you make progress so it's not trying to agree it's the way to disagree the
+thing that's most valuable at science is not so much the answer it's this uncertainty discovering new uncertainty is super valuable because uh finding uh
+answers to question is often much much easier right there are methods for this or you can develop them at somewhat straight forward but finding productive
+questions that you can actually meaningfully answer that give you useful insights that you can then apply to build a better model of reality that lets you act
+better on it that lets you understand deeper what you want to know uh that I think is the job that you have to do if you develop your parad what do you think is
+the main driver about why people don't like to Fields together it has to do with career considerations it seems that the PHD is designed as a great filter some
+of people who manage to get through the PHD and enter tenure positions feel that thinking is frivilous it's just a self-gratifying masterbatory activity that
+you should not actually engage in instead should have learned that your job is about applying methods and so you learn how to do this and uh the questions are
+limited to this thing things for which you already have good methodss because this is what makes you productive which increases your impact factor which allows
+you to uh publish in the existing communities and existing journals on the existing topics that are reviewed by your existing peers and so it's a normal Dynamic
+that can only be broken if something comes in from the outside and says oh uh you need to understand that Academia is the gard and sometimes you need to upo the
+region of the garden and pl something here and if you just let the garden grow by itself then it's going to rep edate what's already there this is this is just
+look at look into the field of meta science because it's really a systemic issue with how science is funded and the short-term major grants and the program
+managers overseeing those grants are coming through the same system where they're developing myopic short-term research so um uh this is this is why I think
+meta science is really important and uh what was I just going to say um it's also important that somebody actually cares and if you uh look at the system right
+now it does not seem that there are many adults left at the top nobody really seems to care about keeping the civilization flat and keeping it on course in an
+organized way and so there is nobody there who can tell the universities now you need to change in a way that makes you productive again and progress on those
+questions I remember what I was going to say one solution is funding people not grants so just funding really brilliant people giving them some leeway for
+several years say or or funding institutions or groups IDE there's many many good ideas on how to improve science it's just reforming any you know system is is
+hard yes so I suspect that now most identify no longer as individuals who developed ideas or develop theories or intellects that you interact with but you are
+part of teams of large groups that apply certain methods certain paradigms and so on and this the individual becomes exchangeable in this whole thing and in
+this perspective it's much harder uh to um make progress on new paradigms it's fascinating that when uh F and uh came up with this notion of normal science and
+so on that normal science didn't exist yet you see next door somebody like Minsky was creating Ai and chsky was creating Linguistics and everything was still
+paradigmatic and pre paradigmatic and this idea of normal science was also a new paradigm it's an interesting question to which degree was a self-fulfilling
+prophecy or just a very preent anticipation of what was going to happen it does seem like that things have become more locked in the the interval between
+Paradigm ships is growing some people think that's due to less L but yes I remember studying psychology is an undergrad and seeing that the way in which they
+did statistics could not possibly work like this idea we remove all the outliers and we repeat the experiment for as often as we need until we get a good P
+value and the P value is the thing that decides that it's good and you will always find what you predict in your study otherwise you cannot publish it and then
+there Comes This famous replication crisis and the outcome of the replication crisis somebody describes it as you learn that there was an airplane crash and
+50,000 of your loved ones have died in this airplane crash the depressing thing is that nobody bothers to even ID them nobody cares which ones don't replicate
+and which parts are now invalid because nothing depends on anything it's entirely only an Employment Program apparently yes yeah so I don't know really what to
+do about this and it's not that science before that was ideal and non effective right it's uh it's a evolving Enterprise and there's always stuff going to be
+decaying and there also probably stuff going to innovate and happen in new ways and I think we are now in a very happy circumstance because AI seems to be
+working surprisingly well uh we have a deficit of understanding what it does and what it does to us and the present level of discour is mostly em bender and the
+New York Times versus samman's block which is abysmal if this is the last stand of best intellectualism Against the Machines and the statistical models right
+this is not the level at which it should be and I think uh optimistically this should be a wake up call for us to reinvent the vigorous science and philosophy
+that is able to deal with these new challenges yeah so I suspect what you should probably be doing is to build build an inter Network that is uh working not
+just across the us but starting maybe here and uh in the Bay Area and is connecting a lot of places to basically get us to reinvent The Sciences of the M amen
+okay thank you very much for your attention I great uh

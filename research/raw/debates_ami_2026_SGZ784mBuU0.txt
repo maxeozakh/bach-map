@@ -1,0 +1,709 @@
+# source: https://www.youtube.com/watch?v=SGZ784mBuU0
+# generated=True lang=en
+[0:00:10] Joscha Bach, thanks for coming to sit
+[0:00:11] down and talk about AI and
+[0:00:13] consciousness.
+[0:00:14] >> Pleasure.
+[0:00:15] >> So, maybe we could start by just um
+[0:00:18] having you
+[0:00:20] explain to folks how you end up in a in
+[0:00:22] a space like this, what you're working
+[0:00:24] on at CIMC, California Institute for
+[0:00:26] Machine Consciousness, and just sort of
+[0:00:28] how your your your basic views about how
+[0:00:30] people should be thinking about AI and
+[0:00:32] consciousness.
+[0:00:34] >> Well, I've always been interested in how
+[0:00:35] the mind works. It was the reason why I
+[0:00:37] entered academia, and I found that in
+[0:00:40] many ways the other sciences have met an
+[0:00:43] impasse.
+[0:00:44] Philosophy has become quite sterile.
+[0:00:47] The majority of philosophers thought AI
+[0:00:49] would be impossible. It's very difficult
+[0:00:51] to find anybody before 2010 or even more
+[0:00:54] recently who thought it's something
+[0:00:56] that's going to happen. And psychology
+[0:00:59] has more or less given up on the psyche
+[0:01:01] at some point, and neuroscience is
+[0:01:02] mostly studying trees instead of what
+[0:01:04] forests are doing.
+[0:01:05] >> Mm.
+[0:01:06] >> And so I found that artificial
+[0:01:07] intelligence is the most productive
+[0:01:09] angle. And while most of the field of AI
+[0:01:12] did not understand itself as a
+[0:01:13] philosophical project, the way it was
+[0:01:15] founded um I think was in the tradition
+[0:01:18] of a very particular philosophical
+[0:01:20] project. And this philosophical project
+[0:01:23] is to understand what minds are by
+[0:01:25] building them, by realizing them, by
+[0:01:27] understanding the principles, the causal
+[0:01:28] structure of minds in nature, and
+[0:01:31] isolating them in such a way that we can
+[0:01:33] test our theories.
+[0:01:35] And the current AI models that we have
+[0:01:37] are very unlike our minds. They are
+[0:01:39] anthropomorphic because they are
+[0:01:41] imitating the human behavior that we are
+[0:01:43] seeing in social media production, where
+[0:01:45] the LLM is generating media that look
+[0:01:49] like the media that humans are
+[0:01:50] producing. And as a result, they also
+[0:01:52] have to mimic some of the causal
+[0:01:53] structure, but they don't learn like us,
+[0:01:56] and they don't produce their data in
+[0:01:58] exactly the same way as us.
+[0:02:00] And so can do a lot of things like
+[0:02:01] spatial cognition and social cognition
+[0:02:04] and theory of mind.
+[0:02:06] But the question whether they're
+[0:02:07] conscious is at the moment, I believe,
+[0:02:09] an open question in part because we
+[0:02:12] don't know which part of it is text
+[0:02:13] production and which part of it is
+[0:02:15] actually the causal structure that would
+[0:02:17] be required to produce
+[0:02:19] an experience of what it's like to exist
+[0:02:21] in real time and perceive yourself in
+[0:02:23] the act of perception.
+[0:02:25] >> Absolutely. So yeah, there are a couple
+[0:02:27] of really interesting things there. So
+[0:02:28] one is the notion that AI is the the
+[0:02:32] construction of AI is really a
+[0:02:33] philosophical pursuit of understanding
+[0:02:35] how minds work. And then on the other
+[0:02:37] hand that the current systems that we
+[0:02:39] have that most people think of when they
+[0:02:41] think of AI don't look at least like
+[0:02:43] human minds in many critical respects.
+[0:02:45] So do you see this as sort of mapping
+[0:02:47] the space of possible minds and we've
+[0:02:48] found a sort of very exotic point on
+[0:02:50] that space or to what degree can we
+[0:02:53] learn anything about minds writ large
+[0:02:55] from from the frontier systems that that
+[0:02:57] we have now?
+[0:02:59] >> There are several approaches that
+[0:03:01] existed in the history of artificial
+[0:03:03] intelligence.
+[0:03:04] For instance, classical artificial AI or
+[0:03:06] symbolic AI that was mostly associated
+[0:03:10] with Minsky and the people who came
+[0:03:11] after him
+[0:03:13] started from language and reasoning and
+[0:03:15] conceptual structure and were very much
+[0:03:18] inspired by these
+[0:03:19] sparse brittle symbolic constructs that
+[0:03:22] we're using to model reality. And this
+[0:03:25] was confronted with the symbol grounding
+[0:03:26] problem. How do you get these symbolic
+[0:03:28] structures to actually encompass the
+[0:03:30] depth and richness and heterogeneity and
+[0:03:33] complexity of the perceptual world? And
+[0:03:35] how do we get common sense into these
+[0:03:37] models?
+[0:03:38] On the other hand, there was a tradition
+[0:03:40] around neural networks and cybernetics
+[0:03:42] and feedback
+[0:03:43] that in some sense divorced itself from
+[0:03:46] cognitive AI, I suspect in part because
+[0:03:48] the Minskyans thought it's it's too
+[0:03:50] simplistic and actively fought against
+[0:03:52] these subsymbolic approaches. And so
+[0:03:54] they instead of them being
+[0:03:56] friends that work together, one working
+[0:03:59] on perceptual stuff and in interaction
+[0:04:01] with reality and the other one and how
+[0:04:03] to get to higher level abstractions,
+[0:04:04] they antagonized each other and
+[0:04:07] I think this delayed the progress of the
+[0:04:09] field in many ways also philosophically.
+[0:04:12] And the current Transformer revolution
+[0:04:14] that we're seeing came out of left field
+[0:04:16] in a way. It was not the result of these
+[0:04:18] systematic approaches by deep thinkers
+[0:04:20] like Demis Hassabis who thought about
+[0:04:22] the structure of the biological
+[0:04:25] hippocampus and reinforcement learning
+[0:04:27] and so on, but it was almost accidental
+[0:04:29] out of machine translation where people
+[0:04:31] thought about how to build a more
+[0:04:33] effective structure to get a neural
+[0:04:35] network to translate between different
+[0:04:36] languages and then they noticed, oh,
+[0:04:38] this is a much better way to train
+[0:04:40] neural networks at scale. And then this
+[0:04:43] imitation of human thought patterns
+[0:04:45] ended up in something that is basically
+[0:04:47] a deep fake of human minds that
+[0:04:50] ultimately becomes more capable than the
+[0:04:51] individual human mind. So very
+[0:04:54] unexpected development that did not
+[0:04:55] actually come out of out of a
+[0:04:57] philosophical approach, but of tinkering
+[0:04:59] by engineers.
+[0:05:00] >> Right, right. Yeah, I I think this is
+[0:05:02] such an interesting point. And there
+[0:05:04] there are many
+[0:05:05] philosophers and scientists who kind of
+[0:05:07] have a little bit of
+[0:05:09] maybe contempt is too strong a word, but
+[0:05:11] but machine learning is is a very sort
+[0:05:13] of trial and error engineering style
+[0:05:16] field overall. It's not
+[0:05:20] principally oriented towards
+[0:05:21] understanding the nature of what's being
+[0:05:24] built and then trying to build that
+[0:05:25] thing in the way that a biology or a
+[0:05:27] chemistry or even a psychology may may
+[0:05:31] be. And I think
+[0:05:32] this is helpful is a helpful model I
+[0:05:34] think for many people because it may
+[0:05:36] explain why we've ended up in a
+[0:05:37] situation that many non-AI people seem
+[0:05:40] perplexed by which is we are now
+[0:05:43] surrounded and and increasingly
+[0:05:45] overwhelmed by systems whose who who
+[0:05:47] were built by humans, but the humans who
+[0:05:50] built these systems don't actually
+[0:05:51] understand how they work because the
+[0:05:52] understanding was never the thing that
+[0:05:54] they were aiming for. They were aiming
+[0:05:55] for the sort of exactly as you're
+[0:05:57] describing, tinkering, trial and error.
+[0:05:59] Oh, yes, like this very strange, bizarre
+[0:06:02] Transformer encoder-decoder network just
+[0:06:04] seems to do good stuff and so we're just
+[0:06:06] going to sort of navigate in that
+[0:06:08] direction, never mind the sort of
+[0:06:09] underlying philosophical questions that
+[0:06:11] that may be really undergird undergird
+[0:06:13] this space. So I'd be curious to get
+[0:06:15] your reaction to that and then maybe as
+[0:06:17] a sort of positive vision
+[0:06:19] share with people what you're thinking
+[0:06:21] about at CIMC
+[0:06:23] machine consciousness hypothesis, these
+[0:06:25] sorts of ideas that perhaps are more
+[0:06:27] principled in in understanding at least
+[0:06:28] from the consciousness direction
+[0:06:31] what consciousness is. I think you have
+[0:06:32] a very compelling model here
+[0:06:34] and and
+[0:06:36] what the relationship of that is to the
+[0:06:38] systems we're maybe currently building
+[0:06:40] or systems that that that we could build
+[0:06:41] going forward.
+[0:06:43] >> When we look at the output of the
+[0:06:44] present systems, for instance, our image
+[0:06:46] and video generators, they basically
+[0:06:48] produce stuff that looks very much like
+[0:06:50] our dreams.
+[0:06:51] And I think of consciousness as a second
+[0:06:54] order dream, a dream of dreaming.
+[0:06:56] And it's perceptual. It's not a higher
+[0:06:58] order thought as some philosophers
+[0:07:00] thought. It's a higher order perception.
+[0:07:02] And perception here means that it's
+[0:07:05] happening in real time. It happens in
+[0:07:07] resonance with the thing that is
+[0:07:09] being modeled by the perceptual system.
+[0:07:11] And for a perception to work, it is not
+[0:07:13] just classifying frequent patterns into
+[0:07:16] categories that occur very often, but it
+[0:07:18] also optimizes for how they fit together
+[0:07:21] to explain the current frame, the
+[0:07:22] current reality in working memory. And
+[0:07:24] that's why I think we need this second
+[0:07:26] order perception, this perception of
+[0:07:27] perceiving to make us coherent.
+[0:07:29] And so in the language of machine
+[0:07:30] learning, I suspect that biological
+[0:07:32] systems use a very different loss
+[0:07:34] function than current mainstream AI
+[0:07:36] does.
+[0:07:37] And this leads to biological systems
+[0:07:39] being more sample efficient, which means
+[0:07:41] they need to look at less data than the
+[0:07:44] current AI systems do.
+[0:07:46] But this does not mean necessarily that
+[0:07:48] the AI systems are fundamentally limited
+[0:07:50] in what they can do. That's an open
+[0:07:51] empirical question. I still have a very
+[0:07:53] strong intuition that there is a
+[0:07:55] difference between the self-organizing
+[0:07:57] software that runs on biological systems
+[0:07:59] and makes them alive
+[0:08:01] and the software that we are writing to
+[0:08:03] run on the GPUs right now.
+[0:08:05] And I think we
+[0:08:07] should be able to build something that
+[0:08:09] is much much closer to the biology.
+[0:08:11] And the thing that motivates me to do
+[0:08:13] this is not so much the attempt to build
+[0:08:15] another startup that is outcompeting
+[0:08:17] OpenAI and Anthropic, but it's a
+[0:08:20] philosophical one. I believe that this
+[0:08:21] question, what consciousness is, what we
+[0:08:23] are, is the most important open
+[0:08:25] philosophical question.
+[0:08:26] And I just happen to think that
+[0:08:28] exploring this avenue, that we can
+[0:08:30] recreate the conditions of
+[0:08:31] self-organization that exist on in
+[0:08:34] biological systems using our computers,
+[0:08:38] using technical simulations, is the most
+[0:08:40] viable approach. And this hypothesis
+[0:08:43] that
+[0:08:44] by basically consciousness is an aspect
+[0:08:46] of a biological learning algorithm
+[0:08:48] that's part of what makes all of us into
+[0:08:50] human beings is that consciousness is
+[0:08:52] discovered at the beginning of our
+[0:08:54] mental career as infants and then
+[0:08:56] bootstraps our mind, creates a world in
+[0:08:58] our mind, creates a self, and our mind
+[0:08:59] orchestrates the interaction between
+[0:09:01] self and world.
+[0:09:03] That these principles can be explored
+[0:09:05] and tested, this hypothesis that
+[0:09:07] consciousness is what makes us
+[0:09:08] intelligent, what makes us minds,
+[0:09:11] by recreating the self-organization in
+[0:09:13] artificial systems. And it's a
+[0:09:15] hypothesis that can be wrong, but I
+[0:09:17] think somebody needs to test it and
+[0:09:18] that's why we built CMC.
+[0:09:20] >> Excellent. Nice. And a really
+[0:09:23] elegant idea that I've that I've seen in
+[0:09:25] your work sort of along these exact same
+[0:09:27] lines is this notion of cyber animism
+[0:09:28] and and the relationship of of this idea
+[0:09:31] to to yeah, consciousness as a as a
+[0:09:34] virtual phenomenon. I think a lot of
+[0:09:36] people get caught on
+[0:09:38] looking for consciousness in the
+[0:09:39] hardware of of a system and I think my
+[0:09:41] understanding of your view is that you
+[0:09:43] think that this is basically just a
+[0:09:44] mistake. You're looking at the wrong
+[0:09:45] level of abstraction. I find this like a
+[0:09:47] very
+[0:09:49] elegant and compelling view. I'm
+[0:09:50] wondering if you can just sort of sketch
+[0:09:51] out the cyber animism idea and and how
+[0:09:53] it relates to consciousness as a virtual
+[0:09:54] phenomenon.
+[0:09:55] >> a little bit tongue in cheek, of course.
+[0:09:57] It's a bit cute. But I noticed that a
+[0:09:59] big culture outside of our modern
+[0:10:02] western scientific culture is animist in
+[0:10:04] one form or other, right? It's true for
+[0:10:06] the old fairy tale of the Europeans and
+[0:10:09] the Japanese and
+[0:10:12] indigenous
+[0:10:13] societies and
+[0:10:15] means that the difference between living
+[0:10:17] and dead nature is that
+[0:10:19] the living nature is possessed by
+[0:10:21] spirits. And spirits are they don't have
+[0:10:24] a body themselves. They need a body to
+[0:10:26] possess, to exist. And they're
+[0:10:29] intrinsically agentic and capable of
+[0:10:30] experience.
+[0:10:32] And a modern scientific worldview treats
+[0:10:33] this idea of the spirit as
+[0:10:35] superstitious. And so we got rid of it
+[0:10:37] in the 20th century.
+[0:10:39] And this is despite the fact that you
+[0:10:41] and me clearly have a spirit that is
+[0:10:44] intrinsically agentic and capable of
+[0:10:45] experience and is somehow possessing our
+[0:10:48] body and calls itself Cameron or Yosha
+[0:10:50] and so on, right? So in some sense this
+[0:10:53] this spirit is clearly real,
+[0:10:55] but we don't know what it is in in terms
+[0:10:57] of the modern scientific world. And the
+[0:10:58] modern scientific world is typically
+[0:11:00] trying to explain things in terms of
+[0:11:02] mechanisms.
+[0:11:03] And mechanism we imagine these are
+[0:11:06] little molecular machines that are
+[0:11:08] acting inside of the cells and chemicals
+[0:11:11] shooting across the cells and tripping
+[0:11:13] little switches. It's basically some
+[0:11:15] form of clockwork. And the difficulty to
+[0:11:17] understand how this kind of physicalist
+[0:11:20] clockwork can produce our dream world
+[0:11:23] that we inhabit, our sense of reality
+[0:11:25] and our experience, this is what we call
+[0:11:28] the hard problem, David Chalmers
+[0:11:31] famously branded this term. And
+[0:11:35] I think it's a bit of a
+[0:11:36] misunderstanding. The
+[0:11:39] what our minds are doing, they create a
+[0:11:41] world of their own. It's a world that is
+[0:11:42] different from the world of physics.
+[0:11:44] Colors, sounds, people, emotions,
+[0:11:47] attention, and all these things are not
+[0:11:49] in the physical universe. They exist in
+[0:11:51] a psychological reality that our minds
+[0:11:53] are creating.
+[0:11:54] And computers are causal insulators that
+[0:11:57] produce a world that is completely
+[0:11:59] uninfluenced by the outside world. If
+[0:12:01] you play a game like Minecraft, the
+[0:12:03] gravity inside of Minecraft has nothing
+[0:12:05] to do with the gravity outside of
+[0:12:06] Minecraft. And if you were to change the
+[0:12:08] gravity in the universe outside of
+[0:12:10] Minecraft, as long as the computer
+[0:12:11] doesn't break down as a result, it's
+[0:12:13] going to be still the same inside of
+[0:12:14] Minecraft. So, this computer is
+[0:12:16] basically insulating this world of
+[0:12:18] Minecraft from the external universe,
+[0:12:20] filters all away all the physics, all
+[0:12:22] the particle movements, and so on until
+[0:12:24] only the rules inside of the computer
+[0:12:26] are left. And something similar happens
+[0:12:29] in our own brains. We are creating
+[0:12:31] memories and imaginations of possible
+[0:12:33] futures and alternate realities and
+[0:12:35] dreams at night
+[0:12:37] because uh our minds are insulating us
+[0:12:39] from the world for long enough that all
+[0:12:41] these possibilities are
+[0:12:43] accessible to us and that we can have
+[0:12:45] minds. That's the nature of mind is to
+[0:12:47] create universes of their own in which
+[0:12:49] supernatural things like consciousness
+[0:12:52] become possible in the same way as they
+[0:12:53] become possible in computer games. And
+[0:12:56] so the idea that our ancestors are
+[0:12:57] correct
+[0:12:59] that what makes things alive, what makes
+[0:13:01] a cell alive is that there is a spirit
+[0:13:04] that animates the cell. And the modern
+[0:13:06] word for spirit is self-organizing
+[0:13:08] software agent, right? There is some
+[0:13:09] self-organizing software running on the
+[0:13:11] cell. And if a few molecules go astray,
+[0:13:14] the software is usually robust enough to
+[0:13:16] deal with this and pick a few other
+[0:13:17] molecules to perform the same task. And
+[0:13:20] only when it leaves certain operating
+[0:13:22] parameters so that the software crashes,
+[0:13:24] this is the moment when the cell falls
+[0:13:25] apart.
+[0:13:26] And across the cells, there's another
+[0:13:28] spirit that makes you um multicellular
+[0:13:30] organism, right? And what we mean by
+[0:13:32] organism is not the mechanism, it's the
+[0:13:35] organizational structure, the functions
+[0:13:37] that are executed by making the cells
+[0:13:39] communicate in such a way that they
+[0:13:41] become a coherent being.
+[0:13:43] And this coherent being creates a
+[0:13:44] virtual reality in which something
+[0:13:46] experiences itself as something, right?
+[0:13:49] At some level. We don't know whether
+[0:13:51] plants are conscious. They might be, but
+[0:13:54] it's an open question for which we don't
+[0:13:55] have methodology yet to explore. But we
+[0:13:57] do know that there is software running
+[0:13:59] on the plant. And if that software is
+[0:14:00] crashing, if the communication between
+[0:14:02] the cells goes astray, the plant becomes
+[0:14:05] incoherent and it dies. It falls apart
+[0:14:07] into individual cells, most of them
+[0:14:09] which are going to die of famine and
+[0:14:11] infection.
+[0:14:12] >> Mhm.
+[0:14:12] Yeah, this is fascinating. So uh uh
+[0:14:15] going to play devil's advocate a little
+[0:14:16] bit and see see what what your response
+[0:14:18] is um because I you know cards on the
+[0:14:20] table I'm a very sympathetic to these
+[0:14:21] sorts of views, but there are many
+[0:14:23] people who aren't and we'll say for
+[0:14:24] example you problematize um maybe
+[0:14:27] implicitly this this notion of we are we
+[0:14:30] have this obsession with mechanism and
+[0:14:32] when we try to explain something in our
+[0:14:33] sort of current scientific cultural
+[0:14:35] conception we we we default to this uh
+[0:14:38] notion of what are the sort of causal
+[0:14:40] gear-like mechanisms of what's going on
+[0:14:41] in the system. Um but then you sort of
+[0:14:44] go on to to seem very comfortable with
+[0:14:46] describing all sorts of things brains,
+[0:14:48] plants, cells in computational terms. Uh
+[0:14:51] what do you say to a critic who says
+[0:14:53] look you're just doing the same thing
+[0:14:55] but you're almost doing like the 21st
+[0:14:56] century version of it and superimposing
+[0:14:58] a very culturally contingent
+[0:15:00] computational language on things and you
+[0:15:02] you you the brain there are many uh you
+[0:15:04] know um varying degrees of serious
+[0:15:07] neuroscientists who say this is
+[0:15:08] ridiculous we should not think of brains
+[0:15:10] as computers or you know plants are not
+[0:15:12] computers there are so many other things
+[0:15:13] going on. Um why in your view is is
+[0:15:16] computation different and uh
+[0:15:19] epistemically valid category and not
+[0:15:21] just some sort of sociological uh uh um
+[0:15:24] imposition some overlay that you're just
+[0:15:26] sort of adding to to these systems. What
+[0:15:28] makes it epistemically sort of grounded?
+[0:15:30] >> I think in a way you have it backwards
+[0:15:31] the culture has not understood what
+[0:15:33] computation is instead it associates
+[0:15:35] computation with this weird thing that
+[0:15:37] some nerds doing in the basement while
+[0:15:39] they are producing better accounting
+[0:15:41] software using machine code right and so
+[0:15:43] it's uh basically tinged with associa-
+[0:15:46] associative thinking without
+[0:15:47] understanding its substance. And when
+[0:15:49] you as an outsider who's not writing
+[0:15:52] programs and doesn't understand how you
+[0:15:54] can create dreams in a different
+[0:15:56] substrate
+[0:15:57] is uh trying to understand computation
+[0:15:59] they might be reading papers for
+[0:16:01] instance about the Turing machine.
+[0:16:03] And the Turing machine does not really
+[0:16:05] help very much to understand computation
+[0:16:06] it has weird things like a halting state
+[0:16:08] and a halting problem that goes with it
+[0:16:10] but the actual computers like our minds
+[0:16:12] our brains our machines that we're
+[0:16:14] building don't even have a halting state
+[0:16:16] or things like that right all these
+[0:16:17] things were invented to make certain
+[0:16:19] mathematical proofs. They were not
+[0:16:21] invented to clarify the concept of a
+[0:16:24] computer. The computer is something much
+[0:16:26] simpler as an idea.
+[0:16:27] It's basically a description of a system
+[0:16:30] through discernable differences
+[0:16:33] which we group together into states,
+[0:16:34] right? The sets of discernable
+[0:16:36] differences and it doesn't get more
+[0:16:37] elementary than discernable difference.
+[0:16:39] And we call that technical term for that
+[0:16:40] is information, right? And then we
+[0:16:43] describe the changes in the discernable
+[0:16:44] differences, the changes between state
+[0:16:47] to state.
+[0:16:48] And as soon well as you have a this
+[0:16:50] description, it's a computational
+[0:16:51] description.
+[0:16:52] And so from this perspective, everything
+[0:16:54] that an observer is doing when they
+[0:16:55] describe the reality is always looking
+[0:16:57] at discernable differences and then how
+[0:16:59] these discernable differences are
+[0:17:00] changing and finding rules for these
+[0:17:02] changes, right? And so every of these
+[0:17:04] descriptions is technically already a
+[0:17:06] computational description.
+[0:17:08] And the universal computer is one that
+[0:17:10] can go from state to arbitrary state.
+[0:17:13] So it has arbitrary degrees of freedom
+[0:17:15] in the system that it describes.
+[0:17:17] And that means that once you have a
+[0:17:19] universal computer that the ones that
+[0:17:20] we're building, we can impose arbitrary
+[0:17:22] models on them. So anything that we want
+[0:17:24] to have, we can just specify the rules
+[0:17:26] and then see how the information
+[0:17:27] evolves.
+[0:17:28] A certain way to look at this is that
+[0:17:31] it's similar to text, but text is
+[0:17:33] keeping information stable
+[0:17:35] and it does this regardless of the
+[0:17:36] substrate. The text needs a substrate,
+[0:17:38] something that records the text, but the
+[0:17:40] text doesn't care whether you stamp it
+[0:17:42] into clay tablets or whether you do it
+[0:17:44] with um biochemistry or whether you
+[0:17:47] write with ink on paper or whether you
+[0:17:49] put it on a hard disk, right? It's as
+[0:17:51] long as something can keep the text
+[0:17:52] stable, it can preserve the information
+[0:17:54] and be text.
+[0:17:56] And the computer is somewhat similar,
+[0:17:57] but what it keeps stable is not the
+[0:17:59] information, but the transition rules
+[0:18:01] between the information.
+[0:18:03] So as soon as the rules are being kept
+[0:18:04] stable, you observe a certain evolution
+[0:18:06] of these evolution of these
+[0:18:07] informational states. And like the text,
+[0:18:10] the computer doesn't care whether you
+[0:18:11] are implementing it with clockwork or
+[0:18:14] whether you're implementing it with
+[0:18:15] electronics or whether you're
+[0:18:17] implementing it with biochemistry or
+[0:18:19] inside of another computer, right? All
+[0:18:21] these things are equivalent as long as
+[0:18:23] the rules are being kept stable, the
+[0:18:25] computer is realized and the model is
+[0:18:26] playing out.
+[0:18:28] And these intuitions are
+[0:18:30] for some reason not really disseminated
+[0:18:32] widely in philosophy of mind or in
+[0:18:35] philosophy outside of the logicians that
+[0:18:37] were adjacent to the computer science
+[0:18:39] departments. And I think this is the
+[0:18:40] reason why until very recently no
+[0:18:43] philosopher outside of really just a
+[0:18:45] handful like sometimes David Chalmers on
+[0:18:47] good days and a little bit than Dennett
+[0:18:50] and
+[0:18:51] then Aaron Sloman and Maggie Boden which
+[0:18:54] are already far less known and so on
+[0:18:56] were able to predict that AI is going to
+[0:18:58] be likely.
+[0:18:59] >> Mhm.
+[0:19:00] >> And
+[0:19:01] most of the mainstream of Western
+[0:19:02] philosophy was completely shocked and
+[0:19:06] surprised by the advent of artificial
+[0:19:07] intelligence. And I think we also need
+[0:19:10] to come to terms with it. How is it
+[0:19:12] possible that the best thinkers in our
+[0:19:14] humanities were unable to predict this
+[0:19:17] development?
+[0:19:18] >> Mhm.
+[0:19:18] >> Right? And there were people who were
+[0:19:19] able to do it
+[0:19:21] like during Minsky, von Neumann,
+[0:19:23] Solomonov, many many others were in a
+[0:19:26] tradition that that were able to
+[0:19:28] anticipate and actively participated and
+[0:19:30] bring it about.
+[0:19:31] >> Sometimes far in advance.
+[0:19:33] >> but they were not being
+[0:19:35] taken seriously by the mainstream of
+[0:19:36] philosophy.
+[0:19:37] >> Yeah.
+[0:19:37] >> And so I think the issue here is
+[0:19:40] not that basically computation is
+[0:19:42] poisoning culture and but it's the
+[0:19:44] opposite that basically culture is has
+[0:19:46] not been able to come to terms with
+[0:19:48] computation and instead it lost the
+[0:19:50] concept of spirit and the concept of
+[0:19:52] mind and didn't realize that AI was
+[0:19:54] reintroducing it.
+[0:19:55] >> Yeah, yeah, that's really nice. Um one
+[0:19:58] last question that that I want to end on
+[0:20:01] and and leave people on is in exactly
+[0:20:03] that spirit of making predictions that
+[0:20:05] that you know bear out with respect to
+[0:20:07] this technology and and almost like
+[0:20:10] pre-registering sort of one's own
+[0:20:12] epistemology in doing so. I'm curious
+[0:20:16] there's so much going on on so many
+[0:20:18] different angles. I mean
+[0:20:19] it would take
+[0:20:20] three hours to to to to work to work
+[0:20:22] through it all, but in sort of the most
+[0:20:24] succinct way you can,
+[0:20:26] what do you see in general over the
+[0:20:28] next, let's say three to 10 years
+[0:20:33] with respect to AI progress, our
+[0:20:35] trajectory, whatever sort of
+[0:20:38] extrapolations you want to make from
+[0:20:40] your worldview, whether this be about
+[0:20:42] alignment or about consciousness or
+[0:20:43] about the societal response to these
+[0:20:45] technologies or about what these
+[0:20:46] technologies might teach us about
+[0:20:47] ourselves, what what
+[0:20:50] I want to give you the opportunity to be
+[0:20:51] prescient so that in 10 years people can
+[0:20:53] look back on this YouTube video and say,
+[0:20:54] he he got it right. I want to see sort
+[0:20:56] of what where where you think this is
+[0:20:58] all headed.
+[0:20:59] >> Well, first of all, I have to warn you.
+[0:21:01] I'm really bad at prediction, otherwise
+[0:21:03] I would have bought a lot of Bitcoin.
+[0:21:05] Right, but so
+[0:21:07] it's very difficult to predict the
+[0:21:09] future because too many dimensions are
+[0:21:11] changing simultaneously. I think that at
+[0:21:13] the moment we might be very well at a
+[0:21:16] turning point where the future is being
+[0:21:18] decided. There are a lot of people who
+[0:21:21] want to slow down the development of AI,
+[0:21:23] but none of the people who actually have
+[0:21:26] bought GPUs are going to let them sit
+[0:21:28] idle.
+[0:21:28] So what's going to happen is one of two
+[0:21:31] things, I think. Either we get
+[0:21:32] decentralized AI
+[0:21:34] in which we have the possibility for
+[0:21:35] something like
+[0:21:37] universal basic intelligence where
+[0:21:38] basically everyone gets access to a
+[0:21:41] technology that is empowering everyone
+[0:21:43] of us to understand reality better, to
+[0:21:45] deal with the deluge of information and
+[0:21:47] to understand the world much more deeply
+[0:21:49] and to enter much deeper contracts with
+[0:21:51] each other, make the world much more
+[0:21:52] equitable and democratic in this way.
+[0:21:55] The
+[0:21:56] other alternative is that AI becomes
+[0:21:58] extremely centralized, that they're
+[0:21:59] going to be
+[0:22:01] a handful of big companies that are in
+[0:22:03] oligopoly on powerful AI that are only
+[0:22:06] doing strong AI internally and everybody
+[0:22:09] in gets only harmless AI outside of of
+[0:22:12] these companies. And the government can
+[0:22:14] use AI of course to survey your every
+[0:22:16] step.
+[0:22:17] And this is basically the point at which
+[0:22:19] we are standing. We already see that in
+[0:22:21] Russia and in China AI is being used to
+[0:22:24] control public opinion. So Russia you
+[0:22:26] cannot go to a protest uh use the subway
+[0:22:29] without the uh AI predicting based on
+[0:22:32] the camera surveillance of the subway
+[0:22:33] that you're probably going to go some
+[0:22:34] kind of kind of protest and the police
+[0:22:36] descending down on you.
+[0:22:37] >> Mhm.
+[0:22:38] >> And I think that is uh very bad
+[0:22:40] prospect. I would prefer a world in
+[0:22:42] which the individual gets both empowered
+[0:22:45] and more responsible.
+[0:22:46] >> Mhm.
+[0:22:47] >> And uh I'm personally optimistic with
+[0:22:49] respect to this development. I think we
+[0:22:51] can build better AI, but we also have to
+[0:22:53] move towards building better things. And
+[0:22:55] so for me the question is what kind of
+[0:22:57] artificial intelligence do I want my
+[0:22:59] children to use?
+[0:23:00] >> Mhm.
+[0:23:00] >> It's not so much uh how can I make sure
+[0:23:03] that a handful of people who know better
+[0:23:04] than all of us can be in charge of AI
+[0:23:07] and make sure that humanity cannot do
+[0:23:09] any interesting steps and developments
+[0:23:10] anymore.
+[0:23:12] >> Yeah, Shabak, you're a uniformly
+[0:23:14] fascinating mind. Thanks for coming and
+[0:23:16] talking.
+[0:23:17] >> Thank you.

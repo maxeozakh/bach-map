@@ -1,0 +1,113 @@
+Apart Research: The Digital Minds Research Sprint 
+
+2026-07-28T16:00:24.820Z
+https://cimcai.substack.com/p/apart-research-the-digital-minds
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!KODu!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F333b3967-2be9-4d8f-a93a-fbd5c9aed33f_1650x450.png]
+We are pleased to announce a first partnership between the California Institute for Machine Consciousness (CIMC) and Apart Research [https://apartresearch.com/], an organization dedicated to accelerating research in AI safety, alignment, and governance through intensive research sprints and global fellowships.
+Our goal is to bring together researchers, builders, and philosophers to actively participate in the sprint, form teams, and contribute to the program.
+CIMC will be hosting the San Francisco in-person Hub throughout the entire  Digital Minds Research Sprint [https://apartresearch.com/sprints/digital-minds-research-sprint-2026-08-14-to-2026-08-16] from August 14th to 16th, kicking off with an opening gathering and speaker presentations on Friday, August 14th.
+Join The Onsite Research Sprint (SF) [https://luma.com/digital-minds-research-sprint-2026-san-francisco]
+Join The Online Research Sprint [https://apartresearch.com/sprints/digital-minds-research-sprint-2026-08-14-to-2026-08-16]
+
+About the Digital Minds Research Sprint
+The Digital Minds Research Sprint is a global 3-day intensive program designed to explore the frontiers of artificial sentience, model preferences, AI welfare, and introspection architectures.
+Throughout the weekend, participants will form teams to conduct novel research, write preliminary papers, and develop benchmarks that address how complex algorithmic systems process internal states and interact with human governance frameworks.
+Research Tracks & Topics
+Participants will work in teams on one of the following challenge tracks:
+Track 1: Model Preferences & Trade-offs: testing the coherence and stability of model preferences, grounding choices in trade-offs (e.g. donation-equivalents), and comparing stated vs. revealed preferences.
+Track 2: Distress, Flourishing & Valence Signals: mapping contexts that correlate with distress or flourishing signals in model outputs, and evaluating whether valence signals are stable across prompts and personas.
+Track 3: Introspection & Self-Report Reliability: testing when models can accurately report on their internal states, comparing naive prompting against structured elicitation, and building introspection benchmarks.
+Track 4: Preference Elicitation Methods: developing tools and multi-method toolkits beyond simple prompting to measure convergence across independent preference-elicitation techniques.
+Track 5: The Assistant Persona & Model Identity: probing persona stability, how the assistant persona relates to the underlying base model, and whether personas mask true preferences.
+Track 6: Open / Novel Considerations: an open track for participants to bring unique perspectives and propose novel research questions outside the main tracks.
+CIMC researchers and engineers will actively participate in the sprint, while the broader CIMC community will provide technical mentorship on Discord to participating teams globally.
+
+
+San Francisco In-Person Hub at the CIMC Offices
+We are hosting an in-person hub at the CIMC offices in San Francisco for the entire sprint weekend.
+Join us on Friday for talks, team formation, and networking drinks to launch the sprint, and come back on Saturday and Sunday for dedicated co-working, hacking, and collaborating alongside local builders, philosophers, and researchers.
+Event Details:
+Dates: Friday, August 14 - Sunday, August 16, 2026
+
+Schedule:
+Friday, August 14 - Kickoff & Mentors Presentation (11:00 AM – 6:00 PM)
+11:00 AM – 12:00 PM: Doors Open & Arrival
+
+12:00 PM – 1:45 PM: Lunchtime Orientation & Lightning Talks (featuring Joscha Bach, Hikari Sorenson, Philip Rosedale, Mati Roy & Kamil Alaa)
+
+1:45 PM – 3:00 PM: Team Formation & Mingling
+
+3:00 PM – 5:00 PM: Mentorship Office Hours & Coworking
+
+5:00 PM – 6:00 PM: Aperitivo, Light Bites & Networking
+
+
+Saturday, August 15 & Sunday, August 16 - Coworking & Hacking
+11:00 AM – 6:00 PM: Dedicated Coworking, Hacking & Collaboration
+
+
+
+Location: CIMC offices, San Francisco (Bay Area)
+
+
+Featured Speakers
+The kickoff will feature a series of presentations focusing on the current landscape of digital minds, AI alignment, and computational psychology:
+Joscha Bach, Executive Director, CIMC
+
+Mati Roy, Chief Product & Data Officer, Netholabs
+
+Hikari Sorensen, Researcher, CIMC
+
+Philip Rosedale, Board Director, CIMC
+
+
+
+
+ [https://substackcdn.com/image/fetch/$s_!xgyh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b5ba4dd-6b40-4bff-89b4-05d20c42d373_1650x450.png]
+
+Engagement & Mentorship
+Throughout the weekend, mentors will be available on the event Discord to help refine your research direction, methodology, computational models, or philosophical frameworks.
+Simply tag a mentor on Discord with your questions, and they will follow up with you directly in the channel or via direct message.
+
+
+Join and Contribute
+Whether you want to hack with us in person at the CIMC offices in SF or participate virtually from anywhere in the world, choose your option below:
+Register For Onsite Research Sprint [https://luma.com/digital-minds-research-sprint-2026-san-francisco]
+Register For Online Research Sprint [https://apartresearch.com/sprints/digital-minds-research-sprint-2026-08-14-to-2026-08-16]
+
+For those based in Europe, we are also hosting an in-person hub at the Foresight AI Node in Berlin. Join local researchers and hackers for the kickoff on Friday, August 14th, and co-working throughout the weekend.
+Register for the Berlin Hub [https://luma.com/digital-minds-research-sprint-2026-berlin]
+
+See you there! 
+
+
+
+→ CIMC is recruiting researcher engineers
+
+Apply here [https://app.dover.com/jobs/cimc]
+→ Submit a Research Proposal
+
+All info here [https://cimc.ai/#/proposals]
+→ Collaborate or Fund
+
+If you’re interested in supporting or partnering with us, email: proposals@cimc.ai [http://proposals@cimc.ai/]
+→ Join our Machine Consciousness Salons
+
+Regularly hosted in San Francisco: Luma [https://lu.ma/cimc] calendar
+Visit CIMC’s Website [https://cimc.ai/]
+Follow CIMC on X [https://x.com/CIMCAI]
+Follow CIMC on LinkedIn [https://www.linkedin.com/company/cimc-ai/]
+
+Thanks for reading our CIMC publication! Feel free to forward this to anyone who muses over the inner minds of systems
+Share [https://cimcai.substack.com/p/mc0001-the-founding-assembly-for?utm_source=substack&utm_medium=email&utm_content=share&action=share&token=eyJ1c2VyX2lkIjozMjAzNDUwODksInBvc3RfaWQiOjE4ODUyMDI5NCwiaWF0IjoxNzc4MjUxNDgzLCJleHAiOjE3ODA4NDM0ODMsImlzcyI6InB1Yi00ODY0ODc0Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.z7ocyoVq2PqTje29GuLqdYI5ieU16UMEJ5-wqHcC308]
+Thanks for reading CIMC Publication! Subscribe for free to receive new posts
+
+
+
+
+
+

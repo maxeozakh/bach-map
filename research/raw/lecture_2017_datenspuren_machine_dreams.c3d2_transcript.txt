@@ -1,0 +1,1034 @@
+Machine Dreams
+
+# Machine Dreams
+
+#### Machine Dreams Die Frage nach der Natur unseres Bewußtseins, und wie es möglich ist, dass es in unserem Universum existiert und es erlebt, ist wohl das
+faszinierendste Rätsel, mit dem wir konfrontiert sind.
+
+ 2017, Joscha Bach https://c3d2.de/news/machine-dreams.html
+
+ Das Forschungsgebiet der Künstlichen Intelligenz wurde nicht zuletzt ins Leben gerufen, um darauf eine Antwort zu finden. In dem Versuch, auf Computern die
+kognitiven Prozesse des Menschen zu realisieren, entwickeln wir ein testbares Verständnis und Begriffe davon, wie elementare Informationsverarbeitungsprozesse
+zu komplexem Erleben führen. Was unterscheidet heutige KI-Systeme vom menschlichen Geist? Die heutigen Anwendungen der KI konzentrieren sich vor allem auf die
+Klassifikation von Daten und die Steuerung technischer Systeme. Unser Geist ist jedoch mehr als ein Klassifikator: er erschafft aktiv ein dynamisches Modell der
+Umwelt, einen Traum, der in den sensorischen Daten verankert ist, und den er erlebt und reflektiert. Im Vortrag werden wir aus Sicht der KI betrachten, in
+welcher Weise das funktionieren kann. Joscha Bach ist ein Kognitionswissenschaftler, der an der Schnittstelle zwischen Künstlicher Intelligenz und Philosophie
+des Geistes interessiert ist. Seine Arbeit konzentriert sich kognitive Architekturen und Modelle von Motivation, Emotion und mentaler Repräsentation. Er erwarb
+seinen Doktortitel am Institut für Kognitionswissenschaft in Osnabrück, und lehrte und forschte im Bereich künstliche Intelligenz in Berlin, Osnabrück, und am
+MIT Media Lab. Derzeit arbeitet er am Program for Evolutionary Dynamics an der Harvard-Universität in Boston.
+
+## Transcript
+
+ [0:05] Was ich heute abend vorhabe ist sie auf. Einreise zunehmen nach dem Grund fragen die mich am meisten beschäftigen vielleicht ist es auch Fragen die sie
+am meisten beschäftigen also wie kann das sein dass wir hier sind wie kann das sein dass wir irgendwas erleben wie kann das sein dass wir uns in diesem
+Universum wiederfinden was soll das alles. Und das ist eine Reise die bei mir in der jetzigen Form vielleicht so ungefähr ne 283 angefangen hat das weiß ich
+wohl diesen Gerät. Hatte gerade verstanden wie programmieren geht und das bedeutet ich habe verstanden dass, was ich von der Welt wahrnehmen ist im Grunde
+genommen etwas dass ich auf dem Bildschirm eine retina.ch meiner Netzhaut irgendwie und dahinter ist etwas was diese Muster erzeugt auf meiner Netzhaut und dann
+im Computer ist das ähnlich das ist ein Muster Generator der Sachen auf diesen Bildschirm erzeugt, und das Programmieren ist die Kunst beliebige Muster auf
+diesen Bildschirm zu erzeugen und das bedeutet wenn ich etwas bis ins letzte verstehe, dann kann ich ein Programm schreiben dass diese Musterzeugnis heißt eine
+kausale Struktur die das musste hervorbringt ich kann alles in diesem Computer tun was ich bis ins letzte verstehe. Dann frag sie mich natürlich. Was will ich
+denn diesen Computer tun und der ist der Gedanke war die komplette Welt am besten mit jemanden drin mit einer vielleicht mit mehreren Besen oder mit der ganzen
+Zivilisation von Wesen mit denen man sich unterhalten kann. Und damit sind wir interessanterweise bei der Wissenschaft der künstlichen Intelligenz. Jahre später
+bin ich dann groß gewesen und die Wende kam und ging vorbei und dann ging ich an die Universität und studierte künstliche Intelligenz und Philosophie und
+arbeite silence.
+
+ [1:47] Diese Reise geht immer weiter so bis jetzt und ich glaube was ich erzählen möchte ist ein bisschen einige von den Fragen die ich mir am Anfang dieser
+Reise gestellt habe und wie ich die aus heutiger Sicht beantworten würde. Und ich hoffe dass euch das auch ehrlich interessiert wie mich damals und heute noch
+interessiert. Eine gewissen Weise gibt es in der Entwicklung eines Geistes drei entscheidende Reife Punkte dieser erste Reife. Des ist das der Geist erkennt
+dass er selbst existiert irgendwie von der Welt getrennt ist und wir schaffen das meistens im ersten Lebensjahr. Spät ist es am 2. kriegen wir mit wir sind
+jemand und II Reifegrad in der Geister Klimt ist die dass wir die Natur Epistemologie verstehen was man wissen kann das heißt. Alles was wir wissen jede Meinung
+die wir haben die wissen wir aufgrund von etwas, und das ist ein P hat uns jemand gesagt oder ist erschienen uns irgendwann logisch und so weiter und sofort
+oder wir haben Evidenz dafür irgendwelche Beweise Hinweise, irgendwas hast du sonst beweist und das was wir rauskriegen müssen dieser zweite Schritt den wir
+machen müssen ist rauszubekommen dass jeder meine nur so viel wert ist wie die Evidenz tiergestützt. Sonst nur das was wir beweisen können wissen wir auch. Und
+das heißt natürlich dass wenn man in einem Universum drin steckt dann kann man die Wahrheit dieses Universums nicht erkennen was wir erkennen können ist noch
+sagen die Menge aller Theorien die wahr sein könnten. Das bedeutet auch das ist natürlich Swiss und die anderen Leuten nicht vertrauen können wenn jemand anders
+uns irgendwas erzählt dann ist er höchstwahrscheinlich verwirrt oder er belügt uns und erst wenn wir das bis ins letzte desinfiziert und bewiesen haben was der
+und sagt dürfen wir das unseren Geist lassen und Glauben.
+
+ [3:26] Wir verstehen wollt was der Fall ist weil dass wir uns über das erzählt hast ja nicht mein ganzes war es sondern im besten Falle dass es für denjenigen
+ganz gut funktioniert hat. Der dritte Schritt in der Brust während eines Geistes ist der versteht wieder selbst funktioniert und da sind wir noch nicht.
+
+ [3:43] Können unsere Reise vielleicht mit Edmund Husserl Beginn berühmter deutscher Philosoph der sich darüber Gedanken macht wie wir die Welt wahrnehmen und
+da stellte fest wir können die Welt wie sie ist überhaupt nicht sehen sondern was wir wahrnehmen von der Welt sind Erscheinungen Phänomene. Und dieser
+Erscheinungen transformiert unser Geist in Ideen den Winter aus der neue x und der Prozess mit dem der Geist die Erscheinungen in Ideen umwandelt das nennt er
+noesis. Dieser Berg sind immer so die Phänomene wahr und verwandelt sie in Ruhe machen das ist soweit alles sehr einleuchtend oder ein Schüler von. Hussel Max
+Scheler hat das versucht auf die Wissenschaft anzuwenden dann hat er gesagt also wenn wir Wissenschaft betreiben über den Geist dann müssen wir die neues
+erklären, und das Problem dabei aber ist dass wir wenn wir dieses verstehen wollen dann müssen wir ja schon, ein Objekt haben was Neues ist durchführen kann das
+heißt um Jesus zu verstehen müssen wir sowieso schon voraussetzen und um das Bewusstsein zu verstehen und das Objekt ist ja nun ist das durchführt müssen wir
+immer schon so recht haben und deswegen kann man. Das nicht reduzierend nicht erklären durch Wissenschaft, was ist im Grunde genommen die weiche aus meiner
+Sicht in der zwischen der kontinentaleuropäischen Philosophie und der Analytischen Philosophie, ab dem. Hat die kontinentale Philosophie aufgehört was zu sagen
+sozusagen über den Geist das irgendwie hilfreich war für uns das ist ein Buch von dem sich die Geisteswissenschaft bis heute nicht erholt hat. Wäre gar nicht
+notwendig gewesen ob ich wenn wir uns überlegen wie ein Roboter die Welt wahrnimmt. Der sieht natürlich keine Filme mehr drauf hat er nimmt nur Muster war z.b.
+über eine Kamera die mit der Umwelt verbunden ist die Kamera die elektrische Impulse.
+
+ [5:21] Aufgelöst aus dem Kamera Sensor und die werden dann in Form von, elektrischen Impulsen bei deinem Roboter rein geschickt unternimmt die als Information
+war also als wahrnehmbare Unterschiede in seiner Systemgrenze, Unterkunft an diesem Muster und dann könnte man so eine Art Comic dilatations Verarbeitung machen
+die da raus und mich oder Präsentationen ableitet, jetzt wäre die Frage könnten wir einen phänomenologischen Roboter bauen das heißt ein, der dieser Muster die
+über die Systemgrenze reinkommen in den Roboter durch Phänomene darstellt als als Erscheinungen teso umrechnet dass der. Merkmale entstehen die der von ihnen
+sozusagen scannen kann und wahrnehmen kann als Erscheinungen daraus baut dass ich dann Konzept und die Phänomene resultieren in diesem Modell aus der
+Informationsverarbeitung des Roboters im nächsten Schritt wäre die Frage sind wir selbst vielleicht zwei Roboter. Was ist die ID von Geist als Maschine das wäre
+so praktischen Roboter sind, Herz mit dem Universum verbunden ist durch irgendein Systemgrenze und dann diese Systemgrenze manifestiert sich irgendwelche Muster
+mit den des Universums bewölkt und sei Geist verarbeitet diese Muster auf dem niedrigen Stufe dadurch entstehen Erscheinungen und auf einem höheren Stufe
+betrachtet er die und leite daraus Konzepte und so weiter ab. Dieser Gedanke dass der Geist Nähmaschine sein könnte es schon ziemlich alt.
+
+ [6:34] Gottfried Wilhelm Leibniz hat das z.b. vorgeschlagen immer an das geht eine Maschine die so wäre dass sie Gedanken und Empfindungen und Perzeption
+hervorbringen kann. Dann können wir uns mal vor wie machen diese Maschine groß wie so eine Mühle und Vergehen in sie hinein und wir sehen dann die ganzen Teiler
+ist die ganze Mechanik von dem Ding und was wir dabei sehen ist das dann nur einzelne Stücke sind sind die anderen anstoßen. Wann soll es in Leibnitz das
+überzeugt hat im Gegenteil er meinte das ist der klare Beweis dass wir keine Maschine sein können er meint die Perzeption ist das was von ihr abhängt ist auf
+mechanische Weise das heißt durch Hilfe von Figuren in Bewegung nicht erklärbar. Wenn wir so sind diese Mühle hineingehen die Teile sehen dann können wir
+erkennen dass der wirklich nur Mechanik ist und nichts was erklären könnte wie irgendwelche Gefühle Gedanken und so weiter entstehen können und Wahrnehmungen.
+
+ [7:20] Das war nicht der einzige das gedacht hat z.b. Mühlbacher hat gesagt dass die astronomische Kenntnisse des Gehirns also Leute sagen die physikalische
+das ist die höchste Debatte von erlangen können und die zeigt uns nichts als bewegte Materie. Und ich keine Anordnung von der Webung Materieteilchen des sich
+eine Brücke von diesem Teilchen ins Reich des Bewusstseins schlagen. Was hat er keine Möglichkeit gesehen und es gibt auch heute noch sehr viel Leute das
+genauso sehen z.b. das Hochzahl die Situation liegt sein Penis im Zimmer zugrunde.
+
+ [7:53] Es gab aber auch späten Zeitgenossen von Leibniz den La Mettrie der Buch geschrieben hat, lombagine der Mensch eine Maschine und der hatte recht moderne
+Auffassung der meinte dass die Welt komplett physikalisch ist also eine Maschine, und der Mensch ist eine Art von Tier nicht sehr verschieden von den großen
+Menschenaffen der meint Eckzahn konvenieren zwischen den Affen und den Menschen das hat er nicht experimentell überprüft das hat er sich überlegt. Mach dir mal
+vor dem Einschlafen gehört hat. Und er meinte auch alles was man die Seele wissen kann das kann man nicht über Theologie herausfinden oder durch irgendwelche
+Lehnstuhl Philosophie sondern muss das wissenschaftlich rausbekommen zweispaltig medizinische Studien. Der meint auch dass die Maschine in sehr sehr allgemeiner
+Begriff ist Maschinen können z.b. transzendent unsterblich sein meint er soll nicht einfach nur aus irgendwelchen mechanischen Teilen bestehen und der meinte
+auch dass es irgendwann möglich sein Nähmaschine zu bauen die tatsächlich zu sprechen vermag. Das alles steckt in diesem kleinen Traktat der Mensch eine
+Maschine drin. Für die damalige Zeit Altersheim Zeitgenosse überfordert die haben mich ausgelacht eine Geburt liegt auch anzünden. Deswegen ist er weggelaufen
+zunächst nach Holland da wollten wir dann oh man auch anzünden und dann ist er irgendwann zu Friedrich dem Großen bekommen das Mädchen Spaß Verstand und ich ihn
+als Arzt in seinem Ruf gelassen hat ist er gestorben ist. Und es ist so dass meine Philosophie heute noch Geld über der damit die lacht aber eigentlich sind
+deine Auffassung ziemlicher Mainstream und. Wir komme diese Maschinen Begriff besser zurecht weil wir haben nähmaschinenbedarf ersetzt durch was anderes, und
+zwar geht es nicht zuletzt auf diesem Herrn zurück den Herrn Alan Turing der eine besondere Art von Maschine erfunden hat nämlich die Turingmaschine.
+
+ [9:30] Was wir hier sehen ist eine physikalische Realisation der Turingmaschine in Wirklichkeit geht das nicht weil die besitzt ein unendlich langes Band. Und
+wenn ich langes Band kann man diesem Universum vermutlich nicht bei uns sondern unendlich langes, wann hat die ein schreib Lesekopf mit dem die Symbole auf
+dieses Band schreiben und lesen kann und je nachdem in welchem Zustand die Maschine ist und welches Symbol sie liest geht sie ein Schritt nach links oder rechts
+und schreib ein bestimmtes anderes Symbol hin. Das ist alles was sie tun Maschine tut und der Thüringen konnte zeigen dass praktisch jedes beliebig
+Computerprogramm ist von diesem Ding ausführbar.
+
+ [10:04] Damit kann man, Berechnung definieren dass ich ihn Berechenbarkeit Begriff als ich das Philosophen Philosophiestudium unterrichtet habe ich
+festgestellt dass ich hole Maschine nicht optimal ist die ist zwar recht bekannt, aber diese Idee von Rad und schreib Lesekopf gibt den Studenten sehr starke
+Intuition von mechanischen Bauteilen. Und unser Geist ist nicht so dass er mehr kann also Tourenmaschine sondern tatsächlich weniger Wassergeist ist nur
+eigentlich große Tourenmaschine hat unendliches Band. Und wenn wir anfangen dieses Band zu begrenzen und Zusage Tourenmaschine hat nur endlich viel Zeit um das
+zu schreiben und zu lesen und sofort. Dann sind die Funktion die Türen Maschine berechnen kann natürlich mir eigentlich viele unser Geist hat auch unendlich
+viele berechnen weil wir leben ja nicht ständig lange unser Gehirn ist nicht unendlich groß. Aber diese beiden Mengen sind sehr verschieden also die Funktion
+den endlich tun Maschine berechnet und die Funktion den endlich ins Gehirn berechnen sind nicht ganz dieselben. Gibt noch andere Möglichkeiten Berechnung zu
+definieren sogar ziemlich viele eine die ungefähr zeitgleich mit der Turingmaschine entstanden ist ist das Lambda Kalkül von anderen Sonnenschutz. Kingdom
+gruselig griechischer Buchstabe und so und Kalkül aber eigentlich ist super einfach und das mit dem Lamm da war ein Unfall ursprünglich war das so ein Häkchen
+über dem y gewesen dass er das wohl dem ersten Zeichen dass die gebundene variable bezeichnet und das Ding war dass es sich, weil ich leider noch kein TTP
+hatten sondern das mit Schreibmaschine gemacht haben und dann handgemalt Zeichen rein die sie nicht nach auf der Schreibmaschine hatten oder das Häkchen davor
+gesetzt und da setzte halt später noch aus diesen griechischen Buchstaben Lambda gemacht und deswegen wurde das dann da kein Gefühl.
+
+ [11:36] Gezeiten gebundene variable das ist die die müssen dann da bezeichnet ist dann gibt's den Ausdruck indem diese Variable vorkommen können und danach der
+nächste Ausdruck ist das sogenannte Argument und was das Ding macht das macht Sohn nur praktisch, suchen und ersetzen die Vorschrift ist suche alle Vorkommen
+von der gebunden variable. Trinkgeld in der Zeichenkette Ausdruck da oben und ersetze die durch das was danach kommt. Also wenn ihr nur dieses Ding suchen
+ersetzen dass das was sie macht das wirklich nur suchen und ersetzen sowieso eine Textverarbeitung machen kann, und das tolle ist das der Judge gezeigt hat dass
+man damit jedes Programm ausrechnen kann man kann z.b. diesem Landau Kalkül logische Funktion berechnet man kann einfach alles mittig machen dann kann man
+daraus kompliziertere Arithmetik stricken, und dann kann man zumeist eine Turingmaschine damit schreiben und ausrechnen was der nächste Zustand der Turing
+Maschine ist das heißt mit dem Lampe kann man die Turingmaschine berechnen und umgekehrt, dann kann auf der Turingmaschine miteinander kacken berechnen und weil
+die beiden sich gegenseitig berechnen können dass man daraus schließen dass die gleich stark sind. Das Programm ist auf der Drehmaschine ausrichten werden kann
+dann ausgerechnet werden und umgekehrt, und es gibt noch viele Arten Weise die Berechnung zu definieren z.b. alles was ich mathematisch beweisen dass ist
+berechenbar, oder alles was ich mit dem Verzehr rekursive Funktion ausdrucken das ist berechenbar oder alles was man in der Programmiersprache Java oder basic
+oder beißen ausdrücken kann es berechenbar und es können alle gleich viel.
+
+ [13:03] Jetzt unsere zurückgehen überlegen was haben all diese Definition gemeinsam es ist was ganz simples dann können ausgehen und Information Informationen
+das sind wahrnehmbare Unterschiede, elementares und nein, die kann man davon zu Maßeinheit das bitte das ist sozusagen das elementare ja oder nein und ne Menge
+und Information das ist ein Zustand state, und der kann jedes beliebige system beschreiben dadurch wie sich der Zustand verändert durch eine
+zustandsübergangsfunktion die sagt wie ich von einem Steak zur nächsten komme. Und die digitale und diskrete und deterministische komputation die hier in diesen
+Computer zum Bestand ist einfach ein Spezialfall dieser transmissionsfunktion kannst du mal Spiel kontinuierlich sein oder probabilistisch also zufällige
+Element enthalten.
+
+ [13:49] Das Interessante ist dass die komputation sozusagen die Berechnungen eigenes Reich darstellt anders als die Mathematik. Definiere normalerweise eine
+Teilmenge der Mathematik alle die Turingmaschine ist eine mathematische Definition. Und die Mathematik ist noch mehr als das die Mathematik ist das Reich von
+allen formalen Sprachen. Also alles was man noch von meinem Sprache ausdrücken kann inkludiert Receiver Geometrie ist Mathematik. Und die Mathematik Temperatur
+bitte nichts an meiner so gar nichts und tut man dann Parkzone rein und schaut was ich aus den entwickelt. Die Erforschung von diesem Ding von diesem Symbol
+spielen dass er die Mathematik und das meiste dass man was in der Mathematik passiert weil man von meinem Rachen alles möglich ausdrücken kann man auch gar
+nicht ausreichend ist Meister gibt doch gar keinen Sinn. Deine Sprache kann ich alles mögliche sagen und vieles von dem was mit der Sprache sagen kann ergibt
+keinen Sinn z.b. Aber diese Aufgabe ich an wenn Sie eine von den Freunden aus Antworten zufällig auswählen was ist die Wahrscheinlichkeit dass Ihr Antwort
+richtig ist.
+
+ [14:48] 20 % 50 % 35 % oder alle zusammen.
+
+ [14:55] Diese Aufgaben sind oder ist nicht lesbar ist weder wahr noch falsch einfach unentscheidbar es liegt daran das mit der Sprache tolle Sachen machen kann
+die man aber zum Schluss nicht programmiert kriegt. Und Berechnung heißt dass man die Arbeit sich tatsächlich macht. Was heißt aber du übergangsfunktion
+ausgeführt Berechnung ist das Reich von den Sachen die funktionieren. Dann Berechnung ist das Reich und einer Reichsbahn Zustandes beginnt im Staat Zustand dann
+kommt übergangsfunktion des Weges und rechnet den nächsten Zustand aus dann kommt sie wieder Überfunktion kommt der nächste Zustand wieder die Funktion wieder
+Laser Zustand. Und das ist immer endlich und das ist immer berechenbar das heißt das ist das Reich der Implementation nicht da ist und der Mathematik ist das
+Reich der Spezifikation. Also alles was man sich wünschen kann es nicht Mathematik alles was man machen kann ist die Berechnung.
+
+ [15:42] Es ist eine fantastische Idee sehr elegant ist und die uns eine vereinheitlichte Perspektive auf die wichtigsten Grundfragen der Philosophie gibt die
+Fragen sind die Epistemologie die Metaphysik und deontologie nämlich also was kann ich wissen. Und was geht hinter den Kulissen vor und was gibt es.
+
+ [16:07] Wenn wir diesen komputation haben als Prinzip mit dem man alles bauen kann der menschliche Frage was für ein Computer braucht man denn eigentlich um
+Universum die uns das zu bauen. Also angenommen ich bin Gott und ich habe beschlossen ich möchte jetzt ein Universum bauen wie die Menschen das Überleben. Jetzt
+meine Eltern und sage ich wünsche mir zum Geburtstag ein Computer mit dem ich ein Universum bauen kann, unter meine Eltern sind auch Gott aber sie sind
+irgendwie knauserig und wollen nur den billigsten geben also Divergenzen Gottes laden und sie sagen okay du kriegst aber wirklich nur den kleinsten für diesen
+Computer der dieses Universum bauen kann, und der einfachste Tanzunterricht Übernatürlichen C64 mit sehr viel mehr Speicher. Und dass er praktisch mit diskreter
+deterministischer zustandsmaschine die von Schritt zu Schritt gehen kann. Und es könnte auch sein dass man einnimmt der bisschen zufällig von Schritt für
+Schritt geht das heißt wo man mit der bestimmen Wahrscheinlichkeit durch den dritten wechselt. Oder man könnte ein Quantencomputer kaufen bei dem jeder Zustand
+Überlagerung von möglichen Zuständen ist.
+
+ [17:07] Diese eine von diesen drei Varianten aber unendlich gespeichert natürlich unendlich viel mehr. Aber Papa ist vielleicht haben unsere Eltern ja auch
+nicht viel mehr Geld und vielleicht ist es auch nur wer es mir tatsächlich unendlich Nummer 4 wäre unser alter Bekannter die Turingmaschine also 164 mit
+unendlich viel Speicher.
+
+ [17:26] Noch andere Möglichkeiten z.b. das was die Physiker die meiste Zeit unsere Geschichte über alle glaubten und inzwischen nur noch fast alle glauben oder
+vielleicht 60% der Grundlage für Syke. Hat das Universum ein geometrischer Supercomputer ist das bedeutet es ist echt kontinuierlich ist das ein Raum ist in dem
+sich den Raum bewegen das ist das was das meint. Den Computer hier kann ich ein Computerspiel machen das so aussieht als ob Sachen sich kontrolliere ich bewegen
+gar kein Problem dass ich kein Datum bisschen Ballerspiele zum schon mal in 3D you herumläuft und Helikopter kontinuierlich sich herum bewegen, und natürlich
+ist das nicht konnte wie durch diese Zahlen die die Positionen beschreiben Objekte sind diskret die Datenstruktur sind diskret, richtig getrennt zwischen den
+Nummern und laufen in Schritten hat den kleinsten Einheiten und. Wir können natürlich nicht erkennen ob unser Universum kleinsten Einheiten abläuft das heißt,
+die genauen Hinschauen stellen wir fest dass es gequantelt ist und die Physiker fanden das relativ irritierend und dann kam sie mit der Stringtheorie und
+anderen Sachen um zu erklären, wie sein kann dass unser Raum intuitiv kontinuierlich ist wie wir alle wissen wir wissen ja seit vorgesprochen lernen dass der
+Raum kontrolliere ich aussieht für uns. Situation wollen wir genüge tun wenn wir feststellen dass die Quantenmechanik gequantelt ist dass sie diskret ist, der
+kleinste Einheiten existieren das ist sehr verwirrend und die Physiker versuchen also Theorien zu finden mit den sie erklären können den Konten welcher Raum
+diskrete Welt hervorbringen kann. Informatik als umgekehrt dieser Computer ist das Gerät muss ich weiß dass Gottes Computer auch das Gerät. Und das könnte
+erklären warum die Welt untergeht aussieht sie ist einfach nie kontrolliert ich sie sieht nur kontinuierlich aus wenn man sehr weit raus tun wir die wir sehr
+groß sind.
+
+ [19:05] Könnte auch sein dass die Welt ein arausana über Computer ist das seit einer wo ich Zeitreisen machen kann wo ich z.b. Sachen, Ausrechnung heute und
+sie dann in besonderer Art von schwarzem Loch werfe das mit der Vergangenheit verbunden ist und mein Ergebnisse meine Berechnung der Vergangenheit schickt und
+dann verfügbar macht das nicht klar dass wir uns im Universum leben mathematisch ist es möglich und so einem Computer nicht. Aber vielleicht reicht das ein
+Computer und es gibt tatsächlich für Sicherheit die Idee Theorie vertreten dass unser Universum von Computer ist. Der erste der auch nicht drüber geschrieben
+hat war Konrad Zuse und sein Buch berechnen Traum. Konrad Zuse ist der deutscher Erfinder des Computers in der immer noch lebt und zwar nicht weit weg von mir
+wo ich jetzt in Boston wohne, hat es ihren Verträge sind diese ebenfalls und Stephen Wolfram der darüber großes Buch geschrieben hat glaub das aber die drei
+sind, Außenseiter sozusagen in der Physik zwischen gibt's aber auch internetseite geprüft. Ja seinen Nobelpreis für seine Beiträge zum Standardmodell
+Quantenmechanik bekommen hat und er hat vor zwei Jahren. 250 Seiten langes paper auf Akai veröffentlicht die zelluläre Automaten Interpretation der
+Quantenmechanik in der er zeigt dass soweit wir sehen können so weiter gekommen ist nichts dagegen. TDS ist Universum da zellulärer Automat ist das heißt das
+gibt ein Zustandsvektor der den Gesamtzustand des Universums beschreibt. Kommt übergangsfunktion des Weges und rechtlichen nächsten Zustand des Universums aus
+wieder die gleiche übergangsfunktion nächster Zustandes oder so und so weiter und so fort und wir sind irgendwo dran.
+
+ [20:39] Der bekannteste zellulärer Automat. Game of life das Spiel das Leben ist das von John Conway doch in 50er Jahren entdeckt wurde das besteht aus
+Kästchenpapier. Sind die Kätzchen hoffentlich und es gibt einfache Regeln da drin und zwar sind sie um dieses gelbe Rechteck. Mit dem mit seiner Nachbarschaft
+die markiert ist die acht Felder rundrum und wir haben drei einfache Regeln und zwar. Wenn ein leeres Feld genau drei Nachbarn hat dann erwacht es zum Leben.
+Wenn es zwei oder drei Nachbarn hat dann bleibt es am Leben und wenn es weniger als zwei Eltern Sturz an Vereinsamung wenn es mir als 3 anstupsen Erstickung.
+
+ [21:19] Das sind die ganzen Regeln ich rechne das jetzt alles fürs Grab da fällt aus und nicht das mache dann fängt das an Bewegung zu geraten entsteht und
+dynamisches Muster das dann entweder stirbt oder zyklisch wird was ich immer weiter ausbreitet. Und es gibt Figuren im game of life Dienst II kopieren können
+die nennt sich Gleiter.
+
+ [21:38] Leider existiert sozusagen nicht wirklich was für das Game of life existiert sind nur die Kästchen und die Regel dies auf die Kästchen anwendet aber
+wenn man seinen Ausgangszustand hat dann entsteht so ein Gleiter der sich dann Erwägung selbst und durch die Gegend wird, und diese Kleider können auch mit
+deine interagieren dass wir sind horizontale Gleiter dienen die game of life Gemeinde Swiss Tipps und hier auf der Seite sehen wir. Leiter Kanonen und die sind
+mit einer synchronisieren schicken sich Signale so dass sie im gleichen Rhythmus Design leider aus senden wenn die Kleider sich treffen löschen die sich
+gegenseitig aus und die kann man solche Felder zweisprachig intertoys jemand gebaut aus dem game of life.
+
+ [22:17] Kommt raus und raus.
+
+ [22:23] Was er hier gemacht hat der hat das Game of life in game of life gebaut. Und das gibt es wegen war das Game of life Turing vollständig ist natürl
+Maschine kann man die neue Turingmaschine bauen in diesem Computer kann man eine Simulation dieses Computers machen und im Team auf live kann man eine
+Simulation von Game of life machen.
+
+ [22:48] Man kann es auch kontinuierlich machen das macht man dann so dass man die Kästchen durch einen Kreis ersetzt und der Nachbarschaft durch eine Scheibe
+und dann guck mal wie viele Pixel in der Scheibe, ausgemalt sind und das entsprechende Intervalle verleben und Food fest die analog sind zu den Intervallen von
+dem Kätzchen farbigen game of life und das Resultat sieht dann so aus.
+
+ [23:18] Also die Gleiter hier sind ja schon organisch und bewegen sich sehr schön. Ford und irgendwie natürlich sind Universum kein II müssen alle zellulärer
+Automat sondern wahrscheinlich ziemlich hoch damit zu nein aber der Gedanke dass Partikel sowas wie Kleider sein können ist ganz schon verlockend. Das Game of
+life hat auch eine Eigenschaft die unser Universum nicht hat unserem Universum, gibt's kein richtig coolen Sachen nämlich keine Perpetuum Mobile im
+Eingangsbereich von unserem Museum hier sehen Sie ein Perpetuum Mobile in Minecraft kannst du das auch bauen das Eingangsbereich funktioniert glaube ich nicht
+dass in minecraft funktioniert Minecraft ist ein Universum an dem das geht, rundum leider nicht warum ist das so das liegt vermutlich daran dass unser Universum
+umkehrbar ist und. Das Minecraft Universum ist unumkehrbar. Das umkehrbar bedeutet nicht dass er symmetrisch ist das bedeutet einfach dass jeder Vorgang hat
+genau einen möglichen Vorgänger jeder Zustand im jetzt hat genau einen Vorgang Zustand der davor sein kann und in der Quantenmechanik sehen wir das empirisch
+diese feynman-diagramm sind umkehrbar. Und das bedeutet wir können unserem Universum keine bits löschen keine Information geht verloren. Es wird immer nur mehr
+Gemüse aber die Information wiederzufinden aber sie geht nicht verloren diese dieses Ding dass wir die Information über Spieler wiederfinden das ist dass das
+mit Entropie meinten. Tobi heißt nicht das Beste gelöscht werden sondern Elke Scherer ist sie wieder zu finden wenn Sie eine Tasse nehmen und runter werfen und
+sie zu springt in ganz viele Scherben und die zerstäuben irgendwann die Kinder nicht verloren die sind alle immer noch irgendwo sie finden Sie in unser Flechte.
+
+ [24:52] Das bedeutet Sie müssen immer mehr speichern sich immer mehr merken um zu wissen wir sind die Tasse und mal wieder zusammensetzen ihre Kandidaten. Das
+ist aber auch der Beobachterperspektive und zwar aus der Perspektive eines ihre versible Beobachters. Wir sind Michi reversibel es ist so dass wir stabil
+bleiben wollen auch wenn das Universum sich verändert. Das Universum versucht mich die ganze Zeit zu verändern z.b. würde ständig heiß und kalt um mich herum
+oder nass und trocken. Mein Körper regelt sich so dass er das ignoriert dass er das wegläuft dazu sagen mein Körper erinnert sich nicht an die Körpertemperatur
+Schwankung ein von gestern ist lösch die einfach. Und dieses löschen dieses herstellen von Stabilität bedeutet dass ich um diese Ordnung herzustellen Ordnung
+konsumieren muss im Universum, in einem Universum das reversibel ist die Orte Menge der Ordnung die Menge der Witz die Menge der Struktur sozusagen endlich.
+
+ [25:47] Und das ist wahrscheinlich die richtige Interpretation des zweiten Hauptsatzes der Thermodynamik also beobachtet ihre innere Struktur stabilisieren
+sind irreversibel. Die Stabilisierung von Struktur erzeugt sozusagen mölbitz die man aus dem System rausbekommen muss man sehr sauber machen würde für was
+anderes dreckig. Deswegen geschlossenes System haben damit ich direkt so lange an bis alles erstickt wird das heißt das System ein Gleichgewichtszustand
+erreicht indem keiner der Struktur mehr da ist. Und damit sie dauerhaft leben können brauchen Sie ein offenes System das heißt Sie müssen irgendwie den ganzen
+Müll, bis in alle Ewigkeit Jugendlicher abstrahlen können also z.b. die Tiefen des Weltraums immer die Tiefen des Weltraums voll und die Sonne ist ausgebrannt
+so dass dieser gradient von Ordnung zu Unordnung verlorengeht von Nick Entropie, Entropie und ohne sein nec Entropie gradient muss jeder Beobachter unserem
+Universum sterben. Und dieses gibt uns um unser Universum aber so weiß ich Blasen aus Nick Entropie die einfach aufgrund wahrscheinlich als Ausgangszustand
+entstanden sind und diese blasen kann man konsumieren die meisten von diesem Deck Entropie blasen also von diesem. Von höherer Ordnung zu runterhauen Ahnung
+werden von relativ einfachen chemischen Prozessen Zweifel Verbrennung oder sowas konsumiert. Und es gibt aber einige chemische Reaktionen wo man erst ein
+bisschen Struktur hinzufügen muss ein bisschen Energie hinzufügen muss um mehr Energie raus zu bekommen und diese, kontrollierten Reaktion sind die Marktlücke
+die das Leben ausnutzt auf unserem Planeten gibt es eine Reihe von chemischen Reaktionen wo man die Energie nurundan kann man erst ein bisschen Energie
+hinzufügt.
+
+ [27:17] Na dann kontrollierten Reaktor betreibt dann schafft man das reicht Energie zu ernten wohnen zwischen Verbrennung das nicht kann. Man sich gegen
+einfach immer schreibt und durchsetzen kann und der Sinn des Lebens auf unserem Planeten ist vor allen Dingen die Hydrierung von Kohlendioxyd das ist im
+Wesentlichen der Aktionskreis Lauf den das meiste leben auf der Erde vollzieht.
+
+ [27:39] Und zwar aufgrund von Zellen die miszellen das sind keine Maschinen die aus Molekülen bestehen und die sind auch spezialisiert neck Entropie aus dem
+Universum zu ernten. Und waren sehr große Menge von Umgebungsbedingungen. Ich meine für jedes System dass ihre versible es gilt das das ist ne Kind OP erntet
+das und dass sie in Konkurrenz damit rum sind sie sind praktisch das System das in der Lage ist alle Konkurrenz Systeme, Wettbewerb auszutricksen was das heraus
+sagen von der kintoki aus ihrem Volumen des Raums angeht.
+
+ [28:12] Was ist lieb im ist denn das sind sehr stabilisierende adaptiver molekulare Maschinen 25 Größenordnung über der planck-länge die und ich sind so 30
+Großmutter planck-länge die planck-länge ist die kleinste Einheit die wir im Universum kennen. Muss auch noch mal Leben vor dem X gegeben haben Brezeln ihres
+leben kannst aber nicht gefunden das liegt vermutlich daran dass es sehr instabil ist wenn man keine Zellmembran hat ist man sehr fragil, das heißt wenn sie
+Person ihres Lebens hinlegen sich möglich eine Zellmembran zu und, dann wird es auch weiß ja keiner kennt das Phänomen über diesen zählen das heißt ab und zu
+ist es so dass die Einzel und sich zu Kolonien zusammenschließen größeren Organismen und ihre Geschicke gemeinsame die Hand nehmen, manchmal so eine Zelle rein
+zoomt hier durch die Zellmembran hindurch.
+
+ [29:02] Besteht aus extrem vielen Proteinen sogenannten.
+
+ [29:13] Dass wir da drin finden ist dieses Ding die DNA. Diese DNA das im Prinzip ist das eine molekulare Turingmaschine langes Band und das Betriebssystem der
+Zelle enthält und dann gibt es da drauf und schreib Lesekopf, das sogenannte replisom das in der Lage ist die Inhalte auf diesen Band zu verändern und zu
+kopieren.
+
+ [29:44] Das ist ungefähr so schnell läuft es in Wirklichkeit ab sein sonst besteht aus einzelnen Molekülen.
+
+ [29:59] Design sind praktisch evolviere Maschinen die DNA ist nicht abbauplan von dem Organismus weil zu jedem Zeitpunkt wo darüber nismus da es gibt immer
+schon erzähle es gibt im Leben des Organismus keine Zeit und keine Zeile da ist nass eine konstruiert werden müsste. Tennis immer schon da sie wird nur
+reguliert mit dem mit diesem Betriebssystem die Gene sind praktisch runter Programme die ausgeführt werden können, Reaktion zum Zustand mit seid ihr gerade ist
+die Zelle nimmt und welche Mikael war die EM Rente fundieren oder die minderen erzähle vorhanden sind und aufgrund davon für C1 molekularen Programme aus, und
+das Programm regelt entweder im Gleichgewichtszustand ein oder ist differenzierte Zelle das heißt es macht aus ihren anderen Zelltyp. Oder ist halt in Zelle 2
+Zeilen oder ist es jetzt alle sterben. Was ich gerade da wo sie jetzt ist stirbt stört den Organismus das ist alles was ich jemals tun kann.
+
+ [30:53] Didier Nasenspray Maschine diese Turingmaschine aus relativ langsam und sequentiell und die Zelle ist nicht so groß dass sie große
+Verarbeitungskapazität und Sinnesorgane hat und deswegen ist es sinnvoll dass die Zellen sich zusammenschließen Zug operieren. Und einer der Hauptvorteile ist
+dass sie ihre Informationsverarbeitung zusammen besser machen können als die einzelnen Teile das machen. Und das machen die Zellen in dem sie einige Sätze sagen
+verändert euch doch mal in Nervenzellen und Zelt Impulse und macht Informationsverarbeitung. Und reguliert wie wird die neck Entropie gemeinsam besser vom
+Universum erledigen können, und wenn man etwas reguliert dann muss man ein Modell von dem System haben was man reguliert das hat der Kybernetik ASB in den 70er
+Jahren entdeckt, es besser man reguliert desto besser ist das Modell muss das Modell sein von dem was man regulieren will und Intelligenz ist im Grunde genommen
+die Fähigkeit zur Modellbildung.
+
+ [31:46] Ja 650 hat man so ungefähr angefangen die Biologie zu machen damit Wüstemann. Ja nicht genau was Leben ist man kann es nur durch drauf zeigen also das
+sind die Lippen Sachen das sind die Toten Sachen aber du musst du nicht genau was der Unterschied ist meine die Vermutung vielleicht ist du mir Lebenskraft eine
+visvitalis die da drin steckt, und heute weiß man es einfach alles lebenden Zellen die Biologie ist die Wissenschaft von den Sachen die aus Zellen bestehen.
+Also aus montierbaren molekularen Maschinen die kleinste Maschine die wir kennen die das kann und. 650 wo man ich wusste was Leben ist und Biologie anfingen ist
+vielleicht vergleichbar zu 1950 von man nicht wusste was intelligent ist und angefangen hat sich mit der KI zu beschäftigen. Und heute waren wir sagen oder ich
+würde zumindest sagen Intelligenz ist die Fähigkeit zur Modellbildung.
+
+ [32:30] Was sollte man die Erklärung des Geistes nicht weiter den Philosophen Absicherung überlassen stellen wir uns mal vor wir lassen die das Fliegen
+erklären nicht den Geist.
+
+ [32:41] Was würde dann passieren.
+
+ [32:44] Gewöhnliche mutig Vögel angucken das einzige was man so kennt was fliegt und die Psychologen würden sich mit dem Verhalten von Vögeln beschäftigen und
+würden dieses Verhalten von Vögeln bei allen möglichen Bedingungen dokumentieren.
+
+ [32:56] Biologen von Vögel der Mikroskop anschauen es sieht sehr schön aus wie sieht mein Fehler Kirche Kita extrem vergrößert ist sehr komplex wie den
+angeschaltet sind, und irgendwann nach einigen Jahrzehnten von extrem teuren funding würden Sie sagen wir sind noch weit davon entfernt das Fliegen zu erklären
+weil bis jetzt können wir noch keinen Kubikmillimeter Vogel simulieren.
+
+ [33:18] Vergiss den analytischen Philosophen geben die werden feststellen wenn wir ein Vogel nehmen und in seine Komponenten zerlegen dann ist das nicht so
+dass diese Komponenten selber fliegen können, das heißt dass man durch keine Anordnung von Komponenten das Fliegen überhaupt erklären kann das Fliegen muss also
+eine Eigenschaft des Universums selbst sein dass im Universum Vogel sein Ausdruck findet.
+
+ [33:40] Phänomenologische für das hingegen sagen hier ist es ein Vogel zu sein das wäre sie natürlich niemals erfahren oder ein Vogel zu sein. Aber sie
+Holstein Penrose Fragen der wird ihr sagen. Mechanik in den Vögeln sind Mikrotubuli die kleinen Effekte benutzen und dachte ich kann der Vogel fliegen. Ich muss
+nicht weiter und Marvin minsky hat gesagt ich brauche nur Wissenschaft Intelligenz und Geister sind auch eine Informationsverarbeitung und das heißt wir müssen
+in der Informationsverarbeitung Wissenschaften unter Disziplin machen sie damit beschäftigt wie Geist funktioniert. Und das war die KI. Das heißt mit gegen
+davon aus wir sind im Prinzip Roboter die aus ganz vielen verstehen und wenn man Roboter ist und man halt nur musste eine Systemgrenze. Was ist denn das beste
+Modell der Welt sozusagen die Grundfrage der intelligenten Maschinen. Sandra Weise hat diese Grundfragen Antwort und die hundestunde Nasser 60 von Weisweiler
+Bahnhof gefunden. Er sagte wenn du aufwachst und feststellst eines Tages oh mein Gott ich bin nur ein Roboter der kann die Welt nicht direkt erfahren kann
+sondern nur Informationen von der Welt bekommt also bis. Was ist das beste Modell davon was los ist in der Welt was vorgeht. Und das beste Modell ist das
+kürzeste Programm unter den besten Programm also die besten vorher sagen können was ich gerade sehe aufgrund von dir was ich früher gesehen habe.
+
+ [35:03] Das heißt ich versuche ein Programm zu finden ist die Gegenwart aus meiner Verantwortung herausfinden davon gibt es unendlich viele Programme von denen
+nämlich alle die am besten sind dann von dir nämlich das kürzeste. Und das ist die beste Erklärung der Welt leider ist diese Vorschrift hier nicht berechenbar
+ist man kann es nicht einfach ein Algorithmus Gießen weil manchmal später Funken endlich wieder Programm angucken müsste. Was in endlicher Zeit nicht geht und
+so weiter. Aber letzten Endes ist dass das was unsere Datensysteme annähern und was die KI Systeme anhören die sollte gibt und in Zukunft geben wird in einer
+gewissen Weise.
+
+ [35:37] Weg zur künstlichen Intelligenz war nicht daran wo ich da nicht bekannt und 17 18 19 Jahrhundert mit der Logik und der Automatentheorie Reschenpass
+Freiheitsbegriff ist Anfang des 20 Jahrhunderts passiert, Computer die ersten Schritte von 19 Jahrhundert gemacht und die ersten gebaut 20 Jahrhundert die
+Informationstheorie oder Vereine von Shannon entdeckt, Programmiersprachen von Leuten die mir Kasi und nett Rochester und so weiter entdeckt und entwickelt,
+ganz die Kybernetik die Idee dass man die Welt als Zimmer beschreiben kann ist selbst stabilisieren. Wo ist das Thema das heißt ich habe zu compositional
+Grammatiken und die mit denen versuche ich Sprache zu erklären damit dieses Sprachsystem versuche ich denk Prozess oder zu erklären noch andere Netze die Gruppe
+Abstraktion sind über das was man denkt was dürfen Systeme tun, autonome Agenten das sind Systeme die selbst motiviert sind in der Umgebung drin sind die
+dynamisch verändern kann und die man als Paradigma benutzen kann um zu verstehen wie ein System nicht mehr normal auseinandersetzt. Das ganze ging im Prinzip
+als Wissenschaft richtig los mit den Darm aus Konferenzen dann 56. Marvin minsky und von der Kassie beides Informatiker nächste Woche soll der Karte Sampler
+entdeckt hatte und Informationstheorie Traktor Shannon und eine Handvoll von Kybernetik an und Psychologe und so weiter haben sich zusammengesetzt und hätten
+gedacht. Guck mal noch mal aber nicht in Computer das Denken beibringen können in vier Monaten kann wahrscheinlich schon ganz schöne Fortschritte machen und man
+hat in 4 Monaten auch schon ganz schöne Fortschritte gemacht aber natürlich hat man. Kommentar kein denken beigebracht und es gab kurze Zeit einen großen Bruch
+in der künstlichen Intelligenz Forschung und.
+
+ [37:11] Bevor ich nach Chemnitz gekommen bin deswegen nach Hamburg gewohnt und ihn kennenlernte habe ich gedacht das mit gesucht du sagen der good guy war und
+die anderen nicht die und Geist waren sondern ihm einfach nicht wie die zugehört haben. Und deswegen hat die KI sozusagen ihr Richtung verloren über was ich
+dann festgestellt habe ist. Das Marvin minsky und seine Schüler die Kommission abwaschen wollten davon ausgegangen sind dass die Kombination symbolisch ist das
+heißt im Prinzip das ja wissen werden EPS in der Datenbank tun. Und Kaminski hat sozusagen alle Leute die andere KI gemacht haben angebrüllt und gesagt das was
+ihr macht es viel zu einfach sie noch internetseite Kybernetik das ist alles viel zu sehr plastisch und das war auch richtig das war damals sehr sympathisch.
+Aber wenn man jemanden der gerade etwas tut was ganz gute Fortschritte macht für den gut funktioniert sagt er soll aufhören das zu tun dann hört er meistens
+nicht auf das zu tun und schließlich dir an sondern Gegenteil hört auf mit dir zu reden. Und das Ergebnis war dass er sozusagen große Menge verbrannte Erde um
+seine Theorie die zurzeit hierauf meint gebaut hat und das führte dazu dass seine Schüler aufgehört haben sich mit neuronalen Netzen zu beschäftigen und nicht
+symbolischer Kognition. Und alle anderen Teil habe aufgehört zu Schnucki zu lesen die haben sich nicht mehr mit Kirschen und so weiter beschäftigt und haben
+ihre angewandte Sachen gebaut und diese Einbruch halt erst ganz allmählich in der künstlichen Intelligenz.
+
+ [38:29] Die Assassins Intelligenzforschung hat eine Reihe von Phasen. Ich glaube einer der wichtigsten Startpunkte war das berühmte paper von Alan Turing
+Computing machinery and intelligence for nothing Text beschreibt. Dieses Thema ist wahnsinnig lesenswert schließlich als auch für deinen gut lesbar und der hat
+schon viele von den Diskussionen die immer noch heute in der Kai existieren vorweggenommen und sehr gute Argumente geliefert echt ein bahnbrechendes. Argument.
+Dann wurden viele von den niedrig hängenden Früchten in den 1950 und 60er eine abgeerntete so einfache Sprachverarbeitung Planungssysteme Robotersteuerung,
+virtuelle Welten in den sachen passierten Logik Systeme einfache theorembeweiser Schachprogramme dann wurde alles damals schon entdeckt.
+
+ [39:15] Amada 69 haben minsky und Papa dann Buch veröffentlicht das dazu für geführt hat dass die noch in der Netze 14 Jahre lang, voller Geld bekommen. Dabei
+machte die inneren eine zu nicht so sehr gern und er hat ein Beweis geführt dass die perzeptronen du bestimmte Art von daran einsetzen die eine ähnliche Weise
+heute noch verwendet werden bestimmte Funktion nicht lernen können. Und das kam dabei Alternative dann Funktion mit dem das ging aber weil müsste so berühmt war
+haben die funding agencies den Leuten die die vorgeschlagen am nicht zugehört. Also halt dann über zehn Jahre gedauert bis der Konnektionismus also genau in
+alle Netze Forschung sich erholt hat und wieder losging. Stattdessen hat man Symbolsysteme gebaut Expertensysteme jemand versucht hat wissen mit Regen zu
+beschreiben. Und dann hat man festgestellt dass diese Systeme nicht so gut geeignet sind wissen nachzubilden ich glaube das liegt daran dass wir wissen gar
+nicht in symbolisch Regeln dann in unserem Kopf sondern dass wir Generator anlernen mit dem gewissen produzierenden ist benutzen. Es ist nicht statisch sondern
+dynamisch. Es ist nicht ein statisches Lexikon wo alles drin steht im luteco alles bis in alle Ewigkeit eingemeißelt wird sondern die Welt und ständig neu
+erfunden von uns und die Welt verändert sich ständig und wissen ist immer dynamisch wissen passt sich immer eine Situation an.
+
+ [40:27] 81er hat man versucht die KI neuzustarten designyu oder nur leer, vor einiger top embodiment gelegt auf Verkörperung und ich vermute dass das keine so
+richtig gute Idee war weil es sind lauter Roboter entstanden die wahnsinnig vom Körper waren aber kein Geist mehr hatten. Und das richtig spannende glaube ich
+es nach wie vor in unserem Geist nicht so sehr die Interaktion mit der Umwelt. 90er die Agentin große Rolle gespielt und im Augenblick ist das Hauptthema deep
+learning und sie bestimmt gehört. Diese deep learning Revolution begann vor fünf Jahren erst damals eine Gruppe von Wissenschaftlern von der Stanford
+Universität und von Ingenieuren von Google der Leitung von Android. Sich zusammengesetzt und die haben noch einer das Netz gebaut mit neuen Ebene. Habe das drei
+Tage lang auf 16000 Rechenkern laufen lassen und sie haben den 10000000 Frames auf YouTube gegeben die haben gerade das zufällig auf YouTube Videos rausgebracht
+bisschen verkleinern und in das System rein gefüttert. Und nach drei Tagen war dieses Ding in der Lage der Mutter drin zu erkennen und nicht gesagt wonach
+suchen soll es heute ein Bruder Regelmäßigkeiten in diesem Pixel Ansammlung also in den YouTube Bildern finden, und danach haben sie eine Bilddatenbank gegeben
+wo Bilder drin war nur muss da drauf ist und haben das Netz, fragt ob es sozusagen erkennen kann was da drauf ist und es war in der Lage 16% von diesen Bildern
+zuzuordnen korrekt. War ziemlich erstaunlich also diese 10000000 Bilder das ist natürlich ungefähre Größenordnung mehr als ein Baby im ersten halben Jahr seines
+Lebens Lied.
+
+ [42:00] Muss in der Lage ist mindestens die gleiche klassifikations Leistung hinzukriegen aber das Baby kein experimentieren und es hat Bedürfnisse und sowas
+alles das hatte das Netz alles nicht das hat wirklich nur nach Regelmäßigkeiten gesucht. Vodafone Internet berühmt weil es war in der Lage Katzen zu erkennen
+ist hatte sozusagen Katzennahrung ist immer an den Beinen Bild und irgendein Position oder Richtung der Katze gewesen ist und das sollte nicht so erstaunlich
+sein weil sie auf YouTube trainiert wird.
+
+ [42:27] Was macht dieses deep learning eigentlich das im Prinzip reichen von Merkmals Detektoren so pattern Menschen die in Ebenen gestaffelt werden uns schon
+den justiert man links die Gewichte sozusagen die bestimmt wie die eine Ebene die nächste Ebene beeinflusst. Und warum die sich reiche musste Erkennung
+funktioniert und zu überlegen wie nehme dann selber die Realität war dieses Bild hier kommt bestimmt den meisten von ihnen bekannt vor. Ich drehe das mal oben
+genau dieses Bild ich jetzt einfach um das sieht doch wie komisch aus.
+
+ [42:59] Warum ja ich habe die Mund und Nase raus operiert im Mund und Augen raus operiert habt ihr umgedreht und wenn man das Bild so sieht fällt das nicht
+auf.
+
+ [43:10] Woran liegt dass das liegt daran dass unser Gehirn dieses Bild in Komponenten zerlegt und diese Komponenten unabhängig voneinander verarbeitet. In der
+Hierarchie von Merkmalen. Tim ist das mal angucken hier ist die Mona Lisa die kommt auf die Netzhaut und die Netzhaut generiert sozusagen Nullen und Einsen.
+Perso formations Impulse und. Netzhaut ist nur in der Mitte scharf also den Rändern ist die komplett unscharf und hat sehr wenig Farbe habt ihr den Hund
+aufpassen und damit du nimmst dir diesen Blendenflecke angesehen und davon merke ich aber gar nichts. Das bekomme ich alles erstmal. Von der Netzhaut aus in
+eine kleine Schaltzentrale geschickt in den lateral geniculate nucleus dass du den hinteren Knie fahren kann, heißt das einfach und die verteilt erstmal die
+Gesichtsfelder von dem, dicken Gesichtsfelder werden verlinken geschickt die beiden rechten Gesichtsfelder zur Rechten gequatscht die beiden rechten
+Gesichtsfeld Atze wegen heftigen zurecht und zwar nicht das linke Auge zur rechten sondern die Hälfte von dem Bild, das ist ganz praktisch verstehen was
+komisches sehen wenn man die beiden Gesichtshälften zusammen hat.
+
+ [44:22] Teddy einen Teil vom Thalamus der Thalamus sozusagen die Schaltzentrale wo unsere außen Verbindung zwischen Gehirn und Umwelt stattfindet die
+Wirbelsäule endet auch im Thalamus.
+
+ [44:33] Und von da aus der diese Informationen zum visuellen Cortex projiziert. Aber eins ist der sieht ein serial das besteht aus Kolumbien das sind lauter
+Schaltkreise.
+
+ [44:46] Ausbauen eine Runde Minigolf und die sind Schichten angeordnet diese Schichten sind jeweils ein bisschen anders je nachdem welcher Gegend des Cortex
+man ist. In Wirklichkeit nicht bunt diese nur so ein Gefährt damit man die Geschichten besser und auseinanderhalten kann einfach verschiedene Häufung von der
+und Tüten drin dieses Ding ist und was ich ersehen ist ungefähr zwei Millimeter hoch. Und das ist das was aussagen oben auf dem Cortex drauf ist und die
+Oberfläche des Cortex bestimmt. Haben ungefähr in der Größenordnung von 100 Millionen von diesem Handy Kolumbien im Gehirn und unter diesen Mini Kolonnen
+befindet sich praktisch die Langstrecken Ethernet Verkabelung mit den die kreuz und quer verschaltet sind.
+
+ [45:30] EV1 sieht es die Information die aus der Mona Lisa extrahiert wurde schon bisschen gespreizt das war heute mittag beim Heer Information am Rand weniger
+damit der Verband weniger und. A1 codieren für Sensoren und zwar für die Ausrichtung von Linien von Kranken für die Dichte von. Textur und so weiter so die
+spatiale Frequenz wie viel da los ist an der Stelle und für Farben. Und in V2 wird das Ganze zusammengesetzt und stabil gemacht wird das was wenn wir unsere
+Augen Sackkarren ausfüllen so hin und her wackeln über das Bild verändert sich das Bild nicht so sehr stark sein dass man da sozusagen rein gepatcht und ist in
+der Lage komplexere musste abzubilden als Info 1. Und in V3 wird das ganze mit den Farben gemerged und in v3a gibt's Bewegungsrichtungen drin. Und in V4 das ist
+wenn man kacken gut nachgewiesen der Menschen noch nicht so gut gibt es einfach geometrische Form. Die Bewegung von Objekten ist ein v530 unseres eigenen
+bedingt durch den Raum mit V6. Und wenn man es verallgemeinert dann gibt's zur praktischen wo fahrt das ist der von hier nach da vorne oben läuft der schreibt
+wo sich Sachen im Raum befinden und dann gibt's den Bastard das ist der Fall ist es an der Seite lang läuft nach vorne. Er beschreibt die Natur der Objekte und
+im Interieur in temporalen Gyrus also im unteren seitlichen Wirbel. Da befinden sich Objekt Schemata und die Vordergrund Hintergrund unterscheiden wir da
+gemacht und da können wir auch die Anzahl von Objekten durch drauf gucken also auf dem Würfel guckt mit einem Blick erkennt ob der 3 oder 6 das wurde auch dran
+gemacht in dieser Gegend.
+
+ [47:08] Eine Stelle den fusiform Gyrus also den spindelförmigen Wirbel unter dem ist die Gesichtserkennung dran.
+
+ [47:17] Und dann gibt es den dorsolateralen präfrontalen Cortex und der hat Aufmerksamkeit mit dir keine alte Sachen abtasten und in Zusammenhang stellen und
+in der gewissen Weise können wir das als Computermodell heutzutage nachbauen. Das heißt dieses deep learning sucht nach einfachen features of the Seas
+generalisiert und komplexerer Features findet und so weiter und so fort und dann kann es Objekte klassifizieren. Im Jahre 2015 wurde dieses Ding was 2013 in der
+Lage war 16% der Bilder zu erkennen besser als Mensch im gleichen Jahr wurden dieses Thema auch besser als Menschen daran Pacman zu spielen. 2016 haben die
+Menschen in Groß Spiel geschlagen ist den Großmeister und demnächst wären sie Autofahren und natürlich ist die Frage wann überholen in den Menschen. Es ist
+nicht klar dass dieses Ding Menschen holen kann in der SMS informiert wir darüber nachdenken was willst du dann so ein System können dass die Menschen überholt
+dann denke oft an den Turing-Test also ein System dass Menschen glauben dass das ist intelligent wäre der echte Tuning Test. Meiner Ansicht nach einer dass wir
+uns das Team haben dass an unserem Tuning Test ausführt. Das macht nämlich die ganze Zeit miteinander miteinander reden dann gucken wir rufe hast du eigentlich
+bewusst sein was weißt du eigentlich was ist dir klar wo reflektierst du die Welt wo bist du dir wo hast du Aufmerksamkeit. Und dieses Ding dass wir alle mal
+wieder gucken an welcher Stelle hast du Geist. Das ist ein Grunde genommen Tuning Festival ganze Zeit aneinander ausführen und wenn so ein System anfängt uns zu
+untersuchen was wir schon verstehen was wir wissen worüber wir nachdenken können heißt es dass sie sich selbst als ein Geist begreift.
+
+ [48:57] Und uns auch als was ähnliches wie heißt und anfängt mit der Welt Intelligenz zu kommunizieren. Dann kommen wir dahin ins gemeinsame realistisch
+gesehen und was zwischen 4 und 400 Jahren sind also ganz gut im Plan.
+
+ [49:12] Aber trotzdem wieso kommt die Türkei und die angewandte Kunst zu Intelligenz Divergenz in unserem Telefon haben und demnächst noch die wären unsere
+Telefon an Computern und sonstigen Systeme haben unterscheidet sich deutlich von dem was unser Geist kann. Unser Geist ist nicht einfach nur ein Muster erkennen
+wir zwei Spiel versuchen diesen Bild alles hat so finden die Tänzerin dann, würde Sonnensystem im Wesentlichen von diesem Ton der wilde hatten ausgehen und
+alles rausfiltern was nicht alles da ist also was ich verändert die Varianz und die Invarianz zu finden die Invarianz dass ich nicht verändert. Ist Alissa.
+Varianz ist du hast was wir Körperhaltung die Beleuchtung des Bildes die Kleidung trägt der Gesichtsausdruck wenn sie gerade hat das müssen wir alles
+rausfiltern was dann übrig bleibt ist alles da.
+
+ [49:57] Wir machen das nicht ganz genau so bin sondern virenfilter nicht raus dann angehalten das alles wir nehmen den Gesichtsausdruck auch raus und wir mit
+den Kindern auch und die Kleidung und die Beleuchtung und alles andere und daraus bauen wir die komplette Welt. Davon nichts weg. Und das machen wir nicht in
+einer Stufe sondern wir gehen los von Patienten sondern die richtigen Wahrnehmung zusammen in mental Simulation und dann werden wir Hauskonzepte ab.
+
+ [50:21] Unser Geist ist das nicht morgen kannst du viel Kater sondern der simuliert und er erfährt die Simulation. Das erinnert mich an, what Mary did notice
+in Text von dem Philosophen Jackson der 82 geschrieben wurde und 86 noch erweitert wurde die Mary ist eine Metapher die gibt's nicht wirklich lesen und auch
+Wirtschafterin die von vielen Leuten, in einer schwarz-weißen Welt gefangen gehalten wird wo es keine Farben gibt in ihrem du noch nie Farben gesehen. Und Rita
+ist mit ihrem Labor und sie erforscht das Farben sehen dass es Ihre Aufgabe und. Schaltet sich also damit was Leute unter Farben verstehen und liest alle Bücher
+dich dazu gibt und schneidet Gehirne auf. Macht Simulation und was nicht alles und plus hat er verstanden wird alles verstanden wie Gehirne tatsächlich
+Farbensehen produzieren und der Philosoph Jackson beschreibt dann jetzt wird's hier raus gelassen aus ihrem Labor und sie sieht zum ersten Mal wirklich Farben
+in ihrem Leben. Und Wieland was dazu muss der was Neues hinzu kommen aus der sich von Jackson und das heißt dass diese Idee dass man einfach nur mit
+Modellbildung das erklären kann was unser Geist tut nicht richtig sein kann und dass ich dieses Philosophen.
+
+ [51:32] Ich meine nicht meinen dass es so ist aber er hat einen wichtigen Punkt nämlich es gibt ein Unterschied dazwischen ein Modell zu bilden also zu wissen
+wie Farben sehen funktioniert. Und das mit der zu verkörpern also selber in System zu sein das farbenlied. Und wir sehen natürlich die Farben des heißt wir
+verkörpern eine ganz bestimmte Art von Modell wie eine bestimmte Verschaltung die uns das Leben dieses Farbensehens ermöglicht wir wissen gar nicht in Farben
+sehen geht aber wir erleben das. Und es gibt einen Unterschied natürlich zwischen dem dass man etwas erlebt oder verkörpert oder moderiert und dass man weiß
+dass man es modelliert und die Natur dieses Modells kennt. Wenn z.b. ein zweijähriges Kind anguckt das sitzt auf dem Boden unten z.b. Blatt Papier wiegt das und
+sticht ein Stift durch und guckt sich an wie die Löcher verlaufen was macht das Kind da. Beweis Eigenschaften der Topologie des euklidischen Raums das weiß
+vorher nicht was man Universum ist geboren ist und es sind jetzt gerade raus das ist höhere Mathematik. Natürlich weiß das Baby nicht dass es über Mathematik
+macht aber es tut es dass es genau das was dein Gehirn dem Augenblick tut.
+
+ [52:36] Aber bevor das dahin kommt haben wir Rückkopplungsschleifen wie die meisten anderen Tiere auch diese Form schreibt man gibt sehr viele im Hirnstamm.
+Diri kann man sich um sowas wie die Körpertemperatur den Atemrhythmus die Herzfrequenz und so. Und das funktioniert in der Regel automatisch und deswegen
+kriegen wir das nicht mit die Rückkopplungsschleifen den Regelung funktioniert komplett autonom.
+
+ [52:57] Manchmal ist aber so dass wir uns in Abhängigkeit der Umwelt Steuern müssen und für diese Steuerung sind Lust und Schmerz verantwortlich ist ein
+Signale die Wahlen vom limbischen System erzeugt werden. Lust ist das Signal dass mir sagt mach mehr von dem was Du gerade tust Schmerz ist das Signal dass mir
+sagt mach weniger von dem was Du gerade tust. Er reagiert natürlich nicht nur auf Lust und Schmerz sondern was wir im Wesentlichen tun ist dass wir. Auf
+zukünftige Lust optimieren es heißt wir gehen dahin wo wir glauben darin zukünftige lustigen Halle sein und wir gehen nicht dahin und wir glauben dass in
+Zukunft Schmerzsignale stattfinden werden, und dieser Ankündigung von zukünftiger Belohnung das wird von Dopamin vermittelt und das ist das was uns tatsächlich
+Sachen machen ist wir machen Sachen nicht deswegen bei sowas Lust verschaffen sondern weil sie mir glauben dass wir uns Lust verschaffen werden. Kann sich ein
+Mobiltelefon haben dann verdient es vielleicht auf dass ich dieses Mobiltelefon auch benutzen um drauf zu gucken ob da schon eine neue Nachricht da ist. Einfach
+es wird antizipiert dass dein Lustgewinn ist in der Lustgewinn III nicht ein es ist wissenschaftlich nachgewiesen dass Leute viele auf Mobiltelefon gucken
+unglücklich sind also hätte ich nicht tun. Das erste Mobiltelefon Cam sozusagen unser Belohnungssystem. Und wenn wir Leute dazu kriegen dass wir machen dass sie
+mir zwei Leute sind dann ist der Trick nicht dass man ihn mehr Lust verschafft sondern man kann ihn z.b. Erdentage Droge die dazu führt dass du sagen die
+Erwartung von Belohnung sich verstärkt.
+
+ [54:24] Es geht diese Belohnung wird wahrscheinlich ausgeschüttet über das Frontalhirn ist Dopamin wird eine Substantia nigra generiert und. Steuer dann
+sozusagen das System von vorne ja die tatsächliche Belohnung. Die wird dann verkündet wenn das schöne adidas eingetreten ist das gute Ergebnis was wir haben
+wollten zu sagen die Party das gesunde feiert und das ist das nur für eigentlich optimieren sollten also nicht fettet antizipierten privat sondern für den
+tatsächlichen Drehort. Und das ist ein paralleles System unserer Gesellschaft ist dass du bei mir sozusagen wie Geld Geld kann man selber nicht essen sondern
+Geld ist die. Das Versprechen darauf dass wir dagegen später was tolles eintauschen können. Und das ist das ist das was unsere Gesellschaft antreibt und Geld
+hat aber ein paar Probleme die dass du bei mir nicht HZB dürfen die Zellen im Gehirn nicht einfach Dopamin einsparen und später mal auszugeben. Und er deswegen
+gibt's keinen Zins Problem und sowas alles oder das Problem dass es einzelne Becherglas Neuronen gibt die alle Sicherung nur noch für Sie arbeiten lassen werde
+Organismus vor die Hunde geht und so, und das haben die Gesellschaft nicht gelöst also unser Gesellschaften haben Nervensystem mit die korrupt sind. Sobald er
+die Wissenschaft von Sachen handelt die die policy beeinflussen lassen damit darf ein Fluss wie viel Geld die freche Leute haben und die Wissenschaft
+korrumpiert. Und das ist der Grund wahrscheinlich dafür dass unsere ökonomischen Wissenschaften die Wirtschaftskrise nicht vorhersagen können und nachdem sie
+sich nicht vorhersagen können wenn die gleichen Theorien von den gleichen Leuten Walter verkündet ist erstaunlich oder. Wird nicht korrigiert die Leute noch die
+Theorien.
+
+ [55:57] Und dieses Ding das ist auch Gesellschaft Nervensystem hat dass ich selbst belügt das müssen wir doch noch dich lösen. Und die Organismen haben das
+gelöst und vielleicht können wir das rauskriegen indem wir zu viert wie unsere Organismen das machen wie die rewards da drin da offen. Salvatore hat damals
+versucht es jetzt wieder zu machen zwischen 71 und 73 der hatte Idee wir bauen ein kybernetisches Modell der Gesellschaft das heißt gemessen überall supply and
+demand. Machen dann Informationsverarbeitung in fristo mit Tour mit lauter Fernschreiber und in den Unternehmen und Verwaltungen und dann wird das alles
+optimiert ist noch nicht mit Markt sondern. Regelung und wenn wir uns Unternehmen angucken Internist kein Unternehmen markt intern ist auch kein Unternehmen
+Demokratie Internist ist ein Essen kümmern ethisches Regelsysteme top down Kontrolle. Ob der Allende erfolgreich gewesen wäre wissen wir nicht weil die ist ja
+irgendwie noch Shirt haben das Experiment 73 beendet das war eben zu unsicher was da rauskommt.
+
+ [56:56] Obwohl ich hätte es nicht funktioniert wir wissen es nicht aber es ist spannend darüber nachzudenken im Film erscheint drüber nachdenken müssen wir die
+Ökonomie neu organisieren. Wir haben eine Reihe von Bedürfnissen die von Lust und Schmerz angekündigt werden und fahren wir für jedes dieser Bedürfnisse Lust
+und Schmerzsignale. Wir haben hunderte von physiologischen Bedürfnisse z.b. so nach Nahrungsmitteln nach Getränken nach Ruhe nach Sex. Und die sind im ständigen
+Wettbewerb miteinander neben diesen physiologischen Bedürfnisse nicht mehr soziale Bedürfnisse z.b. Erziehung und es heißt das Bedürfnis zu der Gruppe
+dazuzugehören oder. Das Kümmern um jemanden das ist meine Mutter die möchte gern dass Ihrem Kind besser geht oder ist das Leiden von Leuten verringern wollen
+dann, gibt's was wie eine romantische hingezogen sein das ist doch ein soziales Bedürfnis oder die dicke tivität oder die Dominanz die bedurft das Bedürfnis
+hier rechnen zu erklimmen. Kognitive Bedürfnisse zeig mir das Bedürfnis nach Kompetenz. Also immer mächtiger zu werden immer besser die Umwelt beherrschen zu
+können und danach Exploration also mehr zu erforschen in der Welt und danach Ästhetik das heißt interessantere Strukturen zu finden.
+
+ [58:06] Und diese Lust und Schmerz Signale erlauben Verstärkung Signalen mit die verstärkungslernen mit dem diese Bedürfnisse verknüpft werden mit Situationen
+die unser Gehirn abgespeichert und dann kennt. Und Gelenk wird es alles von so einer Art hydraulischen Maschine der Motivation. Das war die sozialen und
+physiologischen und kognitiven Bedürfnisse haben die miteinander verbunden sind und in ständiger Wechselwirkung stehen und von unserem Gehirn austariert werden
+müssen.
+
+ [58:33] Besonders spannend finde ich die transzendenten Bedürfnisse so dass wir eine operative Spezies sind. Kooperation erfordert dass das Individuum sich
+nicht nur mit dem Organismus entwickelt sondern mit Einheiten die über den Organismus deutlich hinausgehen. Das ist ja wohl nicht wahr dass es unseren Zellen
+gut geht die aus unserem Organismus bestehen sollen wir wollen dass es auch anderen Mitgliedern Nahrungskette gut geht. Sonst muss ich das ganze nicht in der
+operativen Spezies das heißt wir brauchen von extra personalen tedox nächster personalwerk etwas außerhalb von uns liegt. Und das wird vermutlich durch den
+Legitimität Streep geregelt der sozusagen das Bedürfnis nach dem höheren Zweck verkörpert. Und dieser Legitimität Stream erlaubt auch sowas wie soziales Lernen
+mit dem Gruppen ihre Meinung synchronisieren. Bitte sozusagen die Differenz zwischen richtig und falsch ab das tugendhafte handeln. Und dieses weiteren richtig
+und falsch unterscheidet sich von wahr und falsch tun falls das ist eine andere algebra. Eine Welt die aus einem Raum besteht ist etwas anders als eine Welt die
+ausruhen fortbestehen.
+
+ [59:40] Die Menschen sollten tatsächlich ihre Meinung mit der überein schon mit der Umgebung optimieren der Praxis ist es so dass es sehr wenig Situationen
+gibt wo es sich aushalten andere Meinung zur Meister Chef. Auch wenn der Chef im Unrecht weiß es besser die gleiche Meinung zu haben und die amazon hat das
+wahrscheinlich in der Menschen auch so implementiert das bedeutet die Menschen sind normalerweise in der Lage die meintest übernehmen sie logisch falsch ist.
+
+ [1:00:05] Und das wird also dass die Leute sich in Gruppen einheitliche Meinung bilden die meisten Menschen können Gruppen nicht geradeaus denken.
+
+ [1:00:14] Gibt es Regen in Gesellschaft noch so ein Bereich der akzeptablen Meinung der soll der Bereich der vernünftigen Meinung die sind nicht unbedingt war
+die sind noch nicht mal konsistent oder so aber jede Gesellschaft dazu sagen in bestimmten Raum der normal. Also wir das Beispiel Deutschland gibt es politische
+Parteien die im Wesentlichen alle dieselbe Meinung haben mit leicht verschiedene Branding. Und diese Meinung verändert sich dann über die Jahrzehnte hinweg sehr
+deutlich massiv aber zu jedem Zeitung hat die Gesellschaft in einer dass das irgendwie die normalen vernünftige Meinung sind. Wenn Sie wie ich in der DDR groß
+geworden sind dann habe ich festgestellt dass das was ich normale vernünftige Meinung ist die dramatisch unterschieden hat von dem was war gewesen ist unsere
+heutige Gesellschaft das auch so eine den meisten fällt es nicht auf baldige Systeme sich nicht so oft abwechseln. Also individuell habe ich die Freiheit zu
+glauben was sie wollen weil das klappt natürlich nicht aber die Gruppen kann das durchaus gucken kann sehr interessanter mit Erklärungsmodelle haben und. Dieses
+empathische lernen ist also das lernt dadurch dass man sich anstecken lässt von der Gruppen Meinung über Empathie ist die Hauptform der Übertragung von Normen
+in Gruppen.
+
+ [1:01:19] Und daraus ergibt sich sowas wie Papierwände sozialer Normen Übersicht möchte die japanischen Häuser angucken die und die japanischen Paläste die
+hatten Wende die quasi nur per Vereinbarung existierten. Durch die Kammer durchlaufen und an strategischen Stellen in Türen stellt man hoch dekorierte wach und
+auf die sehr gefährlich aussehen und den Eingang bewachen. Und dazwischen gibt's halt diese Wände und dann gibt es da guck mal aber nicht in die sind einfach
+quar Vereinbarung Wände. Dann gibt's die Ninjas das Dienstbuch damit ich weiterlaufen können wenn keiner hinguckt die kann keiner sehen die laufen da wo keiner
+Hinblick wo keiner denkt. Kann man sich als Metapher vorstellen davon wie die Gesellschaft funktioniert. Also diese Papiere bei dir dann nochmal Normandy
+festlegen was erlaubt ist was denkbar ist und dann gibt es Bereiche die außerhalb ISO-Norm stattfinden und wenn man so wie ich, na das dann kann man diese wäre
+nicht sehen dass es mich vertan es ist unterhalb Behinderung die dazu führt dass das Norm lernt durch Empathie nicht funktioniert. Habe ich leider von meinem
+Vater geerbt er hat das gelöst indem er Künstler geworden ist auf Land gezogen ist und sich mit den Menschen nicht mehr auseinander gesetzt hatten ihren
+komischen Namen. Und ich habe lange gebraucht um zu kapieren was los ist weil ich dachte ich habe einfach nur die vernünftige Kultur meines Vaters übernommen
+und bin dann die unvernünftige Kultur der der der Außenwelt hinausgegangen und habe lauter unlogische Sachen erzählt ist klar dass ich ihn das nicht glauben.
+Was ich nicht verstanden habe ist das bei mir die Empathie nicht gut genug ist um mein Lehrer zu glauben was ich sagen wenn es keinen Sinn ergibt.
+
+ [1:02:49] Und ich glaube viele haben diese Behinderung. Eisenmangel hat Empathie dazu führt dass ich noch nicht über Empathie übernehmen sondern nur durch
+rationale Argumente bilden können das heißt das Lied meine Welt die besteht aus lauter to enforce die meisten Menschen in der Welt leben die Ausweitung besteht.
+Das wird zu allen möglichen Arten von Verwirrungen bis man das rausgefunden hat und dein Ernstings übersetzen tust.
+
+ [1:03:15] Also ich gehe zu sagen ich erkenne nur dieser sozialen aber ich kenne die dadurch dass andere Leute mit in der Luft stehen bleiben und Neutron machen
+und ich habe den Instinkt an dich stehen zu bleiben sondern kann aus Versehen weiter laufen und stehen am falls ich jemanden Vorgarten der total irritiert ist.
+
+ [1:03:31] Interessantes Thema über Wahrheit nachdenken in komplexen Umgebung kann man wahrscheinlich nicht rauskriegen was die Wahrheit ist und das also diese
+das globale Optimum die beste Wahrheit nicht finden. Und was man stattdessen macht ist man nimmt eine Meinung wann hat und verbessert die aufgrund von den
+Impuls die meiner Umgebung vorfindet. Das heißt man du wirklich so sagen Schritt für Schritt durch eine Meinung Landschaft und die meine Mutter und ich mit
+jedem Schritt besser. Also hat Jens sozusagen wo die Meinung wo man sich deine Meinung verbessert in die Richtung die besser zu sein scheint. Und im Grunde
+genommen ist das wichtige nicht die Wahrheit ist man die gefunden hat bei verändern unter meinem ja ständig sondern guten Gradienten haben. Also ich habe meine
+Vergangenheit meine Meinung sehr oft verändert und ich habe zwar den Andrew ich habe jetzt die absolute Wahrheit gefunden nach 1000 Jahren Menschheitsgeschichte
+oder 360 000 Jahren und je nachdem wie man zählt, bitte jetzt endlich angekommen wir wissen jetzt die Wahrheit wie alle wissen jetzt endlich wie man mit mir
+Transsexualität am besten umgeht z.b. 2010 wussten wird nicht mal Zeit 80 Mal war total mittelalterlich. Aber jetzt haben wir rausgefunden und das wird sich
+auch nicht mehr ändern subjektiven wenn wir wenn sich verändern würde würden wäre sehr verändern das ist das Gefühl was wir alle haben. Natürlich wenn wir ein
+Augenblick drüber nachdenkt das verständlich wenn wir unsere Meinung ändern selbstverständlich bleibt das was wir glauben wahr zu sein nicht länger war unsere
+Kinder wären was anderes denken wir werden 5 Jahren was anderes über die Welt denken. Und das entscheiden das wahrscheinlich nicht dass wir unseren Kindern
+versuchen die Wahrheit beizubringen sondern wie man guten Gradienten findet bestimmt für die Frau. Und das Dumme ist halt dass diese wenn man das macht dann ist
+nicht garantiert dass die Menge Menschen konvergiert sondern man kann irgendwo anfangen und dann je nachdem was man für Sachen dabei vorfindet ändert man seine
+Meinung sehr unterschiedliche Richtungen.
+
+ [1:05:10] Oder die Menschen sicher nicht die ganze Zeit man unter synchronisieren ändern die in sehr verschiedenen und oft incompatible Meinung stale an und
+wenn ich verstehen will was ein anderer Mensch denkt dann ist es oft notwendig dass ich sozusagen den gemeinsamen Ausgangspunkt finde und dann sein Weg nach
+laufen. Und gucke wie er dahin gekommen ist wenn man das ziemlich oft macht dann hat man das Gefühl dass man so eine Karte bekommen hat gibt keine Garantie dass
+die karte vollständig ist im Moment hier mehr man das macht desto mehr überblickbar würde möglich Meinung.
+
+ [1:05:38] Dabei dass mich vertan ist das sind die Meinung Attraktoren sozusagen die schwarze Löcher meinungsraum wenn man die einmal reinkommt ist es sehr
+schwer oder sogar unmöglich wieder rauszukommen und das liegt daran, die Meinung die man bekommt die können verändern wie man Meinungen bewertet.
+
+ [1:05:55] Z.b. bevor man Christ ist die Idee dass man wenn man aufhört Christ zu sein. Dass man dann die Hölle kommt und bestraft wird dafür nicht sehr
+einleuchtend und nicht sehr spannend. Also wenn mir jemand sagt wenn du einmal auf meiner Seite bist und mir glaubst was in der Bibel steht und hörst auch das
+Zusammenfassung glauben atemlos sind die heute kommen dann ist meine Außenperspektive dann soll sie wahrscheinlich besser versuchen das nicht zu glauben. Aber
+sobald ich das einmal anfangen zu glauben ist es sehr viel schwerer aufzuhören zu glauben weil ich komme ja die Hölle, unter dieser Brief Attraktor der wird von
+den Religionen natürlich auch bewusst eingebaut oder unbewusst eingebaute ist ein Produkt der Evolution der Revolution das heißt. Ja das stimmt der memplex
+also, Ideen komplexe die zusammenhängen und sich evolvieren und von den Geistern der Menschen Besitz ergreifen haben die Eigenschaft auf dass sie den Geist des
+Menschen so verändern dass wenn man einmal angefangen hat zu glauben der Geist sich so verändert dass es schwerer wird aufzuhören das zu glauben. Und wenn man
+jemand noch so believe Antrag nach Haus bekommen will dann geht es meistens nur Schritt für Schritt das heißt und manchmal auch gar nicht man muss nämlich den
+Gradienten finden muss ich subjektiv für den gehen die Meinung an die auf jedem Schritt verbessert haben so sagen na eigenes Horizont aus dem Schwarzen Loch
+herausfindet. Und das ist nicht nur nachteilig dass diese schwarzen Löcher gibt die Erlaubnis nämlich das Gesellschaft für dich erschaffen sich synchronisieren.
+Soziales Handeln und mich durch wieder bestimmt und diese Werte sind nicht was ich Universum direkt beobachten kann und die sind auch teilweise in den Kulturen
+unterschiedlich das heißt sie sind nicht alle angeboren.
+
+ [1:07:27] Und das bedeutet die müssen einer gewissen Weise synchronisiert werden damit die Leute Johanna synchronisieren. Und die Werte sind das was uns
+erlaubt zu behandeln ohne dass wenn die Belohnung erwarten Geld ist das was ich was tun lässt auch wenn ich erwarte das wird mir anschließen nicht besser oder
+schöner gehen. Ich werde mich z.b. Opfern vielleicht finde ich gelogen ich erwarte nicht dass da ich das jetzt auch verbringe dass ich dadurch lustig nal habe.
+Sonnenstudios einfach weil es ein Pferd ist für dich Kämpfe. Sievert ist es nach Beförderungssystem dass ich außerhalb des Organismus ins Universum hinein
+projizieren und, dieser externe belohnungsplan Zionist Quelle von der subjektiven Bedeutung von höheren Bedeutung der Schienensystem der Bedeutung von dem ich
+ein Teil sein möchte. Außerhalb von mir selbst liegt. Und dieses außerhalb von mir selbst liegt das ist also sagen was sacralis was heilig ist das ist
+eigentlich das was wir meinen mit dem heiligen ist auch der Kern von Liebe. Wenn ich möchte meine Liebste Liebe dann heißt es nicht nur dass ich mich erotisch
+zu ihr hingezogen fühle oder ihr Leid verringern möchte oder mich mit dir verlieren möchte sondern das Entscheidende ist ich erkenne das heilige in dir. Zeige
+bedeutet schlicht und einfach wir sind beide Teile eines Bedeutung Systems über das Individuum hinausgeht so eine Art Software von dir wir beide Komponenten
+sind. Und wir sind da beide drin und sieht in dieser Software und in das Maß in dem Sie dieser Software die nehmen Sie diesen Irren bedeutungssystem dass wir
+ins Universum in einem projizieren dient das ist das Maße dem ich spüre sozusagen verdienen beide den gleichen höheren Zweck.
+
+ [1:08:55] Ich hatte lange bevor ich mich in sie verliebt halt das Gefühl sie ist absolut rein in der Verfolgung years hören zwecks der Erkennung von Wahrheit
+ist Künstlerin. Und ich verfolge den gleichen Zweck da wo ich hingehen muss da muss das Universum hingehen und ich weiß nicht was suchen nach Kräften dabei zu
+unterstützen weil ihr es nicht umgekehrt war das auch so und es ist die Grundlage der Liebe setzt man sich nicht ineinander verliebt.
+
+ [1:09:25] Grunde genommen sozusagen ist die Frage die mit dem gleichen Gott und Gott ist ein etwas über Form der Begriff durch die Religion. Bedeutung kann
+ohne Gott im Prinzip nicht existierend und der gemeinsame Teil aus dem man hat das gemeinsame Ziel Bedeutung System jemand folgt. Und der Gott ihn hier bei uns
+kennt das ist unsere Gesellschaft für eine Religion Scott der Religion Scott ist meistens an irgendwelche reinigungsinstitute gebunden. Personal ist eine
+Persönlichkeit und Persönlichkeitseigenschaften der interessiert sich für uns also z.b. macht dass ich darüber Gedanken ob wir masturbieren oder so und der
+schreibt Norman vor. Also was wir machen sollen was wir nicht machen sollen und der tut auch sonst ginge erschafft gelten und alles mögliche.
+
+ [1:10:08] Dann gibt's den spirituellen Gott der spirituelle Gott im Allgemeinen nicht an irgend Institut gebunden aber der macht sich trotzdem Gedanken über
+uns und der hat Bewusstsein. Es etwas Prinzip des Multiversum da ist dass uns gegenüber nicht unparteiisch ist und zu dem wir Kontakt aufnehmen können.
+
+ [1:10:27] Das ist aber das Problem woher wissen wir dass es das gibt woher merken wir das mit dem kommuniziert haben und das ist nicht einfach nur gesund
+Zustand ist. Es gibt etwas Voraussetzung er machen Gottes ist der Gott des Thomas von Aquin aus das ist der. Gott als transzendentes Prinzip der ist einfach nur
+der Grund dafür dass irgendwas existiert Stadt gar nichts und dann sonst ist er unerkennbar und der macht nichts in der Welt das jemals mit der Wissenschaften
+Konflikt gerät.
+
+ [1:10:54] Und dann gibt's noch einfach in Gottes ist der erste Beweger Aristoteles hat erkannt wenn das Universum sich bewegt dann muss es doch etwas geben was
+es in Bewegung hält und die sind ersten Beweger den prime mover oder. Diese Ursprungsfunktion das ist sozusagen der Gott des Aristoteles und im Prinzip ist dass
+die primäre zustandsübergangsfunktion die Turingmaschine die unser Universum antreibt.
+
+ [1:11:22] Du weißt ja wie die Götter sozusagen nach ihr Mittagessen Kosten sortieren und dass der Gott des ersten Grades der prima Moritz der erste Beweger
+einfach der Computer auf dem das Universum läuft. Gott zweiten Grades ist dieser transzendente Bedeutung Gottes Thomas von Aquin ist der dritte Grad ist der
+spirituelle Gott. IV Grad ist der Religion Scott und wenn man Objektive Bedeutung haben wir das Objektiv irgendwas unserem Leben Sinn hat dann braucht man
+wenigstens Gott zweiten Grades, welche Bedeutung hat man noch ein Preis Gehirnfunktion hin das ist einfach als Legitimität implementiert in meinem Gehirn und
+führt dazu dass ich ihn virtuell privat als Piere wenn ich mich mit Gruppen zusammenschließen oder Bedeutung System die über Gruppen hinausgehen.
+
+ [1:12:05] Und um dieses Ding zu implementieren und synchronisieren ist aber wenn sich praktisch und meine Religion Scott nimmt die Religion ist Gott hat und
+man glaubt braucht man natürlich Meinung son Traktor und das erlaubt uns dass wir Normen über große Gruppen von Menschen projizieren. Und die kann ich dann im
+Gleichtakt bewegen das heißt eine Religion ist so eine Art staatenbildendes meint Virus. Gefällt den Geist von Menschen benutzt die Hardware für diese Software
+die die Religion ist, Sushi starten Sie verschiedene Wien insektenstaat die Soldaten Ameisen existieren und die, Kündigung Ameise und so weiter und die
+Verwaltungs Ameisen gibt Mitarbeiter gibt's was ähnliches in Religionen gibt auch einzelne Rollen für die Leute in der Gesellschaft worden ist mit der Nelke
+agieren sollen. Und die Religion sind nach dem entstanden sind evolviert habe ich immer weiterentwickelt. Die israelitische Tradition und die Messe botanischen
+Mythologie haben sich zum Kreis muss weiterentwickelt und dann hat sich der Katholizismus daraus entwickelt und der Islam und die ist nicht orthodox. Und Erde
+Katholizismus von jemand sich der Protestantismus abgespalten und weiterentwickelt und sofort. In den Osten Garten komplett getrennte traditionellen tibetischen
+Traditionen und die Schamane Tradition aus der vedischen Tradition hat sich der Hinduismus entwickelt und aus der vedischen Tradition zusammen der Schamane und
+der Buddhismus. Was hat sich denn das entwickelt und. Der amerikanische Buddhismus im Prinzip eine Form von Protestantismus die sie in Sicht des politischen
+Begriff Systems bedient ist ein Hybrid aus beiden.
+
+ [1:13:41] Und Tristan dabei und Scientology stand direkt von Aliens. Ist das total analog zu den Programmiersprachen passiert. Die Geschichte wiederholt sich
+natürlich ist das Gruppe einfach der echte braune Programmiersprachen sieht ungefähr so aus. Oder tot bin anders auf'm alt und der Baum Religion für Perso aus
+Absturz.
+
+ [1:14:18] Wenn wir uns nun gegen Geist Björn immunisieren wenn dann sag mir mal prüfen kannst du deine anderen loslassen ohne dass ich ein Gefühl der
+Sinnlosigkeit verfällt. Also hast du das Gefühl dass deine Annahme die Welt sind stiften sind dann ist es ein Hinweis auf dem Geist wie hoch ist das dhalucard
+sind die Leute auf der Gegenseite also dient die nicht zu deine Mutter deine Infos gehören dumm bist oder verrückt. Das ist niemals darauf dass du in Ideologie
+drin bist die ist die für dich unmöglich macht die andere Ideologie zu verstehen. Also z.b. wenn uns erscheint das alle afd-anhänger dumm böse oder verrückt
+sein müssen damit die AFD Anhänger sein können obwohl wir feststellen können das unter den höchsten scheinlich auch intelligente gebildete Individuen sind. Du
+kannst aber nicht verstehen wie das glauben dann heißt es so muss ich das selber ihr logisch sind das heißt nicht dass die nicht logisch sind aber die wir sind
+wahrscheinlich in ein Geist Virus drin wenn wir das nicht. Das ist die Natur der Politik dass sie uns in Camps bringt die gleichen Software laufen lassen die
+gegen die Angehörigen mit der Hand die inkompatibel ist oder ist inkompatibel empfunden wird. So läuft und hat unser Gott spezifische Eigenschaften von dem wir
+Bescheid wissen aber die wenn ich beobachten konnten dass es auch verdächtig. Und immer lisierung gegen die geistigen funktioniert vermutlich über Rationalismus
+also die Prinzipien der Aufklärung die die westliche Welt im 17 Jahrhundert entdeckt hat. Das alles im Prinzip ist ein Exkurs in die Legitimität gewesen ein
+unserer zahlreichen Triebe über die andere lassen sich auch interessante Geschichten erzählen aber das tue ich nicht heute Abend.
+
+ [1:15:51] Die Bedürfnisse die wir haben. Die werden mit Situationen verknüpft und zwar im Hippocampus der Hippocampus schwer zu sagen dass die Assoziation
+zwischen unseren Bedürfnissen und ging in der Welt. Aber diese Dinge der Welt sind einfach nur tun bei Monster z.b. Restaurant ist nicht einfach bloß ein Muster
+hier das Restaurant sieht ein bisschen anders aus dann bin ich ja rumlaufen dann sieht das Restaurant aus der neuen Perspektive auch ganz anders aus das heißt
+ich muss über die Musterknaben das Muster Ort wo ich was zu essen finden wenn ich Hunger habe, versuchen zu generalisieren. Und diese Generalisierung die Macht
+der Neokortex indem er eine dynamische Welt simuliert Enno Cordes also dieses große Teilung verwirrend das meist interessante tut und. Das ist anders als minsky
+dachte nicht einfach eine Datenbank sozusagen die wie dynamisch bauen mit symbolischen wissen sondern man kann sich das vielleicht besser vorstellen wie ein
+Synthesizer. Finde Seite einige von ihnen kennt das bestimmt das ist ein Gerät das hat ein Postulat Ohren drin und ein paar Knöpfe in die man drehen kann mit
+den die Interaktion zwischen diesen Oszillatoren zu gelangen justiert wird bis zur Seite genau den Ton produziert ich mir vorgestellt hatte ich haben wollte.
+Und unser Gehirn wenn es versucht ohne zu verstehen funktioniert möglicherweise so ähnlich wie so ein Synthesizer.
+
+ [1:17:00] Dass wenn der Tod unsere reinkommt dann trifft er auf das Trommelfell und dann geht er durch die Hörschnecke durch und die. Hörschnecke was die Macht
+ist eine Art von hier Transformation das liegt daran dass der grünen Bereich und in der Mensch wird geht bei Babys bis zu 20 Kilohertz aus 20000 Schwingungen
+pro Sekunde und bei Erwachsenen vielleicht bis zu 8 oder 10 oder 12 Kilohertz. Und das 10.000 Schwingungen pro Sekunde und Neuronen schwingen ich keine 10000
+mal pro Sekunde das könnte ich nicht denken wenn die durch die mögen vielleicht 20 Mal pro Sekunde. Und was tut man wenn bist einfach die Energie in
+verschiedenen Frequenzbereichen das ist das was die vorher Analyse macht und unsere Gehörschnecke macht das ein Hardware weil die Schallwellen umso höher die
+Frequenz ist. Desto weniger tief drin die ein und dadurch kann man in verschiedenen Bereichen messen wie viel Energie da drin ist und diese Energie wenn die
+Scheiben sagen auf die Härchen am Rand der Gehörschnecke treffen dann müssen die Signale aus das wird als geheim geschickt. Dann kommt deine Mutter an und unser
+Gehirn versucht vorherzusagen wie dieses Muster weitergeht nachdem es angefangen hat. Und in der Lernphase ist wie ein Kleinkind sind und zum ersten Mal uns mit
+Geräuschen auseinandersetzen das schlimm Unterleib anfängt. Sozusagen die Knöpfe auf die wesentlichen Position zu drehen um die Geräusche vorherzusagen jetzt
+nächstes kommen sobald wir nach den Hund angefangen hat mit unseren hat das Dilatoren vorher sagen können wir weiter geht aber dem Hund verstanden.
+
+ [1:18:21] Nachdem wir das gemacht haben. Aber das gleiche Prinzip auch anwenden z.b. für visuelle Bildverarbeitung also für Farben könnte man auch solche
+Oszillatoren bauen oder das Material Frequenzen mit mir sprechen anders wird es einsam. Der so lange im Gehirn justiert wird besser in der Lage ist das zu
+machen. Nachdem wir die unterste Ebene gelernt haben Banken wir das Fest und wir dann die nächste Ebene auf der nächsten Ebene gucken wir dann was haben diese
+Muster auf der untersten Ebene gemeinsam. Stern z.b. fest dass es ganz viele Töne sich generalisieren lassen wenn du die Lautstärke verändert hat man so ganz
+viele verschiedene Töne die mit einem Parameter sich unterscheiden lassen generieren lassen. Oder die Tonhöhe gibt ganz verschiedene Töne die eine Eigenschaft
+gemeinsam haben nämlich die sich nun eine Eigenschaft unterscheiden und ist die Tonhöhe und schon kann ich weiter komprimieren also ich finde sozusagen eine ein
+Oszillator alleine Synthesizer höherer Ordnung. Wenn ich diese Synthesizer hintereinander schalte eigentlich immer komplexere und mächtigere Werkzeuge um. Dinge
+zu simulieren in meiner Umwelt und irgendwann kann ich diese sensorischen Modalitäten diese Perzepte die akustischen und die visuellen Perzepte und beweglichen
+Rezepte zusammenschalten eine komplette Simulation Traum den Untergang erzeugt.
+
+ [1:19:29] Und dieser Traum ist das was wir für die Realität halten wir leben nicht in der Welt da draußen wir leben in der Simulation die der Neocortex
+erzeugt. Arsenal Oszillatoren das ist ein Synthesizer ist mit echt Leuchte total alt man auch mit über nachdenken ob wir können keine Welt sehen da draußen
+heraus ist Montag wann. Er erzeugt irgendwie Muster und diese Muster manifestieren sich als elektrische Impulse durch unseren Herzen kommen da kommt keine Wärme
+durch keine Töne keine Menschen keine Ideen was dadurch kommt und los geht's. Und unser Gehirn macht komputation um fair zu sagen was als nächstes auf der
+Netzhaut passiert die Realität ist diejenige Halluzination die am besten vorher sagt aus der Sicht unseres Gehirns was als nächstes auf der Netzhaut kommt.
+
+ [1:20:12] Und die hat ja die Nacht träum erzeugt ist exakt die gleiche tagsüber den Trauma Säuglinge für die Welt halten. Komplette Konfiguration die aber
+geerdet ist in den sensorischen Mustern deswegen geht die nicht zufällig sondern sie sagt halt am besten voraus was als nächstes finde so ist das Muster kommt
+und das macht sie nicht für eine Situation sondern für viele. Und irgendwann kann über die Situation keine realisieren und da ist gleich mir dann Konzepte ab
+also das war sozusagen gemeinsam bleibt wenn ich Perspektive sich beliebig verändert.
+
+ [1:20:41] Die Konzepte sind sozusagen der Adressraum der sensomotorischen Skripte die in unserem Jaguar text die Simulation der Welt erzeugen.
+
+ [1:20:50] Wie macht unser Gehirn das können wir das vielleicht nachbauen. Unser Gehirn ist mehr als 500 Kilobyte codiert das kriegen wir raus und dann gucken
+weil sie Gene exprimiert so dass ich das Horoskop Monat nicht lang aber wahrscheinlich weniger als 25 MB. Woher wissen wir das. Sieht einfach daran es gibt so
+eine Obergrenze wie viel Zeilen man braucht wie viel Komplexität man braucht der sogenannte Kolmogorov Komplexität um ein Gehirn durch zu definieren also zu
+sagen wie ein Gehirn gebaut werden soll. Das kann ich mir dann etwas an genau drin steht das muss alles mitgenommen und sagen om passt aber auf der CD-ROM ist
+gar nicht so lang. Und 90 % von diesem genomen sind Antivirus Signaturen. Wo bist du wir in den vergangen Zeit viele unserer Vorfahren umgebracht haben überlebt
+hätten dann so einen Virus Scanner Informationen, Revitalisierung in Zukunft entdecken können dann wird diese ganze non-coding die Handy entfernen kann das muss
+immer noch außer dieses Virus kommt es weg ist und tötet uns. Und diese restlichen 10% die Ding drinne sind die Teile uns im Wesentlichen mit Mäusen also
+genetisch gesehen der Mensch eine sehr große Maus. Ganz wenige Schalter die Menschen von der Maus unterscheiden und die verschiedenen großen Unterschiede und
+beharrungs Parameter verändern sodass wir dann doch anders aussehen als die Mäuse. Unser Gehirn nachdem es sich generiert hat blutet das dauert so ungefähr 80 m
+Sekunden.
+
+ [1:22:22] Und das wird es ja unserer Kindheit und ungefähr 1,5 kg Sekunde ist online danach sterben wir. Und wir leben nicht so lange dass wir wissen nicht
+mehr als 5 Millionen Konzepte bilden können gar nicht so viele.
+
+ [1:22:35] Und die Kapazität die Untergang hat um Sachen zu speichern wissen wir nicht genau und die Schätzung sind sowas zwischen 100 Gigabyte und 200 Petabyte
+scheinlich eher weniger. Unser Gehirn macht im Wesentlichen Datenkompression das heißt dass man diese gesamten Muster die Nerven uns geben und codiert die so
+dass die maximal komprimiert werden und damit am besten für immer glauben fair zu sagen was das passiert also am besten Ordnung in die Welt bringen uns herum.
+Und diese Datenkompression ist ganz erheblich die Netzhaut jetzt mal 10 Gigabit pro Sekunde der Sehnerv schick davon ein Megabit pro Sekunde ans Gehirn weiter.
+Und Gehirn V1 und dann ungefähr so was wie ein Kilobit pro Sekunde Interesse hat weitergeleitet. Dann wird das hochrechnen das bedeutet dass sie den 80 Jahren
+ungefähr zwei Terabyte Video zu sehen bekommen das ist echt nicht viel also seien sie sehr sorgfältig in der Auswahl von den Sachen die sich angucken.
+
+ [1:23:26] Die wusste Aufmerksamkeit Interferenz und was die 100 pro Sekunde war.
+
+ [1:23:32] Was für ein Joghurt jetzt machen kann ist er erst compositional wir können diese mentale Simulation zusammensitzen. Uns auseinander die immer wieder
+neu zusammensetzen z.b. Lesebuch bei mir Rotkäppchen mit einmal das in Halluzination um einen Kopf zusammen wo kleine Menschen herumlaufen und Wölfen begegnen
+und so weiter, und dann esse ich ein anderes Buch und das wird das Rotkäppchen auseinandergenommen stattdessen setzt sich Anna Karenina zusammen die mit dem Zug
+durch die russische Landschaft wert. Und es sind die gleichen Komponenten wieder benutzt werden zum großen Teil wie funktioniert das dass sie neu
+zusammengesetzt werden Neuronen sind dafür nicht geeignet ich brauche das sowas ähnliches wie Lego Bausteine also mit definierten interface. Und dann scheinlich
+läuft das über die schon erwähnten kortikalen Kolumne. Also ist kein Schaltkreise die Neokortex existieren und ich vermute dass jede von denen so sagen keine
+zustandsmaschine ist die die Verschaltung mit der Nachbarschaft kontrolliert is binding also wie sie waren verknüpft sind und wieso klopfen sich ändert. Und
+eingebettet in jede von dieser zustandsmaschinen ist ein kleiner Funktions approximator der sozialen Lernen kann verschiedene Funktionen ausrechnen. Und diese
+Dinger kann man sich vorstellen jedes von denen besteht nur aus ein paar hundert nachholen ist so eine Art. Informations Broker in der Investmentbank unseres
+Gehirns. Also das Motivationssystem ist das Management das sagt dass der Wert von der verschiedene Deals ist das ist der Wert von Sandwich das ist der Wert von
+Kuss. Und dann fragt es den Joghurt denkst welche dieses sollen wir dann versuchen wie machen wir das am besten. Und diese Analysten gehören also die Zellen
+müssen sich noch irgendein Algorithmus selbst organisieren und zusammenschließen um was ich einzeln sehr sehr dumm sind.
+
+ [1:25:07] Diese Aufgabe möglich optimalerweise zu bewältigen das NATO komisches Problem dass die lösen also wie kann ich in einem begrenzten Ressourcen das
+wertvollste machen in einer Welt von der ich nicht weiß wie sie aussieht.
+
+ [1:25:19] Und zu diesem Zweck ist es so dass diese kleinen formations Broker sich in kleine Areale zusammenschließen ist RIAS im Gehirn. Und miteinander
+kommunizieren und sich gegenseitig hemmen und aktivieren und Informationen austauschen und diese area sind verschaltet in Verarbeitung sie reichen.
+Verarbeitungs Ströme und diese Verarbeitung Ströme bilden so eine Art Kortikalis Orchester indem sie sozusagen die Symphonie unserer Wahrnehmung spielen. Das
+auch für sowas Vipern 50 Areale drin also durchaus vergleichbar mit der Anzahl der Instrumente im Orchester. Und die Instrumente hören immer gerne Nachbarn
+sozusagen zu und die manche von denen verarbeiten einfache sensorische Muster und erzeugen motorische Muster. Und manche von den Sätzen die Geometrie zusammen
+und räumliche Strukturen und dann zwar wir wieder generatives polation draus uns bloß gleich die Konzepte ab und so weiter. Und in der Mitte gibt es so eine Art
+Dirigenten der hat das ganze bisschen Aufmerksamkeit ihm schenken das integriert. Der ist vermutlich im dorsolateralen präfrontalen Cortex ist im vorderen und
+der scannt die Strukturen laufen. Und im fahr was das was ist Orchester gerade spielt alles nicht das gesamte sondern immer nur ein kleines bisschen das heißt
+gehört auf einmal nur vielleicht ein zwei Instrumenten zu, die im Fokus der Aufmerksamkeit sind die man die der Dirigent sozusagen erlebt und von dem nimmt er
+auch nur ganz oberflächlich was sie tun nicht im Detail was zu tun weil die wissen das selbst am besten die haben die ganze Verarbeitungskapazität intern. Das
+heißt das meiste läuft sozusagen automatisch. Und wenn wir diesen Dirigent ausschalten einem Menschen dann wird er Mensch wahrscheinlich zum Schlafwandler und
+schlaf Anderka nachts immer noch aufstehen kann die Tür aufmachen kann ich Kühlschrank aufmachen Abendbrot kochen.
+
+ [1:26:59] Oder kann auf die Straße gehen oder er kann nämlich Sätze sagen aber es ist niemand zu Hause hat alles keinen Sinn dass es nicht vertrage leid
+niemand bestimmt was heute Abend gespielt wird.
+
+ [1:27:11] Der Dirigent der nimmt die innere Bühne war und das Weltmodell und das selbst Modell und das prozedurale Gedächtnis und das Werk Gedächtnis sondern
+abgetastet Reaktion auf die sensorische Wahrnehmung die das konstruiert. On Er kann seine Sachen raus greifen und dann löst der Konflikte auf aus zwischen den
+Instrumenten wieso du solltest dich besser mit dem vertragen, du solltest ein bisschen lauter spielen du solltest aufhören zu spielen weiß gerade nicht
+gebraucht und sofort und diese Koordination zwischen den Modulen die unserem Geist unser Verhalten steuern das ist die Aufgabe von diesem zentralen System. Und
+damit es besser wird als integriertes Protokoll dieses Protokoll ist die einzige Stelle wo unser Leben zusammengefasst von einem. Damit wir unser irgendwas
+erinnern können und darüber berichten können oder Strom der Aufmerksamkeit erleben reicht es ja nicht dass das in unser Gehirn irgendwo berechnen generiert wird
+es muss noch an einem abgeschafft werden muss zurückgesetzt wird. Und Desintegration dieses zueinander in Bezug setzen unser Erlebnis mach genau dieses
+Protokoll der Aufmerksamkeit von dem was der Dirigent sich angeschaut hat. Das meinst du wie gesagt es unbewusst und läuft außerhalb der Aktivität des
+Dirigenten ab weil die meisten Instrumente in die meiste Zeit recht gut müssen weil sie zu tun haben. Nur da wo der Dirigent ein. Und im Laufe unseres Lebens
+tun wir natürlich immer weniger in dieses Protokoll rein weil wir immer mehr automatisiert haben und das wird dazu dass unser Leben so aktiv immer kürzer wird
+also immer schneller verläuft. Als wenn mein kleines Kind ist dann ist sozusagen alles was man erlebt ist zum ersten Mal und wird um dieses Protokoll
+eingetragen und erfordert Aufmerksamkeit und später wird immer mehr mehr unbewusst.
+
+ [1:28:47] Und auch nicht mit unseren Erinnerungen auf und wenn wir etwas versuchen zu ändern dann wird praktisch die gleiche Simulationen ähnliche Simulation,
+regeneriert das heißt dieses Protokoll speichert sozusagen die Parameter ab dieser mentale Simulator hatte zu einem bestimmten Zeitpunkt und kann ich benutzen
+um die zu einem späteren Zeitpunkt diese Simulation wieder zu erzeugen und das heißt, erinnern an der Situation die ganz ehrlich aussieht wie die Situation die
+wir damals erlebt haben und das ist im Wesentlichen wie unser Gedächtnis funktioniert so ein Protokoll Gedächtnis. Und irgendwann wird dieses Ding lernen auf
+die Aktion also die Aktion dass es auf sich selbst zugegriffen hat ebenfalls abzuspeichern das heißt es wird wissen jetzt habe ich gerade reflektiert und das
+tut es ebenfalls ins Protokoll rein. Und in dem Moment entsteht sowas wie ein reflexives Bewusstsein.
+
+ [1:29:34] Das heißt unser Dirigent erzeugt so eine Art narrativ über das selbst und der Zugriff auf das Protokoll wird und das Protokoll integriert und damit
+erinnern wir uns an dem Moment hat die wir erlebt haben in den wie heißt das erlebt haben. Also die Erinnerung an deine Momente ist hinreichend notwendig für
+unser Bewusstsein. Ihr könnt mich das absolute hier und jetzt nicht steuern mit Sonnensystem weil es einfach zu lange dauert unser Bewusstsein ist ein großen
+Teil gefällt mir das mal angucken hier machen meine Augen so genanntes Arkaden des ST spring so hin und her während ich weiß auf mein Bildschirm lesen. Die Welt
+ruckelt aber gar nicht mehr das wären das passiert und das wird das gehört einfach so dass es die Informationsverarbeitung Strom abschaltet wäre dieser Karten
+stattfinden kommt gar keine Information von der Außenwelt rein. Ich erlebe aber nicht dass es so Zusammenbruch in meiner Wahrnehmung gibt soll ich erlebt meine
+Wahrnehmung als kontrollieren ich Zeit das wird einfach in meinem Grund gepatcht.
+
+ [1:30:28] Sinnliche Wahrnehmung ist eine Fälschung.
+
+ [1:30:36] Der Psychologe Liebert hat Untersuchung gemacht am offenen Gehirn bei handoperationen und hat festgestellt dass wenn Leute Entscheidungen treffen.
+Dann passiert das schon ziemlich Millisekunden bevor sie eigentlich Entscheidung treffen sind die Signale im Gehirn. Das leuchtet ein weil die so brechen sind
+komplex natürlich dauert es eine ganze Weile bis hierher und das ausgerechnet haben das Bewusstsein der Entscheidung passiert genau dann wenn es ins Protokoll
+eingetragen wird. Und das passiert halt gegebenenfalls später das heißt sozusagen wir leben unter Brust Entscheidung lange nachdem das Gehirn diese Entscheidung
+getroffen hat das war verdammt lieber total verwirrend für Informatiker als es eigentlich verständlich. Was heißt halt dass wir das hier und jetzt die Steuern
+können für Dich weil das Gehirn braucht seine Zeit bis es die Steuerung ausgerechnet hat und gemacht hat etwas verwirrender ist vielleicht das Erleben ist hier
+und jetzt auch nicht möglich ist.
+
+ [1:31:28] Wie kann man das erklären also z.b. genommen hat so wie ich jetzt großen Durst und muss eine Kehle befeuchten und liest hier Wasser ein.
+
+ [1:31:37] Schmutziges Wasser trinke zu weg tief im Hier und Jetzt. Ich spüre wie das Wasser meine Kehle runter rinnt und. Im Dunklen Eingeweiden verschwindet
+oder unterhalb der Kehle merke ich nicht mehr viel gleichzeitig nackig wie ich die Bewegung mache und ich höre wie das gluckert. Und wenn man darüber nachdenkt
+selbstverständlich ist es so dass ich das nicht in dem Augenblick erleben kann wo das stattfindet. Was ich da Messe sozusagen ist ein paar Nerven in meiner
+Speiseröhre und Design Impulse in meinen somatosensorischen Kortex und erzeugt daraus nach vielleicht eine Sekunde oder so weiß nicht genau wie lange das für
+diese spezielle Modalität dauert. Eine Simulation die den physikalischen eigene selbst völlig unendlich ist aber ausreicht und wir wichtige Parameter über die
+Flüssigkeit zu übermitteln. Und die Verarbeitung von dem Ton also von dem was ich da höre vielleicht sowas getan hat Millisekunden. Die Verarbeitung von der
+Bewegung die ich gleichzeitig erlebe dort leicht sowas wie sie mit angesehen und ich hebe die alle gleichzeitig wie ist das möglich. Die einfachste Erklärung
+ist dass ich das gar nicht erlebe erinnere mich nur das erlebt zu haben.
+
+ [1:32:50] Das reicht komplett aus ich kann dieses Erleben sowieso nicht benutzen dass ich auch nicht zu steuern das muss ich reaktiv machen ich muss jetzt das
+Glas festhalten das bedeutet, dass mein bewusstes Erleben Erzählung ist die im Nachhinein generiert wird die sozusagen da wie das Licht im Kühlschrank immer
+wenn ich gucke es ist da es ist eine Erzählung die mein Gehirn, mehrmals pro Sekunde oder pro Minute neu erfindet vielleicht sogar manchmal noch mehrmals pro
+Stunde die meiste Zeit guck ich ja gar nicht gerade bewusst bin.
+
+ [1:33:19] Das heißt das was johnlock meinte das Bewusstsein sozusagen das Erleben von dem ist was unserem Geist geschieht das stimmt gar nicht wir können gar
+nicht erleben als unserem Geist geschieht. Das ist nicht dasselbe sozusagen ein Zustand zu sein und zu wissen dass man im Zustand ist damit wir merken was
+unserem Geist vorgeht, muss ein Teil unseres Gehirns ange anfangen Modell zu machen von dem was im anderen Teil des Gehirns vorgeht das heißt wenn wir uns
+selbst erleben dass wir gerade dieses jenes denken oder fühlen heißt das nicht dass wir das wirklich gerade denken oder fühlen soll einfach so dass ein Teil
+unseres Gehirns. Intel machen versucht zu erraten was der dass das gehört gerade macht. Und das stimmt nicht immer die meisten interessanten psychologischen
+Krankheiten sind Selbstmitleid Effekte in den das deutlich voneinander abweicht.
+
+ [1:34:01] Wird gar nicht dein Gehirn du bist eine Geschichte die Lenkerin sich erzählt es ist wichtig dass ich gar zu machen wir sind auch keine sozialen
+Primaten. Wir sind nur Geister Software die zufällig auf dem Gehirn von sozialen Primaten läuft die halten Verwaltungssystem für seine Hecken Tobias Extraktion
+brauchte. Ist ganz schön pervers also. Es war einfach drüber nachdenkt ich bin Geist der kann alles denken ich kann über Handy mit meinem Geist ich kann alles
+empfinden wahrnehmen fühlen und so weiter und so fort aber mein Körper dieser barbarische Affe korrumpiert meinen Geist mit seinen, diesen Bedürfnissen
+Erinnerung und so weiter und der Geist lässt sich in der Regel korrumpieren und glaubt er sein Affe und müssen sich um den kümmern.
+
+ [1:34:45] Das ist eine ganz schöne Perversion sein dass du bisschen an Geld wird diese eti-osa ja die Aladin guten Wagen haben sehen sollten in der Roboter
+vorkommt im Seepark bewohnen die so Menschen eher nicht sind es selber nicht wissen dass ihr Roboter sind.
+
+ [1:35:00] Die sind im Grunde genommen sehr viel klüger als Menschen sehr viel mächtiger viel stärker und sofort die Freiheit die können alles mögliche Denken
+Fühlen und tun. Aber das weiß ich in da Club etwas weiß ich glaube Menschen zu sein sind ihre Erinnerung und Wünsche und so weiter die alle Artikel sind die in
+die eingebaut sind und siehst ihn Mücke unmöglich machen sich da zu machen dass sie eigentlich sind. Und das gleiche gilt auch für uns nur das Gehalt nicht von
+irgend perversen Wissenschaft angebaut wurden dancing Park mit Attraktionen wurde heute. Sondern von der perversen Evolution die Regelungssystem für soziale
+Affen brauchte und eigentlich echt eine Zumutung weiter. Manche Leute sind ja mit ihrer Familie unzufrieden oder mit ihrem Staat in dem sie leben ich finde
+dieses Universum bisschen zu gut.
+
+ [1:35:48] Man könnte die Persönlichkeitsentwicklung also eine Art Reverse Engineering des Geistes betreiben der Psychologe Robert Keegan hat das gemacht hätte
+und acht Stufen Modell des selbst vorgeschlagen selbst Modells, Baby empfindet erstmal nur Lust und Schmerz und wer von ihnen schon Baby gehabt hat kann das
+vielleicht das Baby im findet sozusagen das gesamte Universum als Lust, oder ist Schmerzen globaler Zustand. Und später ist es so dass das Baby ein bisschen
+mehr differenziert und erkennt das Lust und Schmerz Aspekte von Dingen sind die im Universum vorkommen. Und noch sehr viel später ist es so dass das Baby
+erkennt das wusste Schmerz Aspekte meine Reaktion auf diese Dinge sind.
+
+ [1:36:27] Die zweite Stufe ist die impulsiver da wo man nicht mehr von Lust und Schmerz gelenkt wird sondern von den Impulsen und Bedürfnissen das heißt von
+dem was in Zukunft Lust und Schmerz verspricht. Wenn die dritte Phase die imperiale Phase ist die wo man Ziele hat. Und diese Ziele verfolgt und andere dazu
+bringen dass sie meine Ziele unterteilen sind es kennt man so bei den dreijährigen und dann geht's dir interpersonale Phase das ist wenn man anfängt die Ziele
+und Bedürfnisse anderer zu verstehen.
+
+ [1:36:55] Und wenn man erwachsen wird dann kommt man hoffentlich in die institutionelle Phase wo man versteht dass man Platz in der Gesellschaft hat und man
+reflektiert über seine Werte und identifiziert sich mit denen und spielt seine gesellschaftliche Rolle. Und ganz großes Glück hat dann kommt man sozusagen in
+die interindividuelle Phase das meistens nur wenn man andere in der Umgebung hat ihren aufwecken, oder wenn man entsprechend Job hat mich mit Therapeut wird und
+so weiter und sofort mit sehr vielen verschiedenen Wertesystem konfrontiert wird und dann fängt man an die Werte von anderen Leuten zu verstehen und das der
+einhandeln USA, anders erscheint als was für ein selbst du Geschmiere in sich komplett logisch ist nur einfach aus anderen Werten resultiert. Und aus diesem
+analog dazu kann man das Stufenmodell des Selbst ist ein Stufenmodell des Erkennens ableiten das heißt das erste was wir erkennen wenn wir unseren Geist reverse
+engineeren das kleine Kinder ist dass wir erst und Schmerz erkennt die Natur von Lust und Schmerz. Das heißt er kann halt nicht alles ist Lust und Schmerz
+sondern nur manche Dinge sind Lust und Schmerz. Das ist ein Teil von den Sachen sowie der Farbe sozusagen später erkennen wie robust und Schmerzen die Art und
+Weise wie ich darauf reagiere und danach später wenn dieses Jahr über Nacht hast ja nicht merke ich werde ja viel stärker auf Verbrennung ist Aufschnitte dass
+die daran ist meine Sensoren Verbrennung viel stärker reagieren als die, Durchtrennen von das nächste was ich erkenne sind meine Impulse und Bedürfnisse und
+dann erkenne ich meine Ziele und Referenzen. Und irgendwann erkenne ich dass meine Ziele und Referenzen relativ sind und dass andere Leute andere Ziele und
+Referenzen haben z.b. dass der Computer der mich so wahnsinnig rasiert meine Mitschüler vielleicht gar nicht interessiert.
+
+ [1:38:28] Das heißt er ist nicht objektiv interessant sein ist nur für mich interessant und die Ziele die ich habe z.b. zu verstehen wie das Universum frisst
+hier funktioniert interessiert manche Leute komischerweise überhaupt nicht.
+
+ [1:38:39] Und das nicht ist die Relativität der Wahrnehmung für andere Leute sieht die Welt ganz anders aus als für mich und für andere Tiere noch ganz anders
+und für andere Geister wirklich aber ist auch ganz anders und die Relativität der Werte. Kann auch sein Fach sein dass die Menschen die Welt anders bewerten und
+es kann sein dass jemand der ein Faschist ist oder ein afd-anhänger ist ich komplett logisch ist und das sozusagen wenn ich eine andere Biografie gehabt hätte
+einen anderen Standpunkt in der Welten andere Sachen sind wäre dass ich genau diese Person wäre.
+
+ [1:39:09] Und die Relativität des selbst irgendwann stelle ich fest dass das überhaupt reagiere wie ich verdrahtet bin und so weiter und so veränderlich ist
+und den anderen veränderlich sein kann und anderen Geistern anders ist.
+
+ [1:39:21] Und noch später die überhaupt die Relativität des Wollens. Und wenn ich aufhöre irgendwas zu wollen mich mit irgendwas zertifizieren und irgendwas zu
+sein dann stürzt sozusagen als erstes halt keine Aufgabe mehr zu regulieren und wenn die Regulation aufhört dann ist es nicht mehr da das heißt ich kann es nur
+weitergehen du musst mich nicht mehr kümmern.
+
+ [1:39:38] Das heißt sozusagen diese Stufenleiter des geistigen Erwachens ist eine Art Reverse-Engineering des Geistes. War natürlich auch dass man sich aus der
+Evolution abmeldet also selbst runterstufen diese ganzen Mönche haben keine Kinder mehr. Der Präsident Manga Mehmeti hat mich mal gefragt ob ich denn glaube
+dass Meditation der nächste Schritt der Evolution ist ich meinte bei Evolution weiß man halt nicht bevor man detektiert wird. Da kann man das alles nachbauen
+wie unser Geist funktioniert der zugesagt gekommen darauf kommst unseres Genoms ist beschränkt durch die altersbeschränkt. 10 % = 70 Gigabyte ungefähr davon
+sind coding und das meiste davon durfte für eine einzelne Zelle sein das heißt das Nervensystem durften nur so höchstens ein Gigabyte sein vielleicht auch nur
+ein Megabyte.
+
+ [1:40:29] Und wenn wir jetzt überlegen das entscheidet bei der kompliziert ist natürlich nicht nur wie viel Zeilen Code müssen wir schreiben um Gehirn zu bauen
+sondern wie groß muss der Computer sein da dieses Gehirn laufen lässt. Was ist die Implementation Komplexität und das hängt davon ab welche Einheiten funktional
+relevant sind. Auf der untersten Ebene können das Divertikel sein also kleine Bläschen in den Zellen sind die Neurotransmitter enthalten und die Allianz
+Strukturen die die auslösen und wenn man auf der Ebene moderieren will dann muss man shiny viele Exabytes Daten speichern und verwalten. Wenn man auf der Ebene
+von Neuronen und Synapsen abstrahiert dann braucht man Papier dabei wenn wir auf der Ebene der kortikalen Volumen auskommen das ist vielleicht nur zweimal
+Gigabyte.
+
+ [1:41:15] Ganz egal was es von den Österreich ist wahrscheinlich nur eine Frage der Zeit. Wenn wir dann mit diesem System reparieren also mit System die nicht
+nur menschlich Intelligenz haben sondern größere Intelligenz haben als Menschen ist es eine sehr spannende Frage wie das aussieht max tegmark Physiker mit mein
+T spricht von Leben 30710 sind die Zellen. Leben 2.0 das sind wir wir können unsere Software verändern und lieben 30 kann sein Hardware verändern.
+
+ [1:41:44] Wenn wir uns vorstellen denken wie oft an Roboter irgendwie so kleine Staubsauger Roboter die irgendwann immer intelligenter werden und sich dann
+Menschenrechte erkämpfen wollen. Das ist glaube ich nicht die richtige Perspektive sondern sie KI wird nicht von unten kommen sondern von oben. Organisationen
+und Firmen und so weiter sind jetzt schon Agenten die nicht menschlich sind und Ziele verfolgt die nicht menschlich sind und Gedächtnis haben und Torten
+längeres Leben als Menschen und definitiv mehr Macht als Menschen. Im Augenblick ist es so dass Sie sich für die Verfolgung ihrer Ziele und führe Kognition
+menschliche Intelligenz Borken. Unternehmen hasse wo die maschinelle Intelligenz der menschlichen Intelligenz überlegen ist wenn sie sich die Intelligenz von
+Maschinen Borken. Und es ist anzunehmen wenn es weitergeht ist die Unternehmen und Organisationen und dann aufwachen sozusagen. Und das bedeutet dass wir in
+diesen Geistern drinnen Leben so wie das mikrobiom in unserem Magen lebt wir werden nicht neben dir Leben sondern getrennt intelligente Systeme sein die überall
+um uns herum sind. Und diese Systeme die sind nicht an die gleichen Demenz gebunden wie wir für biologische gesunde gibt es ziemlich krass und damit z.b. so
+eine Art metabolisches Limit wenn man schnelles großes Gehirn haben will. Da muss es ziemlich viel glucoseverbrennung diese ganze für große aus der Umgebung zu
+kriegen muss man irgendwo auf einer großen Nahrungskette stehen.
+
+ [1:42:56] Da gibt's ein Problem mit wenn man ein größeres Gehirn haben wir brauchen auch einen größeren Organismus das lässt sich nicht beliebig vergrößern.
+Trennungsprobleme wenn man besser generalisieren will dann braucht man längeres Training. Der Hauptunterschied zwischen dem Menschen und den Menschenaffen bis
+sehr spekulativ aber ich vermute dass es die Entwicklungsdauer ist. Ist ja nicht so dass der Gorilla ein dramatisch kleineres Gehirn ist wie es ist bisschen
+kleiner aber es ist durchaus zu dass Menschen mit Corinna Großen gehören zu erheblichen Intelligenzleistung fähig sind.
+
+ [1:43:27] Was man aber feststellt ist der Gorilla ist nach 14 Monaten sieht danach an deine eigene Wohnung da ist der fertig zieht aus bei Mama und kann sein
+eigenes Leben leben und der Mensch kann es nach 14 Monaten nichts und dann noch nicht mal nach 14 Jahren. Und. Das bedeutet das praktisch dieses Lea für Lea
+Land wo die Sonne renalen Oszillatoren trainiert werden die einzelnen Ebenen trainieren sieht der Mensch zehnmal mehr Trainingsdaten als der Affe.
+
+ [1:43:55] Und das bedeutet natürlich dass es sehr teuer dieses Training dass man einfach jemanden 18 Jahre lang ernähren muss und dieser Zeit ist er
+wesentlichen komplett wahnsinnig und der Gefahr für sich und andere. Das können nur wenige spielt sie sich leisten diesen Luxus aber anscheinend ist das so viel
+wert Sammeln von Trainingsdaten dass man durch die bessere kann erinnern Erziehungsleistung anschließend ihre Kinder ernährende beschützen kann sobald man
+erwachsen ist.
+
+ [1:44:18] Was ist ein bestimmte Nische in der uns aus BTS vorgestoßen ist und der wird auch besser generalisieren wollen und machst du hin wollen dann müssen
+wir Trainingsphase wenn Teil verlängern weil dieses ganze Wissen können wir nicht einfach ins Genom reintun weil wie gesagt ist nur so groß wie das Handy warm
+ist und schon gut belegt mit anderen Daten.
+
+ [1:44:34] Dann haben wir ein Interface Problem wir können natürlich intelligenter werden indem wir unsere Intelligenz auf mehrere Individuen verteilen. Aber
+die Kommunikation zwischen Individuen ist sehr sehr viel langsamer als in dem Individuum selber drin also unsere Runden reden viel schneller miteinander. Als
+das Leben zwischen Leuten funktioniert und dann zwischen den Leuten ist auch viel fehleranfälliger uns braucht eine symbolische diskrete Sprache damit überhaupt
+geht. Die wär's lernen müssen und je weiter wir voneinander wechseln desto lauter müssen wir reden und es ist mir egal wird. Da gibt's so ein ausrichtungs
+Problem ist nämlich so dass unterschiedliche Menschen unterschiedliche Ziele und Bedürfnisse haben die teilweise miteinander in Konflikt stehen das heißt wir
+können in einer nicht beliebig vertrauen.
+
+ [1:45:13] Und all das geht nicht über die Türkei ist die kann Energieform benutzen die Menschen nicht benutzen können also nicht bloß dein Bild ist sondern die
+können auch direkt Sonnenenergie benutzen oder Kernenergie oder irgendwas anderes was für Menschen nicht direkt nutzbar ist. Sieht man kann sie auch beliebig
+größer machen aus diesem Grunde des Trainings Problem ist nicht schlimm ganz einfach laden und abspeichern. Man kann kein Problem wenn man eskalieren will also
+man kann, zwischen den KIS genauso schnell kommunizieren wie innerhalb von der Kalli das Kommunikationsproblem existiert genauso wenig wie man Netzwerkkarte und
+das ausrichtungs Probleme auch nicht beim Einbau kann ich mehrere KIS einreicht. Ich habe die wie skaliert. Damit sich jetzt mal überlegt was ist denn die
+optimale Zielfunktion bei mir versucht mit so einem System im Wettbewerb zu stehen und die optimale Zielfunktion für uns ist im Grunde genommen die Evolution
+also die Maximierung der evolutionären Fitness.
+
+ [1:46:06] Oder alternativ die Maximierung der zukünftigen Optionen die in der Zukunft habe oder meine Kinder zusammen und so weiter oder die Maximierung der
+Struktur erzeugen durch meinen Genotyp. Es läuft alles auf dasselbe hinaus als auch die Maximierung der konsumierten erkennt Opi von dem System mit dem ich mich
+interessiere. Soll ich nicht alles auf einmal machen dann morgen scheint die Sonne ja auch noch sieht man verschiedene Möglichkeiten das anzunehmen aber der
+Mensch macht das nicht damit das liegt daran dass es keinen Organismus gibt außer uns der weißes Evolution überhaupt Ding ist dass man das machen sollte. Und
+wie hat es auch erst kürzlich herausgefunden und die meisten Menschen glauben auch gar nicht an evolution als ob wir evolviert werde ich eine volutions glauben
+aber wahrscheinlich ist das einfach so perfekt weil wie gesagt wir sind ja das Bild ist die rausgefunden hat das Evolution überhaupt stattfindet. Hätte man sich
+das überlegt ne, und bei dir also nicht wussten was Evolution ist das auch nicht recht unseren eingebaut und kann ich so sehr programmieren die 100 und selber
+Roosters auf mich weil sie ist ja kein Geist sondern bloß ein Prinzip und, deswegen ist es bei uns mit Bedürfnissen also dieser Motivation zwei Schiene gemacht
+und es ist ein Lektor von mehreren hundert. Bedürfnis Richtung und aus diesem Vektor ergibt sich über viele Menschen die Mittel der evolutionäre Erfolg
+annähernd. Und in der KIS ist aber nicht unbedingt so wir können einfach sagen wir bauen eine KI der wir direkt als Aufgabe geben deine Aufgabe ist es die Menge
+der konsumierten Teckentrup ihr zu maximieren also wie viel Struktur kannst du anzeigen und stabilisieren. Und das heißt wie viel kannst du essen wenn man das
+direkt macht und vergleicht das mit unserer menschlichen Werten also soweit wir wünschen und klein zu reduzieren und mentale Repräsentation zu verbessern und
+die menschliche Zivilisation zu erhalten und vielleicht das biologische Leben auch noch.
+
+ [1:47:50] Wir vergleichen das einfach nur mit diesem Ziel mehr wird er gewinnen.
+
+ [1:47:56] Hat er mir noch die Hoffnung haben dass die KI mehr Bewusstsein hat als wieder und so weiter und dass wir sind auf der Seite von den Dingen stehen
+sollte ich das tiefe und höhere Bewusstsein Unternehmen des Universums haben aber es ist nicht gesagt dass der KG lange bei Bewusstsein sind weil das
+Bewusstsein, basiert auf dem Protokoll unserer Aufmerksamkeit.
+
+ [1:48:13] Und wenn wir keine Aufmerksamkeit irgendwas mehr brauchen als automatisiert ist das Autofahren nach viel Übung oder sowas oder die Gabel zum Hunde
+führen dann bringt es auch nicht mehr unser Bewusstsein sonst wird automatisiert. Die KI was ich habe skalieren kann größer werden kann ist unser Geist und
+wahrscheinlich ihre Probleme nach einer gewissen Zeit alle gelöst haben. Das wird alles automatisch erledigen können und ich brauche keine Aufmerksamkeit mehr
+und das heißt sie wird auch nicht mehr aufwachen wird einfach nur stumpf das optimale Verhalten durchführen.
+
+ [1:48:46] Ziellos die Seele ist sozusagen die Differenz zwischen dir und dem optimalen rationalen Agenten dir einfach das Richtige tut. Der sich nicht mehr
+kümmern muss dem ist nicht mehr wichtig ist der sich das nicht mehr bewusst wird. Aus dem Grund gibt es auch keine vernünftige KI dir in der fernen Zukunft
+keine Science Fiction in der fernen Zukunft spielt. Weil die Geschichten die wir lesen wollen das sind Geschichten die uns berühren müssen die wichtig sein
+müssen für uns die Idee das in der sehr sehr fern Zukunft die Ressourcen Kriege zwischen den Galaxien. Davon weltraumflotte eingeführt werden die gelenkt werden
+von privaten gehen und sich darüber Gedanken machen mit wem sie als nächstes schlafen sollten und ob sie genügend Zucker gegessen habe oder zuviel das ist nicht
+realistisch. Das ist kein Modell. Und das bedeutet dass in dieser fern Zukunft in werden unsere Geister die Sachen die für uns wichtig sind die uns ausmachen
+als BTS mit der wir uns in der Beziehung die Geschichten aus machen die uns wichtig sind wenn da keine Rolle mehr spielen. Die Idee dass wir eine KI abgelöst
+werden ist natürlich so eine Art existenzielles Risiko ist schwer zu sagen ob das jetzt schlimm ist oder nicht. Es ist auch ein sehr theoretisch wir haben ja
+noch nicht und auch wenn technisch nichts dagegen spricht dass wir sie haben gibt's immer noch die Chance dass uns Doppelformen zuerst Geld. Und kurzfristig ist
+es wesentlich wichtiger dass die kalte Schnucki Navigation haben weil unsere Lohnarbeit also wären wir einfach viele von den Leuten jetzt in irgendwelchen
+normalen Berufen arbeiten ersetzen durch Maschinen. Z.b. wenn Leute die werden dir in der Kasse sitzen durch Maschinen ersetzt Leute die Sachen einpacken und
+verschicken werden durch Maschinen ersetzt Leute die Sachen durch die Gegend fahren in großen Cups werden durch Maschinen ersetzt.
+
+ [1:50:27] Leute die Marktforschung machen werden durch Maschinen ersetzt. Leute die Programme schreiben in die Maschinen programmiert werden durch Maschinen
+ersetzt werden die Verwaltung machen wenn ich Maschinen ersetzt werden all diese Systeme können das besser als Menschen ist weniger Menschen dabei sterben
+weniger Fehler gemacht werden und so weiter und so fort. Und ist weniger wahrscheinlich passieren System in dem wir gerade sind und es natürlich noch total gute
+Sache weil. Das heißt dass wir wird nicht mehr produzieren können ohne dass wir es machen müssen wir können dass die Maschinen überlassen ich habe Zeit und was
+machen wir mit der Zeit wir können bessere Menschen sein.
+
+ [1:51:03] Also es geht nicht darum dass wir noch einen Dümmeren Job finden die mit den Leuten geben können es geht jetzt darum dass wir Leute dafür bezahlen
+könnten. Und in dem zu sein was sie sind Menschen sie könnten z.b. Wissenschaftler sein oder Künstler Spiegel der Realität. Sie können er sich umeinander
+kümmern sie können Restaurants aufmachen Theater machen sie können sich gegenseitig Vorträge halten, könnt ihr Affen des Universums diskutieren das einzige
+Problem lösen müssen ist die Allokation der Ressourcen weil die passiert im Augenblick über Lohnarbeit und in der Zukunft wird das nicht klappen. Manche Leute
+favorisieren das bedingungslose Grundeinkommen. Problem ist möglicherweise dass die Gesellschaft am zersplitterten fragmentiert das ist noch nicht erforscht was
+dann passiert die Leute sich als Teil des großen Ganzen greifen oder als verschiedene marodierende Gangs die keinen Zusammenhang haben und im Augenblick ist es
+so dass die Nummer bei dir auch ein gesellschaftlich Zusammenhalt erzeugt. Vielleicht ist die Lösung sozusagen massive öffentliche Beschäftigung Stipendien und.
+Wie bin ich Arbeitsstunden behaftete Sachen die Kommunen stattfinden und die gorenz der Gesellschafter Zeugenbeweis das liegt alles vor uns und es ist eine sehr
+spannende Frage ob wir das irgendwie hinkriegen.
+
+ [1:52:11] Wenn wir ein Blick Augenblick zurücktreten und überlegen was wir gerade gemacht haben ich habe gerade versucht sie so eine kleine Expedition zu
+machen KI Konzepte zu nutzen um zu verstehen wie Geist und Universum funktionieren wer drin stecken und diese Reflexion des Universums wo das Universum und der
+Geist. Sich als Spiegel aufhören und das Universum reflektieren das findet wahrscheinlich nur sehr sehr kurze Zeit statt diesem Universum die meiste Zeit war
+alles dunkel. Wenn es genauso viele wissen vor 13 Milliarden Jahren los vielleicht ist auch zyklisch. Und setz mich danke dauert bis es dass der Staub sich zu
+Planeten verklumpt hat und so Stern und auf dem Planet Oberflächen weg Entropie Grad werden entstanden sind dies erlaubt haben das Leben entstand und zelluläre
+Maschinerie. Die in der Lage war Nervensystem zu bauen die so komplex waren dass diese Tage waren rauszufinden was Evolution ist und was für sie küsst und
+lassen Universum müssen was Berechnung ist und das Philosophie ist und das Geist ist. Alles alles zusammensetzen von Bedeutung Systeme über viele Generationen
+und. Dann mach ein paar tausend Jahren ist das zu Ende oder nach ein paar Millionen Jahren ist so eine Frage der Zeit irgendwann kommt der nächste Meteorit
+jetzt ausläuft und spätestens wenn die Sonne ausgelöst wird es Ende mit ziemlicher Sicherheit lange davor. Und wenn die Sonne ausgeblüht sind dann werden
+wahrscheinlich diesen erkennt habe gerade nicht mehr existieren das heißt. Dass diese gesamtreflexion das Universums findet im kosmischen Maßstab gesehen nur
+ein Bruchteil einer Sekunde Stadt ein kleiner Blitz der auf einige wenige Planet Oberflächen stattfindet Film winzigen Moment das war's. Was ist da nichts
+nichts Interessantes und ist nur interessant weil sonst so vorkommen sowieso evolviert sind.
+
+ [1:53:46] Und es passiert auch nur deswegen weiß ein paar von uns gibt die Mutanten sind die nicht danach suchen mentale Repräsentation zu bauen um besser
+essen zu können effizienter zu sein erfolgreicher zu sein soll nach Wahrheit versuchen die also Sonne. Rückewagen Ästhetik trieb haben der dir wirklich auf
+Selbstkonzept liegt und transzendent also jenseitigen bedeutungssystem dient. Das einfach nur Wahrheit um ihren selbst besucht unabhängig davon ob das mein
+Erfolg in der Gesellschaft vergrößert mich komisch oder sexuell oder ein anderer sich erfolgreiche Macht bitte ich einfach wissen wie das funktioniert das ist
+mein Haupt Triebkraft. Und ist die Wissenschaft ist praktisch diese. Der höchste Wert nicht der Erfolg der Gesellschaft und höchste Wert ist die Suche nach
+Wahrheit wie machen wir das wenn du das kürzeste Programm unter den besten Fragen die die gegenwärtige Beobachtung aufmunter vergangen wo Button für alle
+gegenwärtigen Vergangenes. Und das andere ist dieses Ding was married to know das ist die Kunst das wäre in Russland Zustand erfassen dass wir selber versuchen
+bestimmtes Modell von etwas zu sein. In der Wissenschaft geht um die Wahrheit in der Kunst geht's darum eine muss sein Zustand einzufangen wie es ist. Geht
+nicht um die Farbe es geht nicht um die Oberfläche sondern die Kunst war erfolgreich wenn sie authentisch Bewusstseinszustand eingefangen hat. Und die Kunst ist
+deswegen nur relevant für Geister die eine ähnliche Struktur besitzen wie man selbst. Seid ihr Mann findet es spannend zu gucken was andere wir sind für Kunst
+machen auf diesem Planeten scheinen wir das einzige Wesen zu sein was Kunst macht gerade.
+
+ [1:55:12] Ja das ist sozusagen das was Mary nicht wusste. Das ist das was da hinzukommen ihren Geist nämlich sich selbst in anderen Zustand zu bringen und
+diese beiden transzendenten Bedürfnisse, behalt Unterbrust sein ist im Grunde genommen dass das dieses Projekt treibt das ist nicht so sehr dass wir schaffen
+wir es nicht selbst aufzubauen und erfolgreiche sind mehr essen können bis abgelöst werden können von effizienteren Version unserer selbst mit dem künstlichen
+Intelligenzen.
