@@ -347,7 +347,7 @@ apage = open(os.path.join(HERE, "about_template.html")).read().replace(
 open(os.path.join(HERE, "about.html"), "w").write(apage)
 
 # map.md: the whole map as one markdown file, for reading or handing to a language model
-SITE = "https://maxeozakh.github.io/bach-map/"
+SITE = "https://mxz.sh/bach-map/"
 LANES = {"rel": "myth and religion", "phil": "philosophy", "math": "mathematics and logic", "sci": "physics and life",
          "mind": "psychology and mind", "cons": "consciousness", "ai": "computing and AI", "fic": "fiction",
          "soc": "society", "eth": "ethics and AI risk"}

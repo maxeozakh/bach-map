@@ -2,9 +2,9 @@
 
 ideas about mind and consciousness joscha bach has mentioned in public, from the earliest myths to november 2026. unofficial.
 
-**[open the map](https://maxeozakh.github.io/bach-map/)** · [how to read it and where it comes from](https://maxeozakh.github.io/bach-map/about.html) · [download as markdown](https://maxeozakh.github.io/bach-map/map.md)
+**[open the map](https://mxz.sh/bach-map/)** · [how to read it and where it comes from](https://mxz.sh/bach-map/about.html) · [download as markdown](https://mxz.sh/bach-map/map.md)
 
-[![a 30 second film of the map](video/map-film.gif)](https://maxeozakh.github.io/bach-map/video/map-film.mp4)
+[![a 30 second film of the map](video/map-film.gif)](https://mxz.sh/bach-map/video/map-film.mp4)
 
 click the preview for the full film (1080p, 60 fps, no sound).
 

@@ -2,6 +2,6 @@
 
 > unofficial map of ideas about mind and consciousness that joscha bach has mentioned in public. AI-made and model-checked, not checked by a person; joscha bach didn't make or approve it.
 
-- [the whole map as markdown](https://maxeozakh.github.io/bach-map/map.md): every point, summary, confidence level, connection and source
-- [how to read it and where it comes from](https://maxeozakh.github.io/bach-map/about.html)
-- [interactive map](https://maxeozakh.github.io/bach-map/)
+- [the whole map as markdown](https://mxz.sh/bach-map/map.md): every point, summary, confidence level, connection and source
+- [how to read it and where it comes from](https://mxz.sh/bach-map/about.html)
+- [interactive map](https://mxz.sh/bach-map/)
