@@ -1,2 +1,6 @@
 __pycache__/
 .DS_Store
+video/node_modules/
+video/frames/
+video/frames-gif/
+video/stills/
