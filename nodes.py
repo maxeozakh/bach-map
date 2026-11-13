@@ -299,7 +299,7 @@ N = [
      ("Life 3.0", r"life 3.0"), ("Max Tegmark", r"^max tegmark")]),
 ("hoffman", "Donald Hoffman: interface theory of perception", 2015, "2015", "cons", "Donald D. Hoffman", [(None, r"hoffman|interface theory")]),
 ("illusionism", "Illusionism", 2016, "2016", "cons", "Keith Frankish", [(None, r"illusionism")]),
-("thooft", "'t Hooft: cellular automaton interpretation", 2016, "2016", "sci", "Gerard 't Hooft", [(None, r"cellular automaton interpretation")]),
+("thooft", "Gerard 't Hooft: cellular automaton interpretation", 2016, "2016", "sci", "Gerard 't Hooft", [(None, r"cellular automaton interpretation")]),
 ("wfc", "Wave function collapse algorithm", 2016, "2016", "ai", None, [(None, r"wave function collapse")]),
 ("westworld", "Westworld", 2016, "2016", "fic", "Westworld (TV series)", [(None, r"westworld")]),
 ("strangerthings", "Stranger Things", 2016, "2016", "fic", "Stranger Things", [(None, r"stranger things")]),
