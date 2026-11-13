@@ -1,6 +1,6 @@
 # a map of consciousness
 
-ideas about mind and consciousness that joscha bach has mentioned in public, from the earliest myths to november 2026. unofficial: joscha bach didn't make or approve it. made with claude fable 5.2 and independently checked by gpt 5.6 sol as of 13 november 2026; not checked by a person. interactive version: https://maxeozakh.github.io/bach-map/. how to read it and where it comes from: https://maxeozakh.github.io/bach-map/about.html
+ideas about mind and consciousness that joscha bach has mentioned in public, from the earliest myths to november 2026. a simplified, AI-drawn picture of the ideas, not the ideas themselves. unofficial: joscha bach didn't make or approve it. made with claude fable 5.2 and independently checked by gpt 5.6 sol as of 13 november 2026; not checked by a person. interactive version: https://maxeozakh.github.io/bach-map/. how to read it and where it comes from: https://maxeozakh.github.io/bach-map/about.html
 
 169 points, 226 connections, in chronological order. each summary and connection carries a confidence word (highly likely, likely, possible) that follows from source checks by two models; the lower verdict is shown. summaries are general background, not joscha bach's words, except quotes marked as his.
 

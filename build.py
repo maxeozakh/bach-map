@@ -336,7 +336,7 @@ md = [
     "# a map of consciousness",
     "",
     f"ideas about mind and consciousness that joscha bach has mentioned in public, from the earliest myths to november 2026. "
-    f"unofficial: joscha bach didn't make or approve it. made with claude fable 5.2 and independently checked by gpt 5.6 sol "
+    f"a simplified, AI-drawn picture of the ideas, not the ideas themselves. unofficial: joscha bach didn't make or approve it. made with claude fable 5.2 and independently checked by gpt 5.6 sol "
     f"as of 13 november 2026; not checked by a person. interactive version: {SITE}. "
     f"how to read it and where it comes from: {SITE}about.html",
     "",
