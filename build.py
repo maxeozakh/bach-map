@@ -7,7 +7,7 @@ index.html (the board). With --timeline also timeline.html (era-by-field grid, s
 """
 import json, os, re, sys, time, urllib.parse, urllib.request
 from collections import defaultdict
-from nodes import N, MAIN, DROP, TLDR_FIX
+from nodes import N, MAIN, DROP, TLDR_FIX, AUTHOR_FIX, AUTHOR_BY_FACET
 from edges import E
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -154,6 +154,15 @@ for nid, old, new in TLDR_FIX:
                     f["tldr"] = f["tldr"].replace(old, new); hit = True
     if not hit:
         print("TLDR_FIX did not match:", nid, old[:40])
+byid_ = {n["id"]: n for n in nodes}
+for nid, old, new in AUTHOR_FIX:
+    hits = [f for f in byid_[nid]["facets"] if f["author"] == old]
+    for f in hits: f["author"] = new
+    if not hits: print("AUTHOR_FIX did not match:", nid, old)
+for nid, label, new in AUTHOR_BY_FACET:
+    hits = [f for f in byid_[nid]["facets"] if f["label"] == label]
+    for f in hits: f["author"] = new
+    if not hits: print("AUTHOR_BY_FACET did not match:", nid, label)
 
 # ---- CIMC, works, bio, source list
 cimc = W["cimc"]

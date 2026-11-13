@@ -377,7 +377,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "Greek thinker whose school held that number is the basis of reality. The school was famously disturbed by the discovery of irrational quantities.",
+     "tldr": "Greek thinker whose school held that number is the basis of reality. Later tradition says the school was thrown into scandal by the discovery of irrational quantities.",
      "take": "Bach invokes him for his constructivism about numbers: real numbers do not exist as finished objects, only as functions that produce digits.",
      "mentions": [
       {
@@ -726,7 +726,7 @@
     },
     {
      "label": "De Anima (On the Soul)",
-     "tldr": "Aristotle's treatise on the soul. It describes three levels: a vegetative soul (growth and nutrition, in plants), a sensitive soul (perception and desire, in animals) and a rational soul (in humans). The soul is the form of a living body and does not survive it.",
+     "tldr": "Aristotle's treatise on the soul. It describes three levels: a vegetative soul (growth and nutrition, in plants), a sensitive soul (perception and desire, in animals) and a rational soul (in humans). The soul is the form of a living body and so cannot exist apart from it, with a disputed exception for the active intellect.",
      "take": "Bach reads Aristotle as an animist in a respectable sense: the soul is the causal structure, or software, of the body. CIMC names Aristotle as the start of the AI tradition, and Bach's 2015 blog post calls his own god concept 'Aristotelian'.",
      "mentions": [
       {
@@ -1112,12 +1112,12 @@
    "id": "golem",
    "title": "The golem",
    "year": 1580,
-   "label": "16th c. legend",
+   "label": "legend, 16th–19th c.",
    "theme": "fic",
    "facets": [
     {
      "label": null,
-     "tldr": "A clay figure brought to life by a rabbi to serve and protect, which follows instructions literally and can run out of control. The best-known version is the sixteenth-century legend of Rabbi Loew of Prague.",
+     "tldr": "A clay figure brought to life by a rabbi to serve and protect, which follows instructions literally and can run out of control. The best-known version, first written down in the nineteenth century, is about the sixteenth-century Rabbi Loew of Prague.",
      "take": "Bach's image for language models and paperclip maximisers: machines that execute a task with nobody home. In 2026 he also describes chips as sand etched by 'alchemists' on which golem-like minds emerge.",
      "mentions": [
       {
@@ -1363,7 +1363,7 @@
     },
     {
      "label": "Hume: proportion belief to evidence",
-     "tldr": "A basic rule of rational thinking: hold each belief only as strongly as the evidence warrants, and keep every non-refuted possibility open.",
+     "tldr": "A basic rule of rational thinking, from Hume's Enquiry: hold each belief only as strongly as the evidence warrants.",
      "take": "Bach calls it 'the first rule of epistemology' and uses it to separate 'true/false' thinkers (nerds) from people who adopt beliefs for group membership.",
      "mentions": [
       {
@@ -1381,7 +1381,7 @@
        "v": true
       }
      ],
-     "author": "David Hume (attributed)",
+     "author": "David Hume",
      "verified": true,
      "kind": "concept"
     }
@@ -1743,7 +1743,7 @@
        "v": true
       }
      ],
-     "author": "Jeremy Bentham; Robert Nozick",
+     "author": "Jeremy Bentham; John Stuart Mill",
      "verified": true,
      "kind": "theory"
     }
@@ -1928,7 +1928,7 @@
        "v": true
       }
      ],
-     "author": "Charles Darwin (remark attributed to Mikhail Gromov)",
+     "author": "Charles Darwin",
      "verified": true,
      "kind": "person"
     }
@@ -1999,7 +1999,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "The physiologist du Bois-Reymond declared that science will never know how matter gives rise to consciousness: 'ignoramus et ignorabimus'.",
+     "tldr": "The physiologist du Bois-Reymond declared that science will never know what matter and force are, or how matter gives rise to consciousness: 'ignorabimus', we shall never know.",
      "take": "Working notes record that Bach quotes a 19th-century statement of this kind in his German 2017 lecture, but the speaker's name is illegible in the ASR transcript.",
      "mentions": [
       {
@@ -2100,7 +2100,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "The view that conscious experience is a by-product of brain activity with no causal influence on the physical world, like steam from a locomotive.",
+     "tldr": "The view that conscious experience is a by-product of brain activity with no causal influence on the physical world, like the steam-whistle of a locomotive.",
      "take": "Bach rejects it twice: in 2014 as an inconvenient consequence of read-only dualism, and in 2025 with the quip that an epiphenomenalist's report is not caused by their consciousness, so you need not listen.",
      "mentions": [
       {
@@ -2136,7 +2136,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "Austrian philosopher-psychologist who revived the idea of intentionality: mental states are always 'about' something. He taught Husserl and Freud.",
+     "tldr": "German-born philosopher-psychologist who taught in Vienna and revived the idea of intentionality: mental states are always 'about' something. He taught Husserl and Freud.",
      "take": "Named as a post-Enlightenment thinker who did not yet have the 'hard problem', supporting Bach's claim that it is a 20th-century confusion.",
      "mentions": [
       {
@@ -2255,7 +2255,7 @@
        "v": false
       }
      ],
-     "author": "Gottlob Frege; Alfred Tarski",
+     "author": "Gottlob Frege",
      "verified": true,
      "kind": "person"
     }
@@ -2657,7 +2657,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "Husserl argued that we never see the world itself, only appearances (phenomena). The mind turns them into meaningful objects (noema) through acts of interpretation (noesis), and philosophy should 'bracket' claims about the outside world (epoché) to study this.",
+     "tldr": "Husserl proposed studying experience exactly as it is given. Each act of consciousness (noesis) is directed at an object as it is meant (noema), and philosophy should 'bracket' the taken-for-granted existence of the outside world (epoché) to describe how things appear.",
      "take": "Bach uses Husserl to pose the problem, then offers a way out: a robot gets only bits at its interface, and a cognitive architecture can turn bits into something that looks like phenomena.",
      "mentions": [
       {
@@ -2693,7 +2693,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "Hilbert asked mathematicians to prove, by purely mechanical means, that mathematics is consistent and complete, so that every true statement could in principle be derived.",
+     "tldr": "Hilbert asked mathematicians to put all of mathematics into one formal axiom system and to prove, using only simple finite reasoning, that the system is consistent; he expected it also to be complete, so that every true statement could be derived.",
      "take": "For Bach this was the bug report that led Gödel and Turing to discover that only the computable part of mathematics works.",
      "mentions": [
       {
@@ -2788,7 +2788,7 @@
     },
     {
      "label": "Tractatus Logico-Philosophicus",
-     "tldr": "A short, austere book claiming that the world is the totality of facts, that language mirrors facts through logical form, and that what cannot be said clearly must be passed over in silence. Wittgenstein wrote it largely in the trenches of the First World War and later rejected much of it.",
+     "tldr": "A short, austere book claiming that the world is the totality of facts, that language mirrors facts through logical form, and that what can be said at all can be said clearly, and what cannot be spoken of must be passed over in silence. Wittgenstein wrote it largely in the trenches of the First World War and later rejected much of it.",
      "take": "Bach's thesis cites it for the habit of equating thought with language. The CIMC essay cites Russell's introduction to it for the point that all logic can be built from one operation (NAND); CIMC counts Wittgenstein among AI's philosophical ancestors.",
      "mentions": [
       {
@@ -3164,7 +3164,7 @@
    "facets": [
     {
      "label": "Alan Turing",
-     "tldr": "English mathematician who defined computation with his abstract machine, helped found AI with the 1950 imitation-game paper, and late in life modelled how chemical patterns form in biology. He also led the breaking of the German Enigma cipher during the Second World War.",
+     "tldr": "English mathematician who defined computation with his abstract machine, helped found AI with the 1950 imitation-game paper, and late in life modelled how chemical patterns form in biology. During the Second World War he led the Bletchley Park section that broke German naval Enigma and designed the Bombe machine used to do it.",
      "take": "Bach reads the Turing test as Turing asking whether he himself can understand intelligence. He notes Turing worried about telepathy, and credits Turing's reaction-diffusion work as the origin of a neglected self-organising branch of computing.",
      "mentions": [
       {
@@ -3485,7 +3485,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "The school that restricted psychology to observable behaviour and treated talk of inner mental representations as unscientific. Skinner explained behaviour through reinforcement of stimulus-response links.",
+     "tldr": "The school that restricted psychology to observable behaviour and treated talk of inner mental representations as unscientific. Skinner explained behaviour through its consequences: actions that are reinforced become more frequent.",
      "take": "Bach's standing complaint about psychology. He says radical behaviourism is easy to refute (purely reactive systems are harder to build than representational ones) and that a 'pragmatic behaviourism' still keeps psychologists from theorising.",
      "mentions": [
       {
@@ -3788,7 +3788,7 @@
    "facets": [
     {
      "label": "Cybernetics",
-     "tldr": "The mid-century science of control and feedback in animals and machines, the ancestor of control theory, systems theory and neural networks. Norbert Wiener named it in 1948; its core idea is that purposeful behaviour comes from feedback loops.",
+     "tldr": "The mid-century science of control and feedback in animals and machines, which grew out of control engineering and fed into systems theory and neural networks. Norbert Wiener named it in 1948; its core idea is that purposeful behaviour comes from feedback loops.",
      "take": "A foundation of Bach's thinking. He defines an agent as a controller with a set-point generator, sees motivation as nested feedback loops, and regrets that Minsky helped end cybernetics as a field in the US.",
      "mentions": [
       {
@@ -4219,7 +4219,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "The neocortex appears to be built from repeating vertical circuits of a few hundred neurons. Mountcastle proposed that these columns are the cortex's basic, general-purpose computing unit.",
+     "tldr": "The neocortex appears to be built from repeating vertical circuits: minicolumns of about a hundred neurons, bundled into larger columns. Mountcastle proposed that these columns are the cortex's basic, general-purpose computing unit.",
      "take": "Central to Bach's model: columns are nature's way of giving noisy neurons a standard interface, 'like lego bricks'. He imagines them as small state machines that link up, trade reward and approximate Solomonoff induction.",
      "mentions": [
       {
@@ -4600,7 +4600,7 @@
    "id": "lem",
    "title": "Stanisław Lem",
    "year": 1961,
-   "label": "1961–1964",
+   "label": "1961–1981",
    "theme": "fic",
    "facets": [
     {
@@ -5593,7 +5593,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "Grossberg's theory that the brain learns stably by matching top-down expectations against bottom-up input; a 'resonance' between the two is what becomes conscious.",
+     "tldr": "Grossberg's theory that the brain learns stably by matching top-down expectations against bottom-up input; on his account every conscious state is such a 'resonance' between the two.",
      "take": "The CIMC essay says Grossberg came up with a model similar to the attention-control account; his 2021 book is in the CIMC library.",
      "mentions": [
       {
@@ -6280,7 +6280,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "Computers that use quantum superposition and entanglement to solve certain problems, such as factoring, far faster than any classical machine could. Building them is hard because quantum states are destroyed by the slightest disturbance from the environment.",
+     "tldr": "Computers that use quantum superposition and entanglement to solve certain problems, such as factoring, far faster than any known classical method. Building them is hard because quantum states are destroyed by the slightest disturbance from the environment.",
      "take": "In the IAI 'quantum hoax' debate (with Dominic Walliman and Ruth Oulton) Bach said it is not a hoax but an extremely bold proposal: to do something nature itself has not been seen to do.",
      "mentions": [
       {
@@ -7235,7 +7235,7 @@
     },
     {
      "label": "Stuart Hameroff",
-     "tldr": "Anesthesiologist at the University of Arizona who proposed that microtubules, protein tubes inside neurons, perform quantum computation, and who organises the Science of Consciousness conference. Together with Penrose he built this into the 'Orch OR' theory of consciousness.",
+     "tldr": "Anesthesiologist at the University of Arizona who proposed in the 1980s that microtubules, protein tubes inside neurons, process information like tiny computers, and who organises the Science of Consciousness conference. With Penrose he turned this into the quantum 'Orch OR' theory of consciousness.",
      "take": "Bach separates Hameroff's microtubule claim from Penrose's physics and says he lacks the cell biology to judge it, while noting physicists' scepticism.",
      "mentions": [
       {
@@ -7369,42 +7369,6 @@
    "img": "img/ncc.jpg"
   },
   {
-   "id": "hypercomputation",
-   "title": "Hypercomputation",
-   "year": 1990,
-   "label": "1990",
-   "theme": "math",
-   "facets": [
-    {
-     "label": null,
-     "tldr": "Hypothetical machines that compute more than a Turing machine, for example by using infinitely precise real numbers ('geometric') or by sending results back in time ('causal').",
-     "take": "Bach lists them as more 'expensive' universes in 2016 and later argues they cannot exist, because the languages needed to describe them run into contradictions.",
-     "mentions": [
-      {
-       "src": "Machine Dreams (33C3)",
-       "url": "https://media.ccc.de/v/33c3-8369-machine_dreams",
-       "date": "2016-12-29",
-       "q": "A geometric computer is a type of hyper computer because what it can do is it can move parts with infinite precision in space.",
-       "v": true
-      },
-      {
-       "src": "Synthetic Sentience (37C3)",
-       "url": "https://media.ccc.de/v/37c3-12167-synthetic_sentience",
-       "date": "2023-12-28",
-       "q": "hypercomputational objects cannot exist because to refer to them you need languages that run into contradiction.",
-       "v": false
-      }
-     ],
-     "author": null,
-     "verified": true,
-     "kind": "concept"
-    }
-   ],
-   "nsrc": 2,
-   "verified": true,
-   "img": null
-  },
-  {
    "id": "witten",
    "title": "Ian Witten: cognition as compression",
    "year": 1990,
@@ -7413,7 +7377,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "New Zealand computer scientist who co-developed arithmetic coding and prediction-based text compression; the idea is that to compress data well you must predict it, which requires modelling its structure.",
+     "tldr": "English-born computer scientist at the University of Waikato, New Zealand, who co-invented prediction-based text compression (PPM) and popularised arithmetic coding; the idea is that to compress data well you must predict it, which requires modelling its structure.",
      "take": "Bach worked in Witten's lab in the 1990s, where he tried to learn grammar from statistics, and credits him with an underestimated influence on modern AI.",
      "mentions": [
       {
@@ -7668,7 +7632,7 @@
     },
     {
      "label": "Zimbos",
-     "tldr": "A zombie is a being that behaves as if conscious with nobody home. Dennett's 'zimbo' is a zombie with higher-order self-monitoring, so it believes and reports that it is conscious. His 'zank' is a parody: something that works exactly like a bank but supposedly lacks the essence of a bank.",
+     "tldr": "A zombie is a being that behaves as if conscious with nobody home. Dennett's 'zimbo' is a zombie with higher-order self-monitoring, so it believes and reports that it is conscious.",
      "take": "Bach asks whether AI models that describe themselves as conscious are zimbos, and whether we are.",
      "mentions": [
       {
@@ -8051,7 +8015,7 @@
        "v": false
       }
      ],
-     "author": "David Chalmers",
+     "author": "Robert Kirk (the idea, 1974); David Chalmers (the argument)",
      "verified": true,
      "kind": "concept"
     },
@@ -8548,7 +8512,7 @@
        "v": false
       }
      ],
-     "author": "Dietrich Dörner, C. Bartl, F. Detje, J. Gerdes, D. Halcour",
+     "author": "Dietrich Dörner and six co-authors",
      "verified": true,
      "kind": "book"
     },
@@ -8585,6 +8549,42 @@
     }
    ],
    "nsrc": 8,
+   "verified": true,
+   "img": null
+  },
+  {
+   "id": "hypercomputation",
+   "title": "Hypercomputation",
+   "year": 1999,
+   "label": "1999",
+   "theme": "math",
+   "facets": [
+    {
+     "label": null,
+     "tldr": "Hypothetical machines that compute more than a Turing machine, for example by using infinitely precise real numbers ('geometric') or by sending results back in time ('causal').",
+     "take": "Bach lists them as more 'expensive' universes in 2016 and later argues they cannot exist, because the languages needed to describe them run into contradictions.",
+     "mentions": [
+      {
+       "src": "Machine Dreams (33C3)",
+       "url": "https://media.ccc.de/v/33c3-8369-machine_dreams",
+       "date": "2016-12-29",
+       "q": "A geometric computer is a type of hyper computer because what it can do is it can move parts with infinite precision in space.",
+       "v": true
+      },
+      {
+       "src": "Synthetic Sentience (37C3)",
+       "url": "https://media.ccc.de/v/37c3-12167-synthetic_sentience",
+       "date": "2023-12-28",
+       "q": "hypercomputational objects cannot exist because to refer to them you need languages that run into contradiction.",
+       "v": false
+      }
+     ],
+     "author": null,
+     "verified": true,
+     "kind": "concept"
+    }
+   ],
+   "nsrc": 2,
    "verified": true,
    "img": null
   },
@@ -8655,7 +8655,7 @@
    "facets": [
     {
      "label": "The term AGI",
-     "tldr": "'Artificial general intelligence' was coined to distinguish the original goal of human-level, general AI from narrow applications.",
+     "tldr": "'Artificial general intelligence' was first used by Mark Gubrud in 1997 and coined again by Shane Legg around 2002, to distinguish the original goal of human-level, general AI from narrow applications.",
      "take": "Bach says AGI means what AI originally meant. Goertzel is a friend; Bach, Goertzel and Legg all passed through Ian Witten's lab in New Zealand.",
      "mentions": [
       {
@@ -8673,7 +8673,7 @@
        "v": true
       }
      ],
-     "author": "Shane Legg; Ben Goertzel",
+     "author": "Mark Gubrud; Shane Legg; Ben Goertzel",
      "verified": true,
      "kind": "concept"
     },
@@ -9664,7 +9664,7 @@
    "id": "watts",
    "title": "Peter Watts: Blindsight",
    "year": 2006,
-   "label": "2006–2018",
+   "label": "2006",
    "theme": "fic",
    "facets": [
     {
@@ -9803,7 +9803,7 @@
        "v": false
       }
      ],
-     "author": "Andy Clark; Jakob Hohwy",
+     "author": "Rajesh Rao and Dana Ballard; Andy Clark; Jakob Hohwy",
      "verified": true,
      "kind": "theory"
     },
@@ -9856,7 +9856,7 @@
        "v": true
       }
      ],
-     "author": "contemplative traditions; popularised by Jonathan Haidt",
+     "author": "Jonathan Haidt, drawing on older images from the Buddha and Plato",
      "verified": true,
      "kind": "concept"
     }
@@ -10651,7 +10651,7 @@
     },
     {
      "label": "Language Models Represent Space and Time",
-     "tldr": "A study showing that a large language model's internal activations contain linear representations of where places are on Earth and when events happened, in effect a map. The authors, Wes Gurnee and Max Tegmark, take this as evidence that such models learn a world model and not just word statistics.",
+     "tldr": "A study showing that a large language model's internal activations contain linear representations of where places are on Earth and when events happened, in effect a map. The authors, Wes Gurnee and Max Tegmark, take this as evidence that such models learn the basic ingredients of a world model and not just word statistics.",
      "take": "Bach cites it against the 'just autocomplete' view: the model does contain a map of the world encoded in its structure.",
      "mentions": [
       {
@@ -16238,8 +16238,8 @@
    "intuitionism rejects completed infinities"
   ],
   [
-   "hilbert",
    "brouwer",
+   "hilbert",
    "related",
    "the formalism versus intuitionism dispute"
   ],
@@ -16289,7 +16289,7 @@
    "turing",
    "morpho",
    "builds",
-   "turing's last work"
+   "turing's last major work"
   ],
   [
    "turing",
@@ -16388,8 +16388,8 @@
    "if physics is computation it could be run"
   ],
   [
-   "wheeler",
    "digital",
+   "wheeler",
    "related",
    "information as more basic than matter"
   ],
@@ -16406,14 +16406,14 @@
    "deutsch defined the universal quantum computer"
   ],
   [
-   "mandelbrot",
    "conway",
+   "mandelbrot",
    "related",
    "unlimited complexity from a tiny rule"
   ],
   [
-   "cybernetics",
    "mcculloch",
+   "cybernetics",
    "related",
    "the macy conferences"
   ],
@@ -16630,7 +16630,7 @@
   [
    "braitenberg",
    "brooks",
-   "builds",
+   "related",
    "behaviour from simple wiring"
   ],
   [
@@ -16832,16 +16832,16 @@
    "experience as fundamental"
   ],
   [
-   "chalmers",
    "mysterianism",
+   "chalmers",
    "related",
-   "maybe we cannot solve it"
+   "mcginn had already argued we may be unable to solve it"
   ],
   [
    "chalmers",
    "illusionism",
    "against",
-   "the hard problem is itself the illusion"
+   "phenomenal consciousness is the illusion; the hard problem gives way to the 'illusion problem'"
   ],
   [
    "dennett",
@@ -16976,8 +16976,8 @@
    "free energy applied to any bounded system"
   ],
   [
-   "levin",
    "fields",
+   "levin",
    "related",
    "frequent co-authors"
   ],
@@ -17024,8 +17024,8 @@
    "mind needs a living body"
   ],
   [
-   "simulation",
    "matrix",
+   "simulation",
    "related",
    "the popular image of a simulated world"
   ],
