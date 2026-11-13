@@ -147,7 +147,7 @@ input[type=search] { font: inherit; color: var(--text); background: var(--bg); b
     <button class="btn" id="reset">reset<span class="deskhint"> layout</span></button>
     <button class="btn" id="theme"></button>
   </div>
-  <p style="margin:8px 0 0"><span class="key"></span>builds on &nbsp; <span class="key against"></span>argues against &nbsp; <span class="key related"></span>related &nbsp; <label class="chk"><input type="checkbox" id="strict">only highly likely</label> &nbsp; <label class="chk"><input type="checkbox" id="landmarks">landmarks</label></p>
+  <p style="margin:8px 0 0"><span class="key"></span>builds on &nbsp; <span class="key against"></span>argues against &nbsp; <span class="key related"></span>related &nbsp; <label class="chk"><input type="checkbox" id="strict">hide less certain</label> &nbsp; <label class="chk"><input type="checkbox" id="landmarks">landmarks</label></p>
   </div>
 </div>
 
@@ -185,7 +185,7 @@ LANES.forEach(([, , themes], i) => themes.forEach(t => laneIdx[t] = i));
 const byId = {};
 D.nodes.forEach(n => { byId[n.id] = n; n.lane = laneIdx[n.theme]; n.era = ERAS.findIndex(e => n.year >= e[0] && n.year < e[1]);
   n.text = [n.title, ...n.facets.map(f => (f.label || '') + ' ' + (f.author || ''))].join(' ').toLowerCase(); });
-// "only highly likely": hides connections and other parts below that level, and fades cards whose summary is below it
+// "hide less certain": hides connections and other parts below that level, and fades cards whose summary is below it
 const strong = x => !x.conf || x.conf[0] === 'highly likely';
 let strict = localStorage.getItem('bach-map-strict') === '1';
 const EDGES = D.edges.map(([a, b, kind, note, conf]) => ({ a, b, kind, note, conf })).filter(e => byId[e.a] && byId[e.b]);
@@ -384,7 +384,8 @@ function select(id) {
   if (lead) {
     if (n.facets.length > 1 && lead.label && lead.label !== n.title) h += `<div class="lab">${esc(lead.label)}</div>`;
     if (lead.author) h += `<p class="small">${esc(lead.author)}</p>`;
-    h += `<p class="take">${esc(lead.tldr)}</p>` + confLine(lead);
+    h += strict && !strong(lead) ? `<p class="cfline">summary hidden: it is rated ${esc(lead.conf[0])}. untick "hide less certain" to see it.</p>`
+      : `<p class="take">${esc(lead.tldr)}</p>` + confLine(lead);
   }
   h += startHtml(n.start);
   const c = connHtml(id);
