@@ -1,0 +1,442 @@
+[
+ {
+  "from": "singularity",
+  "to": "airisk",
+  "from_title": "Technological singularity (1993)",
+  "to_title": "AI risk: Bostrom, Yudkowsky and the doom debate (2003–2023)",
+  "kind": "builds",
+  "note": "runaway self-improvement"
+ },
+ {
+  "from": "lamettrie",
+  "to": "physicalism",
+  "from_title": "La Mettrie: Man a Machine (1747)",
+  "to_title": "Materialism and physicalism (ancient; modern form 20th c.)",
+  "kind": "builds",
+  "note": "man a machine"
+ },
+ {
+  "from": "physicalism",
+  "to": "functionalism",
+  "from_title": "Materialism and physicalism (ancient; modern form 20th c.)",
+  "to_title": "Functionalism and computationalism (1960s)",
+  "kind": "builds",
+  "note": "what matters is organisation, not stuff"
+ },
+ {
+  "from": "turing",
+  "to": "functionalism",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "Functionalism and computationalism (1960s)",
+  "kind": "builds",
+  "note": "multiple realisability comes from universal computation"
+ },
+ {
+  "from": "functionalism",
+  "to": "searle",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Searle: the Chinese room (1980)",
+  "kind": "against",
+  "note": "the chinese room"
+ },
+ {
+  "from": "functionalism",
+  "to": "block",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Ned Block: access vs phenomenal consciousness (1995)",
+  "kind": "against",
+  "note": "'troubles with functionalism'"
+ },
+ {
+  "from": "functionalism",
+  "to": "dennett",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Daniel Dennett (1991)",
+  "kind": "builds",
+  "note": "dennett's functionalist account of consciousness"
+ },
+ {
+  "from": "functionalism",
+  "to": "chalmers",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "against",
+  "note": "function alone leaves experience unexplained"
+ },
+ {
+  "from": "functionalism",
+  "to": "thagard",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Thagard: energy and substrate independence (2022)",
+  "kind": "against",
+  "note": "energy makes substrate matter"
+ },
+ {
+  "from": "functionalism",
+  "to": "seth",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Anil Seth: biological naturalism (2021)",
+  "kind": "against",
+  "note": "consciousness tied to living bodies"
+ },
+ {
+  "from": "functionalism",
+  "to": "lerchner",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Lerchner: The Abstraction Fallacy (2026)",
+  "kind": "against",
+  "note": "'the abstraction fallacy'"
+ },
+ {
+  "from": "functionalism",
+  "to": "chirimuuta",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Mazviita Chirimuuta (2024)",
+  "kind": "against",
+  "note": "models are simplifications, not the thing"
+ },
+ {
+  "from": "searle",
+  "to": "seth",
+  "from_title": "Searle: the Chinese room (1980)",
+  "to_title": "Anil Seth: biological naturalism (2021)",
+  "kind": "builds",
+  "note": "biological naturalism"
+ },
+ {
+  "from": "nagel",
+  "to": "chalmers",
+  "from_title": "Nagel: What Is It Like to Be a Bat? (1974)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "builds",
+  "note": "'what it is like' becomes the hard problem"
+ },
+ {
+  "from": "qualia",
+  "to": "nagel",
+  "from_title": "Qualia (1929–1982)",
+  "to_title": "Nagel: What Is It Like to Be a Bat? (1974)",
+  "kind": "related",
+  "note": "the felt qualities of experience"
+ },
+ {
+  "from": "qualia",
+  "to": "levine",
+  "from_title": "Qualia (1929–1982)",
+  "to_title": "The explanatory gap (1983)",
+  "kind": "builds",
+  "note": "the explanatory gap"
+ },
+ {
+  "from": "levine",
+  "to": "chalmers",
+  "from_title": "The explanatory gap (1983)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "builds",
+  "note": "from gap to hard problem"
+ },
+ {
+  "from": "leibniz",
+  "to": "chalmers",
+  "from_title": "Gottfried Wilhelm Leibniz (1714)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "builds",
+  "note": "the mill argument is the hard problem in 1714"
+ },
+ {
+  "from": "leibniz",
+  "to": "searle",
+  "from_title": "Gottfried Wilhelm Leibniz (1714)",
+  "to_title": "Searle: the Chinese room (1980)",
+  "kind": "related",
+  "note": "walking around inside the machine and finding no understanding"
+ },
+ {
+  "from": "chalmers",
+  "to": "panpsychism",
+  "from_title": "Chalmers: the hard problem (1995)",
+  "to_title": "Panpsychism (ancient roots; revived 2000s)",
+  "kind": "builds",
+  "note": "experience as fundamental"
+ },
+ {
+  "from": "mysterianism",
+  "to": "chalmers",
+  "from_title": "Mysterianism (1989)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "related",
+  "note": "mcginn had already argued we may be unable to solve it"
+ },
+ {
+  "from": "chalmers",
+  "to": "illusionism",
+  "from_title": "Chalmers: the hard problem (1995)",
+  "to_title": "Illusionism (2016)",
+  "kind": "against",
+  "note": "phenomenal consciousness is the illusion; the hard problem gives way to the 'illusion problem'"
+ },
+ {
+  "from": "dennett",
+  "to": "illusionism",
+  "from_title": "Daniel Dennett (1991)",
+  "to_title": "Illusionism (2016)",
+  "kind": "builds",
+  "note": "frankish names dennett's position"
+ },
+ {
+  "from": "dennett",
+  "to": "chalmers",
+  "from_title": "Daniel Dennett (1991)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "against",
+  "note": "chalmers answers 'consciousness explained'"
+ },
+ {
+  "from": "hofstadter",
+  "to": "dennett",
+  "from_title": "Hofstadter: strange loops (1979–2007)",
+  "to_title": "Daniel Dennett (1991)",
+  "kind": "related",
+  "note": "'the mind's i'"
+ },
+ {
+  "from": "goedel",
+  "to": "hofstadter",
+  "from_title": "Gödel's incompleteness theorems (1931)",
+  "to_title": "Hofstadter: strange loops (1979–2007)",
+  "kind": "builds",
+  "note": "self-reference as the root of the self"
+ },
+ {
+  "from": "goedel",
+  "to": "penrose",
+  "from_title": "Gödel's incompleteness theorems (1931)",
+  "to_title": "Penrose and Hameroff: quantum consciousness (1989–1994)",
+  "kind": "builds",
+  "note": "penrose's argument that minds are not algorithms"
+ },
+ {
+  "from": "quantumcomp",
+  "to": "penrose",
+  "from_title": "Quantum computing (1982)",
+  "to_title": "Penrose and Hameroff: quantum consciousness (1989–1994)",
+  "kind": "related",
+  "note": "quantum effects in the brain"
+ },
+ {
+  "from": "ncc",
+  "to": "iit",
+  "from_title": "Crick and Koch: neural correlates of consciousness (1990)",
+  "to_title": "Integrated Information Theory (2004)",
+  "kind": "builds",
+  "note": "koch became IIT's main advocate"
+ },
+ {
+  "from": "binding",
+  "to": "ncc",
+  "from_title": "The binding problem and neural synchrony (1980–1990)",
+  "to_title": "Crick and Koch: neural correlates of consciousness (1990)",
+  "kind": "builds",
+  "note": "40 hz synchrony as a correlate of consciousness"
+ },
+ {
+  "from": "iit",
+  "to": "aaronson",
+  "from_title": "Integrated Information Theory (2004)",
+  "to_title": "Scott Aaronson (2014)",
+  "kind": "against",
+  "note": "simple grids with huge phi"
+ },
+ {
+  "from": "iit",
+  "to": "tegmark",
+  "from_title": "Integrated Information Theory (2004)",
+  "to_title": "Max Tegmark (2014–2023)",
+  "kind": "builds",
+  "note": "consciousness as a state of matter"
+ },
+ {
+  "from": "panpsychism",
+  "to": "iit",
+  "from_title": "Panpsychism (ancient roots; revived 2000s)",
+  "to_title": "Integrated Information Theory (2004)",
+  "kind": "related",
+  "note": "IIT implies a form of panpsychism"
+ },
+ {
+  "from": "gwt",
+  "to": "bengio",
+  "from_title": "Global Workspace Theory (1988)",
+  "to_title": "Bengio: the consciousness prior (2017)",
+  "kind": "builds",
+  "note": "the consciousness prior"
+ },
+ {
+  "from": "gwt",
+  "to": "butlin",
+  "from_title": "Global Workspace Theory (1988)",
+  "to_title": "AI consciousness and welfare reports (2023–2024)",
+  "kind": "builds",
+  "note": "one of the checklist theories"
+ },
+ {
+  "from": "hot",
+  "to": "butlin",
+  "from_title": "Higher-order thought theory (1986)",
+  "to_title": "AI consciousness and welfare reports (2023–2024)",
+  "kind": "builds",
+  "note": "one of the checklist theories"
+ },
+ {
+  "from": "hot",
+  "to": "ast",
+  "from_title": "Higher-order thought theory (1986)",
+  "to_title": "Attention Schema Theory (2013)",
+  "kind": "related",
+  "note": "a model of one's own mental state"
+ },
+ {
+  "from": "minsky",
+  "to": "gwt",
+  "from_title": "Marvin Minsky (1956–1986)",
+  "to_title": "Global Workspace Theory (1988)",
+  "kind": "related",
+  "note": "many unconscious specialists"
+ },
+ {
+  "from": "freud",
+  "to": "kahneman",
+  "from_title": "Freud and psychoanalysis (1923)",
+  "to_title": "System 1 and System 2 (2011)",
+  "kind": "related",
+  "note": "most of the mind is not the conscious part"
+ },
+ {
+  "from": "haidt",
+  "to": "kahneman",
+  "from_title": "The rider and the elephant (2006)",
+  "to_title": "System 1 and System 2 (2011)",
+  "kind": "related",
+  "note": "rider and elephant, system 2 and system 1"
+ },
+ {
+  "from": "friston",
+  "to": "seth",
+  "from_title": "Predictive processing and the free energy principle (1999–2013)",
+  "to_title": "Anil Seth: biological naturalism (2021)",
+  "kind": "builds",
+  "note": "the 'beast machine': predicting one's own body"
+ },
+ {
+  "from": "damasio",
+  "to": "seth",
+  "from_title": "Antonio Damasio (1994)",
+  "to_title": "Anil Seth: biological naturalism (2021)",
+  "kind": "builds",
+  "note": "feeling grounded in body regulation"
+ },
+ {
+  "from": "james",
+  "to": "damasio",
+  "from_title": "William James: The Principles of Psychology (1890)",
+  "to_title": "Antonio Damasio (1994)",
+  "kind": "builds",
+  "note": "emotion as perception of the body"
+ },
+ {
+  "from": "friston",
+  "to": "fields",
+  "from_title": "Predictive processing and the free energy principle (1999–2013)",
+  "to_title": "Chris Fields (2012)",
+  "kind": "builds",
+  "note": "free energy applied to any bounded system"
+ },
+ {
+  "from": "fields",
+  "to": "levin",
+  "from_title": "Chris Fields (2012)",
+  "to_title": "Michael Levin: bioelectricity and collective intelligence (2019)",
+  "kind": "related",
+  "note": "frequent co-authors"
+ },
+ {
+  "from": "jaynes",
+  "to": "westworld",
+  "from_title": "Jaynes: the bicameral mind (1976)",
+  "to_title": "Westworld (2016)",
+  "kind": "builds",
+  "note": "the series borrows the bicameral mind"
+ },
+ {
+  "from": "idealism",
+  "to": "hoffman",
+  "from_title": "Idealism (1710 onward)",
+  "to_title": "Donald Hoffman: interface theory of perception (2015)",
+  "kind": "builds",
+  "note": "conscious agents as the base of reality"
+ },
+ {
+  "from": "metzinger",
+  "to": "illusionism",
+  "from_title": "Thomas Metzinger: Being No One (2003–2021)",
+  "to_title": "Illusionism (2016)",
+  "kind": "related",
+  "note": "nobody ever had a self"
+ },
+ {
+  "from": "piaget",
+  "to": "kegan",
+  "from_title": "Developmental stage theories (1936–1954)",
+  "to_title": "Kegan's stages of adult development (1982)",
+  "kind": "builds",
+  "note": "stages continue into adulthood"
+ },
+ {
+  "from": "huxley",
+  "to": "leary",
+  "from_title": "The Doors of Perception (1954)",
+  "to_title": "Timothy Leary and the eight-circuit model (1960s–1977)",
+  "kind": "builds",
+  "note": "psychedelics and the filtered mind"
+ },
+ {
+  "from": "pribram",
+  "to": "penrose",
+  "from_title": "Holonomic brain theory (1971)",
+  "to_title": "Penrose and Hameroff: quantum consciousness (1989–1994)",
+  "kind": "related",
+  "note": "non-classical physics in the brain"
+ },
+ {
+  "from": "embodied",
+  "to": "seth",
+  "from_title": "Embodied and enactive cognition (1927–2006)",
+  "to_title": "Anil Seth: biological naturalism (2021)",
+  "kind": "builds",
+  "note": "mind needs a living body"
+ },
+ {
+  "from": "matrix",
+  "to": "simulation",
+  "from_title": "The Matrix (1999)",
+  "to_title": "The simulation argument (2003)",
+  "kind": "related",
+  "note": "the popular image of a simulated world"
+ },
+ {
+  "from": "egan",
+  "to": "simulation",
+  "from_title": "Greg Egan (1994)",
+  "to_title": "The simulation argument (2003)",
+  "kind": "related",
+  "note": "minds running as software"
+ },
+ {
+  "from": "watts",
+  "to": "illusionism",
+  "from_title": "Peter Watts: Blindsight (2006)",
+  "to_title": "Illusionism (2016)",
+  "kind": "related",
+  "note": "intelligence without experience"
+ }
+]

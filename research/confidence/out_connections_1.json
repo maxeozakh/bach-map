@@ -1,0 +1,387 @@
+[
+ {
+  "from": "animism",
+  "to": "greekgods",
+  "verdict": "standard",
+  "url": "",
+  "note_out": "Source opened only says Greek religion kept animistic elements; the spirits-to-gods sequence is an older evolutionary scheme, not stated outright."
+ },
+ {
+  "from": "animism",
+  "to": "aristotle",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "No source found saying Aristotle's hylomorphic soul builds on animism; thematic parallel only."
+ },
+ {
+  "from": "plato",
+  "to": "aristotle",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Theory_of_forms",
+  "note_out": "Aristotle criticised the Forms and offered hylomorphic forms to salvage much of Plato's theory."
+ },
+ {
+  "from": "pythagoras",
+  "to": "plato",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Pythagoreanism",
+  "note_out": "Marked Pythagorean influence on Plato is stated; page adds that the world of forms itself is Platonic, not Pythagorean."
+ },
+ {
+  "from": "logos",
+  "to": "stoicism",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Logos",
+  "note_out": "Stoics: logos as active reason pervading and animating the universe."
+ },
+ {
+  "from": "logos",
+  "to": "christianity",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Logos",
+  "note_out": "Gospel of John identifies Christ as the incarnate Logos; John 1:1 quoted."
+ },
+ {
+  "from": "genesis",
+  "to": "christianity",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Old_Testament",
+  "note_out": "Old Testament is based primarily on the Hebrew Bible, with differences in order and contents."
+ },
+ {
+  "from": "aristotle",
+  "to": "aquinas",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+  "note_out": "Aquinas sought to synthesize Aristotelian philosophy with the principles of Christianity."
+ },
+ {
+  "from": "christianity",
+  "to": "aquinas",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+  "note_out": "Listed under Scholasticism; Summa is a guide to Catholic theology."
+ },
+ {
+  "from": "christianity",
+  "to": "descartes",
+  "verdict": "standard",
+  "url": "",
+  "note_out": "SEP Dualism traces Christian adoption of Platonic soul-dualism before Descartes but does not state the derivation explicitly."
+ },
+ {
+  "from": "descartes",
+  "to": "occasionalism",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Occasionalism",
+  "note_out": "Motivated by dualist mind-body problem; associated with Descartes' Cartesian followers, notably Malebranche. Doctrine itself is older (al-Ghazali)."
+ },
+ {
+  "from": "descartes",
+  "to": "leibniz",
+  "verdict": "documented",
+  "url": "https://plato.stanford.edu/entries/leibniz-mind/",
+  "note_out": "Leibniz opposed Cartesian substance dualism and found Descartes' interactionism unintelligible."
+ },
+ {
+  "from": "descartes",
+  "to": "lamettrie",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Man_a_Machine",
+  "note_out": "Extends Descartes' animal-automaton argument to humans and denies a separate soul; so it both builds on and opposes Descartes."
+ },
+ {
+  "from": "descartes",
+  "to": "empiricism",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Innatism",
+  "note_out": "Innatism tied to Descartes; Locke is named the main antagonist of innate ideas."
+ },
+ {
+  "from": "empiricism",
+  "to": "idealism",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Empiricism",
+  "note_out": "Berkeley responded to Locke; his approach to empiricism was later called subjective idealism."
+ },
+ {
+  "from": "empiricism",
+  "to": "kant",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+  "note_out": "Kant credited Hume with awakening him from a dogmatic slumber, then countered Hume's empiricism."
+ },
+ {
+  "from": "leibniz",
+  "to": "kant",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+  "note_out": "Kant studied Leibniz and Wolff, then criticised Leibnizian-Wolffian rationalism; so partly against as well as builds."
+ },
+ {
+  "from": "enlightenment",
+  "to": "kant",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/What_Is_Enlightenment%3F",
+  "note_out": "Kant's 1784 essay: 'Sapere aude' as the motto of enlightenment."
+ },
+ {
+  "from": "enlightenment",
+  "to": "utilitarianism",
+  "verdict": "standard",
+  "url": "",
+  "note_out": "Bentham's cited influences (Helvetius, Beccaria, Hume) are Enlightenment figures, but no opened page states the link in these words."
+ },
+ {
+  "from": "kant",
+  "to": "hegel",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/German_idealism",
+  "note_out": "Hegel and others after Kant built upon and challenged Kant's work."
+ },
+ {
+  "from": "idealism",
+  "to": "hegel",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/German_idealism",
+  "note_out": "Hegel's absolute idealism; Spirit comes to fully comprehend its own freedom."
+ },
+ {
+  "from": "darwin",
+  "to": "dawkins",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/The_Selfish_Gene",
+  "note_out": "Proponents say it completes and extends Darwin; Mayr called the gene-as-object view non-Darwinian."
+ },
+ {
+  "from": "darwin",
+  "to": "groupsel",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Group_selection",
+  "note_out": "Darwin made the first suggestion of group selection in The Descent of Man."
+ },
+ {
+  "from": "darwin",
+  "to": "edelman",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Neural_Darwinism",
+  "note_out": "Named after Darwin; selectionist theory of neuronal groups."
+ },
+ {
+  "from": "celltheory",
+  "to": "levin",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "No source found tying Levin's work to cell theory; cell theory does not treat cells as cooperating agents."
+ },
+ {
+  "from": "dubois",
+  "to": "mysterianism",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "Thematic parallel; pages opened name Leibniz and Huxley as precursors, not du Bois-Reymond. No influence shown."
+ },
+ {
+  "from": "epiphenomenalism",
+  "to": "chalmers",
+  "verdict": "documented",
+  "url": "https://plato.stanford.edu/entries/epiphenomenalism/",
+  "note_out": "SEP's epiphenomenalism entry discusses Chalmers 1996 and the hard problem."
+ },
+ {
+  "from": "brentano",
+  "to": "husserl",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Franz_Brentano",
+  "note_out": "Brentano's intentionality and descriptive psychology were inherited and developed by Husserl's phenomenology."
+ },
+ {
+  "from": "brentano",
+  "to": "freud",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Franz_Brentano",
+  "note_out": "Freud is listed among Brentano's students at Vienna."
+ },
+ {
+  "from": "wundt",
+  "to": "james",
+  "verdict": "standard",
+  "url": "",
+  "note_out": "Pages opened name Wundt as founder of experimental psychology and James teaching it from 1875, but do not link them directly."
+ },
+ {
+  "from": "wundt",
+  "to": "skinner",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Introspection",
+  "note_out": "Behaviorism rejected introspection; page warns Wundt's own view is often misread, and Skinner's radical behaviorism treated introspection as behavior."
+ },
+ {
+  "from": "kant",
+  "to": "husserl",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Edmund_Husserl",
+  "note_out": "Kant influenced Husserl, who recast phenomenology as transcendental idealism."
+ },
+ {
+  "from": "husserl",
+  "to": "embodied",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Embodied_cognition",
+  "note_out": "Husserl, Heidegger and Merleau-Ponty named as inspiration for the embodiment thesis."
+ },
+ {
+  "from": "cantor",
+  "to": "russell",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Russell%27s_paradox",
+  "note_out": "Russell found the paradox while examining Cantor's proof that there is no greatest cardinal."
+ },
+ {
+  "from": "frege",
+  "to": "russell",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Russell%27s_paradox",
+  "note_out": "Russell wrote to Frege in 1902 showing the paradox in Frege's system."
+ },
+ {
+  "from": "frege",
+  "to": "wittgenstein",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+  "note_out": "Wittgenstein read Frege, visited him in 1911; Frege sent him to Russell. The note's wording is a gloss."
+ },
+ {
+  "from": "russell",
+  "to": "wittgenstein",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+  "note_out": "Studied at Cambridge under Russell, 1911-1913."
+ },
+ {
+  "from": "peano",
+  "to": "goedel",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems",
+  "note_out": "Theorems apply to systems containing enough arithmetic, with Peano arithmetic the standard example."
+ },
+ {
+  "from": "russell",
+  "to": "goedel",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems",
+  "note_out": "Goedel's 1931 paper demonstrated the incompleteness of the system of Principia Mathematica."
+ },
+ {
+  "from": "hilbert",
+  "to": "goedel",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems",
+  "note_out": "Theorems are interpreted as showing Hilbert's program is impossible."
+ },
+ {
+  "from": "cantor",
+  "to": "brouwer",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Intuitionism",
+  "note_out": "Intuitionism created partly in reaction to Cantor's set theory; Brouwer rejected actual infinity."
+ },
+ {
+  "from": "brouwer",
+  "to": "hilbert",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Brouwer%E2%80%93Hilbert_controversy",
+  "note_out": "Brouwer's intuitionism opposed Hilbert's formalism."
+ },
+ {
+  "from": "frege",
+  "to": "tarski",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "SEP's Tarski and Tarski-truth entries do not mention Frege; any influence is indirect."
+ },
+ {
+  "from": "leibniz",
+  "to": "frege",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Begriffsschrift",
+  "note_out": "Frege's motivation resembled Leibniz's calculus ratiocinator; Frege denied having achieved that aim."
+ },
+ {
+  "from": "goedel",
+  "to": "turing",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "note_out": "Turing worked on decidability starting from Goedel's incompleteness theorems."
+ },
+ {
+  "from": "hilbert",
+  "to": "turing",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Turing%27s_proof",
+  "note_out": "Turing's 1936 paper negatively answered Hilbert's Entscheidungsproblem, shortly after Church."
+ },
+ {
+  "from": "lambda",
+  "to": "turing",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis",
+  "note_out": "Lambda-definable, general recursive and Turing-computable functions are equivalent."
+ },
+ {
+  "from": "lambda",
+  "to": "sicp",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Scheme_(programming_language)",
+  "note_out": "Scheme has lambda calculus at its core and is the language used with SICP."
+ },
+ {
+  "from": "turing",
+  "to": "vonneumann",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Von_Neumann_architecture",
+  "note_out": "Von Neumann credited the fundamental conception to Turing; Eckert and Mauchly were unaware of Turing's work."
+ },
+ {
+  "from": "turing",
+  "to": "morpho",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+  "note_out": "Turing turned to mathematical biology in 1951 and published the paper in 1952."
+ },
+ {
+  "from": "turing",
+  "to": "dartmouth",
+  "verdict": "standard",
+  "url": "",
+  "note_out": "History pages present Turing's 1950 paper as a precursor to the 1956 founding, but do not state that the workshop drew on it."
+ },
+ {
+  "from": "turing",
+  "to": "hypercomputation",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Hypercomputation",
+  "note_out": "Models computing non-Turing-computable functions; Turing's own 1938 oracle machines were the first."
+ },
+ {
+  "from": "turing",
+  "to": "quantumcomp",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note_out": "Quantum computers add no computability power and can be simulated by a Turing machine."
+ },
+ {
+  "from": "shannon",
+  "to": "solomonoff",
+  "verdict": "standard",
+  "url": "",
+  "note_out": "Algorithmic information theory, founded by Solomonoff, is described as Shannon plus Turing; no page ties Solomonoff induction itself to Shannon."
+ },
+ {
+  "from": "shannon",
+  "to": "dartmouth",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Dartmouth_workshop",
+  "note_out": "Shannon was one of the four organizers and proposal authors."
+ }
+]

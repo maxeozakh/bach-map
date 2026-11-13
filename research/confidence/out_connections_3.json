@@ -1,0 +1,387 @@
+[
+ {
+  "from": "singularity",
+  "to": "airisk",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Technological_singularity",
+  "note_out": "Page ties the intelligence explosion to existential risk and AI-alignment research (MIRI, FHI)."
+ },
+ {
+  "from": "lamettrie",
+  "to": "physicalism",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Man_a_Machine",
+  "note_out": "Described as a work of materialist philosophy; La Mettrie is part of the tradition rather than a source of modern physicalism."
+ },
+ {
+  "from": "physicalism",
+  "to": "functionalism",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "SEP: functionalism is officially neutral between materialism and dualism, though attractive to materialists; arose as an alternative to identity theory. 'Builds' is a judgement."
+ },
+ {
+  "from": "turing",
+  "to": "functionalism",
+  "verdict": "documented",
+  "url": "https://plato.stanford.edu/entries/functionalism/",
+  "note_out": "Turing machines inspired Putnam's machine functionalism; sources do not derive multiple realisability from universal computation specifically."
+ },
+ {
+  "from": "functionalism",
+  "to": "searle",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Chinese_room",
+  "note_out": "Argument is explicitly directed against functionalism and computationalism."
+ },
+ {
+  "from": "functionalism",
+  "to": "block",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind)",
+  "note_out": "Block's China brain and inverted qualia objections; this is his 1978 work, not the 1995 access/phenomenal paper."
+ },
+ {
+  "from": "functionalism",
+  "to": "dennett",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Daniel_Dennett",
+  "note_out": "Dennett calls himself a 'teleofunctionalist' in Consciousness Explained."
+ },
+ {
+  "from": "functionalism",
+  "to": "chalmers",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+  "note_out": "Functional explanation leaves experience unexplained; Chalmers targets reductive functionalism only."
+ },
+ {
+  "from": "functionalism",
+  "to": "thagard",
+  "verdict": "documented",
+  "url": "https://www.cambridge.org/core/journals/philosophy-of-science/article/energy-requirements-undermine-substrate-independence-and-mindbody-functionalism/2BB3C2353EFF80F9D5805CDCEA8C3C89",
+  "note_out": "Paper's title and abstract state it; Thagard says substrate independence fails in important real cases, not always."
+ },
+ {
+  "from": "functionalism",
+  "to": "seth",
+  "verdict": "documented",
+  "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520",
+  "note_out": "Seth challenges computational functionalism and argues consciousness depends on our nature as living organisms."
+ },
+ {
+  "from": "functionalism",
+  "to": "lerchner",
+  "verdict": "documented",
+  "url": "https://deepmind.google/research/publications/231971/",
+  "note_out": "Abstract offers a 'physically grounded refutation of computational functionalism'."
+ },
+ {
+  "from": "functionalism",
+  "to": "chirimuuta",
+  "verdict": "documented",
+  "url": "https://philosophymindscience.org/index.php/phimisci/article/download/12280/12401?inline=1",
+  "note_out": "Symposium paper: Chirimuuta argues against the literal interpretation of computational models; target is computationalism in neuroscience more than functionalism generally."
+ },
+ {
+  "from": "searle",
+  "to": "seth",
+  "verdict": "documented",
+  "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520",
+  "note_out": "Seth credits Searle with biological naturalism but says he uses the term in a slightly different way."
+ },
+ {
+  "from": "nagel",
+  "to": "chalmers",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+  "note_out": "Chalmers uses Nagel's 'what it is like' definition of consciousness."
+ },
+ {
+  "from": "qualia",
+  "to": "nagel",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Qualia",
+  "note_out": "Nagel's paper is often cited in qualia debates, though it does not use the word 'qualia'."
+ },
+ {
+  "from": "qualia",
+  "to": "levine",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Qualia",
+  "note_out": "Levine's explanatory gap argument is presented as an argument about qualia."
+ },
+ {
+  "from": "levine",
+  "to": "chalmers",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Explanatory_gap",
+  "note_out": "Bridging the explanatory gap 'is known as the hard problem'."
+ },
+ {
+  "from": "leibniz",
+  "to": "chalmers",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "Sources name Leibniz's mill as a precursor of the hard problem; none says Chalmers drew on it. 'Related' would be documented."
+ },
+ {
+  "from": "leibniz",
+  "to": "searle",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Chinese_room",
+  "note_out": "Leibniz's mill is listed as a precursor argument to the Chinese room."
+ },
+ {
+  "from": "chalmers",
+  "to": "panpsychism",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Panpsychism",
+  "note_out": "Interest in the hard problem revived panpsychism; Chalmers himself explored it."
+ },
+ {
+  "from": "mysterianism",
+  "to": "chalmers",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+  "note_out": "New mysterianism (McGinn) is treated as one response to the hard problem."
+ },
+ {
+  "from": "chalmers",
+  "to": "illusionism",
+  "verdict": "documented",
+  "url": "https://keithfrankish.github.io/articles/Frankish_2016_Illusionism_as_a_theory_of_consciousness_eprint.pdf",
+  "note_out": "Frankish: 'the hard problem is replaced by the illusion problem'."
+ },
+ {
+  "from": "dennett",
+  "to": "illusionism",
+  "verdict": "documented",
+  "url": "https://keithfrankish.github.io/articles/Frankish_2016_Illusionism_as_a_theory_of_consciousness_eprint.pdf",
+  "note_out": "Frankish coins the term and names Dennett as illusionism's pre-eminent defender."
+ },
+ {
+  "from": "dennett",
+  "to": "chalmers",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Consciousness_Explained",
+  "note_out": "In The Conscious Mind (1996) Chalmers calls Dennett's position a denial of consciousness."
+ },
+ {
+  "from": "hofstadter",
+  "to": "dennett",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Daniel_Dennett",
+  "note_out": "They co-edited The Mind's I (1981)."
+ },
+ {
+  "from": "goedel",
+  "to": "hofstadter",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Douglas_Hofstadter",
+  "note_out": "Gödel's self-referential construction is Hofstadter's prototypical strange loop."
+ },
+ {
+  "from": "goedel",
+  "to": "penrose",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Orchestrated_objective_reduction",
+  "note_out": "Penrose argued from Gödel's theorem to non-computability of mind; the argument is widely criticised."
+ },
+ {
+  "from": "quantumcomp",
+  "to": "penrose",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Quantum_mind",
+  "note_out": "Penrose and Hameroff section discusses quantum coherence in microtubules and includes a quote contrasting them with nerve signals as quantum-computer material."
+ },
+ {
+  "from": "ncc",
+  "to": "iit",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Christof_Koch",
+  "note_out": "Link is biographical: Koch moved from NCC work with Crick to collaborating with Tononi. IIT itself did not grow out of NCC research."
+ },
+ {
+  "from": "binding",
+  "to": "ncc",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Gamma_wave",
+  "note_out": "Crick and Koch (1990) tied binding to visual awareness via synchronous 40 Hz oscillations."
+ },
+ {
+  "from": "iit",
+  "to": "aaronson",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Integrated_information_theory",
+  "note_out": "Aaronson showed simple arrangements of logic gates would have unboundedly high phi."
+ },
+ {
+  "from": "iit",
+  "to": "tegmark",
+  "verdict": "documented",
+  "url": "https://arxiv.org/abs/1401.1219",
+  "note_out": "Abstract: the approach 'generalizes Giulio Tononi's integrated information framework' to arbitrary quantum systems."
+ },
+ {
+  "from": "panpsychism",
+  "to": "iit",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Panpsychism",
+  "note_out": "Chalmers and Searle consider IIT a form of panpsychism; Tononi and Koch accept only some elements."
+ },
+ {
+  "from": "gwt",
+  "to": "bengio",
+  "verdict": "documented",
+  "url": "https://arxiv.org/abs/1709.08568",
+  "note_out": "Paper says the prior is inspired by and anchored on global workspace theory."
+ },
+ {
+  "from": "gwt",
+  "to": "butlin",
+  "verdict": "documented",
+  "url": "https://arxiv.org/abs/2308.08708",
+  "note_out": "Global workspace theory is one of the theories from which indicator properties are derived."
+ },
+ {
+  "from": "hot",
+  "to": "butlin",
+  "verdict": "documented",
+  "url": "https://arxiv.org/abs/2308.08708",
+  "note_out": "Computational higher-order theories are among the theories surveyed."
+ },
+ {
+  "from": "hot",
+  "to": "ast",
+  "verdict": "documented",
+  "url": "https://grazianolab.princeton.edu/sites/g/files/toruqf3411/files/graziano_review_2020.pdf",
+  "note_out": "Graziano et al. argue AST and HOT are interlocking perspectives on the same mechanism."
+ },
+ {
+  "from": "minsky",
+  "to": "gwt",
+  "verdict": "standard",
+  "url": "",
+  "note_out": "Baars describes the brain in GWT as a 'society of mind' (Minsky's phrase) without naming Minsky; no page states the link outright."
+ },
+ {
+  "from": "freud",
+  "to": "kahneman",
+  "verdict": "documented",
+  "url": "https://psyche.co/ideas/the-id-and-the-nudge-where-freud-meets-behavioural-economics",
+  "note_out": "Essay compares both dual-process views and notes Kahneman studied Freud; Freud's repressed unconscious differs from System 1."
+ },
+ {
+  "from": "haidt",
+  "to": "kahneman",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Jonathan_Haidt",
+  "note_out": "Page says the rider and elephant metaphor corresponds to Systems 2 and 1."
+ },
+ {
+  "from": "friston",
+  "to": "seth",
+  "verdict": "documented",
+  "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520",
+  "note_out": "Seth builds his case on predictive processing and the free energy principle; 'beast machines' phrase is used."
+ },
+ {
+  "from": "damasio",
+  "to": "seth",
+  "verdict": "documented",
+  "url": "https://www.cell.com/cognitive-sciences/fulltext/S1364-6613(13)00211-8",
+  "note_out": "Seth (2013) says his model is related to Damasio's, both grounding selfhood in physiological condition; his adds top-down inference."
+ },
+ {
+  "from": "james",
+  "to": "damasio",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Antonio_Damasio",
+  "note_out": "Damasio 'recovered William James' perspective on feelings as a read-out of body states' and expanded it."
+ },
+ {
+  "from": "friston",
+  "to": "fields",
+  "verdict": "documented",
+  "url": "https://arxiv.org/abs/2112.15242",
+  "note_out": "Fields, Friston, Glazebrook and Levin reformulate the free energy principle for generic quantum systems (2022, later than the point's 2012 date)."
+ },
+ {
+  "from": "fields",
+  "to": "levin",
+  "verdict": "documented",
+  "url": "https://drmichaellevin.org/publications/",
+  "note_out": "Levin's publication list shows more than a dozen Fields and Levin papers since 2018."
+ },
+ {
+  "from": "jaynes",
+  "to": "westworld",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Bicameral_mentality",
+  "note_out": "The concept played a central role in Westworld; season 1 finale is titled 'The Bicameral Mind'."
+ },
+ {
+  "from": "idealism",
+  "to": "hoffman",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "Commentators read conscious realism as idealism, but Hoffman writes that his interface theory 'is not idealism' and distances conscious realism from Kant."
+ },
+ {
+  "from": "metzinger",
+  "to": "illusionism",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "Metzinger's claim concerns the self, not phenomenal properties; Frankish's founding paper does not discuss him. Thematic parallel only."
+ },
+ {
+  "from": "piaget",
+  "to": "kegan",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Robert_Kegan",
+  "note_out": "Kegan places his work in the constructive-developmental tradition that includes Piaget."
+ },
+ {
+  "from": "huxley",
+  "to": "leary",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/The_Doors_of_Perception",
+  "note_out": "Leary read the book in 1960 and then met Huxley; the specific 'filtered mind' idea in Leary is not sourced."
+ },
+ {
+  "from": "pribram",
+  "to": "penrose",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Quantum_mind",
+  "note_out": "Both appear as separate quantum approaches to mind on the same page; no influence between them is claimed."
+ },
+ {
+  "from": "embodied",
+  "to": "seth",
+  "verdict": "documented",
+  "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520",
+  "note_out": "Seth draws on autopoiesis (Maturana and Varela) and cites enactive and 4E work as allied to his view."
+ },
+ {
+  "from": "matrix",
+  "to": "simulation",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Simulation_hypothesis",
+  "note_out": "The Matrix popularised the idea of humans unknowingly living in a machine-generated reality."
+ },
+ {
+  "from": "egan",
+  "to": "simulation",
+  "verdict": "documented",
+  "url": "https://www.newyorker.com/books/joshua-rothman/what-are-the-odds-we-are-living-in-a-computer-simulation",
+  "note_out": "Article on the simulation argument discusses Permutation City as an exploration of living as a copy in a simulated world."
+ },
+ {
+  "from": "watts",
+  "to": "illusionism",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "Blindsight treats consciousness as real but dispensable, which differs from illusionism; Watts's own notes cite Metzinger, and the novel predates the term."
+ }
+]

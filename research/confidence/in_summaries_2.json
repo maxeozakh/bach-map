@@ -1,0 +1,434 @@
+[
+ {
+  "id": "husserl",
+  "facet": "",
+  "title": "Phenomenology",
+  "years": "1913",
+  "by": "Edmund Husserl",
+  "summary": "Husserl proposed studying experience exactly as it is given. Each act of consciousness (noesis) is directed at an object as it is meant (noema), and philosophy should 'bracket' the taken-for-granted existence of the outside world (epoché) to describe how things appear."
+ },
+ {
+  "id": "hilbert",
+  "facet": "",
+  "title": "Hilbert's programme",
+  "years": "1920s",
+  "by": "David Hilbert",
+  "summary": "Hilbert asked mathematicians to put all of mathematics into one formal axiom system and to prove, using only simple finite reasoning, that the system is consistent; he expected it also to be complete, so that every true statement could be derived."
+ },
+ {
+  "id": "wittgenstein",
+  "facet": "Wittgenstein",
+  "title": "Ludwig Wittgenstein",
+  "years": "1921–1953",
+  "by": null,
+  "summary": "Austrian philosopher. His early work tried to define exactly what can be said in a logical language; his later work argued that meaning comes from how language is used in life."
+ },
+ {
+  "id": "wittgenstein",
+  "facet": "Tractatus Logico-Philosophicus",
+  "title": "Ludwig Wittgenstein",
+  "years": "1921–1953",
+  "by": "Ludwig Wittgenstein",
+  "summary": "A short, austere book claiming that the world is the totality of facts, that language mirrors facts through logical form, and that what can be said at all can be said clearly, and what cannot be spoken of must be passed over in silence. Wittgenstein wrote it largely in the trenches of the First World War and later rejected much of it."
+ },
+ {
+  "id": "wittgenstein",
+  "facet": "Philosophical Investigations",
+  "title": "Ludwig Wittgenstein",
+  "years": "1921–1953",
+  "by": "Ludwig Wittgenstein",
+  "summary": "Wittgenstein's later work, which abandons the idea of one exact logical language. Meaning comes from how words are used in many overlapping 'language games'."
+ },
+ {
+  "id": "freud",
+  "facet": "",
+  "title": "Freud and psychoanalysis",
+  "years": "1923",
+  "by": "Sigmund Freud",
+  "summary": "Freud pictured the mind as three agencies: the id (drives), the ego (the self that negotiates with reality) and the superego (internalised rules). Psychoanalysis interprets behaviour as the outcome of their conflicts."
+ },
+ {
+  "id": "qualia",
+  "facet": "Qualia",
+  "title": "Qualia",
+  "years": "1929–1982",
+  "by": "C. I. Lewis (term)",
+  "summary": "The 'what it is like' qualities of experience: the redness of red, the painfulness of pain. Many philosophers think they resist physical explanation."
+ },
+ {
+  "id": "qualia",
+  "facet": "Mary's room (Epiphenomenal Qualia)",
+  "title": "Qualia",
+  "years": "1929–1982",
+  "by": "Frank Jackson",
+  "summary": "The 'Mary' argument. A scientist who knows all the physical facts about colour but has never seen colour seems to learn something new when she first sees red, which Jackson took to show that physical facts are not all the facts."
+ },
+ {
+  "id": "goedel",
+  "facet": "",
+  "title": "Gödel's incompleteness theorems",
+  "years": "1931",
+  "by": "Kurt Gödel",
+  "summary": "Gödel proved that any consistent formal system rich enough to do arithmetic contains true statements it cannot prove, and cannot prove its own consistency. He did it by encoding statements about the system as numbers inside the system."
+ },
+ {
+  "id": "tarski",
+  "facet": "",
+  "title": "Alfred Tarski",
+  "years": "1933",
+  "by": null,
+  "summary": "Polish logician who gave the standard formal definition of truth for logical languages and put semantics on a rigorous footing."
+ },
+ {
+  "id": "turing",
+  "facet": "Alan Turing",
+  "title": "Alan Turing and computability",
+  "years": "1936–1950",
+  "by": null,
+  "summary": "English mathematician who defined computation with his abstract machine, helped found AI with the 1950 imitation-game paper, and late in life modelled how chemical patterns form in biology. During the Second World War he led the Bletchley Park section that broke German naval Enigma and designed the Bombe machine used to do it."
+ },
+ {
+  "id": "turing",
+  "facet": "Church–Turing thesis",
+  "title": "Alan Turing and computability",
+  "years": "1936–1950",
+  "by": "Alonzo Church; Alan Turing",
+  "summary": "Everything that can be effectively computed can be computed by a Turing machine, so all sufficiently powerful computers are equivalent in what they can compute. It is a thesis rather than a theorem, because 'effectively computable' is an informal notion."
+ },
+ {
+  "id": "turing",
+  "facet": "The Turing machine",
+  "title": "Alan Turing and computability",
+  "years": "1936–1950",
+  "by": "Alan Turing",
+  "summary": "An imaginary device with a tape, a read-write head and a table of rules. Despite its simplicity it can carry out any calculation that any computer can, which makes it the standard definition of computation."
+ },
+ {
+  "id": "turing",
+  "facet": "Halting problem",
+  "title": "Alan Turing and computability",
+  "years": "1936–1950",
+  "by": "Alan Turing",
+  "summary": "Turing showed that no general procedure can decide, for every program, whether it will eventually stop or run forever. Some well-posed questions therefore have no computable answer."
+ },
+ {
+  "id": "turing",
+  "facet": "Post machine",
+  "title": "Alan Turing and computability",
+  "years": "1936–1950",
+  "by": "Emil Post",
+  "summary": "A model of computation proposed by Emil Post in the same year as Turing's, built from very simple instructions on a tape of marked and unmarked boxes."
+ },
+ {
+  "id": "turing",
+  "facet": "Computing Machinery and Intelligence (the Turing test)",
+  "title": "Alan Turing and computability",
+  "years": "1936–1950",
+  "by": "Alan Turing",
+  "summary": "The paper that asks 'Can machines think?' and replaces the question with an imitation game, later called the Turing test: if a machine can hold a conversation indistinguishable from a human's, we should grant it intelligence. It also answers a list of objections, including one from telepathy."
+ },
+ {
+  "id": "lambda",
+  "facet": "Lambda calculus",
+  "title": "Lambda calculus and combinators",
+  "years": "1924–1936",
+  "by": "Alonzo Church",
+  "summary": "Different formal definitions of what it means to compute (Turing's machines, Church's lambda calculus, Schönfinkel's combinators) turned out to be equivalent. The Church-Turing thesis says they capture everything that can be computed at all."
+ },
+ {
+  "id": "lambda",
+  "facet": "Moses Schönfinkel",
+  "title": "Lambda calculus and combinators",
+  "years": "1924–1936",
+  "by": null,
+  "summary": "Logician who invented combinatory logic, showing that all functions can be built from a couple of basic combinators, a precursor of the lambda calculus and functional programming."
+ },
+ {
+  "id": "skinner",
+  "facet": "",
+  "title": "Behaviorism",
+  "years": "1938",
+  "by": "B. F. Skinner",
+  "summary": "The school that restricted psychology to observable behaviour and treated talk of inner mental representations as unscientific. Skinner explained behaviour through its consequences: actions that are reinforced become more frequent."
+ },
+ {
+  "id": "maslow",
+  "facet": "",
+  "title": "Maslow: A Theory of Human Motivation",
+  "years": "1943",
+  "by": "Abraham Maslow",
+  "summary": "Maslow's ranking of human needs, from bodily needs up to self-fulfilment."
+ },
+ {
+  "id": "mcculloch",
+  "facet": "",
+  "title": "McCulloch–Pitts neurons",
+  "years": "1943",
+  "by": "McCulloch & Pitts; Rumelhart & McClelland",
+  "summary": "McCulloch and Pitts showed in 1943 that networks of simple threshold units can compute logical functions. In 1986 Rumelhart and McClelland's 'Parallel Distributed Processing' revived neural networks as models of cognition."
+ },
+ {
+  "id": "schroedinger",
+  "facet": "",
+  "title": "Schrödinger: life as negentropy",
+  "years": "1944",
+  "by": "Erwin Schrödinger",
+  "summary": "In 'What is Life?' Schrödinger suggested that organisms stay ordered by feeding on 'negative entropy': they export disorder to their environment."
+ },
+ {
+  "id": "vonneumann",
+  "facet": "John von Neumann",
+  "title": "John von Neumann and the first computers",
+  "years": "1837–1956",
+  "by": null,
+  "summary": "Hungarian-American polymath who shaped game theory, quantum mechanics and the stored-program computer architecture that bears his name. He also designed self-reproducing automata, an early formal model of life."
+ },
+ {
+  "id": "vonneumann",
+  "facet": "Babbage, Zuse, von Neumann",
+  "title": "John von Neumann and the first computers",
+  "years": "1837–1956",
+  "by": null,
+  "summary": "Babbage designed a mechanical general-purpose computer in the 1830s; Zuse built the first working programmable computers in Germany around 1941; von Neumann defined the stored-program architecture still used today."
+ },
+ {
+  "id": "vonneumann",
+  "facet": "Reliable organisms from unreliable components",
+  "title": "John von Neumann and the first computers",
+  "years": "1837–1956",
+  "by": "John von Neumann",
+  "summary": "Showed how to build reliable computation out of noisy, failure-prone parts by using redundancy."
+ },
+ {
+  "id": "shannon",
+  "facet": "Information theory",
+  "title": "Claude Shannon and information theory",
+  "years": "1948–1950",
+  "by": "Claude Shannon",
+  "summary": "Shannon defined information as reduction of uncertainty, measurable in bits, and showed how much of it can be sent over a noisy channel."
+ },
+ {
+  "id": "shannon",
+  "facet": "Computer chess",
+  "title": "Claude Shannon and information theory",
+  "years": "1948–1950",
+  "by": "Claude Shannon",
+  "summary": "Shannon's paper 'Programming a Computer for Playing Chess' distinguished between searching all moves to a fixed depth and selectively exploring promising lines."
+ },
+ {
+  "id": "cybernetics",
+  "facet": "Cybernetics",
+  "title": "Cybernetics",
+  "years": "1948",
+  "by": "Norbert Wiener and others",
+  "summary": "The mid-century science of control and feedback in animals and machines, which grew out of control engineering and fed into systems theory and neural networks. Norbert Wiener named it in 1948; its core idea is that purposeful behaviour comes from feedback loops."
+ },
+ {
+  "id": "cybernetics",
+  "facet": "Project Cybersyn",
+  "title": "Cybernetics",
+  "years": "1948",
+  "by": "Stafford Beer",
+  "summary": "Under President Allende, Chile tried to steer its nationalised economy in real time using telex data, computer models and a futuristic operations room. The 1973 coup ended it."
+ },
+ {
+  "id": "physicalism",
+  "facet": "Physicalism",
+  "title": "Materialism and physicalism",
+  "years": "ancient; modern form 20th c.",
+  "by": null,
+  "summary": "The thesis that everything that exists is physical or depends on the physical, with no extra mental or supernatural ingredients. It is the default position in most of contemporary science and analytic philosophy."
+ },
+ {
+  "id": "physicalism",
+  "facet": "Direct realism",
+  "title": "Materialism and physicalism",
+  "years": "ancient; modern form 20th c.",
+  "by": null,
+  "summary": "The philosophical position that we perceive the world itself, roughly as it is, rather than an internal representation of it."
+ },
+ {
+  "id": "morpho",
+  "facet": "",
+  "title": "Turing's morphogenesis",
+  "years": "1952",
+  "by": "Alan Turing",
+  "summary": "Turing showed that interacting chemicals that diffuse at different rates spontaneously form spots and stripes. Neural cellular automata are a modern descendant: grids of identical cells that learn local rules to grow and repair a pattern."
+ },
+ {
+  "id": "piaget",
+  "facet": "",
+  "title": "Developmental stage theories",
+  "years": "1936–1954",
+  "by": "Jean Piaget",
+  "summary": "Theories that describe mental growth as a series of stages: Piaget for children's thinking, Loevinger for ego development, Kohlberg for moral reasoning."
+ },
+ {
+  "id": "huxley",
+  "facet": "",
+  "title": "The Doors of Perception",
+  "years": "1954",
+  "by": "Aldous Huxley",
+  "summary": "Huxley's report of taking mescaline, in which he suggests the brain normally filters a much wider field of awareness."
+ },
+ {
+  "id": "dartmouth",
+  "facet": "The Dartmouth workshop",
+  "title": "The founding of AI",
+  "years": "1956",
+  "by": "McCarthy, Minsky, Rochester, Shannon",
+  "summary": "The 1956 summer meeting at Dartmouth College where the term 'artificial intelligence' was adopted and the field was founded on the bet that every aspect of intelligence can be described precisely enough for a machine to simulate it."
+ },
+ {
+  "id": "dartmouth",
+  "facet": "John McCarthy",
+  "title": "The founding of AI",
+  "years": "1956",
+  "by": "John McCarthy",
+  "summary": "Computer scientist who coined the term 'artificial intelligence', organised the 1956 Dartmouth workshop and invented Lisp. He championed formal logic as the language in which machines should represent knowledge."
+ },
+ {
+  "id": "mountcastle",
+  "facet": "",
+  "title": "Cortical columns",
+  "years": "1957",
+  "by": "Vernon Mountcastle",
+  "summary": "The neocortex appears to be built from repeating vertical circuits: minicolumns of about a hundred neurons, bundled into larger columns. Mountcastle proposed that these columns are the cortex's basic, general-purpose computing unit."
+ },
+ {
+  "id": "everett",
+  "facet": "",
+  "title": "Many-worlds interpretation",
+  "years": "1957",
+  "by": "Hugh Everett III",
+  "summary": "The reading of quantum mechanics in which the wave function never collapses; every possible outcome happens in a separate branch of the universe. Hugh Everett proposed it in 1957; observers split along with everything else, so each copy sees a single outcome."
+ },
+ {
+  "id": "minsky",
+  "facet": "Marvin Minsky",
+  "title": "Marvin Minsky",
+  "years": "1956–1986",
+  "by": null,
+  "summary": "Co-founder of the field of artificial intelligence at MIT. In 'The Society of Mind' (1986) and 'The Emotion Machine' (2006) he described the mind as a large crowd of simple cooperating processes, with no single principle behind it."
+ },
+ {
+  "id": "minsky",
+  "facet": "The Society of Mind",
+  "title": "Marvin Minsky",
+  "years": "1956–1986",
+  "by": "Marvin Minsky",
+  "summary": "Minsky's picture of the mind as a crowd of simple, mindless agents whose interactions add up to intelligence. The book is written as hundreds of one-page essays, each describing one piece of the machinery."
+ },
+ {
+  "id": "minsky",
+  "facet": "Perceptrons",
+  "title": "Marvin Minsky",
+  "years": "1956–1986",
+  "by": "Marvin Minsky; Seymour Papert",
+  "summary": "A mathematical analysis showing that single-layer neural networks cannot learn certain simple functions. It was widely read as proof that neural networks were a dead end, and funding dried up for over a decade."
+ },
+ {
+  "id": "chomsky",
+  "facet": "",
+  "title": "Noam Chomsky",
+  "years": "1957",
+  "by": null,
+  "summary": "Linguist who argued that language rests on an innate grammar faculty, and a long-standing sceptic that statistical models tell us anything about the mind. His work in the 1950s helped end behaviourism and start cognitive science."
+ },
+ {
+  "id": "selfridge",
+  "facet": "",
+  "title": "Pandemonium model",
+  "years": "1959",
+  "by": "Oliver Selfridge",
+  "summary": "An early model of perception as a crowd of 'demons', each shouting when it detects its pattern, with higher demons listening for the loudest."
+ },
+ {
+  "id": "functionalism",
+  "facet": "Functionalism",
+  "title": "Functionalism and computationalism",
+  "years": "1960s",
+  "by": "Hilary Putnam and others",
+  "summary": "Functionalism says a mental state is defined by what it does, not what it is made of. Computationalism adds that what minds do can be described as computation."
+ },
+ {
+  "id": "functionalism",
+  "facet": "Computationalism, weak and strong",
+  "title": "Functionalism and computationalism",
+  "years": "1960s",
+  "by": null,
+  "summary": "Weak computationalism says minds are computer programs realised in brains. Strong computationalism (digital physics, pancomputationalism) adds that the universe itself is best described as computation that generates patterns of information."
+ },
+ {
+  "id": "lem",
+  "facet": "Stanisław Lem",
+  "title": "Stanisław Lem",
+  "years": "1961–1981",
+  "by": null,
+  "summary": "Polish science fiction writer and philosopher of technology. 'Solaris' (1961) is about an alien mind humans cannot understand; 'Golem XIV' (1981) is a set of lectures given by a superhuman computer to humanity."
+ },
+ {
+  "id": "lem",
+  "facet": "Solaris",
+  "title": "Stanisław Lem",
+  "years": "1961–1981",
+  "by": "Stanisław Lem",
+  "summary": "Novel about scientists orbiting a planet whose ocean is a single vast mind that they can never understand. Stanisław Lem wrote it in 1961; the ocean answers the scientists by materialising figures from their own memories."
+ },
+ {
+  "id": "lem",
+  "facet": "Summa Technologiae",
+  "title": "Stanisław Lem",
+  "years": "1961–1981",
+  "by": "Stanisław Lem",
+  "summary": "Lem's non-fiction survey of future technologies, including artificial intelligence, virtual reality and directed evolution."
+ },
+ {
+  "id": "solomonoff",
+  "facet": "",
+  "title": "Solomonoff induction",
+  "years": "1964",
+  "by": "Ray Solomonoff",
+  "summary": "Inventor of algorithmic probability, a mathematically ideal (though uncomputable) theory of learning by preferring the shortest programs that explain the data. He attended the 1956 Dartmouth workshop and his ideas underlie later formal theories of universal intelligence."
+ },
+ {
+  "id": "ivakhnenko",
+  "facet": "",
+  "title": "Alexey Ivakhnenko",
+  "years": "1965",
+  "by": null,
+  "summary": "Soviet-Ukrainian mathematician who trained multi-layer networks in the 1960s (the Group Method of Data Handling), often cited as the earliest deep learning."
+ },
+ {
+  "id": "symbolic",
+  "facet": "Symbolic AI and expert systems",
+  "title": "Symbolic AI",
+  "years": "1956–1970s",
+  "by": "Newell, Simon, Feigenbaum and others",
+  "summary": "The first paradigm of AI: represent knowledge as symbols and logical rules and reason over them. Expert systems encoded specialists' rules by hand."
+ },
+ {
+  "id": "symbolic",
+  "facet": "Newell and Simon",
+  "title": "Symbolic AI",
+  "years": "1956–1970s",
+  "by": null,
+  "summary": "Carnegie Mellon pair who wrote the first AI programs and proposed that intelligence is the manipulation of physical symbols. Their 'physical symbol system hypothesis' was the working creed of classical AI."
+ },
+ {
+  "id": "eliza",
+  "facet": "",
+  "title": "ELIZA",
+  "years": "1966",
+  "by": "Joseph Weizenbaum",
+  "summary": "An early chat program that imitated a therapist using simple pattern matching. Many users felt understood by it."
+ },
+ {
+  "id": "leary",
+  "facet": "",
+  "title": "Timothy Leary and the eight-circuit model",
+  "years": "1960s–1977",
+  "by": "Timothy Leary; Robert Anton Wilson",
+  "summary": "A counter-culture model that describes eight 'circuits' of the nervous system, from basic survival up to mystical states."
+ }
+]

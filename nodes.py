@@ -400,6 +400,7 @@ TLDR_FIX = [
      "which grew out of control engineering and fed into systems theory and neural networks"),
     ("agi", "'Artificial general intelligence' was coined to distinguish the original goal of human-level, general AI from narrow applications.",
      "'Artificial general intelligence' was first used by Mark Gubrud in 1997 and coined again by Shane Legg around 2002, to distinguish the original goal of human-level, general AI from narrow applications."),
+    ("lem", "scientists orbiting a planet", "scientists on a station above a planet"),
     ("grossberg", "a 'resonance' between the two is what becomes conscious",
      "on his account every conscious state is such a 'resonance' between the two"),
 ]

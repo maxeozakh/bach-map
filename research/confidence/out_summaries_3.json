@@ -1,0 +1,387 @@
+[
+ {
+  "id": "digital",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Digital_physics",
+  "note": ""
+ },
+ {
+  "id": "conway",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Conway's_Game_of_Life",
+  "note": ""
+ },
+ {
+  "id": "mirror",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Mirror_test",
+  "note": ""
+ },
+ {
+  "id": "pribram",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Holonomic_brain_theory",
+  "note": ""
+ },
+ {
+  "id": "dreyfus",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Hubert_Dreyfus's_views_on_artificial_intelligence",
+  "note": ""
+ },
+ {
+  "id": "gaia",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Gaia_hypothesis",
+  "note": "Source describes a self-regulating complex system; the 'single organism' framing is attributed only to some less accepted versions."
+ },
+ {
+  "id": "nagel",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/What_Is_It_Like_to_Be_a_Bat%3F",
+  "note": ""
+ },
+ {
+  "id": "groupsel",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Group_selection",
+  "note": ""
+ },
+ {
+  "id": "fodor",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Language_of_thought_hypothesis",
+  "note": ""
+ },
+ {
+  "id": "grossberg",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Stephen_Grossberg",
+  "note": ""
+ },
+ {
+  "id": "dawkins",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/The_Selfish_Gene",
+  "note": ""
+ },
+ {
+  "id": "jaynes",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Bicameral_mentality",
+  "note": ""
+ },
+ {
+  "id": "schank",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Script_theory",
+  "note": ""
+ },
+ {
+  "id": "sloman",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Aaron_Sloman",
+  "note": "Page calls him Zimbabwean-born, not 'British'; CogAff layers not on this page (cogaffarchive.org confirms reactive, deliberative, meta-management/'reflective')."
+ },
+ {
+  "id": "hofstadter",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Strange_loop",
+  "note": ""
+ },
+ {
+  "id": "lucid",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Lucid_dream",
+  "note": ""
+ },
+ {
+  "id": "thatcher",
+  "facet": "The Thatcher illusion",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Thatcher_effect",
+  "note": ""
+ },
+ {
+  "id": "thatcher",
+  "facet": "The dress",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/The_dress",
+  "note": "Source says there is no consensus on the cause; differing lighting assumptions is one leading explanation, not established fact."
+ },
+ {
+  "id": "searle",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/John_Searle",
+  "note": ""
+ },
+ {
+  "id": "mandelbrot",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Mandelbrot_set",
+  "note": ""
+ },
+ {
+  "id": "binding",
+  "facet": "The binding problem",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Binding_problem",
+  "note": ""
+ },
+ {
+  "id": "binding",
+  "facet": "Wolf Singer and 40 Hz synchrony",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Gamma_wave",
+  "note": ""
+ },
+ {
+  "id": "binding",
+  "facet": "Christoph von der Malsburg",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Christoph_von_der_Malsburg",
+  "note": "Page gives only bio and 1981 report; theory content and 1997 'coherence definition' confirmed from paper abstracts (ini.rub.de, academic.oup.com)."
+ },
+ {
+  "id": "kegan",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Robert_Kegan",
+  "note": ""
+ },
+ {
+  "id": "quantumcomp",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+  "note": ""
+ },
+ {
+  "id": "streams",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Two-streams_hypothesis",
+  "note": ""
+ },
+ {
+  "id": "libet",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Benjamin_Libet",
+  "note": ""
+ },
+ {
+  "id": "levine",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Explanatory_gap",
+  "note": ""
+ },
+ {
+  "id": "braitenberg",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Braitenberg_vehicle",
+  "note": ""
+ },
+ {
+  "id": "cyc",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Cyc",
+  "note": "'Became the emblem of hand-built AI' and 'never produced general intelligence' are not stated; page only reports criticism such as 'catastrophic failure'."
+ },
+ {
+  "id": "boltzmannmachine",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Boltzmann_machine",
+  "note": "RBM details (no within-layer links, deep belief networks) are on Wikipedia's separate Restricted Boltzmann machine page."
+ },
+ {
+  "id": "bischof",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://bischof.com/mat/Zuercher_Modell.pdf",
+  "note": ""
+ },
+ {
+  "id": "sicp",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-9.html",
+  "note": ""
+ },
+ {
+  "id": "autopoiesis",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Autocatalytic_set",
+  "note": "Autopoiesis sentence confirmed on Wikipedia's separate Autopoiesis page."
+ },
+ {
+  "id": "pdp",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Backpropagation",
+  "note": ""
+ },
+ {
+  "id": "hot",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Higher-order_theories_of_consciousness",
+  "note": ""
+ },
+ {
+  "id": "brooks",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Subsumption_architecture",
+  "note": "Roomba link is not on this page; Wikipedia's Roomba page says its design follows Brooks's philosophy."
+ },
+ {
+  "id": "cogarch",
+  "facet": "Cognitive architectures",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Cognitive_architecture",
+  "note": "Core idea backed; the claim that it 'goes under names like cognitive systems, AGI and BICA' is not confirmed by the page."
+ },
+ {
+  "id": "cogarch",
+  "facet": "Soar and Unified Theories of Cognition",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)",
+  "note": ""
+ },
+ {
+  "id": "cogarch",
+  "facet": "ACT-R",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/ACT-R",
+  "note": ""
+ },
+ {
+  "id": "cogarch",
+  "facet": "A Standard Model of the Mind",
+  "verdict": "supported",
+  "url": "https://onlinelibrary.wiley.com/doi/10.1609/aimag.v38i4.2744",
+  "note": ""
+ },
+ {
+  "id": "edelman",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Neural_Darwinism",
+  "note": ""
+ },
+ {
+  "id": "gwt",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Global_workspace_theory",
+  "note": "Dehaene's neural 'signatures' are not on this page; confirmed on Wikipedia's Consciousness and the Brain page."
+ },
+ {
+  "id": "occ",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://webs.cs.fiu.edu/ascllab/wp-content/uploads/sites/75/2020/10/lisetti-correctedproofs-ch8-oxford.pdf",
+  "note": "Events/agents/objects scheme and wide use in agents confirmed; use 'as a lookup table for emotions' is not stated."
+ },
+ {
+  "id": "mysterianism",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/New_mysterianism",
+  "note": ""
+ },
+ {
+  "id": "penrose",
+  "facet": "The Gödelian argument and The Emperor's New Mind",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Roger_Penrose",
+  "note": "Argument and non-computable physics confirmed; 'bestseller' not stated (page notes the 1990 Science Book Prize)."
+ },
+ {
+  "id": "penrose",
+  "facet": "Orchestrated objective reduction (Orch OR)",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Orchestrated_objective_reduction",
+  "note": ""
+ },
+ {
+  "id": "penrose",
+  "facet": "The Road to Reality",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/The_Road_to_Reality",
+  "note": ""
+ },
+ {
+  "id": "penrose",
+  "facet": "Stuart Hameroff",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Stuart_Hameroff",
+  "note": ""
+ },
+ {
+  "id": "penrose",
+  "facet": "Roger Penrose",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Roger_Penrose",
+  "note": ""
+ },
+ {
+  "id": "ncc",
+  "facet": "Neural correlates of consciousness",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness",
+  "note": ""
+ },
+ {
+  "id": "ncc",
+  "facet": "Christof Koch",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Christof_Koch",
+  "note": "Crick collaboration and IIT advocacy with Tononi confirmed; 'most prominent advocate' is not stated."
+ },
+ {
+  "id": "witten",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Ian_H._Witten",
+  "note": "Page omits PPM and arithmetic coding; Wikipedia's PPM page credits Cleary and Witten (1984); 'popularised arithmetic coding' unconfirmed."
+ },
+ {
+  "id": "wheeler",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/John_Archibald_Wheeler",
+  "note": ""
+ },
+ {
+  "id": "schmidhuber",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://people.idsia.ch/~juergen/creativity.html",
+  "note": "Reward is compression progress (curiosity/interestingness); Schmidhuber defines beauty as compressibility itself and distinguishes it from the reward."
+ }
+]

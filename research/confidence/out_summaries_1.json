@@ -1,0 +1,380 @@
+[
+ {
+  "id": "animism",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Animism",
+  "note": ""
+ },
+ {
+  "id": "greekgods",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Twelve_Olympians",
+  "note": "Page lists each god's domain; 'personify human character' and quarrelling/taking sides in Homer are not stated there."
+ },
+ {
+  "id": "genesis",
+  "facet": "Genesis 1",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Genesis_creation_narrative",
+  "note": ""
+ },
+ {
+  "id": "genesis",
+  "facet": "Adam and Eve",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Adam_and_Eve",
+  "note": ""
+ },
+ {
+  "id": "genesis",
+  "facet": "Tower of Babel",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Tower_of_Babel",
+  "note": ""
+ },
+ {
+  "id": "genesis",
+  "facet": "The God of Abraham",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Abrahamic_religions",
+  "note": ""
+ },
+ {
+  "id": "genesis",
+  "facet": "The Bible",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Bible",
+  "note": ""
+ },
+ {
+  "id": "pythagoras",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://plato.stanford.edu/entries/pythagoreanism/",
+  "note": ""
+ },
+ {
+  "id": "logos",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Logos",
+  "note": ""
+ },
+ {
+  "id": "buddhism",
+  "facet": "Buddhism",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Buddhism",
+  "note": "Non-self, attachment and meditation confirmed; 'advanced practitioners report deconstructing ordinary perception and selfhood' is not stated on the page."
+ },
+ {
+  "id": "buddhism",
+  "facet": "The Dalai Lama",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Dalai_Lama",
+  "note": ""
+ },
+ {
+  "id": "buddhism",
+  "facet": "Michael Taft on enlightenment",
+  "verdict": "supported",
+  "url": "https://deconstructingyourself.com/michael-w-taft",
+  "note": ""
+ },
+ {
+  "id": "plato",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Theory_of_forms",
+  "note": ""
+ },
+ {
+  "id": "aristotle",
+  "facet": "Aristotle",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Aristotle",
+  "note": ""
+ },
+ {
+  "id": "aristotle",
+  "facet": "De Anima (On the Soul)",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/On_the_Soul",
+  "note": ""
+ },
+ {
+  "id": "aristotle",
+  "facet": "The unmoved mover",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Unmoved_mover",
+  "note": "Unmoved first cause confirmed; 'minimal notion of a god: no personality' is not stated; page describes it as self-contemplating."
+ },
+ {
+  "id": "stoicism",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://iep.utm.edu/stoicism/",
+  "note": ""
+ },
+ {
+  "id": "christianity",
+  "facet": "The Catholic Church",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Christianity",
+  "note": "Religion based on Jesus's teachings confirmed; Church as Europe's 'unifying institution' coordinating millions is not stated in these terms."
+ },
+ {
+  "id": "christianity",
+  "facet": "1 Corinthians 13",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/1_Corinthians_13",
+  "note": ""
+ },
+ {
+  "id": "christianity",
+  "facet": "Christian mind-body dualism",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Christian_anthropology",
+  "note": ""
+ },
+ {
+  "id": "christianity",
+  "facet": "Protestantism",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Protestantism",
+  "note": ""
+ },
+ {
+  "id": "aquinas",
+  "facet": "Thomas Aquinas",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Thomas_Aquinas",
+  "note": ""
+ },
+ {
+  "id": "aquinas",
+  "facet": "The seven virtues",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Seven_virtues",
+  "note": ""
+ },
+ {
+  "id": "golem",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Golem",
+  "note": ""
+ },
+ {
+  "id": "descartes",
+  "facet": "Descartes",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Ren%C3%A9_Descartes",
+  "note": ""
+ },
+ {
+  "id": "descartes",
+  "facet": "Meditations on First Philosophy",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Meditations_on_First_Philosophy",
+  "note": ""
+ },
+ {
+  "id": "descartes",
+  "facet": "Mind-body dualism",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem",
+  "note": "Source says Descartes 'set the agenda for subsequent discussions'; 'most later philosophy of mind is an attempt to escape' is stronger."
+ },
+ {
+  "id": "occasionalism",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Occasionalism",
+  "note": ""
+ },
+ {
+  "id": "empiricism",
+  "facet": "Empiricism vs rationalism",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Rationalism",
+  "note": ""
+ },
+ {
+  "id": "empiricism",
+  "facet": "Locke on consciousness",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Consciousness",
+  "note": "Definition quoted here; identity founded on consciousness/memory confirmed at en.wikipedia.org/wiki/Personal_identity."
+ },
+ {
+  "id": "empiricism",
+  "facet": "Hume: proportion belief to evidence",
+  "verdict": "supported",
+  "url": "https://plato.stanford.edu/entries/hume/",
+  "note": ""
+ },
+ {
+  "id": "idealism",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Idealism",
+  "note": ""
+ },
+ {
+  "id": "leibniz",
+  "facet": "Leibniz",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+  "note": ""
+ },
+ {
+  "id": "leibniz",
+  "facet": "Leibniz's mill",
+  "verdict": "supported",
+  "url": "https://plato.stanford.edu/entries/leibniz-mind/",
+  "note": ""
+ },
+ {
+  "id": "lamettrie",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Julien_Offray_de_La_Mettrie",
+  "note": ""
+ },
+ {
+  "id": "enlightenment",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Age_of_Enlightenment",
+  "note": ""
+ },
+ {
+  "id": "kant",
+  "facet": "Kant",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Categorical_imperative",
+  "note": ""
+ },
+ {
+  "id": "kant",
+  "facet": "Critique of Pure Reason",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Critique_of_Pure_Reason",
+  "note": ""
+ },
+ {
+  "id": "utilitarianism",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Utilitarianism",
+  "note": ""
+ },
+ {
+  "id": "hegel",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+  "note": ""
+ },
+ {
+  "id": "celltheory",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Cell_theory",
+  "note": ""
+ },
+ {
+  "id": "darwin",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Teleological_argument",
+  "note": ""
+ },
+ {
+  "id": "dubois",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Ignoramus_et_ignorabimus",
+  "note": ""
+ },
+ {
+  "id": "cantor",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Cantor%27s_theorem",
+  "note": ""
+ },
+ {
+  "id": "epiphenomenalism",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Epiphenomenalism",
+  "note": ""
+ },
+ {
+  "id": "brentano",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Franz_Brentano",
+  "note": ""
+ },
+ {
+  "id": "emergence",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://iep.utm.edu/emergence/",
+  "note": ""
+ },
+ {
+  "id": "wundt",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/History_of_psychology",
+  "note": ""
+ },
+ {
+  "id": "frege",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Gottlob_Frege",
+  "note": ""
+ },
+ {
+  "id": "peano",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Peano_axioms",
+  "note": ""
+ },
+ {
+  "id": "james",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/The_Principles_of_Psychology",
+  "note": "Influential textbook and stream of consciousness confirmed; page's key concepts are emotion, habit, will, not attention and the self; 'founding' not stated."
+ },
+ {
+  "id": "brouwer",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Intuitionism",
+  "note": ""
+ },
+ {
+  "id": "russell",
+  "facet": "Russell's paradox",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Russell%27s_paradox",
+  "note": ""
+ },
+ {
+  "id": "russell",
+  "facet": "Principia Mathematica",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Principia_Mathematica",
+  "note": ""
+ }
+]

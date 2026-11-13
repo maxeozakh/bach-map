@@ -239,7 +239,7 @@ E = [
 ("functionalism", "b_comp", "builds", "the tradition bach places himself in"),
 ("turing", "b_comp", "builds", "the church-turing thesis"),
 ("digital", "b_comp", "builds", "strong computationalism: reality itself computes"),
-("lamettrie", "b_comp", "builds", "'computationalism is the new mechanism'"),
+("lamettrie", "b_comp", "builds", "computationalism as the heir of mechanism"),
 ("searle", "b_comp", "against", "bach rejects the chinese room"),
 ("seth", "b_comp", "against", "function versus living substrate"),
 ("b_mch", "lerchner", "against", "'the abstraction fallacy'; CIMC replied with 'against intrinsic properties'"),

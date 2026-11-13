@@ -91,6 +91,8 @@ input[type=search] { font: inherit; color: var(--text); background: var(--bg); b
 #panel p.take { color: var(--text); }
 .conn { font-size: 14px; margin: 0 0 6px; color: var(--muted); }
 .conn .btn { font-size: 14px; }
+.cf { font-size: 12.5px; color: var(--muted); }
+#panel p.cfline { font-size: 12.5px; margin: -6px 0 12px; }
 .q { font-size: 13.5px; margin: 0 0 10px; padding-left: 10px; border-left: 2px solid var(--line); }
 .q .txt { color: var(--text); }
 .q .srcline { color: var(--muted); font-size: 12.5px; }
@@ -173,7 +175,7 @@ LANES.forEach(([, , themes], i) => themes.forEach(t => laneIdx[t] = i));
 const byId = {};
 D.nodes.forEach(n => { byId[n.id] = n; n.lane = laneIdx[n.theme]; n.era = ERAS.findIndex(e => n.year >= e[0] && n.year < e[1]);
   n.text = [n.title, ...n.facets.map(f => (f.label || '') + ' ' + (f.author || ''))].join(' ').toLowerCase(); });
-const EDGES = D.edges.map(([a, b, kind, note]) => ({ a, b, kind, note })).filter(e => byId[e.a] && byId[e.b]);
+const EDGES = D.edges.map(([a, b, kind, note, conf]) => ({ a, b, kind, note, conf })).filter(e => byId[e.a] && byId[e.b]);
 const adj = {};
 EDGES.forEach(e => { (adj[e.a] = adj[e.a] || []).push(e); (adj[e.b] = adj[e.b] || []).push(e); });
 
@@ -328,11 +330,17 @@ function quoteHtml(m) {
   const src = m.url ? `<a href="${esc(m.url)}" target="_blank" rel="noopener">${esc(m.src)}</a>` : esc(m.src);
   return `<div class="q"><div class="txt">${m.v ? '“' + esc(m.q) + '”' : esc(m.q)}</div><div class="srcline">${m.v ? 'verbatim' : 'paraphrase'}, ${src}${m.date ? ', ' + esc(m.date) : ''}</div></div>`;
 }
+// confidence: a fixed word that follows from what the source check found, with the page it was checked against
+function confHtml(c, lead) {
+  if (!c) return '';
+  const [lvl, url, why] = c;
+  return `<span class="cf">${lead || ''}${lvl}${url ? `, <a href="${esc(url)}" target="_blank" rel="noopener">source</a>` : ''}${why ? '. ' + esc(why) : ''}</span>`;
+}
 function connHtml(id) {
   const words = { builds: ['builds on', 'leads to'], against: ['argues against', 'challenged by'], related: ['related to', 'related to'] };
   return (adj[id] || []).slice().sort((p, q) => byId[p.a === id ? p.b : p.a].year - byId[q.a === id ? q.b : q.a].year).map(e => {
     const other = e.a === id ? e.b : e.a;
-    return `<div class="conn">${words[e.kind][e.b === id ? 0 : 1]} <button class="btn" data-go="${other}">${esc(byId[other].title)}</button>${e.note ? ': ' + esc(e.note) : ''}</div>`;
+    return `<div class="conn">${words[e.kind][e.b === id ? 0 : 1]} <button class="btn" data-go="${other}">${esc(byId[other].title)}</button>${e.note ? ': ' + esc(e.note) : ''}${e.conf ? ' ' + confHtml(e.conf, '· ') : ''}</div>`;
   }).join('');
 }
 function select(id) {
@@ -344,11 +352,12 @@ function select(id) {
     `<h3>${esc(n.title)}</h3><p>${esc(n.label)}, ${esc(LANENAME(n))}</p>`;
   // order: the main idea first, then what it connects to, then the detail (quotes and the other facets)
   const srcs = f => f.mentions.length ? `<div class="lab">sources</div>` + f.mentions.map(quoteHtml).join('') : '';
+  const confLine = f => f.conf ? `<p class="cfline">${confHtml(f.conf, 'confidence: ')} · <a href="about.html#confidence">what this means</a></p>` : '';
   const lead = n.facets[0];
   if (lead) {
     if (n.facets.length > 1 && lead.label && lead.label !== n.title) h += `<div class="lab">${esc(lead.label)}</div>`;
     if (lead.author) h += `<p class="small">${esc(lead.author)}</p>`;
-    h += `<p class="take">${esc(lead.tldr)}</p>`;
+    h += `<p class="take">${esc(lead.tldr)}</p>` + confLine(lead);
   }
   const c = connHtml(id);
   if (c) h += `<div class="lab">connections</div>` + c;
@@ -356,7 +365,7 @@ function select(id) {
   n.facets.slice(1).forEach(f => {
     h += `<h4>${esc(f.label)}</h4>`;
     if (f.author) h += `<p class="small">${esc(f.author)}</p>`;
-    h += `<p>${esc(f.tldr)}</p>` + srcs(f);
+    h += `<p>${esc(f.tldr)}</p>` + confLine(f) + srcs(f);
   });
   p.innerHTML = h; p.classList.add('open'); p.scrollTop = 0;
 }

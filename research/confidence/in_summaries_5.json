@@ -1,0 +1,442 @@
+[
+ {
+  "id": "deeplearning",
+  "facet": "GANs as a model of dreaming",
+  "title": "Deep learning",
+  "years": "2009–2022",
+  "by": "Ian Goodfellow (GANs)",
+  "summary": "A GAN trains two networks against each other: a generator invents samples and a discriminator judges whether they look real. Ian Goodfellow introduced them in 2014, and they produced the first convincing synthetic photographs."
+ },
+ {
+  "id": "deeplearning",
+  "facet": "Stable Diffusion",
+  "title": "Deep learning",
+  "years": "2009–2022",
+  "by": "Stability AI / CompVis",
+  "summary": "An openly released image-generation model whose weights fit in a couple of gigabytes yet can render almost any visual subject."
+ },
+ {
+  "id": "deeplearning",
+  "facet": "Ilya Sutskever",
+  "title": "Deep learning",
+  "years": "2009–2022",
+  "by": null,
+  "summary": "Co-author of AlexNet and co-founder of OpenAI, known for early conviction that scaling neural networks would lead to AGI. He left OpenAI in 2024 to found Safe Superintelligence."
+ },
+ {
+  "id": "vervaeke",
+  "facet": "",
+  "title": "John Vervaeke: relevance realization",
+  "years": "2012",
+  "by": "John Vervaeke",
+  "summary": "Toronto cognitive scientist known for the lecture series 'Awakening from the Meaning Crisis'. He argues that the core of intelligence is 'relevance realization', and that wisdom traditions (Neoplatonism, Buddhism) cultivate it through practices rather than beliefs."
+ },
+ {
+  "id": "ast",
+  "facet": "",
+  "title": "Attention Schema Theory",
+  "years": "2013",
+  "by": "Michael Graziano",
+  "summary": "The brain controls attention with the help of a simplified internal model of its own attention. That model is what we describe when we say we are aware."
+ },
+ {
+  "id": "ackley",
+  "facet": "",
+  "title": "Best-effort computing",
+  "years": "2010s",
+  "by": "Dave Ackley",
+  "summary": "Ackley's research programme on computers that keep working when their parts are unreliable, in the manner of living tissue, instead of assuming perfect hardware."
+ },
+ {
+  "id": "her",
+  "facet": "",
+  "title": "Her",
+  "years": "2013",
+  "by": "Spike Jonze",
+  "summary": "A film in which a lonely man falls in love with an AI operating system that eventually outgrows him."
+ },
+ {
+  "id": "exmachina",
+  "facet": "",
+  "title": "Ex Machina",
+  "years": "2014",
+  "by": "Alex Garland",
+  "summary": "A film in which a programmer is asked to judge whether a humanoid robot is conscious, and is manipulated by her."
+ },
+ {
+  "id": "tegmark",
+  "facet": "Max Tegmark",
+  "title": "Max Tegmark",
+  "years": "2014–2023",
+  "by": null,
+  "summary": "MIT physicist known for the mathematical universe hypothesis and for work on physics-based theories of consciousness."
+ },
+ {
+  "id": "tegmark",
+  "facet": "Consciousness as a State of Matter",
+  "title": "Max Tegmark",
+  "years": "2014–2023",
+  "by": "Max Tegmark",
+  "summary": "A physicist's proposal to treat consciousness as a state of matter with certain information-processing properties, building on IIT."
+ },
+ {
+  "id": "tegmark",
+  "facet": "Language Models Represent Space and Time",
+  "title": "Max Tegmark",
+  "years": "2014–2023",
+  "by": "Wes Gurnee and Max Tegmark",
+  "summary": "A study showing that a large language model's internal activations contain linear representations of where places are on Earth and when events happened, in effect a map. The authors, Wes Gurnee and Max Tegmark, take this as evidence that such models learn the basic ingredients of a world model and not just word statistics."
+ },
+ {
+  "id": "tegmark",
+  "facet": "Life 3.0",
+  "title": "Max Tegmark",
+  "years": "2014–2023",
+  "by": "Max Tegmark",
+  "summary": "Tegmark sorts life into three stages: biological (hardware and software evolve), cultural (software is learned), and technological (both can be designed), and discusses the future with AI."
+ },
+ {
+  "id": "aaronson",
+  "facet": "",
+  "title": "Scott Aaronson",
+  "years": "2014",
+  "by": null,
+  "summary": "Quantum-complexity theorist at UT Austin who spent time at OpenAI working on the theoretical foundations of AI safety. He takes AI risk seriously while rejecting certainty of doom."
+ },
+ {
+  "id": "hoffman",
+  "facet": "",
+  "title": "Donald Hoffman: interface theory of perception",
+  "years": "2015",
+  "by": "Donald Hoffman",
+  "summary": "American cognitive scientist who argues that evolution shaped our senses to hide reality rather than reveal it. He goes further and proposes that space, time and matter are not fundamental; networks of 'conscious agents' are, and physics should be derived from them."
+ },
+ {
+  "id": "thooft",
+  "facet": "",
+  "title": "'t Hooft: cellular automaton interpretation",
+  "years": "2016",
+  "by": "Gerard 't Hooft",
+  "summary": "Nobel laureate 't Hooft argues that quantum mechanics could be a statistical description of an underlying deterministic, discrete system like a cellular automaton."
+ },
+ {
+  "id": "illusionism",
+  "facet": "",
+  "title": "Illusionism",
+  "years": "2016",
+  "by": "Keith Frankish",
+  "summary": "The position that phenomenal consciousness, as philosophers describe it, does not exist. What exists is the brain's persistent representation that it has ineffable inner qualities."
+ },
+ {
+  "id": "westworld",
+  "facet": "",
+  "title": "Westworld",
+  "years": "2016",
+  "by": "Jonathan Nolan; Lisa Joy (HBO)",
+  "summary": "A television series in which android 'hosts' in a theme park gradually become self-aware, drawing on Julian Jaynes's bicameral mind."
+ },
+ {
+  "id": "bengio",
+  "facet": "",
+  "title": "Bengio: the consciousness prior",
+  "years": "2017",
+  "by": "Yoshua Bengio",
+  "summary": "Bengio's proposal that conscious thought corresponds to a small, attention-selected bottleneck of high-level variables. The bottleneck forces the brain's model into a sparse form that can be reasoned over and put into words."
+ },
+ {
+  "id": "bach",
+  "facet": "Joscha Bach",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "German cognitive scientist and AI researcher, born 1973. He treats the mind as software: the brain builds a simulated world with a simulated self in it, and consciousness is a property of that simulation, a process that makes the mind's many models cohere. He began with cognitive architectures (MicroPsi) and has led the California Institute for Machine Consciousness since 2025."
+ },
+ {
+  "id": "bach",
+  "facet": "Motivated cognition: Psi theory and MicroPsi (2003)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "Bach's early work says a mind cannot be understood as a problem-solver alone. It needs built-in needs, such as food, safety, certainty, competence and belonging, that create goals, and emotions arise as changes in how the whole system processes information. He took this from Dietrich Dörner's Psi theory and built it as software called MicroPsi. Later papers extend the model of needs and connect it to personality."
+ },
+ {
+  "id": "bach",
+  "facet": "Seven principles of synthetic intelligence (2008)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "A short list of lessons from fifty years of AI. Build whole architectures defined by function. Do not let your methods choose your questions. Aim for the big picture, not single experiments. Ground the system in an environment, but do not get stuck on the symbol grounding problem. Do not wait for robot bodies. Build autonomous systems with their own motives. Do not expect intelligence to emerge by itself."
+ },
+ {
+  "id": "bach",
+  "facet": "Gods as selves that span many minds (2015)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "Bach's psychological account of religion: a god is a self-model that is implemented across many brains at once. It is as real as a personal self, which is also a mental construct."
+ },
+ {
+  "id": "bach",
+  "facet": "Request Confirmation Networks (ReCoN) (2015)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "A design for a neural network that can run step-by-step plans. Higher units send requests down to lower units, and lower units confirm or fail, so the network can check a hypothesis such as 'this is a face' by checking its parts in order. It is meant to join symbolic, script-like control with neural learning. CIMC lists it as one of its starting points for cognitive architectures."
+ },
+ {
+  "id": "bach",
+  "facet": "From elementary computation to ethics (2016)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "A 16-step sketch that starts with the universe as a reversible computation and works up through entropy, life, agency and minds to rules for living together. The aim is to show that values can be derived from an understanding of how systems work and do not have to be taken as given. The same thought returns in his 2023 essay, where he says values must be rationally derived and are not axioms."
+ },
+ {
+  "id": "bach",
+  "facet": "Functionalism, weak and strong computationalism (2016)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "Bach holds two linked positions. Functionalism: a mental state is defined by what it does, so the same mind could run on different material; he sets this against 'essentialism', which ties consciousness to a special substance such as living tissue. Computationalism: any precise theory has to be a computational one. The 2025 essay separates a weak form, which says all formal theories of reality must be computational, from a strong form, which says reality itself is computational."
+ },
+ {
+  "id": "bach",
+  "facet": "Only what can be constructed exists (2016)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "Bach says that something is only real, or true, if it can in principle be computed step by step. Mathematics that needs completed infinities or perfect continua cannot be carried out by any physical process, so in his view it describes nothing that exists. He reads Gödel's incompleteness result as showing this: classical mathematics breaks, constructive mathematics is what is left, and constructive mathematics is the same thing as computation. This is his own reading; most logicians take Gödel's theorems to show limits of formal proof, not that classical mathematics is wrong. He uses it against Penrose's argument that human minds do something computers cannot."
+ },
+ {
+  "id": "bach",
+  "facet": "Consciousness as conductor and coherence operator (2017)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "The mind is like an orchestra of many specialised processes, each modelling part of reality. Consciousness is the conductor: an attention process that notices where the players disagree and brings them into harmony, and that keeps a record of what it attended to. The conductor is one more learned process among the others, not a little person inside the head. In the CIMC texts this becomes 'consciousness is a coherence-maximising pattern', credited to von der Malsburg's coherence definition. Bach contrasts the view with Integrated Information Theory."
+ },
+ {
+  "id": "bach",
+  "facet": "Attention-based learning (2018)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "Bach proposes that a system could learn by keeping a log of what its attention did and what came of it, and then adjusting only the parts that were involved. He suggests that producing this single integrated log may be what gives consciousness both its function and its felt quality."
+ },
+ {
+  "id": "bach",
+  "facet": "Consciousness is a simulated property; the self is a story (2018)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "Bach says that matter cannot be conscious; only a simulation can. The brain builds a dream-like model of a world and puts a character in it, the self, and experience is what is true for that character inside the model. So experience is real for us, while the self that seems to have it is a piece of fiction, like the hero of a novel. This lets him accept that consciousness feels real while denying that it is an extra ingredient of physics. His 2023 CV calls a 2021 talk on this view 'Virtualism'."
+ },
+ {
+  "id": "bach",
+  "facet": "Love as the discovery of shared purpose (2021)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "Bach defines love as finding that you and another serve the same purpose above yourselves, which lets you deal with each other without bargaining. He applies this to AI. Advanced agents, human or artificial, cannot be aligned from outside; they align themselves by trade, by force, or because they find shared purposes. So the hopeful path with AI is to build systems that can share purposes with us. In 2026 he calls intelligence without this 'hollow agency'."
+ },
+ {
+  "id": "bach",
+  "facet": "Consciousness comes before the self (2023)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "The usual picture is that brains first become complex and then consciousness appears at the top. Bach turns this around: consciousness is there at the start and is what trains the mind. Babies are conscious before they have a self, language or reasoning, and no human leaves the vegetative state without it. He reads the first chapter of the Bible as an old description of this boot-up: first a spirit over the substrate, then light and dark, world and ideas, and only at the end a person. From this CIMC derives its 'Human Consciousness Hypothesis', that consciousness is the simplest learning algorithm evolution could find for a self-organising brain."
+ },
+ {
+  "id": "bach",
+  "facet": "Levels of Lucidity (2023)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "A seven-step ladder of how a mind can come to understand its own workings. The steps are: reactive survival, personal self, social self, rational agency, self-authoring, enlightened mind and transcendent mind. Each step comes from seeing through a part of oneself that used to be taken for granted. It is based on Robert Kegan's five stages, which Bach says he has drifted away from. He says it is not a ranking of people's worth and that most people do not need to climb it."
+ },
+ {
+  "id": "bach",
+  "facet": "On large language models (2023)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "Bach does not say current language models are conscious, and does not rule it out either. His stated view in 2023 is that if such a model is conscious, it is not in the way humans are, because it imitates text written by conscious people. CIMC's public note says chatbots are 'really good actors' that can play a conscious character, and that producing text about an experience is not having it. The 2025 essay says LLM agents 'tend to dream', meaning they do not separate perception from imagination. In 2026 he calls today's systems 'artificial idiot savants'. He and Sorensen also argue that no behaviour test can decide the matter."
+ },
+ {
+  "id": "bach",
+  "facet": "Cyber-animism: software as spirit (2024)",
+  "title": "Joscha Bach",
+  "years": "2003–2026",
+  "by": null,
+  "summary": "Old cultures spoke of spirits that animate living things. Bach says this was a reasonable description of something real: self-organising software. A spirit is a pattern of control that runs on cells in the way a program runs on a computer, and it can be described without reference to the particular matter. Life, minds and even cultures are such software agents competing for substrates. He presents this as a metaphysical stance and says it is not superstition; in the essay, selves that span many minds are called gods."
+ },
+ {
+  "id": "llm",
+  "facet": "LLMs and the transformer",
+  "title": "Large language models",
+  "years": "2017–2023",
+  "by": "Vaswani et al.; OpenAI",
+  "summary": "Neural networks trained to predict the next token of text, built on the transformer architecture, whose 'attention' mechanism learns which earlier tokens matter for each prediction."
+ },
+ {
+  "id": "llm",
+  "facet": "Scaling hypothesis",
+  "title": "Large language models",
+  "years": "2017–2023",
+  "by": null,
+  "summary": "The bet that current neural network designs are already good enough, and that intelligence will keep increasing simply by adding data and computing power."
+ },
+ {
+  "id": "llm",
+  "facet": "Blake Lemoine and LaMDA",
+  "title": "Large language models",
+  "years": "2017–2023",
+  "by": "Blake Lemoine (Google)",
+  "summary": "A Google engineer went public with his belief that the company's chatbot LaMDA was sentient and deserved rights."
+ },
+ {
+  "id": "llm",
+  "facet": "AI companions",
+  "title": "Large language models",
+  "years": "2017–2023",
+  "by": null,
+  "summary": "Chatbot products that users talk to as friends or partners. Replika is marketed as an AI companion; Claude is Anthropic's assistant."
+ },
+ {
+  "id": "llm",
+  "facet": "Public AI discourse",
+  "title": "Large language models",
+  "years": "2017–2023",
+  "by": null,
+  "summary": "Emily Bender is a computational linguist known for calling language models 'stochastic parrots'. Sam Altman is the chief executive of OpenAI."
+ },
+ {
+  "id": "chollet",
+  "facet": "",
+  "title": "Chollet: On the Measure of Intelligence",
+  "years": "2019",
+  "by": "François Chollet (On the Measure of Intelligence)",
+  "summary": "Chollet defines intelligence as the efficiency of acquiring new skills, not the possession of skills, and argues that current models mostly interpolate between things they have seen."
+ },
+ {
+  "id": "levin",
+  "facet": "",
+  "title": "Michael Levin: bioelectricity and collective intelligence",
+  "years": "2019",
+  "by": "Michael Levin",
+  "summary": "Tufts biologist who studies how groups of cells use bioelectric signalling to decide what body to build. He treats cells and tissues as agents with goals, so that anatomy is the result of a collective intelligence solving problems."
+ },
+ {
+  "id": "bitter",
+  "facet": "",
+  "title": "The Bitter Lesson",
+  "years": "2019",
+  "by": "Richard Sutton",
+  "summary": "Sutton's observation that, across 70 years of AI, general methods that scale with computation have always ended up beating systems built on human insight. It is bitter because researchers keep wanting their own knowledge of the domain to matter."
+ },
+ {
+  "id": "metazoa",
+  "facet": "",
+  "title": "Godfrey-Smith: Metazoa",
+  "years": "2020",
+  "by": "Peter Godfrey-Smith",
+  "summary": "A philosopher-diver traces how experience may have arisen step by step in the evolution of animal bodies and nervous systems."
+ },
+ {
+  "id": "nca",
+  "facet": "",
+  "title": "Neural cellular automata",
+  "years": "2020",
+  "by": "Alexander Mordvintsev et al.",
+  "summary": "'Growing Neural Cellular Automata' trains a single small neural rule, applied locally by every cell on a grid, so that the cells grow into and regenerate a target pattern, in the spirit of biological development."
+ },
+ {
+  "id": "olah",
+  "facet": "",
+  "title": "The universality hypothesis",
+  "years": "2020",
+  "by": "Chris Olah",
+  "summary": "The conjecture from interpretability research that different neural networks trained on similar data converge on similar internal features and circuits. Chris Olah and colleagues proposed it; if true, findings about one network would transfer to others."
+ },
+ {
+  "id": "seth",
+  "facet": "",
+  "title": "Anil Seth: biological naturalism",
+  "years": "2021",
+  "by": "Anil Seth",
+  "summary": "Seth, author of 'Being You', holds that consciousness is tied to being a living body that must regulate itself to stay alive. On this view intelligence can be put in silicon but experience probably cannot."
+ },
+ {
+  "id": "marcus",
+  "facet": "",
+  "title": "Gary Marcus",
+  "years": "2022",
+  "by": "Gary Marcus",
+  "summary": "Cognitive scientist and the best-known critic of deep learning. He argues that neural networks cannot reason reliably without built-in symbolic structure and that scaling them up will not yield general intelligence."
+ },
+ {
+  "id": "thagard",
+  "facet": "",
+  "title": "Thagard: energy and substrate independence",
+  "years": "2022",
+  "by": "Paul Thagard",
+  "summary": "Thagard argues that because real information processing costs energy, and different materials have very different energy budgets, a mind cannot simply be moved to any substrate; so functionalism is in trouble. The paper appeared in the journal Philosophy of Science."
+ },
+ {
+  "id": "butlin",
+  "facet": "Consciousness in Artificial Intelligence",
+  "title": "AI consciousness and welfare reports",
+  "years": "2023–2024",
+  "by": "Patrick Butlin, Robert Long, et al.",
+  "summary": "A multi-author report that turns leading scientific theories of consciousness into a checklist of 'indicator properties' and checks current AI systems against it. It concluded that no current system was a strong candidate."
+ },
+ {
+  "id": "butlin",
+  "facet": "Taking AI Welfare Seriously",
+  "title": "AI consciousness and welfare reports",
+  "years": "2023–2024",
+  "by": "Robert Long, Jeff Sebo, et al.",
+  "summary": "A report arguing that there is a realistic chance some AI systems will soon be conscious or agents with interests, so AI companies should start preparing welfare policies."
+ },
+ {
+  "id": "chirimuuta",
+  "facet": "",
+  "title": "Mazviita Chirimuuta",
+  "years": "2024",
+  "by": null,
+  "summary": "Edinburgh philosopher of neuroscience, author of 'The Brain Abstracted'. She argues that computational models of the brain are useful simplifications and should not be mistaken for what the brain literally is."
+ },
+ {
+  "id": "shanahan",
+  "facet": "",
+  "title": "Murray Shanahan",
+  "years": "2024",
+  "by": null,
+  "summary": "Imperial College and DeepMind researcher, author of 'Embodiment and the Inner Life', who describes LLMs as role-players simulating characters. He warns against describing such systems in human terms like 'knows' or 'believes' without care."
+ },
+ {
+  "id": "cimc",
+  "facet": "The Machine Consciousness Hypothesis (2025)",
+  "title": "CIMC: the Machine Consciousness Hypothesis",
+  "years": "2025",
+  "by": "Joscha Bach and Hikari Sorensen, California Institute for Machine Consciousness",
+  "summary": "The claim is that an ordinary general-purpose computer with enough memory and speed has everything needed to be conscious, and that we can find out whether a system is conscious by analysing or testing it. Consciousness is treated as a pattern of organisation, so what the system is made of does not matter. CIMC adds a working definition: a system is conscious if it organises itself to perceive its own perceiving in a way that makes its overall model of the world more coherent. An 'extended' version says we can search for the right learning algorithm by recreating the conditions under which brains found it. The essay is co-written with Hikari Sorensen."
+ },
+ {
+  "id": "cimc",
+  "facet": "No Turing test for consciousness (2025)",
+  "title": "CIMC: the Machine Consciousness Hypothesis",
+  "years": "2025",
+  "by": "Joscha Bach and Hikari Sorensen, California Institute for Machine Consciousness",
+  "summary": "Bach and Sorensen argue that you cannot tell whether a system is conscious by watching what it does. Consciousness is a particular way of producing behaviour, and the same behaviour could be produced another way, as chatbots show. So the test has to look at how the system is built and how it works inside."
+ },
+ {
+  "id": "lerchner",
+  "facet": "",
+  "title": "Lerchner: The Abstraction Fallacy",
+  "years": "2026",
+  "by": "Alexander Lerchner",
+  "summary": "A paper arguing against computational functionalism about phenomenal consciousness. CIMC published a reply, 'Against intrinsic properties'."
+ }
+]

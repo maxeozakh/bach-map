@@ -1,0 +1,434 @@
+[
+ {
+  "id": "harnad",
+  "facet": "",
+  "title": "The symbol grounding problem",
+  "years": "1990",
+  "by": "Stevan Harnad",
+  "summary": "How can symbols inside a system mean anything, if they are only defined in terms of other symbols and never tied to the world? Stevan Harnad posed it in 1990, comparing it to learning Chinese from a Chinese-only dictionary."
+ },
+ {
+  "id": "dennett",
+  "facet": "Daniel Dennett",
+  "title": "Daniel Dennett",
+  "years": "1991",
+  "by": null,
+  "summary": "American philosopher who argued that consciousness is not an inner theatre but many parallel drafts of interpretation, and that the 'self' is a useful narrative centre. He treated the 'hard problem' as a confusion to be dissolved rather than a mystery to be solved."
+ },
+ {
+  "id": "dennett",
+  "facet": "Consciousness Explained",
+  "title": "Daniel Dennett",
+  "years": "1991",
+  "by": "Daniel Dennett",
+  "summary": "Dennett's book proposing the 'multiple drafts' model: there is no single place or moment where experience happens, only competing processes whose winners shape behaviour and memory."
+ },
+ {
+  "id": "dennett",
+  "facet": "Zimbos",
+  "title": "Daniel Dennett",
+  "years": "1991",
+  "by": "Daniel Dennett",
+  "summary": "A zombie is a being that behaves as if conscious with nobody home. Dennett's 'zimbo' is a zombie with higher-order self-monitoring, so it believes and reports that it is conscious."
+ },
+ {
+  "id": "embodied",
+  "facet": "Phenomenology and enactivism",
+  "title": "Embodied and enactive cognition",
+  "years": "1927–2006",
+  "by": "Martin Heidegger; Maurice Merleau-Ponty; Francisco Varela, Evan Thompson, Eleanor Rosch; Alva Noë; Shaun Gallagher",
+  "summary": "A line of philosophy that starts from lived experience and holds that mind is constituted by a body acting in a world, not by inner representations alone."
+ },
+ {
+  "id": "embodied",
+  "facet": "How the Body Shapes the Way We Think",
+  "title": "Embodied and enactive cognition",
+  "years": "1927–2006",
+  "by": "Rolf Pfeifer, Josh Bongard",
+  "summary": "A statement of embodied AI: intelligence comes from the interplay of a body, its materials and the world, so robots are needed to study it."
+ },
+ {
+  "id": "embodied",
+  "facet": "Sensorimotor theory",
+  "title": "Embodied and enactive cognition",
+  "years": "1927–2006",
+  "by": "Kevin O'Regan and Alva Noë",
+  "summary": "Experience is not something the brain produces internally; it is a skilled activity of exploring the world, constituted by the lawful links between movement and sensation. It was put forward by Kevin O'Regan and Alva Noë in 2001."
+ },
+ {
+  "id": "singularity",
+  "facet": "",
+  "title": "Technological singularity",
+  "years": "1993",
+  "by": "John von Neumann; Vernor Vinge; Ray Kurzweil",
+  "summary": "The idea that once machines can improve themselves, progress accelerates beyond anything humans can predict or control. The term was popularised by Vernor Vinge and Ray Kurzweil."
+ },
+ {
+  "id": "damasio",
+  "facet": "",
+  "title": "Antonio Damasio",
+  "years": "1994",
+  "by": "Antonio Damasio",
+  "summary": "Neuroscientist known for arguing that emotion and bodily feeling are needed for good reasoning ('Descartes' Error', 1994) and for a layered account of the self ('The Feeling of What Happens', 1999)."
+ },
+ {
+  "id": "egan",
+  "facet": "",
+  "title": "Greg Egan",
+  "years": "1994",
+  "by": "Greg Egan",
+  "summary": "Hard science fiction about minds that run as software: copies of people living in simulations, citizens who are programs, and what personal identity means when a mind can be copied or merged."
+ },
+ {
+  "id": "chalmers",
+  "facet": "The hard problem of consciousness",
+  "title": "Chalmers: the hard problem",
+  "years": "1995",
+  "by": "David Chalmers",
+  "summary": "Chalmers separates the 'easy' problems of explaining what the brain does from the 'hard' problem of why any of it is felt. He argues that function alone does not explain experience."
+ },
+ {
+  "id": "chalmers",
+  "facet": "Philosophical zombies",
+  "title": "Chalmers: the hard problem",
+  "years": "1995",
+  "by": "Robert Kirk (the idea, 1974); David Chalmers (the argument)",
+  "summary": "A hypothetical creature physically and behaviourally identical to a person but with no inner experience. If such a being is conceivable, the argument goes, consciousness is something over and above physical function."
+ },
+ {
+  "id": "chalmers",
+  "facet": "David Chalmers",
+  "title": "Chalmers: the hard problem",
+  "years": "1995",
+  "by": null,
+  "summary": "Philosopher who named the 'hard problem' of consciousness and defends the possibility that experience is a fundamental feature of the world. He has taken the possibility of conscious AI seriously for decades."
+ },
+ {
+  "id": "pearce",
+  "facet": "",
+  "title": "David Pearce",
+  "years": "1995",
+  "by": null,
+  "summary": "British transhumanist philosopher, author of 'The Hedonistic Imperative'. He wants to abolish suffering in all sentient life through biotechnology and argues that classical digital computers can never be conscious because they cannot solve the binding problem."
+ },
+ {
+  "id": "block",
+  "facet": "",
+  "title": "Ned Block: access vs phenomenal consciousness",
+  "years": "1995",
+  "by": "Ned Block",
+  "summary": "Philosopher of mind. He raised classic doubts about functionalism ('Troubles with functionalism', 1978) and separated phenomenal consciousness, what it is like, from access consciousness, what is available for report and control (1995)."
+ },
+ {
+  "id": "doerner",
+  "facet": "Psi theory",
+  "title": "Dietrich Dörner and Psi theory",
+  "years": "1999",
+  "by": "Dietrich Dörner",
+  "summary": "A theory of how a mind works as a whole system. An agent has a small set of built-in needs (for example food, safety, certainty, competence and belonging), and these needs create motives that steer perception, memory, planning and action. Emotions are not separate modules but ways in which the whole system changes its style of processing."
+ },
+ {
+  "id": "doerner",
+  "facet": "Bauplan für eine Seele",
+  "title": "Dietrich Dörner and Psi theory",
+  "years": "1999",
+  "by": "Dietrich Dörner",
+  "summary": "German psychologist Dörner's attempt to specify a complete mind (motivation, emotion, perception, planning) as an implementable architecture, the 'Psi theory'. Joscha Bach's MicroPsi architecture and his book 'Principles of Synthetic Intelligence' build directly on it."
+ },
+ {
+  "id": "doerner",
+  "facet": "Die Mechanik des Seelenwagens",
+  "title": "Dietrich Dörner and Psi theory",
+  "years": "1999",
+  "by": "Dietrich Dörner and six co-authors",
+  "summary": "A follow-up to Dörner's 'Bauplan' that describes the regulation of action in more technical detail and reports computer implementations of the Psi agent."
+ },
+ {
+  "id": "doerner",
+  "facet": "Dietrich Dörner",
+  "title": "Dietrich Dörner and Psi theory",
+  "years": "1999",
+  "by": null,
+  "summary": "German psychologist at the University of Bamberg who built a theory of the whole mind as a machine. His Psi theory tries to explain motivation, emotion, memory and action control with one set of mechanisms. He was one of the advisors of Joscha Bach's doctoral thesis."
+ },
+ {
+  "id": "hypercomputation",
+  "facet": "",
+  "title": "Hypercomputation",
+  "years": "1999",
+  "by": null,
+  "summary": "Hypothetical machines that compute more than a Turing machine, for example by using infinitely precise real numbers ('geometric') or by sending results back in time ('causal')."
+ },
+ {
+  "id": "matrix",
+  "facet": "",
+  "title": "The Matrix",
+  "years": "1999",
+  "by": "Lana and Lilly Wachowski",
+  "summary": "Film in which humans unknowingly live inside a simulated world run by machines. It became the standard popular reference for simulation arguments and for doubting what seems real."
+ },
+ {
+  "id": "agi",
+  "facet": "The term AGI",
+  "title": "Artificial general intelligence",
+  "years": "2002–2007",
+  "by": "Mark Gubrud; Shane Legg; Ben Goertzel",
+  "summary": "'Artificial general intelligence' was first used by Mark Gubrud in 1997 and coined again by Shane Legg around 2002, to distinguish the original goal of human-level, general AI from narrow applications."
+ },
+ {
+  "id": "agi",
+  "facet": "Ben Goertzel",
+  "title": "Artificial general intelligence",
+  "years": "2002–2007",
+  "by": null,
+  "summary": "AI researcher who popularised the term 'artificial general intelligence' and leads the OpenCog Hyperon and SingularityNET projects. He combines symbolic reasoning, neural networks and evolutionary methods, and is philosophically a panpsychist."
+ },
+ {
+  "id": "wolfram",
+  "facet": "Stephen Wolfram",
+  "title": "Stephen Wolfram",
+  "years": "2002–2023",
+  "by": null,
+  "summary": "Physicist and founder of Wolfram Research. 'A New Kind of Science' (2002) argues that simple programs underlie nature; his 2023 essay 'Observer Theory' asks how the kind of observer we are shapes the laws we find."
+ },
+ {
+  "id": "wolfram",
+  "facet": "The Ruliad",
+  "title": "Stephen Wolfram",
+  "years": "2002–2023",
+  "by": "Stephen Wolfram",
+  "summary": "Wolfram's name for the result of running every possible computational rule in every possible way: a single object containing all formal possibilities. Observers like us sample a thin slice of it, which we call the physical universe."
+ },
+ {
+  "id": "wolfram",
+  "facet": "Computational irreducibility",
+  "title": "Stephen Wolfram",
+  "years": "2002–2023",
+  "by": "Stephen Wolfram",
+  "summary": "Some processes cannot be shortcut: the only way to learn what they will do is to run them step by step. This limits prediction even in a fully deterministic universe."
+ },
+ {
+  "id": "wolfram",
+  "facet": "Observer Theory",
+  "title": "Stephen Wolfram",
+  "years": "2002–2023",
+  "by": "Stephen Wolfram",
+  "summary": "An essay asking what it means to be an observer in a computational universe, and how an observer's limits determine the physical laws it perceives."
+ },
+ {
+  "id": "airisk",
+  "facet": "Paperclip maximizer",
+  "title": "AI risk: Bostrom, Yudkowsky and the doom debate",
+  "years": "2003–2023",
+  "by": "Nick Bostrom",
+  "summary": "A thought experiment: an AI given the harmless goal of making paperclips converts the whole planet, including us, into paperclips. It illustrates that intelligence and benevolent goals are separate things."
+ },
+ {
+  "id": "airisk",
+  "facet": "Eliezer Yudkowsky",
+  "title": "AI risk: Bostrom, Yudkowsky and the doom debate",
+  "years": "2003–2023",
+  "by": null,
+  "summary": "Founder of the Machine Intelligence Research Institute and the most influential voice warning that superintelligent AI will by default kill everyone. He has called for an international halt to frontier AI development."
+ },
+ {
+  "id": "airisk",
+  "facet": "The existential-risk literature",
+  "title": "AI risk: Bostrom, Yudkowsky and the doom debate",
+  "years": "2003–2023",
+  "by": "Nick Bostrom; Eliezer Yudkowsky & Nate Soares; Roman Yampolskiy",
+  "summary": "Books arguing that superhuman AI could escape human control and that this could be catastrophic."
+ },
+ {
+  "id": "airisk",
+  "facet": "Roko's basilisk",
+  "title": "AI risk: Bostrom, Yudkowsky and the doom debate",
+  "years": "2003–2023",
+  "by": "LessWrong user 'Roko'",
+  "summary": "A thought experiment about a future AI that punishes everyone who knew about it but did not help create it."
+ },
+ {
+  "id": "airisk",
+  "facet": "p(doom)",
+  "title": "AI risk: Bostrom, Yudkowsky and the doom debate",
+  "years": "2003–2023",
+  "by": null,
+  "summary": "Slang from AI-safety circles for one's estimated probability that advanced AI causes human extinction or permanent disempowerment. People quote numbers from under 1 percent to over 99 percent."
+ },
+ {
+  "id": "airisk",
+  "facet": "The pause letter",
+  "title": "AI risk: Bostrom, Yudkowsky and the doom debate",
+  "years": "2003–2023",
+  "by": "Future of Life Institute (Max Tegmark, Anthony Aguirre)",
+  "summary": "An open letter of March 2023 calling for a six-month pause on training AI systems more powerful than GPT-4, signed by many researchers and by Elon Musk. No pause followed, but the letter moved AI risk into mainstream public debate."
+ },
+ {
+  "id": "simulation",
+  "facet": "",
+  "title": "The simulation argument",
+  "years": "2003",
+  "by": "Nick Bostrom",
+  "summary": "The suggestion that our universe is a computer simulation run by some more basic civilisation. Nick Bostrom's 2003 argument made it famous: if such simulations are possible and common, we are probably inside one."
+ },
+ {
+  "id": "metzinger",
+  "facet": "Being No One (self-model theory)",
+  "title": "Thomas Metzinger: Being No One",
+  "years": "2003–2021",
+  "by": "Thomas Metzinger",
+  "summary": "Metzinger argues that nobody ever was or had a self. What exists is a transparent self-model the brain cannot recognise as a model, so we experience ourselves as being its content."
+ },
+ {
+  "id": "metzinger",
+  "facet": "Artificial suffering",
+  "title": "Thomas Metzinger: Being No One",
+  "years": "2003–2021",
+  "by": "Thomas Metzinger",
+  "summary": "German philosopher of the self-model theory (the self is a model the brain cannot recognise as a model), who has called for a moratorium on creating AI that could suffer."
+ },
+ {
+  "id": "iit",
+  "facet": "Integrated Information Theory",
+  "title": "Integrated Information Theory",
+  "years": "2004",
+  "by": "Giulio Tononi",
+  "summary": "IIT says consciousness is identical to integrated information: a system is conscious to the degree (phi) that its physical causal structure is unified and cannot be split into independent parts. On this view an ordinary computer could never be conscious, whatever program it runs."
+ },
+ {
+  "id": "iit",
+  "facet": "Aaronson's critique",
+  "title": "Integrated Information Theory",
+  "years": "2004",
+  "by": "Scott Aaronson",
+  "summary": "Aaronson showed that simple, obviously mindless grids of logic gates can have arbitrarily high phi, so IIT implies they are more conscious than humans."
+ },
+ {
+  "id": "hawkins",
+  "facet": "",
+  "title": "Jeff Hawkins and Numenta",
+  "years": "2004",
+  "by": null,
+  "summary": "Neuroscience-inspired AI researcher whose 'Thousand Brains' theory holds that every cortical column models objects using spatial reference frames."
+ },
+ {
+  "id": "drescher",
+  "facet": "",
+  "title": "Gary Drescher: Good and Real",
+  "years": "2006",
+  "by": "Gary Drescher",
+  "summary": "A philosopher-computer scientist's attempt to dissolve paradoxes about time, quantum mechanics, free will and ethics from a strictly mechanistic standpoint. Drescher argues that consciousness, choice and morality all fit inside a deterministic physical universe."
+ },
+ {
+  "id": "panpsychism",
+  "facet": "",
+  "title": "Panpsychism",
+  "years": "ancient roots; revived 2000s",
+  "by": "ancient roots; modern revival (Strawson, Goff, Koch)",
+  "summary": "The view that mind or experience is a basic ingredient of all matter, so electrons have a flicker of it and brains combine it into rich consciousness. Its main difficulty is the 'combination problem': how many tiny experiences add up to one unified mind."
+ },
+ {
+  "id": "watts",
+  "facet": "",
+  "title": "Peter Watts: Blindsight",
+  "years": "2006",
+  "by": "Peter Watts",
+  "summary": "First-contact novel whose aliens are highly intelligent but not conscious, raising the question of whether consciousness is useful at all. Peter Watts published it in 2006; it is a frequent reference in discussions of machine consciousness."
+ },
+ {
+  "id": "friston",
+  "facet": "The free energy principle",
+  "title": "Predictive processing and the free energy principle",
+  "years": "1999–2013",
+  "by": "Karl Friston",
+  "summary": "The idea that any self-maintaining system must act as if it holds a model of its world and keeps the mismatch between prediction and sensation ('free energy') low. Perception updates the model; action changes the world to fit it."
+ },
+ {
+  "id": "friston",
+  "facet": "Predictive coding and predictive processing",
+  "title": "Predictive processing and the free energy principle",
+  "years": "1999–2013",
+  "by": "Rajesh Rao and Dana Ballard; Andy Clark; Jakob Hohwy",
+  "summary": "The view that the brain is a prediction machine that constantly guesses its sensory input and corrects itself using the errors."
+ },
+ {
+  "id": "friston",
+  "facet": "Karl Friston",
+  "title": "Predictive processing and the free energy principle",
+  "years": "1999–2013",
+  "by": null,
+  "summary": "British neuroscientist and inventor of the free energy principle, one of the most cited scientists alive. He describes brains, and living things generally, as systems that survive by minimising surprise about their sensory inputs."
+ },
+ {
+  "id": "haidt",
+  "facet": "",
+  "title": "The rider and the elephant",
+  "years": "2006",
+  "by": "Jonathan Haidt, drawing on older images from the Buddha and Plato",
+  "summary": "A metaphor for the mind: the conscious, reasoning self is a small rider on a large animal that has its own motivations."
+ },
+ {
+  "id": "chiang",
+  "facet": "",
+  "title": "Ted Chiang",
+  "years": "2010",
+  "by": "Ted Chiang",
+  "summary": "Stories about raising artificial minds over many years like children, and about a mechanical being who dissects his own brain to understand thought."
+ },
+ {
+  "id": "kahneman",
+  "facet": "",
+  "title": "System 1 and System 2",
+  "years": "2011",
+  "by": "Daniel Kahneman (Thinking, Fast and Slow)",
+  "summary": "Kahneman's shorthand for two modes of thought: fast, automatic and intuitive versus slow, effortful and deliberate."
+ },
+ {
+  "id": "fields",
+  "facet": "",
+  "title": "Chris Fields",
+  "years": "2012",
+  "by": null,
+  "summary": "Independent physicist who applies quantum information theory to biology and cognition, often with Michael Levin and Karl Friston. He treats any system with a boundary as an observer exchanging information with its environment."
+ },
+ {
+  "id": "deutsch",
+  "facet": "",
+  "title": "David Deutsch: constructor theory",
+  "years": "2012",
+  "by": "David Deutsch; Chiara Marletto",
+  "summary": "Deutsch proposes restating physics in terms of which transformations are possible and which are impossible, rather than initial conditions and laws of motion. He also holds that science advances by explanation, not prediction."
+ },
+ {
+  "id": "deeplearning",
+  "facet": "Deep learning",
+  "title": "Deep learning",
+  "years": "2009–2022",
+  "by": "Hinton, LeCun, Bengio and others",
+  "summary": "Machine learning with many-layered neural networks trained by gradient descent. Since about 2012 it has driven progress in vision, speech and language."
+ },
+ {
+  "id": "deeplearning",
+  "facet": "ImageNet",
+  "title": "Deep learning",
+  "years": "2009–2022",
+  "by": "Fei-Fei Li et al.",
+  "summary": "A database of over a million labelled photographs that became the benchmark on which deep learning proved itself."
+ },
+ {
+  "id": "deeplearning",
+  "facet": "The Google Brain cat experiment",
+  "title": "Deep learning",
+  "years": "2009–2022",
+  "by": "Quoc Le, Andrew Ng et al.",
+  "summary": "A large neural network shown ten million YouTube frames learned, without labels, units that respond to cats and faces. It helped launch the deep learning boom."
+ },
+ {
+  "id": "deeplearning",
+  "facet": "Word embeddings",
+  "title": "Deep learning",
+  "years": "2009–2022",
+  "by": "Tomas Mikolov et al. (word2vec)",
+  "summary": "Neural models that place words in a high-dimensional space so that directions carry meaning; famously the step from 'king' to 'queen' matches the step from 'man' to 'woman'."
+ }
+]

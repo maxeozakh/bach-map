@@ -1,0 +1,442 @@
+[
+ {
+  "id": "digital",
+  "facet": "",
+  "title": "Digital physics",
+  "years": "1969",
+  "by": "Konrad Zuse",
+  "summary": "The hypothesis that the universe is, at bottom, a discrete computation such as a cellular automaton. Zuse proposed it in 'Rechnender Raum' (1969); Fredkin and Wolfram developed it."
+ },
+ {
+  "id": "conway",
+  "facet": "",
+  "title": "Conway's Game of Life",
+  "years": "1970",
+  "by": "John Conway",
+  "summary": "A grid of cells that live or die according to how many neighbours they have. From these few rules arise gliders, self-copying patterns and even complete computers."
+ },
+ {
+  "id": "mirror",
+  "facet": "",
+  "title": "Mirror test",
+  "years": "1970",
+  "by": "Gordon Gallup Jr.",
+  "summary": "A test of self-recognition: put a mark on an animal's face and see whether it uses a mirror to investigate the mark on itself."
+ },
+ {
+  "id": "pribram",
+  "facet": "",
+  "title": "Holonomic brain theory",
+  "years": "1971",
+  "by": "Karl Pribram (with David Bohm)",
+  "summary": "Pribram's idea that the brain stores information like a hologram, spread across interference patterns, so each part contains something of the whole. It was inspired by the fact that memories survive quite large local brain damage."
+ },
+ {
+  "id": "dreyfus",
+  "facet": "",
+  "title": "Dreyfus: What Computers Still Can't Do",
+  "years": "1972 / 1992",
+  "by": "Hubert Dreyfus",
+  "summary": "A philosopher's long-running critique of symbolic AI. Dreyfus argued that human skill rests on bodily know-how and context that cannot be written down as explicit rules."
+ },
+ {
+  "id": "gaia",
+  "facet": "",
+  "title": "Gaia hypothesis",
+  "years": "1972",
+  "by": "James Lovelock; Lynn Margulis",
+  "summary": "The proposal that life on Earth, taken together, regulates the planet's atmosphere and climate as if it were a single organism. James Lovelock and Lynn Margulis proposed it in the 1970s."
+ },
+ {
+  "id": "nagel",
+  "facet": "",
+  "title": "Nagel: What Is It Like to Be a Bat?",
+  "years": "1974",
+  "by": "Thomas Nagel",
+  "summary": "Nagel argues that an organism is conscious if there is something it is like to be that organism, and that objective science seems to leave this point of view out."
+ },
+ {
+  "id": "groupsel",
+  "facet": "",
+  "title": "Multilevel selection",
+  "years": "1975",
+  "by": "D. S. Wilson; E. O. Wilson",
+  "summary": "Natural selection acts at several levels at once: selfish individuals beat altruists within a group, but groups of altruists beat groups of egoists."
+ },
+ {
+  "id": "fodor",
+  "facet": "",
+  "title": "The language of thought",
+  "years": "1975",
+  "by": "Jerry Fodor",
+  "summary": "Claims that thinking happens in an inner symbolic code with a grammar, somewhat like a language. This is the classic statement of symbolic cognitive science."
+ },
+ {
+  "id": "grossberg",
+  "facet": "",
+  "title": "Adaptive Resonance Theory",
+  "years": "1976",
+  "by": "Stephen Grossberg",
+  "summary": "Grossberg's theory that the brain learns stably by matching top-down expectations against bottom-up input; on his account every conscious state is such a 'resonance' between the two."
+ },
+ {
+  "id": "dawkins",
+  "facet": "",
+  "title": "Dawkins: selfish genes and memes",
+  "years": "1976",
+  "by": "Richard Dawkins",
+  "summary": "Dawkins reframed evolution as competition between genes, with organisms as the vehicles genes build to get themselves copied. The book also introduced the 'meme'."
+ },
+ {
+  "id": "jaynes",
+  "facet": "",
+  "title": "Jaynes: the bicameral mind",
+  "years": "1976",
+  "by": "Julian Jaynes",
+  "summary": "Jaynes claimed that until about 3,000 years ago people did not experience an inner self; they heard the commands of gods as voices, produced by one half of the brain and obeyed by the other."
+ },
+ {
+  "id": "schank",
+  "facet": "",
+  "title": "Scripts, Plans, Goals and Understanding",
+  "years": "1977",
+  "by": "Roger Schank, Robert Abelson",
+  "summary": "Proposed that people understand everyday situations through 'scripts', stored step-by-step outlines such as what happens in a restaurant."
+ },
+ {
+  "id": "sloman",
+  "facet": "",
+  "title": "Aaron Sloman",
+  "years": "1978",
+  "by": null,
+  "summary": "British philosopher and AI researcher. He argued that philosophy of mind should be done by designing working minds, and he proposed the CogAff scheme that sorts mental processes into reactive, deliberative and reflective layers."
+ },
+ {
+  "id": "hofstadter",
+  "facet": "",
+  "title": "Hofstadter: strange loops",
+  "years": "1979–2007",
+  "by": "Douglas Hofstadter",
+  "summary": "In 'Gödel, Escher, Bach' and 'I Am a Strange Loop', Hofstadter suggests the self arises when a symbol system becomes able to refer to itself, a tangled feedback loop like Gödel's self-referential sentence. On this view 'I' is a pattern, not a thing, and could in principle exist in other substrates."
+ },
+ {
+  "id": "lucid",
+  "facet": "",
+  "title": "Lucid dreaming",
+  "years": "1980",
+  "by": "Stephen LaBerge (scientific study)",
+  "summary": "Dreaming while knowing that you are dreaming, sometimes with control over the dream. It has been confirmed in sleep laboratories, where dreamers signal with agreed eye movements."
+ },
+ {
+  "id": "thatcher",
+  "facet": "The Thatcher illusion",
+  "title": "Perceptual illusions",
+  "years": "1980 / 2015",
+  "by": "Peter Thompson",
+  "summary": "If a face is shown upside down with the eyes and mouth flipped, it looks normal until you turn the picture upright, when it looks grotesque."
+ },
+ {
+  "id": "thatcher",
+  "facet": "The dress",
+  "title": "Perceptual illusions",
+  "years": "1980 / 2015",
+  "by": null,
+  "summary": "A viral photograph of a dress that some people saw as white and gold and others as blue and black, because their visual systems made different assumptions about the lighting."
+ },
+ {
+  "id": "searle",
+  "facet": "",
+  "title": "Searle: the Chinese room",
+  "years": "1980",
+  "by": "John Searle",
+  "summary": "Berkeley philosopher who held that consciousness is a biological product of the brain's specific causal powers, like digestion, so that a program alone, however clever, cannot have it. His Chinese Room thought experiment is the best-known argument that manipulating symbols is not the same as understanding them."
+ },
+ {
+  "id": "mandelbrot",
+  "facet": "",
+  "title": "The Mandelbrot set",
+  "years": "1980",
+  "by": "Benoît Mandelbrot",
+  "summary": "The Mandelbrot set is an infinitely detailed shape generated by repeating one tiny formula. It is a standard example of unlimited complexity from a simple rule."
+ },
+ {
+  "id": "binding",
+  "facet": "The binding problem",
+  "title": "The binding problem and neural synchrony",
+  "years": "1980–1990",
+  "by": "Anne Treisman & Garry Gelade; Peter Milner; Francis Crick & Christof Koch",
+  "summary": "The question of how the brain joins separately processed features such as colour, shape and motion into one perceived object. Proposed answers include an attention-driven integration step and the synchronised firing of the neurons involved."
+ },
+ {
+  "id": "binding",
+  "facet": "Wolf Singer and 40 Hz synchrony",
+  "title": "The binding problem and neural synchrony",
+  "years": "1980–1990",
+  "by": "Wolf Singer (also Crick and Koch)",
+  "summary": "The proposal that consciousness, or the binding of features into one percept, is tied to neurons firing in synchrony at around 40 cycles per second."
+ },
+ {
+  "id": "binding",
+  "facet": "Christoph von der Malsburg",
+  "title": "The binding problem and neural synchrony",
+  "years": "1980–1990",
+  "by": null,
+  "summary": "German neuroscientist and physicist. In 1981 he proposed that the brain binds features into objects through temporary correlations between neurons, and later defined consciousness as a state of high coherence among the brain's subsystems."
+ },
+ {
+  "id": "kegan",
+  "facet": "",
+  "title": "Kegan's stages of adult development",
+  "years": "1982",
+  "by": "Robert Kegan",
+  "summary": "Harvard psychologist's model in which adults can move from absorbing their beliefs from their group (stage 3), to reasoning independently (stage 4), to seeing how identities and value systems are themselves constructed (stage 5). Each stage makes an object of what the previous stage was unreflectively subject to."
+ },
+ {
+  "id": "quantumcomp",
+  "facet": "",
+  "title": "Quantum computing",
+  "years": "1982",
+  "by": "Richard Feynman; David Deutsch",
+  "summary": "Computers that use quantum superposition and entanglement to solve certain problems, such as factoring, far faster than any known classical method. Building them is hard because quantum states are destroyed by the slightest disturbance from the environment."
+ },
+ {
+  "id": "streams",
+  "facet": "",
+  "title": "Two visual streams",
+  "years": "1982",
+  "by": "Ungerleider & Mishkin; Goodale & Milner",
+  "summary": "Visual processing in the cortex splits into a ventral 'what' pathway that identifies objects and a dorsal 'where/how' pathway that locates them and guides action."
+ },
+ {
+  "id": "libet",
+  "facet": "",
+  "title": "Libet's readiness-potential experiments",
+  "years": "1983",
+  "by": "Benjamin Libet et al.",
+  "summary": "Experiments in which brain activity leading to a voluntary movement began a fraction of a second before people reported deciding to move."
+ },
+ {
+  "id": "levine",
+  "facet": "",
+  "title": "The explanatory gap",
+  "years": "1983",
+  "by": "Joseph Levine",
+  "summary": "Levine's name for the gap between any physical or functional description of the brain and an explanation of why it feels the way it does."
+ },
+ {
+  "id": "braitenberg",
+  "facet": "",
+  "title": "Braitenberg: Vehicles",
+  "years": "1984",
+  "by": "Valentino Braitenberg",
+  "summary": "A short book of thought experiments. Very simple wheeled machines with a few sensors and motors seem to show fear, love or curiosity, which suggests that complex-looking behaviour can come from simple wiring."
+ },
+ {
+  "id": "cyc",
+  "facet": "",
+  "title": "Cyc",
+  "years": "1984",
+  "by": "Douglas Lenat",
+  "summary": "A decades-long project to hand-code millions of common-sense facts and rules so that a machine could reason like a person. Doug Lenat started it in 1984; it never produced general intelligence and became the emblem of hand-built AI."
+ },
+ {
+  "id": "boltzmannmachine",
+  "facet": "",
+  "title": "Boltzmann machine",
+  "years": "1985",
+  "by": "Geoffrey Hinton, Terrence Sejnowski, David Ackley",
+  "summary": "A neural network in which units constrain each other and the whole settles into a low-energy state consistent with the inputs. The restricted version (RBM) drops within-layer links to make training feasible and helped launch deep learning."
+ },
+ {
+  "id": "bischof",
+  "facet": "",
+  "title": "Norbert Bischof",
+  "years": "1980s",
+  "by": null,
+  "summary": "German psychologist who modelled motivation, attachment and social distance as control systems."
+ },
+ {
+  "id": "sicp",
+  "facet": "",
+  "title": "Structure and Interpretation of Computer Programs",
+  "years": "1985",
+  "by": "Harold Abelson; Gerald Jay Sussman",
+  "summary": "MIT's classic introductory programming textbook. It opens by describing computational processes as abstract beings that inhabit computers and are conjured by programs, like spirits by spells."
+ },
+ {
+  "id": "autopoiesis",
+  "facet": "",
+  "title": "Autocatalytic networks and autopoiesis",
+  "years": "1972–1986",
+  "by": "Stuart Kauffman; Wim Hordijk & Mike Steel; Humberto Maturana & Francisco Varela",
+  "summary": "Models of how a set of parts can come to produce and maintain itself as a whole, first used to explain the origin of life. Autopoiesis is the related idea of a system that continually makes its own components."
+ },
+ {
+  "id": "pdp",
+  "facet": "",
+  "title": "Connectionism and backpropagation",
+  "years": "1986",
+  "by": "Rumelhart, Hinton & Williams (popularised)",
+  "summary": "The standard way to train neural networks: measure the output error and pass it backwards through the layers to work out how much each connection contributed, then adjust."
+ },
+ {
+  "id": "hot",
+  "facet": "",
+  "title": "Higher-order thought theory",
+  "years": "1986",
+  "by": "David Rosenthal",
+  "summary": "A mental state is conscious when there is a higher-order thought about it: a thought that one is in that state."
+ },
+ {
+  "id": "brooks",
+  "facet": "",
+  "title": "Rodney Brooks: subsumption architecture",
+  "years": "1986",
+  "by": "Rodney Brooks",
+  "summary": "Brooks argued that intelligence should be grown from the bottom up in robots that act in the world, using layers of simple behaviours with no central world model. The Roomba descends from this work."
+ },
+ {
+  "id": "cogarch",
+  "facet": "Cognitive architectures",
+  "title": "Cognitive architectures: Soar and ACT-R",
+  "years": "1987–2017",
+  "by": "Allen Newell, John Laird; John R. Anderson",
+  "summary": "A research tradition that tries to build complete, testable models of a whole mind (perception, memory, motivation, language) rather than isolated modules. It goes under names like cognitive systems, AGI and BICA."
+ },
+ {
+  "id": "cogarch",
+  "facet": "Soar and Unified Theories of Cognition",
+  "title": "Cognitive architectures: Soar and ACT-R",
+  "years": "1987–2017",
+  "by": "Allen Newell; John Laird, Paul Rosenbloom",
+  "summary": "Newell argued that psychology needs single theories that cover all of cognition, built as running computer architectures. Soar is his group's example: a system that solves problems by applying rules and learning new ones."
+ },
+ {
+  "id": "cogarch",
+  "facet": "ACT-R",
+  "title": "Cognitive architectures: Soar and ACT-R",
+  "years": "1987–2017",
+  "by": "John R. Anderson",
+  "summary": "A widely used cognitive architecture from psychology. It models thinking as rules that fire one at a time over chunks of memory, each with a numeric level of activation, and it is tested against timing data from human experiments."
+ },
+ {
+  "id": "cogarch",
+  "facet": "A Standard Model of the Mind",
+  "title": "Cognitive architectures: Soar and ACT-R",
+  "years": "1987–2017",
+  "by": "John Laird, Christian Lebiere, Paul Rosenbloom",
+  "summary": "A proposal for a shared baseline architecture of human-like minds that AI, cognitive science, neuroscience and robotics could all refer to."
+ },
+ {
+  "id": "edelman",
+  "facet": "",
+  "title": "Neural Darwinism",
+  "years": "1987",
+  "by": "Gerald Edelman",
+  "summary": "Edelman's theory that the brain wires itself by selection: groups of neurons compete, and those whose activity proves useful are strengthened. On this view the brain is not programmed with instructions but shaped by competition, like an immune system."
+ },
+ {
+  "id": "gwt",
+  "facet": "",
+  "title": "Global Workspace Theory",
+  "years": "1988",
+  "by": "Bernard Baars; Stanislas Dehaene",
+  "summary": "Many specialised brain processes run unconsciously; what becomes conscious is whatever is broadcast on a shared 'workspace' so that all of them can use it. Dehaene found neural signatures of this global broadcast."
+ },
+ {
+  "id": "occ",
+  "facet": "",
+  "title": "The Cognitive Structure of Emotions",
+  "years": "1988",
+  "by": "Andrew Ortony, Gerald Clore, Allan Collins",
+  "summary": "A widely used scheme that sorts emotions into types according to how a person appraises events, agents and objects. Many software agents use it as a lookup table for emotions."
+ },
+ {
+  "id": "mysterianism",
+  "facet": "",
+  "title": "Mysterianism",
+  "years": "1989",
+  "by": "Colin McGinn; Noam Chomsky",
+  "summary": "The view that the human mind is simply not built to understand how consciousness arises from matter, as a dog cannot understand calculus. Its best-known defender is the philosopher Colin McGinn."
+ },
+ {
+  "id": "penrose",
+  "facet": "The Gödelian argument and The Emperor's New Mind",
+  "title": "Penrose and Hameroff: quantum consciousness",
+  "years": "1989–1994",
+  "by": "Roger Penrose",
+  "summary": "Penrose's bestseller arguing that minds do something no algorithm can: see the truth of statements that formal systems cannot prove. He concludes that brains exploit non-computable physics."
+ },
+ {
+  "id": "penrose",
+  "facet": "Orchestrated objective reduction (Orch OR)",
+  "title": "Penrose and Hameroff: quantum consciousness",
+  "years": "1989–1994",
+  "by": "Roger Penrose; Stuart Hameroff",
+  "summary": "The proposal that consciousness arises when quantum states in microtubules inside neurons collapse under a gravitational threshold. It combines Penrose's physics with Hameroff's cell biology."
+ },
+ {
+  "id": "penrose",
+  "facet": "The Road to Reality",
+  "title": "Penrose and Hameroff: quantum consciousness",
+  "years": "1989–1994",
+  "by": "Roger Penrose",
+  "summary": "Penrose's huge survey of the mathematics behind modern physics, from numbers to quantum gravity, written for determined general readers. It runs to more than a thousand pages and does not avoid the equations."
+ },
+ {
+  "id": "penrose",
+  "facet": "Stuart Hameroff",
+  "title": "Penrose and Hameroff: quantum consciousness",
+  "years": "1989–1994",
+  "by": null,
+  "summary": "Anesthesiologist at the University of Arizona who proposed in the 1980s that microtubules, protein tubes inside neurons, process information like tiny computers, and who organises the Science of Consciousness conference. With Penrose he turned this into the quantum 'Orch OR' theory of consciousness."
+ },
+ {
+  "id": "penrose",
+  "facet": "Roger Penrose",
+  "title": "Penrose and Hameroff: quantum consciousness",
+  "years": "1989–1994",
+  "by": null,
+  "summary": "Nobel-winning mathematical physicist who argues from Gödel's theorem that human understanding is not computable, and therefore that consciousness must depend on new physics. With Stuart Hameroff he proposed that the missing physics is a gravity-related collapse of quantum states inside neurons."
+ },
+ {
+  "id": "ncc",
+  "facet": "Neural correlates of consciousness",
+  "title": "Crick and Koch: neural correlates of consciousness",
+  "years": "1990",
+  "by": "Francis Crick; Christof Koch",
+  "summary": "The research programme of finding the minimal brain activity that reliably accompanies a given conscious experience, without first solving why."
+ },
+ {
+  "id": "ncc",
+  "facet": "Christof Koch",
+  "title": "Crick and Koch: neural correlates of consciousness",
+  "years": "1990",
+  "by": null,
+  "summary": "Neuroscientist who pioneered the search for neural correlates of consciousness with Francis Crick and later became IIT's most prominent advocate."
+ },
+ {
+  "id": "witten",
+  "facet": "",
+  "title": "Ian Witten: cognition as compression",
+  "years": "1980s–1990s",
+  "by": null,
+  "summary": "English-born computer scientist at the University of Waikato, New Zealand, who co-invented prediction-based text compression (PPM) and popularised arithmetic coding; the idea is that to compress data well you must predict it, which requires modelling its structure."
+ },
+ {
+  "id": "wheeler",
+  "facet": "",
+  "title": "It from bit",
+  "years": "1990",
+  "by": "John Archibald Wheeler",
+  "summary": "Wheeler's slogan for the idea that information is more basic than matter and energy: every physical 'it' comes from yes-or-no answers, 'bits'."
+ },
+ {
+  "id": "schmidhuber",
+  "facet": "",
+  "title": "Jürgen Schmidhuber",
+  "years": "1990",
+  "by": "Jürgen Schmidhuber",
+  "summary": "The idea that learning is data compression and that curiosity and beauty are rewards for finding better compressions."
+ }
+]

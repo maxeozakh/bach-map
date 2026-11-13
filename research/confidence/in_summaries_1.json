@@ -1,0 +1,434 @@
+[
+ {
+  "id": "animism",
+  "facet": "",
+  "title": "Animism",
+  "years": "prehistoric",
+  "by": null,
+  "summary": "The belief, found in most traditional cultures, that living things and sometimes places are inhabited by spirits. It is often treated as the oldest form of religion."
+ },
+ {
+  "id": "greekgods",
+  "facet": "",
+  "title": "Greek gods as archetypes",
+  "years": "c. 8th c. BCE",
+  "by": null,
+  "summary": "The Olympian gods each personify a domain of human character: war, love, cunning, craft. They quarrel, scheme and take sides in human affairs, as in Homer."
+ },
+ {
+  "id": "genesis",
+  "facet": "Genesis 1",
+  "title": "Genesis and the Hebrew Bible",
+  "years": "c. 6th c. BCE",
+  "by": "Hebrew Bible",
+  "summary": "The opening chapter of the Bible, in which God separates light from darkness and the waters above from those below, then makes plants, animals and humans. It is usually read as an account of the creation of the physical world in six days."
+ },
+ {
+  "id": "genesis",
+  "facet": "Adam and Eve",
+  "title": "Genesis and the Hebrew Bible",
+  "years": "c. 6th c. BCE",
+  "by": "Hebrew Bible",
+  "summary": "The biblical story of the first humans living in a paradise without suffering until they eat from the tree of knowledge and are expelled."
+ },
+ {
+  "id": "genesis",
+  "facet": "Tower of Babel",
+  "title": "Genesis and the Hebrew Bible",
+  "years": "c. 6th c. BCE",
+  "by": "Hebrew Bible",
+  "summary": "The story in which humanity's shared language is confused so that people can no longer understand each other and their great tower is abandoned. It appears in Genesis 11 and is traditionally read as a warning against human overreach."
+ },
+ {
+  "id": "genesis",
+  "facet": "The God of Abraham",
+  "title": "Genesis and the Hebrew Bible",
+  "years": "c. 6th c. BCE",
+  "by": null,
+  "summary": "The Abrahamic religions worship a single God who makes a covenant with a people and gives them law."
+ },
+ {
+  "id": "genesis",
+  "facet": "The Bible",
+  "title": "Genesis and the Hebrew Bible",
+  "years": "c. 6th c. BCE",
+  "by": null,
+  "summary": "The canonical scripture of Judaism and Christianity, a library of myths, laws, histories and poetry."
+ },
+ {
+  "id": "pythagoras",
+  "facet": "",
+  "title": "Pythagoras",
+  "years": "6th c. BCE",
+  "by": null,
+  "summary": "Greek thinker whose school held that number is the basis of reality. Later tradition says the school was thrown into scandal by the discovery of irrational quantities."
+ },
+ {
+  "id": "logos",
+  "facet": "",
+  "title": "Logos",
+  "years": "c. 500 BCE",
+  "by": "Heraclitus; Stoics; Gospel of John",
+  "summary": "Greek for word, reason or rational order: the principle by which the cosmos is intelligible. The Gospel of John opens with it ('In the beginning was the Word'), carrying the idea into Christianity."
+ },
+ {
+  "id": "buddhism",
+  "facet": "Buddhism",
+  "title": "Buddhism and meditation",
+  "years": "5th c. BCE",
+  "by": "Siddhartha Gautama",
+  "summary": "A contemplative tradition that studies experience from the inside through meditation, teaching that the self is constructed and that suffering comes from attachment. Advanced practitioners report being able to deconstruct ordinary perception and selfhood."
+ },
+ {
+  "id": "buddhism",
+  "facet": "The Dalai Lama",
+  "title": "Buddhism and meditation",
+  "years": "5th c. BCE",
+  "by": "Tibetan Buddhism",
+  "summary": "In Tibetan Buddhism the Dalai Lama is held to be the same being reborn in successive bodies. Each new Dalai Lama is found as a child and raised into the role."
+ },
+ {
+  "id": "buddhism",
+  "facet": "Michael Taft on enlightenment",
+  "title": "Buddhism and meditation",
+  "years": "5th c. BCE",
+  "by": null,
+  "summary": "American meditation teacher and author of 'The Mindful Geek', who teaches contemplative practice in secular, non-mystical terms. He hosts the Deconstructing Yourself podcast."
+ },
+ {
+  "id": "plato",
+  "facet": "",
+  "title": "Plato: forms and the cave",
+  "years": "c. 375 BCE",
+  "by": "Plato",
+  "summary": "Plato held that behind the changing things we perceive there are ideal, timeless forms (the perfect triangle, the ideal table). In mathematics, 'Platonism' is the view that mathematical objects really exist independently of minds."
+ },
+ {
+  "id": "aristotle",
+  "facet": "Aristotle",
+  "title": "Aristotle",
+  "years": "c. 350 BCE",
+  "by": null,
+  "summary": "Greek philosopher who systematised logic, physics and psychology. He described the soul (psyche) not as a ghostly substance but as the organising form of a living body, with vegetative, animal and rational layers."
+ },
+ {
+  "id": "aristotle",
+  "facet": "De Anima (On the Soul)",
+  "title": "Aristotle",
+  "years": "c. 350 BCE",
+  "by": "Aristotle",
+  "summary": "Aristotle's treatise on the soul. It describes three levels: a vegetative soul (growth and nutrition, in plants), a sensitive soul (perception and desire, in animals) and a rational soul (in humans). The soul is the form of a living body and so cannot exist apart from it, with a disputed exception for the active intellect."
+ },
+ {
+  "id": "aristotle",
+  "facet": "The unmoved mover",
+  "title": "Aristotle",
+  "years": "c. 350 BCE",
+  "by": "Aristotle",
+  "summary": "Aristotle argued that if anything in the universe changes, something must ultimately drive that change without itself being moved. This 'prime mover' is the minimal philosophical notion of a god: no personality, just the reason things keep going."
+ },
+ {
+  "id": "stoicism",
+  "facet": "",
+  "title": "Stoicism",
+  "years": "3rd c. BCE",
+  "by": "Zeno of Citium and successors",
+  "summary": "A school of philosophy teaching that we suffer from our judgments about events rather than the events themselves, and that we should concern ourselves only with what is in our control."
+ },
+ {
+  "id": "christianity",
+  "facet": "The Catholic Church",
+  "title": "Christianity",
+  "years": "1st c. CE onward",
+  "by": null,
+  "summary": "The religion built on the life and teaching of Jesus; for most of European history the Church was its unifying institution. Beyond its beliefs, it was an organisation that coordinated millions of people for centuries."
+ },
+ {
+  "id": "christianity",
+  "facet": "1 Corinthians 13",
+  "title": "Christianity",
+  "years": "1st c. CE onward",
+  "by": "Paul the Apostle",
+  "summary": "A New Testament passage saying that knowledge, prophecy and sacrifice are worth nothing without love."
+ },
+ {
+  "id": "christianity",
+  "facet": "Christian mind-body dualism",
+  "title": "Christianity",
+  "years": "1st c. CE onward",
+  "by": null,
+  "summary": "The traditional Christian teaching that a person has an immaterial soul distinct from the body."
+ },
+ {
+  "id": "christianity",
+  "facet": "Protestantism",
+  "title": "Christianity",
+  "years": "1st c. CE onward",
+  "by": "Martin Luther and others",
+  "summary": "The branch of Christianity that emerged from the Reformation, stressing the individual's direct relationship to God and personal conscience."
+ },
+ {
+  "id": "aquinas",
+  "facet": "Thomas Aquinas",
+  "title": "Thomas Aquinas",
+  "years": "13th c.",
+  "by": null,
+  "summary": "Medieval theologian who merged Aristotle with Christian doctrine. He argued for God as the necessary ground of existence and described seven virtues: four practical ones (temperance, justice, prudence, courage) and three theological ones (faith, hope, love)."
+ },
+ {
+  "id": "aquinas",
+  "facet": "The seven virtues",
+  "title": "Thomas Aquinas",
+  "years": "13th c.",
+  "by": "Thomas Aquinas (after Plato, Aristotle, St Paul)",
+  "summary": "The classical list of prudence, justice, temperance and courage, plus the Christian faith, hope and love."
+ },
+ {
+  "id": "golem",
+  "facet": "",
+  "title": "The golem",
+  "years": "legend, 16th–19th c.",
+  "by": "Jewish folklore",
+  "summary": "A clay figure brought to life by a rabbi to serve and protect, which follows instructions literally and can run out of control. The best-known version, first written down in the nineteenth century, is about the sixteenth-century Rabbi Loew of Prague."
+ },
+ {
+  "id": "descartes",
+  "facet": "Descartes",
+  "title": "René Descartes",
+  "years": "1641",
+  "by": null,
+  "summary": "French philosopher famous for 'I think, therefore I am' and for dividing reality into extended stuff (res extensa) and thinking stuff (res cogitans), the classic statement of mind-body dualism."
+ },
+ {
+  "id": "descartes",
+  "facet": "Meditations on First Philosophy",
+  "title": "René Descartes",
+  "years": "1641",
+  "by": "René Descartes",
+  "summary": "Descartes doubts everything he can and concludes that he exists as a thinking thing, distinct from his body."
+ },
+ {
+  "id": "descartes",
+  "facet": "Mind-body dualism",
+  "title": "René Descartes",
+  "years": "1641",
+  "by": "René Descartes",
+  "summary": "Descartes divided reality into extended stuff (res extensa) and thinking stuff (res cogitans), which leaves the puzzle of how the two interact. Most later philosophy of mind is an attempt to escape that puzzle."
+ },
+ {
+  "id": "occasionalism",
+  "facet": "",
+  "title": "Occasionalism",
+  "years": "1674",
+  "by": "Nicolas Malebranche",
+  "summary": "A post-Cartesian doctrine that mind and body never directly interact; God causes the matching events on each side on every occasion."
+ },
+ {
+  "id": "empiricism",
+  "facet": "Empiricism vs rationalism",
+  "title": "Empiricism: Locke and Hume",
+  "years": "1690–1748",
+  "by": null,
+  "summary": "A long dispute about the source of knowledge: experience of the world (empiricists such as Locke and Hume) or reasoning from first principles (rationalists such as Descartes and Leibniz)."
+ },
+ {
+  "id": "empiricism",
+  "facet": "Locke on consciousness",
+  "title": "Empiricism: Locke and Hume",
+  "years": "1690–1748",
+  "by": "John Locke",
+  "summary": "Locke defined consciousness as the perception of what passes in one's own mind, and tied personal identity to this continuity of awareness and memory."
+ },
+ {
+  "id": "empiricism",
+  "facet": "Hume: proportion belief to evidence",
+  "title": "Empiricism: Locke and Hume",
+  "years": "1690–1748",
+  "by": "David Hume",
+  "summary": "A basic rule of rational thinking, from Hume's Enquiry: hold each belief only as strongly as the evidence warrants."
+ },
+ {
+  "id": "idealism",
+  "facet": "",
+  "title": "Idealism",
+  "years": "1710 onward",
+  "by": null,
+  "summary": "The view that reality is fundamentally mental and the physical world is an appearance within mind. Bernardo Kastrup's 'analytic idealism' is a current version."
+ },
+ {
+  "id": "leibniz",
+  "facet": "Leibniz",
+  "title": "Gottfried Wilhelm Leibniz",
+  "years": "1714",
+  "by": null,
+  "summary": "German polymath who co-invented calculus and dreamed of a universal symbolic language in which disputes could be settled by calculation ('let us calculate')."
+ },
+ {
+  "id": "leibniz",
+  "facet": "Leibniz's mill",
+  "title": "Gottfried Wilhelm Leibniz",
+  "years": "1714",
+  "by": "Gottfried Wilhelm Leibniz",
+  "summary": "A thought experiment from the Monadology: imagine a thinking machine enlarged to the size of a mill so you can walk inside. You would see only parts pushing each other and nothing that explains perception. Leibniz concluded that mechanism cannot explain mind."
+ },
+ {
+  "id": "lamettrie",
+  "facet": "",
+  "title": "La Mettrie: Man a Machine",
+  "years": "1747",
+  "by": "Julien Offray de La Mettrie",
+  "summary": "A scandalous Enlightenment pamphlet arguing that humans are entirely physical machines, not different in kind from animals, and that mind is a function of organised matter."
+ },
+ {
+  "id": "enlightenment",
+  "facet": "",
+  "title": "The Enlightenment",
+  "years": "18th c.",
+  "by": null,
+  "summary": "The 18th-century European movement that put reason, evidence and individual autonomy above religious and traditional authority."
+ },
+ {
+  "id": "kant",
+  "facet": "Kant",
+  "title": "Immanuel Kant",
+  "years": "1781",
+  "by": null,
+  "summary": "German philosopher who tried to ground morality in reason alone: act only on rules you could will to be universal laws, regardless of culture or consequences."
+ },
+ {
+  "id": "kant",
+  "facet": "Critique of Pure Reason",
+  "title": "Immanuel Kant",
+  "years": "1781",
+  "by": "Immanuel Kant",
+  "summary": "Kant asks what the mind must supply for experience to be possible at all. His answer is that space, time and basic concepts such as cause are forms the mind brings to experience, so we know the world as it appears to us."
+ },
+ {
+  "id": "utilitarianism",
+  "facet": "",
+  "title": "Utilitarianism",
+  "years": "1789",
+  "by": "Jeremy Bentham; John Stuart Mill",
+  "summary": "The ethical theory that the right action is the one producing the greatest total wellbeing, in principle a calculus over pleasures and pains. It was developed by Jeremy Bentham and John Stuart Mill and underlies much of effective altruism."
+ },
+ {
+  "id": "hegel",
+  "facet": "",
+  "title": "G. W. F. Hegel",
+  "years": "1807",
+  "by": "G. W. F. Hegel",
+  "summary": "German idealist who saw history as the process by which Spirit (Geist) comes to know itself. Progress, for him, happens through contradictions that are overcome at a higher level."
+ },
+ {
+  "id": "celltheory",
+  "facet": "",
+  "title": "Cell theory",
+  "years": "1839",
+  "by": "Matthias Schleiden; Theodor Schwann",
+  "summary": "The discovery that all living things are made of cells and that the cell is the basic unit of life."
+ },
+ {
+  "id": "darwin",
+  "facet": "",
+  "title": "Charles Darwin",
+  "years": "1859",
+  "by": "Charles Darwin",
+  "summary": "Darwin's theory of evolution by natural selection explained the design of living things without a designer."
+ },
+ {
+  "id": "dubois",
+  "facet": "",
+  "title": "Du Bois-Reymond: Ignorabimus",
+  "years": "1872",
+  "by": null,
+  "summary": "The physiologist du Bois-Reymond declared that science will never know what matter and force are, or how matter gives rise to consciousness: 'ignorabimus', we shall never know."
+ },
+ {
+  "id": "cantor",
+  "facet": "",
+  "title": "Cantor's set theory",
+  "years": "1874",
+  "by": "Georg Cantor",
+  "summary": "Cantor showed that infinite sets come in different sizes: the set of all subsets of a set is always larger than the set itself. Applied to 'the set of all sets' this produces contradictions."
+ },
+ {
+  "id": "epiphenomenalism",
+  "facet": "",
+  "title": "Epiphenomenalism",
+  "years": "1874",
+  "by": null,
+  "summary": "The view that conscious experience is a by-product of brain activity with no causal influence on the physical world, like the steam-whistle of a locomotive."
+ },
+ {
+  "id": "brentano",
+  "facet": "",
+  "title": "Franz Brentano",
+  "years": "1874",
+  "by": null,
+  "summary": "German-born philosopher-psychologist who taught in Vienna and revived the idea of intentionality: mental states are always 'about' something. He taught Husserl and Freud."
+ },
+ {
+  "id": "emergence",
+  "facet": "",
+  "title": "Emergence",
+  "years": "1875",
+  "by": "G. H. Lewes; British emergentists",
+  "summary": "The idea that wholes can have properties their parts lack, as wetness belongs to water but not to a single molecule. The disputed question is whether emergent properties are merely convenient descriptions or genuinely new causes."
+ },
+ {
+  "id": "wundt",
+  "facet": "",
+  "title": "Early experimental psychology",
+  "years": "1879",
+  "by": null,
+  "summary": "In the 19th century Wilhelm Wundt, Gustav Fechner and Hermann von Helmholtz turned the study of mind into a laboratory science, measuring sensation, attention and reaction and proposing theories of emotion and will."
+ },
+ {
+  "id": "frege",
+  "facet": "",
+  "title": "Gottlob Frege",
+  "years": "1879",
+  "by": "Gottlob Frege",
+  "summary": "German logician who invented modern predicate logic and tried to derive arithmetic from pure logic. Russell found a paradox in his system, which set off the crisis in the foundations of mathematics."
+ },
+ {
+  "id": "peano",
+  "facet": "",
+  "title": "Peano axioms",
+  "years": "1889",
+  "by": "Giuseppe Peano",
+  "summary": "A handful of axioms that define the natural numbers and arithmetic: there is a zero, every number has a successor, and induction holds."
+ },
+ {
+  "id": "james",
+  "facet": "",
+  "title": "William James: The Principles of Psychology",
+  "years": "1890",
+  "by": "William James",
+  "summary": "The founding textbook of American psychology, known for its descriptions of the stream of consciousness, attention and the self."
+ },
+ {
+  "id": "brouwer",
+  "facet": "",
+  "title": "Constructive mathematics and intuitionism",
+  "years": "1908",
+  "by": "L. E. J. Brouwer (intuitionism)",
+  "summary": "A school of mathematics that accepts an object only if you can give a procedure to construct it, rejecting proofs that merely assert existence and treating infinity as a never-finished process."
+ },
+ {
+  "id": "russell",
+  "facet": "Russell's paradox",
+  "title": "Russell and Whitehead",
+  "years": "1901–1913",
+  "by": "Bertrand Russell",
+  "summary": "Consider the set of all sets that do not contain themselves. Does it contain itself? If it does, it doesn't; if it doesn't, it does. The paradox showed that naive set theory is inconsistent."
+ },
+ {
+  "id": "russell",
+  "facet": "Principia Mathematica",
+  "title": "Russell and Whitehead",
+  "years": "1901–1913",
+  "by": "Bertrand Russell, Alfred North Whitehead",
+  "summary": "A three-volume attempt to derive all of mathematics from logic, using a hierarchy of 'types' to block self-referential paradoxes such as the set of all sets that do not contain themselves. Gödel's 1931 incompleteness theorems were proved about this very system."
+ }
+]

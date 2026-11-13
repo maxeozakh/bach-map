@@ -1,0 +1,490 @@
+[
+ {
+  "from": "doerner",
+  "to": "bach",
+  "from_title": "Dietrich Dörner and Psi theory (1999)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "micropsi implements and extends dörner's psi theory"
+ },
+ {
+  "from": "cogarch",
+  "to": "bach",
+  "from_title": "Cognitive architectures: Soar and ACT-R (1987–2017)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "psi compared with soar and ACT-R"
+ },
+ {
+  "from": "maslow",
+  "to": "bach",
+  "from_title": "Maslow: A Theory of Human Motivation (1943)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "a set of built-in needs that generate goals"
+ },
+ {
+  "from": "bischof",
+  "to": "bach",
+  "from_title": "Norbert Bischof (1980s)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "motivation and attachment as control systems"
+ },
+ {
+  "from": "occ",
+  "to": "bach",
+  "from_title": "The Cognitive Structure of Emotions (1988)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "emotions as modes of the whole system, not a lookup table"
+ },
+ {
+  "from": "sloman",
+  "to": "bach",
+  "from_title": "Aaron Sloman (1978)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "philosophy of mind by designing working minds"
+ },
+ {
+  "from": "cybernetics",
+  "to": "bach",
+  "from_title": "Cybernetics (1948)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "needs as feedback loops"
+ },
+ {
+  "from": "embodied",
+  "to": "bach",
+  "from_title": "Embodied and enactive cognition (1927–2006)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "'do not wait for robot bodies'"
+ },
+ {
+  "from": "harnad",
+  "to": "bach",
+  "from_title": "The symbol grounding problem (1990)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "ground the system, but do not get stuck on symbol grounding"
+ },
+ {
+  "from": "schank",
+  "to": "bach",
+  "from_title": "Scripts, Plans, Goals and Understanding (1977)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "neural execution of scripts"
+ },
+ {
+  "from": "minsky",
+  "to": "bach",
+  "from_title": "Marvin Minsky (1956–1986)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "a society of specialised processes that needs coordinating"
+ },
+ {
+  "from": "gwt",
+  "to": "bach",
+  "from_title": "Global Workspace Theory (1988)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "one coordinating process the rest can read"
+ },
+ {
+  "from": "ast",
+  "to": "bach",
+  "from_title": "Attention Schema Theory (2013)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "a model of the system's own attention"
+ },
+ {
+  "from": "binding",
+  "to": "bach",
+  "from_title": "The binding problem and neural synchrony (1980–1990)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "von der malsburg's coherence"
+ },
+ {
+  "from": "hot",
+  "to": "bach",
+  "from_title": "Higher-order thought theory (1986)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "second-order perception"
+ },
+ {
+  "from": "iit",
+  "to": "bach",
+  "from_title": "Integrated Information Theory (2004)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "a functionalist alternative to IIT"
+ },
+ {
+  "from": "metzinger",
+  "to": "bach",
+  "from_title": "Thomas Metzinger: Being No One (2003–2021)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "the self as a model the brain cannot see as a model"
+ },
+ {
+  "from": "dennett",
+  "to": "bach",
+  "from_title": "Daniel Dennett (1991)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "the self as a centre of narrative gravity"
+ },
+ {
+  "from": "kant",
+  "to": "bach",
+  "from_title": "Immanuel Kant (1781)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "we experience the mind's model, not the thing in itself"
+ },
+ {
+  "from": "plato",
+  "to": "bach",
+  "from_title": "Plato: forms and the cave (c. 375 BCE)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "the cave: we see a projection"
+ },
+ {
+  "from": "buddhism",
+  "to": "bach",
+  "from_title": "Buddhism and meditation (5th c. BCE)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "the self is constructed and can be seen through; the 'enlightened mind' level"
+ },
+ {
+  "from": "chalmers",
+  "to": "bach",
+  "from_title": "Chalmers: the hard problem (1995)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "the hard problem dissolves if experience belongs to a simulated character"
+ },
+ {
+  "from": "panpsychism",
+  "to": "bach",
+  "from_title": "Panpsychism (ancient roots; revived 2000s)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "matter is not conscious; only a simulation can be"
+ },
+ {
+  "from": "lucid",
+  "to": "bach",
+  "from_title": "Lucid dreaming (1980)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "waking perception as a dream constrained by the senses"
+ },
+ {
+  "from": "genesis",
+  "to": "bach",
+  "from_title": "Genesis and the Hebrew Bible (c. 6th c. BCE)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "genesis 1 read as consciousness booting up a world"
+ },
+ {
+  "from": "aristotle",
+  "to": "bach",
+  "from_title": "Aristotle (c. 350 BCE)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "the soul as the form of a living body"
+ },
+ {
+  "from": "animism",
+  "to": "bach",
+  "from_title": "Animism (prehistoric)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "spirits as self-organising software"
+ },
+ {
+  "from": "levin",
+  "to": "bach",
+  "from_title": "Michael Levin: bioelectricity and collective intelligence (2019)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "cells running shared goals"
+ },
+ {
+  "from": "sicp",
+  "to": "bach",
+  "from_title": "Structure and Interpretation of Computer Programs (1985)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "programs as spirits conjured with spells"
+ },
+ {
+  "from": "dawkins",
+  "to": "bach",
+  "from_title": "Dawkins: selfish genes and memes (1976)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "memes: ideas that copy themselves between minds"
+ },
+ {
+  "from": "greekgods",
+  "to": "bach",
+  "from_title": "Greek gods as archetypes (c. 8th c. BCE)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "gods as shared archetypes"
+ },
+ {
+  "from": "christianity",
+  "to": "bach",
+  "from_title": "Christianity (1st c. CE onward)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "the church as a collective agent; 1 corinthians 13"
+ },
+ {
+  "from": "jaynes",
+  "to": "bach",
+  "from_title": "Jaynes: the bicameral mind (1976)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "gods as voices in the mind"
+ },
+ {
+  "from": "functionalism",
+  "to": "bach",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "the tradition bach places himself in"
+ },
+ {
+  "from": "turing",
+  "to": "bach",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "the church-turing thesis"
+ },
+ {
+  "from": "digital",
+  "to": "bach",
+  "from_title": "Digital physics (1969)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "strong computationalism: reality itself computes"
+ },
+ {
+  "from": "lamettrie",
+  "to": "bach",
+  "from_title": "La Mettrie: Man a Machine (1747)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "'computationalism is the new mechanism'"
+ },
+ {
+  "from": "searle",
+  "to": "bach",
+  "from_title": "Searle: the Chinese room (1980)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "bach rejects the chinese room"
+ },
+ {
+  "from": "seth",
+  "to": "bach",
+  "from_title": "Anil Seth: biological naturalism (2021)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "function versus living substrate"
+ },
+ {
+  "from": "cimc",
+  "to": "lerchner",
+  "from_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "to_title": "Lerchner: The Abstraction Fallacy (2026)",
+  "kind": "against",
+  "note": "'the abstraction fallacy'; CIMC replied with 'against intrinsic properties'"
+ },
+ {
+  "from": "goedel",
+  "to": "bach",
+  "from_title": "Gödel's incompleteness theorems (1931)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "bach reads incompleteness as the failure of classical mathematics"
+ },
+ {
+  "from": "brouwer",
+  "to": "bach",
+  "from_title": "Constructive mathematics and intuitionism (1908)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "only what can be constructed exists"
+ },
+ {
+  "from": "cantor",
+  "to": "bach",
+  "from_title": "Cantor's set theory (1874)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "no completed infinities"
+ },
+ {
+  "from": "penrose",
+  "to": "bach",
+  "from_title": "Penrose and Hameroff: quantum consciousness (1989–1994)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "against the gödelian argument for non-computable minds"
+ },
+ {
+  "from": "hypercomputation",
+  "to": "bach",
+  "from_title": "Hypercomputation (1999)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "nothing computes beyond turing"
+ },
+ {
+  "from": "wittgenstein",
+  "to": "bach",
+  "from_title": "Ludwig Wittgenstein (1921–1953)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "the tractatus as a programme for a precise language"
+ },
+ {
+  "from": "kegan",
+  "to": "bach",
+  "from_title": "Kegan's stages of adult development (1982)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "seven levels that grew out of kegan's five stages"
+ },
+ {
+  "from": "piaget",
+  "to": "bach",
+  "from_title": "Developmental stage theories (1936–1954)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "development as a sequence of stages"
+ },
+ {
+  "from": "aquinas",
+  "to": "bach",
+  "from_title": "Thomas Aquinas (13th c.)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "love among the theological virtues"
+ },
+ {
+  "from": "airisk",
+  "to": "bach",
+  "from_title": "AI risk: Bostrom, Yudkowsky and the doom debate (2003–2023)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "alignment by shared purpose rather than control"
+ },
+ {
+  "from": "utilitarianism",
+  "to": "bach",
+  "from_title": "Utilitarianism (1789)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "values derived from how agents work, not a pleasure calculus"
+ },
+ {
+  "from": "llm",
+  "to": "bach",
+  "from_title": "Large language models (2017–2023)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "bach's reading of what language models are"
+ },
+ {
+  "from": "shanahan",
+  "to": "bach",
+  "from_title": "Murray Shanahan (2024)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "a model that plays characters"
+ },
+ {
+  "from": "turing",
+  "to": "cimc",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "kind": "against",
+  "note": "behaviour cannot settle whether a system is conscious"
+ },
+ {
+  "from": "llm",
+  "to": "cimc",
+  "from_title": "Large language models (2017–2023)",
+  "to_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "kind": "builds",
+  "note": "chatbots show the same behaviour can be produced another way"
+ },
+ {
+  "from": "butlin",
+  "to": "cimc",
+  "from_title": "AI consciousness and welfare reports (2023–2024)",
+  "to_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "kind": "related",
+  "note": "look at architecture, not behaviour"
+ },
+ {
+  "from": "bach",
+  "to": "cimc",
+  "from_title": "Joscha Bach (2003–2026)",
+  "to_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "kind": "builds",
+  "note": "the institute's hypothesis rests on his conductor model, his functionalism and the idea that consciousness comes first"
+ },
+ {
+  "from": "nca",
+  "to": "cimc",
+  "from_title": "Neural cellular automata (2020)",
+  "to_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "kind": "builds",
+  "note": "CIMC's self-organisation experiments"
+ },
+ {
+  "from": "friston",
+  "to": "cimc",
+  "from_title": "Predictive processing and the free energy principle (1999–2013)",
+  "to_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "kind": "related",
+  "note": "friston advises CIMC"
+ },
+ {
+  "from": "wolfram",
+  "to": "cimc",
+  "from_title": "Stephen Wolfram (2002–2023)",
+  "to_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "kind": "related",
+  "note": "wolfram advises CIMC"
+ },
+ {
+  "from": "iit",
+  "to": "cimc",
+  "from_title": "Integrated Information Theory (2004)",
+  "to_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "kind": "against",
+  "note": "IIT says an ordinary computer can never be conscious"
+ }
+]

@@ -1,0 +1,442 @@
+[
+ {
+  "from": "solomonoff",
+  "to": "schmidhuber",
+  "from_title": "Solomonoff induction (1964)",
+  "to_title": "Jürgen Schmidhuber (1990)",
+  "kind": "builds",
+  "note": "learning as compression"
+ },
+ {
+  "from": "shannon",
+  "to": "witten",
+  "from_title": "Claude Shannon and information theory (1948–1950)",
+  "to_title": "Ian Witten: cognition as compression (1980s–1990s)",
+  "kind": "builds",
+  "note": "prediction and compression"
+ },
+ {
+  "from": "vonneumann",
+  "to": "conway",
+  "from_title": "John von Neumann and the first computers (1837–1956)",
+  "to_title": "Conway's Game of Life (1970)",
+  "kind": "builds",
+  "note": "cellular automata"
+ },
+ {
+  "from": "vonneumann",
+  "to": "singularity",
+  "from_title": "John von Neumann and the first computers (1837–1956)",
+  "to_title": "Technological singularity (1993)",
+  "kind": "builds",
+  "note": "the first use of 'singularity' for technology"
+ },
+ {
+  "from": "vonneumann",
+  "to": "ackley",
+  "from_title": "John von Neumann and the first computers (1837–1956)",
+  "to_title": "Best-effort computing (2010s)",
+  "kind": "builds",
+  "note": "reliable computing from unreliable parts"
+ },
+ {
+  "from": "conway",
+  "to": "wolfram",
+  "from_title": "Conway's Game of Life (1970)",
+  "to_title": "Stephen Wolfram (2002–2023)",
+  "kind": "builds",
+  "note": "simple rules, complex behaviour"
+ },
+ {
+  "from": "vonneumann",
+  "to": "digital",
+  "from_title": "John von Neumann and the first computers (1837–1956)",
+  "to_title": "Digital physics (1969)",
+  "kind": "builds",
+  "note": "the universe as a cellular automaton"
+ },
+ {
+  "from": "digital",
+  "to": "wolfram",
+  "from_title": "Digital physics (1969)",
+  "to_title": "Stephen Wolfram (2002–2023)",
+  "kind": "builds",
+  "note": "a new kind of science"
+ },
+ {
+  "from": "digital",
+  "to": "thooft",
+  "from_title": "Digital physics (1969)",
+  "to_title": "'t Hooft: cellular automaton interpretation (2016)",
+  "kind": "builds",
+  "note": "a deterministic automaton under quantum mechanics"
+ },
+ {
+  "from": "digital",
+  "to": "simulation",
+  "from_title": "Digital physics (1969)",
+  "to_title": "The simulation argument (2003)",
+  "kind": "related",
+  "note": "if physics is computation it could be run"
+ },
+ {
+  "from": "digital",
+  "to": "wheeler",
+  "from_title": "Digital physics (1969)",
+  "to_title": "It from bit (1990)",
+  "kind": "related",
+  "note": "information as more basic than matter"
+ },
+ {
+  "from": "everett",
+  "to": "deutsch",
+  "from_title": "Many-worlds interpretation (1957)",
+  "to_title": "David Deutsch: constructor theory (2012)",
+  "kind": "builds",
+  "note": "deutsch is the leading many-worlds advocate"
+ },
+ {
+  "from": "quantumcomp",
+  "to": "deutsch",
+  "from_title": "Quantum computing (1982)",
+  "to_title": "David Deutsch: constructor theory (2012)",
+  "kind": "builds",
+  "note": "deutsch defined the universal quantum computer"
+ },
+ {
+  "from": "conway",
+  "to": "mandelbrot",
+  "from_title": "Conway's Game of Life (1970)",
+  "to_title": "The Mandelbrot set (1980)",
+  "kind": "related",
+  "note": "unlimited complexity from a tiny rule"
+ },
+ {
+  "from": "mcculloch",
+  "to": "cybernetics",
+  "from_title": "McCulloch–Pitts neurons (1943)",
+  "to_title": "Cybernetics (1948)",
+  "kind": "related",
+  "note": "the macy conferences"
+ },
+ {
+  "from": "mcculloch",
+  "to": "minsky",
+  "from_title": "McCulloch–Pitts neurons (1943)",
+  "to_title": "Marvin Minsky (1956–1986)",
+  "kind": "builds",
+  "note": "neural nets, then minsky's critique of them"
+ },
+ {
+  "from": "mcculloch",
+  "to": "pdp",
+  "from_title": "McCulloch–Pitts neurons (1943)",
+  "to_title": "Connectionism and backpropagation (1986)",
+  "kind": "builds",
+  "note": "connectionism"
+ },
+ {
+  "from": "cybernetics",
+  "to": "autopoiesis",
+  "from_title": "Cybernetics (1948)",
+  "to_title": "Autocatalytic networks and autopoiesis (1972–1986)",
+  "kind": "builds",
+  "note": "second-order cybernetics"
+ },
+ {
+  "from": "cybernetics",
+  "to": "gaia",
+  "from_title": "Cybernetics (1948)",
+  "to_title": "Gaia hypothesis (1972)",
+  "kind": "builds",
+  "note": "the planet as a self-regulating system"
+ },
+ {
+  "from": "schroedinger",
+  "to": "autopoiesis",
+  "from_title": "Schrödinger: life as negentropy (1944)",
+  "to_title": "Autocatalytic networks and autopoiesis (1972–1986)",
+  "kind": "builds",
+  "note": "what keeps a living system ordered"
+ },
+ {
+  "from": "schroedinger",
+  "to": "friston",
+  "from_title": "Schrödinger: life as negentropy (1944)",
+  "to_title": "Predictive processing and the free energy principle (1999–2013)",
+  "kind": "builds",
+  "note": "staying alive as resisting entropy"
+ },
+ {
+  "from": "dartmouth",
+  "to": "minsky",
+  "from_title": "The founding of AI (1956)",
+  "to_title": "Marvin Minsky (1956–1986)",
+  "kind": "builds",
+  "note": "minsky was a founder of the field"
+ },
+ {
+  "from": "dartmouth",
+  "to": "symbolic",
+  "from_title": "The founding of AI (1956)",
+  "to_title": "Symbolic AI (1956–1970s)",
+  "kind": "builds",
+  "note": "the first paradigm of AI"
+ },
+ {
+  "from": "skinner",
+  "to": "chomsky",
+  "from_title": "Behaviorism (1938)",
+  "to_title": "Noam Chomsky (1957)",
+  "kind": "against",
+  "note": "chomsky's review of 'verbal behavior'"
+ },
+ {
+  "from": "chomsky",
+  "to": "fodor",
+  "from_title": "Noam Chomsky (1957)",
+  "to_title": "The language of thought (1975)",
+  "kind": "builds",
+  "note": "innate structure and the language of thought"
+ },
+ {
+  "from": "symbolic",
+  "to": "fodor",
+  "from_title": "Symbolic AI (1956–1970s)",
+  "to_title": "The language of thought (1975)",
+  "kind": "related",
+  "note": "thinking as symbol manipulation"
+ },
+ {
+  "from": "symbolic",
+  "to": "cyc",
+  "from_title": "Symbolic AI (1956–1970s)",
+  "to_title": "Cyc (1984)",
+  "kind": "builds",
+  "note": "common sense, hand-coded"
+ },
+ {
+  "from": "symbolic",
+  "to": "eliza",
+  "from_title": "Symbolic AI (1956–1970s)",
+  "to_title": "ELIZA (1966)",
+  "kind": "builds",
+  "note": "pattern matching that feels like understanding"
+ },
+ {
+  "from": "symbolic",
+  "to": "schank",
+  "from_title": "Symbolic AI (1956–1970s)",
+  "to_title": "Scripts, Plans, Goals and Understanding (1977)",
+  "kind": "builds",
+  "note": "scripts"
+ },
+ {
+  "from": "symbolic",
+  "to": "cogarch",
+  "from_title": "Symbolic AI (1956–1970s)",
+  "to_title": "Cognitive architectures: Soar and ACT-R (1987–2017)",
+  "kind": "builds",
+  "note": "newell's unified theories of cognition"
+ },
+ {
+  "from": "symbolic",
+  "to": "dreyfus",
+  "from_title": "Symbolic AI (1956–1970s)",
+  "to_title": "Dreyfus: What Computers Still Can't Do (1972 / 1992)",
+  "kind": "against",
+  "note": "what rules cannot capture"
+ },
+ {
+  "from": "symbolic",
+  "to": "harnad",
+  "from_title": "Symbolic AI (1956–1970s)",
+  "to_title": "The symbol grounding problem (1990)",
+  "kind": "against",
+  "note": "symbols defined only by other symbols"
+ },
+ {
+  "from": "symbolic",
+  "to": "brooks",
+  "from_title": "Symbolic AI (1956–1970s)",
+  "to_title": "Rodney Brooks: subsumption architecture (1986)",
+  "kind": "against",
+  "note": "intelligence without representation"
+ },
+ {
+  "from": "symbolic",
+  "to": "searle",
+  "from_title": "Symbolic AI (1956–1970s)",
+  "to_title": "Searle: the Chinese room (1980)",
+  "kind": "against",
+  "note": "syntax is not semantics"
+ },
+ {
+  "from": "selfridge",
+  "to": "minsky",
+  "from_title": "Pandemonium model (1959)",
+  "to_title": "Marvin Minsky (1956–1986)",
+  "kind": "builds",
+  "note": "a crowd of demons becomes a society of mind"
+ },
+ {
+  "from": "minsky",
+  "to": "pdp",
+  "from_title": "Marvin Minsky (1956–1986)",
+  "to_title": "Connectionism and backpropagation (1986)",
+  "kind": "against",
+  "note": "connectionism returns after 'perceptrons'"
+ },
+ {
+  "from": "ivakhnenko",
+  "to": "deeplearning",
+  "from_title": "Alexey Ivakhnenko (1965)",
+  "to_title": "Deep learning (2009–2022)",
+  "kind": "builds",
+  "note": "the earliest deep networks"
+ },
+ {
+  "from": "pdp",
+  "to": "deeplearning",
+  "from_title": "Connectionism and backpropagation (1986)",
+  "to_title": "Deep learning (2009–2022)",
+  "kind": "builds",
+  "note": "backpropagation at scale"
+ },
+ {
+  "from": "boltzmannmachine",
+  "to": "deeplearning",
+  "from_title": "Boltzmann machine (1985)",
+  "to_title": "Deep learning (2009–2022)",
+  "kind": "builds",
+  "note": "hinton's line of work"
+ },
+ {
+  "from": "schmidhuber",
+  "to": "deeplearning",
+  "from_title": "Jürgen Schmidhuber (1990)",
+  "to_title": "Deep learning (2009–2022)",
+  "kind": "builds",
+  "note": "lstm and early deep learning"
+ },
+ {
+  "from": "deeplearning",
+  "to": "llm",
+  "from_title": "Deep learning (2009–2022)",
+  "to_title": "Large language models (2017–2023)",
+  "kind": "builds",
+  "note": "the transformer"
+ },
+ {
+  "from": "deeplearning",
+  "to": "olah",
+  "from_title": "Deep learning (2009–2022)",
+  "to_title": "The universality hypothesis (2020)",
+  "kind": "builds",
+  "note": "looking inside trained networks"
+ },
+ {
+  "from": "deeplearning",
+  "to": "bitter",
+  "from_title": "Deep learning (2009–2022)",
+  "to_title": "The Bitter Lesson (2019)",
+  "kind": "builds",
+  "note": "scale beats hand-built knowledge"
+ },
+ {
+  "from": "deeplearning",
+  "to": "marcus",
+  "from_title": "Deep learning (2009–2022)",
+  "to_title": "Gary Marcus (2022)",
+  "kind": "against",
+  "note": "'deep learning is hitting a wall'"
+ },
+ {
+  "from": "deeplearning",
+  "to": "chollet",
+  "from_title": "Deep learning (2009–2022)",
+  "to_title": "Chollet: On the Measure of Intelligence (2019)",
+  "kind": "against",
+  "note": "skill is not intelligence"
+ },
+ {
+  "from": "mountcastle",
+  "to": "hawkins",
+  "from_title": "Cortical columns (1957)",
+  "to_title": "Jeff Hawkins and Numenta (2004)",
+  "kind": "builds",
+  "note": "one cortical algorithm"
+ },
+ {
+  "from": "morpho",
+  "to": "nca",
+  "from_title": "Turing's morphogenesis (1952)",
+  "to_title": "Neural cellular automata (2020)",
+  "kind": "builds",
+  "note": "patterns that grow from local rules"
+ },
+ {
+  "from": "conway",
+  "to": "nca",
+  "from_title": "Conway's Game of Life (1970)",
+  "to_title": "Neural cellular automata (2020)",
+  "kind": "builds",
+  "note": "learned cellular automata"
+ },
+ {
+  "from": "braitenberg",
+  "to": "brooks",
+  "from_title": "Braitenberg: Vehicles (1984)",
+  "to_title": "Rodney Brooks: subsumption architecture (1986)",
+  "kind": "related",
+  "note": "behaviour from simple wiring"
+ },
+ {
+  "from": "brooks",
+  "to": "embodied",
+  "from_title": "Rodney Brooks: subsumption architecture (1986)",
+  "to_title": "Embodied and enactive cognition (1927–2006)",
+  "kind": "related",
+  "note": "the body in the world comes first"
+ },
+ {
+  "from": "dreyfus",
+  "to": "embodied",
+  "from_title": "Dreyfus: What Computers Still Can't Do (1972 / 1992)",
+  "to_title": "Embodied and enactive cognition (1927–2006)",
+  "kind": "builds",
+  "note": "heidegger against the symbol-crunching mind"
+ },
+ {
+  "from": "llm",
+  "to": "shanahan",
+  "from_title": "Large language models (2017–2023)",
+  "to_title": "Murray Shanahan (2024)",
+  "kind": "builds",
+  "note": "language models as role-players"
+ },
+ {
+  "from": "llm",
+  "to": "butlin",
+  "from_title": "Large language models (2017–2023)",
+  "to_title": "AI consciousness and welfare reports (2023–2024)",
+  "kind": "builds",
+  "note": "checking AI systems against theories of consciousness"
+ },
+ {
+  "from": "eliza",
+  "to": "llm",
+  "from_title": "ELIZA (1966)",
+  "to_title": "Large language models (2017–2023)",
+  "kind": "related",
+  "note": "people feel understood by a text machine"
+ },
+ {
+  "from": "agi",
+  "to": "airisk",
+  "from_title": "Artificial general intelligence (2002–2007)",
+  "to_title": "AI risk: Bostrom, Yudkowsky and the doom debate (2003–2023)",
+  "kind": "related",
+  "note": "what happens if it works"
+ }
+]

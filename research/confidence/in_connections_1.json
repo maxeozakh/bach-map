@@ -1,0 +1,442 @@
+[
+ {
+  "from": "animism",
+  "to": "greekgods",
+  "from_title": "Animism (prehistoric)",
+  "to_title": "Greek gods as archetypes (c. 8th c. BCE)",
+  "kind": "related",
+  "note": "spirits become named gods with characters"
+ },
+ {
+  "from": "animism",
+  "to": "aristotle",
+  "from_title": "Animism (prehistoric)",
+  "to_title": "Aristotle (c. 350 BCE)",
+  "kind": "builds",
+  "note": "the soul as the organising form of a living body"
+ },
+ {
+  "from": "plato",
+  "to": "aristotle",
+  "from_title": "Plato: forms and the cave (c. 375 BCE)",
+  "to_title": "Aristotle (c. 350 BCE)",
+  "kind": "builds",
+  "note": "aristotle answers his teacher's theory of forms"
+ },
+ {
+  "from": "pythagoras",
+  "to": "plato",
+  "from_title": "Pythagoras (6th c. BCE)",
+  "to_title": "Plato: forms and the cave (c. 375 BCE)",
+  "kind": "builds",
+  "note": "number and ideal form as the basis of reality"
+ },
+ {
+  "from": "logos",
+  "to": "stoicism",
+  "from_title": "Logos (c. 500 BCE)",
+  "to_title": "Stoicism (3rd c. BCE)",
+  "kind": "builds",
+  "note": "the stoics made logos the rational order of the cosmos"
+ },
+ {
+  "from": "logos",
+  "to": "christianity",
+  "from_title": "Logos (c. 500 BCE)",
+  "to_title": "Christianity (1st c. CE onward)",
+  "kind": "builds",
+  "note": "'in the beginning was the word'"
+ },
+ {
+  "from": "genesis",
+  "to": "christianity",
+  "from_title": "Genesis and the Hebrew Bible (c. 6th c. BCE)",
+  "to_title": "Christianity (1st c. CE onward)",
+  "kind": "builds",
+  "note": "the hebrew bible becomes the old testament"
+ },
+ {
+  "from": "aristotle",
+  "to": "aquinas",
+  "from_title": "Aristotle (c. 350 BCE)",
+  "to_title": "Thomas Aquinas (13th c.)",
+  "kind": "builds",
+  "note": "aquinas merges aristotle with christian doctrine"
+ },
+ {
+  "from": "christianity",
+  "to": "aquinas",
+  "from_title": "Christianity (1st c. CE onward)",
+  "to_title": "Thomas Aquinas (13th c.)",
+  "kind": "builds",
+  "note": "scholastic theology"
+ },
+ {
+  "from": "christianity",
+  "to": "descartes",
+  "from_title": "Christianity (1st c. CE onward)",
+  "to_title": "René Descartes (1641)",
+  "kind": "builds",
+  "note": "immaterial soul becomes res cogitans"
+ },
+ {
+  "from": "descartes",
+  "to": "occasionalism",
+  "from_title": "René Descartes (1641)",
+  "to_title": "Occasionalism (1674)",
+  "kind": "builds",
+  "note": "a fix for how mind and body could interact"
+ },
+ {
+  "from": "descartes",
+  "to": "leibniz",
+  "from_title": "René Descartes (1641)",
+  "to_title": "Gottfried Wilhelm Leibniz (1714)",
+  "kind": "against",
+  "note": "leibniz rejects interaction between two substances"
+ },
+ {
+  "from": "descartes",
+  "to": "lamettrie",
+  "from_title": "René Descartes (1641)",
+  "to_title": "La Mettrie: Man a Machine (1747)",
+  "kind": "against",
+  "note": "la mettrie extends descartes' animal-machine to humans and drops the soul"
+ },
+ {
+  "from": "descartes",
+  "to": "empiricism",
+  "from_title": "René Descartes (1641)",
+  "to_title": "Empiricism: Locke and Hume (1690–1748)",
+  "kind": "against",
+  "note": "experience instead of innate ideas"
+ },
+ {
+  "from": "empiricism",
+  "to": "idealism",
+  "from_title": "Empiricism: Locke and Hume (1690–1748)",
+  "to_title": "Idealism (1710 onward)",
+  "kind": "builds",
+  "note": "berkeley: to be is to be perceived"
+ },
+ {
+  "from": "empiricism",
+  "to": "kant",
+  "from_title": "Empiricism: Locke and Hume (1690–1748)",
+  "to_title": "Immanuel Kant (1781)",
+  "kind": "builds",
+  "note": "hume woke kant from his 'dogmatic slumber'"
+ },
+ {
+  "from": "leibniz",
+  "to": "kant",
+  "from_title": "Gottfried Wilhelm Leibniz (1714)",
+  "to_title": "Immanuel Kant (1781)",
+  "kind": "builds",
+  "note": "the rationalist side kant tries to reconcile"
+ },
+ {
+  "from": "enlightenment",
+  "to": "kant",
+  "from_title": "The Enlightenment (18th c.)",
+  "to_title": "Immanuel Kant (1781)",
+  "kind": "related",
+  "note": "kant's 'dare to know'"
+ },
+ {
+  "from": "enlightenment",
+  "to": "utilitarianism",
+  "from_title": "The Enlightenment (18th c.)",
+  "to_title": "Utilitarianism (1789)",
+  "kind": "builds",
+  "note": "ethics as calculation"
+ },
+ {
+  "from": "kant",
+  "to": "hegel",
+  "from_title": "Immanuel Kant (1781)",
+  "to_title": "G. W. F. Hegel (1807)",
+  "kind": "builds",
+  "note": "german idealism"
+ },
+ {
+  "from": "idealism",
+  "to": "hegel",
+  "from_title": "Idealism (1710 onward)",
+  "to_title": "G. W. F. Hegel (1807)",
+  "kind": "builds",
+  "note": "spirit coming to know itself"
+ },
+ {
+  "from": "darwin",
+  "to": "dawkins",
+  "from_title": "Charles Darwin (1859)",
+  "to_title": "Dawkins: selfish genes and memes (1976)",
+  "kind": "builds",
+  "note": "the gene's-eye view of selection"
+ },
+ {
+  "from": "darwin",
+  "to": "groupsel",
+  "from_title": "Charles Darwin (1859)",
+  "to_title": "Multilevel selection (1975)",
+  "kind": "builds",
+  "note": "selection at several levels"
+ },
+ {
+  "from": "darwin",
+  "to": "edelman",
+  "from_title": "Charles Darwin (1859)",
+  "to_title": "Neural Darwinism (1987)",
+  "kind": "builds",
+  "note": "selection applied to groups of neurons"
+ },
+ {
+  "from": "celltheory",
+  "to": "levin",
+  "from_title": "Cell theory (1839)",
+  "to_title": "Michael Levin: bioelectricity and collective intelligence (2019)",
+  "kind": "builds",
+  "note": "cells as agents that cooperate to build bodies"
+ },
+ {
+  "from": "dubois",
+  "to": "mysterianism",
+  "from_title": "Du Bois-Reymond: Ignorabimus (1872)",
+  "to_title": "Mysterianism (1989)",
+  "kind": "builds",
+  "note": "'we will never know' returns a century later"
+ },
+ {
+  "from": "epiphenomenalism",
+  "to": "chalmers",
+  "from_title": "Epiphenomenalism (1874)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "related",
+  "note": "experience that does no causal work"
+ },
+ {
+  "from": "brentano",
+  "to": "husserl",
+  "from_title": "Franz Brentano (1874)",
+  "to_title": "Phenomenology (1913)",
+  "kind": "builds",
+  "note": "intentionality becomes phenomenology"
+ },
+ {
+  "from": "brentano",
+  "to": "freud",
+  "from_title": "Franz Brentano (1874)",
+  "to_title": "Freud and psychoanalysis (1923)",
+  "kind": "related",
+  "note": "freud attended brentano's lectures"
+ },
+ {
+  "from": "wundt",
+  "to": "james",
+  "from_title": "Early experimental psychology (1879)",
+  "to_title": "William James: The Principles of Psychology (1890)",
+  "kind": "related",
+  "note": "psychology becomes a laboratory science"
+ },
+ {
+  "from": "wundt",
+  "to": "skinner",
+  "from_title": "Early experimental psychology (1879)",
+  "to_title": "Behaviorism (1938)",
+  "kind": "against",
+  "note": "behaviorism throws out introspection"
+ },
+ {
+  "from": "kant",
+  "to": "husserl",
+  "from_title": "Immanuel Kant (1781)",
+  "to_title": "Phenomenology (1913)",
+  "kind": "builds",
+  "note": "the mind's contribution to experience"
+ },
+ {
+  "from": "husserl",
+  "to": "embodied",
+  "from_title": "Phenomenology (1913)",
+  "to_title": "Embodied and enactive cognition (1927–2006)",
+  "kind": "builds",
+  "note": "phenomenology of the lived body"
+ },
+ {
+  "from": "cantor",
+  "to": "russell",
+  "from_title": "Cantor's set theory (1874)",
+  "to_title": "Russell and Whitehead (1901–1913)",
+  "kind": "builds",
+  "note": "naive set theory runs into russell's paradox"
+ },
+ {
+  "from": "frege",
+  "to": "russell",
+  "from_title": "Gottlob Frege (1879)",
+  "to_title": "Russell and Whitehead (1901–1913)",
+  "kind": "builds",
+  "note": "russell finds the paradox in frege's system"
+ },
+ {
+  "from": "frege",
+  "to": "wittgenstein",
+  "from_title": "Gottlob Frege (1879)",
+  "to_title": "Ludwig Wittgenstein (1921–1953)",
+  "kind": "builds",
+  "note": "logic as the form of language"
+ },
+ {
+  "from": "russell",
+  "to": "wittgenstein",
+  "from_title": "Russell and Whitehead (1901–1913)",
+  "to_title": "Ludwig Wittgenstein (1921–1953)",
+  "kind": "builds",
+  "note": "wittgenstein was russell's student"
+ },
+ {
+  "from": "peano",
+  "to": "goedel",
+  "from_title": "Peano axioms (1889)",
+  "to_title": "Gödel's incompleteness theorems (1931)",
+  "kind": "builds",
+  "note": "arithmetic is what incompleteness is about"
+ },
+ {
+  "from": "russell",
+  "to": "goedel",
+  "from_title": "Russell and Whitehead (1901–1913)",
+  "to_title": "Gödel's incompleteness theorems (1931)",
+  "kind": "builds",
+  "note": "'on formally undecidable propositions of principia mathematica'"
+ },
+ {
+  "from": "hilbert",
+  "to": "goedel",
+  "from_title": "Hilbert's programme (1920s)",
+  "to_title": "Gödel's incompleteness theorems (1931)",
+  "kind": "against",
+  "note": "incompleteness ends the hope of a complete, provably consistent system"
+ },
+ {
+  "from": "cantor",
+  "to": "brouwer",
+  "from_title": "Cantor's set theory (1874)",
+  "to_title": "Constructive mathematics and intuitionism (1908)",
+  "kind": "against",
+  "note": "intuitionism rejects completed infinities"
+ },
+ {
+  "from": "brouwer",
+  "to": "hilbert",
+  "from_title": "Constructive mathematics and intuitionism (1908)",
+  "to_title": "Hilbert's programme (1920s)",
+  "kind": "related",
+  "note": "the formalism versus intuitionism dispute"
+ },
+ {
+  "from": "frege",
+  "to": "tarski",
+  "from_title": "Gottlob Frege (1879)",
+  "to_title": "Alfred Tarski (1933)",
+  "kind": "builds",
+  "note": "a formal definition of truth"
+ },
+ {
+  "from": "leibniz",
+  "to": "frege",
+  "from_title": "Gottfried Wilhelm Leibniz (1714)",
+  "to_title": "Gottlob Frege (1879)",
+  "kind": "builds",
+  "note": "leibniz's dream of a calculus of thought"
+ },
+ {
+  "from": "goedel",
+  "to": "turing",
+  "from_title": "Gödel's incompleteness theorems (1931)",
+  "to_title": "Alan Turing and computability (1936–1950)",
+  "kind": "builds",
+  "note": "undecidability restated for machines"
+ },
+ {
+  "from": "hilbert",
+  "to": "turing",
+  "from_title": "Hilbert's programme (1920s)",
+  "to_title": "Alan Turing and computability (1936–1950)",
+  "kind": "builds",
+  "note": "turing answers hilbert's decision problem"
+ },
+ {
+  "from": "lambda",
+  "to": "turing",
+  "from_title": "Lambda calculus and combinators (1924–1936)",
+  "to_title": "Alan Turing and computability (1936–1950)",
+  "kind": "related",
+  "note": "church and turing: equivalent definitions of computation"
+ },
+ {
+  "from": "lambda",
+  "to": "sicp",
+  "from_title": "Lambda calculus and combinators (1924–1936)",
+  "to_title": "Structure and Interpretation of Computer Programs (1985)",
+  "kind": "builds",
+  "note": "lisp and scheme"
+ },
+ {
+  "from": "turing",
+  "to": "vonneumann",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "John von Neumann and the first computers (1837–1956)",
+  "kind": "builds",
+  "note": "the stored-program computer"
+ },
+ {
+  "from": "turing",
+  "to": "morpho",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "Turing's morphogenesis (1952)",
+  "kind": "builds",
+  "note": "turing's last major work"
+ },
+ {
+  "from": "turing",
+  "to": "dartmouth",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "The founding of AI (1956)",
+  "kind": "builds",
+  "note": "'can machines think?'"
+ },
+ {
+  "from": "turing",
+  "to": "hypercomputation",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "Hypercomputation (1999)",
+  "kind": "related",
+  "note": "what would lie beyond turing machines"
+ },
+ {
+  "from": "turing",
+  "to": "quantumcomp",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "Quantum computing (1982)",
+  "kind": "related",
+  "note": "a faster, not a more powerful, computer"
+ },
+ {
+  "from": "shannon",
+  "to": "solomonoff",
+  "from_title": "Claude Shannon and information theory (1948–1950)",
+  "to_title": "Solomonoff induction (1964)",
+  "kind": "builds",
+  "note": "information and compression as a theory of induction"
+ },
+ {
+  "from": "shannon",
+  "to": "dartmouth",
+  "from_title": "Claude Shannon and information theory (1948–1950)",
+  "to_title": "The founding of AI (1956)",
+  "kind": "builds",
+  "note": "shannon co-organised the workshop"
+ }
+]

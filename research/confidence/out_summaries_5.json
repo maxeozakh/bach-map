@@ -1,0 +1,387 @@
+[
+ {
+  "id": "deeplearning",
+  "facet": "GANs as a model of dreaming",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Generative_adversarial_network",
+  "note": "Goodfellow 2014 and generator/discriminator confirmed; 'first convincing synthetic photographs' is not stated by the source."
+ },
+ {
+  "id": "deeplearning",
+  "facet": "Stable Diffusion",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Stable_Diffusion",
+  "note": "Public release confirmed; source gives 2.4 GB VRAM, not weight file size. 'Almost any visual subject' not stated."
+ },
+ {
+  "id": "deeplearning",
+  "facet": "Ilya Sutskever",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever",
+  "note": ""
+ },
+ {
+  "id": "vervaeke",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://deconstructingyourself.com/john-vervaeke-on-relevance-realization.html",
+  "note": "Toronto, lecture series and relevance realization confirmed; 'core of intelligence' and Neoplatonism/Buddhism 'practices rather than beliefs' claims not stated on page."
+ },
+ {
+  "id": "ast",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Attention_schema_theory",
+  "note": ""
+ },
+ {
+  "id": "ackley",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://www.cs.unm.edu/~ackley/",
+  "note": ""
+ },
+ {
+  "id": "her",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Her_(2013_film)",
+  "note": ""
+ },
+ {
+  "id": "exmachina",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Ex_Machina_(film)",
+  "note": ""
+ },
+ {
+  "id": "tegmark",
+  "facet": "Max Tegmark",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Max_Tegmark",
+  "note": ""
+ },
+ {
+  "id": "tegmark",
+  "facet": "Consciousness as a State of Matter",
+  "verdict": "supported",
+  "url": "https://arxiv.org/abs/1401.1219",
+  "note": ""
+ },
+ {
+  "id": "tegmark",
+  "facet": "Language Models Represent Space and Time",
+  "verdict": "supported",
+  "url": "https://arxiv.org/abs/2310.02207",
+  "note": ""
+ },
+ {
+  "id": "tegmark",
+  "facet": "Life 3.0",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Life_3.0",
+  "note": ""
+ },
+ {
+  "id": "aaronson",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Scott_Aaronson",
+  "note": ""
+ },
+ {
+  "id": "hoffman",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Donald_D._Hoffman",
+  "note": ""
+ },
+ {
+  "id": "thooft",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://arxiv.org/abs/1405.1548",
+  "note": ""
+ },
+ {
+  "id": "illusionism",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Illusionism_(consciousness)",
+  "note": ""
+ },
+ {
+  "id": "westworld",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Westworld_(TV_series)",
+  "note": ""
+ },
+ {
+  "id": "bengio",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://arxiv.org/abs/1709.08568",
+  "note": ""
+ },
+ {
+  "id": "bach",
+  "facet": "Joscha Bach",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Joscha_Bach",
+  "note": "Source says he was listed as CIMC executive director in 2025; 'has led since 2025' start date not explicitly confirmed."
+ },
+ {
+  "id": "bach",
+  "facet": "Motivated cognition: Psi theory and MicroPsi (2003)",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Psi-theory",
+  "note": ""
+ },
+ {
+  "id": "bach",
+  "facet": "Seven principles of synthetic intelligence (2008)",
+  "verdict": "supported",
+  "url": "http://www.cognitive-ai.com/publications/assets/AGI%20Bach.pdf",
+  "note": ""
+ },
+ {
+  "id": "bach",
+  "facet": "Gods as selves that span many minds (2015)",
+  "verdict": "supported",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "note": ""
+ },
+ {
+  "id": "bach",
+  "facet": "Request Confirmation Networks (ReCoN) (2015)",
+  "verdict": "supported",
+  "url": "https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf",
+  "note": ""
+ },
+ {
+  "id": "bach",
+  "facet": "From elementary computation to ethics (2016)",
+  "verdict": "partly",
+  "url": "http://bach.ai/from-computation-to-ethics/",
+  "note": "16 steps confirmed; essay calls finding the best ethics 'ill-posed', so 'values can be derived' is overstated. 2023 essay claim not checked."
+ },
+ {
+  "id": "bach",
+  "facet": "Functionalism, weak and strong computationalism (2016)",
+  "verdict": "supported",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "note": ""
+ },
+ {
+  "id": "bach",
+  "facet": "Only what can be constructed exists (2016)",
+  "verdict": "partly",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "note": "Constructive-mathematics and Gödel reading confirmed; 'only computable things are real or true' and use against Penrose are stated more strongly than the essay."
+ },
+ {
+  "id": "bach",
+  "facet": "Consciousness as conductor and coherence operator (2017)",
+  "verdict": "supported",
+  "url": "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf",
+  "note": ""
+ },
+ {
+  "id": "bach",
+  "facet": "Attention-based learning (2018)",
+  "verdict": "supported",
+  "url": "http://bach.ai/pub/Attention%20based%20learning%20as%20a%20foundation%20for%20consciousness%20Common%20Model%20Bach.pdf",
+  "note": ""
+ },
+ {
+  "id": "bach",
+  "facet": "Consciousness is a simulated property; the self is a story (2018)",
+  "verdict": "supported",
+  "url": "http://bach.ai/pub/Attention%20based%20learning%20as%20a%20foundation%20for%20consciousness%20Common%20Model%20Bach.pdf",
+  "note": ""
+ },
+ {
+  "id": "bach",
+  "facet": "Love as the discovery of shared purpose (2021)",
+  "verdict": "partly",
+  "url": "https://joscha.substack.com/p/the-age-of-age",
+  "note": "'Hollow agency' and shared purposes confirmed (2026); the 'trade, force or shared purposes' alignment claim not found in sources opened."
+ },
+ {
+  "id": "bach",
+  "facet": "Consciousness comes before the self (2023)",
+  "verdict": "supported",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "note": ""
+ },
+ {
+  "id": "bach",
+  "facet": "Levels of Lucidity (2023)",
+  "verdict": "supported",
+  "url": "https://joscha.substack.com/p/levels-of-lucidity",
+  "note": ""
+ },
+ {
+  "id": "bach",
+  "facet": "On large language models (2023)",
+  "verdict": "partly",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "note": "'Tend to dream', no behaviour test, 2023 view and 'idiot savants' confirmed; CIMC 'really good actors' note could not be found."
+ },
+ {
+  "id": "bach",
+  "facet": "Cyber-animism: software as spirit (2024)",
+  "verdict": "supported",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "note": ""
+ },
+ {
+  "id": "llm",
+  "facet": "LLMs and the transformer",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Large_language_model",
+  "note": ""
+ },
+ {
+  "id": "llm",
+  "facet": "Scaling hypothesis",
+  "verdict": "supported",
+  "url": "https://gwern.net/scaling-hypothesis",
+  "note": ""
+ },
+ {
+  "id": "llm",
+  "facet": "Blake Lemoine and LaMDA",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/LaMDA",
+  "note": ""
+ },
+ {
+  "id": "llm",
+  "facet": "AI companions",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Replika",
+  "note": ""
+ },
+ {
+  "id": "llm",
+  "facet": "Public AI discourse",
+  "verdict": "supported",
+  "url": "https://en.wikipedia.org/wiki/Emily_M._Bender",
+  "note": ""
+ },
+ {
+  "id": "chollet",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://arxiv.org/abs/1911.01547",
+  "note": "Skill-acquisition efficiency definition confirmed; the claim that current models 'mostly interpolate' does not appear in this paper."
+ },
+ {
+  "id": "levin",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://drmichaellevin.org/",
+  "note": ""
+ },
+ {
+  "id": "bitter",
+  "facet": "",
+  "verdict": "supported",
+  "url": "http://www.incompleteideas.net/IncIdeas/BitterLesson.html",
+  "note": ""
+ },
+ {
+  "id": "metazoa",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://symposiumbooks.com/book/9781250800268",
+  "note": ""
+ },
+ {
+  "id": "nca",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://distill.pub/2020/growing-ca/",
+  "note": ""
+ },
+ {
+  "id": "olah",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://distill.pub/2020/circuits/zoom-in/",
+  "note": ""
+ },
+ {
+  "id": "seth",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40257177/",
+  "note": ""
+ },
+ {
+  "id": "marcus",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Gary_Marcus",
+  "note": "Critic of AI hype, symbol-manipulation and scaling limits confirmed; 'best-known critic of deep learning' is not stated by the source."
+ },
+ {
+  "id": "thagard",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://www.cambridge.org/core/journals/philosophy-of-science/article/energy-requirements-undermine-substrate-independence-and-mindbody-functionalism/2BB3C2353EFF80F9D5805CDCEA8C3C89",
+  "note": ""
+ },
+ {
+  "id": "butlin",
+  "facet": "Consciousness in Artificial Intelligence",
+  "verdict": "supported",
+  "url": "https://arxiv.org/abs/2308.08708",
+  "note": ""
+ },
+ {
+  "id": "butlin",
+  "facet": "Taking AI Welfare Seriously",
+  "verdict": "supported",
+  "url": "https://arxiv.org/abs/2411.00986",
+  "note": ""
+ },
+ {
+  "id": "chirimuuta",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://braininspired.co/podcast/186/",
+  "note": ""
+ },
+ {
+  "id": "shanahan",
+  "facet": "",
+  "verdict": "partly",
+  "url": "https://en.wikipedia.org/wiki/Murray_Shanahan",
+  "note": "Affiliations and book confirmed here; role-play view is in arxiv.org/abs/2305.16367, the 'knows/believes' caution was not directly checked."
+ },
+ {
+  "id": "cimc",
+  "facet": "The Machine Consciousness Hypothesis (2025)",
+  "verdict": "supported",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "note": ""
+ },
+ {
+  "id": "cimc",
+  "facet": "No Turing test for consciousness (2025)",
+  "verdict": "supported",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "note": ""
+ },
+ {
+  "id": "lerchner",
+  "facet": "",
+  "verdict": "supported",
+  "url": "https://cimc.ai/publications/against-intrinsic-properties/",
+  "note": ""
+ }
+]

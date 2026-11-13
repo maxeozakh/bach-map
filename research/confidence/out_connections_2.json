@@ -1,0 +1,387 @@
+[
+ {
+  "from": "solomonoff",
+  "to": "schmidhuber",
+  "verdict": "documented",
+  "url": "https://people.idsia.ch/~juergen/kolmogorov.html",
+  "note_out": "Schmidhuber's own page presents his generalized Kolmogorov complexity work as extending Solomonoff's algorithmic probability and universal prediction."
+ },
+ {
+  "from": "shannon",
+  "to": "witten",
+  "verdict": "standard",
+  "url": "",
+  "note_out": "Predictive text compression (PPM, arithmetic coding) rests on Shannon's theory; no opened page states Witten's debt in so many words."
+ },
+ {
+  "from": "vonneumann",
+  "to": "conway",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
+  "note_out": "Page traces cellular automata to Ulam and von Neumann, then Conway's experiments with such rules."
+ },
+ {
+  "from": "vonneumann",
+  "to": "singularity",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Technological_singularity",
+  "note_out": "Von Neumann is the first known to discuss a 'singularity' in technological progress, as reported by Ulam in 1958."
+ },
+ {
+  "from": "vonneumann",
+  "to": "ackley",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "Thematic link to von Neumann's 1956 unreliable-components paper; found no reliable source stating Ackley builds on it."
+ },
+ {
+  "from": "conway",
+  "to": "wolfram",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "Sources place both in the cellular-automata lineage and classify Life in Wolfram's scheme, but none says Wolfram drew on Life."
+ },
+ {
+  "from": "vonneumann",
+  "to": "digital",
+  "verdict": "standard",
+  "url": "",
+  "note_out": "Von Neumann fathered cellular automata; Zuse and Fredkin proposed the universe is one. Direct debt not stated in pages read."
+ },
+ {
+  "from": "digital",
+  "to": "wolfram",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Digital_physics",
+  "note_out": "Page presents Wolfram's A New Kind of Science and hypergraph project as part of digital physics."
+ },
+ {
+  "from": "digital",
+  "to": "thooft",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Digital_physics",
+  "note_out": "Page calls 't Hooft's cellular automaton interpretation the most technically developed contemporary version."
+ },
+ {
+  "from": "digital",
+  "to": "simulation",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Digital_physics",
+  "note_out": "Page says digital physics overlaps with but is distinct from the simulation hypothesis."
+ },
+ {
+  "from": "digital",
+  "to": "wheeler",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Digital_physics",
+  "note_out": "Page lists Wheeler's 'it from bit' as the informational-primacy strand, influential beyond digital physics."
+ },
+ {
+  "from": "everett",
+  "to": "deutsch",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/David_Deutsch",
+  "note_out": "Page says Deutsch is a proponent of the many-worlds interpretation; 'leading' is the map's wording."
+ },
+ {
+  "from": "quantumcomp",
+  "to": "deutsch",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/David_Deutsch",
+  "note_out": "Deutsch's 1985 paper described the universal quantum computer."
+ },
+ {
+  "from": "conway",
+  "to": "mandelbrot",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "Thematic parallel only; no source read discusses the two together."
+ },
+ {
+  "from": "mcculloch",
+  "to": "cybernetics",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Macy_conferences",
+  "note_out": "McCulloch chaired the Macy cybernetics conferences; Pitts also attended."
+ },
+ {
+  "from": "mcculloch",
+  "to": "minsky",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+  "note_out": "Minsky named as a student inspired by McCulloch and Pitts; built SNARC in 1951, later co-wrote Perceptrons."
+ },
+ {
+  "from": "mcculloch",
+  "to": "pdp",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Connectionism",
+  "note_out": "Page dates connectionism's first wave to McCulloch and Pitts (1943)."
+ },
+ {
+  "from": "cybernetics",
+  "to": "autopoiesis",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Second-order_cybernetics",
+  "note_out": "Autopoiesis is listed among the developments of second-order cybernetics. Covers the autopoiesis half of the point only."
+ },
+ {
+  "from": "cybernetics",
+  "to": "gaia",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Gaia_hypothesis",
+  "note_out": "Page describes Gaia as a cybernetic feedback system maintaining homeostasis."
+ },
+ {
+  "from": "schroedinger",
+  "to": "autopoiesis",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Autopoiesis",
+  "note_out": "Page says autopoiesis and related theories of life found their original inspiration in Schrödinger's What Is Life?"
+ },
+ {
+  "from": "schroedinger",
+  "to": "friston",
+  "verdict": "documented",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5857288/",
+  "note_out": "Friston co-authored 'Answering Schrödinger's question: a free-energy formulation' (2018), later than the point's date range."
+ },
+ {
+  "from": "dartmouth",
+  "to": "minsky",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Dartmouth_workshop",
+  "note_out": "Minsky was one of the four organisers, counted among the founding fathers of AI."
+ },
+ {
+  "from": "dartmouth",
+  "to": "symbolic",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Dartmouth_workshop",
+  "note_out": "Page says the rise of symbolic methods was initiated or encouraged by the workshop."
+ },
+ {
+  "from": "skinner",
+  "to": "chomsky",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Verbal_Behavior",
+  "note_out": "Chomsky published an influential critique of Verbal Behavior in 1959."
+ },
+ {
+  "from": "chomsky",
+  "to": "fodor",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Jerry_Fodor",
+  "note_out": "Page says Fodor followed Chomsky on nativism and drew on him to model his theory of mind."
+ },
+ {
+  "from": "symbolic",
+  "to": "fodor",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Physical_symbol_system",
+  "note_out": "Page links the symbol-system hypothesis to the computational theory of mind associated with Putnam and Fodor."
+ },
+ {
+  "from": "symbolic",
+  "to": "cyc",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
+  "note_out": "Page treats Cyc as a hand-built commonsense knowledge base within symbolic AI."
+ },
+ {
+  "from": "symbolic",
+  "to": "eliza",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/ELIZA_effect",
+  "note_out": "Page calls ELIZA a symbolic AI chatbot whose basic text processing convinced users of understanding."
+ },
+ {
+  "from": "symbolic",
+  "to": "schank",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
+  "note_out": "Page covers Schank's scripts as part of symbolic AI's commonsense-knowledge work."
+ },
+ {
+  "from": "symbolic",
+  "to": "cogarch",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
+  "note_out": "Page says the Carnegie Mellon symbolic tradition culminated in Soar; also covers ACT-R."
+ },
+ {
+  "from": "symbolic",
+  "to": "dreyfus",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence",
+  "note_out": "Dreyfus's critique was directed at symbolic AI; he held that skills cannot be captured in formal rules."
+ },
+ {
+  "from": "symbolic",
+  "to": "harnad",
+  "verdict": "documented",
+  "url": "https://arxiv.org/abs/cs/9906002",
+  "note_out": "Harnad's abstract: symbols in a formal symbol system grounded only in other meaningless symbols."
+ },
+ {
+  "from": "symbolic",
+  "to": "brooks",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
+  "note_out": "Page says Brooks's approach rejected symbolic AI's representations."
+ },
+ {
+  "from": "symbolic",
+  "to": "searle",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Chinese_room",
+  "note_out": "Searle's target is symbol processing: syntactic manipulation without semantics."
+ },
+ {
+  "from": "selfridge",
+  "to": "minsky",
+  "verdict": "standard",
+  "url": "",
+  "note_out": "Wikipedia says Minsky considered Selfridge a mentor; lineage widely told, but no reliable page read states the debt outright."
+ },
+ {
+  "from": "minsky",
+  "to": "pdp",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Perceptrons_(book)",
+  "note_out": "Rumelhart and colleagues claimed in 1986 to have overcome the problems Minsky and Papert raised."
+ },
+ {
+  "from": "ivakhnenko",
+  "to": "deeplearning",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Deep_learning",
+  "note_out": "Page calls Ivakhnenko and Lapa's 1965 method the first working deep learning algorithm."
+ },
+ {
+  "from": "pdp",
+  "to": "deeplearning",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Deep_learning",
+  "note_out": "Page: Rumelhart et al. popularised backpropagation in 1986, though they did not invent it."
+ },
+ {
+  "from": "boltzmannmachine",
+  "to": "deeplearning",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Deep_learning",
+  "note_out": "Hinton's 2006 deep belief networks stack restricted Boltzmann machines."
+ },
+ {
+  "from": "schmidhuber",
+  "to": "deeplearning",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber",
+  "note_out": "Page covers the neural history compressor and the work leading to LSTM."
+ },
+ {
+  "from": "deeplearning",
+  "to": "llm",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Large_language_model",
+  "note_out": "LLMs are typically based on the transformer neural network architecture."
+ },
+ {
+  "from": "deeplearning",
+  "to": "olah",
+  "verdict": "documented",
+  "url": "https://distill.pub/2020/circuits/zoom-in/",
+  "note_out": "Zoom In studies trained networks' features and circuits; universality is its third claim."
+ },
+ {
+  "from": "deeplearning",
+  "to": "bitter",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Bitter_lesson",
+  "note_out": "Page cites deep learning and convolutional networks as continuing the trend the essay describes."
+ },
+ {
+  "from": "deeplearning",
+  "to": "marcus",
+  "verdict": "documented",
+  "url": "https://nautil.us/deep-learning-is-hitting-a-wall-238440/",
+  "note_out": "Marcus's 2022 essay of that title."
+ },
+ {
+  "from": "deeplearning",
+  "to": "chollet",
+  "verdict": "interpretive",
+  "url": "",
+  "note_out": "Chollet argues against measuring intelligence by task skill; calling the paper 'against deep learning' is a judgement call."
+ },
+ {
+  "from": "mountcastle",
+  "to": "hawkins",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/On_Intelligence",
+  "note_out": "Mountcastle's cortical column is a basic element of Hawkins's framework."
+ },
+ {
+  "from": "morpho",
+  "to": "nca",
+  "verdict": "documented",
+  "url": "https://distill.pub/2020/growing-ca/",
+  "note_out": "The paper names Turing's 1952 patterns among the examples that inspired it."
+ },
+ {
+  "from": "conway",
+  "to": "nca",
+  "verdict": "documented",
+  "url": "https://distill.pub/2020/growing-ca/",
+  "note_out": "The paper cites Conway's Game of Life and its continuous generalisations (SmoothLife, Lenia) as inspiration."
+ },
+ {
+  "from": "braitenberg",
+  "to": "brooks",
+  "verdict": "documented",
+  "url": "https://www.cs.kent.ac.uk/pubs/2006/2867/content.pdf",
+  "note_out": "Paper on Brooks's subsumption architecture cites Braitenberg's Vehicles as the fullest demonstration of the behavioural paradigm."
+ },
+ {
+  "from": "brooks",
+  "to": "embodied",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Embodied_cognition",
+  "note_out": "Page cites Brooks among roboticists arguing intelligence needs sensorimotor connection to the world."
+ },
+ {
+  "from": "dreyfus",
+  "to": "embodied",
+  "verdict": "standard",
+  "url": "",
+  "note_out": "IEP lists Dreyfus among critiques embodied theorists take up; Wikipedia calls views similar. Explicit 'builds on' not found."
+ },
+ {
+  "from": "llm",
+  "to": "shanahan",
+  "verdict": "documented",
+  "url": "https://arxiv.org/abs/2305.16367",
+  "note_out": "Shanahan et al., 'Role-Play with Large Language Models', dated 2023."
+ },
+ {
+  "from": "llm",
+  "to": "butlin",
+  "verdict": "documented",
+  "url": "https://arxiv.org/abs/2308.08708",
+  "note_out": "Butlin et al. assess recent AI systems against indicator properties from theories of consciousness."
+ },
+ {
+  "from": "eliza",
+  "to": "llm",
+  "verdict": "documented",
+  "url": "https://ojs.weizenbaum-institut.de/index.php/wjds/article/download/136/3_3_3/1438",
+  "note_out": "Article calls ChatGPT a direct descendant of ELIZA and discusses users attributing human qualities to both."
+ },
+ {
+  "from": "agi",
+  "to": "airisk",
+  "verdict": "documented",
+  "url": "https://en.wikipedia.org/wiki/Artificial_general_intelligence",
+  "note_out": "Page discusses whether AGI represents an existential risk, citing Bostrom."
+ }
+]

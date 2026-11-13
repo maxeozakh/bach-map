@@ -37,6 +37,9 @@ li { margin: 0 0 6px; }
 b { color: var(--text); }
 .small { font-size: 13.5px; line-height: 1.45; }
 .row { margin: 0 0 4px; }
+table { border-collapse: collapse; margin: 0 0 12px; font-size: 14.5px; }
+th, td { text-align: left; vertical-align: top; padding: 6px 12px 6px 0; border-bottom: 1px solid var(--line); color: var(--muted); font-weight: 400; }
+th { font-size: 13px; }
 </style>
 </head>
 <body>
@@ -51,8 +54,18 @@ b { color: var(--text); }
   <li><b>connections</b>: written by claude fable 5.2 from general knowledge, not taken from the transcripts. the least grounded part; read them as plausible, not established</li>
   <li><b>quotes</b>: the ones marked "verbatim" were matched against the transcripts; "paraphrase" ones are claude fable 5.2's rewording</li>
   <li><b>years</b>: approximate for older items</li>
-  <li><b>review</b>: on 13 november 2026 claude fable 5.2 re-read every summary and connection in four separate passes, looking up doubtful claims on the web, and about 40 corrections were made (wrong by-lines, misstated positions, connections pointing the wrong way). most items were checked from the model's own knowledge, not against a source, and still no person has checked them</li>
+  <li><b>review</b>: on 13 november 2026 claude fable 5.2 re-read every summary and connection, about 45 corrections were made (wrong by-lines, misstated positions, connections pointing the wrong way), and each item was then checked against a source to give it the confidence level below. still no person has checked any of it</li>
 </ul>
+
+<h2 id="confidence">confidence</h2>
+<p>every summary and connection carries one of three words. the word is not a rating of how sure the model feels; it follows from what a source check on 13 november 2026 found. in that check claude fable 5.2 looked for a web page covering each item and opened it; most pages were searched for the relevant passages, not read end to end.</p>
+<table>
+  <tr><th></th><th>a summary gets it when</th><th>a connection gets it when</th><th>summaries</th><th>connections</th></tr>
+  <tr><td><b>highly likely</b></td><td>a source was opened and backs its main claims</td><td>a source was opened that states the link itself; for links to joscha bach, a quote of his matched in a transcript shows it</td><td id="s-hl"></td><td id="c-hl"></td></tr>
+  <tr><td><b>likely</b></td><td>a source backs the core, but one claim in it was not confirmed; the card says which</td><td>the link is a commonplace of the field but no page stating it was found, or a source states it with a qualification</td><td id="s-l"></td><td id="c-l"></td></tr>
+  <tr><td><b>possible</b></td><td>no source was found</td><td>a reasonable reading or a parallel that no source was found making</td><td id="s-p"></td><td id="c-p"></td></tr>
+</table>
+<p>nothing is marked certain. the source link on a card is the page the item was checked against. a wrong level is possible in both directions: the same model wrote the items and judged the sources.</p>
 
 <h2>starting material</h2>
 <p id="sources-note"></p>
@@ -67,6 +80,7 @@ b { color: var(--text); }
 const D = JSON.parse(document.getElementById('data').textContent);
 const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const el = id => document.getElementById(id);
+for (const [k, key] of [['s', 'summaries'], ['c', 'connections']]) for (const [id, lvl] of [['hl', 'highly likely'], ['l', 'likely'], ['p', 'possible']]) el(k + '-' + id).textContent = D.conf[k][lvl] || 0;
 el('stats').textContent = `${D.points} points, ${D.connections} connections`;
 const got = D.sources.filter(s => s.ok).length;
 el('sources-note').textContent = `${got} transcripts and texts of joscha bach's interviews, talks and papers, and the CIMC site` + (D.sources.length > got ? `. ${D.sources.length - got} more were found but could not be retrieved` : '');

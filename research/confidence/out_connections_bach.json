@@ -1,0 +1,490 @@
+[
+ {
+  "from": "doerner",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "http://icontology.com/publications/assets/AGI%20Bach.pdf",
+  "quote": "MicroPsi [22, 23] is an implementation of Dietrich Dörner’s Psi theory of mental representation, information processing, perception, action control and emotion",
+  "note_out": ""
+ },
+ {
+  "from": "cogarch",
+  "to": "bach",
+  "verdict": "standard",
+  "url": "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf",
+  "quote": "",
+  "note_out": "Thesis section 2.2 compares Psi with Soar and ACT-R; known here only from a paraphrase."
+ },
+ {
+  "from": "maslow",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "Only a bibliography entry for Maslow, no source URL; how far Bach follows him was not checked."
+ },
+ {
+  "from": "bischof",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "Bach only names Bischof as a source of Dörner's theory; no direct statement of Bach drawing on him."
+ },
+ {
+  "from": "occ",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "One paraphrase: Bach reports Dörner rejecting emotion taxonomies in general; OCC is only one item in the list."
+ },
+ {
+  "from": "sloman",
+  "to": "bach",
+  "verdict": "standard",
+  "url": "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf",
+  "quote": "",
+  "note_out": "Bach uses a Sloman line as a chapter motto and calls his architecture inspiring; no verbatim statement of the method claim."
+ },
+ {
+  "from": "cybernetics",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://www.youtube.com/watch?v=XcNlv9gp20o",
+  "quote": "we can understand motivation from the perspective of control theory and cybernetics",
+  "note_out": ""
+ },
+ {
+  "from": "embodied",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "http://icontology.com/publications/assets/AGI%20Bach.pdf",
+  "quote": "Do not wait for the rapture of robotic embodiment",
+  "note_out": ""
+ },
+ {
+  "from": "harnad",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "http://icontology.com/publications/assets/AGI%20Bach.pdf",
+  "quote": "Build grounded systems, but do not get entangled in the Symbol Grounding Problem",
+  "note_out": ""
+ },
+ {
+  "from": "schank",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "Schank appears only in a bibliography; the verbatim ReCoN quote does not mention scripts or Schank."
+ },
+ {
+  "from": "minsky",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://www.youtube.com/watch?v=Z02Obj8j6FQ",
+  "quote": "he saw the mind as an interaction of agents that have a degree of autonomy and that at the same time have to achieve coherence",
+  "note_out": "Bach describes Minsky's view in these terms and elsewhere calls him the most influential thinker on minds."
+ },
+ {
+  "from": "gwt",
+  "to": "bach",
+  "verdict": "standard",
+  "url": "https://www.youtube.com/watch?v=34VOI_oo-qM",
+  "quote": "",
+  "note_out": "Bach names global workspace theory as a perspective converging on his own; verbatim quotes only name it."
+ },
+ {
+  "from": "ast",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://www.youtube.com/watch?v=34VOI_oo-qM",
+  "quote": "Graziano's attention schema theory. Consciousness is a dynamic model of our attention and its contents",
+  "note_out": "Listed by Bach among perspectives converging on his own."
+ },
+ {
+  "from": "binding",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "quote": "Christoph von der Malsburg calls this concept the coherence definition of consciousness",
+  "note_out": ""
+ },
+ {
+  "from": "hot",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "Bach explicitly separates his view from higher-order thought (\"misleading\": perception, not thought); family resemblance only, so \"builds\" overstates."
+ },
+ {
+  "from": "iit",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf",
+  "quote": "Unlike IIT, CTC is a functionalist model of consciousness",
+  "note_out": ""
+ },
+ {
+  "from": "metzinger",
+  "to": "bach",
+  "verdict": "standard",
+  "url": "https://ceur-ws.org/Vol-2287/paper29.pdf",
+  "quote": "",
+  "note_out": "Bach's 2018 paper refers to Metzinger 2003 for the self as representation; verbatim quotes only name Metzinger."
+ },
+ {
+  "from": "dennett",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "Bach places his theory near Dennett's functionalism, but no mention shows him using the \"centre of narrative gravity\" idea."
+ },
+ {
+  "from": "kant",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "No statement by Bach on Kant's phenomena/thing-in-itself was found; Kant work at CIMC is by colleagues."
+ },
+ {
+  "from": "plato",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "Bach discusses Platonism and Platonic forms, but no mention refers to the cave."
+ },
+ {
+  "from": "buddhism",
+  "to": "bach",
+  "verdict": "standard",
+  "url": "https://lexfridman.com/joscha-bach-3-transcript",
+  "quote": "",
+  "note_out": "Bach credits Buddhist meditators with the enlightenment stage, but also calls Buddhism limited; no single quote states the full claim."
+ },
+ {
+  "from": "chalmers",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://www.youtube.com/watch?v=SGZ784mBuU0",
+  "quote": "David Chalmers famously branded this term. And I think it's a bit of a misunderstanding.",
+  "note_out": "Quote shows the rejection; the simulated-character explanation is in the summaries, not this quote."
+ },
+ {
+  "from": "panpsychism",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://lexfridman.com/joscha-bach-3-transcript",
+  "quote": "I find panpsychism quite unsatisfying, because it does not explain consciousness, right?",
+  "note_out": "Quote shows the rejection; the \"only a simulation can be conscious\" part is not in the quote."
+ },
+ {
+  "from": "lucid",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "Single quote uses lucid dreams to show the brain's generative fidelity; the \"waking perception is a constrained dream\" claim is not in it."
+ },
+ {
+  "from": "genesis",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://c3subtitles.de/talk/2838",
+  "quote": "the earliest formulation of that theory is what I found in Genesis 1",
+  "note_out": ""
+ },
+ {
+  "from": "aristotle",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://media.ccc.de/v/38c3-self-models-of-loving-grace",
+  "quote": "Aristotle already said that the soul is a form a pattern imposed on physics I think what he meant is it's a causal pattern",
+  "note_out": ""
+ },
+ {
+  "from": "animism",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "quote": "the spirits of the animist worldview are not superstitions or mere analogies to computer software",
+  "note_out": ""
+ },
+ {
+  "from": "levin",
+  "to": "bach",
+  "verdict": "standard",
+  "url": "https://www.youtube.com/watch?v=yW_ngvMFlYs",
+  "quote": "",
+  "note_out": "Bach endorses Levin's morphogenesis hypothesis; no verbatim quote states \"cells running shared goals\"."
+ },
+ {
+  "from": "sicp",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "quote": "Computational processes are abstract beings that inhabit computers.",
+  "note_out": "Bach and Sorensen quote this SICP opening in the CIMC hypothesis paper."
+ },
+ {
+  "from": "dawkins",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "Bach speaks of \"mind viruses\" and cites Dawkins on genes, but no mention ties him to Dawkins's memes."
+ },
+ {
+  "from": "greekgods",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://www.youtube.com/watch?v=3MNBxfrmfmI",
+  "quote": "So the Greek gods are stable because they are all archetypes.",
+  "note_out": ""
+ },
+ {
+  "from": "christianity",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://www.youtube.com/watch?v=7bqdPHLIY8w",
+  "quote": "at some point Christianity awoke at this societal level as an agent with the Catholic Church as its nervous system and brain",
+  "note_out": "Bach also quotes 1 Corinthians 13 in \"The Age of Age\"; his reading of Christianity is analytic and partly critical."
+ },
+ {
+  "from": "jaynes",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "The one quote only says Jaynes's book has the wrong name; the gods-as-voices reading is in the summary only."
+ },
+ {
+  "from": "functionalism",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine",
+  "quote": "And the answer that I am suggesting, is functionalism which means that indeed we exist only in a dream.",
+  "note_out": ""
+ },
+ {
+  "from": "turing",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://media.ccc.de/v/30C3_-_5526_-_en_-_saal_2_-_201312291600_-_how_to_build_a_mind_-_joscha",
+  "quote": "all the computational approaches have the same power, although all the other ones that you are able to find in the future too, is called the Church-Turing thesis.",
+  "note_out": ""
+ },
+ {
+  "from": "digital",
+  "to": "bach",
+  "verdict": "standard",
+  "url": "https://media.ccc.de/v/33c3-8369-machine_dreams",
+  "quote": "",
+  "note_out": "Paraphrases show Bach describing digital physics (Zuse, Fredkin, Wolfram); no verbatim statement of his own stance in this entry."
+ },
+ {
+  "from": "lamettrie",
+  "to": "bach",
+  "verdict": "standard",
+  "url": "https://media.ccc.de/v/37c3-12167-synthetic_sentience",
+  "quote": "",
+  "note_out": "La Mettrie is consistently named as an ancestor; the quoted phrase \"computationalism is the new mechanism\" was not found in the evidence."
+ },
+ {
+  "from": "searle",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://www.youtube.com/watch?v=yW_ngvMFlYs",
+  "quote": "The issue with Searle is that there is very little for me to engage. There is a claim but no argument.",
+  "note_out": ""
+ },
+ {
+  "from": "seth",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://www.youtube.com/watch?v=yW_ngvMFlYs",
+  "quote": "He is a biological supernaturalist.",
+  "note_out": ""
+ },
+ {
+  "from": "cimc",
+  "to": "lerchner",
+  "verdict": "documented",
+  "url": "https://cimc.ai/publications/against-intrinsic-properties/",
+  "quote": "But many of his arguments are not valid.",
+  "note_out": "Page opened. Reply is by Sorensen and Hildebrandt-Harangozó, not Bach; Lerchner targets computational functionalism, not CIMC by name."
+ },
+ {
+  "from": "goedel",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-episode-87-joscha-bach-on-theories-of-consciousness/",
+  "quote": "And what Gödel has shown in my view is that constructive mathematics is real",
+  "note_out": ""
+ },
+ {
+  "from": "brouwer",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-episode-72-joscha-bach-on-minds-machines-magic/",
+  "quote": "constructive mathematics is the part of maths that works and it happens to be the same as computation",
+  "note_out": "Bach endorses constructivism; Brouwer is not named, intuitionism is named once."
+ },
+ {
+  "from": "cantor",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "Quotes only recount contradictions in Cantor's set theory; Bach's rejection of infinities is stated elsewhere, not about Cantor here."
+ },
+ {
+  "from": "penrose",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-episode-87-joscha-bach-on-theories-of-consciousness/",
+  "quote": "And Penrose thinks that computation cannot explain all of consciousness. And I think it’s because of this way he interprets Gödel’s proof.",
+  "note_out": ""
+ },
+ {
+  "from": "hypercomputation",
+  "to": "bach",
+  "verdict": "standard",
+  "url": "https://media.ccc.de/v/37c3-12167-synthetic_sentience",
+  "quote": "",
+  "note_out": "Only a paraphrase says hypercomputational objects cannot exist; the verbatim quote is neutral."
+ },
+ {
+  "from": "wittgenstein",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine",
+  "quote": "It's an attempt by a guy who was basically a coder, an AI scientist, to reverse engineer the language of his own thinking.",
+  "note_out": "Bach admires the Tractatus but sides with the late Wittgenstein that the project failed."
+ },
+ {
+  "from": "kegan",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://lexfridman.com/joscha-bach-3-transcript",
+  "quote": "This model is derived from concept by the psychologist Robert Kegan",
+  "note_out": ""
+ },
+ {
+  "from": "piaget",
+  "to": "bach",
+  "verdict": "standard",
+  "url": "https://joscha.substack.com/p/levels-of-lucidity",
+  "quote": "",
+  "note_out": "Bach lists Piaget's four stages among earlier stage models before his own; paraphrase only."
+ },
+ {
+  "from": "aquinas",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://podscripts.co/podcasts/lex-fridman-podcast/101-joscha-bach-artificial-consciousness-and-the-nature-of-reality",
+  "quote": "they are additionally 02:30:57 to these four cardinal virtues, three divine virtues",
+  "note_out": "Said while discussing his re-reading of Aquinas; love as shared purpose follows in the same talk."
+ },
+ {
+  "from": "airisk",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://joscha.substack.com/p/the-existential-risk-of-agi",
+  "quote": "Thus, we cannot hope to “align AI to human values”.",
+  "note_out": ""
+ },
+ {
+  "from": "utilitarianism",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://www.youtube.com/watch?v=ayW7SDyAjZo",
+  "quote": "I think utilitarianism is an attempt to repair morality in the rationalist age, but I don't think it's a very successful one.",
+  "note_out": "Quote shows the rejection; the positive alternative in the note is not in the quote."
+ },
+ {
+  "from": "llm",
+  "to": "bach",
+  "verdict": "documented",
+  "url": "https://lexfridman.com/joscha-bach-3-transcript",
+  "quote": "They are basically brute forcing the problem of thought.",
+  "note_out": ""
+ },
+ {
+  "from": "shanahan",
+  "to": "bach",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "Bach and Shanahan shared a 2025 panel, but no transcript was obtained; nothing said is verified."
+ },
+ {
+  "from": "turing",
+  "to": "cimc",
+  "verdict": "documented",
+  "url": "https://cimc.ai/cimcHypothesis.pdf",
+  "quote": "Consciousness is by its nature not an externally visible performance, but a particular way to achieve a performance",
+  "note_out": "From the CIMC hypothesis paper (Bach and Sorensen)."
+ },
+ {
+  "from": "llm",
+  "to": "cimc",
+  "verdict": "documented",
+  "url": "https://cimc.ai/publications/research-program-whitepaper/",
+  "quote": "The convincing performance of current LLMs in roleplaying conscious entities demonstrates that naive behavioral tests are insufficient",
+  "note_out": "CIMC whitepaper opened and checked."
+ },
+ {
+  "from": "butlin",
+  "to": "cimc",
+  "verdict": "interpretive",
+  "url": "",
+  "quote": "",
+  "note_out": "Butlin et al. appear only in CIMC's reference list and library, cited for Eleos AI; no stated positioning."
+ },
+ {
+  "from": "bach",
+  "to": "cimc",
+  "verdict": "documented",
+  "url": "https://cimc.ai/publications/research-program-whitepaper/",
+  "quote": "CIMC itself is the result of Joscha’s long-standing investigation of the mind",
+  "note_out": "Whitepaper opened. It states computationalist functionalism; the conductor model is not named there."
+ },
+ {
+  "from": "nca",
+  "to": "cimc",
+  "verdict": "documented",
+  "url": "https://cimc.ai/publications/research-program-whitepaper/",
+  "quote": "Current projects on Neural Cellular Automata (NCAs) examine how local update rules produce coherent global structures",
+  "note_out": "CIMC whitepaper opened and checked."
+ },
+ {
+  "from": "friston",
+  "to": "cimc",
+  "verdict": "documented",
+  "url": "https://cimc.ai/publications/research-program-whitepaper/",
+  "quote": "",
+  "note_out": "Whitepaper Appendix A lists Karl Friston on the Scientific Advisory Board (page opened)."
+ },
+ {
+  "from": "wolfram",
+  "to": "cimc",
+  "verdict": "documented",
+  "url": "https://cimc.ai/publications/research-program-whitepaper/",
+  "quote": "",
+  "note_out": "Whitepaper Appendix A lists Stephen Wolfram on the Scientific Advisory Board (page opened)."
+ },
+ {
+  "from": "iit",
+  "to": "cimc",
+  "verdict": "documented",
+  "url": "https://cimc.ai/publications/research-program-whitepaper/",
+  "quote": "places the theory outside the representationalist framework in which CIMC operates",
+  "note_out": "CIMC rejects IIT's intrinsic-property claim; the note's wording about ordinary computers is not in the quote."
+ }
+]

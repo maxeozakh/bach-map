@@ -278,9 +278,29 @@ for a, b_, kind, note in out["edges"]:
 merged[("bach", "cimc")][3] = "the institute's hypothesis rests on his conductor model, his functionalism and the idea that consciousness comes first"
 
 keep = [slim(n) for n in kept]
+
+# ---- confidence: each level follows from what the source check found (research/confidence/), not from a rating
+CONF = json.load(open(os.path.join(HERE, "research", "confidence", "confidence.json")))
+S_LEVEL = {"supported": "highly likely", "partly": "likely", "not_found": "possible", "contradicted": "possible"}
+C_LEVEL = {"documented": "highly likely", "standard": "likely", "interpretive": "possible", "wrong": "possible"}
+conf_count = {"s": {}, "c": {}}
+for n in keep:
+    for f in n["facets"]:
+        c = CONF["summaries"].get(n["id"] + "|" + (f["label"] or ""))
+        if not c: print("no confidence for summary:", n["id"], f["label"]); continue
+        lvl = S_LEVEL[c["verdict"]]
+        f["conf"] = [lvl, c["url"], c["note"] if lvl != "highly likely" else ""]
+        conf_count["s"][lvl] = conf_count["s"].get(lvl, 0) + 1
+def edge_conf(e):
+    c = CONF["connections"].get(e[0] + ">" + e[1])
+    if not c: print("no confidence for connection:", e[0], e[1]); return e
+    lvl = C_LEVEL[c["verdict"]]
+    if lvl == "highly likely" and c.get("caveat"): lvl = "likely"   # a source makes the link but qualifies the kind or the note
+    conf_count["c"][lvl] = conf_count["c"].get(lvl, 0) + 1
+    return e + [[lvl, c["url"], c["note"] if lvl != "highly likely" else ""]]
 keep_ids = {n["id"] for n in keep}
 titles = {n["title"] for n in keep}
-pageout = dict(out, nodes=keep, edges=[e for e in merged.values() if e[0] in keep_ids and e[1] in keep_ids],
+pageout = dict(out, nodes=keep, edges=[edge_conf(e) for e in merged.values() if e[0] in keep_ids and e[1] in keep_ids],
                credits=[c for c in credits if c["title"] in titles])
 print(f"pages: {len(keep)} points ({len(nodes) - len(keep)} left off), {len(pageout['edges'])} connections")
 if "--timeline" in sys.argv:  # shelved for now; the template is kept
@@ -291,7 +311,7 @@ gpage = open(os.path.join(HERE, "board_template.html")).read().replace(
     "__DATA__", json.dumps(pageout, ensure_ascii=False).replace("</", "<\\/"))
 open(os.path.join(HERE, "index.html"), "w").write(gpage)
 # about.html: how the map was made, the transcripts it started from, image credits
-aboutdata = dict(points=len(keep), connections=len(pageout["edges"]), credits=pageout["credits"],
+aboutdata = dict(points=len(keep), connections=len(pageout["edges"]), credits=pageout["credits"], conf=conf_count,
                  sources=[dict(title=s["title"], url=s.get("url"), date=s.get("date"), ok=s.get("ok")) for s in pageout["sources"]])
 apage = open(os.path.join(HERE, "about_template.html")).read().replace(
     "__DATA__", json.dumps(aboutdata, ensure_ascii=False).replace("</", "<\\/"))
