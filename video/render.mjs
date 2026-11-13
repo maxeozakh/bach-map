@@ -1,7 +1,7 @@
 // Renders the film of the map frame by frame in headless Chromium.
 //   node render.mjs stills 0 1 3.2 ...        a few frames by time, into stills/
 //   node render.mjs frames [fps] [workers]    every frame, into frames/, on parallel workers
-// The page is laid out at 1280x720 and drawn at 1.5x, so the film is 1920x1080 with the interface a readable size.
+// The page is laid out at 1920x1080 and drawn at 1x, so the interface sits at the scale of a desktop browser.
 import { chromium } from 'playwright-core';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import path from 'node:path';
@@ -28,7 +28,7 @@ for (const f of fs.readdirSync(IMG)) {
 
 async function open() {
   const browser = await chromium.launch({ executablePath: EXE });
-  const page = await browser.newPage({ viewport: { width: 1280, height: 720 }, deviceScaleFactor: 1.5, colorScheme: 'dark' });
+  const page = await browser.newPage({ viewport: { width: 1920, height: 1080 }, deviceScaleFactor: 1, colorScheme: 'dark' });
   await page.goto(PAGE);
   await page.evaluate(frozen => {
     D.nodes.forEach(n => { if (frozen[n.img]) n.img = frozen[n.img]; });

@@ -3,6 +3,8 @@
 // panel, controls, cursor) from t alone, so frames can be rendered in any order and on any number of workers.
 (() => {
   const W = innerWidth, H = innerHeight;
+  // the shots were laid out for a 1280x720 page; X, Y and Z scale them to the real viewport, K to the film's length
+  const X = W / 1280, Y = H / 720, Z = X, K = 19.8 / 29.9;
   const clamp = u => u < 0 ? 0 : u > 1 ? 1 : u;
   const seg = (t, a, b) => clamp((t - a) / (b - a));
   const ease = u => { u = clamp(u); return u < .5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2; };   // in and out
@@ -57,7 +59,7 @@
   const gShow = mid(el('hudtoggle').getBoundingClientRect());
   select('turing');
   const bb = panel.querySelector('[data-go="bach"]').getBoundingClientRect();
-  const scrollB = Math.max(0, Math.min(bb.top + bb.height / 2 - 430, panel.scrollHeight - panel.clientHeight));
+  const scrollB = Math.max(0, Math.min(bb.top + bb.height / 2 - 430 * Y, panel.scrollHeight - panel.clientHeight));
   const gBach = { x: bb.left + Math.min(bb.width / 2, 56), y: bb.top + bb.height / 2 - scrollB };
   select('bach');
   const gClose = mid(el('close').getBoundingClientRect());
@@ -66,21 +68,22 @@
   // ---- the shots
   const AX = (W - PW0) / 2;             // centre of the board when the panel is open
   const C0 = { ...FIT, s: FIT.s * .955 }, C1 = FIT;
-  const ANT = { cx: 600, cy: 336, s: 1, ax: W / 2, ay: H / 2 };                       // antiquity: myth and philosophy
-  const TUR = center('turing', 1, AX, H / 2);
-  const BACH = center('bach', .82, AX, H / 2);
+  const ANT = { cx: 600, cy: 336, s: Z, ax: W / 2, ay: H / 2 };                       // antiquity: myth and philosophy
+  const TUR = center('turing', Z, AX, H / 2);
+  const BACH = center('bach', .82 * Z, AX, H / 2);
   // pull back until the lines into the selected card fan out across the centuries, the card kept at the right
-  const PS = .3, PULL = { cx: pos.bach.x + CW / 2, cy: WH / 2 - 40, s: PS, ax: W - PW0 - 150, ay: H / 2 };
-  const T = {
+  const PS = .3 * Z, PULL = { cx: pos.bach.x + CW / 2, cy: WH / 2 - 40, s: PS, ax: W - PW0 - 150 * X, ay: H / 2 };
+  const k = v => Array.isArray(v) ? v.map(k) : v * K;
+  const T = Object.fromEntries(Object.entries({
     hide: 3.0, toAnt: [3.4, 6.6], glide: [8.2, 12.9], clickTur: 13.8, scroll: [15.6, 16.3], clickBach: 17.1, toBach: [17.2, 20.2],
     pull: [21.6, 24.7], close: 26.3, home: [26.3, 28.9], show: 27.5, end: 29.9,
-  };
+  }).map(([n, v]) => [n, k(v)]));
   function camera(t) {
     if (t < T.toAnt[0]) return { ...C0, s: lerp(C0.s, C1.s, sine(t / T.toAnt[0])) };
     if (t < T.glide[0]) return fly(C1, ANT, ease(seg(t, ...T.toAnt)));
     if (t < T.toBach[0]) {                                   // glide along the timeline to 1936, dipping out a little on the way
       const u = ease(seg(t, ...T.glide));
-      return { cx: lerp(ANT.cx, TUR.cx, u), cy: lerp(ANT.cy, TUR.cy, u), s: 1 - .3 * Math.sin(Math.PI * u), ax: lerp(ANT.ax, TUR.ax, u), ay: H / 2 };
+      return { cx: lerp(ANT.cx, TUR.cx, u), cy: lerp(ANT.cy, TUR.cy, u), s: Z * (1 - .3 * Math.sin(Math.PI * u)), ax: lerp(ANT.ax, TUR.ax, u), ay: H / 2 };
     }
     if (t < T.pull[0]) return fly(TUR, BACH, ease(seg(t, ...T.toBach)));
     if (t < T.home[0]) return fly(BACH, PULL, ease(seg(t, ...T.pull)));
@@ -88,12 +91,12 @@
   }
 
   // ---- the cursor: rests, then moves to each target in one eased, slightly curved stroke
-  const REST = { x: 742, y: 452 }, SIDE = { x: 664, y: 556 };
+  const REST = { x: 742 * X, y: 452 * Y }, SIDE = { x: 664 * X, y: 556 * Y };
   const tur = { x: AX + 34, y: H / 2 + 10 };
   const moves = [   // [start, end, to]
-    [1.9, 2.85, gHide], [3.5, 4.5, SIDE], [12.95, 13.65, tur], [16.05, 16.9, gBach], [17.5, 18.4, { x: 560, y: 540 }],
+    [1.9, 2.85, gHide], [3.5, 4.5, SIDE], [12.95, 13.65, tur], [16.05, 16.9, gBach], [17.5, 18.4, { x: 560 * X, y: 540 * Y }],
     [24.9, 25.95, gClose], [26.6, 27.35, gShow], [27.9, 29.0, REST],
-  ];
+  ].map(([a, b, to]) => [a * K, b * K, to]);
   const clicks = [T.hide, T.clickTur, T.clickBach, T.close, T.show];
   function cursor(t) {
     let p = REST;
