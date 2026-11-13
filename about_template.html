@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>how this was made: a map of consciousness</title>
+<title>how it works and how it was made: a map of consciousness</title>
 <link rel="icon" href="data:,">
 <script>
 // explicit theme: "light" or "dark" overrides the system setting; no attribute means follow the system
@@ -44,20 +44,18 @@ th { font-size: 13px; }
 </head>
 <body>
 <p><a href="index.html">back to the map</a></p>
-<h1>how this was made</h1>
+<h1>how it works and how it was made</h1>
 <p><span id="stats"></span>. made with an AI model, claude fable 5.2, as of 13 november 2026, and not checked by a person. joscha bach didn't make or approve it.</p>
 
-<h2>what each part is based on</h2>
+<h2 id="read">how to read it</h2>
 <ul>
-  <li><b>which points are on the map</b>: names and ideas found in transcripts of joscha bach's public interviews, talks and papers, and the CIMC site. the transcripts were searched by name, not read end to end, so the list is incomplete. it leans towards computational views of mind, and traditions bach rarely mentions are thin or missing</li>
-  <li><b>summaries</b>: written by claude fable 5.2 from its general background knowledge about each idea. not bach's words, not checked against sources</li>
-  <li><b>connections</b>: written by claude fable 5.2 from general knowledge, not taken from the transcripts. the least grounded part; read them as plausible, not established</li>
-  <li><b>quotes</b>: the ones marked "verbatim" were matched against the transcripts; "paraphrase" ones are claude fable 5.2's rewording</li>
-  <li><b>years</b>: approximate for older items</li>
-  <li><b>review</b>: on 13 november 2026 claude fable 5.2 re-read every summary and connection, about 45 corrections were made (wrong by-lines, misstated positions, connections pointing the wrong way), and each item was then checked against a source to give it the confidence level below. still no person has checked any of it</li>
+  <li><b>the board</b>: time runs left to right in nine eras, and fields run top to bottom, from myth and religion down to ethics and AI risk. each card is a thinker, a work or an idea</li>
+  <li><b>a card</b>: click it to open it. the summary of the idea comes first, then what it connects to, then its other parts and, for joscha bach and his institute, quotes with their sources</li>
+  <li><b>connections</b>: a solid line means the later point builds on the earlier one, a dashed line that it argues against it, a dotted line that the two are related. clicking a card lights up its lines and dims the rest</li>
+  <li><b>confidence</b>: every summary and every connection ends with one of three words, highly likely, likely or possible, and usually a link to the page it was checked against</li>
 </ul>
 
-<h2 id="confidence">confidence</h2>
+<h2 id="confidence">what the confidence words mean</h2>
 <p>every summary and connection carries one of three words. the word is not a rating of how sure the model feels; it follows from what a source check on 13 november 2026 found. in that check claude fable 5.2 looked for a web page covering each item and opened it; most pages were searched for the relevant passages, not read end to end.</p>
 <table>
   <tr><th></th><th>a summary gets it when</th><th>a connection gets it when</th><th>summaries</th><th>connections</th></tr>
@@ -66,6 +64,16 @@ th { font-size: 13px; }
   <tr><td><b>possible</b></td><td>no source was found</td><td>a reasonable reading or a parallel that no source was found making</td><td id="s-p"></td><td id="c-p"></td></tr>
 </table>
 <p>nothing is marked certain. the source link on a card is the page the item was checked against. a wrong level is possible in both directions: the same model wrote the items and judged the sources.</p>
+
+<h2 id="made">how it was made</h2>
+<ul>
+  <li><b>which points are on the map</b>: names and ideas found in transcripts of joscha bach's public interviews, talks and papers, and the CIMC site. the transcripts were searched by name, not read end to end, so the list is incomplete. it leans towards computational views of mind, and traditions bach rarely mentions are thin or missing</li>
+  <li><b>summaries</b>: written by claude fable 5.2 from its general background knowledge about each idea, then checked against a source as described above. not bach's words</li>
+  <li><b>connections</b>: written by claude fable 5.2 from general knowledge, not taken from the transcripts, then checked against a source as described above. which idea 'builds on' which is often a judgement call</li>
+  <li><b>quotes</b>: the ones marked "verbatim" were matched against the transcripts; "paraphrase" ones are claude fable 5.2's rewording</li>
+  <li><b>years</b>: approximate for older items</li>
+  <li><b>review</b>: on 13 november 2026 claude fable 5.2 re-read every summary and connection, about 45 corrections were made (wrong by-lines, misstated positions, connections pointing the wrong way), and each item was then checked against a source to give it the confidence level below. still no person has checked any of it</li>
+</ul>
 
 <h2>starting material</h2>
 <p id="sources-note"></p>

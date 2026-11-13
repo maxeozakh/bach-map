@@ -127,7 +127,7 @@ input[type=search] { font: inherit; color: var(--text); background: var(--bg); b
   <button class="btn" id="hudtoggle">hide</button>
   <div id="hudbody">
   <h1>a map of consciousness</h1>
-  <p>ideas about mind and consciousness joscha bach has mentioned in public, from the earliest myths to november 2026. unofficial, read <a href="about.html">here</a> how it was made.</p>
+  <p>ideas about mind and consciousness joscha bach has mentioned in public, from the earliest myths to november 2026. unofficial. <a href="about.html">how it works and how it was made</a></p>
   <p>time runs left to right, fields top to bottom. <span class="deskhint">drag anywhere to pan, pinch or ctrl+scroll to zoom. click a card to see what it connects to; the focused card can then be dragged to move it.</span><span class="touchhint">drag to pan, pinch to zoom, tap a card to see what it connects to.</span></p>
   <div class="controls">
     <input type="search" id="search" placeholder="find a point">
@@ -352,7 +352,7 @@ function select(id) {
     `<h3>${esc(n.title)}</h3><p>${esc(n.label)}, ${esc(LANENAME(n))}</p>`;
   // order: the main idea first, then what it connects to, then the detail (quotes and the other facets)
   const srcs = f => f.mentions.length ? `<div class="lab">sources</div>` + f.mentions.map(quoteHtml).join('') : '';
-  const confLine = f => f.conf ? `<p class="cfline">${confHtml(f.conf, 'confidence: ')} · <a href="about.html#confidence">what this means</a></p>` : '';
+  const confLine = f => f.conf ? `<p class="cfline">${confHtml(f.conf, 'confidence: ')}</p>` : '';
   const lead = n.facets[0];
   if (lead) {
     if (n.facets.length > 1 && lead.label && lead.label !== n.title) h += `<div class="lab">${esc(lead.label)}</div>`;
