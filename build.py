@@ -303,10 +303,18 @@ def edge_conf(e):
     if lvl == "highly likely" and c.get("caveat"): lvl = "likely"   # a source makes the link but qualifies the kind or the note
     conf_count["c"][lvl] = conf_count["c"].get(lvl, 0) + 1
     return e + [[lvl, c["url"], c["note"] if lvl != "highly likely" else ""]]
+# schools of thought: two models sorted every card independently; research/schools/final.json holds the result
+SCHOOLS = json.load(open(os.path.join(R, "schools", "schools.json")))
+SFINAL = json.load(open(os.path.join(R, "schools", "final.json")))
+for n in keep:
+    s = SFINAL.get(n["id"])
+    if not s: print("no school for", n["id"]); continue
+    n["school"] = dict(id=s["school"], alt=s.get("alt"))
 keep_ids = {n["id"] for n in keep}
 titles = {n["title"] for n in keep}
 pageout = dict(out, nodes=keep, edges=[edge_conf(e) for e in merged.values() if e[0] in keep_ids and e[1] in keep_ids],
-               credits=[c for c in credits if c["title"] in titles])
+               credits=[c for c in credits if c["title"] in titles],
+               schools=[dict(id=s["id"], name=s["name"]) for s in SCHOOLS])
 print(f"pages: {len(keep)} points ({len(nodes) - len(keep)} left off), {len(pageout['edges'])} connections")
 if "--timeline" in sys.argv:  # shelved for now; the template is kept
     page = open(os.path.join(HERE, "timeline_template.html")).read().replace(
@@ -351,7 +359,9 @@ md = [
     "",
 ]
 for n in keep:
-    md += [f"## {n['title']}", "", f"{n['label']}, {LANES.get(n['theme'], n['theme'])}. id: `{n['id']}`", ""]
+    sname = {s["id"]: s["name"] for s in SCHOOLS}
+    school = f" school of thought: {sname[n['school']['id']]}." if n.get("school") else ""
+    md += [f"## {n['title']}", "", f"{n['label']}, {LANES.get(n['theme'], n['theme'])}.{school} id: `{n['id']}`", ""]
     for i, f in enumerate(n["facets"]):
         if i or (f["label"] and f["label"] != n["title"] and len(n["facets"]) > 1):
             md += [f"### {f['label']}", ""]

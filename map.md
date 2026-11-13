@@ -6,7 +6,7 @@ ideas about mind and consciousness that joscha bach has mentioned in public, fro
 
 ## Animism
 
-prehistoric, myth and religion. id: `animism`
+prehistoric, myth and religion. school of thought: religion and contemplative traditions. id: `animism`
 
 The belief, found in most traditional cultures, that living things and sometimes places are inhabited by spirits. It is often treated as the oldest form of religion.
 
@@ -24,7 +24,7 @@ connections:
 
 ## Greek gods as archetypes
 
-c. 8th c. BCE, myth and religion. id: `greekgods`
+c. 8th c. BCE, myth and religion. school of thought: religion and contemplative traditions. id: `greekgods`
 
 The Olympian gods each personify a domain of human character: war, love, cunning, craft. They quarrel, scheme and take sides in human affairs, as in Homer.
 
@@ -41,7 +41,7 @@ connections:
 
 ## Genesis and the Hebrew Bible
 
-c. 6th c. BCE, myth and religion. id: `genesis`
+c. 6th c. BCE, myth and religion. school of thought: religion and contemplative traditions. id: `genesis`
 
 ### Genesis 1
 
@@ -90,7 +90,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Bible)
 
 ## Pythagoras
 
-6th c. BCE, mathematics and logic. id: `pythagoras`
+6th c. BCE, mathematics and logic. school of thought: rationalism and idealism. id: `pythagoras`
 
 Greek thinker whose school held that number is the basis of reality. Later tradition says the school was thrown into scandal by the discovery of irrational quantities.
 
@@ -106,7 +106,7 @@ connections:
 
 ## Logos
 
-c. 500 BCE, philosophy. id: `logos`
+c. 500 BCE, philosophy. school of thought: rationalism and idealism. id: `logos`
 
 by Heraclitus; Stoics; Gospel of John
 
@@ -125,7 +125,7 @@ connections:
 
 ## Buddhism and meditation
 
-5th c. BCE, myth and religion. id: `buddhism`
+5th c. BCE, myth and religion. school of thought: religion and contemplative traditions. id: `buddhism`
 
 ### Buddhism
 
@@ -159,7 +159,7 @@ confidence: highly likely, [source](https://deconstructingyourself.com/michael-w
 
 ## Plato: forms and the cave
 
-c. 375 BCE, philosophy. id: `plato`
+c. 375 BCE, philosophy. school of thought: rationalism and idealism. id: `plato`
 
 by Plato
 
@@ -179,7 +179,7 @@ connections:
 
 ## Aristotle
 
-c. 350 BCE, philosophy. id: `aristotle`
+c. 350 BCE, philosophy. school of thought: rationalism and idealism. id: `aristotle`
 
 Greek philosopher who systematised logic, physics and psychology. He described the soul (psyche) not as a ghostly substance but as the organising form of a living body, with vegetative, animal and rational layers.
 
@@ -214,7 +214,7 @@ confidence: likely, [source](https://en.wikipedia.org/wiki/Unmoved_mover). Unmov
 
 ## Stoicism
 
-3rd c. BCE, philosophy. id: `stoicism`
+3rd c. BCE, philosophy. school of thought: ethics, society and AI risk. id: `stoicism`
 
 by Zeno of Citium and successors
 
@@ -232,7 +232,7 @@ connections:
 
 ## Christianity
 
-1st c. CE onward, myth and religion. id: `christianity`
+1st c. CE onward, myth and religion. school of thought: religion and contemplative traditions. id: `christianity`
 
 ### The Catholic Church
 
@@ -276,7 +276,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Protestantism)
 
 ## Thomas Aquinas
 
-13th c., philosophy. id: `aquinas`
+13th c., philosophy. school of thought: religion and contemplative traditions. id: `aquinas`
 
 Medieval theologian who merged Aristotle with Christian doctrine. He argued for God as the necessary ground of existence and described seven virtues: four practical ones (temperance, justice, prudence, courage) and three theological ones (faith, hope, love).
 
@@ -302,7 +302,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Seven_virtues)
 
 ## The golem
 
-legend, 16th–19th c., fiction. id: `golem`
+legend, 16th–19th c., fiction. school of thought: religion and contemplative traditions. id: `golem`
 
 by Jewish folklore
 
@@ -316,7 +316,7 @@ start here, joscha bach on it: [Lex Fridman Podcast #392 – Joscha Bach: Life, 
 
 ## René Descartes
 
-1641, philosophy. id: `descartes`
+1641, philosophy. school of thought: rationalism and idealism. id: `descartes`
 
 ### Descartes
 
@@ -354,7 +354,7 @@ confidence: likely, [source](https://en.wikipedia.org/wiki/Mind%E2%80%93body_pro
 
 ## Occasionalism
 
-1674, philosophy. id: `occasionalism`
+1674, philosophy. school of thought: rationalism and idealism. id: `occasionalism`
 
 by Nicolas Malebranche
 
@@ -372,7 +372,7 @@ connections:
 
 ## Empiricism: Locke and Hume
 
-1690–1748, philosophy. id: `empiricism`
+1690–1748, philosophy. school of thought: materialism and mechanism. id: `empiricism`
 
 ### Empiricism vs rationalism
 
@@ -408,7 +408,7 @@ confidence: highly likely, [source](https://plato.stanford.edu/entries/hume/)
 
 ## Idealism
 
-1710 onward, philosophy. id: `idealism`
+1710 onward, philosophy. school of thought: rationalism and idealism. id: `idealism`
 
 The view that reality is fundamentally mental and the physical world is an appearance within mind. Bernardo Kastrup's 'analytic idealism' is a current version.
 
@@ -426,7 +426,7 @@ connections:
 
 ## Gottfried Wilhelm Leibniz
 
-1714, philosophy. id: `leibniz`
+1714, philosophy. school of thought: rationalism and idealism. id: `leibniz`
 
 ### Leibniz
 
@@ -456,7 +456,7 @@ confidence: highly likely, [source](https://plato.stanford.edu/entries/leibniz-m
 
 ## La Mettrie: Man a Machine
 
-1747, philosophy. id: `lamettrie`
+1747, philosophy. school of thought: materialism and mechanism. id: `lamettrie`
 
 by Julien Offray de La Mettrie
 
@@ -476,7 +476,7 @@ connections:
 
 ## The Enlightenment
 
-18th c., philosophy. id: `enlightenment`
+18th c., philosophy. school of thought: rationalism and idealism. id: `enlightenment`
 
 The 18th-century European movement that put reason, evidence and individual autonomy above religious and traditional authority.
 
@@ -493,7 +493,7 @@ connections:
 
 ## Immanuel Kant
 
-1781, philosophy. id: `kant`
+1781, philosophy. school of thought: ethics, society and AI risk. id: `kant`
 
 ### Kant
 
@@ -524,7 +524,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Critique_of_Pu
 
 ## Utilitarianism
 
-1789, society. id: `utilitarianism`
+1789, society. school of thought: ethics, society and AI risk. id: `utilitarianism`
 
 by Jeremy Bentham; John Stuart Mill
 
@@ -543,7 +543,7 @@ connections:
 
 ## G. W. F. Hegel
 
-1807, philosophy. id: `hegel`
+1807, philosophy. school of thought: rationalism and idealism. id: `hegel`
 
 by G. W. F. Hegel
 
@@ -562,7 +562,7 @@ connections:
 
 ## Cell theory
 
-1839, physics and life. id: `celltheory`
+1839, physics and life. school of thought: evolution, biology and life. id: `celltheory`
 
 by Matthias Schleiden; Theodor Schwann
 
@@ -580,7 +580,7 @@ connections:
 
 ## Charles Darwin
 
-1859, physics and life. id: `darwin`
+1859, physics and life. school of thought: evolution, biology and life. id: `darwin`
 
 by Charles Darwin
 
@@ -600,7 +600,7 @@ connections:
 
 ## Du Bois-Reymond: Ignorabimus
 
-1872, philosophy. id: `dubois`
+1872, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `dubois`
 
 The physiologist du Bois-Reymond declared that science will never know what matter and force are, or how matter gives rise to consciousness: 'ignorabimus', we shall never know.
 
@@ -616,7 +616,7 @@ connections:
 
 ## Cantor's set theory
 
-1874, mathematics and logic. id: `cantor`
+1874, mathematics and logic. school of thought: logic and the foundations of mathematics. id: `cantor`
 
 by Georg Cantor
 
@@ -636,7 +636,7 @@ connections:
 
 ## Epiphenomenalism
 
-1874, philosophy. id: `epiphenomenalism`
+1874, philosophy. school of thought: materialism and mechanism. id: `epiphenomenalism`
 
 The view that conscious experience is a by-product of brain activity with no causal influence on the physical world, like the steam-whistle of a locomotive.
 
@@ -652,7 +652,7 @@ connections:
 
 ## Franz Brentano
 
-1874, psychology and mind. id: `brentano`
+1874, psychology and mind. school of thought: rationalism and idealism. id: `brentano`
 
 German-born philosopher-psychologist who taught in Vienna and revived the idea of intentionality: mental states are always 'about' something. He taught Husserl and Freud.
 
@@ -669,7 +669,7 @@ connections:
 
 ## Emergence
 
-1875, philosophy. id: `emergence`
+1875, philosophy. school of thought: cybernetics, systems and self-organisation. id: `emergence`
 
 by G. H. Lewes; British emergentists
 
@@ -683,7 +683,7 @@ start here, joscha bach on it: [Joscha Bach - Why Your Thoughts Aren't Yours. (M
 
 ## Early experimental psychology
 
-1879, psychology and mind. id: `wundt`
+1879, psychology and mind. school of thought: psychology and development. id: `wundt`
 
 In the 19th century Wilhelm Wundt, Gustav Fechner and Hermann von Helmholtz turned the study of mind into a laboratory science, measuring sensation, attention and reaction and proposing theories of emotion and will.
 
@@ -700,7 +700,7 @@ connections:
 
 ## Gottlob Frege
 
-1879, mathematics and logic. id: `frege`
+1879, mathematics and logic. school of thought: logic and the foundations of mathematics. id: `frege`
 
 by Gottlob Frege
 
@@ -721,7 +721,7 @@ connections:
 
 ## Peano axioms
 
-1889, mathematics and logic. id: `peano`
+1889, mathematics and logic. school of thought: logic and the foundations of mathematics. id: `peano`
 
 by Giuseppe Peano
 
@@ -739,7 +739,7 @@ connections:
 
 ## William James: The Principles of Psychology
 
-1890, psychology and mind. id: `james`
+1890, psychology and mind. school of thought: psychology and development. id: `james`
 
 by William James
 
@@ -758,7 +758,7 @@ connections:
 
 ## Constructive mathematics and intuitionism
 
-1908, mathematics and logic. id: `brouwer`
+1908, mathematics and logic. school of thought: logic and the foundations of mathematics. id: `brouwer`
 
 by L. E. J. Brouwer (intuitionism)
 
@@ -778,7 +778,7 @@ connections:
 
 ## Russell and Whitehead
 
-1901–1913, mathematics and logic. id: `russell`
+1901–1913, mathematics and logic. school of thought: logic and the foundations of mathematics. id: `russell`
 
 ### Russell's paradox
 
@@ -809,7 +809,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Principia_Math
 
 ## Phenomenology
 
-1913, philosophy. id: `husserl`
+1913, philosophy. school of thought: rationalism and idealism. id: `husserl`
 
 by Edmund Husserl
 
@@ -829,7 +829,7 @@ connections:
 
 ## Hilbert's programme
 
-1920s, mathematics and logic. id: `hilbert`
+1920s, mathematics and logic. school of thought: logic and the foundations of mathematics. id: `hilbert`
 
 by David Hilbert
 
@@ -849,7 +849,7 @@ connections:
 
 ## Ludwig Wittgenstein
 
-1921–1953, philosophy. id: `wittgenstein`
+1921–1953, philosophy. school of thought: logic and the foundations of mathematics. id: `wittgenstein`
 
 ### Wittgenstein
 
@@ -885,7 +885,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Philosophical_
 
 ## Freud and psychoanalysis
 
-1923, psychology and mind. id: `freud`
+1923, psychology and mind. school of thought: psychology and development. id: `freud`
 
 by Sigmund Freud
 
@@ -904,7 +904,7 @@ connections:
 
 ## Qualia
 
-1929–1982, philosophy. id: `qualia`
+1929–1982, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `qualia`
 
 by C. I. Lewis (term)
 
@@ -931,7 +931,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Knowledge_argu
 
 ## Gödel's incompleteness theorems
 
-1931, mathematics and logic. id: `goedel`
+1931, mathematics and logic. school of thought: logic and the foundations of mathematics. id: `goedel`
 
 by Kurt Gödel
 
@@ -955,7 +955,7 @@ connections:
 
 ## Alfred Tarski
 
-1933, mathematics and logic. id: `tarski`
+1933, mathematics and logic. school of thought: logic and the foundations of mathematics. id: `tarski`
 
 Polish logician who gave the standard formal definition of truth for logical languages and put semantics on a rigorous footing.
 
@@ -971,7 +971,7 @@ connections:
 
 ## Alan Turing and computability
 
-1936–1950, mathematics and logic. id: `turing`
+1936–1950, mathematics and logic. school of thought: computation, information and digital physics. id: `turing`
 
 ### Alan Turing
 
@@ -1039,7 +1039,7 @@ confidence: likely, [source](https://en.wikipedia.org/wiki/Computing_Machinery_a
 
 ## Lambda calculus and combinators
 
-1924–1936, mathematics and logic. id: `lambda`
+1924–1936, mathematics and logic. school of thought: computation, information and digital physics. id: `lambda`
 
 ### Lambda calculus
 
@@ -1066,7 +1066,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Moses_Sch%C3%B
 
 ## Behaviorism
 
-1938, psychology and mind. id: `skinner`
+1938, psychology and mind. school of thought: psychology and development. id: `skinner`
 
 by B. F. Skinner
 
@@ -1085,7 +1085,7 @@ connections:
 
 ## Maslow: A Theory of Human Motivation
 
-1943, psychology and mind. id: `maslow`
+1943, psychology and mind. school of thought: psychology and development. id: `maslow`
 
 by Abraham Maslow
 
@@ -1101,7 +1101,7 @@ connections:
 
 ## McCulloch–Pitts neurons
 
-1943, computing and AI. id: `mcculloch`
+1943, computing and AI. school of thought: neural networks and machine learning. id: `mcculloch`
 
 by McCulloch & Pitts; Rumelhart & McClelland
 
@@ -1121,7 +1121,7 @@ connections:
 
 ## Schrödinger: life as negentropy
 
-1944, physics and life. id: `schroedinger`
+1944, physics and life. school of thought: evolution, biology and life. id: `schroedinger`
 
 by Erwin Schrödinger
 
@@ -1140,7 +1140,7 @@ connections:
 
 ## John von Neumann and the first computers
 
-1837–1956, mathematics and logic. id: `vonneumann`
+1837–1956, mathematics and logic. school of thought: computation, information and digital physics. id: `vonneumann`
 
 ### John von Neumann
 
@@ -1176,7 +1176,7 @@ confidence: highly likely, [source](https://static.ias.edu/pitp/archive/2012file
 
 ## Claude Shannon and information theory
 
-1948–1950, mathematics and logic. id: `shannon`
+1948–1950, mathematics and logic. school of thought: computation, information and digital physics. id: `shannon`
 
 ### Information theory
 
@@ -1206,7 +1206,7 @@ confidence: highly likely, [source](http://archive.computerhistory.org/projects/
 
 ## Cybernetics
 
-1948, computing and AI. id: `cybernetics`
+1948, computing and AI. school of thought: cybernetics, systems and self-organisation. id: `cybernetics`
 
 by Norbert Wiener and others
 
@@ -1235,7 +1235,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Project_Cybers
 
 ## Materialism and physicalism
 
-ancient; modern form 20th c., philosophy. id: `physicalism`
+ancient; modern form 20th c., philosophy. school of thought: materialism and mechanism. id: `physicalism`
 
 ### Physicalism
 
@@ -1260,7 +1260,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Direct_and_ind
 
 ## Turing's morphogenesis
 
-1952, physics and life. id: `morpho`
+1952, physics and life. school of thought: cybernetics, systems and self-organisation. id: `morpho`
 
 by Alan Turing
 
@@ -1279,7 +1279,7 @@ connections:
 
 ## Developmental stage theories
 
-1936–1954, psychology and mind. id: `piaget`
+1936–1954, psychology and mind. school of thought: psychology and development. id: `piaget`
 
 by Jean Piaget
 
@@ -1298,7 +1298,7 @@ connections:
 
 ## The Doors of Perception
 
-1954, psychology and mind. id: `huxley`
+1954, psychology and mind. school of thought: religion and contemplative traditions. id: `huxley`
 
 by Aldous Huxley
 
@@ -1314,7 +1314,7 @@ connections:
 
 ## The founding of AI
 
-1956, computing and AI. id: `dartmouth`
+1956, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `dartmouth`
 
 ### The Dartmouth workshop
 
@@ -1345,7 +1345,7 @@ confidence: likely, [source](https://www.britannica.com/biography/John-McCarthy)
 
 ## Cortical columns
 
-1957, psychology and mind. id: `mountcastle`
+1957, psychology and mind. school of thought: scientific theories of consciousness. id: `mountcastle`
 
 by Vernon Mountcastle
 
@@ -1363,7 +1363,7 @@ connections:
 
 ## Many-worlds interpretation
 
-1957, physics and life. id: `everett`
+1957, physics and life. school of thought: computation, information and digital physics. id: `everett`
 
 by Hugh Everett III
 
@@ -1381,7 +1381,7 @@ connections:
 
 ## Marvin Minsky
 
-1956–1986, computing and AI. id: `minsky`
+1956–1986, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `minsky`
 
 Co-founder of the field of artificial intelligence at MIT. In 'The Society of Mind' (1986) and 'The Emotion Machine' (2006) he described the mind as a large crowd of simple cooperating processes, with no single principle behind it.
 
@@ -1418,7 +1418,7 @@ confidence: likely, [source](https://en.wikipedia.org/wiki/Perceptrons_(book)). 
 
 ## Noam Chomsky
 
-1957, psychology and mind. id: `chomsky`
+1957, psychology and mind. school of thought: symbolic AI and cognitive architectures. id: `chomsky`
 
 Linguist who argued that language rests on an innate grammar faculty, and a long-standing sceptic that statistical models tell us anything about the mind. His work in the 1950s helped end behaviourism and start cognitive science.
 
@@ -1435,7 +1435,7 @@ connections:
 
 ## Pandemonium model
 
-1959, computing and AI. id: `selfridge`
+1959, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `selfridge`
 
 by Oliver Selfridge
 
@@ -1451,7 +1451,7 @@ connections:
 
 ## Functionalism and computationalism
 
-1960s, philosophy. id: `functionalism`
+1960s, philosophy. school of thought: functionalism and computational theories of mind. id: `functionalism`
 
 ### Functionalism
 
@@ -1487,7 +1487,7 @@ confidence: highly likely, [source](https://doi.org/10.17721/2523-4064.2023/8-1/
 
 ## Stanisław Lem
 
-1961–1981, fiction. id: `lem`
+1961–1981, fiction. school of thought: fiction. id: `lem`
 
 Polish science fiction writer and philosopher of technology. 'Solaris' (1961) is about an alien mind humans cannot understand; 'Golem XIV' (1981) is a set of lectures given by a superhuman computer to humanity.
 
@@ -1515,7 +1515,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Summa_Technolo
 
 ## Solomonoff induction
 
-1964, mathematics and logic. id: `solomonoff`
+1964, mathematics and logic. school of thought: neural networks and machine learning. id: `solomonoff`
 
 by Ray Solomonoff
 
@@ -1534,7 +1534,7 @@ connections:
 
 ## Alexey Ivakhnenko
 
-1965, computing and AI. id: `ivakhnenko`
+1965, computing and AI. school of thought: neural networks and machine learning. id: `ivakhnenko`
 
 Soviet-Ukrainian mathematician who trained multi-layer networks in the 1960s (the Group Method of Data Handling), often cited as the earliest deep learning.
 
@@ -1550,7 +1550,7 @@ connections:
 
 ## Symbolic AI
 
-1956–1970s, computing and AI. id: `symbolic`
+1956–1970s, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `symbolic`
 
 ### Symbolic AI and expert systems
 
@@ -1585,7 +1585,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Logic_Theorist
 
 ## ELIZA
 
-1966, computing and AI. id: `eliza`
+1966, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `eliza`
 
 by Joseph Weizenbaum
 
@@ -1604,7 +1604,7 @@ connections:
 
 ## Timothy Leary and the eight-circuit model
 
-1960s–1977, psychology and mind. id: `leary`
+1960s–1977, psychology and mind. school of thought: psychology and development. id: `leary`
 
 by Timothy Leary; Robert Anton Wilson
 
@@ -1622,7 +1622,7 @@ connections:
 
 ## Digital physics
 
-1969, physics and life. id: `digital`
+1969, physics and life. school of thought: computation, information and digital physics. id: `digital`
 
 by Konrad Zuse
 
@@ -1645,7 +1645,7 @@ connections:
 
 ## Conway's Game of Life
 
-1970, mathematics and logic. id: `conway`
+1970, mathematics and logic. school of thought: computation, information and digital physics. id: `conway`
 
 by John Conway
 
@@ -1666,7 +1666,7 @@ connections:
 
 ## Mirror test
 
-1970, psychology and mind. id: `mirror`
+1970, psychology and mind. school of thought: psychology and development. id: `mirror`
 
 by Gordon Gallup Jr.
 
@@ -1680,7 +1680,7 @@ start here, joscha bach on it: [From Computation to Consciousness (31C3)](https:
 
 ## Holonomic brain theory
 
-1971, psychology and mind. id: `pribram`
+1971, psychology and mind. school of thought: scientific theories of consciousness. id: `pribram`
 
 by Karl Pribram (with David Bohm)
 
@@ -1698,7 +1698,7 @@ connections:
 
 ## Dreyfus: What Computers Still Can't Do
 
-1972 / 1992, philosophy. id: `dreyfus`
+1972 / 1992, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `dreyfus`
 
 by Hubert Dreyfus
 
@@ -1717,7 +1717,7 @@ connections:
 
 ## Gaia hypothesis
 
-1972, physics and life. id: `gaia`
+1972, physics and life. school of thought: cybernetics, systems and self-organisation. id: `gaia`
 
 by James Lovelock; Lynn Margulis
 
@@ -1735,7 +1735,7 @@ connections:
 
 ## Nagel: What Is It Like to Be a Bat?
 
-1974, philosophy. id: `nagel`
+1974, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `nagel`
 
 by Thomas Nagel
 
@@ -1754,7 +1754,7 @@ connections:
 
 ## The language of thought
 
-1975, psychology and mind. id: `fodor`
+1975, psychology and mind. school of thought: functionalism and computational theories of mind. id: `fodor`
 
 by Jerry Fodor
 
@@ -1773,7 +1773,7 @@ connections:
 
 ## Adaptive Resonance Theory
 
-1976, computing and AI. id: `grossberg`
+1976, computing and AI. school of thought: neural networks and machine learning. id: `grossberg`
 
 by Stephen Grossberg
 
@@ -1787,7 +1787,7 @@ start here, mentioned by joscha bach in: [The Operation of Consciousness (AGI-25
 
 ## Dawkins: selfish genes and memes
 
-1976, physics and life. id: `dawkins`
+1976, physics and life. school of thought: evolution, biology and life. id: `dawkins`
 
 by Richard Dawkins
 
@@ -1806,7 +1806,7 @@ connections:
 
 ## Jaynes: the bicameral mind
 
-1976, psychology and mind. id: `jaynes`
+1976, psychology and mind. school of thought: psychology and development. id: `jaynes`
 
 by Julian Jaynes
 
@@ -1825,7 +1825,7 @@ connections:
 
 ## Scripts, Plans, Goals and Understanding
 
-1977, computing and AI. id: `schank`
+1977, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `schank`
 
 by Roger Schank, Robert Abelson
 
@@ -1844,7 +1844,7 @@ connections:
 
 ## Aaron Sloman
 
-1978, computing and AI. id: `sloman`
+1978, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `sloman`
 
 British philosopher and AI researcher. He argued that philosophy of mind should be done by designing working minds, and he proposed the CogAff scheme that sorts mental processes into reactive, deliberative and reflective layers.
 
@@ -1860,7 +1860,7 @@ connections:
 
 ## Hofstadter: strange loops
 
-1979–2007, philosophy. id: `hofstadter`
+1979–2007, philosophy. school of thought: functionalism and computational theories of mind. id: `hofstadter`
 
 by Douglas Hofstadter
 
@@ -1879,7 +1879,7 @@ connections:
 
 ## Lucid dreaming
 
-1980, psychology and mind. id: `lucid`
+1980, psychology and mind. school of thought: scientific theories of consciousness. id: `lucid`
 
 by Stephen LaBerge (scientific study)
 
@@ -1897,7 +1897,7 @@ connections:
 
 ## Perceptual illusions
 
-1980 / 2015, psychology and mind. id: `thatcher`
+1980 / 2015, psychology and mind. school of thought: psychology and development. id: `thatcher`
 
 ### The Thatcher illusion
 
@@ -1919,7 +1919,7 @@ confidence: likely, [source](https://en.wikipedia.org/wiki/The_dress). Source sa
 
 ## Searle: the Chinese room
 
-1980, philosophy. id: `searle`
+1980, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `searle`
 
 by John Searle
 
@@ -1941,7 +1941,7 @@ connections:
 
 ## The Mandelbrot set
 
-1980, mathematics and logic. id: `mandelbrot`
+1980, mathematics and logic. school of thought: cybernetics, systems and self-organisation. id: `mandelbrot`
 
 by Benoît Mandelbrot
 
@@ -1959,7 +1959,7 @@ connections:
 
 ## The binding problem and neural synchrony
 
-1980–1990, psychology and mind. id: `binding`
+1980–1990, psychology and mind. school of thought: scientific theories of consciousness. id: `binding`
 
 ### The binding problem
 
@@ -1994,7 +1994,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Christoph_von_
 
 ## Kegan's stages of adult development
 
-1982, psychology and mind. id: `kegan`
+1982, psychology and mind. school of thought: psychology and development. id: `kegan`
 
 by Robert Kegan
 
@@ -2013,7 +2013,7 @@ connections:
 
 ## Quantum computing
 
-1982, physics and life. id: `quantumcomp`
+1982, physics and life. school of thought: computation, information and digital physics. id: `quantumcomp`
 
 by Richard Feynman; David Deutsch
 
@@ -2033,7 +2033,7 @@ connections:
 
 ## Two visual streams
 
-1982, psychology and mind. id: `streams`
+1982, psychology and mind. school of thought: scientific theories of consciousness. id: `streams`
 
 by Ungerleider & Mishkin; Goodale & Milner
 
@@ -2047,7 +2047,7 @@ start here, joscha bach on it: [From Computation to Consciousness (31C3)](https:
 
 ## Libet's readiness-potential experiments
 
-1983, psychology and mind. id: `libet`
+1983, psychology and mind. school of thought: scientific theories of consciousness. id: `libet`
 
 by Benjamin Libet et al.
 
@@ -2061,7 +2061,7 @@ start here, mentioned by joscha bach in: [Phenomenal Experience and the Perceptu
 
 ## The explanatory gap
 
-1983, philosophy. id: `levine`
+1983, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `levine`
 
 by Joseph Levine
 
@@ -2080,7 +2080,7 @@ connections:
 
 ## Braitenberg: Vehicles
 
-1984, computing and AI. id: `braitenberg`
+1984, computing and AI. school of thought: cybernetics, systems and self-organisation. id: `braitenberg`
 
 by Valentino Braitenberg
 
@@ -2098,7 +2098,7 @@ connections:
 
 ## Cyc
 
-1984, computing and AI. id: `cyc`
+1984, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `cyc`
 
 by Douglas Lenat
 
@@ -2116,7 +2116,7 @@ connections:
 
 ## Boltzmann machine
 
-1985, computing and AI. id: `boltzmannmachine`
+1985, computing and AI. school of thought: neural networks and machine learning. id: `boltzmannmachine`
 
 by Geoffrey Hinton, Terrence Sejnowski, David Ackley
 
@@ -2134,7 +2134,7 @@ connections:
 
 ## Norbert Bischof
 
-1980s, psychology and mind. id: `bischof`
+1980s, psychology and mind. school of thought: psychology and development. id: `bischof`
 
 German psychologist who modelled motivation, attachment and social distance as control systems.
 
@@ -2150,7 +2150,7 @@ connections:
 
 ## Structure and Interpretation of Computer Programs
 
-1985, mathematics and logic. id: `sicp`
+1985, mathematics and logic. school of thought: computation, information and digital physics. id: `sicp`
 
 by Harold Abelson; Gerald Jay Sussman
 
@@ -2169,7 +2169,7 @@ connections:
 
 ## Autocatalytic networks and autopoiesis
 
-1972–1986, physics and life. id: `autopoiesis`
+1972–1986, physics and life. school of thought: cybernetics, systems and self-organisation. id: `autopoiesis`
 
 by Stuart Kauffman; Wim Hordijk & Mike Steel; Humberto Maturana & Francisco Varela
 
@@ -2188,7 +2188,7 @@ connections:
 
 ## Connectionism and backpropagation
 
-1986, computing and AI. id: `pdp`
+1986, computing and AI. school of thought: neural networks and machine learning. id: `pdp`
 
 by Rumelhart, Hinton & Williams (popularised)
 
@@ -2208,7 +2208,7 @@ connections:
 
 ## Higher-order thought theory
 
-1986, consciousness. id: `hot`
+1986, consciousness. school of thought: scientific theories of consciousness. id: `hot`
 
 by David Rosenthal
 
@@ -2228,7 +2228,7 @@ connections:
 
 ## Rodney Brooks: subsumption architecture
 
-1986, computing and AI. id: `brooks`
+1986, computing and AI. school of thought: cybernetics, systems and self-organisation. id: `brooks`
 
 by Rodney Brooks
 
@@ -2248,7 +2248,7 @@ connections:
 
 ## Cognitive architectures: Soar and ACT-R
 
-1987–2017, computing and AI. id: `cogarch`
+1987–2017, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `cogarch`
 
 ### Cognitive architectures
 
@@ -2293,7 +2293,7 @@ confidence: highly likely, [source](https://onlinelibrary.wiley.com/doi/10.1609/
 
 ## Neural Darwinism
 
-1987, psychology and mind. id: `edelman`
+1987, psychology and mind. school of thought: scientific theories of consciousness. id: `edelman`
 
 by Gerald Edelman
 
@@ -2311,7 +2311,7 @@ connections:
 
 ## Global Workspace Theory
 
-1988, consciousness. id: `gwt`
+1988, consciousness. school of thought: scientific theories of consciousness. id: `gwt`
 
 by Bernard Baars; Stanislas Dehaene
 
@@ -2332,7 +2332,7 @@ connections:
 
 ## The Cognitive Structure of Emotions
 
-1988, psychology and mind. id: `occ`
+1988, psychology and mind. school of thought: psychology and development. id: `occ`
 
 by Andrew Ortony, Gerald Clore, Allan Collins
 
@@ -2350,7 +2350,7 @@ connections:
 
 ## Mysterianism
 
-1989, philosophy. id: `mysterianism`
+1989, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `mysterianism`
 
 by Colin McGinn; Noam Chomsky
 
@@ -2369,7 +2369,7 @@ connections:
 
 ## Penrose and Hameroff: quantum consciousness
 
-1989–1994, consciousness. id: `penrose`
+1989–1994, consciousness. school of thought: the hard problem and sceptics of machine minds. id: `penrose`
 
 ### The Gödelian argument and The Emperor's New Mind
 
@@ -2420,7 +2420,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Roger_Penrose)
 
 ## Crick and Koch: neural correlates of consciousness
 
-1990, consciousness. id: `ncc`
+1990, consciousness. school of thought: scientific theories of consciousness. id: `ncc`
 
 ### Neural correlates of consciousness
 
@@ -2447,7 +2447,7 @@ confidence: likely, [source](https://en.wikipedia.org/wiki/Christof_Koch). Crick
 
 ## Ian Witten: cognition as compression
 
-1980s–1990s, computing and AI. id: `witten`
+1980s–1990s, computing and AI. school of thought: computation, information and digital physics. id: `witten`
 
 English-born computer scientist at the University of Waikato, New Zealand, who co-invented prediction-based text compression (PPM) and popularised arithmetic coding; the idea is that to compress data well you must predict it, which requires modelling its structure.
 
@@ -2463,7 +2463,7 @@ connections:
 
 ## It from bit
 
-1990, physics and life. id: `wheeler`
+1990, physics and life. school of thought: computation, information and digital physics. id: `wheeler`
 
 by John Archibald Wheeler
 
@@ -2481,7 +2481,7 @@ connections:
 
 ## Jürgen Schmidhuber
 
-1990, computing and AI. id: `schmidhuber`
+1990, computing and AI. school of thought: neural networks and machine learning. id: `schmidhuber`
 
 by Jürgen Schmidhuber
 
@@ -2500,7 +2500,7 @@ connections:
 
 ## The symbol grounding problem
 
-1990, computing and AI. id: `harnad`
+1990, computing and AI. school of thought: the hard problem and sceptics of machine minds. id: `harnad`
 
 by Stevan Harnad
 
@@ -2519,7 +2519,7 @@ connections:
 
 ## Daniel Dennett
 
-1991, philosophy. id: `dennett`
+1991, philosophy. school of thought: functionalism and computational theories of mind. id: `dennett`
 
 American philosopher who argued that consciousness is not an inner theatre but many parallel drafts of interpretation, and that the 'self' is a useful narrative centre. He treated the 'hard problem' as a confusion to be dissolved rather than a mystery to be solved.
 
@@ -2555,7 +2555,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Philosophical_
 
 ## Embodied and enactive cognition
 
-1927–2006, philosophy. id: `embodied`
+1927–2006, philosophy. school of thought: rationalism and idealism. id: `embodied`
 
 ### Phenomenology and enactivism
 
@@ -2595,7 +2595,7 @@ confidence: highly likely, [source](https://kevin-oregan.net/OREGAN-NOE-BBS/OReg
 
 ## Technological singularity
 
-1993, society. id: `singularity`
+1993, society. school of thought: ethics, society and AI risk. id: `singularity`
 
 by John von Neumann; Vernor Vinge; Ray Kurzweil
 
@@ -2614,7 +2614,7 @@ connections:
 
 ## Antonio Damasio
 
-1994, psychology and mind. id: `damasio`
+1994, psychology and mind. school of thought: scientific theories of consciousness. id: `damasio`
 
 by Antonio Damasio
 
@@ -2633,7 +2633,7 @@ connections:
 
 ## Greg Egan
 
-1994, fiction. id: `egan`
+1994, fiction. school of thought: fiction. id: `egan`
 
 by Greg Egan
 
@@ -2649,7 +2649,7 @@ connections:
 
 ## Multilevel selection
 
-1994, physics and life. id: `groupsel`
+1994, physics and life. school of thought: evolution, biology and life. id: `groupsel`
 
 by David Sloan Wilson; Elliott Sober
 
@@ -2667,7 +2667,7 @@ connections:
 
 ## Chalmers: the hard problem
 
-1995, philosophy. id: `chalmers`
+1995, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `chalmers`
 
 ### The hard problem of consciousness
 
@@ -2710,7 +2710,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/David_Chalmers
 
 ## David Pearce
 
-1995, society. id: `pearce`
+1995, society. school of thought: ethics, society and AI risk. id: `pearce`
 
 British transhumanist philosopher, author of 'The Hedonistic Imperative'. He wants to abolish suffering in all sentient life through biotechnology and argues that classical digital computers can never be conscious because they cannot solve the binding problem.
 
@@ -2722,7 +2722,7 @@ start here, joscha bach on it: [The Panel Where Everyone Disagrees About Saving 
 
 ## Ned Block: access vs phenomenal consciousness
 
-1995, philosophy. id: `block`
+1995, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `block`
 
 by Ned Block
 
@@ -2740,7 +2740,7 @@ connections:
 
 ## Dietrich Dörner and Psi theory
 
-1999, computing and AI. id: `doerner`
+1999, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `doerner`
 
 ### Psi theory
 
@@ -2782,7 +2782,7 @@ confidence: highly likely, [source](http://www.cognitive-ai.com/publications/ass
 
 ## Hypercomputation
 
-1999, mathematics and logic. id: `hypercomputation`
+1999, mathematics and logic. school of thought: computation, information and digital physics. id: `hypercomputation`
 
 Hypothetical machines that compute more than a Turing machine, for example by using infinitely precise real numbers ('geometric') or by sending results back in time ('causal').
 
@@ -2799,7 +2799,7 @@ connections:
 
 ## The Matrix
 
-1999, fiction. id: `matrix`
+1999, fiction. school of thought: fiction. id: `matrix`
 
 by Lana and Lilly Wachowski
 
@@ -2817,7 +2817,7 @@ connections:
 
 ## Artificial general intelligence
 
-2002–2007, computing and AI. id: `agi`
+2002–2007, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `agi`
 
 ### The term AGI
 
@@ -2843,7 +2843,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Ben_Goertzel)
 
 ## Stephen Wolfram
 
-2002–2023, physics and life. id: `wolfram`
+2002–2023, physics and life. school of thought: computation, information and digital physics. id: `wolfram`
 
 Physicist and founder of Wolfram Research. 'A New Kind of Science' (2002) argues that simple programs underlie nature; his 2023 essay 'Observer Theory' asks how the kind of observer we are shapes the laws we find.
 
@@ -2885,7 +2885,7 @@ confidence: highly likely, [source](https://writings.stephenwolfram.com/2023/12/
 
 ## AI risk: Bostrom, Yudkowsky and the doom debate
 
-2003–2023, society. id: `airisk`
+2003–2023, society. school of thought: ethics, society and AI risk. id: `airisk`
 
 ### Paperclip maximizer
 
@@ -2943,7 +2943,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Pause_Giant_AI
 
 ## The simulation argument
 
-2003, philosophy. id: `simulation`
+2003, philosophy. school of thought: computation, information and digital physics. id: `simulation`
 
 by Nick Bostrom
 
@@ -2963,7 +2963,7 @@ connections:
 
 ## Thomas Metzinger: Being No One
 
-2003–2021, consciousness. id: `metzinger`
+2003–2021, consciousness. school of thought: functionalism and computational theories of mind. id: `metzinger`
 
 ### Being No One (self-model theory)
 
@@ -2992,7 +2992,7 @@ confidence: highly likely, [source](https://www.philosophie.fb05.uni-mainz.de/fi
 
 ## Integrated Information Theory
 
-2004, consciousness. id: `iit`
+2004, consciousness. school of thought: the hard problem and sceptics of machine minds. id: `iit`
 
 by Giulio Tononi
 
@@ -3023,7 +3023,7 @@ confidence: highly likely, [source](https://scottaaronson.blog/?p=1799)
 
 ## Jeff Hawkins and Numenta
 
-2004, computing and AI. id: `hawkins`
+2004, computing and AI. school of thought: neural networks and machine learning. id: `hawkins`
 
 Neuroscience-inspired AI researcher whose 'Thousand Brains' theory holds that every cortical column models objects using spatial reference frames.
 
@@ -3037,7 +3037,7 @@ connections:
 
 ## Gary Drescher: Good and Real
 
-2006, philosophy. id: `drescher`
+2006, philosophy. school of thought: materialism and mechanism. id: `drescher`
 
 by Gary Drescher
 
@@ -3051,7 +3051,7 @@ start here, mentioned by joscha bach in: [Donald Hoffman Λ Joscha Bach: Conscio
 
 ## Panpsychism
 
-ancient roots; revived 2000s, consciousness. id: `panpsychism`
+ancient roots; revived 2000s, consciousness. school of thought: the hard problem and sceptics of machine minds. id: `panpsychism`
 
 by ancient roots; modern revival (Strawson, Goff, Koch)
 
@@ -3071,7 +3071,7 @@ connections:
 
 ## Peter Watts: Blindsight
 
-2006, fiction. id: `watts`
+2006, fiction. school of thought: fiction. id: `watts`
 
 by Peter Watts
 
@@ -3089,7 +3089,7 @@ connections:
 
 ## Predictive processing and the free energy principle
 
-1999–2013, consciousness. id: `friston`
+1999–2013, consciousness. school of thought: cybernetics, systems and self-organisation. id: `friston`
 
 ### The free energy principle
 
@@ -3126,7 +3126,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Karl_J._Fristo
 
 ## The rider and the elephant
 
-2006, psychology and mind. id: `haidt`
+2006, psychology and mind. school of thought: psychology and development. id: `haidt`
 
 by Jonathan Haidt, drawing on older images from the Buddha and Plato
 
@@ -3144,7 +3144,7 @@ connections:
 
 ## Ted Chiang
 
-2010, fiction. id: `chiang`
+2010, fiction. school of thought: fiction. id: `chiang`
 
 by Ted Chiang
 
@@ -3156,7 +3156,7 @@ start here, read: [Wikipedia](https://en.wikipedia.org/wiki/The_Lifecycle_of_Sof
 
 ## System 1 and System 2
 
-2011, psychology and mind. id: `kahneman`
+2011, psychology and mind. school of thought: psychology and development. id: `kahneman`
 
 by Daniel Kahneman (Thinking, Fast and Slow)
 
@@ -3175,7 +3175,7 @@ connections:
 
 ## Chris Fields
 
-2012, physics and life. id: `fields`
+2012, physics and life. school of thought: cybernetics, systems and self-organisation. id: `fields`
 
 Independent physicist who applies quantum information theory to biology and cognition, often with Michael Levin and Karl Friston. He treats any system with a boundary as an observer exchanging information with its environment.
 
@@ -3192,7 +3192,7 @@ connections:
 
 ## David Deutsch: constructor theory
 
-2012, physics and life. id: `deutsch`
+2012, physics and life. school of thought: computation, information and digital physics. id: `deutsch`
 
 by David Deutsch; Chiara Marletto
 
@@ -3211,7 +3211,7 @@ connections:
 
 ## Deep learning
 
-2009–2022, computing and AI. id: `deeplearning`
+2009–2022, computing and AI. school of thought: neural networks and machine learning. id: `deeplearning`
 
 by Hinton, LeCun, Bengio and others
 
@@ -3283,7 +3283,7 @@ confidence: likely, [source](https://en.wikipedia.org/wiki/Ilya_Sutskever). Alex
 
 ## John Vervaeke: relevance realization
 
-2012, psychology and mind. id: `vervaeke`
+2012, psychology and mind. school of thought: psychology and development. id: `vervaeke`
 
 by John Vervaeke
 
@@ -3297,7 +3297,7 @@ start here, mentioned by joscha bach in: [Joscha Bach Λ John Vervaeke: Mind, Id
 
 ## Attention Schema Theory
 
-2013, consciousness. id: `ast`
+2013, consciousness. school of thought: scientific theories of consciousness. id: `ast`
 
 by Michael Graziano
 
@@ -3316,7 +3316,7 @@ connections:
 
 ## Best-effort computing
 
-2010s, mathematics and logic. id: `ackley`
+2010s, mathematics and logic. school of thought: computation, information and digital physics. id: `ackley`
 
 by Dave Ackley
 
@@ -3334,7 +3334,7 @@ connections:
 
 ## Her
 
-2013, fiction. id: `her`
+2013, fiction. school of thought: fiction. id: `her`
 
 by Spike Jonze
 
@@ -3348,7 +3348,7 @@ start here, joscha bach on it: [Self Models of Loving Grace (38C3)](https://medi
 
 ## Ex Machina
 
-2014, fiction. id: `exmachina`
+2014, fiction. school of thought: fiction. id: `exmachina`
 
 by Alex Garland
 
@@ -3362,7 +3362,7 @@ start here, joscha bach on it: [Machine Dreams (33C3)](https://media.ccc.de/v/33
 
 ## Max Tegmark
 
-2014–2023, physics and life. id: `tegmark`
+2014–2023, physics and life. school of thought: computation, information and digital physics. id: `tegmark`
 
 MIT physicist known for the mathematical universe hypothesis and for work on physics-based theories of consciousness.
 
@@ -3402,7 +3402,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Life_3.0)
 
 ## Scott Aaronson
 
-2014, mathematics and logic. id: `aaronson`
+2014, mathematics and logic. school of thought: computation, information and digital physics. id: `aaronson`
 
 Quantum-complexity theorist at UT Austin who spent time at OpenAI working on the theoretical foundations of AI safety. He takes AI risk seriously while rejecting certainty of doom.
 
@@ -3418,7 +3418,7 @@ connections:
 
 ## Donald Hoffman: interface theory of perception
 
-2015, consciousness. id: `hoffman`
+2015, consciousness. school of thought: rationalism and idealism. id: `hoffman`
 
 by Donald Hoffman
 
@@ -3436,7 +3436,7 @@ connections:
 
 ## Gerard 't Hooft: cellular automaton interpretation
 
-2016, physics and life. id: `thooft`
+2016, physics and life. school of thought: computation, information and digital physics. id: `thooft`
 
 by Gerard 't Hooft
 
@@ -3454,7 +3454,7 @@ connections:
 
 ## Illusionism
 
-2016, consciousness. id: `illusionism`
+2016, consciousness. school of thought: functionalism and computational theories of mind. id: `illusionism`
 
 by Keith Frankish
 
@@ -3475,7 +3475,7 @@ connections:
 
 ## Westworld
 
-2016, fiction. id: `westworld`
+2016, fiction. school of thought: fiction. id: `westworld`
 
 by Jonathan Nolan; Lisa Joy (HBO)
 
@@ -3493,7 +3493,7 @@ connections:
 
 ## Bengio: the consciousness prior
 
-2017, consciousness. id: `bengio`
+2017, consciousness. school of thought: neural networks and machine learning. id: `bengio`
 
 by Yoshua Bengio
 
@@ -3511,7 +3511,7 @@ connections:
 
 ## Joscha Bach
 
-2003–2026, consciousness. id: `bach`
+2003–2026, consciousness. school of thought: joscha bach and CIMC. id: `bach`
 
 German cognitive scientist and AI researcher, born 1973. He treats the mind as software: the brain builds a simulated world with a simulated self in it, and consciousness is a property of that simulation, a process that makes the mind's many models cohere. He began with cognitive architectures (MicroPsi) and has led the California Institute for Machine Consciousness since 2025.
 
@@ -3793,7 +3793,7 @@ sources:
 
 ## Large language models
 
-2017–2023, computing and AI. id: `llm`
+2017–2023, computing and AI. school of thought: neural networks and machine learning. id: `llm`
 
 ### LLMs and the transformer
 
@@ -3844,7 +3844,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Emily_M._Bende
 
 ## Chollet: On the Measure of Intelligence
 
-2019, computing and AI. id: `chollet`
+2019, computing and AI. school of thought: neural networks and machine learning. id: `chollet`
 
 by François Chollet (On the Measure of Intelligence)
 
@@ -3862,7 +3862,7 @@ connections:
 
 ## Michael Levin: bioelectricity and collective intelligence
 
-2019, physics and life. id: `levin`
+2019, physics and life. school of thought: evolution, biology and life. id: `levin`
 
 by Michael Levin
 
@@ -3882,7 +3882,7 @@ connections:
 
 ## The Bitter Lesson
 
-2019, computing and AI. id: `bitter`
+2019, computing and AI. school of thought: neural networks and machine learning. id: `bitter`
 
 by Richard Sutton
 
@@ -3900,7 +3900,7 @@ connections:
 
 ## Godfrey-Smith: Metazoa
 
-2020, physics and life. id: `metazoa`
+2020, physics and life. school of thought: evolution, biology and life. id: `metazoa`
 
 by Peter Godfrey-Smith
 
@@ -3912,7 +3912,7 @@ start here, read: [symposiumbooks.com](https://symposiumbooks.com/book/978125080
 
 ## Neural cellular automata
 
-2020, computing and AI. id: `nca`
+2020, computing and AI. school of thought: cybernetics, systems and self-organisation. id: `nca`
 
 by Alexander Mordvintsev et al.
 
@@ -3932,7 +3932,7 @@ connections:
 
 ## The universality hypothesis
 
-2020, computing and AI. id: `olah`
+2020, computing and AI. school of thought: neural networks and machine learning. id: `olah`
 
 by Chris Olah
 
@@ -3950,7 +3950,7 @@ connections:
 
 ## Anil Seth: biological naturalism
 
-2021, consciousness. id: `seth`
+2021, consciousness. school of thought: the hard problem and sceptics of machine minds. id: `seth`
 
 by Anil Seth
 
@@ -3973,7 +3973,7 @@ connections:
 
 ## Gary Marcus
 
-2022, computing and AI. id: `marcus`
+2022, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `marcus`
 
 by Gary Marcus
 
@@ -3991,7 +3991,7 @@ connections:
 
 ## Thagard: energy and substrate independence
 
-2022, philosophy. id: `thagard`
+2022, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `thagard`
 
 by Paul Thagard
 
@@ -4009,7 +4009,7 @@ connections:
 
 ## AI consciousness and welfare reports
 
-2023–2024, consciousness. id: `butlin`
+2023–2024, consciousness. school of thought: scientific theories of consciousness. id: `butlin`
 
 ### Consciousness in Artificial Intelligence
 
@@ -4040,7 +4040,7 @@ confidence: highly likely, [source](https://arxiv.org/abs/2411.00986)
 
 ## Mazviita Chirimuuta
 
-2024, philosophy. id: `chirimuuta`
+2024, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `chirimuuta`
 
 Edinburgh philosopher of neuroscience, author of 'The Brain Abstracted'. She argues that computational models of the brain are useful simplifications and should not be mistaken for what the brain literally is.
 
@@ -4056,7 +4056,7 @@ connections:
 
 ## Murray Shanahan
 
-2024, computing and AI. id: `shanahan`
+2024, computing and AI. school of thought: neural networks and machine learning. id: `shanahan`
 
 Imperial College and DeepMind researcher, author of 'Embodiment and the Inner Life', who describes LLMs as role-players simulating characters. He warns against describing such systems in human terms like 'knows' or 'believes' without care.
 
@@ -4073,7 +4073,7 @@ connections:
 
 ## CIMC: the Machine Consciousness Hypothesis
 
-2025, consciousness. id: `cimc`
+2025, consciousness. school of thought: joscha bach and CIMC. id: `cimc`
 
 ### The Machine Consciousness Hypothesis (2025)
 
@@ -4124,7 +4124,7 @@ sources:
 
 ## Lerchner: The Abstraction Fallacy
 
-2026, philosophy. id: `lerchner`
+2026, philosophy. school of thought: the hard problem and sceptics of machine minds. id: `lerchner`
 
 by Alexander Lerchner
 

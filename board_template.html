@@ -77,10 +77,11 @@ input[type=search] { font: inherit; color: var(--text); background: var(--bg); b
 .chk input { accent-color: var(--accent); margin: 0 4px 0 0; vertical-align: -2px; }
 #world.strict #edges path.weak { display: none; }
 #world.strict .node.weak { opacity: .3; }
-#world.landmarks:not(.focus) .node:not(.lm) { opacity: .25; }
-#world.landmarks:not(.focus) #edges path { opacity: .12; }
-#world.landmarks:not(.focus) #edges path.lm { opacity: 1; stroke: var(--muted); }
-#world.landmarks .node.lm { transform: scale(1.45); z-index: 3; box-shadow: inset 0 0 0 1px var(--text); }
+.eralab, .lanelab, .rule, .vrule { transition: opacity .35s; }
+.slab { position: absolute; font-size: 26px; font-weight: 700; line-height: 1.15; opacity: 0; pointer-events: none; transition: opacity .35s; }
+.slab span { display: block; font-size: 17px; font-weight: 400; color: var(--muted); }
+#world.schools .slab { opacity: 1; }
+#world.schools .eralab, #world.schools .lanelab, #world.schools .rule, #world.schools .vrule { opacity: 0; }
 #world.strict.focus .node.weak.hi { opacity: 1; }
 
 #panel { position: fixed; top: 0; right: 0; bottom: 0; width: var(--pw, 460px); max-width: 100vw; background: var(--bg);
@@ -147,7 +148,7 @@ input[type=search] { font: inherit; color: var(--text); background: var(--bg); b
     <button class="btn" id="reset">reset<span class="deskhint"> layout</span></button>
     <button class="btn" id="theme"></button>
   </div>
-  <p style="margin:8px 0 0"><span class="key"></span>builds on &nbsp; <span class="key against"></span>argues against &nbsp; <span class="key related"></span>related &nbsp; <label class="chk"><input type="checkbox" id="strict">hide less certain</label> &nbsp; <label class="chk"><input type="checkbox" id="landmarks">landmarks</label></p>
+  <p style="margin:8px 0 0"><span class="key"></span>builds on &nbsp; <span class="key against"></span>argues against &nbsp; <span class="key related"></span>related &nbsp; <label class="chk"><input type="checkbox" id="strict">hide less certain</label> &nbsp; <label class="chk"><input type="checkbox" id="schools">schools of thought</label></p>
   </div>
 </div>
 
@@ -200,7 +201,8 @@ const lrows = LANES.map((_, l) => Math.max(1, ...ERAS.map((_, e) => Math.ceil((c
 const ex = [], ly = [];
 let x = LEFT; ecols.forEach((k, e) => { ex[e] = x; x += k * (CW + GX) - GX + ERAGAP; });
 let y = TOP; lrows.forEach((r, l) => { ly[l] = y; y += r * (CH + GY) - GY + LANEGAP; });
-const WW = x - ERAGAP + 40, WH = y - LANEGAP + 40;
+let WW = x - ERAGAP + 40, WH = y - LANEGAP + 40;
+const TW = WW, TH = WH;   // the size of the timeline layout
 const home = {};
 Object.entries(cells).forEach(([k, list]) => {
   const [e, l] = k.split(':').map(Number);
@@ -315,7 +317,7 @@ view.addEventListener('pointermove', e => {
 function endDrag(click) {
   if (!drag) return;
   const d = drag; drag = null; view.classList.remove('panning');
-  if (d.move && d.moved) { saved[d.id] = pos[d.id]; localStorage.setItem(PKEY, JSON.stringify(saved)); }
+  if (d.move && d.moved && !schoolsOn) { saved[d.id] = pos[d.id]; localStorage.setItem(PKEY, JSON.stringify(saved)); }
   else if (click && !d.moved && d.id !== selected) { select(d.id); if (d.id && narrow()) centerOn(d.id); }   // on a phone the sheet may cover the tapped card
 }
 const lift = e => { pts.delete(e.pointerId); if (pts.size < 2) pinch = null; };
@@ -356,6 +358,11 @@ function connHtml(id) {
     return `<div class="conn">${words[e.kind][e.b === id ? 0 : 1]} <button class="btn" data-go="${other}">${esc(byId[other].title)}</button>${e.note ? ': ' + esc(e.note) : ''}${e.conf ? ' ' + confHtml(e.conf, '· ') : ''}</div>`;
   }).join('');
 }
+const SNAME = Object.fromEntries(D.schools.map(s => [s.id, s.name]));
+function schoolHtml(n) {
+  const s = n.school; if (!s) return '';
+  return `<p class="cfline">school of thought: ${esc(SNAME[s.id])}` + (s.alt ? `; one of the two models put it in ${esc(SNAME[s.alt])}` : '') + `</p>`;
+}
 // start here: one page to read, and one moment where joscha bach talks about it
 function startHtml(s) {
   if (!s || !(s.read || s.hear)) return '';
@@ -376,7 +383,7 @@ function select(id) {
   if (!id) { p.classList.remove('open'); return; }
   const n = byId[id];
   let h = `<div class="closebar"><button class="btn" id="close">close</button></div>` + (n.img ? `<img src="${n.img}" alt="">` : '') +
-    `<h3>${esc(n.title)}</h3><p>${esc(n.label)}, ${esc(LANENAME(n))}</p>`;
+    `<h3>${esc(n.title)}</h3><p>${esc(n.label)}, ${esc(LANENAME(n))}</p>` + schoolHtml(n);
   // order: the main idea first, then what it connects to, then the detail (quotes and the other facets)
   const srcs = f => f.mentions.length ? `<div class="lab">sources</div>` + f.mentions.map(quoteHtml).join('') : '';
   const confLine = f => f.conf ? `<p class="cfline">${confHtml(f.conf, 'confidence: ')}</p>` : '';
@@ -420,16 +427,60 @@ function setStrict(on) {
   if (selected) { const st = el('panel').scrollTop; select(selected); el('panel').scrollTop = st; } else paint();
 }
 el('strict').onchange = e => setStrict(e.target.checked);
-// landmarks: the 20 most connected cards, enlarged, with the lines between them; everything else recedes
-const LM = new Set(D.nodes.map(n => n.id).sort((a, b) => (adj[b] || []).length - (adj[a] || []).length).slice(0, 20));
-LM.forEach(id => nodeEl[id].classList.add('lm'));
-EDGES.forEach(e => { if (LM.has(e.a) && LM.has(e.b)) e.el.classList.add('lm'); });
-function setLandmarks(on) { el('landmarks').checked = on; world.classList.toggle('landmarks', on); localStorage.setItem('bach-map-landmarks', on ? '1' : '0'); }
-el('landmarks').onchange = e => setLandmarks(e.target.checked);
-setLandmarks(localStorage.getItem('bach-map-landmarks') === '1');
+
+// ---- schools of thought: the same cards regrouped into families of ideas, each family in year order.
+// the timeline stays the home layout; dragging a card here is not remembered
+const SBLOCK = (() => {
+  const LAB = 64, BX = 120, BY = 70;
+  const blocks = D.schools.map(s => {
+    const list = D.nodes.filter(n => n.school && n.school.id === s.id).sort((a, b) => a.year - b.year);
+    const cols = Math.max(1, Math.ceil(Math.sqrt(list.length / 1.3))), rows = Math.ceil(list.length / cols);
+    return { s, list, cols, rows, w: Math.max(cols * (CW + GX) - GX, 260), h: LAB + rows * (CH + GY) - GY };
+  }).filter(b => b.list.length);
+  // shelf-pack the families into rows, choosing the row width that gives the most screen-like shape
+  const pack = limit => { let x = 0, y = 0, rh = 0, W = 0; const at = [];
+    blocks.forEach(b => { if (x && x + b.w > limit) { x = 0; y += rh + BY; rh = 0; } at.push([x, y]); x += b.w + BX; W = Math.max(W, x - BX); rh = Math.max(rh, b.h); });
+    return { at, W, H: y + rh }; };
+  let best = null;
+  for (let lim = Math.max(...blocks.map(b => b.w)); lim < 20000; lim += 80) {
+    const p = pack(lim), score = Math.abs(Math.log((p.W / p.H) / 1.9));
+    if (!best || score < best.score) best = { ...p, score };
+  }
+  const spos = {}; let html = '';
+  blocks.forEach((b, i) => {
+    const [bx, by] = best.at[i].map(v => v + 40);
+    html += `<div class="slab" style="left:${bx}px;top:${by}px">${esc(b.s.name)}<span>${b.list.length} points</span></div>`;
+    b.list.forEach((n, j) => { spos[n.id] = { x: bx + Math.floor(j / b.rows) * (CW + GX), y: by + LAB + (j % b.rows) * (CH + GY) }; });
+  });
+  world.insertAdjacentHTML('beforeend', html);
+  return { spos, W: best.W + 80, H: best.H + 80 };
+})();
+let schoolsOn = false, anim = 0;
+function setSchools(on, animate) {
+  schoolsOn = on; el('schools').checked = on; world.classList.toggle('schools', on);
+  localStorage.setItem('bach-map-schools', on ? '1' : '0');
+  const to = {}; D.nodes.forEach(n => to[n.id] = on ? SBLOCK.spos[n.id] : (saved[n.id] || home[n.id]));
+  const W1 = on ? SBLOCK.W : TW, H1 = on ? SBLOCK.H : TH;
+  world.style.width = Math.max(W1, WW) + 'px'; world.style.height = Math.max(H1, WH) + 'px';
+  svg.setAttribute('width', Math.max(W1, WW)); svg.setAttribute('height', Math.max(H1, WH));
+  const from = {}; D.nodes.forEach(n => from[n.id] = { ...pos[n.id] });
+  const c0 = { tx, ty, sc }; WW = W1; WH = H1; fit(); const c1 = { tx, ty, sc };
+  const draw = u => {
+    D.nodes.forEach(n => { const a = from[n.id], b = to[n.id]; pos[n.id] = { x: a.x + (b.x - a.x) * u, y: a.y + (b.y - a.y) * u }; place(n.id); });
+    EDGES.forEach(e => e.el.setAttribute('d', pathFor(e)));
+    sc = c0.sc * Math.pow(c1.sc / c0.sc, u); tx = c0.tx + (c1.tx - c0.tx) * u; ty = c0.ty + (c1.ty - c0.ty) * u; apply();
+  };
+  const done = () => { world.style.width = WW + 'px'; world.style.height = WH + 'px'; svg.setAttribute('width', WW); svg.setAttribute('height', WH); };
+  cancelAnimationFrame(anim);
+  if (!animate || matchMedia('(prefers-reduced-motion: reduce)').matches) { draw(1); done(); return; }
+  const t0 = performance.now(), ease = u => u < .5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2;
+  const step = now => { const u = Math.min(1, (now - t0) / 900); draw(ease(u)); if (u < 1) anim = requestAnimationFrame(step); else done(); };
+  anim = requestAnimationFrame(step);
+}
+el('schools').onchange = e => setSchools(e.target.checked, true);
 setStrict(strict);
 el('tobach').onclick = () => { select('cimc'); centerOn('cimc', 0.7); };
-el('reset').onclick = () => { saved = {}; localStorage.removeItem(PKEY); D.nodes.forEach(n => { pos[n.id] = { ...home[n.id] }; place(n.id); }); EDGES.forEach(e => e.el.setAttribute('d', pathFor(e))); };
+el('reset').onclick = () => { saved = {}; localStorage.removeItem(PKEY); D.nodes.forEach(n => { pos[n.id] = { ...(schoolsOn ? SBLOCK.spos : home)[n.id] }; place(n.id); }); EDGES.forEach(e => e.el.setAttribute('d', pathFor(e))); };
 
 // ---- the detail panel's width can be dragged from its left edge; the width is remembered
 (function () {
@@ -468,6 +519,7 @@ el('reset').onclick = () => { saved = {}; localStorage.removeItem(PKEY); D.nodes
   show();
 })();
 start();
+if (localStorage.getItem('bach-map-schools') === '1') setSchools(true, false);
 </script>
 </body>
 </html>

@@ -1,0 +1,82 @@
+[
+ {
+  "id": "religion",
+  "name": "religion and contemplative traditions",
+  "covers": "myths, religions, gods, meditation and mystical practice, as ways of understanding mind and self"
+ },
+ {
+  "id": "rationalism",
+  "name": "rationalism and idealism",
+  "covers": "reason, ideas or mind as primary: forms, innate ideas, monads, the mind's structuring of experience, phenomenology"
+ },
+ {
+  "id": "materialism",
+  "name": "materialism and mechanism",
+  "covers": "mind as matter or machine: atomism, mechanism, physicalism, epiphenomenalism, empiricism about the mind"
+ },
+ {
+  "id": "logic",
+  "name": "logic and the foundations of mathematics",
+  "covers": "formal systems, set theory, incompleteness, constructivism, the limits of proof"
+ },
+ {
+  "id": "computation",
+  "name": "computation, information and digital physics",
+  "covers": "computability, computers, information theory, cellular automata, the universe as computation, simulation, quantum computing"
+ },
+ {
+  "id": "systems",
+  "name": "cybernetics, systems and self-organisation",
+  "covers": "feedback and control, complexity, emergence, self-organisation, autopoiesis, morphogenesis, the free energy principle"
+ },
+ {
+  "id": "symbolic",
+  "name": "symbolic AI and cognitive architectures",
+  "covers": "AI built from symbols, rules and modules: the founding of AI, expert systems, cognitive architectures, the society of mind"
+ },
+ {
+  "id": "learning",
+  "name": "neural networks and machine learning",
+  "covers": "learning machines: neurons as units, connectionism, deep learning, reinforcement learning, large language models, induction"
+ },
+ {
+  "id": "functionalism",
+  "name": "functionalism and computational theories of mind",
+  "covers": "mind defined by what it does: functionalism, computational theory of mind, self-model theories, illusionism, strange loops"
+ },
+ {
+  "id": "sceptics",
+  "name": "the hard problem and sceptics of machine minds",
+  "covers": "arguments that experience resists explanation or computation: the hard problem, qualia, the Chinese room, Penrose, IIT, biological naturalism, panpsychism, mysterianism"
+ },
+ {
+  "id": "science",
+  "name": "scientific theories of consciousness",
+  "covers": "empirical models of consciousness: global workspace, higher-order theories, attention schema, neural correlates, predictive processing, binding, readiness potentials"
+ },
+ {
+  "id": "life",
+  "name": "evolution, biology and life",
+  "covers": "evolution, genes and memes, multilevel selection, living systems, collective intelligence of cells and organisms"
+ },
+ {
+  "id": "psychology",
+  "name": "psychology and development",
+  "covers": "psychology as a science and its schools: introspection, psychoanalysis, behaviourism, motivation, developmental stages"
+ },
+ {
+  "id": "ethics",
+  "name": "ethics, society and AI risk",
+  "covers": "morality, society, politics, alignment, the singularity and the risks of AI"
+ },
+ {
+  "id": "fiction",
+  "name": "fiction",
+  "covers": "novels, films and stories about minds and machines"
+ },
+ {
+  "id": "bach",
+  "name": "joscha bach and CIMC",
+  "covers": "joscha bach himself and his institute; use only for the cards bach and cimc"
+ }
+]

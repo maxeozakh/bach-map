@@ -1,0 +1,678 @@
+{
+ "animism": {
+  "school": "religion",
+  "alt": null
+ },
+ "greekgods": {
+  "school": "religion",
+  "alt": null
+ },
+ "genesis": {
+  "school": "religion",
+  "alt": null
+ },
+ "pythagoras": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "logos": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "buddhism": {
+  "school": "religion",
+  "alt": null
+ },
+ "plato": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "aristotle": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "stoicism": {
+  "school": "ethics",
+  "alt": null
+ },
+ "christianity": {
+  "school": "religion",
+  "alt": null
+ },
+ "aquinas": {
+  "school": "religion",
+  "alt": null
+ },
+ "golem": {
+  "school": "religion",
+  "alt": "fiction"
+ },
+ "descartes": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "occasionalism": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "empiricism": {
+  "school": "materialism",
+  "alt": null
+ },
+ "idealism": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "leibniz": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "lamettrie": {
+  "school": "materialism",
+  "alt": null
+ },
+ "enlightenment": {
+  "school": "rationalism",
+  "alt": "ethics"
+ },
+ "kant": {
+  "school": "ethics",
+  "alt": "rationalism"
+ },
+ "utilitarianism": {
+  "school": "ethics",
+  "alt": null
+ },
+ "hegel": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "celltheory": {
+  "school": "life",
+  "alt": null
+ },
+ "darwin": {
+  "school": "life",
+  "alt": null
+ },
+ "dubois": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "cantor": {
+  "school": "logic",
+  "alt": null
+ },
+ "epiphenomenalism": {
+  "school": "materialism",
+  "alt": null
+ },
+ "brentano": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "emergence": {
+  "school": "systems",
+  "alt": null
+ },
+ "wundt": {
+  "school": "psychology",
+  "alt": null
+ },
+ "frege": {
+  "school": "logic",
+  "alt": null
+ },
+ "peano": {
+  "school": "logic",
+  "alt": null
+ },
+ "james": {
+  "school": "psychology",
+  "alt": null
+ },
+ "brouwer": {
+  "school": "logic",
+  "alt": null
+ },
+ "russell": {
+  "school": "logic",
+  "alt": null
+ },
+ "husserl": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "hilbert": {
+  "school": "logic",
+  "alt": null
+ },
+ "wittgenstein": {
+  "school": "logic",
+  "alt": null
+ },
+ "freud": {
+  "school": "psychology",
+  "alt": null
+ },
+ "qualia": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "goedel": {
+  "school": "logic",
+  "alt": null
+ },
+ "tarski": {
+  "school": "logic",
+  "alt": null
+ },
+ "turing": {
+  "school": "computation",
+  "alt": null
+ },
+ "lambda": {
+  "school": "computation",
+  "alt": null
+ },
+ "skinner": {
+  "school": "psychology",
+  "alt": null
+ },
+ "maslow": {
+  "school": "psychology",
+  "alt": null
+ },
+ "mcculloch": {
+  "school": "learning",
+  "alt": null
+ },
+ "schroedinger": {
+  "school": "life",
+  "alt": null
+ },
+ "vonneumann": {
+  "school": "computation",
+  "alt": null
+ },
+ "shannon": {
+  "school": "computation",
+  "alt": null
+ },
+ "cybernetics": {
+  "school": "systems",
+  "alt": null
+ },
+ "physicalism": {
+  "school": "materialism",
+  "alt": null
+ },
+ "morpho": {
+  "school": "systems",
+  "alt": null
+ },
+ "piaget": {
+  "school": "psychology",
+  "alt": null
+ },
+ "huxley": {
+  "school": "religion",
+  "alt": null
+ },
+ "dartmouth": {
+  "school": "symbolic",
+  "alt": null
+ },
+ "mountcastle": {
+  "school": "science",
+  "alt": null
+ },
+ "everett": {
+  "school": "computation",
+  "alt": "rationalism"
+ },
+ "minsky": {
+  "school": "symbolic",
+  "alt": null
+ },
+ "chomsky": {
+  "school": "symbolic",
+  "alt": null
+ },
+ "selfridge": {
+  "school": "symbolic",
+  "alt": "learning"
+ },
+ "functionalism": {
+  "school": "functionalism",
+  "alt": null
+ },
+ "lem": {
+  "school": "fiction",
+  "alt": null
+ },
+ "solomonoff": {
+  "school": "learning",
+  "alt": null
+ },
+ "ivakhnenko": {
+  "school": "learning",
+  "alt": null
+ },
+ "symbolic": {
+  "school": "symbolic",
+  "alt": null
+ },
+ "eliza": {
+  "school": "symbolic",
+  "alt": null
+ },
+ "leary": {
+  "school": "psychology",
+  "alt": "religion"
+ },
+ "digital": {
+  "school": "computation",
+  "alt": null
+ },
+ "conway": {
+  "school": "computation",
+  "alt": null
+ },
+ "mirror": {
+  "school": "psychology",
+  "alt": null
+ },
+ "pribram": {
+  "school": "science",
+  "alt": null
+ },
+ "dreyfus": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "gaia": {
+  "school": "systems",
+  "alt": "life"
+ },
+ "nagel": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "fodor": {
+  "school": "functionalism",
+  "alt": "symbolic"
+ },
+ "grossberg": {
+  "school": "learning",
+  "alt": null
+ },
+ "dawkins": {
+  "school": "life",
+  "alt": null
+ },
+ "jaynes": {
+  "school": "psychology",
+  "alt": null
+ },
+ "schank": {
+  "school": "symbolic",
+  "alt": null
+ },
+ "sloman": {
+  "school": "symbolic",
+  "alt": null
+ },
+ "hofstadter": {
+  "school": "functionalism",
+  "alt": null
+ },
+ "lucid": {
+  "school": "science",
+  "alt": null
+ },
+ "thatcher": {
+  "school": "psychology",
+  "alt": null
+ },
+ "searle": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "mandelbrot": {
+  "school": "systems",
+  "alt": null
+ },
+ "binding": {
+  "school": "science",
+  "alt": null
+ },
+ "kegan": {
+  "school": "psychology",
+  "alt": null
+ },
+ "quantumcomp": {
+  "school": "computation",
+  "alt": null
+ },
+ "streams": {
+  "school": "science",
+  "alt": null
+ },
+ "libet": {
+  "school": "science",
+  "alt": null
+ },
+ "levine": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "braitenberg": {
+  "school": "systems",
+  "alt": null
+ },
+ "cyc": {
+  "school": "symbolic",
+  "alt": null
+ },
+ "boltzmannmachine": {
+  "school": "learning",
+  "alt": null
+ },
+ "bischof": {
+  "school": "psychology",
+  "alt": "systems"
+ },
+ "sicp": {
+  "school": "computation",
+  "alt": null
+ },
+ "autopoiesis": {
+  "school": "systems",
+  "alt": null
+ },
+ "pdp": {
+  "school": "learning",
+  "alt": null
+ },
+ "hot": {
+  "school": "science",
+  "alt": null
+ },
+ "brooks": {
+  "school": "systems",
+  "alt": null
+ },
+ "cogarch": {
+  "school": "symbolic",
+  "alt": null
+ },
+ "edelman": {
+  "school": "science",
+  "alt": "learning"
+ },
+ "gwt": {
+  "school": "science",
+  "alt": null
+ },
+ "occ": {
+  "school": "psychology",
+  "alt": "symbolic"
+ },
+ "mysterianism": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "penrose": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "ncc": {
+  "school": "science",
+  "alt": null
+ },
+ "witten": {
+  "school": "computation",
+  "alt": null
+ },
+ "wheeler": {
+  "school": "computation",
+  "alt": null
+ },
+ "schmidhuber": {
+  "school": "learning",
+  "alt": null
+ },
+ "harnad": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "dennett": {
+  "school": "functionalism",
+  "alt": null
+ },
+ "embodied": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "singularity": {
+  "school": "ethics",
+  "alt": null
+ },
+ "damasio": {
+  "school": "science",
+  "alt": null
+ },
+ "egan": {
+  "school": "fiction",
+  "alt": null
+ },
+ "groupsel": {
+  "school": "life",
+  "alt": null
+ },
+ "chalmers": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "pearce": {
+  "school": "ethics",
+  "alt": null
+ },
+ "block": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "doerner": {
+  "school": "symbolic",
+  "alt": null
+ },
+ "hypercomputation": {
+  "school": "computation",
+  "alt": null
+ },
+ "matrix": {
+  "school": "fiction",
+  "alt": null
+ },
+ "agi": {
+  "school": "symbolic",
+  "alt": null
+ },
+ "wolfram": {
+  "school": "computation",
+  "alt": null
+ },
+ "airisk": {
+  "school": "ethics",
+  "alt": null
+ },
+ "simulation": {
+  "school": "computation",
+  "alt": null
+ },
+ "metzinger": {
+  "school": "functionalism",
+  "alt": null
+ },
+ "iit": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "hawkins": {
+  "school": "learning",
+  "alt": "science"
+ },
+ "drescher": {
+  "school": "materialism",
+  "alt": null
+ },
+ "panpsychism": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "watts": {
+  "school": "fiction",
+  "alt": null
+ },
+ "friston": {
+  "school": "systems",
+  "alt": null
+ },
+ "haidt": {
+  "school": "psychology",
+  "alt": null
+ },
+ "chiang": {
+  "school": "fiction",
+  "alt": null
+ },
+ "kahneman": {
+  "school": "psychology",
+  "alt": null
+ },
+ "fields": {
+  "school": "systems",
+  "alt": "computation"
+ },
+ "deutsch": {
+  "school": "computation",
+  "alt": null
+ },
+ "deeplearning": {
+  "school": "learning",
+  "alt": null
+ },
+ "vervaeke": {
+  "school": "psychology",
+  "alt": "religion"
+ },
+ "ast": {
+  "school": "science",
+  "alt": null
+ },
+ "ackley": {
+  "school": "computation",
+  "alt": null
+ },
+ "her": {
+  "school": "fiction",
+  "alt": null
+ },
+ "exmachina": {
+  "school": "fiction",
+  "alt": null
+ },
+ "tegmark": {
+  "school": "computation",
+  "alt": "rationalism"
+ },
+ "aaronson": {
+  "school": "computation",
+  "alt": null
+ },
+ "hoffman": {
+  "school": "rationalism",
+  "alt": null
+ },
+ "thooft": {
+  "school": "computation",
+  "alt": null
+ },
+ "illusionism": {
+  "school": "functionalism",
+  "alt": null
+ },
+ "westworld": {
+  "school": "fiction",
+  "alt": null
+ },
+ "bengio": {
+  "school": "learning",
+  "alt": "science"
+ },
+ "bach": {
+  "school": "bach",
+  "alt": null
+ },
+ "llm": {
+  "school": "learning",
+  "alt": null
+ },
+ "chollet": {
+  "school": "learning",
+  "alt": null
+ },
+ "levin": {
+  "school": "life",
+  "alt": null
+ },
+ "bitter": {
+  "school": "learning",
+  "alt": null
+ },
+ "metazoa": {
+  "school": "life",
+  "alt": null
+ },
+ "nca": {
+  "school": "systems",
+  "alt": "learning"
+ },
+ "olah": {
+  "school": "learning",
+  "alt": null
+ },
+ "seth": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "marcus": {
+  "school": "symbolic",
+  "alt": "learning"
+ },
+ "thagard": {
+  "school": "sceptics",
+  "alt": null
+ },
+ "butlin": {
+  "school": "science",
+  "alt": null
+ },
+ "chirimuuta": {
+  "school": "sceptics",
+  "alt": "science"
+ },
+ "shanahan": {
+  "school": "learning",
+  "alt": "functionalism"
+ },
+ "cimc": {
+  "school": "bach",
+  "alt": null
+ },
+ "lerchner": {
+  "school": "sceptics",
+  "alt": null
+ }
+}
