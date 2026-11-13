@@ -4,7 +4,7 @@
 (() => {
   const W = innerWidth, H = innerHeight;
   // the shots were laid out for a 1280x720 page; X, Y and Z scale them to the real viewport, K to the film's length
-  const X = W / 1280, Y = H / 720, Z = X, K = 19.8 / 29.9;
+  const X = W / 1280, Y = H / 720, Z = X, K = 19.9 / 36;
   const clamp = u => u < 0 ? 0 : u > 1 ? 1 : u;
   const seg = (t, a, b) => clamp((t - a) / (b - a));
   const ease = u => { u = clamp(u); return u < .5 ? 4 * u * u * u : 1 - Math.pow(-2 * u + 2, 3) / 2; };   // in and out
@@ -22,6 +22,8 @@
     #fcur { position: fixed; left: 0; top: 0; z-index: 100; width: 22px; height: 22px; pointer-events: none; transform-origin: 3px 2px; }
     #fring { position: fixed; left: 0; top: 0; z-index: 99; border-radius: 50%; box-shadow: inset 0 0 0 1.5px var(--text); pointer-events: none; }
     #psize { display: none !important; }
+    .slab { opacity: var(--sch, 0) !important; transition: none !important; }
+    .eralab, .lanelab, .rule, .vrule { opacity: calc(1 - var(--sch, 0)) !important; transition: none !important; }
     * { scrollbar-width: none; }
   `;
   document.head.appendChild(css);
@@ -55,6 +57,8 @@
   const FIT = fromView(W / 2, H / 2);
   const mid = r => ({ x: r.left + r.width / 2, y: r.top + r.height / 2 });
   const gHide = mid(el('hudtoggle').getBoundingClientRect());
+  const sb = el('schools').getBoundingClientRect(), gSch = { x: sb.left + sb.width / 2, y: sb.top + sb.height / 2 };
+  const htop = el('hud').offsetHeight + 24;
   hud.classList.add('closed'); el('hudtoggle').textContent = 'show controls';
   const gShow = mid(el('hudtoggle').getBoundingClientRect());
   select('turing');
@@ -73,10 +77,13 @@
   const BACH = center('bach', .82 * Z, AX, H / 2);
   // pull back until the lines into the selected card fan out across the centuries, the card kept at the right
   const PS = .3 * Z, PULL = { cx: pos.bach.x + CW / 2, cy: WH / 2 - 40, s: PS, ax: W - PW0 - 150 * X, ay: H / 2 };
+  // the same cards regrouped by school of thought, framed the way fit() frames the board under the open controls
+  const SW = SBLOCK.W, SH = SBLOCK.H, ss = Math.min(W / SW, (H - htop) / SH) * .97;
+  const SFIT = { cx: SW / 2, cy: SH / 2, s: ss, ax: W / 2, ay: htop + SH * ss / 2 };
   const k = v => Array.isArray(v) ? v.map(k) : v * K;
   const T = Object.fromEntries(Object.entries({
     hide: 3.0, toAnt: [3.4, 6.6], glide: [8.2, 12.9], clickTur: 13.8, scroll: [15.6, 16.3], clickBach: 17.1, toBach: [17.2, 20.2],
-    pull: [21.6, 24.7], close: 26.3, home: [26.3, 28.9], show: 27.5, end: 29.9,
+    pull: [21.6, 24.7], close: 26.3, show: 27.5, sch: 28.45, toSch: [28.45, 30.35], unsch: 32.9, back: [32.9, 34.8], end: 36,
   }).map(([n, v]) => [n, k(v)]));
   function camera(t) {
     if (t < T.toAnt[0]) return { ...C0, s: lerp(C0.s, C1.s, sine(t / T.toAnt[0])) };
@@ -86,18 +93,24 @@
       return { cx: lerp(ANT.cx, TUR.cx, u), cy: lerp(ANT.cy, TUR.cy, u), s: Z * (1 - .3 * Math.sin(Math.PI * u)), ax: lerp(ANT.ax, TUR.ax, u), ay: H / 2 };
     }
     if (t < T.pull[0]) return fly(TUR, BACH, ease(seg(t, ...T.toBach)));
-    if (t < T.home[0]) return fly(BACH, PULL, ease(seg(t, ...T.pull)));
-    return fly(PULL, C0, ease(seg(t, ...T.home)));
+    if (t < T.toSch[0]) return fly(BACH, PULL, ease(seg(t, ...T.pull)));
+    if (t < T.back[0]) return fly(PULL, SFIT, ease(seg(t, ...T.toSch)));
+    return fly(SFIT, C0, ease(seg(t, ...T.back)));
   }
+  // card positions between the timeline (0) and the schools layout (1)
+  function schools(t) { return t < T.back[0] ? ease(seg(t, ...T.toSch)) : 1 - ease(seg(t, ...T.back)); }
+  const WMAX = Math.max(WW, SW), HMAX = Math.max(WH, SH);
+  world.style.width = WMAX + 'px'; world.style.height = HMAX + 'px'; svg.setAttribute('width', WMAX); svg.setAttribute('height', HMAX);
+  let shownU = 0;
 
   // ---- the cursor: rests, then moves to each target in one eased, slightly curved stroke
   const REST = { x: 742 * X, y: 452 * Y }, SIDE = { x: 664 * X, y: 556 * Y };
   const tur = { x: AX + 34, y: H / 2 + 10 };
   const moves = [   // [start, end, to]
     [1.9, 2.85, gHide], [3.5, 4.5, SIDE], [12.95, 13.65, tur], [16.05, 16.9, gBach], [17.5, 18.4, { x: 560 * X, y: 540 * Y }],
-    [24.9, 25.95, gClose], [26.6, 27.35, gShow], [27.9, 29.0, REST],
+    [24.9, 25.95, gClose], [26.6, 27.35, gShow], [27.7, 28.3, gSch], [35.0, 35.9, REST],
   ].map(([a, b, to]) => [a * K, b * K, to]);
-  const clicks = [T.hide, T.clickTur, T.clickBach, T.close, T.show];
+  const clicks = [T.hide, T.clickTur, T.clickBach, T.close, T.show, T.sch, T.unsch];
   function cursor(t) {
     let p = REST;
     for (const [a, b, to] of moves) {
@@ -116,6 +129,17 @@
     t = Math.max(0, Math.min(t, T.end));
     const c = camera(t);
     sc = c.s; tx = c.ax - c.cx * c.s; ty = c.ay - c.cy * c.s; apply();
+
+    // schools of thought: the box is ticked on the first click and unticked on the second
+    el('schools').checked = t >= T.sch && t < T.unsch;
+    const u = schools(t);
+    if (u !== shownU) {
+      D.nodes.forEach(n => { const a = home[n.id], b = SBLOCK.spos[n.id]; pos[n.id] = { x: lerp(a.x, b.x, u), y: lerp(a.y, b.y, u) }; place(n.id); });
+      EDGES.forEach(e => e.el.setAttribute('d', pathFor(e)));
+      shownU = u;
+    }
+    const lab = t < T.unsch ? ease(seg(t, T.sch, T.sch + .3)) : 1 - ease(seg(t, T.unsch, T.unsch + .3));
+    root.style.setProperty('--sch', lab);
 
     // controls panel
     const closed = t >= T.hide && t < T.show;
