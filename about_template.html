@@ -30,6 +30,7 @@ body { margin: 0 auto; max-width: 720px; padding: 28px 18px 80px; font: 16px/1.5
 a { color: var(--accent); text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 1px; }
 h1 { font-size: 24px; margin: 0 0 6px; }
 h2 { font-size: 18px; margin: 34px 0 6px; }
+h3 { font-size: 16px; margin: 22px 0 6px; }
 p, li { color: var(--muted); }
 p { margin: 0 0 10px; }
 ul { margin: 0 0 10px; padding-left: 20px; }
@@ -72,8 +73,12 @@ th { font-size: 13px; }
   <li><b>connections</b>: written by claude fable 5.2 from general knowledge, not taken from the transcripts, then checked against a source as described above. which idea 'builds on' which is often a judgement call</li>
   <li><b>quotes</b>: the ones marked "verbatim" were matched against the transcripts; "paraphrase" ones are claude fable 5.2's rewording</li>
   <li><b>years</b>: approximate for older items</li>
-  <li><b>review</b>: on 13 november 2026 claude fable 5.2 re-read every summary and connection and made about 45 corrections. claude fable 5.2 and gpt 5.6 sol then independently checked every item against web sources; the second pass prompted five more summary corrections and seven connection corrections. still no person has checked any of it</li>
+  <li><b>review</b>: on 13 november 2026 claude fable 5.2 re-read every summary and connection and made about 45 corrections</li>
 </ul>
+
+<h3>cross-model verification</h3>
+<p>claude fable 5.2 and gpt 5.6 sol independently checked all 272 summaries and 226 connections against web sources. they disagreed on 46 summaries and 67 connections. the lower verdict determines the confidence shown on the map. the second pass prompted five summary corrections and seven connection corrections.</p>
+<p>after those corrections, 208 summaries are highly likely and 64 likely; 148 connections are highly likely, 37 likely and 41 possible. this is still model review, not human fact-checking.</p>
 
 <h2>starting material</h2>
 <p id="sources-note"></p>
