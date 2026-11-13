@@ -401,6 +401,17 @@ TLDR_FIX = [
     ("agi", "'Artificial general intelligence' was coined to distinguish the original goal of human-level, general AI from narrow applications.",
      "'Artificial general intelligence' was first used by Mark Gubrud in 1997 and coined again by Shane Legg around 2002, to distinguish the original goal of human-level, general AI from narrow applications."),
     ("lem", "scientists orbiting a planet", "scientists on a station above a planet"),
+    # ---- joscha bach's own ideas, checked against his own texts and transcripts, 13 november 2026
+    ("b_psi", "such as food, safety, certainty, competence and belonging,", "such as fuel and water, intactness, certainty, competence and affiliation,"),
+    ("b_recon", "so the network can check a hypothesis such as 'this is a face' by checking its parts in order", "so the network can check a hypothesis by checking its parts in order"),
+    ("b_recon", "CIMC lists it as one of its starting points for cognitive architectures.", "CIMC's current research builds on it."),
+    ("b_ethics", "The aim is to show that values can be derived from an understanding of how systems work and do not have to be taken as given. The same thought returns in his 2023 essay, where he says values must be rationally derived and are not axioms.",
+     "The aim is to ground ethics in an understanding of how systems work. In a 2023 essay he writes that values cannot be treated as axiomatic but have to be rationally derived."),
+    ("b_love", "Advanced agents, human or artificial, cannot be aligned from outside; they align themselves by trade, by force, or because they find shared purposes. So the hopeful path with AI is to build systems that can share purposes with us.",
+     "He argues that the hopeful path with AI is to build systems that find shared purposes with us."),
+    ("b_animism", "Life, minds and even cultures are such software agents competing for substrates.", "Life and minds are such software agents competing for substrates."),
+    ("b_construct", "This is his own reading; most logicians take Gödel's theorems to show limits of formal proof, not that classical mathematics is wrong.",
+     "This is his own reading; Gödel's theorems are usually read as showing limits of formal proof, not that classical mathematics is wrong."),
     ("grossberg", "a 'resonance' between the two is what becomes conscious",
      "on his account every conscious state is such a 'resonance' between the two"),
     # ---- independent cross-model check, 13 november 2026 (see research/confidence/gpt_*.json)

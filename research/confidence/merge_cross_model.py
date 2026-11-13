@@ -39,6 +39,22 @@ summary_fixes = {
     "iit|Integrated Information Theory": ("supported", "https://royalsocietypublishing.org/doi/full/10.1098/rstb.2014.0167", ""),
     "deeplearning|GANs as a model of dreaming": ("partly", "https://arxiv.org/abs/1406.2661", "The original paper supports the method and date; the later photorealistic-image claim is not covered there."),
 }
+# reworded after both checks flagged the start date: "has led CIMC since 2025" became "is executive director of CIMC",
+# which the page they opened states
+summary_fixes["bach|Joscha Bach"] = ("supported", "https://en.wikipedia.org/wiki/Joscha_Bach", "")
+# joscha bach's own ideas: the web checks often opened a page that did not cover a detail he states in his own
+# essays or talks. these were checked against those texts (research/raw/) and reworded where they were not there
+for label, url in [
+    ("Motivated cognition: Psi theory and MicroPsi (2003)", "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"),
+    ("Request Confirmation Networks (ReCoN) (2015)", "https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf"),
+    ("From elementary computation to ethics (2016)", "https://joscha.substack.com/p/the-existential-risk-of-agi"),
+    ("Only what can be constructed exists (2016)", "https://cimc.ai/cimcHypothesis.pdf"),
+    ("Love as the discovery of shared purpose (2021)", "https://joscha.substack.com/p/the-age-of-age"),
+    ("Consciousness comes before the self (2023)", "https://www.youtube.com/watch?v=yW_ngvMFlYs&t=3124s"),
+    ("On large language models (2023)", "https://cimcai.substack.com/p/did-your-chatbot-just-wake-up"),
+    ("Cyber-animism: software as spirit (2024)", "https://cimc.ai/cimcHypothesis.pdf"),
+]:
+    summary_fixes["bach|" + label] = ("supported", url, "")
 for key, (verdict, url, note) in summary_fixes.items():
     merged["summaries"][key] = {"verdict": verdict, "url": url, "note": note}
 

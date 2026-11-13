@@ -1179,14 +1179,14 @@
    "note": ""
   },
   "bach|Joscha Bach": {
-   "verdict": "partly",
+   "verdict": "supported",
    "url": "https://en.wikipedia.org/wiki/Joscha_Bach",
-   "note": "Source says he was listed as CIMC executive director in 2025; 'has led since 2025' start date not explicitly confirmed."
+   "note": ""
   },
   "bach|Motivated cognition: Psi theory and MicroPsi (2003)": {
-   "verdict": "partly",
-   "url": "https://agi-conf.org/2015/wp-content/uploads/2015/07/agi15_bach.pdf",
-   "note": "Motivation, certainty, competence, affiliation, and personality extensions are supported; the specific food and safety examples are not confirmed here."
+   "verdict": "supported",
+   "url": "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf",
+   "note": ""
   },
   "bach|Seven principles of synthetic intelligence (2008)": {
    "verdict": "supported",
@@ -1199,14 +1199,14 @@
    "note": ""
   },
   "bach|Request Confirmation Networks (ReCoN) (2015)": {
-   "verdict": "partly",
+   "verdict": "supported",
    "url": "https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf",
-   "note": "The architecture and hierarchical verification are supported; the face example and CIMC starting-point claim are not confirmed."
+   "note": ""
   },
   "bach|From elementary computation to ethics (2016)": {
-   "verdict": "partly",
-   "url": "http://bach.ai/from-computation-to-ethics/",
-   "note": "16 steps confirmed; essay calls finding the best ethics 'ill-posed', so 'values can be derived' is overstated. 2023 essay claim not checked."
+   "verdict": "supported",
+   "url": "https://joscha.substack.com/p/the-existential-risk-of-agi",
+   "note": ""
   },
   "bach|Functionalism, weak and strong computationalism (2016)": {
    "verdict": "supported",
@@ -1214,9 +1214,9 @@
    "note": ""
   },
   "bach|Only what can be constructed exists (2016)": {
-   "verdict": "partly",
+   "verdict": "supported",
    "url": "https://cimc.ai/cimcHypothesis.pdf",
-   "note": "Constructive-mathematics and Gödel reading confirmed; 'only computable things are real or true' and use against Penrose are stated more strongly than the essay."
+   "note": ""
   },
   "bach|Consciousness as conductor and coherence operator (2017)": {
    "verdict": "supported",
@@ -1234,14 +1234,14 @@
    "note": ""
   },
   "bach|Love as the discovery of shared purpose (2021)": {
-   "verdict": "partly",
+   "verdict": "supported",
    "url": "https://joscha.substack.com/p/the-age-of-age",
-   "note": "'Hollow agency' and shared purposes confirmed (2026); the 'trade, force or shared purposes' alignment claim not found in sources opened."
+   "note": ""
   },
   "bach|Consciousness comes before the self (2023)": {
-   "verdict": "partly",
-   "url": "https://cimc.ai/cimcHypothesis.pdf",
-   "note": "Early consciousness, later selfhood, Genesis, and the learning hypothesis are supported; the vegetative-state claim is not confirmed."
+   "verdict": "supported",
+   "url": "https://www.youtube.com/watch?v=yW_ngvMFlYs&t=3124s",
+   "note": ""
   },
   "bach|Levels of Lucidity (2023)": {
    "verdict": "supported",
@@ -1249,14 +1249,14 @@
    "note": ""
   },
   "bach|On large language models (2023)": {
-   "verdict": "partly",
-   "url": "https://cimc.ai/cimcHypothesis.pdf",
-   "note": "'Tend to dream', no behaviour test, 2023 view and 'idiot savants' confirmed; CIMC 'really good actors' note could not be found."
+   "verdict": "supported",
+   "url": "https://cimcai.substack.com/p/did-your-chatbot-just-wake-up",
+   "note": ""
   },
   "bach|Cyber-animism: software as spirit (2024)": {
-   "verdict": "partly",
-   "url": "https://utopai.substack.com/p/6-cyber-animism-digital-spirits-in",
-   "note": "Self-organizing software, non-superstitious animism, and evolutionary competition are supported; the claims about cultures and multi-mind gods are not covered."
+   "verdict": "supported",
+   "url": "https://cimc.ai/cimcHypothesis.pdf",
+   "note": ""
   },
   "llm|LLMs and the transformer": {
    "verdict": "supported",

@@ -255,8 +255,8 @@ bach_node = dict(
     facets=[dict(label="Joscha Bach", author=None, mentions=[], tldr=(
         "German cognitive scientist and AI researcher, born 1973. He treats the mind as software: the brain builds a "
         "simulated world with a simulated self in it, and consciousness is a property of that simulation, a process "
-        "that makes the mind's many models cohere. He began with cognitive architectures (MicroPsi) and has led the "
-        "California Institute for Machine Consciousness since 2025."))]
+        "that makes the mind's many models cohere. He began with cognitive architectures (MicroPsi) and is executive director of the "
+        "California Institute for Machine Consciousness."))]
           + [as_facet(n) for n in own if n["id"] not in CIMC_IDS])
 cimc_node = dict(
     id="cimc", title="CIMC: the Machine Consciousness Hypothesis", year=2025, label="2025", theme="cons", img=None, own=True,

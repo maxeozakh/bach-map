@@ -3513,9 +3513,9 @@ connections:
 
 2003–2026, consciousness. school of thought: functionalism and computational theories of mind. id: `bach`
 
-German cognitive scientist and AI researcher, born 1973. He treats the mind as software: the brain builds a simulated world with a simulated self in it, and consciousness is a property of that simulation, a process that makes the mind's many models cohere. He began with cognitive architectures (MicroPsi) and has led the California Institute for Machine Consciousness since 2025.
+German cognitive scientist and AI researcher, born 1973. He treats the mind as software: the brain builds a simulated world with a simulated self in it, and consciousness is a property of that simulation, a process that makes the mind's many models cohere. He began with cognitive architectures (MicroPsi) and is executive director of the California Institute for Machine Consciousness.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Joscha_Bach). Source says he was listed as CIMC executive director in 2025; 'has led since 2025' start date not explicitly confirmed.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Joscha_Bach)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Joscha_Bach)
 
@@ -3577,9 +3577,9 @@ connections:
 
 ### Motivated cognition: Psi theory and MicroPsi (2003)
 
-Bach's early work says a mind cannot be understood as a problem-solver alone. It needs built-in needs, such as food, safety, certainty, competence and belonging, that create goals, and emotions arise as changes in how the whole system processes information. He took this from Dietrich Dörner's Psi theory and built it as software called MicroPsi. Later papers extend the model of needs and connect it to personality.
+Bach's early work says a mind cannot be understood as a problem-solver alone. It needs built-in needs, such as fuel and water, intactness, certainty, competence and affiliation, that create goals, and emotions arise as changes in how the whole system processes information. He took this from Dietrich Dörner's Psi theory and built it as software called MicroPsi. Later papers extend the model of needs and connect it to personality.
 
-confidence: likely, [source](https://agi-conf.org/2015/wp-content/uploads/2015/07/agi15_bach.pdf). Motivation, certainty, competence, affiliation, and personality extensions are supported; the specific food and safety examples are not confirmed here.
+confidence: highly likely, [source](http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf)
 
 sources:
 
@@ -3618,9 +3618,9 @@ sources:
 
 ### Request Confirmation Networks (ReCoN) (2015)
 
-A design for a neural network that can run step-by-step plans. Higher units send requests down to lower units, and lower units confirm or fail, so the network can check a hypothesis such as 'this is a face' by checking its parts in order. It is meant to join symbolic, script-like control with neural learning. CIMC lists it as one of its starting points for cognitive architectures.
+A design for a neural network that can run step-by-step plans. Higher units send requests down to lower units, and lower units confirm or fail, so the network can check a hypothesis by checking its parts in order. It is meant to join symbolic, script-like control with neural learning. CIMC's current research builds on it.
 
-confidence: likely, [source](https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf). The architecture and hierarchical verification are supported; the face example and CIMC starting-point claim are not confirmed.
+confidence: highly likely, [source](https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf)
 
 sources:
 
@@ -3630,9 +3630,9 @@ sources:
 
 ### From elementary computation to ethics (2016)
 
-A 16-step sketch that starts with the universe as a reversible computation and works up through entropy, life, agency and minds to rules for living together. The aim is to show that values can be derived from an understanding of how systems work and do not have to be taken as given. The same thought returns in his 2023 essay, where he says values must be rationally derived and are not axioms.
+A 16-step sketch that starts with the universe as a reversible computation and works up through entropy, life, agency and minds to rules for living together. The aim is to ground ethics in an understanding of how systems work. In a 2023 essay he writes that values cannot be treated as axiomatic but have to be rationally derived.
 
-confidence: likely, [source](http://bach.ai/from-computation-to-ethics/). 16 steps confirmed; essay calls finding the best ethics 'ill-posed', so 'values can be derived' is overstated. 2023 essay claim not checked.
+confidence: highly likely, [source](https://joscha.substack.com/p/the-existential-risk-of-agi)
 
 sources:
 
@@ -3656,9 +3656,9 @@ sources:
 
 ### Only what can be constructed exists (2016)
 
-Bach says that something is only real, or true, if it can in principle be computed step by step. Mathematics that needs completed infinities or perfect continua cannot be carried out by any physical process, so in his view it describes nothing that exists. He reads Gödel's incompleteness result as showing this: classical mathematics breaks, constructive mathematics is what is left, and constructive mathematics is the same thing as computation. This is his own reading; most logicians take Gödel's theorems to show limits of formal proof, not that classical mathematics is wrong. He uses it against Penrose's argument that human minds do something computers cannot.
+Bach says that something is only real, or true, if it can in principle be computed step by step. Mathematics that needs completed infinities or perfect continua cannot be carried out by any physical process, so in his view it describes nothing that exists. He reads Gödel's incompleteness result as showing this: classical mathematics breaks, constructive mathematics is what is left, and constructive mathematics is the same thing as computation. This is his own reading; Gödel's theorems are usually read as showing limits of formal proof, not that classical mathematics is wrong. He uses it against Penrose's argument that human minds do something computers cannot.
 
-confidence: likely, [source](https://cimc.ai/cimcHypothesis.pdf). Constructive-mathematics and Gödel reading confirmed; 'only computable things are real or true' and use against Penrose are stated more strongly than the essay.
+confidence: highly likely, [source](https://cimc.ai/cimcHypothesis.pdf)
 
 sources:
 
@@ -3718,9 +3718,9 @@ sources:
 
 ### Love as the discovery of shared purpose (2021)
 
-Bach defines love as finding that you and another serve the same purpose above yourselves, which lets you deal with each other without bargaining. He applies this to AI. Advanced agents, human or artificial, cannot be aligned from outside; they align themselves by trade, by force, or because they find shared purposes. So the hopeful path with AI is to build systems that can share purposes with us. In 2026 he calls intelligence without this 'hollow agency'.
+Bach defines love as finding that you and another serve the same purpose above yourselves, which lets you deal with each other without bargaining. He applies this to AI. He argues that the hopeful path with AI is to build systems that find shared purposes with us. In 2026 he calls intelligence without this 'hollow agency'.
 
-confidence: likely, [source](https://joscha.substack.com/p/the-age-of-age). 'Hollow agency' and shared purposes confirmed (2026); the 'trade, force or shared purposes' alignment claim not found in sources opened.
+confidence: highly likely, [source](https://joscha.substack.com/p/the-age-of-age)
 
 sources:
 
@@ -3733,7 +3733,7 @@ sources:
 
 The usual picture is that brains first become complex and then consciousness appears at the top. Bach turns this around: consciousness is there at the start and is what trains the mind. Babies are conscious before they have a self, language or reasoning, and no human leaves the vegetative state without it. He reads the first chapter of the Bible as an old description of this boot-up: first a spirit over the substrate, then light and dark, world and ideas, and only at the end a person. From this CIMC derives its 'Human Consciousness Hypothesis', that consciousness is the simplest learning algorithm evolution could find for a self-organising brain.
 
-confidence: likely, [source](https://cimc.ai/cimcHypothesis.pdf). Early consciousness, later selfhood, Genesis, and the learning hypothesis are supported; the vegetative-state claim is not confirmed.
+confidence: highly likely, [source](https://www.youtube.com/watch?v=yW_ngvMFlYs&t=3124s)
 
 sources:
 
@@ -3761,7 +3761,7 @@ sources:
 
 Bach does not say current language models are conscious, and does not rule it out either. His stated view in 2023 is that if such a model is conscious, it is not in the way humans are, because it imitates text written by conscious people. CIMC's public note says chatbots are 'really good actors' that can play a conscious character, and that producing text about an experience is not having it. The 2025 essay says LLM agents 'tend to dream', meaning they do not separate perception from imagination. In 2026 he calls today's systems 'artificial idiot savants'. He and Sorensen also argue that no behaviour test can decide the matter.
 
-confidence: likely, [source](https://cimc.ai/cimcHypothesis.pdf). 'Tend to dream', no behaviour test, 2023 view and 'idiot savants' confirmed; CIMC 'really good actors' note could not be found.
+confidence: highly likely, [source](https://cimcai.substack.com/p/did-your-chatbot-just-wake-up)
 
 sources:
 
@@ -3774,9 +3774,9 @@ sources:
 
 ### Cyber-animism: software as spirit (2024)
 
-Old cultures spoke of spirits that animate living things. Bach says this was a reasonable description of something real: self-organising software. A spirit is a pattern of control that runs on cells in the way a program runs on a computer, and it can be described without reference to the particular matter. Life, minds and even cultures are such software agents competing for substrates. He presents this as a metaphysical stance and says it is not superstition; in the essay, selves that span many minds are called gods.
+Old cultures spoke of spirits that animate living things. Bach says this was a reasonable description of something real: self-organising software. A spirit is a pattern of control that runs on cells in the way a program runs on a computer, and it can be described without reference to the particular matter. Life and minds are such software agents competing for substrates. He presents this as a metaphysical stance and says it is not superstition; in the essay, selves that span many minds are called gods.
 
-confidence: likely, [source](https://utopai.substack.com/p/6-cyber-animism-digital-spirits-in). Self-organizing software, non-superstitious animism, and evolutionary competition are supported; the claims about cultures and multi-mind gods are not covered.
+confidence: highly likely, [source](https://cimc.ai/cimcHypothesis.pdf)
 
 sources:
 
