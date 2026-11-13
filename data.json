@@ -9187,7 +9187,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "Bach's early work says a mind cannot be understood as a problem-solver alone. It needs built-in needs, such as food, safety, certainty, competence and belonging, that create goals, and emotions arise as changes in how the whole system processes information. He took this from Dietrich Dörner's Psi theory and built it as software called MicroPsi. Later papers extend the model of needs and connect it to personality.",
+     "tldr": "Bach's early work says a mind cannot be understood as a problem-solver alone. It needs built-in needs, such as fuel and water, intactness, certainty, competence and affiliation, that create goals, and emotions arise as changes in how the whole system processes information. He took this from Dietrich Dörner's Psi theory and built it as software called MicroPsi. Later papers extend the model of needs and connect it to personality.",
      "take": "",
      "mentions": [
       {
@@ -10864,7 +10864,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "A design for a neural network that can run step-by-step plans. Higher units send requests down to lower units, and lower units confirm or fail, so the network can check a hypothesis such as 'this is a face' by checking its parts in order. It is meant to join symbolic, script-like control with neural learning. CIMC lists it as one of its starting points for cognitive architectures.",
+     "tldr": "A design for a neural network that can run step-by-step plans. Higher units send requests down to lower units, and lower units confirm or fail, so the network can check a hypothesis by checking its parts in order. It is meant to join symbolic, script-like control with neural learning. CIMC's current research builds on it.",
      "take": "",
      "mentions": [
       {
@@ -11094,7 +11094,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "A 16-step sketch that starts with the universe as a reversible computation and works up through entropy, life, agency and minds to rules for living together. The aim is to show that values can be derived from an understanding of how systems work and do not have to be taken as given. The same thought returns in his 2023 essay, where he says values must be rationally derived and are not axioms.",
+     "tldr": "A 16-step sketch that starts with the universe as a reversible computation and works up through entropy, life, agency and minds to rules for living together. The aim is to ground ethics in an understanding of how systems work. In a 2023 essay he writes that values cannot be treated as axiomatic but have to be rationally derived.",
      "take": "",
      "mentions": [
       {
@@ -11194,7 +11194,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "Bach says that something is only real, or true, if it can in principle be computed step by step. Mathematics that needs completed infinities or perfect continua cannot be carried out by any physical process, so in his view it describes nothing that exists. He reads Gödel's incompleteness result as showing this: classical mathematics breaks, constructive mathematics is what is left, and constructive mathematics is the same thing as computation. This is his own reading; most logicians take Gödel's theorems to show limits of formal proof, not that classical mathematics is wrong. He uses it against Penrose's argument that human minds do something computers cannot.",
+     "tldr": "Bach says that something is only real, or true, if it can in principle be computed step by step. Mathematics that needs completed infinities or perfect continua cannot be carried out by any physical process, so in his view it describes nothing that exists. He reads Gödel's incompleteness result as showing this: classical mathematics breaks, constructive mathematics is what is left, and constructive mathematics is the same thing as computation. This is his own reading; Gödel's theorems are usually read as showing limits of formal proof, not that classical mathematics is wrong. He uses it against Penrose's argument that human minds do something computers cannot.",
      "take": "",
      "mentions": [
       {
@@ -12220,7 +12220,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "Bach defines love as finding that you and another serve the same purpose above yourselves, which lets you deal with each other without bargaining. He applies this to AI. Advanced agents, human or artificial, cannot be aligned from outside; they align themselves by trade, by force, or because they find shared purposes. So the hopeful path with AI is to build systems that can share purposes with us. In 2026 he calls intelligence without this 'hollow agency'.",
+     "tldr": "Bach defines love as finding that you and another serve the same purpose above yourselves, which lets you deal with each other without bargaining. He applies this to AI. He argues that the hopeful path with AI is to build systems that find shared purposes with us. In 2026 he calls intelligence without this 'hollow agency'.",
      "take": "",
      "mentions": [
       {
@@ -12812,7 +12812,7 @@
    "facets": [
     {
      "label": null,
-     "tldr": "Old cultures spoke of spirits that animate living things. Bach says this was a reasonable description of something real: self-organising software. A spirit is a pattern of control that runs on cells in the way a program runs on a computer, and it can be described without reference to the particular matter. Life, minds and even cultures are such software agents competing for substrates. He presents this as a metaphysical stance and says it is not superstition; in the essay, selves that span many minds are called gods.",
+     "tldr": "Old cultures spoke of spirits that animate living things. Bach says this was a reasonable description of something real: self-organising software. A spirit is a pattern of control that runs on cells in the way a program runs on a computer, and it can be described without reference to the particular matter. Life and minds are such software agents competing for substrates. He presents this as a metaphysical stance and says it is not superstition; in the essay, selves that span many minds are called gods.",
      "take": "",
      "mentions": [
       {

@@ -1,0 +1,472 @@
+[
+ {
+  "key": "animism>greekgods",
+  "action": "changed",
+  "kind": "related",
+  "note": "greek religion kept animist elements beside its pantheon of gods",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Animism"
+  ],
+  "why": "Page says Greek and other pagan religions had animist roots and kept them alongside pantheons; no spirits-to-gods sequence stated."
+ },
+ {
+  "key": "animism>aristotle",
+  "action": "changed",
+  "kind": "related",
+  "note": "bach reads aristotle's soul, the form animating a body, as animist",
+  "urls": [
+   "https://cimc.ai/cimcHypothesis.pdf"
+  ],
+  "why": "Bach and Sorensen's essay says Aristotelianism may be understood as animist; no source shows Aristotle building on prehistoric animism."
+ },
+ {
+  "key": "pythagoras>plato",
+  "action": "sourced",
+  "kind": "related",
+  "note": "a disputed Pythagorean influence on Plato's metaphysics and mathematics",
+  "urls": [
+   "https://plato.stanford.edu/entries/pythagoreanism/"
+  ],
+  "why": "SEP 3.7: wide disagreement; influence on Plato's late theory of principles and mathematical cosmology, but narrower than often assumed."
+ },
+ {
+  "key": "logos>stoicism",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "the stoics made logos the rational order of the cosmos",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Heraclitus",
+   "https://en.wikipedia.org/wiki/Logos"
+  ],
+  "why": "Stoics held their tenets derived from Heraclitus, especially the logos, as rational law governing the universe."
+ },
+ {
+  "key": "christianity>descartes",
+  "action": "changed",
+  "kind": "builds",
+  "note": "descartes set out to prove the soul immaterial, as the church asked of christian philosophers",
+  "urls": [
+   "https://plato.stanford.edu/entries/arnauld/",
+   "https://plato.stanford.edu/entries/dualism/"
+  ],
+  "why": "SEP: Descartes cites the Lateran Council's injunction to prove the soul's immateriality; Christian thinkers had adopted Platonic dualism."
+ },
+ {
+  "key": "descartes>lamettrie",
+  "action": "sourced",
+  "kind": "against",
+  "note": "la mettrie extends descartes' animal-machine to humans and drops the soul",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Man_a_Machine"
+  ],
+  "why": "Page says La Mettrie extends Descartes' animal-automaton argument to humans and denies a soul separate from matter."
+ },
+ {
+  "key": "leibniz>kant",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "the rationalist side kant tries to reconcile",
+  "urls": [
+   "https://plato.stanford.edu/entries/kant-leibniz/"
+  ],
+  "why": "SEP gives the conventional view: Kant steering between Leibnizian-Wolffian rationalism and Hume's empiricism."
+ },
+ {
+  "key": "enlightenment>utilitarianism",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "ethics as calculation",
+  "urls": [
+   "https://plato.stanford.edu/entries/bentham/"
+  ],
+  "why": "SEP: Bentham consciously allied himself with the Enlightenment and its thinkers; describes his felicific calculus of pains and pleasures."
+ },
+ {
+  "key": "celltheory>levin",
+  "action": "dropped",
+  "kind": "builds",
+  "note": "cells as agents that cooperate to build bodies",
+  "urls": [],
+  "why": "Levin's 2019 paper does not mention cell theory; no source found tying his cell-agency work to it."
+ },
+ {
+  "key": "dubois>mysterianism",
+  "action": "changed",
+  "kind": "related",
+  "note": "the ignorabimus is seen as anticipating mysterianism, though the two views differ",
+  "urls": [
+   "https://www.cambridge.org/core/journals/science-in-context/article/reconsidering-the-ignorabimus-du-boisreymond-and-the-hard-problem-of-consciousness/8C19E49A253DD5011482AD4252FF563D",
+   "https://link.springer.com/article/10.1007/s11212-026-09869-4"
+  ],
+  "why": "One paper says it anticipates McGinn's mysterianism; another says they cannot be assimilated and McGinn's own sources were Huxley and Locke."
+ },
+ {
+  "key": "wundt>james",
+  "action": "sourced",
+  "kind": "related",
+  "note": "psychology becomes a laboratory science",
+  "urls": [
+   "https://psychclassics.yorku.ca/Special/Institutions/labsintro.htm"
+  ],
+  "why": "Page discusses James's 1874 demonstration laboratory and Wundt's 1879 Leipzig research laboratory together as psychology's first labs."
+ },
+ {
+  "key": "wundt>skinner",
+  "action": "changed",
+  "kind": "against",
+  "note": "watson's behaviorism rejected introspective methods; skinner's later treated introspection as behaviour",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Behaviorism",
+   "https://en.wikipedia.org/wiki/Introspection"
+  ],
+  "why": "Pages: Watson rejected introspection for observable behaviour; Skinner's radical behaviorism accepts introspection as behaviour; Wundt brought introspection into experimental psychology."
+ },
+ {
+  "key": "frege>wittgenstein",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "logic as the form of language",
+  "urls": [
+   "https://plato.stanford.edu/entries/wittgenstein/"
+  ],
+  "why": "SEP: the Tractatus evolved as a continuation of and reaction to Russell and Frege's conceptions of logic and language."
+ },
+ {
+  "key": "frege>tarski",
+  "action": "changed",
+  "kind": "related",
+  "note": "frege's semantics for his formal language anticipates tarski's theory of truth",
+  "urls": [
+   "https://jhaponline.org/jhap/article/download/3970/3666",
+   "https://rkheck.frege.org/pdf/unpublished/TruthInFrege.pdf"
+  ],
+  "why": "Both papers call Frege's semantic theory similar to Tarski's truth theories, Frege the 'grandfather'; neither says Tarski drew on it."
+ },
+ {
+  "key": "lambda>sicp",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "lisp and scheme",
+  "urls": [
+   "https://sarabander.github.io/sicp/html/1_002e3.xhtml"
+  ],
+  "why": "SICP itself says Lisp's lambda notation is adopted from Church's lambda calculus."
+ },
+ {
+  "key": "turing>vonneumann",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "the stored-program computer",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Von_Neumann_architecture"
+  ],
+  "why": "Page quotes Frankel: von Neumann firmly emphasised that the fundamental conception of the stored-program computer is owing to Turing."
+ },
+ {
+  "key": "turing>dartmouth",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "'can machines think?'",
+  "urls": [
+   "https://ai100.stanford.edu/reports/2016-report/appendix-i-short-history-ai"
+  ],
+  "why": "Stanford history: Turing's 1950 essay explored many ingredients of AI before the 1956 Dartmouth workshop named the field."
+ },
+ {
+  "key": "shannon>solomonoff",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "information and compression as a theory of induction",
+  "urls": [
+   "https://raysolomonoff.com/publications/barc97.pdf"
+  ],
+  "why": "Solomonoff writes that Shannon's papers had a profound effect on his ideas about induction, linking information and probability."
+ },
+ {
+  "key": "solomonoff>schmidhuber",
+  "action": "changed",
+  "kind": "builds",
+  "note": "schmidhuber generalises solomonoff's algorithmic probability and universal prediction",
+  "urls": [
+   "https://people.idsia.ch/~juergen/kolmogorov.html"
+  ],
+  "why": "Schmidhuber's page presents generalised Kolmogorov complexity with consequences for Solomonoff's theory; it does not phrase this as learning as compression."
+ },
+ {
+  "key": "shannon>witten",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "prediction and compression",
+  "urls": [
+   "https://doi.org/10.1145/76894.76896"
+  ],
+  "why": "Bell, Witten and Cleary ground text compression in Shannon's source coding theorem and his prediction experiments on English."
+ },
+ {
+  "key": "vonneumann>ackley",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "reliable computing from unreliable parts",
+  "urls": [
+   "https://cacm.acm.org/opinion/beyond-efficiency/"
+  ],
+  "why": "Ackley cites von Neumann's 1948 prediction of computing in which all operations tolerate faults, and argues for it."
+ },
+ {
+  "key": "conway>wolfram",
+  "action": "changed",
+  "kind": "related",
+  "note": "wolfram cites life as a universal 2d cellular automaton, but calls it recreation, not science",
+  "urls": [
+   "https://files.wolframcdn.com/pub/www.stephenwolfram.com/pdf/cellular-automata-models-complexity.pdf",
+   "https://www.wolframscience.com/reference/notes/876b/"
+  ],
+  "why": "Wolfram's 1982 paper cites Life as an example; his history note says almost no systematic science came from it."
+ },
+ {
+  "key": "vonneumann>digital",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "the universe as a cellular automaton",
+  "urls": [
+   "https://people.idsia.ch/~juergen/digitalphysics.html"
+  ],
+  "why": "Zuse proposed the universe is computed on a cellular automaton and cited von Neumann's book on self-reproducing automata."
+ },
+ {
+  "key": "digital>simulation",
+  "action": "changed",
+  "kind": "related",
+  "note": "overlapping but distinct: a computational universe need not be one run by someone",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Digital_physics"
+  ],
+  "why": "Page says digital physics overlaps with but is distinct from the simulation hypothesis; it does not say one implies the other."
+ },
+ {
+  "key": "digital>wheeler",
+  "action": "sourced",
+  "kind": "related",
+  "note": "information as more basic than matter",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Digital_physics"
+  ],
+  "why": "Page gives Wheeler's 'it from bit' as the slogan for informational primacy, one strand of digital physics."
+ },
+ {
+  "key": "conway>mandelbrot",
+  "action": "sourced",
+  "kind": "related",
+  "note": "unlimited complexity from a tiny rule",
+  "urls": [
+   "https://emmath.org/emm/chap-dynamics.html"
+  ],
+  "why": "Textbook chapter treats the Mandelbrot set and Conway's Life together as simple rules producing complex behaviour."
+ },
+ {
+  "key": "mcculloch>minsky",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "neural nets, then minsky's critique of them",
+  "urls": [
+   "https://en.wikipedia.org/wiki/History_of_artificial_intelligence"
+  ],
+  "why": "Page: Minsky was inspired by McCulloch and Pitts, built the SNARC neural net, then co-wrote Perceptrons on their limits."
+ },
+ {
+  "key": "cybernetics>autopoiesis",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "second-order cybernetics",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Second-order_cybernetics"
+  ],
+  "why": "Page lists Maturana and Varela's autopoiesis among the theories developed within second-order cybernetics."
+ },
+ {
+  "key": "schroedinger>autopoiesis",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "what keeps a living system ordered",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Autopoiesis"
+  ],
+  "why": "Page says autopoiesis, autocatalytic sets and related theories found their original inspiration in Schrödinger's What Is Life?"
+ },
+ {
+  "key": "symbolic>eliza",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "pattern matching that feels like understanding",
+  "urls": [
+   "https://en.wikipedia.org/wiki/ELIZA_effect",
+   "https://en.wikipedia.org/wiki/ELIZA"
+  ],
+  "why": "Pages call ELIZA a symbolic AI chatbot whose pattern matching gave users an illusion of understanding."
+ },
+ {
+  "key": "selfridge>minsky",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "a crowd of demons becomes a society of mind",
+  "urls": [
+   "https://sites.santafe.edu/~johnson/reviews.dennett.html",
+   "https://www.museumofai.org.uk/nodes/pandemonium-architecture",
+   "https://en.wikipedia.org/wiki/Oliver_Selfridge"
+  ],
+  "why": "Johnson: Selfridge's demons are what Minsky's Society of Mind calls agents; Museum of AI says it drew on Pandemonium; Minsky called Selfridge a mentor."
+ },
+ {
+  "key": "deeplearning>llm",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "the transformer",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Large_language_model"
+  ],
+  "why": "Page says LLMs are typically based on the transformer neural network architecture."
+ },
+ {
+  "key": "deeplearning>chollet",
+  "action": "sourced",
+  "kind": "against",
+  "note": "skill is not intelligence",
+  "urls": [
+   "https://arxiv.org/html/1911.01547"
+  ],
+  "why": "Chollet argues skill at tasks is not intelligence, and criticises the deep-learning era's tabula-rasa framing and benchmark shortcuts."
+ },
+ {
+  "key": "conway>nca",
+  "action": "changed",
+  "kind": "related",
+  "note": "the neural ca paper names life as the classic cellular automaton before its learned ones",
+  "urls": [
+   "https://distill.pub/2020/growing-ca/"
+  ],
+  "why": "Paper mentions Conway's Life as what popularised cellular automata; it does not say its method derives from Life."
+ },
+ {
+  "key": "dreyfus>embodied",
+  "action": "changed",
+  "kind": "related",
+  "note": "dreyfus's heidegger-based critique of symbolic ai is among those embodied cognition takes up",
+  "urls": [
+   "https://iep.utm.edu/embodied-cognition/",
+   "https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence"
+  ],
+  "why": "IEP lists Dreyfus among problems raised for cognitivism that embodied theorists share; no page says the field builds on him."
+ },
+ {
+  "key": "singularity>airisk",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "runaway self-improvement",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Technological_singularity"
+  ],
+  "why": "Page links the intelligence explosion to existential risk, Bostrom's extinction scenarios and Yudkowsky's MIRI."
+ },
+ {
+  "key": "lamettrie>physicalism",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "man a machine",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Materialism",
+   "https://en.wikipedia.org/wiki/Man_a_Machine"
+  ],
+  "why": "Materialism page places La Mettrie among the French materialists; Man a Machine is described as a work of materialist philosophy."
+ },
+ {
+  "key": "physicalism>functionalism",
+  "action": "changed",
+  "kind": "related",
+  "note": "functionalism is neutral on substance but attractive to materialists, as an alternative to identity theory",
+  "urls": [
+   "https://plato.stanford.edu/entries/functionalism/"
+  ],
+  "why": "SEP: functionalism is officially neutral between materialism and dualism, though especially attractive to materialists."
+ },
+ {
+  "key": "turing>functionalism",
+  "action": "changed",
+  "kind": "builds",
+  "note": "turing's work inspired putnam's machine-state functionalism",
+  "urls": [
+   "https://plato.stanford.edu/entries/functionalism/"
+  ],
+  "why": "SEP: Turing's work was the avowed inspiration for Putnam's machine-state theories; multiple realisability is not derived from universal computation."
+ },
+ {
+  "key": "functionalism>block",
+  "action": "sourced",
+  "kind": "against",
+  "note": "'troubles with functionalism'",
+  "urls": [
+   "https://plato.stanford.edu/entries/functionalism/"
+  ],
+  "why": "SEP presents Block's absent and inverted qualia and Chinese nation objections, from 'Troubles with Functionalism', as challenges to functionalism."
+ },
+ {
+  "key": "functionalism>dennett",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "dennett's functionalist account of consciousness",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Daniel_Dennett"
+  ],
+  "why": "Page quotes Consciousness Explained: 'I am a sort of teleofunctionalist, perhaps the original teleofunctionalist'."
+ },
+ {
+  "key": "functionalism>chirimuuta",
+  "action": "sourced",
+  "kind": "against",
+  "note": "models are simplifications, not the thing",
+  "urls": [
+   "https://www.thebsps.org/reviewofbooks/burnston-on-chirimuuta/"
+  ],
+  "why": "Review: her book counterbalances functionalist tendencies; computational models are abstractions and the brain is disanalogous to a computer."
+ },
+ {
+  "key": "nagel>chalmers",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "'what it is like' becomes the hard problem",
+  "urls": [
+   "https://consc.net/papers/facing.html"
+  ],
+  "why": "Chalmers states the hard problem using Nagel (1974): there is something it is like to be a conscious organism."
+ },
+ {
+  "key": "levine>chalmers",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "from gap to hard problem",
+  "urls": [
+   "https://consc.net/papers/facing.html"
+  ],
+  "why": "Chalmers writes there is an explanatory gap, 'a term due to Levine 1983', between the functions and experience."
+ },
+ {
+  "key": "leibniz>chalmers",
+  "action": "changed",
+  "kind": "related",
+  "note": "the mill argument is cited as an early version of the hard problem",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+   "https://plato.stanford.edu/entries/leibniz-mind/"
+  ],
+  "why": "Pages list Leibniz among earlier thinkers with similar arguments; none says Chalmers built on the mill."
+ },
+ {
+  "key": "leibniz>searle",
+  "action": "sourced",
+  "kind": "related",
+  "note": "walking around inside the machine and finding no understanding",
+  "urls": [
+   "https://plato.stanford.edu/entries/chinese-room/"
+  ],
+  "why": "SEP names Leibniz's mill as the first of four antecedents of Searle's argument."
+ }
+]

@@ -70,4 +70,11 @@ connection_fixes = {
 for key, (verdict, url, note) in connection_fixes.items():
     merged["connections"][key] = {"verdict": verdict, "url": url, "note": note}
 
+# second round: rewritten or newly sourced items carry the fresh verdict of the model that did not rewrite them
+R2 = HERE.parent / "round2" / "verdicts.json"
+if R2.exists():
+    r2 = json.load(open(R2))
+    for kind in ("summaries", "connections"):
+        merged[kind].update(r2[kind])
+
 json.dump(merged, open(HERE / "confidence.json", "w"), ensure_ascii=False, indent=1)

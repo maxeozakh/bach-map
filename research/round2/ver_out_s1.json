@@ -1,0 +1,191 @@
+[
+  {
+    "id": "greekgods",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Greek_mythology",
+    "note": ""
+  },
+  {
+    "id": "genesis",
+    "facet": "Tower of Babel",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Tower_of_Babel",
+    "note": ""
+  },
+  {
+    "id": "pythagoras",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/pythagoreanism/",
+    "note": ""
+  },
+  {
+    "id": "buddhism",
+    "facet": "Buddhism",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Buddhism",
+    "note": ""
+  },
+  {
+    "id": "aristotle",
+    "facet": "The unmoved mover",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Unmoved_mover",
+    "note": ""
+  },
+  {
+    "id": "christianity",
+    "facet": "The Catholic Church",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Christendom",
+    "note": ""
+  },
+  {
+    "id": "golem",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Golem",
+    "note": ""
+  },
+  {
+    "id": "descartes",
+    "facet": "Mind-body dualism",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem",
+    "note": ""
+  },
+  {
+    "id": "idealism",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://en.wikipedia.org/wiki/Idealism",
+    "note": "Idealism is broader; only subjective forms specifically treat the external world as appearance within mind."
+  },
+  {
+    "id": "leibniz",
+    "facet": "Leibniz",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+    "note": ""
+  },
+  {
+    "id": "utilitarianism",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Utilitarianism",
+    "note": ""
+  },
+  {
+    "id": "hegel",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+    "note": ""
+  },
+  {
+    "id": "wundt",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Wilhelm_Wundt",
+    "note": ""
+  },
+  {
+    "id": "james",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/William_James",
+    "note": ""
+  },
+  {
+    "id": "brouwer",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/intuitionism/",
+    "note": ""
+  },
+  {
+    "id": "hilbert",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Hilbert%27s_program",
+    "note": ""
+  },
+  {
+    "id": "goedel",
+    "facet": "",
+    "verdict": "contradicted",
+    "url": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems",
+    "note": "\"Any consistent formal system\" omits effective axiomatizability; true arithmetic is consistent and complete but not recursively axiomatized."
+  },
+  {
+    "id": "turing",
+    "facet": "Alan Turing",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+    "note": ""
+  },
+  {
+    "id": "turing",
+    "facet": "Computing Machinery and Intelligence (the Turing test)",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence",
+    "note": ""
+  },
+  {
+    "id": "skinner",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/behaviorism/",
+    "note": ""
+  },
+  {
+    "id": "vonneumann",
+    "facet": "Babbage, Zuse, von Neumann",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Von_Neumann_architecture",
+    "note": ""
+  },
+  {
+    "id": "cybernetics",
+    "facet": "Cybernetics",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Cybernetics",
+    "note": ""
+  },
+  {
+    "id": "physicalism",
+    "facet": "Physicalism",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Physicalism",
+    "note": ""
+  },
+  {
+    "id": "morpho",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://distill.pub/2020/growing-ca/",
+    "note": ""
+  },
+  {
+    "id": "dartmouth",
+    "facet": "John McCarthy",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)",
+    "note": ""
+  },
+  {
+    "id": "minsky",
+    "facet": "Marvin Minsky",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Marvin_Minsky",
+    "note": ""
+  },
+  {
+    "id": "minsky",
+    "facet": "Perceptrons",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Perceptrons_(book)",
+    "note": ""
+  }
+]

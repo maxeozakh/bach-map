@@ -1,0 +1,286 @@
+[
+ {
+  "key": "chomsky|",
+  "action": "sourced",
+  "summary": "Linguist who argued that language rests on an innate grammar faculty, and a long-standing sceptic that statistical models tell us anything about the mind. His work in the 1950s helped end behaviourism and start cognitive science.",
+  "urls": [
+   "https://norvig.com/chomsky.html",
+   "https://en.wikipedia.org/wiki/Noam_Chomsky"
+  ],
+  "why": "Norvig's essay quotes and summarises Chomsky's dismissal of statistical language models as giving no scientific insight, going back decades."
+ },
+ {
+  "key": "lem|Stanisław Lem",
+  "action": "sourced",
+  "summary": "Polish science fiction writer and philosopher of technology. 'Solaris' (1961) is about an alien mind humans cannot understand; 'Golem XIV' (1981) is a set of lectures given by a superhuman computer to humanity.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Golem_XIV",
+   "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem"
+  ],
+  "why": "Golem XIV page: 1981 book presented as lectures given by a superintelligent computer."
+ },
+ {
+  "key": "solomonoff|",
+  "action": "sourced",
+  "summary": "Inventor of algorithmic probability, a mathematically ideal (though uncomputable) theory of learning by preferring the shortest programs that explain the data. He attended the 1956 Dartmouth workshop and his ideas underlie later formal theories of universal intelligence.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ray_Solomonoff",
+   "https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference"
+  ],
+  "why": "Ray Solomonoff page says he was one of the 10 attendees of the 1956 Dartmouth Summer Research Project."
+ },
+ {
+  "key": "gaia|",
+  "action": "rewritten",
+  "summary": "The proposal that life on Earth, together with its inorganic surroundings, forms a self-regulating system that keeps the planet's atmosphere and climate suitable for life. James Lovelock and Lynn Margulis proposed it in the 1970s.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Gaia_hypothesis"
+  ],
+  "why": "Replaced the 'single organism' framing with the self-regulating system wording the source uses."
+ },
+ {
+  "key": "sloman|",
+  "action": "rewritten",
+  "summary": "Philosopher and AI researcher at the University of Birmingham. He argued that philosophy of mind should be done by designing working minds, and he proposed the CogAff scheme that sorts mental processes into reactive, deliberative and reflective layers.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Aaron_Sloman",
+   "https://www.cs.bham.ac.uk/research/projects/cogaff/"
+  ],
+  "why": "'British' not confirmed (born in Southern Rhodesia), replaced by his Birmingham post; CogAff project page confirms the reactive, deliberative, meta-management/reflective layers."
+ },
+ {
+  "key": "thatcher|The dress",
+  "action": "rewritten",
+  "summary": "A viral photograph of a dress that some people saw as white and gold and others as blue and black. The cause is not settled; one explanation is that their visual systems made different assumptions about the lighting.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/The_dress"
+  ],
+  "why": "Source says there is no consensus on the cause, so the lighting account is now given as one explanation."
+ },
+ {
+  "key": "quantumcomp|",
+  "action": "rewritten",
+  "summary": "Computers that use quantum superposition and entanglement to solve certain problems, such as factoring, far faster than any known classical method. Building them is hard because qubits lose their quantum states (decohere) unless they are well isolated from the environment.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Quantum_computing"
+  ],
+  "why": "Softened 'slightest disturbance' to the source's wording: qubits not sufficiently isolated from the environment decohere."
+ },
+ {
+  "key": "cyc|",
+  "action": "rewritten",
+  "summary": "A decades-long project to hand-code millions of common-sense facts and rules so that a machine could reason like a person. Doug Lenat started it in 1984; critics such as Pedro Domingos have called it a catastrophic failure.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Cyc"
+  ],
+  "why": "No reliable page states 'emblem of hand-built AI' or 'never produced general intelligence'; replaced with the documented Domingos criticism."
+ },
+ {
+  "key": "boltzmannmachine|",
+  "action": "rewritten",
+  "summary": "A neural network in which units constrain each other and the whole network tends toward low-energy states consistent with the inputs. The restricted version (RBM) drops within-layer links to make training feasible and helped launch deep learning.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Boltzmann_machine",
+   "http://www.scholarpedia.org/article/Boltzmann_machine",
+   "https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine",
+   "https://en.wikipedia.org/wiki/Deep_learning"
+  ],
+  "why": "The machine samples low-energy states rather than settling into one; RBM stacking into deep belief networks is confirmed."
+ },
+ {
+  "key": "brooks|",
+  "action": "sourced",
+  "summary": "Brooks argued that intelligence should be grown from the bottom up in robots that act in the world, using layers of simple behaviours with no central world model. The Roomba descends from this work.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Subsumption_architecture",
+   "https://en.wikipedia.org/wiki/Roomba"
+  ],
+  "why": "Roomba page says its design is based on Brooks's philosophy of insect-like robots with simple control mechanisms."
+ },
+ {
+  "key": "cogarch|Cognitive architectures",
+  "action": "sourced",
+  "summary": "A research tradition that tries to build complete, testable models of a whole mind (perception, memory, motivation, language) rather than isolated modules. It goes under names like cognitive systems, AGI and BICA.",
+  "urls": [
+   "https://doi.org/10.2478/jagi-2014-0001",
+   "https://en.wikipedia.org/wiki/Cognitive_architecture"
+  ],
+  "why": "A Joscha Bach research proposal lists AGI, BICA and Cognitive Systems as overlapping initiatives studying whole working systems; Goertzel's survey lists similar labels."
+ },
+ {
+  "key": "occ|",
+  "action": "rewritten",
+  "summary": "A widely used scheme that sorts emotions into types according to how a person appraises events, agents and objects. Many software agents and artificial characters use it to generate emotions.",
+  "urls": [
+   "https://people.idsia.ch/~steunebrink/Publications/KI09_OCC_revisited.pdf",
+   "https://www.bartneck.de/publications/2002/integratingTheOCCModel/bartneckHF2002.pdf"
+  ],
+  "why": "No reliable source for 'lookup table'; sources confirm it is the standard model for emotion synthesis in artificial characters."
+ },
+ {
+  "key": "penrose|The Gödelian argument and The Emperor's New Mind",
+  "action": "sourced",
+  "summary": "Penrose's bestseller arguing that minds do something no algorithm can: see the truth of statements that formal systems cannot prove. He concludes that brains exploit non-computable physics.",
+  "urls": [
+   "https://royalsociety.org/people/roger-penrose-12076/",
+   "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind"
+  ],
+  "why": "Royal Society profile calls The Emperor's New Mind one of his best-selling books."
+ },
+ {
+  "key": "ncc|Christof Koch",
+  "action": "rewritten",
+  "summary": "Neuroscientist who pioneered the search for neural correlates of consciousness with Francis Crick and later helped develop and champion integrated information theory (IIT).",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Christof_Koch",
+   "https://en.wikipedia.org/wiki/Integrated_information_theory"
+  ],
+  "why": "'Most prominent advocate' not stated; IIT page says he helped develop later versions and called it the only really promising theory."
+ },
+ {
+  "key": "witten|",
+  "action": "sourced",
+  "summary": "English-born computer scientist at the University of Waikato, New Zealand, who co-invented prediction-based text compression (PPM) and popularised arithmetic coding; the idea is that to compress data well you must predict it, which requires modelling its structure.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ian_H._Witten",
+   "https://en.wikipedia.org/wiki/Prediction_by_partial_matching",
+   "https://doi.org/10.1109/dcc.1995.515510",
+   "https://cacm.acm.org/research/arithmetic-coding-for-data-compression/"
+  ],
+  "why": "PPM page credits Cleary and Witten (1984); 'Arithmetic coding revisited' says the 1987 CACM code helped arithmetic coding gain its popularity."
+ },
+ {
+  "key": "schmidhuber|",
+  "action": "rewritten",
+  "summary": "The idea that learning is data compression, that curiosity is the reward for finding better compressions, and that beauty is how compressible something already is to the observer.",
+  "urls": [
+   "https://people.idsia.ch/~juergen/creativity.html"
+  ],
+  "why": "Schmidhuber defines beauty as compressibility and the reward (interestingness) as compression progress, so beauty is no longer called a reward."
+ },
+ {
+  "key": "egan|",
+  "action": "rewritten",
+  "summary": "Hard science fiction about minds that run as software: copies of people living in simulations, citizens who are programs, and what personal identity means when a mind can be copied.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Permutation_City",
+   "https://en.wikipedia.org/wiki/Diaspora_(novel)"
+  ],
+  "why": "Copies, software citizens and cloned selves are confirmed; minds being merged is not, so 'or merged' was dropped."
+ },
+ {
+  "key": "hypercomputation|",
+  "action": "rewritten",
+  "summary": "Hypothetical machines that compute more than a Turing machine, for example by using infinitely precise real numbers or by sending the result of an endless computation back in time.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Hypercomputation",
+   "https://arxiv.org/abs/1105.0047"
+  ],
+  "why": "The labels 'geometric' and 'causal' are not in any source found; the paper describes sending only the final result back via closed timelike curves."
+ },
+ {
+  "key": "fields|",
+  "action": "rewritten",
+  "summary": "Physicist at the Allen Discovery Center at Tufts University who applies quantum information theory to biology and cognition, often with Michael Levin and Karl Friston. He argues that generic physical systems can be regarded as observers exchanging information with their environment.",
+  "urls": [
+   "https://chrisfieldsresearch.com/",
+   "https://arxiv.org/abs/2112.15242"
+  ],
+  "why": "His site lists the Allen Discovery Center, not 'independent'; the paper says generic quantum systems can be regarded as observers, not any bounded system."
+ },
+ {
+  "key": "deutsch|",
+  "action": "sourced",
+  "summary": "Deutsch proposes restating physics in terms of which transformations are possible and which are impossible, rather than initial conditions and laws of motion. He also holds that science advances by explanation, not prediction.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Constructor_theory",
+   "https://www.daviddeutsch.org.uk/books/the-fabric-of-reality/excerpt/opening-paragraphs/"
+  ],
+  "why": "Deutsch's own excerpt from The Fabric of Reality rejects instrumentalism: theories matter for their explanations, predictions are merely consequences."
+ },
+ {
+  "key": "deeplearning|GANs as a model of dreaming",
+  "action": "sourced",
+  "summary": "A GAN trains two networks against each other: a generator invents samples and a discriminator judges whether they look real. Ian Goodfellow introduced them in 2014; later GANs became a major method for synthesising photorealistic images.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Generative_adversarial_network",
+   "https://en.wikipedia.org/wiki/StyleGAN"
+  ],
+  "why": "Current wording no longer claims 'first convincing photographs'; pages confirm GANs generate authentic-looking photographs and StyleGAN's convincing fake faces."
+ },
+ {
+  "key": "deeplearning|Stable Diffusion",
+  "action": "rewritten",
+  "summary": "An openly released image-generation model whose weights fit in about four gigabytes yet can generate photo-realistic images from any text prompt.",
+  "urls": [
+   "https://huggingface.co/CompVis/stable-diffusion-v-1-4-original",
+   "https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/tree/main",
+   "https://en.wikipedia.org/wiki/Stable_Diffusion"
+  ],
+  "why": "The released v1.4 checkpoint is 4.27 GB, not a couple; model card says photo-realistic images from any text input."
+ },
+ {
+  "key": "deeplearning|Ilya Sutskever",
+  "action": "sourced",
+  "summary": "Co-author of AlexNet and co-founder of OpenAI, known for early conviction that scaling neural networks would lead to AGI. He left OpenAI in 2024 to found Safe Superintelligence.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Ilya_Sutskever",
+   "https://www.technologyreview.com/2023/10/26/1082398/exclusive-ilya-sutskever-openais-chief-scientist-on-his-hopes-and-fears-for-the-future-of-ai/"
+  ],
+  "why": "Wikipedia credits him with OpenAI's scaling ethos; MIT Technology Review reports his early bet on deep learning and OpenAI's AGI aim from the start."
+ },
+ {
+  "key": "vervaeke|",
+  "action": "sourced",
+  "summary": "Toronto cognitive scientist known for the lecture series 'Awakening from the Meaning Crisis'. He argues that the core of intelligence is 'relevance realization', and that wisdom traditions (Neoplatonism, Buddhism) cultivate it through practices rather than beliefs.",
+  "urls": [
+   "https://meaningcrisis.co/ep-28-awakening-from-the-meaning-crisis-convergence-to-relevance-realization/",
+   "https://meaningcrisis.co/ep-37-awakening-from-the-meaning-crisis-reverse-engineering-enlightenment-part-2/",
+   "https://lectern.johnvervaeke.com/courses/between-east-and-west",
+   "https://deconstructingyourself.com/john-vervaeke-on-relevance-realization.html"
+  ],
+  "why": "Episode 28 transcript says the core of intelligence is relevance realization; episode 37 and his course page describe Buddhist and Neoplatonic practices."
+ },
+ {
+  "key": "llm|AI companions",
+  "action": "sourced",
+  "summary": "Chatbot products that users talk to as friends or partners. Replika is marketed as an AI companion; Claude is Anthropic's assistant.",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Replika",
+   "https://en.wikipedia.org/wiki/Claude_(language_model)"
+  ],
+  "why": "Claude page confirms it is Anthropic's chatbot; Replika page confirms the friend and partner tiers."
+ },
+ {
+  "key": "chollet|",
+  "action": "sourced",
+  "summary": "Chollet defines intelligence as the efficiency of acquiring new skills, not the possession of skills, and argues that current models mostly interpolate between things they have seen.",
+  "urls": [
+   "https://arxiv.org/abs/1911.01547",
+   "https://fchollet.substack.com/p/how-i-think-about-llm-prompt-engineering",
+   "https://threadreaderapp.com/thread/1234789789309652992.html"
+  ],
+  "why": "Chollet's own essay calls an LLM an interpolative database; his thread says deep learning generalisation is interpolation along a latent manifold."
+ },
+ {
+  "key": "marcus|",
+  "action": "rewritten",
+  "summary": "Cognitive scientist and a well-known critic of deep learning. He argues that neural networks cannot reason reliably without built-in symbolic structure and that scaling them up will not yield general intelligence.",
+  "urls": [
+   "https://www.technologyreview.com/2020/03/27/950247/ai-debate-gary-marcus-danny-lange/",
+   "https://en.wikipedia.org/wiki/Gary_Marcus"
+  ],
+  "why": "The superlative 'best-known' is not established; MIT Technology Review calls him 'a well-known critic of deep learning'."
+ },
+ {
+  "key": "shanahan|",
+  "action": "sourced",
+  "summary": "Imperial College and DeepMind researcher, author of 'Embodiment and the Inner Life', who describes LLMs as role-players simulating characters. He warns against describing such systems in human terms like 'knows' or 'believes' without care.",
+  "urls": [
+   "https://arxiv.org/abs/2212.03551",
+   "https://arxiv.org/abs/2305.16367",
+   "https://en.wikipedia.org/wiki/Murray_Shanahan"
+  ],
+  "why": "His paper 'Talking About Large Language Models' warns against loaded terms such as 'knows', 'believes' and 'thinks'."
+ }
+]

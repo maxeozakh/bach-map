@@ -1,0 +1,830 @@
+[
+ {
+  "key": "animism>greekgods",
+  "from_title": "Animism (prehistoric)",
+  "to_title": "Greek gods as archetypes (c. 8th c. BCE)",
+  "kind": "related",
+  "note": "spirits become named gods with characters",
+  "check_1": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Source opened only says Greek religion kept animistic elements; the spirits-to-gods sequence is an older evolutionary scheme, not stated outright.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Greek religion included spirits and anthropomorphic gods, but no source established the proposed historical transformation."
+  }
+ },
+ {
+  "key": "animism>aristotle",
+  "from_title": "Animism (prehistoric)",
+  "to_title": "Aristotle (c. 350 BCE)",
+  "kind": "builds",
+  "note": "the soul as the organising form of a living body",
+  "check_1": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "No source found saying Aristotle's hylomorphic soul builds on animism; thematic parallel only.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Aristotle's hylomorphic soul is documented; descent from prehistoric animism is not."
+  }
+ },
+ {
+  "key": "pythagoras>plato",
+  "from_title": "Pythagoras (6th c. BCE)",
+  "to_title": "Plato: forms and the cave (c. 375 BCE)",
+  "kind": "related",
+  "note": "a disputed Pythagorean influence on Plato's metaphysics and mathematics",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Pythagoreanism",
+   "note": "Marked Pythagorean influence on Plato is stated; page adds that the world of forms itself is Platonic, not Pythagorean.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "wrong",
+   "url": "https://plato.stanford.edu/entries/pythagoreanism/",
+   "note": "Pythagorean influence was limited; SEP calls inferring it from Plato's mathematics a serious mistake and does not derive his core Forms from it."
+  }
+ },
+ {
+  "key": "logos>stoicism",
+  "from_title": "Logos (c. 500 BCE)",
+  "to_title": "Stoicism (3rd c. BCE)",
+  "kind": "builds",
+  "note": "the stoics made logos the rational order of the cosmos",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Logos",
+   "note": "Stoics: logos as active reason pervading and animating the universe.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Heraclitean and Stoic logos are a standard historical connection, though the opened pages did not explicitly state direct influence."
+  }
+ },
+ {
+  "key": "christianity>descartes",
+  "from_title": "Christianity (1st c. CE onward)",
+  "to_title": "René Descartes (1641)",
+  "kind": "builds",
+  "note": "immaterial soul becomes res cogitans",
+  "check_1": {
+   "verdict": "standard",
+   "url": "",
+   "note": "SEP Dualism traces Christian adoption of Platonic soul-dualism before Descartes but does not state the derivation explicitly.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/arnauld/",
+   "note": "Descartes styled himself a Christian philosopher and pursued the Church-backed project of proving the soul's immateriality."
+  }
+ },
+ {
+  "key": "descartes>lamettrie",
+  "from_title": "René Descartes (1641)",
+  "to_title": "La Mettrie: Man a Machine (1747)",
+  "kind": "against",
+  "note": "la mettrie extends descartes' animal-machine to humans and drops the soul",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Man_a_Machine",
+   "note": "Extends Descartes' animal-automaton argument to humans and denies a separate soul; so it both builds on and opposes Descartes.",
+   "caveat": true
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://www.ebsco.com/research-starters/literature-and-writing/man-machine-julien-offray-de-la-mettrie",
+   "note": "La Mettrie extends machine language to feeling animals and humans while making soul a material brain function."
+  }
+ },
+ {
+  "key": "leibniz>kant",
+  "from_title": "Gottfried Wilhelm Leibniz (1714)",
+  "to_title": "Immanuel Kant (1781)",
+  "kind": "builds",
+  "note": "the rationalist side kant tries to reconcile",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Immanuel_Kant",
+   "note": "Kant studied Leibniz and Wolff, then criticised Leibnizian-Wolffian rationalism; so partly against as well as builds.",
+   "caveat": true
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/kant-leibniz/",
+   "note": "SEP documents Leibniz's influence and the conventional account of Kant navigating Leibnizian rationalism and Humean empiricism."
+  }
+ },
+ {
+  "key": "enlightenment>utilitarianism",
+  "from_title": "The Enlightenment (18th c.)",
+  "to_title": "Utilitarianism (1789)",
+  "kind": "builds",
+  "note": "ethics as calculation",
+  "check_1": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Bentham's cited influences (Helvetius, Beccaria, Hume) are Enlightenment figures, but no opened page states the link in these words.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Bentham's calculative ethics belongs to the late Enlightenment, but no opened source explicitly established this broad developmental link."
+  }
+ },
+ {
+  "key": "celltheory>levin",
+  "from_title": "Cell theory (1839)",
+  "to_title": "Michael Levin: bioelectricity and collective intelligence (2019)",
+  "kind": "builds",
+  "note": "cells as agents that cooperate to build bodies",
+  "check_1": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "No source found tying Levin's work to cell theory; cell theory does not treat cells as cooperating agents.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Levin documents cooperative cellular agency and body-building, but no source tied this specifically to historical cell theory."
+  }
+ },
+ {
+  "key": "dubois>mysterianism",
+  "from_title": "Du Bois-Reymond: Ignorabimus (1872)",
+  "to_title": "Mysterianism (1989)",
+  "kind": "builds",
+  "note": "'we will never know' returns a century later",
+  "check_1": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Thematic parallel; pages opened name Leibniz and Huxley as precursors, not du Bois-Reymond. No influence shown.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.1515/9783110330571.63",
+   "note": "The source explicitly calls McGinn the contemporary continuator of du Bois-Reymond's unknowability claim."
+  }
+ },
+ {
+  "key": "wundt>james",
+  "from_title": "Early experimental psychology (1879)",
+  "to_title": "William James: The Principles of Psychology (1890)",
+  "kind": "related",
+  "note": "psychology becomes a laboratory science",
+  "check_1": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Pages opened name Wundt as founder of experimental psychology and James teaching it from 1875, but do not link them directly.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://psychclassics.yorku.ca/Special/Institutions/labsintro.htm",
+   "note": "The source discusses James's teaching laboratory and Wundt's permanent research laboratory in psychology's institutionalization as laboratory science."
+  }
+ },
+ {
+  "key": "wundt>skinner",
+  "from_title": "Early experimental psychology (1879)",
+  "to_title": "Behaviorism (1938)",
+  "kind": "against",
+  "note": "behaviorism made observable behaviour, rather than introspection, its primary evidence",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Introspection",
+   "note": "Behaviorism rejected introspection; page warns Wundt's own view is often misread, and Skinner's radical behaviorism treated introspection as behavior.",
+   "caveat": true
+  },
+  "check_2": {
+   "verdict": "wrong",
+   "url": "https://www.bfskinner.org/about-behaviorism-chapter-1-the-causes-of-behavior-quote-9/",
+   "note": "Skinner explicitly said radical behaviorism restores introspection and does not deny self-observation; the note fits Watson better than Skinner."
+  }
+ },
+ {
+  "key": "frege>wittgenstein",
+  "from_title": "Gottlob Frege (1879)",
+  "to_title": "Ludwig Wittgenstein (1921–1953)",
+  "kind": "builds",
+  "note": "logic as the form of language",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Ludwig_Wittgenstein",
+   "note": "Wittgenstein read Frege, visited him in 1911; Frege sent him to Russell. The note's wording is a gloss.",
+   "caveat": true
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/analysis/s6.html",
+   "note": "Wittgenstein acknowledged Frege and inherited his function-argument analysis and conception of logic's relation to language."
+  }
+ },
+ {
+  "key": "frege>tarski",
+  "from_title": "Gottlob Frege (1879)",
+  "to_title": "Alfred Tarski (1933)",
+  "kind": "builds",
+  "note": "a formal definition of truth",
+  "check_1": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "SEP's Tarski and Tarski-truth entries do not mention Frege; any influence is indirect.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://jhaponline.org/jhap/article/download/3970/3666",
+   "note": "The historical study presents Frege's rigorous semantics as a close precursor to Tarski's formal truth theories."
+  }
+ },
+ {
+  "key": "lambda>sicp",
+  "from_title": "Lambda calculus and combinators (1924–1936)",
+  "to_title": "Structure and Interpretation of Computer Programs (1985)",
+  "kind": "builds",
+  "note": "lisp and scheme",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Scheme_(programming_language)",
+   "note": "Scheme has lambda calculus at its core and is the language used with SICP.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "SICP uses Scheme, whose first-class procedures derive from lambda calculus, but no single reliable opened source stated the complete link."
+  }
+ },
+ {
+  "key": "turing>vonneumann",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "John von Neumann and the first computers (1837–1956)",
+  "kind": "builds",
+  "note": "the stored-program computer",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Von_Neumann_architecture",
+   "note": "Von Neumann credited the fundamental conception to Turing; Eckert and Mauchly were unaware of Turing's work.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Von Neumann knew Turing's universal machine, but historians dispute whether it influenced his stored-program architecture."
+  }
+ },
+ {
+  "key": "turing>dartmouth",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "The founding of AI (1956)",
+  "kind": "builds",
+  "note": "'can machines think?'",
+  "check_1": {
+   "verdict": "standard",
+   "url": "",
+   "note": "History pages present Turing's 1950 paper as a precursor to the 1956 founding, but do not state that the workshop drew on it.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://ai100.stanford.edu/reports/2016-report/appendix-i-short-history-ai",
+   "note": "Stanford's AI history says Turing's 1950 essay inspired AI and anticipated machine intelligence and learning before Dartmouth."
+  }
+ },
+ {
+  "key": "shannon>solomonoff",
+  "from_title": "Claude Shannon and information theory (1948–1950)",
+  "to_title": "Solomonoff induction (1964)",
+  "kind": "builds",
+  "note": "information and compression as a theory of induction",
+  "check_1": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Algorithmic information theory, founded by Solomonoff, is described as Shannon plus Turing; no page ties Solomonoff induction itself to Shannon.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://raysolomonoff.com/publications/barc97.pdf",
+   "note": "Solomonoff explicitly says Shannon's information theory profoundly shaped his induction ideas through probability and information packing."
+  }
+ },
+ {
+  "key": "solomonoff>schmidhuber",
+  "from_title": "Solomonoff induction (1964)",
+  "to_title": "Jürgen Schmidhuber (1990)",
+  "kind": "builds",
+  "note": "learning as compression",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://people.idsia.ch/~juergen/kolmogorov.html",
+   "note": "Schmidhuber's own page presents his generalized Kolmogorov complexity work as extending Solomonoff's algorithmic probability and universal prediction.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "The intellectual lineage is standard, but the opened sources did not explicitly connect Solomonoff to Schmidhuber's compression-learning program."
+  }
+ },
+ {
+  "key": "shannon>witten",
+  "from_title": "Claude Shannon and information theory (1948–1950)",
+  "to_title": "Ian Witten: cognition as compression (1980s–1990s)",
+  "kind": "builds",
+  "note": "prediction and compression",
+  "check_1": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Predictive text compression (PPM, arithmetic coding) rests on Shannon's theory; no opened page states Witten's debt in so many words.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Witten's compression and induction work fits Shannon's framework, but no opened source explicitly stated this influence."
+  }
+ },
+ {
+  "key": "vonneumann>ackley",
+  "from_title": "John von Neumann and the first computers (1837–1956)",
+  "to_title": "Best-effort computing (2010s)",
+  "kind": "builds",
+  "note": "reliable computing from unreliable parts",
+  "check_1": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Thematic link to von Neumann's 1956 unreliable-components paper; found no reliable source stating Ackley builds on it.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://cacm.acm.org/opinion/beyond-efficiency/",
+   "note": ""
+  }
+ },
+ {
+  "key": "conway>wolfram",
+  "from_title": "Conway's Game of Life (1970)",
+  "to_title": "Stephen Wolfram (2002–2023)",
+  "kind": "builds",
+  "note": "simple rules, complex behaviour",
+  "check_1": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Sources place both in the cellular-automata lineage and classify Life in Wolfram's scheme, but none says Wolfram drew on Life.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://files.wolframcdn.com/pub/www.stephenwolfram.com/pdf/cellular-automata-models-complexity.pdf",
+   "note": ""
+  }
+ },
+ {
+  "key": "vonneumann>digital",
+  "from_title": "John von Neumann and the first computers (1837–1956)",
+  "to_title": "Digital physics (1969)",
+  "kind": "builds",
+  "note": "the universe as a cellular automaton",
+  "check_1": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Von Neumann fathered cellular automata; Zuse and Fredkin proposed the universe is one. Direct debt not stated in pages read.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://people.idsia.ch/~juergen/digitalphysics.html",
+   "note": ""
+  }
+ },
+ {
+  "key": "digital>simulation",
+  "from_title": "Digital physics (1969)",
+  "to_title": "The simulation argument (2003)",
+  "kind": "related",
+  "note": "if physics is computation it could be run",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Digital_physics",
+   "note": "Page says digital physics overlaps with but is distinct from the simulation hypothesis.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Digital physics and simulation are related but logically distinct; neither implies the other."
+  }
+ },
+ {
+  "key": "digital>wheeler",
+  "from_title": "Digital physics (1969)",
+  "to_title": "It from bit (1990)",
+  "kind": "related",
+  "note": "information as more basic than matter",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Digital_physics",
+   "note": "Page lists Wheeler's 'it from bit' as the informational-primacy strand, influential beyond digital physics.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Both make information fundamental, but the opened source did not explicitly place Wheeler's proposal within digital physics."
+  }
+ },
+ {
+  "key": "conway>mandelbrot",
+  "from_title": "Conway's Game of Life (1970)",
+  "to_title": "The Mandelbrot set (1980)",
+  "kind": "related",
+  "note": "unlimited complexity from a tiny rule",
+  "check_1": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Thematic parallel only; no source read discusses the two together.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://emmath.org/emm/chap-dynamics.html",
+   "note": ""
+  }
+ },
+ {
+  "key": "mcculloch>minsky",
+  "from_title": "McCulloch–Pitts neurons (1943)",
+  "to_title": "Marvin Minsky (1956–1986)",
+  "kind": "builds",
+  "note": "neural nets, then minsky's critique of them",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/History_of_artificial_intelligence",
+   "note": "Minsky named as a student inspired by McCulloch and Pitts; built SNARC in 1951, later co-wrote Perceptrons.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "The neural-network lineage and Minsky's later critique are standard, but no opened source stated this specific two-part connection."
+  }
+ },
+ {
+  "key": "cybernetics>autopoiesis",
+  "from_title": "Cybernetics (1948)",
+  "to_title": "Autocatalytic networks and autopoiesis (1972–1986)",
+  "kind": "builds",
+  "note": "second-order cybernetics",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Second-order_cybernetics",
+   "note": "Autopoiesis is listed among the developments of second-order cybernetics. Covers the autopoiesis half of the point only.",
+   "caveat": true
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Autopoiesis is standardly associated with second-order cybernetics, but the opened primary sources did not explicitly state that lineage."
+  }
+ },
+ {
+  "key": "schroedinger>autopoiesis",
+  "from_title": "Schrödinger: life as negentropy (1944)",
+  "to_title": "Autocatalytic networks and autopoiesis (1972–1986)",
+  "kind": "builds",
+  "note": "what keeps a living system ordered",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Autopoiesis",
+   "note": "Page says autopoiesis and related theories of life found their original inspiration in Schrödinger's What Is Life?",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Both address living order, but no opened reliable source documented Schrödinger as a source for autopoiesis."
+  }
+ },
+ {
+  "key": "symbolic>eliza",
+  "from_title": "Symbolic AI (1956–1970s)",
+  "to_title": "ELIZA (1966)",
+  "kind": "builds",
+  "note": "pattern matching that feels like understanding",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/ELIZA_effect",
+   "note": "Page calls ELIZA a symbolic AI chatbot whose basic text processing convinced users of understanding.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "ELIZA plainly uses symbolic pattern rules, but the opened original paper did not label it as building on symbolic AI."
+  }
+ },
+ {
+  "key": "selfridge>minsky",
+  "from_title": "Pandemonium model (1959)",
+  "to_title": "Marvin Minsky (1956–1986)",
+  "kind": "builds",
+  "note": "a crowd of demons becomes a society of mind",
+  "check_1": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Wikipedia says Minsky considered Selfridge a mentor; lineage widely told, but no reliable page read states the debt outright.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "The parallel-agent resemblance is strong, but opened sources did not securely document Pandemonium as the direct source of Society of Mind."
+  }
+ },
+ {
+  "key": "deeplearning>llm",
+  "from_title": "Deep learning (2009–2022)",
+  "to_title": "Large language models (2017–2023)",
+  "kind": "builds",
+  "note": "the transformer",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Large_language_model",
+   "note": "LLMs are typically based on the transformer neural network architecture.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Transformers are deep neural architectures and underpin modern LLMs, but the opened original paper did not itself discuss LLMs."
+  }
+ },
+ {
+  "key": "deeplearning>chollet",
+  "from_title": "Deep learning (2009–2022)",
+  "to_title": "Chollet: On the Measure of Intelligence (2019)",
+  "kind": "against",
+  "note": "skill is not intelligence",
+  "check_1": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Chollet argues against measuring intelligence by task skill; calling the paper 'against deep learning' is a judgement call.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://arxiv.org/html/1911.01547",
+   "note": ""
+  }
+ },
+ {
+  "key": "conway>nca",
+  "from_title": "Conway's Game of Life (1970)",
+  "to_title": "Neural cellular automata (2020)",
+  "kind": "builds",
+  "note": "learned cellular automata",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://distill.pub/2020/growing-ca/",
+   "note": "The paper cites Conway's Game of Life and its continuous generalisations (SmoothLife, Lenia) as inspiration.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Neural cellular automata extend the cellular-automaton paradigm, but the opened paper did not explicitly derive its method from Conway's Life."
+  }
+ },
+ {
+  "key": "dreyfus>embodied",
+  "from_title": "Dreyfus: What Computers Still Can't Do (1972 / 1992)",
+  "to_title": "Embodied and enactive cognition (1927–2006)",
+  "kind": "builds",
+  "note": "heidegger against the symbol-crunching mind",
+  "check_1": {
+   "verdict": "standard",
+   "url": "",
+   "note": "IEP lists Dreyfus among critiques embodied theorists take up; Wikipedia calls views similar. Explicit 'builds on' not found.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.4324/9781315180809-12",
+   "note": ""
+  }
+ },
+ {
+  "key": "singularity>airisk",
+  "from_title": "Technological singularity (1993)",
+  "to_title": "AI risk: Bostrom, Yudkowsky and the doom debate (2003–2023)",
+  "kind": "builds",
+  "note": "runaway self-improvement",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Technological_singularity",
+   "note": "Page ties the intelligence explosion to existential risk and AI-alignment research (MIRI, FHI).",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Recursive self-improvement connects singularity scenarios to modern AI-risk arguments, but the specific lineage is broader than one source."
+  }
+ },
+ {
+  "key": "lamettrie>physicalism",
+  "from_title": "La Mettrie: Man a Machine (1747)",
+  "to_title": "Materialism and physicalism (ancient; modern form 20th c.)",
+  "kind": "builds",
+  "note": "man a machine",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Man_a_Machine",
+   "note": "Described as a work of materialist philosophy; La Mettrie is part of the tradition rather than a source of modern physicalism.",
+   "caveat": true
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://www.rep.routledge.com/articles/biographical/la-mettrie-julien-offroy-de-1709-51/",
+   "note": "Routledge identifies L’Homme machine as a materialist manifesto applying materialism explicitly to human beings."
+  }
+ },
+ {
+  "key": "physicalism>functionalism",
+  "from_title": "Materialism and physicalism (ancient; modern form 20th c.)",
+  "to_title": "Functionalism and computationalism (1960s)",
+  "kind": "builds",
+  "note": "what matters is organisation, not stuff",
+  "check_1": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "SEP: functionalism is officially neutral between materialism and dualism, though attractive to materialists; arose as an alternative to identity theory. 'Builds' is a judgement.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Functionalism commonly develops within physicalist philosophy of mind, though it is not logically committed to physicalism."
+  }
+ },
+ {
+  "key": "turing>functionalism",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "Functionalism and computationalism (1960s)",
+  "kind": "builds",
+  "note": "multiple realisability comes from universal computation",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/functionalism/",
+   "note": "Turing machines inspired Putnam's machine functionalism; sources do not derive multiple realisability from universal computation specifically.",
+   "caveat": true
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/functionalism/",
+   "note": "SEP says Turing’s work was explicitly invoked and inspired Putnam’s machine-state theories in early functionalism."
+  }
+ },
+ {
+  "key": "functionalism>block",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Ned Block: access vs phenomenal consciousness (1995)",
+  "kind": "against",
+  "note": "'troubles with functionalism'",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind)",
+   "note": "Block's China brain and inverted qualia objections; this is his 1978 work, not the 1995 access/phenomenal paper.",
+   "caveat": true
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/functionalism/",
+   "note": "SEP discusses Block’s absent-qualia and Chinese-nation objections as major challenges to functionalism."
+  }
+ },
+ {
+  "key": "functionalism>dennett",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Daniel Dennett (1991)",
+  "kind": "builds",
+  "note": "dennett's functionalist account of consciousness",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Daniel_Dennett",
+   "note": "Dennett calls himself a 'teleofunctionalist' in Consciousness Explained.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Dennett’s consciousness theory is routinely classified as broadly functionalist, though his account is not reducible to generic functionalism."
+  }
+ },
+ {
+  "key": "functionalism>chirimuuta",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Mazviita Chirimuuta (2024)",
+  "kind": "against",
+  "note": "models are simplifications, not the thing",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://philosophymindscience.org/index.php/phimisci/article/download/12280/12401?inline=1",
+   "note": "Symposium paper: Chirimuuta argues against the literal interpretation of computational models; target is computationalism in neuroscience more than functionalism generally.",
+   "caveat": true
+  },
+  "check_2": {
+   "verdict": "documented",
+   "url": "https://www.thebsps.org/reviewofbooks/burnston-on-chirimuuta/",
+   "note": "The review says Chirimuuta rejects inferring machine consciousness by mistaking computational models for the brain they simplify."
+  }
+ },
+ {
+  "key": "nagel>chalmers",
+  "from_title": "Nagel: What Is It Like to Be a Bat? (1974)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "builds",
+  "note": "'what it is like' becomes the hard problem",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+   "note": "Chalmers uses Nagel's 'what it is like' definition of consciousness.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Nagel’s what-it-is-like formulation is a standard precursor to Chalmers’s hard problem, but direct dependence is not established here."
+  }
+ },
+ {
+  "key": "levine>chalmers",
+  "from_title": "The explanatory gap (1983)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "builds",
+  "note": "from gap to hard problem",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Explanatory_gap",
+   "note": "Bridging the explanatory gap 'is known as the hard problem'.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "The explanatory gap is a standard precursor to the hard problem, though Chalmers’s argument is not simply Levine’s renamed."
+  }
+ },
+ {
+  "key": "leibniz>chalmers",
+  "from_title": "Gottfried Wilhelm Leibniz (1714)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "builds",
+  "note": "the mill argument is the hard problem in 1714",
+  "check_1": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Sources name Leibniz's mill as a precursor of the hard problem; none says Chalmers drew on it. 'Related' would be documented.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Leibniz’s mill anticipates an explanatory concern, but calling it the hard problem in 1714 is retrospective interpretation."
+  }
+ },
+ {
+  "key": "leibniz>searle",
+  "from_title": "Gottfried Wilhelm Leibniz (1714)",
+  "to_title": "Searle: the Chinese room (1980)",
+  "kind": "related",
+  "note": "walking around inside the machine and finding no understanding",
+  "check_1": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Chinese_room",
+   "note": "Leibniz's mill is listed as a precursor argument to the Chinese room.",
+   "caveat": false
+  },
+  "check_2": {
+   "verdict": "standard",
+   "url": "",
+   "note": "The mill and Chinese room are commonly compared as internal-observer arguments, but differ in target and conclusion."
+  }
+ }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "goedel",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems",
+    "note": ""
+  },
+  {
+    "id": "brooks",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.computerhistory.org/collections/catalog/300000049",
+    "note": ""
+  },
+  {
+    "id": "hypercomputation",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Hypercomputation",
+    "note": ""
+  },
+  {
+    "id": "chomsky",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://web.archive.org/web/20220427080655/https://www.britannica.com/biography/Noam-Chomsky",
+    "note": ""
+  }
+]

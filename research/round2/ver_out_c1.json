@@ -1,0 +1,317 @@
+[
+  {
+    "from": "animism",
+    "to": "greekgods",
+    "verdict": "documented",
+    "url": "https://resources.warburg.sas.ac.uk/pdf/bkf100b2414221.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "animism",
+    "to": "aristotle",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Aristotle's hylomorphism is documented; calling it animist is Bach's interpretation, not a standard historical classification."
+  },
+  {
+    "from": "pythagoras",
+    "to": "plato",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/pythagoreanism/",
+    "note_out": ""
+  },
+  {
+    "from": "logos",
+    "to": "stoicism",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Logos",
+    "note_out": ""
+  },
+  {
+    "from": "christianity",
+    "to": "descartes",
+    "verdict": "documented",
+    "url": "https://web.viu.ca/johnstoi/descartes/descartesmeditations.htm",
+    "note_out": ""
+  },
+  {
+    "from": "descartes",
+    "to": "lamettrie",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Man_a_Machine",
+    "note_out": ""
+  },
+  {
+    "from": "leibniz",
+    "to": "kant",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/kant-leibniz/",
+    "note_out": ""
+  },
+  {
+    "from": "enlightenment",
+    "to": "utilitarianism",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Bentham systematized utility and felicific calculation, but the broad Enlightenment-to-utilitarianism link is not explicitly stated on the checked page."
+  },
+  {
+    "from": "dubois",
+    "to": "mysterianism",
+    "verdict": "documented",
+    "url": "https://www.cambridge.org/core/journals/science-in-context/article/reconsidering-the-ignorabimus-du-boisreymond-and-the-hard-problem-of-consciousness/8C19E49A253DD5011482AD4252FF563D",
+    "note_out": ""
+  },
+  {
+    "from": "wundt",
+    "to": "james",
+    "verdict": "documented",
+    "url": "https://psychclassics.yorku.ca/Special/Institutions/labsintro.htm",
+    "note_out": ""
+  },
+  {
+    "from": "wundt",
+    "to": "skinner",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Behaviorism",
+    "note_out": ""
+  },
+  {
+    "from": "frege",
+    "to": "wittgenstein",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/wittgenstein/",
+    "note_out": ""
+  },
+  {
+    "from": "frege",
+    "to": "tarski",
+    "verdict": "documented",
+    "url": "https://jhaponline.org/jhap/article/download/3970/3666",
+    "note_out": ""
+  },
+  {
+    "from": "lambda",
+    "to": "sicp",
+    "verdict": "documented",
+    "url": "https://sarabander.github.io/sicp/html/1_002e3.xhtml",
+    "note_out": ""
+  },
+  {
+    "from": "turing",
+    "to": "vonneumann",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Von_Neumann_architecture",
+    "note_out": ""
+  },
+  {
+    "from": "turing",
+    "to": "dartmouth",
+    "verdict": "documented",
+    "url": "https://ai100.stanford.edu/reports/2016-report/appendix-i-short-history-ai",
+    "note_out": ""
+  },
+  {
+    "from": "shannon",
+    "to": "solomonoff",
+    "verdict": "documented",
+    "url": "https://raysolomonoff.com/publications/barc97.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "solomonoff",
+    "to": "schmidhuber",
+    "verdict": "documented",
+    "url": "https://people.idsia.ch/~juergen/kolmogorov.html",
+    "note_out": ""
+  },
+  {
+    "from": "shannon",
+    "to": "witten",
+    "verdict": "documented",
+    "url": "https://doi.org/10.1145/76894.76896",
+    "note_out": ""
+  },
+  {
+    "from": "vonneumann",
+    "to": "ackley",
+    "verdict": "documented",
+    "url": "https://cacm.acm.org/opinion/beyond-efficiency/",
+    "note_out": ""
+  },
+  {
+    "from": "conway",
+    "to": "wolfram",
+    "verdict": "documented",
+    "url": "https://www.wolframscience.com/reference/notes/876b/",
+    "note_out": ""
+  },
+  {
+    "from": "vonneumann",
+    "to": "digital",
+    "verdict": "documented",
+    "url": "https://people.idsia.ch/~juergen/digitalphysics.html",
+    "note_out": ""
+  },
+  {
+    "from": "digital",
+    "to": "simulation",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Digital_physics",
+    "note_out": ""
+  },
+  {
+    "from": "digital",
+    "to": "wheeler",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Digital_physics",
+    "note_out": ""
+  },
+  {
+    "from": "conway",
+    "to": "mandelbrot",
+    "verdict": "documented",
+    "url": "https://emmath.org/emm/chap-dynamics.html",
+    "note_out": ""
+  },
+  {
+    "from": "mcculloch",
+    "to": "minsky",
+    "verdict": "documented",
+    "url": "https://bnaskrecki.faculty.wmi.amu.edu.pl/nnets/_build/html/part1_origins/ch03_timeline.html",
+    "note_out": ""
+  },
+  {
+    "from": "cybernetics",
+    "to": "autopoiesis",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Second-order_cybernetics",
+    "note_out": ""
+  },
+  {
+    "from": "schroedinger",
+    "to": "autopoiesis",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Autopoiesis",
+    "note_out": ""
+  },
+  {
+    "from": "symbolic",
+    "to": "eliza",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/ELIZA",
+    "note_out": ""
+  },
+  {
+    "from": "selfridge",
+    "to": "minsky",
+    "verdict": "documented",
+    "url": "https://www.museumofai.org.uk/nodes/pandemonium-architecture",
+    "note_out": ""
+  },
+  {
+    "from": "deeplearning",
+    "to": "llm",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Large_language_model",
+    "note_out": ""
+  },
+  {
+    "from": "deeplearning",
+    "to": "chollet",
+    "verdict": "documented",
+    "url": "https://arxiv.org/html/1911.01547",
+    "note_out": ""
+  },
+  {
+    "from": "conway",
+    "to": "nca",
+    "verdict": "documented",
+    "url": "https://distill.pub/2020/growing-ca/",
+    "note_out": ""
+  },
+  {
+    "from": "dreyfus",
+    "to": "embodied",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "The source links embodiment to Heidegger and opposes cognitivism, but does not explicitly say embodied cognition took up Dreyfus's critique."
+  },
+  {
+    "from": "singularity",
+    "to": "airisk",
+    "verdict": "documented",
+    "url": "https://doi.org/10.1007/s11098-024-02143-5",
+    "note_out": ""
+  },
+  {
+    "from": "lamettrie",
+    "to": "physicalism",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Materialism",
+    "note_out": ""
+  },
+  {
+    "from": "physicalism",
+    "to": "functionalism",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/functionalism/",
+    "note_out": ""
+  },
+  {
+    "from": "turing",
+    "to": "functionalism",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/functionalism/",
+    "note_out": ""
+  },
+  {
+    "from": "functionalism",
+    "to": "block",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/functionalism/",
+    "note_out": ""
+  },
+  {
+    "from": "functionalism",
+    "to": "dennett",
+    "verdict": "documented",
+    "url": "https://dl.tufts.edu/downloads/9306t946z?filename=5t34sw885.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "functionalism",
+    "to": "chirimuuta",
+    "verdict": "documented",
+    "url": "https://www.thebsps.org/reviewofbooks/burnston-on-chirimuuta/",
+    "note_out": ""
+  },
+  {
+    "from": "nagel",
+    "to": "chalmers",
+    "verdict": "documented",
+    "url": "https://consc.net/papers/facing.html",
+    "note_out": ""
+  },
+  {
+    "from": "levine",
+    "to": "chalmers",
+    "verdict": "documented",
+    "url": "https://consc.net/papers/facing.html",
+    "note_out": ""
+  },
+  {
+    "from": "leibniz",
+    "to": "chalmers",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+    "note_out": ""
+  },
+  {
+    "from": "leibniz",
+    "to": "searle",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/chinese-room/",
+    "note_out": ""
+  }
+]

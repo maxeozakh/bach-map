@@ -1,0 +1,477 @@
+[
+ {
+  "key": "chalmers>panpsychism",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "experience as fundamental",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Panpsychism"
+  ],
+  "why": "Page says interest in the hard problem revived panpsychism, which addresses it directly, and that Chalmers explored panpsychism as viable."
+ },
+ {
+  "key": "hofstadter>dennett",
+  "action": "sourced",
+  "kind": "related",
+  "note": "'the mind's i'",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Daniel_Dennett"
+  ],
+  "why": "Page states Dennett co-edited and co-authored the 1981 collection The Mind's I with Hofstadter."
+ },
+ {
+  "key": "ncc>iit",
+  "action": "changed",
+  "kind": "related",
+  "note": "koch moved from NCC work with crick to working with tononi on IIT",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Christof_Koch"
+  ],
+  "why": "Page supports only the biographical link through Koch; it does not say IIT grew out of NCC research."
+ },
+ {
+  "key": "minsky>gwt",
+  "action": "sourced",
+  "kind": "related",
+  "note": "many unconscious specialists",
+  "urls": [
+   "https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=1119&context=ccrg_papers"
+  ],
+  "why": "Baars and Franklin (2003) say the specialised processors of Global Workspace theory may correspond to Minsky's agents, citing The Society of Mind."
+ },
+ {
+  "key": "freud>kahneman",
+  "action": "sourced",
+  "kind": "related",
+  "note": "most of the mind is not the conscious part",
+  "urls": [
+   "https://psyche.co/ideas/the-id-and-the-nudge-where-freud-meets-behavioural-economics"
+  ],
+  "why": "Essay draws the parallel between Freud's unconscious and the largely unconscious System 1, and notes Kahneman studied Freud."
+ },
+ {
+  "key": "damasio>seth",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "feeling grounded in body regulation",
+  "urls": [
+   "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(13)00211-8"
+  ],
+  "why": "Seth (2013) says his model is related to Damasio's, both grounding selfhood in physiological condition, and adds top-down inference."
+ },
+ {
+  "key": "idealism>hoffman",
+  "action": "changed",
+  "kind": "related",
+  "note": "hoffman grants the resemblance but says his theory is not idealism",
+  "urls": [
+   "https://sites.socsci.uci.edu/~ddhoff/MindBody"
+  ],
+  "why": "Hoffman writes that similar ideas exist in idealism, yet 'MUI theory is not idealism' and conscious realism is not Kant's idealism."
+ },
+ {
+  "key": "metzinger>illusionism",
+  "action": "changed",
+  "kind": "related",
+  "note": "blackmore's illusionist account uses metzinger's self-model",
+  "urls": [
+   "https://www.susanblackmore.uk/wp-content/uploads/2018/05/Illusionism-Keith-Frankish-chapter-by-Susan-Blackmore-2017.pdf"
+  ],
+  "why": "Blackmore's reply to Frankish cites Metzinger (2009) for the self-as-observer representation; no page equates the no-self claim with illusionism."
+ },
+ {
+  "key": "huxley>leary",
+  "action": "changed",
+  "kind": "builds",
+  "note": "leary found the book confirmed his psilocybin experience, then befriended huxley",
+  "urls": [
+   "https://en.wikipedia.org/wiki/The_Doors_of_Perception"
+  ],
+  "why": "Page's Influence section says this; it does not say Leary took the filtered-mind idea from Huxley."
+ },
+ {
+  "key": "pribram>penrose",
+  "action": "sourced",
+  "kind": "related",
+  "note": "non-classical physics in the brain",
+  "urls": [
+   "https://en.wikipedia.org/wiki/Quantum_mind"
+  ],
+  "why": "Page lists Pribram's holonomic theory and Penrose-Hameroff side by side as quantum approaches to mind; no influence is claimed."
+ },
+ {
+  "key": "egan>simulation",
+  "action": "sourced",
+  "kind": "related",
+  "note": "minds running as software",
+  "urls": [
+   "https://www.newyorker.com/books/joshua-rothman/what-are-the-odds-we-are-living-in-a-computer-simulation"
+  ],
+  "why": "Article on the simulation argument cites Permutation City as exploring life as a copy in a simulated world."
+ },
+ {
+  "key": "watts>illusionism",
+  "action": "dropped",
+  "kind": "related",
+  "note": "intelligence without experience",
+  "urls": [],
+  "why": "No page found linking Blindsight to illusionism; the novel treats consciousness as real but dispensable, a different thesis."
+ },
+ {
+  "key": "cogarch>bach",
+  "action": "changed",
+  "kind": "related",
+  "note": "psi compared with soar and ACT-R",
+  "urls": [
+   "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"
+  ],
+  "why": "Bach's thesis compares the Psi theory with Soar and ACT-R and stresses differences; it does not say Psi builds on them."
+ },
+ {
+  "key": "maslow>bach",
+  "action": "changed",
+  "kind": "related",
+  "note": "maslow's hierarchy of needs reread as a hierarchy of purposes",
+  "urls": [
+   "http://bach.ai/pub/Attention%20based%20learning%20as%20a%20foundation%20for%20consciousness%20Common%20Model%20Bach.pdf"
+  ],
+  "why": "Bach writes that Maslow's hierarchy of needs 'is better understood as a hierarchy of purposes'."
+ },
+ {
+  "key": "bischof>bach",
+  "action": "changed",
+  "kind": "builds",
+  "note": "via dörner's psi theory, which takes up bischof's cybernetic psychology",
+  "urls": [
+   "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"
+  ],
+  "why": "Bach's thesis says Dörner's theory incorporates Bischof's ideas and cites Bischof for feedback loops in psychology; the link is indirect."
+ },
+ {
+  "key": "occ>bach",
+  "action": "sourced",
+  "kind": "against",
+  "note": "emotions as modes of the whole system, not a lookup table",
+  "urls": [
+   "https://agi-conf.org/2019/wp-content/uploads/2019/07/paper_30.pdf",
+   "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"
+  ],
+  "why": "Bach's 2019 paper: MicroPsi does not implement emotions explicitly 'like in the classic OCC model'; they emerge from modulators."
+ },
+ {
+  "key": "sloman>bach",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "philosophy of mind by designing working minds",
+  "urls": [
+   "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"
+  ],
+  "why": "Bach's thesis cites Sloman for the active design stance of a constructing engineer and among philosophers drawn to AI."
+ },
+ {
+  "key": "cybernetics>bach",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "needs as feedback loops",
+  "urls": [
+   "https://www.youtube.com/watch?v=XcNlv9gp20o",
+   "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"
+  ],
+  "why": "Bach: motivation can be understood 'from the perspective of control theory and cybernetics', needs balanced in a homeostatic control system."
+ },
+ {
+  "key": "schank>bach",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "neural execution of scripts",
+  "urls": [
+   "https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf"
+  ],
+  "why": "The ReCoN paper cites Schank and Abelson for hierarchical scripts and offers a neural solution for executing them."
+ },
+ {
+  "key": "gwt>bach",
+  "action": "changed",
+  "kind": "related",
+  "note": "bach lists global workspace theory among views converging on his own",
+  "urls": [
+   "https://www.youtube.com/watch?v=34VOI_oo-qM",
+   "https://ceur-ws.org/Vol-2287/paper29.pdf"
+  ],
+  "why": "Bach names Baars's theory as one of several perspectives converging with his; he does not say he built on it."
+ },
+ {
+  "key": "metzinger>bach",
+  "action": "changed",
+  "kind": "builds",
+  "note": "the self is a representation, not an agent",
+  "urls": [
+   "https://ceur-ws.org/Vol-2287/paper29.pdf",
+   "https://www.youtube.com/watch?v=34VOI_oo-qM"
+  ],
+  "why": "Bach's 2019 paper refers to Metzinger 2003 for the argument that the self is a representation without agency."
+ },
+ {
+  "key": "dennett>bach",
+  "action": "changed",
+  "kind": "builds",
+  "note": "conductor theory as an extension of the multiple drafts model",
+  "urls": [
+   "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf"
+  ],
+  "why": "Bach writes his theory 'can be thought of as an extension to Dennett's multiple drafts model'; narrative gravity is not mentioned."
+ },
+ {
+  "key": "kant>bach",
+  "action": "dropped",
+  "kind": "builds",
+  "note": "we experience the mind's model, not the thing in itself",
+  "urls": [],
+  "why": "No statement by Bach tying his model view to Kant was found; the thing-in-itself appears only in a paper by CIMC colleagues."
+ },
+ {
+  "key": "plato>bach",
+  "action": "changed",
+  "kind": "related",
+  "note": "vervaeke calls the cave the first simulation theory; bach answers 'almost'",
+  "urls": [
+   "https://www.youtube.com/watch?v=rK7ux_JhHM4",
+   "https://www.youtube.com/watch?v=oR-BQTSpL5U"
+  ],
+  "why": "The cave is put to Bach by Vervaeke, not raised by him; elsewhere Bach reads Plato's forms as an embedding space."
+ },
+ {
+  "key": "buddhism>bach",
+  "action": "changed",
+  "kind": "related",
+  "note": "bach's 'enlightened' stage is reached mostly by advanced buddhist meditators",
+  "urls": [
+   "https://lexfridman.com/joscha-bach-3-transcript",
+   "https://www.youtube.com/watch?v=yW_ngvMFlYs"
+  ],
+  "why": "Bach says stage six is found mostly in Buddhist meditators, but calls Buddhism limited to the inside view; no dependence stated."
+ },
+ {
+  "key": "chalmers>bach",
+  "action": "sourced",
+  "kind": "against",
+  "note": "the hard problem dissolves if experience belongs to a simulated character",
+  "urls": [
+   "https://www.youtube.com/watch?v=SGZ784mBuU0",
+   "https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-episode-87-joscha-bach-on-theories-of-consciousness/"
+  ],
+  "why": "Bach names Chalmers, calls the hard problem 'a bit of a misunderstanding', and places experience in the world the mind creates."
+ },
+ {
+  "key": "panpsychism>bach",
+  "action": "sourced",
+  "kind": "against",
+  "note": "matter is not conscious; only a simulation can be",
+  "urls": [
+   "https://lexfridman.com/joscha-bach-3-transcript",
+   "https://www.youtube.com/watch?v=0-nI_MpiuSE"
+  ],
+  "why": "Bach finds panpsychism 'unsatisfying'; elsewhere he says physical things cannot be conscious, only representational structures can."
+ },
+ {
+  "key": "lucid>bach",
+  "action": "sourced",
+  "kind": "related",
+  "note": "waking perception as a dream constrained by the senses",
+  "urls": [
+   "https://www.youtube.com/watch?v=3MNBxfrmfmI",
+   "https://media.ccc.de/v/33c3-8369-machine_dreams"
+  ],
+  "why": "Bach calls every experience of reality a dream state, contrasts it with night and lucid dreams, and says daytime dreams are constrained by sensory input."
+ },
+ {
+  "key": "levin>bach",
+  "action": "changed",
+  "kind": "builds",
+  "note": "any cells can compute; morphogenesis and mind may share one algorithm",
+  "urls": [
+   "https://media.ccc.de/v/37c3-12167-synthetic_sentience",
+   "https://www.youtube.com/watch?v=yW_ngvMFlYs"
+  ],
+  "why": "Bach credits Levin with these two ideas and extends them; 'cells running shared goals' is not his wording."
+ },
+ {
+  "key": "dawkins>bach",
+  "action": "changed",
+  "kind": "related",
+  "note": "bach moves from dawkins's selfish genes to competing software agents",
+  "urls": [
+   "https://www.youtube.com/watch?v=34VOI_oo-qM"
+  ],
+  "why": "Bach cites Dawkins on genes and says the real invariant is software; he does not cite Dawkins's memes."
+ },
+ {
+  "key": "greekgods>bach",
+  "action": "changed",
+  "kind": "related",
+  "note": "gods as shared archetypes",
+  "urls": [
+   "https://www.youtube.com/watch?v=3MNBxfrmfmI"
+  ],
+  "why": "Bach uses the Greek gods as an example of gods as archetypes spanning many minds; an illustration, not a source he builds on."
+ },
+ {
+  "key": "christianity>bach",
+  "action": "changed",
+  "kind": "related",
+  "note": "the church as a collective agent; 1 corinthians 13",
+  "urls": [
+   "https://www.youtube.com/watch?v=7bqdPHLIY8w",
+   "https://joscha.substack.com/p/the-age-of-age"
+  ],
+  "why": "Bach describes Christianity as an agent with the Church as nervous system and quotes 1 Corinthians 13; analysis, not dependence."
+ },
+ {
+  "key": "jaynes>bach",
+  "action": "sourced",
+  "kind": "related",
+  "note": "gods as voices in the mind",
+  "urls": [
+   "https://media.ccc.de/v/37c3-12167-synthetic_sentience"
+  ],
+  "why": "Bach says gods are agents existing across people whose voice you hear in your mind, and that this theory is in Jaynes's book."
+ },
+ {
+  "key": "digital>bach",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "strong computationalism: reality itself computes",
+  "urls": [
+   "https://futureoflife.org/podcast/joscha-bach-and-anthony-aguirre-on-digital-physics-and-moving-towards-beneficial-futures/",
+   "https://media.ccc.de/v/33c3-8369-machine_dreams"
+  ],
+  "why": "In the FLI episode on digital physics Bach says 'the universe is made from integers' and defends a computable foundation of physics."
+ },
+ {
+  "key": "lamettrie>bach",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "computationalism as the heir of mechanism",
+  "urls": [
+   "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf",
+   "https://media.ccc.de/v/37c3-12167-synthetic_sentience"
+  ],
+  "why": "Bach writes that computationalism replaced the intuitions of mechanistic philosophy, citing La Mettrie; his 37C3 talk names La Mettrie as a forerunner."
+ },
+ {
+  "key": "brouwer>bach",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "only what can be constructed exists",
+  "urls": [
+   "https://www.youtube.com/watch?v=yW_ngvMFlYs",
+   "https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine"
+  ],
+  "why": "Bach endorses the constructivist programme, calls intuitionism its first formulation, and says truth requires constructing the object."
+ },
+ {
+  "key": "cantor>bach",
+  "action": "sourced",
+  "kind": "against",
+  "note": "no completed infinities",
+  "urls": [
+   "https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine",
+   "https://podscripts.co/podcasts/lex-fridman-podcast/212-joscha-bach-nature-of-reality-dreams-and-consciousness"
+  ],
+  "why": "Bach retells the contradictions that followed Cantor's infinite sets and concludes, via constructive mathematics, 'there are no infinities'."
+ },
+ {
+  "key": "hypercomputation>bach",
+  "action": "sourced",
+  "kind": "against",
+  "note": "nothing computes beyond turing",
+  "urls": [
+   "https://media.ccc.de/v/37c3-12167-synthetic_sentience",
+   "https://www.youtube.com/watch?v=YZl4zom3q2g"
+  ],
+  "why": "Bach's 'strong computationalism': no implementable language exceeds a finite automaton, and hypercomputational objects cannot exist."
+ },
+ {
+  "key": "wittgenstein>bach",
+  "action": "changed",
+  "kind": "related",
+  "note": "the tractatus as a programme for a precise language",
+  "urls": [
+   "https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine",
+   "https://www.youtube.com/watch?v=XcNlv9gp20o"
+  ],
+  "why": "Bach admires the Tractatus as a project for a precise language of thought but says Wittgenstein found it could not be grounded."
+ },
+ {
+  "key": "aquinas>bach",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "love among the theological virtues",
+  "urls": [
+   "https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-currents-083-joscha-bach-on-synthetic-intelligence/"
+  ],
+  "why": "Bach reads Aquinas's divine virtues as policies for multi-agent systems; love is the discovery of shared higher purpose."
+ },
+ {
+  "key": "utilitarianism>bach",
+  "action": "sourced",
+  "kind": "against",
+  "note": "values derived from how agents work, not a pleasure calculus",
+  "urls": [
+   "https://media.ccc.de/v/37c3-12167-synthetic_sentience",
+   "https://www.youtube.com/watch?v=ayW7SDyAjZo"
+  ],
+  "why": "Bach criticises utilitarianism's metric over hedonic states as unworkable for mutable minds, and calls it an unsuccessful repair of morality."
+ },
+ {
+  "key": "llm>bach",
+  "action": "changed",
+  "kind": "related",
+  "note": "bach's reading of what language models are",
+  "urls": [
+   "https://lexfridman.com/joscha-bach-3-transcript"
+  ],
+  "why": "Bach discusses what large language models are in this interview; that is commentary on them, not his work building on them."
+ },
+ {
+  "key": "shanahan>bach",
+  "action": "changed",
+  "kind": "related",
+  "note": "shared a panel on machine sentience",
+  "urls": [
+   "https://lifeboat.com/blog/2026/02/sentience-beyond-biology-debate-w-dmitry-volkov-joscha-bach-matthew-macdougall-murray-shanahan"
+  ],
+  "why": "Only the joint panel is documented; no page compares their accounts of models playing characters, and the panel content was not read."
+ },
+ {
+  "key": "butlin>cimc",
+  "action": "changed",
+  "kind": "related",
+  "note": "cimc's whitepaper cites the report as ai welfare research",
+  "urls": [
+   "https://cimc.ai/publications/research-program-whitepaper/"
+  ],
+  "why": "The whitepaper cites Butlin et al. only when describing Eleos AI; its own stance on behavioural tests is not attributed to them."
+ },
+ {
+  "key": "bach>cimc",
+  "action": "sourced",
+  "kind": "builds",
+  "note": "the institute's hypothesis rests on his conductor model, his functionalism and the idea that consciousness comes first",
+  "urls": [
+   "https://cimc.ai/publications/the-machine-consciousness-hypothesis/",
+   "https://cimc.ai/publications/research-program-whitepaper/"
+  ],
+  "why": "The hypothesis paper, co-written by Bach, states the conductor theory, functionalism, and consciousness as a prerequisite of learning."
+ },
+ {
+  "key": "iit>cimc",
+  "action": "sourced",
+  "kind": "against",
+  "note": "IIT says an ordinary computer can never be conscious",
+  "urls": [
+   "https://cimc.ai/publications/research-program-whitepaper/"
+  ],
+  "why": "Whitepaper: IIT holds a perfect digital simulation of a brain could lack consciousness, 'a direct rejection of functionalism'."
+ }
+]

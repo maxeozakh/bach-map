@@ -1,0 +1,509 @@
+[
+ {
+  "from": "animism",
+  "to": "greekgods",
+  "from_title": "Animism (prehistoric)",
+  "to_title": "Greek gods as archetypes (c. 8th c. BCE)",
+  "kind": "related",
+  "note": "greek religion kept animist elements beside its pantheon of gods",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Animism"
+  ]
+ },
+ {
+  "from": "animism",
+  "to": "aristotle",
+  "from_title": "Animism (prehistoric)",
+  "to_title": "Aristotle (c. 350 BCE)",
+  "kind": "related",
+  "note": "bach reads aristotle's soul, the form animating a body, as animist",
+  "suggested_urls": [
+   "https://cimc.ai/cimcHypothesis.pdf"
+  ]
+ },
+ {
+  "from": "pythagoras",
+  "to": "plato",
+  "from_title": "Pythagoras (6th c. BCE)",
+  "to_title": "Plato: forms and the cave (c. 375 BCE)",
+  "kind": "related",
+  "note": "a disputed Pythagorean influence on Plato's metaphysics and mathematics",
+  "suggested_urls": [
+   "https://plato.stanford.edu/entries/pythagoreanism/"
+  ]
+ },
+ {
+  "from": "logos",
+  "to": "stoicism",
+  "from_title": "Logos (c. 500 BCE)",
+  "to_title": "Stoicism (3rd c. BCE)",
+  "kind": "builds",
+  "note": "the stoics made logos the rational order of the cosmos",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Heraclitus",
+   "https://en.wikipedia.org/wiki/Logos"
+  ]
+ },
+ {
+  "from": "christianity",
+  "to": "descartes",
+  "from_title": "Christianity (1st c. CE onward)",
+  "to_title": "René Descartes (1641)",
+  "kind": "builds",
+  "note": "descartes set out to prove the soul immaterial, as the church asked of christian philosophers",
+  "suggested_urls": [
+   "https://plato.stanford.edu/entries/arnauld/",
+   "https://plato.stanford.edu/entries/dualism/"
+  ]
+ },
+ {
+  "from": "descartes",
+  "to": "lamettrie",
+  "from_title": "René Descartes (1641)",
+  "to_title": "La Mettrie: Man a Machine (1747)",
+  "kind": "against",
+  "note": "la mettrie extends descartes' animal-machine to humans and drops the soul",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Man_a_Machine"
+  ]
+ },
+ {
+  "from": "leibniz",
+  "to": "kant",
+  "from_title": "Gottfried Wilhelm Leibniz (1714)",
+  "to_title": "Immanuel Kant (1781)",
+  "kind": "builds",
+  "note": "the rationalist side kant tries to reconcile",
+  "suggested_urls": [
+   "https://plato.stanford.edu/entries/kant-leibniz/"
+  ]
+ },
+ {
+  "from": "enlightenment",
+  "to": "utilitarianism",
+  "from_title": "The Enlightenment (18th c.)",
+  "to_title": "Utilitarianism (1789)",
+  "kind": "builds",
+  "note": "ethics as calculation",
+  "suggested_urls": [
+   "https://plato.stanford.edu/entries/bentham/"
+  ]
+ },
+ {
+  "from": "dubois",
+  "to": "mysterianism",
+  "from_title": "Du Bois-Reymond: Ignorabimus (1872)",
+  "to_title": "Mysterianism (1989)",
+  "kind": "related",
+  "note": "the ignorabimus is seen as anticipating mysterianism, though the two views differ",
+  "suggested_urls": [
+   "https://www.cambridge.org/core/journals/science-in-context/article/reconsidering-the-ignorabimus-du-boisreymond-and-the-hard-problem-of-consciousness/8C19E49A253DD5011482AD4252FF563D",
+   "https://link.springer.com/article/10.1007/s11212-026-09869-4"
+  ]
+ },
+ {
+  "from": "wundt",
+  "to": "james",
+  "from_title": "Early experimental psychology (1879)",
+  "to_title": "William James: The Principles of Psychology (1890)",
+  "kind": "related",
+  "note": "psychology becomes a laboratory science",
+  "suggested_urls": [
+   "https://psychclassics.yorku.ca/Special/Institutions/labsintro.htm"
+  ]
+ },
+ {
+  "from": "wundt",
+  "to": "skinner",
+  "from_title": "Early experimental psychology (1879)",
+  "to_title": "Behaviorism (1938)",
+  "kind": "against",
+  "note": "watson's behaviorism rejected introspective methods; skinner's later treated introspection as behaviour",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Behaviorism",
+   "https://en.wikipedia.org/wiki/Introspection"
+  ]
+ },
+ {
+  "from": "frege",
+  "to": "wittgenstein",
+  "from_title": "Gottlob Frege (1879)",
+  "to_title": "Ludwig Wittgenstein (1921–1953)",
+  "kind": "builds",
+  "note": "logic as the form of language",
+  "suggested_urls": [
+   "https://plato.stanford.edu/entries/wittgenstein/"
+  ]
+ },
+ {
+  "from": "frege",
+  "to": "tarski",
+  "from_title": "Gottlob Frege (1879)",
+  "to_title": "Alfred Tarski (1933)",
+  "kind": "related",
+  "note": "frege's semantics for his formal language anticipates tarski's theory of truth",
+  "suggested_urls": [
+   "https://jhaponline.org/jhap/article/download/3970/3666",
+   "https://rkheck.frege.org/pdf/unpublished/TruthInFrege.pdf"
+  ]
+ },
+ {
+  "from": "lambda",
+  "to": "sicp",
+  "from_title": "Lambda calculus and combinators (1924–1936)",
+  "to_title": "Structure and Interpretation of Computer Programs (1985)",
+  "kind": "builds",
+  "note": "lisp and scheme",
+  "suggested_urls": [
+   "https://sarabander.github.io/sicp/html/1_002e3.xhtml"
+  ]
+ },
+ {
+  "from": "turing",
+  "to": "vonneumann",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "John von Neumann and the first computers (1837–1956)",
+  "kind": "builds",
+  "note": "the stored-program computer",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Von_Neumann_architecture"
+  ]
+ },
+ {
+  "from": "turing",
+  "to": "dartmouth",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "The founding of AI (1956)",
+  "kind": "builds",
+  "note": "'can machines think?'",
+  "suggested_urls": [
+   "https://ai100.stanford.edu/reports/2016-report/appendix-i-short-history-ai"
+  ]
+ },
+ {
+  "from": "shannon",
+  "to": "solomonoff",
+  "from_title": "Claude Shannon and information theory (1948–1950)",
+  "to_title": "Solomonoff induction (1964)",
+  "kind": "builds",
+  "note": "information and compression as a theory of induction",
+  "suggested_urls": [
+   "https://raysolomonoff.com/publications/barc97.pdf"
+  ]
+ },
+ {
+  "from": "solomonoff",
+  "to": "schmidhuber",
+  "from_title": "Solomonoff induction (1964)",
+  "to_title": "Jürgen Schmidhuber (1990)",
+  "kind": "builds",
+  "note": "schmidhuber generalises solomonoff's algorithmic probability and universal prediction",
+  "suggested_urls": [
+   "https://people.idsia.ch/~juergen/kolmogorov.html"
+  ]
+ },
+ {
+  "from": "shannon",
+  "to": "witten",
+  "from_title": "Claude Shannon and information theory (1948–1950)",
+  "to_title": "Ian Witten: cognition as compression (1980s–1990s)",
+  "kind": "builds",
+  "note": "prediction and compression",
+  "suggested_urls": [
+   "https://doi.org/10.1145/76894.76896"
+  ]
+ },
+ {
+  "from": "vonneumann",
+  "to": "ackley",
+  "from_title": "John von Neumann and the first computers (1837–1956)",
+  "to_title": "Best-effort computing (2010s)",
+  "kind": "builds",
+  "note": "reliable computing from unreliable parts",
+  "suggested_urls": [
+   "https://cacm.acm.org/opinion/beyond-efficiency/"
+  ]
+ },
+ {
+  "from": "conway",
+  "to": "wolfram",
+  "from_title": "Conway's Game of Life (1970)",
+  "to_title": "Stephen Wolfram (2002–2023)",
+  "kind": "related",
+  "note": "wolfram cites life as a universal 2d cellular automaton, but calls it recreation, not science",
+  "suggested_urls": [
+   "https://files.wolframcdn.com/pub/www.stephenwolfram.com/pdf/cellular-automata-models-complexity.pdf",
+   "https://www.wolframscience.com/reference/notes/876b/"
+  ]
+ },
+ {
+  "from": "vonneumann",
+  "to": "digital",
+  "from_title": "John von Neumann and the first computers (1837–1956)",
+  "to_title": "Digital physics (1969)",
+  "kind": "builds",
+  "note": "the universe as a cellular automaton",
+  "suggested_urls": [
+   "https://people.idsia.ch/~juergen/digitalphysics.html"
+  ]
+ },
+ {
+  "from": "digital",
+  "to": "simulation",
+  "from_title": "Digital physics (1969)",
+  "to_title": "The simulation argument (2003)",
+  "kind": "related",
+  "note": "overlapping but distinct: a computational universe need not be one run by someone",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Digital_physics"
+  ]
+ },
+ {
+  "from": "digital",
+  "to": "wheeler",
+  "from_title": "Digital physics (1969)",
+  "to_title": "It from bit (1990)",
+  "kind": "related",
+  "note": "information as more basic than matter",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Digital_physics"
+  ]
+ },
+ {
+  "from": "conway",
+  "to": "mandelbrot",
+  "from_title": "Conway's Game of Life (1970)",
+  "to_title": "The Mandelbrot set (1980)",
+  "kind": "related",
+  "note": "unlimited complexity from a tiny rule",
+  "suggested_urls": [
+   "https://emmath.org/emm/chap-dynamics.html"
+  ]
+ },
+ {
+  "from": "mcculloch",
+  "to": "minsky",
+  "from_title": "McCulloch–Pitts neurons (1943)",
+  "to_title": "Marvin Minsky (1956–1986)",
+  "kind": "builds",
+  "note": "neural nets, then minsky's critique of them",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/History_of_artificial_intelligence"
+  ]
+ },
+ {
+  "from": "cybernetics",
+  "to": "autopoiesis",
+  "from_title": "Cybernetics (1948)",
+  "to_title": "Autocatalytic networks and autopoiesis (1972–1986)",
+  "kind": "builds",
+  "note": "second-order cybernetics",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Second-order_cybernetics"
+  ]
+ },
+ {
+  "from": "schroedinger",
+  "to": "autopoiesis",
+  "from_title": "Schrödinger: life as negentropy (1944)",
+  "to_title": "Autocatalytic networks and autopoiesis (1972–1986)",
+  "kind": "builds",
+  "note": "what keeps a living system ordered",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Autopoiesis"
+  ]
+ },
+ {
+  "from": "symbolic",
+  "to": "eliza",
+  "from_title": "Symbolic AI (1956–1970s)",
+  "to_title": "ELIZA (1966)",
+  "kind": "builds",
+  "note": "pattern matching that feels like understanding",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/ELIZA_effect",
+   "https://en.wikipedia.org/wiki/ELIZA"
+  ]
+ },
+ {
+  "from": "selfridge",
+  "to": "minsky",
+  "from_title": "Pandemonium model (1959)",
+  "to_title": "Marvin Minsky (1956–1986)",
+  "kind": "builds",
+  "note": "a crowd of demons becomes a society of mind",
+  "suggested_urls": [
+   "https://sites.santafe.edu/~johnson/reviews.dennett.html",
+   "https://www.museumofai.org.uk/nodes/pandemonium-architecture",
+   "https://en.wikipedia.org/wiki/Oliver_Selfridge"
+  ]
+ },
+ {
+  "from": "deeplearning",
+  "to": "llm",
+  "from_title": "Deep learning (2009–2022)",
+  "to_title": "Large language models (2017–2023)",
+  "kind": "builds",
+  "note": "the transformer",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Large_language_model"
+  ]
+ },
+ {
+  "from": "deeplearning",
+  "to": "chollet",
+  "from_title": "Deep learning (2009–2022)",
+  "to_title": "Chollet: On the Measure of Intelligence (2019)",
+  "kind": "against",
+  "note": "skill is not intelligence",
+  "suggested_urls": [
+   "https://arxiv.org/html/1911.01547"
+  ]
+ },
+ {
+  "from": "conway",
+  "to": "nca",
+  "from_title": "Conway's Game of Life (1970)",
+  "to_title": "Neural cellular automata (2020)",
+  "kind": "related",
+  "note": "the neural ca paper names life as the classic cellular automaton before its learned ones",
+  "suggested_urls": [
+   "https://distill.pub/2020/growing-ca/"
+  ]
+ },
+ {
+  "from": "dreyfus",
+  "to": "embodied",
+  "from_title": "Dreyfus: What Computers Still Can't Do (1972 / 1992)",
+  "to_title": "Embodied and enactive cognition (1927–2006)",
+  "kind": "related",
+  "note": "dreyfus's heidegger-based critique of symbolic ai is among those embodied cognition takes up",
+  "suggested_urls": [
+   "https://iep.utm.edu/embodied-cognition/",
+   "https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence"
+  ]
+ },
+ {
+  "from": "singularity",
+  "to": "airisk",
+  "from_title": "Technological singularity (1993)",
+  "to_title": "AI risk: Bostrom, Yudkowsky and the doom debate (2003–2023)",
+  "kind": "builds",
+  "note": "runaway self-improvement",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Technological_singularity"
+  ]
+ },
+ {
+  "from": "lamettrie",
+  "to": "physicalism",
+  "from_title": "La Mettrie: Man a Machine (1747)",
+  "to_title": "Materialism and physicalism (ancient; modern form 20th c.)",
+  "kind": "builds",
+  "note": "man a machine",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Materialism",
+   "https://en.wikipedia.org/wiki/Man_a_Machine"
+  ]
+ },
+ {
+  "from": "physicalism",
+  "to": "functionalism",
+  "from_title": "Materialism and physicalism (ancient; modern form 20th c.)",
+  "to_title": "Functionalism and computationalism (1960s)",
+  "kind": "related",
+  "note": "functionalism is neutral on substance but attractive to materialists, as an alternative to identity theory",
+  "suggested_urls": [
+   "https://plato.stanford.edu/entries/functionalism/"
+  ]
+ },
+ {
+  "from": "turing",
+  "to": "functionalism",
+  "from_title": "Alan Turing and computability (1936–1950)",
+  "to_title": "Functionalism and computationalism (1960s)",
+  "kind": "builds",
+  "note": "turing's work inspired putnam's machine-state functionalism",
+  "suggested_urls": [
+   "https://plato.stanford.edu/entries/functionalism/"
+  ]
+ },
+ {
+  "from": "functionalism",
+  "to": "block",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Ned Block: access vs phenomenal consciousness (1995)",
+  "kind": "against",
+  "note": "'troubles with functionalism'",
+  "suggested_urls": [
+   "https://plato.stanford.edu/entries/functionalism/"
+  ]
+ },
+ {
+  "from": "functionalism",
+  "to": "dennett",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Daniel Dennett (1991)",
+  "kind": "builds",
+  "note": "dennett's functionalist account of consciousness",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Daniel_Dennett"
+  ]
+ },
+ {
+  "from": "functionalism",
+  "to": "chirimuuta",
+  "from_title": "Functionalism and computationalism (1960s)",
+  "to_title": "Mazviita Chirimuuta (2024)",
+  "kind": "against",
+  "note": "models are simplifications, not the thing",
+  "suggested_urls": [
+   "https://www.thebsps.org/reviewofbooks/burnston-on-chirimuuta/"
+  ]
+ },
+ {
+  "from": "nagel",
+  "to": "chalmers",
+  "from_title": "Nagel: What Is It Like to Be a Bat? (1974)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "builds",
+  "note": "'what it is like' becomes the hard problem",
+  "suggested_urls": [
+   "https://consc.net/papers/facing.html"
+  ]
+ },
+ {
+  "from": "levine",
+  "to": "chalmers",
+  "from_title": "The explanatory gap (1983)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "builds",
+  "note": "from gap to hard problem",
+  "suggested_urls": [
+   "https://consc.net/papers/facing.html"
+  ]
+ },
+ {
+  "from": "leibniz",
+  "to": "chalmers",
+  "from_title": "Gottfried Wilhelm Leibniz (1714)",
+  "to_title": "Chalmers: the hard problem (1995)",
+  "kind": "related",
+  "note": "the mill argument is cited as an early version of the hard problem",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness",
+   "https://plato.stanford.edu/entries/leibniz-mind/"
+  ]
+ },
+ {
+  "from": "leibniz",
+  "to": "searle",
+  "from_title": "Gottfried Wilhelm Leibniz (1714)",
+  "to_title": "Searle: the Chinese room (1980)",
+  "kind": "related",
+  "note": "walking around inside the machine and finding no understanding",
+  "suggested_urls": [
+   "https://plato.stanford.edu/entries/chinese-room/"
+  ]
+ }
+]

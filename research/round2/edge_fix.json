@@ -1,0 +1,141 @@
+{
+ "animism>greekgods": {
+  "kind": "related",
+  "note": "greek religion kept animist elements beside its pantheon of gods"
+ },
+ "animism>aristotle": {
+  "kind": "related",
+  "note": "bach reads aristotle's soul, the form animating a body, as animist"
+ },
+ "christianity>descartes": {
+  "kind": "builds",
+  "note": "descartes set out to prove the soul immaterial, as the church asked of christian philosophers"
+ },
+ "celltheory>levin": null,
+ "dubois>mysterianism": {
+  "kind": "related",
+  "note": "the ignorabimus is seen as anticipating mysterianism, though the two views differ"
+ },
+ "wundt>skinner": {
+  "kind": "against",
+  "note": "watson's behaviorism rejected introspective methods; skinner's later treated introspection as behaviour"
+ },
+ "frege>tarski": {
+  "kind": "related",
+  "note": "frege's semantics for his formal language anticipates tarski's theory of truth"
+ },
+ "solomonoff>schmidhuber": {
+  "kind": "builds",
+  "note": "schmidhuber generalises solomonoff's algorithmic probability and universal prediction"
+ },
+ "conway>wolfram": {
+  "kind": "related",
+  "note": "wolfram cites life as a universal 2d cellular automaton, but calls it recreation, not science"
+ },
+ "digital>simulation": {
+  "kind": "related",
+  "note": "overlapping but distinct: a computational universe need not be one run by someone"
+ },
+ "conway>nca": {
+  "kind": "related",
+  "note": "the neural ca paper names life as the classic cellular automaton before its learned ones"
+ },
+ "dreyfus>embodied": {
+  "kind": "related",
+  "note": "dreyfus's heidegger-based critique of symbolic ai is among those embodied cognition takes up"
+ },
+ "physicalism>functionalism": {
+  "kind": "related",
+  "note": "functionalism is neutral on substance but attractive to materialists, as an alternative to identity theory"
+ },
+ "turing>functionalism": {
+  "kind": "builds",
+  "note": "turing's work inspired putnam's machine-state functionalism"
+ },
+ "leibniz>chalmers": {
+  "kind": "related",
+  "note": "the mill argument is cited as an early version of the hard problem"
+ },
+ "ncc>iit": {
+  "kind": "related",
+  "note": "koch moved from NCC work with crick to working with tononi on IIT"
+ },
+ "idealism>hoffman": {
+  "kind": "related",
+  "note": "hoffman grants the resemblance but says his theory is not idealism"
+ },
+ "metzinger>illusionism": {
+  "kind": "related",
+  "note": "blackmore's illusionist account uses metzinger's self-model"
+ },
+ "huxley>leary": {
+  "kind": "builds",
+  "note": "leary found the book confirmed his psilocybin experience, then befriended huxley"
+ },
+ "watts>illusionism": null,
+ "cogarch>bach": {
+  "kind": "related",
+  "note": "psi compared with soar and ACT-R"
+ },
+ "maslow>bach": {
+  "kind": "related",
+  "note": "maslow's hierarchy of needs reread as a hierarchy of purposes"
+ },
+ "bischof>bach": {
+  "kind": "builds",
+  "note": "via dörner's psi theory, which takes up bischof's cybernetic psychology"
+ },
+ "gwt>bach": {
+  "kind": "related",
+  "note": "bach lists global workspace theory among views converging on his own"
+ },
+ "metzinger>bach": {
+  "kind": "builds",
+  "note": "the self is a representation, not an agent"
+ },
+ "dennett>bach": {
+  "kind": "builds",
+  "note": "conductor theory as an extension of the multiple drafts model"
+ },
+ "kant>bach": null,
+ "plato>bach": {
+  "kind": "related",
+  "note": "vervaeke calls the cave the first simulation theory; bach answers 'almost'"
+ },
+ "buddhism>bach": {
+  "kind": "related",
+  "note": "bach's 'enlightened' stage is reached mostly by advanced buddhist meditators"
+ },
+ "levin>bach": {
+  "kind": "builds",
+  "note": "any cells can compute; morphogenesis and mind may share one algorithm"
+ },
+ "dawkins>bach": {
+  "kind": "related",
+  "note": "bach moves from dawkins's selfish genes to competing software agents"
+ },
+ "greekgods>bach": {
+  "kind": "related",
+  "note": "gods as shared archetypes"
+ },
+ "christianity>bach": {
+  "kind": "related",
+  "note": "the church as a collective agent; 1 corinthians 13"
+ },
+ "wittgenstein>bach": {
+  "kind": "related",
+  "note": "the tractatus as a programme for a precise language"
+ },
+ "llm>bach": {
+  "kind": "related",
+  "note": "bach's reading of what language models are"
+ },
+ "shanahan>bach": {
+  "kind": "related",
+  "note": "shared a panel on machine sentience"
+ },
+ "butlin>cimc": {
+  "kind": "related",
+  "note": "cimc's whitepaper cites the report as ai welfare research"
+ }
+}

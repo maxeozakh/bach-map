@@ -1,0 +1,506 @@
+[
+ {
+  "key": "chomsky|",
+  "title": "Noam Chomsky",
+  "part": null,
+  "years": "1957",
+  "by": null,
+  "summary": "Linguist who argued that language rests on an innate grammar faculty, and a long-standing sceptic that statistical models tell us anything about the mind. His work in the 1950s helped end behaviourism and start cognitive science.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Noam_Chomsky",
+   "note": "Innate grammar and role against behaviourism confirmed; \"long-standing sceptic\" of statistical models is not covered in the article text."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/Noam-Chomsky",
+   "note": "Innateness, the cognitive revolution, and behaviorism are supported; the broad claim about his skepticism toward statistical models is not covered."
+  }
+ },
+ {
+  "key": "lem|Stanisław Lem",
+  "title": "Stanisław Lem",
+  "part": "Stanisław Lem",
+  "years": "1961–1981",
+  "by": null,
+  "summary": "Polish science fiction writer and philosopher of technology. 'Solaris' (1961) is about an alien mind humans cannot understand; 'Golem XIV' (1981) is a set of lectures given by a superhuman computer to humanity.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem",
+   "note": "Golem XIV description confirmed separately at en.wikipedia.org/wiki/Golem_XIV."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/Stanislaw-Lem",
+   "note": "Lem, his nationality, philosophy, and Solaris are supported; this source does not confirm the description of Golem XIV."
+  }
+ },
+ {
+  "key": "solomonoff|",
+  "title": "Solomonoff induction",
+  "part": null,
+  "years": "1964",
+  "by": "Ray Solomonoff",
+  "summary": "Inventor of algorithmic probability, a mathematically ideal (though uncomputable) theory of learning by preferring the shortest programs that explain the data. He attended the 1956 Dartmouth workshop and his ideas underlie later formal theories of universal intelligence.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Ray_Solomonoff",
+   "note": "Link to universal intelligence theories (AIXI) confirmed separately at en.wikipedia.org/wiki/AIXI."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference",
+   "note": "Algorithmic probability, shortest descriptions, uncomputability, and AIXI are supported; this source does not confirm Solomonoff’s Dartmouth attendance."
+  }
+ },
+ {
+  "key": "gaia|",
+  "title": "Gaia hypothesis",
+  "part": null,
+  "years": "1972",
+  "by": "James Lovelock; Lynn Margulis",
+  "summary": "The proposal that life on Earth, taken together, regulates the planet's atmosphere and climate as if it were a single organism. James Lovelock and Lynn Margulis proposed it in the 1970s.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Gaia_hypothesis",
+   "note": "Source describes a self-regulating complex system; the 'single organism' framing is attributed only to some less accepted versions."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Gaia_hypothesis",
+   "note": "Self-regulation is supported, but the single-organism framing is a less accepted version and Margulis explicitly rejected it."
+  }
+ },
+ {
+  "key": "sloman|",
+  "title": "Aaron Sloman",
+  "part": null,
+  "years": "1978",
+  "by": null,
+  "summary": "British philosopher and AI researcher. He argued that philosophy of mind should be done by designing working minds, and he proposed the CogAff scheme that sorts mental processes into reactive, deliberative and reflective layers.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Sloman",
+   "note": "Page calls him Zimbabwean-born, not 'British'; CogAff layers not on this page (cogaffarchive.org confirms reactive, deliberative, meta-management/'reflective')."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Sloman",
+   "note": "The biography and working-minds approach are supported; this page does not confirm the specific three-layer CogAff characterization."
+  }
+ },
+ {
+  "key": "thatcher|The dress",
+  "title": "Perceptual illusions",
+  "part": "The dress",
+  "years": "1980 / 2015",
+  "by": null,
+  "summary": "A viral photograph of a dress that some people saw as white and gold and others as blue and black, because their visual systems made different assumptions about the lighting.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/The_dress",
+   "note": "Source says there is no consensus on the cause; differing lighting assumptions is one leading explanation, not established fact."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/The_dress",
+   "note": ""
+  }
+ },
+ {
+  "key": "quantumcomp|",
+  "title": "Quantum computing",
+  "part": null,
+  "years": "1982",
+  "by": "Richard Feynman; David Deutsch",
+  "summary": "Computers that use quantum superposition and entanglement to solve certain problems, such as factoring, far faster than any known classical method. Building them is hard because quantum states are destroyed by the slightest disturbance from the environment.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+   "note": "Quantum speedups and decoherence are supported, but \"the slightest disturbance\" overstates how readily all quantum states are destroyed."
+  }
+ },
+ {
+  "key": "cyc|",
+  "title": "Cyc",
+  "part": null,
+  "years": "1984",
+  "by": "Douglas Lenat",
+  "summary": "A decades-long project to hand-code millions of common-sense facts and rules so that a machine could reason like a person. Doug Lenat started it in 1984; it never produced general intelligence and became the emblem of hand-built AI.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Cyc",
+   "note": "'Became the emblem of hand-built AI' and 'never produced general intelligence' are not stated; page only reports criticism such as 'catastrophic failure'."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Cyc",
+   "note": "The project, date, hand-built knowledge base, and failure criticism are supported; \"emblem of hand-built AI\" is not specifically documented."
+  }
+ },
+ {
+  "key": "boltzmannmachine|",
+  "title": "Boltzmann machine",
+  "part": null,
+  "years": "1985",
+  "by": "Geoffrey Hinton, Terrence Sejnowski, David Ackley",
+  "summary": "A neural network in which units constrain each other and the whole settles into a low-energy state consistent with the inputs. The restricted version (RBM) drops within-layer links to make training feasible and helped launch deep learning.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Boltzmann_machine",
+   "note": "RBM details (no within-layer links, deep belief networks) are on Wikipedia's separate Restricted Boltzmann machine page."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Boltzmann_machine",
+   "note": "The architecture and RBM simplification are supported; Boltzmann machines sample an equilibrium distribution rather than simply settling into one low-energy state."
+  }
+ },
+ {
+  "key": "brooks|",
+  "title": "Rodney Brooks: subsumption architecture",
+  "part": null,
+  "years": "1986",
+  "by": "Rodney Brooks",
+  "summary": "Brooks argued that intelligence should be grown from the bottom up in robots that act in the world, using layers of simple behaviours with no central world model. The Roomba descends from this work.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Subsumption_architecture",
+   "note": "Roomba link is not on this page; Wikipedia's Roomba page says its design follows Brooks's philosophy."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Subsumption_architecture",
+   "note": "The bottom-up layered architecture and lack of a central world model are supported; the Roomba lineage is not confirmed here."
+  }
+ },
+ {
+  "key": "cogarch|Cognitive architectures",
+  "title": "Cognitive architectures: Soar and ACT-R",
+  "part": "Cognitive architectures",
+  "years": "1987–2017",
+  "by": "Allen Newell, John Laird; John R. Anderson",
+  "summary": "A research tradition that tries to build complete, testable models of a whole mind (perception, memory, motivation, language) rather than isolated modules. It goes under names like cognitive systems, AGI and BICA.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Cognitive_architecture",
+   "note": "Core idea backed; the claim that it 'goes under names like cognitive systems, AGI and BICA' is not confirmed by the page."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Cognitive_architecture",
+   "note": "Comprehensive computational models of minds are supported; treating cognitive systems, AGI, and BICA as interchangeable names is not confirmed."
+  }
+ },
+ {
+  "key": "occ|",
+  "title": "The Cognitive Structure of Emotions",
+  "part": null,
+  "years": "1988",
+  "by": "Andrew Ortony, Gerald Clore, Allan Collins",
+  "summary": "A widely used scheme that sorts emotions into types according to how a person appraises events, agents and objects. Many software agents use it as a lookup table for emotions.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://webs.cs.fiu.edu/ascllab/wp-content/uploads/sites/75/2020/10/lisetti-correctedproofs-ch8-oxford.pdf",
+   "note": "Events/agents/objects scheme and wide use in agents confirmed; use 'as a lookup table for emotions' is not stated."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.scitepress.org/papers/2014/48155/48155.pdf",
+   "note": "The appraisal categories and software-agent use are supported; describing implementations generally as a \"lookup table\" is not confirmed."
+  }
+ },
+ {
+  "key": "penrose|The Gödelian argument and The Emperor's New Mind",
+  "title": "Penrose and Hameroff: quantum consciousness",
+  "part": "The Gödelian argument and The Emperor's New Mind",
+  "years": "1989–1994",
+  "by": "Roger Penrose",
+  "summary": "Penrose's bestseller arguing that minds do something no algorithm can: see the truth of statements that formal systems cannot prove. He concludes that brains exploit non-computable physics.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Roger_Penrose",
+   "note": "Argument and non-computable physics confirmed; 'bestseller' not stated (page notes the 1990 Science Book Prize)."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind",
+   "note": ""
+  }
+ },
+ {
+  "key": "ncc|Christof Koch",
+  "title": "Crick and Koch: neural correlates of consciousness",
+  "part": "Christof Koch",
+  "years": "1990",
+  "by": null,
+  "summary": "Neuroscientist who pioneered the search for neural correlates of consciousness with Francis Crick and later became IIT's most prominent advocate.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Christof_Koch",
+   "note": "Crick collaboration and IIT advocacy with Tononi confirmed; 'most prominent advocate' is not stated."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Christof_Koch",
+   "note": ""
+  }
+ },
+ {
+  "key": "witten|",
+  "title": "Ian Witten: cognition as compression",
+  "part": null,
+  "years": "1980s–1990s",
+  "by": null,
+  "summary": "English-born computer scientist at the University of Waikato, New Zealand, who co-invented prediction-based text compression (PPM) and popularised arithmetic coding; the idea is that to compress data well you must predict it, which requires modelling its structure.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Ian_H._Witten",
+   "note": "Page omits PPM and arithmetic coding; Wikipedia's PPM page credits Cleary and Witten (1984); 'popularised arithmetic coding' unconfirmed."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://web.archive.org/web/20190122113346/https:/www.cs.waikato.ac.nz/~ihw/resume.html",
+   "note": ""
+  }
+ },
+ {
+  "key": "schmidhuber|",
+  "title": "Jürgen Schmidhuber",
+  "part": null,
+  "years": "1990",
+  "by": "Jürgen Schmidhuber",
+  "summary": "The idea that learning is data compression and that curiosity and beauty are rewards for finding better compressions.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://people.idsia.ch/~juergen/creativity.html",
+   "note": "Reward is compression progress (curiosity/interestingness); Schmidhuber defines beauty as compressibility itself and distinguishes it from the reward."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://people.idsia.ch/~juergen/driven2009.pdf",
+   "note": ""
+  }
+ },
+ {
+  "key": "egan|",
+  "title": "Greg Egan",
+  "part": null,
+  "years": "1994",
+  "by": "Greg Egan",
+  "summary": "Hard science fiction about minds that run as software: copies of people living in simulations, citizens who are programs, and what personal identity means when a mind can be copied or merged.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Permutation_City",
+   "note": "Copies in simulations confirmed here; software 'citizens' confirmed on Wikipedia's Diaspora (novel) page."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://gregegan.net/PERMUTATION/Permutation.html",
+   "note": "The source confirms software copies and simulations, but not the specific claim about minds being merged."
+  }
+ },
+ {
+  "key": "hypercomputation|",
+  "title": "Hypercomputation",
+  "part": null,
+  "years": "1999",
+  "by": null,
+  "summary": "Hypothetical machines that compute more than a Turing machine, for example by using infinitely precise real numbers ('geometric') or by sending results back in time ('causal').",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Hypercomputation",
+   "note": "Labels 'geometric' and 'causal' not found; source says time travel alone does not give hypercomputation."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://arxiv.org/pdf/1210.7171",
+   "note": ""
+  }
+ },
+ {
+  "key": "fields|",
+  "title": "Chris Fields",
+  "part": null,
+  "years": "2012",
+  "by": null,
+  "summary": "Independent physicist who applies quantum information theory to biology and cognition, often with Michael Levin and Karl Friston. He treats any system with a boundary as an observer exchanging information with its environment.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://chrisfieldsresearch.com/",
+   "note": "'Independent' not confirmed: his site lists Allen Discovery Center, Tufts. Rest is backed, including Levin and Friston co-authorship."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://arxiv.org/abs/2112.15242",
+   "note": "The source requires a bounded, macroscopically persistent system; merely having any boundary is not enough."
+  }
+ },
+ {
+  "key": "deutsch|",
+  "title": "David Deutsch: constructor theory",
+  "part": null,
+  "years": "2012",
+  "by": "David Deutsch; Chiara Marletto",
+  "summary": "Deutsch proposes restating physics in terms of which transformations are possible and which are impossible, rather than initial conditions and laws of motion. He also holds that science advances by explanation, not prediction.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Constructor_theory",
+   "note": "Constructor theory part backed. 'Explanation, not prediction' is not stated; Wikipedia's Deutsch page only stresses hard-to-vary explanations."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://arxiv.org/pdf/1210.7439",
+   "note": ""
+  }
+ },
+ {
+  "key": "deeplearning|GANs as a model of dreaming",
+  "title": "Deep learning",
+  "part": "GANs as a model of dreaming",
+  "years": "2009–2022",
+  "by": "Ian Goodfellow (GANs)",
+  "summary": "A GAN trains two networks against each other: a generator invents samples and a discriminator judges whether they look real. Ian Goodfellow introduced them in 2014; later GANs became a major method for synthesising photorealistic images.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Generative_adversarial_network",
+   "note": "Goodfellow 2014 and generator/discriminator confirmed; 'first convincing synthetic photographs' is not stated by the source."
+  },
+  "check_2": {
+   "verdict": "contradicted",
+   "url": "https://arxiv.org/abs/1406.2661",
+   "note": "\"produced the first convincing synthetic photographs\" is wrong; the paper generated MNIST, TFD, and 32×32 CIFAR-10 samples and claimed no superiority."
+  }
+ },
+ {
+  "key": "deeplearning|Stable Diffusion",
+  "title": "Deep learning",
+  "part": "Stable Diffusion",
+  "years": "2009–2022",
+  "by": "Stability AI / CompVis",
+  "summary": "An openly released image-generation model whose weights fit in a couple of gigabytes yet can render almost any visual subject.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Stable_Diffusion",
+   "note": "Public release confirmed; source gives 2.4 GB VRAM, not weight file size. 'Almost any visual subject' not stated."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://huggingface.co/CompVis/stable-diffusion-v-1-4-original",
+   "note": ""
+  }
+ },
+ {
+  "key": "deeplearning|Ilya Sutskever",
+  "title": "Deep learning",
+  "part": "Ilya Sutskever",
+  "years": "2009–2022",
+  "by": null,
+  "summary": "Co-author of AlexNet and co-founder of OpenAI, known for early conviction that scaling neural networks would lead to AGI. He left OpenAI in 2024 to found Safe Superintelligence.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever",
+   "note": "AlexNet, OpenAI, departure, and SSI are confirmed; his early scaling-to-AGI conviction is not documented here."
+  }
+ },
+ {
+  "key": "vervaeke|",
+  "title": "John Vervaeke: relevance realization",
+  "part": null,
+  "years": "2012",
+  "by": "John Vervaeke",
+  "summary": "Toronto cognitive scientist known for the lecture series 'Awakening from the Meaning Crisis'. He argues that the core of intelligence is 'relevance realization', and that wisdom traditions (Neoplatonism, Buddhism) cultivate it through practices rather than beliefs.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://deconstructingyourself.com/john-vervaeke-on-relevance-realization.html",
+   "note": "Toronto, lecture series and relevance realization confirmed; 'core of intelligence' and Neoplatonism/Buddhism 'practices rather than beliefs' claims not stated on page."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://meaningcrisis.co/ep-37-awakening-from-the-meaning-crisis-reverse-engineering-enlightenment-part-2/",
+   "note": ""
+  }
+ },
+ {
+  "key": "llm|AI companions",
+  "title": "Large language models",
+  "part": "AI companions",
+  "years": "2017–2023",
+  "by": null,
+  "summary": "Chatbot products that users talk to as friends or partners. Replika is marketed as an AI companion; Claude is Anthropic's assistant.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Replika",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://help.replika.com/hc/en-us/articles/115001070951-What-is-Replika",
+   "note": "Replika's friend, partner, and companion positioning is confirmed; this source does not cover Claude or Anthropic."
+  }
+ },
+ {
+  "key": "chollet|",
+  "title": "Chollet: On the Measure of Intelligence",
+  "part": null,
+  "years": "2019",
+  "by": "François Chollet (On the Measure of Intelligence)",
+  "summary": "Chollet defines intelligence as the efficiency of acquiring new skills, not the possession of skills, and argues that current models mostly interpolate between things they have seen.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://arxiv.org/abs/1911.01547",
+   "note": "Skill-acquisition efficiency definition confirmed; the claim that current models 'mostly interpolate' does not appear in this paper."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://arxiv.org/html/1911.01547",
+   "note": "The skill-acquisition-efficiency definition is explicit; the stronger claim that current models mostly interpolate is not stated here."
+  }
+ },
+ {
+  "key": "marcus|",
+  "title": "Gary Marcus",
+  "part": null,
+  "years": "2022",
+  "by": "Gary Marcus",
+  "summary": "Cognitive scientist and the best-known critic of deep learning. He argues that neural networks cannot reason reliably without built-in symbolic structure and that scaling them up will not yield general intelligence.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Gary_Marcus",
+   "note": "Critic of AI hype, symbol-manipulation and scaling limits confirmed; 'best-known critic of deep learning' is not stated by the source."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://nautil.us/deep-learning-is-hitting-a-wall-238440",
+   "note": "His symbolic-hybrid and anti-scaling arguments are supported; \"best-known critic\" is a subjective superlative not established by the source."
+  }
+ },
+ {
+  "key": "shanahan|",
+  "title": "Murray Shanahan",
+  "part": null,
+  "years": "2024",
+  "by": null,
+  "summary": "Imperial College and DeepMind researcher, author of 'Embodiment and the Inner Life', who describes LLMs as role-players simulating characters. He warns against describing such systems in human terms like 'knows' or 'believes' without care.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Murray_Shanahan",
+   "note": "Affiliations and book confirmed here; role-play view is in arxiv.org/abs/2305.16367, the 'knows/believes' caution was not directly checked."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://www.nature.com/articles/s41586-023-06647-8?code=b02cca2d-457b-4698-bcb1-c8c037812845&error=cookies_not_supported",
+   "note": ""
+  }
+ }
+]

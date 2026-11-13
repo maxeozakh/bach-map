@@ -279,6 +279,22 @@ for a, b_, kind, note in out["edges"]:
 merged[("bach", "cimc")][3] = "the institute's hypothesis rests on his conductor model, his functionalism and the idea that consciousness comes first"
 
 keep = [slim(n) for n in kept]
+
+# second round (research/round2/): items below "highly likely" were sourced or rewritten by one model and
+# re-checked by the other. summaries are replaced whole by key "id|part"; connections by key "from>to", null drops one
+R2 = os.path.join(R, "round2")
+SFIX = json.load(open(os.path.join(R2, "summary_fix.json"))) if os.path.exists(os.path.join(R2, "summary_fix.json")) else {}
+EFIX = json.load(open(os.path.join(R2, "edge_fix.json"))) if os.path.exists(os.path.join(R2, "edge_fix.json")) else {}
+for n in keep:
+    for f in n["facets"]:
+        k = n["id"] + "|" + (f["label"] or "")
+        if k in SFIX: f["tldr"] = SFIX.pop(k)
+for k in SFIX: print("summary_fix did not match:", k)
+for k, v in EFIX.items():
+    a, b_ = k.split(">")
+    if (a, b_) not in merged: print("edge_fix did not match:", k); continue
+    if v is None: del merged[(a, b_)]
+    else: merged[(a, b_)][2], merged[(a, b_)][3] = v["kind"], v["note"]
 for n, k in zip(kept, keep):
     h = None if n.get("own") else start_here.hear(n["id"], n["facets"])
     if h and h["at"] is not None: h["at"] = start_here.clock(h["at"])

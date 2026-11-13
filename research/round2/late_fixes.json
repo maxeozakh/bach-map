@@ -1,0 +1,11 @@
+{
+ "summaries": {
+  "goedel|": "Gödel proved that any consistent formal system whose axioms can be listed mechanically and that is rich enough to do arithmetic contains true statements it cannot prove, and cannot prove its own consistency. He did it by encoding statements about the system as numbers inside the system.",
+  "brooks|": "Brooks argued that intelligence should be grown from the bottom up in robots that act in the world, using layers of simple behaviours with no central world model. He co-founded iRobot, the company that makes the Roomba.",
+  "hypercomputation|": "Hypothetical machines that compute more than a Turing machine, for example by using infinitely precise real numbers, or by exploiting special spacetimes in which an endless computation finishes in finite time for an observer.",
+  "christianity|The Catholic Church": "The religion built on the life and teaching of Jesus; from late antiquity to the early modern age the Catholic Church dominated Western civilisation. Beyond its beliefs, it was an organisation: medieval Christendom saw itself as one community under the Church, bound by canon law.",
+  "physicalism|Physicalism": "The thesis that everything that exists is physical or depends on the physical, with no extra mental or supernatural ingredients. It is the majority view among philosophers (about 52% in a 2020 survey), though far from unanimous.",
+  "cybernetics|Cybernetics": "The mid-century science of control and feedback in animals and machines, born from 1940s exchanges across many disciplines, including early work on neural networks. Norbert Wiener's 1948 book popularised the name; feedback was its central theme, and purposeful behaviour one of its first topics."
+ },
+ "connections": {}
+}

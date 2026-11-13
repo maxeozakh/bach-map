@@ -1,0 +1,505 @@
+[
+ {
+  "from": "chalmers",
+  "to": "panpsychism",
+  "from_title": "Chalmers: the hard problem (1995)",
+  "to_title": "Panpsychism (ancient roots; revived 2000s)",
+  "kind": "builds",
+  "note": "experience as fundamental",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Panpsychism"
+  ]
+ },
+ {
+  "from": "hofstadter",
+  "to": "dennett",
+  "from_title": "Hofstadter: strange loops (1979–2007)",
+  "to_title": "Daniel Dennett (1991)",
+  "kind": "related",
+  "note": "'the mind's i'",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Daniel_Dennett"
+  ]
+ },
+ {
+  "from": "ncc",
+  "to": "iit",
+  "from_title": "Crick and Koch: neural correlates of consciousness (1990)",
+  "to_title": "Integrated Information Theory (2004)",
+  "kind": "related",
+  "note": "koch moved from NCC work with crick to working with tononi on IIT",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Christof_Koch"
+  ]
+ },
+ {
+  "from": "minsky",
+  "to": "gwt",
+  "from_title": "Marvin Minsky (1956–1986)",
+  "to_title": "Global Workspace Theory (1988)",
+  "kind": "related",
+  "note": "many unconscious specialists",
+  "suggested_urls": [
+   "https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=1119&context=ccrg_papers"
+  ]
+ },
+ {
+  "from": "freud",
+  "to": "kahneman",
+  "from_title": "Freud and psychoanalysis (1923)",
+  "to_title": "System 1 and System 2 (2011)",
+  "kind": "related",
+  "note": "most of the mind is not the conscious part",
+  "suggested_urls": [
+   "https://psyche.co/ideas/the-id-and-the-nudge-where-freud-meets-behavioural-economics"
+  ]
+ },
+ {
+  "from": "damasio",
+  "to": "seth",
+  "from_title": "Antonio Damasio (1994)",
+  "to_title": "Anil Seth: biological naturalism (2021)",
+  "kind": "builds",
+  "note": "feeling grounded in body regulation",
+  "suggested_urls": [
+   "https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(13)00211-8"
+  ]
+ },
+ {
+  "from": "idealism",
+  "to": "hoffman",
+  "from_title": "Idealism (1710 onward)",
+  "to_title": "Donald Hoffman: interface theory of perception (2015)",
+  "kind": "related",
+  "note": "hoffman grants the resemblance but says his theory is not idealism",
+  "suggested_urls": [
+   "https://sites.socsci.uci.edu/~ddhoff/MindBody"
+  ]
+ },
+ {
+  "from": "metzinger",
+  "to": "illusionism",
+  "from_title": "Thomas Metzinger: Being No One (2003–2021)",
+  "to_title": "Illusionism (2016)",
+  "kind": "related",
+  "note": "blackmore's illusionist account uses metzinger's self-model",
+  "suggested_urls": [
+   "https://www.susanblackmore.uk/wp-content/uploads/2018/05/Illusionism-Keith-Frankish-chapter-by-Susan-Blackmore-2017.pdf"
+  ]
+ },
+ {
+  "from": "huxley",
+  "to": "leary",
+  "from_title": "The Doors of Perception (1954)",
+  "to_title": "Timothy Leary and the eight-circuit model (1960s–1977)",
+  "kind": "builds",
+  "note": "leary found the book confirmed his psilocybin experience, then befriended huxley",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/The_Doors_of_Perception"
+  ]
+ },
+ {
+  "from": "pribram",
+  "to": "penrose",
+  "from_title": "Holonomic brain theory (1971)",
+  "to_title": "Penrose and Hameroff: quantum consciousness (1989–1994)",
+  "kind": "related",
+  "note": "non-classical physics in the brain",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Quantum_mind"
+  ]
+ },
+ {
+  "from": "egan",
+  "to": "simulation",
+  "from_title": "Greg Egan (1994)",
+  "to_title": "The simulation argument (2003)",
+  "kind": "related",
+  "note": "minds running as software",
+  "suggested_urls": [
+   "https://www.newyorker.com/books/joshua-rothman/what-are-the-odds-we-are-living-in-a-computer-simulation"
+  ]
+ },
+ {
+  "from": "cogarch",
+  "to": "bach",
+  "from_title": "Cognitive architectures: Soar and ACT-R (1987–2017)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "psi compared with soar and ACT-R",
+  "suggested_urls": [
+   "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"
+  ]
+ },
+ {
+  "from": "maslow",
+  "to": "bach",
+  "from_title": "Maslow: A Theory of Human Motivation (1943)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "maslow's hierarchy of needs reread as a hierarchy of purposes",
+  "suggested_urls": [
+   "http://bach.ai/pub/Attention%20based%20learning%20as%20a%20foundation%20for%20consciousness%20Common%20Model%20Bach.pdf"
+  ]
+ },
+ {
+  "from": "bischof",
+  "to": "bach",
+  "from_title": "Norbert Bischof (1980s)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "via dörner's psi theory, which takes up bischof's cybernetic psychology",
+  "suggested_urls": [
+   "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"
+  ]
+ },
+ {
+  "from": "occ",
+  "to": "bach",
+  "from_title": "The Cognitive Structure of Emotions (1988)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "emotions as modes of the whole system, not a lookup table",
+  "suggested_urls": [
+   "https://agi-conf.org/2019/wp-content/uploads/2019/07/paper_30.pdf",
+   "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"
+  ]
+ },
+ {
+  "from": "sloman",
+  "to": "bach",
+  "from_title": "Aaron Sloman (1978)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "philosophy of mind by designing working minds",
+  "suggested_urls": [
+   "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"
+  ]
+ },
+ {
+  "from": "cybernetics",
+  "to": "bach",
+  "from_title": "Cybernetics (1948)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "needs as feedback loops",
+  "suggested_urls": [
+   "https://www.youtube.com/watch?v=XcNlv9gp20o",
+   "http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf"
+  ]
+ },
+ {
+  "from": "schank",
+  "to": "bach",
+  "from_title": "Scripts, Plans, Goals and Understanding (1977)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "neural execution of scripts",
+  "suggested_urls": [
+   "https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf"
+  ]
+ },
+ {
+  "from": "gwt",
+  "to": "bach",
+  "from_title": "Global Workspace Theory (1988)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "bach lists global workspace theory among views converging on his own",
+  "suggested_urls": [
+   "https://www.youtube.com/watch?v=34VOI_oo-qM",
+   "https://ceur-ws.org/Vol-2287/paper29.pdf"
+  ]
+ },
+ {
+  "from": "metzinger",
+  "to": "bach",
+  "from_title": "Thomas Metzinger: Being No One (2003–2021)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "the self is a representation, not an agent",
+  "suggested_urls": [
+   "https://ceur-ws.org/Vol-2287/paper29.pdf",
+   "https://www.youtube.com/watch?v=34VOI_oo-qM"
+  ]
+ },
+ {
+  "from": "dennett",
+  "to": "bach",
+  "from_title": "Daniel Dennett (1991)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "conductor theory as an extension of the multiple drafts model",
+  "suggested_urls": [
+   "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf"
+  ]
+ },
+ {
+  "from": "plato",
+  "to": "bach",
+  "from_title": "Plato: forms and the cave (c. 375 BCE)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "vervaeke calls the cave the first simulation theory; bach answers 'almost'",
+  "suggested_urls": [
+   "https://www.youtube.com/watch?v=rK7ux_JhHM4",
+   "https://www.youtube.com/watch?v=oR-BQTSpL5U"
+  ]
+ },
+ {
+  "from": "buddhism",
+  "to": "bach",
+  "from_title": "Buddhism and meditation (5th c. BCE)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "bach's 'enlightened' stage is reached mostly by advanced buddhist meditators",
+  "suggested_urls": [
+   "https://lexfridman.com/joscha-bach-3-transcript",
+   "https://www.youtube.com/watch?v=yW_ngvMFlYs"
+  ]
+ },
+ {
+  "from": "chalmers",
+  "to": "bach",
+  "from_title": "Chalmers: the hard problem (1995)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "the hard problem dissolves if experience belongs to a simulated character",
+  "suggested_urls": [
+   "https://www.youtube.com/watch?v=SGZ784mBuU0",
+   "https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-episode-87-joscha-bach-on-theories-of-consciousness/"
+  ]
+ },
+ {
+  "from": "panpsychism",
+  "to": "bach",
+  "from_title": "Panpsychism (ancient roots; revived 2000s)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "matter is not conscious; only a simulation can be",
+  "suggested_urls": [
+   "https://lexfridman.com/joscha-bach-3-transcript",
+   "https://www.youtube.com/watch?v=0-nI_MpiuSE"
+  ]
+ },
+ {
+  "from": "lucid",
+  "to": "bach",
+  "from_title": "Lucid dreaming (1980)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "waking perception as a dream constrained by the senses",
+  "suggested_urls": [
+   "https://www.youtube.com/watch?v=3MNBxfrmfmI",
+   "https://media.ccc.de/v/33c3-8369-machine_dreams"
+  ]
+ },
+ {
+  "from": "levin",
+  "to": "bach",
+  "from_title": "Michael Levin: bioelectricity and collective intelligence (2019)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "any cells can compute; morphogenesis and mind may share one algorithm",
+  "suggested_urls": [
+   "https://media.ccc.de/v/37c3-12167-synthetic_sentience",
+   "https://www.youtube.com/watch?v=yW_ngvMFlYs"
+  ]
+ },
+ {
+  "from": "dawkins",
+  "to": "bach",
+  "from_title": "Dawkins: selfish genes and memes (1976)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "bach moves from dawkins's selfish genes to competing software agents",
+  "suggested_urls": [
+   "https://www.youtube.com/watch?v=34VOI_oo-qM"
+  ]
+ },
+ {
+  "from": "greekgods",
+  "to": "bach",
+  "from_title": "Greek gods as archetypes (c. 8th c. BCE)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "gods as shared archetypes",
+  "suggested_urls": [
+   "https://www.youtube.com/watch?v=3MNBxfrmfmI"
+  ]
+ },
+ {
+  "from": "christianity",
+  "to": "bach",
+  "from_title": "Christianity (1st c. CE onward)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "the church as a collective agent; 1 corinthians 13",
+  "suggested_urls": [
+   "https://www.youtube.com/watch?v=7bqdPHLIY8w",
+   "https://joscha.substack.com/p/the-age-of-age"
+  ]
+ },
+ {
+  "from": "jaynes",
+  "to": "bach",
+  "from_title": "Jaynes: the bicameral mind (1976)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "gods as voices in the mind",
+  "suggested_urls": [
+   "https://media.ccc.de/v/37c3-12167-synthetic_sentience"
+  ]
+ },
+ {
+  "from": "digital",
+  "to": "bach",
+  "from_title": "Digital physics (1969)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "strong computationalism: reality itself computes",
+  "suggested_urls": [
+   "https://futureoflife.org/podcast/joscha-bach-and-anthony-aguirre-on-digital-physics-and-moving-towards-beneficial-futures/",
+   "https://media.ccc.de/v/33c3-8369-machine_dreams"
+  ]
+ },
+ {
+  "from": "lamettrie",
+  "to": "bach",
+  "from_title": "La Mettrie: Man a Machine (1747)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "computationalism as the heir of mechanism",
+  "suggested_urls": [
+   "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf",
+   "https://media.ccc.de/v/37c3-12167-synthetic_sentience"
+  ]
+ },
+ {
+  "from": "brouwer",
+  "to": "bach",
+  "from_title": "Constructive mathematics and intuitionism (1908)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "only what can be constructed exists",
+  "suggested_urls": [
+   "https://www.youtube.com/watch?v=yW_ngvMFlYs",
+   "https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine"
+  ]
+ },
+ {
+  "from": "cantor",
+  "to": "bach",
+  "from_title": "Cantor's set theory (1874)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "no completed infinities",
+  "suggested_urls": [
+   "https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine",
+   "https://podscripts.co/podcasts/lex-fridman-podcast/212-joscha-bach-nature-of-reality-dreams-and-consciousness"
+  ]
+ },
+ {
+  "from": "hypercomputation",
+  "to": "bach",
+  "from_title": "Hypercomputation (1999)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "nothing computes beyond turing",
+  "suggested_urls": [
+   "https://media.ccc.de/v/37c3-12167-synthetic_sentience",
+   "https://www.youtube.com/watch?v=YZl4zom3q2g"
+  ]
+ },
+ {
+  "from": "wittgenstein",
+  "to": "bach",
+  "from_title": "Ludwig Wittgenstein (1921–1953)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "the tractatus as a programme for a precise language",
+  "suggested_urls": [
+   "https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine",
+   "https://www.youtube.com/watch?v=XcNlv9gp20o"
+  ]
+ },
+ {
+  "from": "aquinas",
+  "to": "bach",
+  "from_title": "Thomas Aquinas (13th c.)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "builds",
+  "note": "love among the theological virtues",
+  "suggested_urls": [
+   "https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-currents-083-joscha-bach-on-synthetic-intelligence/"
+  ]
+ },
+ {
+  "from": "utilitarianism",
+  "to": "bach",
+  "from_title": "Utilitarianism (1789)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "against",
+  "note": "values derived from how agents work, not a pleasure calculus",
+  "suggested_urls": [
+   "https://media.ccc.de/v/37c3-12167-synthetic_sentience",
+   "https://www.youtube.com/watch?v=ayW7SDyAjZo"
+  ]
+ },
+ {
+  "from": "llm",
+  "to": "bach",
+  "from_title": "Large language models (2017–2023)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "bach's reading of what language models are",
+  "suggested_urls": [
+   "https://lexfridman.com/joscha-bach-3-transcript"
+  ]
+ },
+ {
+  "from": "shanahan",
+  "to": "bach",
+  "from_title": "Murray Shanahan (2024)",
+  "to_title": "Joscha Bach (2003–2026)",
+  "kind": "related",
+  "note": "shared a panel on machine sentience",
+  "suggested_urls": [
+   "https://lifeboat.com/blog/2026/02/sentience-beyond-biology-debate-w-dmitry-volkov-joscha-bach-matthew-macdougall-murray-shanahan"
+  ]
+ },
+ {
+  "from": "butlin",
+  "to": "cimc",
+  "from_title": "AI consciousness and welfare reports (2023–2024)",
+  "to_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "kind": "related",
+  "note": "cimc's whitepaper cites the report as ai welfare research",
+  "suggested_urls": [
+   "https://cimc.ai/publications/research-program-whitepaper/"
+  ]
+ },
+ {
+  "from": "bach",
+  "to": "cimc",
+  "from_title": "Joscha Bach (2003–2026)",
+  "to_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "kind": "builds",
+  "note": "the institute's hypothesis rests on his conductor model, his functionalism and the idea that consciousness comes first",
+  "suggested_urls": [
+   "https://cimc.ai/publications/the-machine-consciousness-hypothesis/",
+   "https://cimc.ai/publications/research-program-whitepaper/"
+  ]
+ },
+ {
+  "from": "iit",
+  "to": "cimc",
+  "from_title": "Integrated Information Theory (2004)",
+  "to_title": "CIMC: the Machine Consciousness Hypothesis (2025)",
+  "kind": "against",
+  "note": "IIT says an ordinary computer can never be conscious",
+  "suggested_urls": [
+   "https://cimc.ai/publications/research-program-whitepaper/"
+  ]
+ }
+]

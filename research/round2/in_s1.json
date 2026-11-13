@@ -1,0 +1,488 @@
+[
+ {
+  "key": "greekgods|",
+  "title": "Greek gods as archetypes",
+  "part": null,
+  "years": "c. 8th c. BCE",
+  "by": null,
+  "summary": "The Olympian gods each personify a domain of human character: war, love, cunning, craft. They quarrel, scheme and take sides in human affairs, as in Homer.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Twelve_Olympians",
+   "note": "Page lists each god's domain; 'personify human character' and quarrelling/taking sides in Homer are not stated there."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/topic/Greek-mythology",
+   "note": ""
+  }
+ },
+ {
+  "key": "genesis|Tower of Babel",
+  "title": "Genesis and the Hebrew Bible",
+  "part": "Tower of Babel",
+  "years": "c. 6th c. BCE",
+  "by": "Hebrew Bible",
+  "summary": "The story in which humanity's shared language is confused so that people can no longer understand each other and their great tower is abandoned. It appears in Genesis 11 and is traditionally read as a warning against human overreach.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Tower_of_Babel",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NRSVUE",
+   "note": "The narrative is confirmed; this source does not itself state the traditional interpretation as a warning against overreach."
+  }
+ },
+ {
+  "key": "pythagoras|",
+  "title": "Pythagoras",
+  "part": null,
+  "years": "6th c. BCE",
+  "by": null,
+  "summary": "Greek thinker whose school held that number is the basis of reality. Later tradition says the school was thrown into scandal by the discovery of irrational quantities.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/pythagoreanism/",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/pythagoras/",
+   "note": "The source confirms later numerical cosmology but does not confirm that irrational quantities threw the school into scandal."
+  }
+ },
+ {
+  "key": "buddhism|Buddhism",
+  "title": "Buddhism and meditation",
+  "part": "Buddhism",
+  "years": "5th c. BCE",
+  "by": "Siddhartha Gautama",
+  "summary": "A contemplative tradition that studies experience from the inside through meditation, teaching that the self is constructed and that suffering comes from attachment. Advanced practitioners report being able to deconstruct ordinary perception and selfhood.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Buddhism",
+   "note": "Non-self, attachment and meditation confirmed; 'advanced practitioners report deconstructing ordinary perception and selfhood' is not stated on the page."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/topic/Buddhism",
+   "note": "Meditation, non-self, and craving are supported; reports by advanced practitioners deconstructing ordinary perception are not specifically confirmed."
+  }
+ },
+ {
+  "key": "aristotle|The unmoved mover",
+  "title": "Aristotle",
+  "part": "The unmoved mover",
+  "years": "c. 350 BCE",
+  "by": "Aristotle",
+  "summary": "Aristotle argued that if anything in the universe changes, something must ultimately drive that change without itself being moved. This 'prime mover' is the minimal philosophical notion of a god: no personality, just the reason things keep going.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Unmoved_mover",
+   "note": "Unmoved first cause confirmed; 'minimal notion of a god: no personality' is not stated; page describes it as self-contemplating."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/aristotle-natphil/",
+   "note": "The unmoved mover is confirmed; describing it as having “no personality” and merely keeping things going is stronger than this source."
+  }
+ },
+ {
+  "key": "christianity|The Catholic Church",
+  "title": "Christianity",
+  "part": "The Catholic Church",
+  "years": "1st c. CE onward",
+  "by": null,
+  "summary": "The religion built on the life and teaching of Jesus; for most of European history the Church was its unifying institution. Beyond its beliefs, it was an organisation that coordinated millions of people for centuries.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Christianity",
+   "note": "Religion based on Jesus's teachings confirmed; Church as Europe's 'unifying institution' coordinating millions is not stated in these terms."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/topic/Christianity",
+   "note": "Christianity’s basis in Jesus and the church’s institutional role are supported; the sweeping European-unification claim is not specifically confirmed."
+  }
+ },
+ {
+  "key": "golem|",
+  "title": "The golem",
+  "part": null,
+  "years": "legend, 16th–19th c.",
+  "by": "Jewish folklore",
+  "summary": "A clay figure brought to life by a rabbi to serve and protect, which follows instructions literally and can run out of control. The best-known version, first written down in the nineteenth century, is about the sixteenth-century Rabbi Loew of Prague.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Golem",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/topic/golem-Jewish-folklore",
+   "note": "The servant, literal obedience, protector role, and Rabbi Löw version are supported; its first nineteenth-century recording is not confirmed."
+  }
+ },
+ {
+  "key": "descartes|Mind-body dualism",
+  "title": "René Descartes",
+  "part": "Mind-body dualism",
+  "years": "1641",
+  "by": "René Descartes",
+  "summary": "Descartes divided reality into extended stuff (res extensa) and thinking stuff (res cogitans), which leaves the puzzle of how the two interact. Most later philosophy of mind is an attempt to escape that puzzle.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem",
+   "note": "Source says Descartes 'set the agenda for subsequent discussions'; 'most later philosophy of mind is an attempt to escape' is stronger."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/dualism/",
+   "note": "Descartes’s distinction and interaction problem are supported; “most later philosophy of mind” attempting escape is an unverified overgeneralization."
+  }
+ },
+ {
+  "key": "idealism|",
+  "title": "Idealism",
+  "part": null,
+  "years": "1710 onward",
+  "by": null,
+  "summary": "The view that reality is fundamentally mental and the physical world is an appearance within mind. Bernardo Kastrup's 'analytic idealism' is a current version.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Idealism",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/idealism/",
+   "note": "The general characterization of idealism is supported; this source does not specifically establish Kastrup’s analytic idealism as a current version."
+  }
+ },
+ {
+  "key": "leibniz|Leibniz",
+  "title": "Gottfried Wilhelm Leibniz",
+  "part": "Leibniz",
+  "years": "1714",
+  "by": null,
+  "summary": "German polymath who co-invented calculus and dreamed of a universal symbolic language in which disputes could be settled by calculation ('let us calculate').",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/leibniz/",
+   "note": "Leibniz’s polymathy and independent calculus development are supported; the universal-language project and quoted “let us calculate” are not confirmed here."
+  }
+ },
+ {
+  "key": "utilitarianism|",
+  "title": "Utilitarianism",
+  "part": null,
+  "years": "1789",
+  "by": "Jeremy Bentham; John Stuart Mill",
+  "summary": "The ethical theory that the right action is the one producing the greatest total wellbeing, in principle a calculus over pleasures and pains. It was developed by Jeremy Bentham and John Stuart Mill and underlies much of effective altruism.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Utilitarianism",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/utilitarianism-history/",
+   "note": "The theory, calculus, Bentham, and Mill are supported; the claim that it underlies much effective altruism is not covered here."
+  }
+ },
+ {
+  "key": "hegel|",
+  "title": "G. W. F. Hegel",
+  "part": null,
+  "years": "1807",
+  "by": "G. W. F. Hegel",
+  "summary": "German idealist who saw history as the process by which Spirit (Geist) comes to know itself. Progress, for him, happens through contradictions that are overcome at a higher level.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/hegel/",
+   "note": "Hegel’s idealism and Spirit’s historical development are supported; “contradictions overcome at a higher level” compresses a disputed interpretation."
+  }
+ },
+ {
+  "key": "wundt|",
+  "title": "Early experimental psychology",
+  "part": null,
+  "years": "1879",
+  "by": null,
+  "summary": "In the 19th century Wilhelm Wundt, Gustav Fechner and Hermann von Helmholtz turned the study of mind into a laboratory science, measuring sensation, attention and reaction and proposing theories of emotion and will.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/History_of_psychology",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/Wilhelm-Wundt",
+   "note": "Wundt’s laboratory psychology is supported; this source does not substantiate the combined roles and measurements attributed to Fechner and Helmholtz."
+  }
+ },
+ {
+  "key": "james|",
+  "title": "William James: The Principles of Psychology",
+  "part": null,
+  "years": "1890",
+  "by": "William James",
+  "summary": "The founding textbook of American psychology, known for its descriptions of the stream of consciousness, attention and the self.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/The_Principles_of_Psychology",
+   "note": "Influential textbook and stream of consciousness confirmed; page's key concepts are emotion, habit, will, not attention and the self; 'founding' not stated."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/biography/William-James",
+   "note": ""
+  }
+ },
+ {
+  "key": "brouwer|",
+  "title": "Constructive mathematics and intuitionism",
+  "part": null,
+  "years": "1908",
+  "by": "L. E. J. Brouwer (intuitionism)",
+  "summary": "A school of mathematics that accepts an object only if you can give a procedure to construct it, rejecting proofs that merely assert existence and treating infinity as a never-finished process.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Intuitionism",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/intuitionism/",
+   "note": "Construction-based truth is supported; the blanket claim that infinity is only a never-finished process oversimplifies Brouwer’s freely generated infinite sequences."
+  }
+ },
+ {
+  "key": "hilbert|",
+  "title": "Hilbert's programme",
+  "part": null,
+  "years": "1920s",
+  "by": "David Hilbert",
+  "summary": "Hilbert asked mathematicians to put all of mathematics into one formal axiom system and to prove, using only simple finite reasoning, that the system is consistent; he expected it also to be complete, so that every true statement could be derived.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Hilbert%27s_program",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/hilbert-program/",
+   "note": "The source confirms formalization and finitist consistency, but not the added expectation that every true statement would be derivable."
+  }
+ },
+ {
+  "key": "goedel|",
+  "title": "Gödel's incompleteness theorems",
+  "part": null,
+  "years": "1931",
+  "by": "Kurt Gödel",
+  "summary": "Gödel proved that any consistent formal system rich enough to do arithmetic contains true statements it cannot prove, and cannot prove its own consistency. He did it by encoding statements about the system as numbers inside the system.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/goedel-incompleteness/",
+   "note": "The theorem guarantees undecidable statements; calling them “true” without specifying the intended model adds a qualification the summary omits."
+  }
+ },
+ {
+  "key": "turing|Alan Turing",
+  "title": "Alan Turing and computability",
+  "part": "Alan Turing",
+  "years": "1936–1950",
+  "by": null,
+  "summary": "English mathematician who defined computation with his abstract machine, helped found AI with the 1950 imitation-game paper, and late in life modelled how chemical patterns form in biology. During the Second World War he led the Bletchley Park section that broke German naval Enigma and designed the Bombe machine used to do it.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Alan_Turing",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/Alan-Turing",
+   "note": "Britannica says Turing and others designed the Bombe; the summary credits its design to Turing alone."
+  }
+ },
+ {
+  "key": "turing|Computing Machinery and Intelligence (the Turing test)",
+  "title": "Alan Turing and computability",
+  "part": "Computing Machinery and Intelligence (the Turing test)",
+  "years": "1936–1950",
+  "by": "Alan Turing",
+  "summary": "The paper that asks 'Can machines think?' and replaces the question with an imitation game, later called the Turing test: if a machine can hold a conversation indistinguishable from a human's, we should grant it intelligence. It also answers a list of objections, including one from telepathy.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence",
+   "note": "The paper proposes substituting the imitation game; “we should grant it intelligence” is a stronger prescription than the source supports."
+  }
+ },
+ {
+  "key": "skinner|",
+  "title": "Behaviorism",
+  "part": null,
+  "years": "1938",
+  "by": "B. F. Skinner",
+  "summary": "The school that restricted psychology to observable behaviour and treated talk of inner mental representations as unscientific. Skinner explained behaviour through its consequences: actions that are reinforced become more frequent.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Behaviorism",
+   "note": "Restriction to observable behaviour is Watson's methodological behaviorism; source says Skinner's radical behaviorism included private events such as thoughts and feelings."
+  },
+  "check_2": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/behaviorism/",
+   "note": ""
+  }
+ },
+ {
+  "key": "vonneumann|Babbage, Zuse, von Neumann",
+  "title": "John von Neumann and the first computers",
+  "part": "Babbage, Zuse, von Neumann",
+  "years": "1837–1956",
+  "by": null,
+  "summary": "Babbage designed a mechanical general-purpose computer in the 1830s; Zuse built the first working programmable computers in Germany around 1941; von Neumann defined the stored-program architecture still used today.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/History_of_computing_hardware",
+   "note": "\"von Neumann defined\" is too strong: sources say the architecture drew on Eckert and Mauchly's work, and Zuse anticipated it in 1936."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC",
+   "note": "“Von Neumann defined” overstates sole credit; the source says the architecture emerged from earlier work by Eckert and Mauchly."
+  }
+ },
+ {
+  "key": "cybernetics|Cybernetics",
+  "title": "Cybernetics",
+  "part": "Cybernetics",
+  "years": "1948",
+  "by": "Norbert Wiener and others",
+  "summary": "The mid-century science of control and feedback in animals and machines, which grew out of control engineering and fed into systems theory and neural networks. Norbert Wiener named it in 1948; its core idea is that purposeful behaviour comes from feedback loops.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Cybernetics",
+   "note": "\"Grew out of control engineering\" not confirmed; source says it arose from exchanges between many disciplines. Wiener says the term was coined in 1947."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/science/cybernetics",
+   "note": "The source confirms control, communication, feedback, animals, machines, and 1948, but does not substantiate the claimed influence on neural networks."
+  }
+ },
+ {
+  "key": "physicalism|Physicalism",
+  "title": "Materialism and physicalism",
+  "part": "Physicalism",
+  "years": "ancient; modern form 20th c.",
+  "by": null,
+  "summary": "The thesis that everything that exists is physical or depends on the physical, with no extra mental or supernatural ingredients. It is the default position in most of contemporary science and analytic philosophy.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Physicalism",
+   "note": "\"Default position in most of contemporary science\" not confirmed; source gives a 51.9% majority among philosophers, with significant opposition."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/physicalism/",
+   "note": "The definition is supported; “default position in most contemporary science and analytic philosophy” is not established by the source."
+  }
+ },
+ {
+  "key": "morpho|",
+  "title": "Turing's morphogenesis",
+  "part": null,
+  "years": "1952",
+  "by": "Alan Turing",
+  "summary": "Turing showed that interacting chemicals that diffuse at different rates spontaneously form spots and stripes. Neural cellular automata are a modern descendant: grids of identical cells that learn local rules to grow and repair a pattern.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Turing_pattern",
+   "note": "Neural cellular automata sentence confirmed separately at distill.pub/2020/growing-ca/."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Turing_pattern",
+   "note": "Turing patterns are supported, but the source does not establish neural cellular automata as their historical or conceptual descendant."
+  }
+ },
+ {
+  "key": "dartmouth|John McCarthy",
+  "title": "The founding of AI",
+  "part": "John McCarthy",
+  "years": "1956",
+  "by": "John McCarthy",
+  "summary": "Computer scientist who coined the term 'artificial intelligence', organised the 1956 Dartmouth workshop and invented Lisp. He championed formal logic as the language in which machines should represent knowledge.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/John-McCarthy",
+   "note": "Coining AI, Lisp, and formalizing commonsense knowledge are supported; this source does not confirm his role organizing the Dartmouth workshop."
+  }
+ },
+ {
+  "key": "minsky|Marvin Minsky",
+  "title": "Marvin Minsky",
+  "part": "Marvin Minsky",
+  "years": "1956–1986",
+  "by": null,
+  "summary": "Co-founder of the field of artificial intelligence at MIT. In 'The Society of Mind' (1986) and 'The Emotion Machine' (2006) he described the mind as a large crowd of simple cooperating processes, with no single principle behind it.",
+  "check_1": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Marvin_Minsky",
+   "note": ""
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/Marvin-Lee-Minsky",
+   "note": "Minsky’s AI prominence is supported, but the source does not cover both books or the summary’s “no single principle” characterization."
+  }
+ },
+ {
+  "key": "minsky|Perceptrons",
+  "title": "Marvin Minsky",
+  "part": "Perceptrons",
+  "years": "1956–1986",
+  "by": "Marvin Minsky; Seymour Papert",
+  "summary": "A mathematical analysis showing that single-layer neural networks cannot learn certain simple functions. It was widely read as proof that neural networks were a dead end, and funding dried up for over a decade.",
+  "check_1": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Perceptrons_(book)",
+   "note": "\"Funding dried up for over a decade\" not confirmed; source treats the book's effect on neural-network research as a disputed claim."
+  },
+  "check_2": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Perceptrons_(book)",
+   "note": "The limitations and subsequent decline are supported, but “funding dried up for over a decade” is stronger than the documented decrease."
+  }
+ }
+]

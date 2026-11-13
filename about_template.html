@@ -65,7 +65,7 @@ th { font-size: 13px; }
   <tr><td><b>likely</b></td><td>at least one check found the core supported but a claim unconfirmed; the card says which</td><td>at least one check called the link commonplace rather than directly documented, or found a qualification</td><td id="s-l"></td><td id="c-l"></td></tr>
   <tr><td><b>possible</b></td><td>at least one check found no adequate source or a contradiction</td><td>at least one check found only an interpretation, or found the link wrong before it was corrected</td><td id="s-p"></td><td id="c-p"></td></tr>
 </table>
-<p>nothing is marked certain. the source link on a card is the page used by the stricter check. two models can share errors and blind spots, so this reduces risk but is not a substitute for expert or primary-source review.</p>
+<p>nothing is marked certain. the source link on a card is the page used by the stricter check. items reworked in the <a href="#round2">second round</a> carry one fresh check instead of two. two models can share errors and blind spots, so this reduces risk but is not a substitute for expert or primary-source review.</p>
 
 <h2 id="made">where it comes from</h2>
 <ul>
@@ -80,7 +80,12 @@ th { font-size: 13px; }
 
 <h3>cross-model verification</h3>
 <p>claude fable 5.2 and gpt 5.6 sol independently checked all 272 summaries and 226 connections against web sources. they disagreed on 46 summaries and 67 connections. the lower verdict determines the confidence shown on the map. the second pass prompted five summary corrections and seven connection corrections.</p>
-<p>after those corrections, 208 summaries are highly likely and 64 likely; 148 connections are highly likely, 37 likely and 41 possible. this is still model review, not human fact-checking.</p>
+<p>after those corrections, 217 summaries were highly likely and 55 likely; 134 connections were highly likely, 51 likely and 41 possible.</p>
+
+<h3 id="round2">second round: sourcing what was less certain</h3>
+<p>every summary and connection below highly likely then went through two more steps. first, claude fable 5.2 looked for a page that states it; where none did, it made the smallest change the sources support: a softened or removed claim, a "builds on" turned into "related", a narrower note. it was told not to make a summary vaguer just to pass. then gpt 5.6 sol checked each result from scratch, with the same rules as before, and its verdict is the one shown. it was shown the pages claude had found but had to open and judge them itself; where it did not agree, three summaries were fixed again and rechecked.</p>
+<p>27 summaries were reworded and 28 kept as they were with a new source. 34 connections were changed and 3 dropped: cell theory to michael levin, alan watts to illusionism, and kant to joscha bach, because nothing in bach's own texts credits kant for that idea. links to bach were checked against his talks and essays.</p>
+<p>now <span id="r2-s-hl"></span> summaries are highly likely and <span id="r2-s-l"></span> likely; <span id="r2-c-hl"></span> connections are highly likely, <span id="r2-c-l"></span> likely and <span id="r2-c-p"></span> possible. the remaining ones are interpretive readings that the map keeps on purpose, such as calling aristotle's soul animist, which is bach's reading. this is still model review, not human fact-checking: a second model agreeing with the first is not the same as a person reading the source.</p>
 
 <h2>starting material</h2>
 <p id="sources-note"></p>
@@ -95,7 +100,7 @@ th { font-size: 13px; }
 const D = JSON.parse(document.getElementById('data').textContent);
 const esc = s => String(s == null ? '' : s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 const el = id => document.getElementById(id);
-for (const [k, key] of [['s', 'summaries'], ['c', 'connections']]) for (const [id, lvl] of [['hl', 'highly likely'], ['l', 'likely'], ['p', 'possible']]) el(k + '-' + id).textContent = D.conf[k][lvl] || 0;
+for (const [k, key] of [['s', 'summaries'], ['c', 'connections']]) for (const [id, lvl] of [['hl', 'highly likely'], ['l', 'likely'], ['p', 'possible']]) { el(k + '-' + id).textContent = D.conf[k][lvl] || 0; if (el('r2-' + k + '-' + id)) el('r2-' + k + '-' + id).textContent = D.conf[k][lvl] || 0; }
 el('stats').textContent = `${D.points} points, ${D.connections} connections`;
 const got = D.sources.filter(s => s.ok).length;
 el('sources-note').textContent = `${got} transcripts and texts of joscha bach's interviews, talks and papers, and the CIMC site` + (D.sources.length > got ? `. ${D.sources.length - got} more were found but could not be retrieved` : '');

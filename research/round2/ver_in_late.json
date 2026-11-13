@@ -1,0 +1,46 @@
+[
+ {
+  "id": "goedel",
+  "facet": "",
+  "title": "Gödel's incompleteness theorems",
+  "years": "1931",
+  "by": "Kurt Gödel",
+  "summary": "Gödel proved that any consistent formal system whose axioms can be listed mechanically and that is rich enough to do arithmetic contains true statements it cannot prove, and cannot prove its own consistency. He did it by encoding statements about the system as numbers inside the system.",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems"
+  ]
+ },
+ {
+  "id": "brooks",
+  "facet": "",
+  "title": "Rodney Brooks: subsumption architecture",
+  "years": "1986",
+  "by": "Rodney Brooks",
+  "summary": "Brooks argued that intelligence should be grown from the bottom up in robots that act in the world, using layers of simple behaviours with no central world model. He co-founded iRobot, the company that makes the Roomba.",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Rodney_Brooks"
+  ]
+ },
+ {
+  "id": "hypercomputation",
+  "facet": "",
+  "title": "Hypercomputation",
+  "years": "1999",
+  "by": null,
+  "summary": "Hypothetical machines that compute more than a Turing machine, for example by using infinitely precise real numbers, or by exploiting special spacetimes in which an endless computation finishes in finite time for an observer.",
+  "suggested_urls": [
+   "https://en.wikipedia.org/wiki/Hypercomputation"
+  ]
+ },
+ {
+  "id": "chomsky",
+  "facet": "",
+  "title": "Noam Chomsky",
+  "years": "1957",
+  "by": null,
+  "summary": "Linguist who argued that language rests on an innate grammar faculty, and a long-standing sceptic that statistical models tell us anything about the mind. His work in the 1950s helped end behaviourism and start cognitive science.",
+  "suggested_urls": [
+   "https://norvig.com/chomsky.html"
+  ]
+ }
+]

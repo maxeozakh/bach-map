@@ -2,7 +2,7 @@
 
 ideas about mind and consciousness that joscha bach has mentioned in public, from the earliest myths to november 2026. a simplified, AI-drawn picture of the ideas, not the ideas themselves. unofficial: joscha bach didn't make or approve it. made with claude fable 5.2 and independently checked by gpt 5.6 sol as of 13 november 2026; not checked by a person. interactive version: https://maxeozakh.github.io/bach-map/. how to read it and where it comes from: https://maxeozakh.github.io/bach-map/about.html
 
-169 points, 226 connections, in chronological order. each summary and connection carries a confidence word (highly likely, likely, possible) that follows from source checks by two models; the lower verdict is shown. summaries are general background, not joscha bach's words, except quotes marked as his.
+169 points, 223 connections, in chronological order. each summary and connection carries a confidence word (highly likely, likely, possible) that follows from source checks by two models; the lower verdict is shown. summaries are general background, not joscha bach's words, except quotes marked as his.
 
 ## Animism
 
@@ -18,17 +18,17 @@ start here, joscha bach on it: [The Machine Consciousness Hypothesis (Joscha Bac
 
 connections:
 
-- related to Greek gods as archetypes (`greekgods`): spirits become named gods with characters. confidence: possible. Greek religion included spirits and anthropomorphic gods, but no source established the proposed historical transformation.
-- leads to Aristotle (`aristotle`): the soul as the organising form of a living body. confidence: possible. No source found saying Aristotle's hylomorphic soul builds on animism; thematic parallel only.
+- related to Greek gods as archetypes (`greekgods`): greek religion kept animist elements beside its pantheon of gods. confidence: highly likely, [source](https://resources.warburg.sas.ac.uk/pdf/bkf100b2414221.pdf)
+- related to Aristotle (`aristotle`): bach reads aristotle's soul, the form animating a body, as animist. confidence: possible. Aristotle's hylomorphism is documented; calling it animist is Bach's interpretation, not a standard historical classification.
 - leads to Joscha Bach (`bach`): spirits as self-organising software. confidence: highly likely, [source](https://cimc.ai/cimcHypothesis.pdf)
 
 ## Greek gods as archetypes
 
 c. 8th c. BCE, myth and religion. school of thought: religion and contemplative traditions. id: `greekgods`
 
-The Olympian gods each personify a domain of human character: war, love, cunning, craft. They quarrel, scheme and take sides in human affairs, as in Homer.
+The Olympian gods each preside over a facet of human life: war, love, craft, trade. They quarrel among themselves and take sides in human affairs, as in Homer's Iliad.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Twelve_Olympians). Page lists each god's domain; 'personify human character' and quarrelling/taking sides in Homer are not stated there.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Greek_mythology)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Twelve_Olympians)
 
@@ -36,8 +36,8 @@ start here, joscha bach on it: [Joscha Bach: Time, Simulation Hypothesis, Existe
 
 connections:
 
-- related to Animism (`animism`): spirits become named gods with characters. confidence: possible. Greek religion included spirits and anthropomorphic gods, but no source established the proposed historical transformation.
-- leads to Joscha Bach (`bach`): gods as shared archetypes. confidence: possible. Gods as shared archetypes is compatible with Bach's multi-mind agents, but the specific Greek-archetype link was not documented.
+- related to Animism (`animism`): greek religion kept animist elements beside its pantheon of gods. confidence: highly likely, [source](https://resources.warburg.sas.ac.uk/pdf/bkf100b2414221.pdf)
+- related to Joscha Bach (`bach`): gods as shared archetypes. confidence: highly likely, [source](https://www.youtube.com/watch?v=3MNBxfrmfmI)
 
 ## Genesis and the Hebrew Bible
 
@@ -74,7 +74,7 @@ by Hebrew Bible
 
 The story in which humanity's shared language is confused so that people can no longer understand each other and their great tower is abandoned. It appears in Genesis 11 and is traditionally read as a warning against human overreach.
 
-confidence: likely, [source](https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NRSVUE). The narrative is confirmed; this source does not itself state the traditional interpretation as a warning against overreach.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Tower_of_Babel)
 
 ### The God of Abraham
 
@@ -94,7 +94,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Bible)
 
 Greek thinker whose school held that number is the basis of reality. Later tradition says the school was thrown into scandal by the discovery of irrational quantities.
 
-confidence: likely, [source](https://plato.stanford.edu/entries/pythagoras/). The source confirms later numerical cosmology but does not confirm that irrational quantities threw the school into scandal.
+confidence: highly likely, [source](https://plato.stanford.edu/entries/pythagoreanism/)
 
 start here, read: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/pythagoreanism/)
 
@@ -102,7 +102,7 @@ start here, joscha bach on it: [Donald Hoffman Λ Joscha Bach: Consciousness, G�
 
 connections:
 
-- related to Plato: forms and the cave (`plato`): a disputed Pythagorean influence on Plato's metaphysics and mathematics. confidence: possible, [source](https://plato.stanford.edu/entries/pythagoreanism/). Pythagorean influence on Plato is disputed.
+- related to Plato: forms and the cave (`plato`): a disputed Pythagorean influence on Plato's metaphysics and mathematics. confidence: highly likely, [source](https://plato.stanford.edu/entries/pythagoreanism/)
 
 ## Logos
 
@@ -120,7 +120,7 @@ start here, joscha bach on it: [Machine Learning Street Talk – Why Leibniz Cou
 
 connections:
 
-- leads to Stoicism (`stoicism`): the stoics made logos the rational order of the cosmos. confidence: likely. Heraclitean and Stoic logos are a standard historical connection, though the opened pages did not explicitly state direct influence.
+- leads to Stoicism (`stoicism`): the stoics made logos the rational order of the cosmos. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Logos)
 - leads to Christianity (`christianity`): 'in the beginning was the word'. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Logos)
 
 ## Buddhism and meditation
@@ -131,9 +131,9 @@ connections:
 
 by Siddhartha Gautama
 
-A contemplative tradition that studies experience from the inside through meditation, teaching that the self is constructed and that suffering comes from attachment. Advanced practitioners report being able to deconstruct ordinary perception and selfhood.
+A contemplative tradition that studies experience from the inside through meditation, teaching that the self is constructed and that suffering comes from attachment. Its insight practice (vipassanā) aims at seeing directly that everything in experience, the self included, is impermanent.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Buddhism). Non-self, attachment and meditation confirmed; 'advanced practitioners report deconstructing ordinary perception and selfhood' is not stated on the page.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Buddhism)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Buddhism)
 
@@ -141,7 +141,7 @@ start here, joscha bach on it: [The Ghost in the Machine (35C3)](https://media.c
 
 connections:
 
-- leads to Joscha Bach (`bach`): the self is constructed and can be seen through; the 'enlightened mind' level. confidence: possible. Bach discusses meditation and constructed selfhood, but no opened source established Buddhism as a source for his levels.
+- related to Joscha Bach (`bach`): bach's 'enlightened' stage is reached mostly by advanced buddhist meditators. confidence: highly likely, [source](https://lexfridman.com/joscha-bach-3-transcript)
 
 ### The Dalai Lama
 
@@ -173,9 +173,9 @@ start here, joscha bach on it: [The Operation of Consciousness (AGI-25, Reykjavi
 
 connections:
 
-- related to Pythagoras (`pythagoras`): a disputed Pythagorean influence on Plato's metaphysics and mathematics. confidence: possible, [source](https://plato.stanford.edu/entries/pythagoreanism/). Pythagorean influence on Plato is disputed.
+- related to Pythagoras (`pythagoras`): a disputed Pythagorean influence on Plato's metaphysics and mathematics. confidence: highly likely, [source](https://plato.stanford.edu/entries/pythagoreanism/)
 - leads to Aristotle (`aristotle`): aristotle answers his teacher's theory of forms. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Theory_of_forms)
-- related to Joscha Bach (`bach`): the cave: we see a projection. confidence: possible. Bach discusses Platonism and Platonic forms, but no mention refers to the cave.
+- related to Joscha Bach (`bach`): vervaeke calls the cave the first simulation theory; bach answers 'almost'. confidence: highly likely, [source](https://www.youtube.com/watch?v=rK7ux_JhHM4)
 
 ## Aristotle
 
@@ -191,7 +191,7 @@ start here, joscha bach on it: [Self Models of Loving Grace (38C3)](https://medi
 
 connections:
 
-- builds on Animism (`animism`): the soul as the organising form of a living body. confidence: possible. No source found saying Aristotle's hylomorphic soul builds on animism; thematic parallel only.
+- related to Animism (`animism`): bach reads aristotle's soul, the form animating a body, as animist. confidence: possible. Aristotle's hylomorphism is documented; calling it animist is Bach's interpretation, not a standard historical classification.
 - builds on Plato: forms and the cave (`plato`): aristotle answers his teacher's theory of forms. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Theory_of_forms)
 - leads to Thomas Aquinas (`aquinas`): aquinas merges aristotle with christian doctrine. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Thomas_Aquinas)
 - leads to Joscha Bach (`bach`): the soul as the form of a living body. confidence: highly likely, [source](https://media.ccc.de/v/38c3-self-models-of-loving-grace)
@@ -208,9 +208,9 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/On_the_Soul)
 
 by Aristotle
 
-Aristotle argued that if anything in the universe changes, something must ultimately drive that change without itself being moved. This 'prime mover' is the minimal philosophical notion of a god: no personality, just the reason things keep going.
+Aristotle argued that if anything in the universe changes, something must ultimately drive that change without itself being moved. He called this 'prime mover' a god, but a spare one: it does nothing except think about thinking, and moves the heavens only as an object of desire.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Unmoved_mover). Unmoved first cause confirmed; 'minimal notion of a god: no personality' is not stated; page describes it as self-contemplating.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Unmoved_mover)
 
 ## Stoicism
 
@@ -228,7 +228,7 @@ start here, joscha bach on it: [Singularity.FM – Joscha Bach: We need to under
 
 connections:
 
-- builds on Logos (`logos`): the stoics made logos the rational order of the cosmos. confidence: likely. Heraclitean and Stoic logos are a standard historical connection, though the opened pages did not explicitly state direct influence.
+- builds on Logos (`logos`): the stoics made logos the rational order of the cosmos. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Logos)
 
 ## Christianity
 
@@ -236,9 +236,9 @@ connections:
 
 ### The Catholic Church
 
-The religion built on the life and teaching of Jesus; for most of European history the Church was its unifying institution. Beyond its beliefs, it was an organisation that coordinated millions of people for centuries.
+The religion built on the life and teaching of Jesus; from late antiquity to the early modern age the Catholic Church dominated Western civilisation. Beyond its beliefs, it was an organisation: medieval Christendom saw itself as one community under the Church, bound by canon law.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Christianity). Religion based on Jesus's teachings confirmed; Church as Europe's 'unifying institution' coordinating millions is not stated in these terms.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Christendom)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Christianity)
 
@@ -249,8 +249,8 @@ connections:
 - builds on Genesis and the Hebrew Bible (`genesis`): the hebrew bible becomes the old testament. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Old_Testament)
 - builds on Logos (`logos`): 'in the beginning was the word'. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Logos)
 - leads to Thomas Aquinas (`aquinas`): scholastic theology. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Thomas_Aquinas)
-- leads to René Descartes (`descartes`): immaterial soul becomes res cogitans. confidence: likely. SEP Dualism traces Christian adoption of Platonic soul-dualism before Descartes but does not state the derivation explicitly.
-- leads to Joscha Bach (`bach`): the church as a collective agent; 1 corinthians 13. confidence: possible. Bach discusses collective agency, love, and 1 Corinthians 13, but the claimed Christianity-to-Bach dependency remains interpretive.
+- leads to René Descartes (`descartes`): descartes set out to prove the soul immaterial, as the church asked of christian philosophers. confidence: highly likely, [source](https://web.viu.ca/johnstoi/descartes/descartesmeditations.htm)
+- related to Joscha Bach (`bach`): the church as a collective agent; 1 corinthians 13. confidence: highly likely, [source](https://www.youtube.com/watch?v=7bqdPHLIY8w)
 
 ### 1 Corinthians 13
 
@@ -290,7 +290,7 @@ connections:
 
 - builds on Aristotle (`aristotle`): aquinas merges aristotle with christian doctrine. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Thomas_Aquinas)
 - builds on Christianity (`christianity`): scholastic theology. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Thomas_Aquinas)
-- leads to Joscha Bach (`bach`): love among the theological virtues. confidence: possible. Aquinas treats charity as love, but no opened source showed Bach's framework building on that theological virtue.
+- leads to Joscha Bach (`bach`): love among the theological virtues. confidence: highly likely, [source](https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-currents-083-joscha-bach-on-synthetic-intelligence/)
 
 ### The seven virtues
 
@@ -308,7 +308,7 @@ by Jewish folklore
 
 A clay figure brought to life by a rabbi to serve and protect, which follows instructions literally and can run out of control. The best-known version, first written down in the nineteenth century, is about the sixteenth-century Rabbi Loew of Prague.
 
-confidence: likely, [source](https://www.britannica.com/topic/golem-Jewish-folklore). The servant, literal obedience, protector role, and Rabbi Löw version are supported; its first nineteenth-century recording is not confirmed.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Golem)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Golem)
 
@@ -330,11 +330,11 @@ start here, joscha bach on it: [AGI-24 keynote on cyber animism (Seattle; Machin
 
 connections:
 
-- builds on Christianity (`christianity`): immaterial soul becomes res cogitans. confidence: likely. SEP Dualism traces Christian adoption of Platonic soul-dualism before Descartes but does not state the derivation explicitly.
+- builds on Christianity (`christianity`): descartes set out to prove the soul immaterial, as the church asked of christian philosophers. confidence: highly likely, [source](https://web.viu.ca/johnstoi/descartes/descartesmeditations.htm)
 - leads to Occasionalism (`occasionalism`): a fix for how mind and body could interact. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Occasionalism)
 - challenged by Empiricism: Locke and Hume (`empiricism`): experience instead of innate ideas. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Innatism)
 - challenged by Gottfried Wilhelm Leibniz (`leibniz`): leibniz rejects interaction between two substances. confidence: highly likely, [source](https://plato.stanford.edu/entries/leibniz-mind/)
-- challenged by La Mettrie: Man a Machine (`lamettrie`): la mettrie extends descartes' animal-machine to humans and drops the soul. confidence: likely, [source](https://en.wikipedia.org/wiki/Man_a_Machine). Extends Descartes' animal-automaton argument to humans and denies a separate soul; so it both builds on and opposes Descartes.
+- challenged by La Mettrie: Man a Machine (`lamettrie`): la mettrie extends descartes' animal-machine to humans and drops the soul. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Man_a_Machine)
 
 ### Meditations on First Philosophy
 
@@ -348,9 +348,9 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Meditations_on
 
 by René Descartes
 
-Descartes divided reality into extended stuff (res extensa) and thinking stuff (res cogitans), which leaves the puzzle of how the two interact. Most later philosophy of mind is an attempt to escape that puzzle.
+Descartes divided reality into extended stuff (res extensa) and thinking stuff (res cogitans), which leaves the puzzle of how the two interact. That puzzle set the agenda for later discussion of the mind-body relation.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem). Source says Descartes 'set the agenda for subsequent discussions'; 'most later philosophy of mind is an attempt to escape' is stronger.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Mind%E2%80%93body_problem)
 
 ## Occasionalism
 
@@ -412,7 +412,7 @@ confidence: highly likely, [source](https://plato.stanford.edu/entries/hume/)
 
 The view that reality is fundamentally mental and the physical world is an appearance within mind. Bernardo Kastrup's 'analytic idealism' is a current version.
 
-confidence: likely, [source](https://plato.stanford.edu/entries/idealism/). The general characterization of idealism is supported; this source does not specifically establish Kastrup’s analytic idealism as a current version.
+confidence: likely, [source](https://en.wikipedia.org/wiki/Idealism). Idealism is broader; only subjective forms specifically treat the external world as appearance within mind.
 
 start here, read: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/idealism/)
 
@@ -422,7 +422,7 @@ connections:
 
 - builds on Empiricism: Locke and Hume (`empiricism`): berkeley: to be is to be perceived. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Empiricism)
 - leads to G. W. F. Hegel (`hegel`): spirit coming to know itself. confidence: highly likely, [source](https://en.wikipedia.org/wiki/German_idealism)
-- leads to Donald Hoffman: interface theory of perception (`hoffman`): conscious agents as the base of reality. confidence: possible. Commentators read conscious realism as idealism, but Hoffman writes that his interface theory 'is not idealism' and distances conscious realism from Kant.
+- related to Donald Hoffman: interface theory of perception (`hoffman`): hoffman grants the resemblance but says his theory is not idealism. confidence: highly likely, [source](https://sites.socsci.uci.edu/~ddhoff/MindBody)
 
 ## Gottfried Wilhelm Leibniz
 
@@ -432,7 +432,7 @@ connections:
 
 German polymath who co-invented calculus and dreamed of a universal symbolic language in which disputes could be settled by calculation ('let us calculate').
 
-confidence: likely, [source](https://plato.stanford.edu/entries/leibniz/). Leibniz’s polymathy and independent calculus development are supported; the universal-language project and quoted “let us calculate” are not confirmed here.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)
 
 start here, read: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/leibniz/)
 
@@ -441,10 +441,10 @@ start here, joscha bach on it: [Machine Learning Street Talk #82 – Dr. Joscha 
 connections:
 
 - argues against René Descartes (`descartes`): leibniz rejects interaction between two substances. confidence: highly likely, [source](https://plato.stanford.edu/entries/leibniz-mind/)
-- leads to Immanuel Kant (`kant`): the rationalist side kant tries to reconcile. confidence: likely, [source](https://en.wikipedia.org/wiki/Immanuel_Kant). Kant studied Leibniz and Wolff, then criticised Leibnizian-Wolffian rationalism; so partly against as well as builds.
+- leads to Immanuel Kant (`kant`): the rationalist side kant tries to reconcile. confidence: highly likely, [source](https://plato.stanford.edu/entries/kant-leibniz/)
 - leads to Gottlob Frege (`frege`): leibniz's dream of a calculus of thought. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Begriffsschrift)
-- related to Searle: the Chinese room (`searle`): walking around inside the machine and finding no understanding. confidence: likely. The mill and Chinese room are commonly compared as internal-observer arguments, but differ in target and conclusion.
-- leads to Chalmers: the hard problem (`chalmers`): the mill argument is the hard problem in 1714. confidence: possible. Sources name Leibniz's mill as a precursor of the hard problem; none says Chalmers drew on it. 'Related' would be documented.
+- related to Searle: the Chinese room (`searle`): walking around inside the machine and finding no understanding. confidence: highly likely, [source](https://plato.stanford.edu/entries/chinese-room/)
+- related to Chalmers: the hard problem (`chalmers`): the mill argument is cited as an early version of the hard problem. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
 
 ### Leibniz's mill
 
@@ -470,9 +470,9 @@ start here, joscha bach on it: [Synthetic Sentience (37C3)](https://media.ccc.de
 
 connections:
 
-- argues against René Descartes (`descartes`): la mettrie extends descartes' animal-machine to humans and drops the soul. confidence: likely, [source](https://en.wikipedia.org/wiki/Man_a_Machine). Extends Descartes' animal-automaton argument to humans and denies a separate soul; so it both builds on and opposes Descartes.
-- leads to Materialism and physicalism (`physicalism`): man a machine. confidence: likely, [source](https://en.wikipedia.org/wiki/Man_a_Machine). Described as a work of materialist philosophy; La Mettrie is part of the tradition rather than a source of modern physicalism.
-- leads to Joscha Bach (`bach`): computationalism as the heir of mechanism. confidence: likely, [source](https://media.ccc.de/v/37c3-12167-synthetic_sentience). La Mettrie is consistently named as an ancestor; the quoted phrase "computationalism is the new mechanism" was not found in the evidence.
+- argues against René Descartes (`descartes`): la mettrie extends descartes' animal-machine to humans and drops the soul. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Man_a_Machine)
+- leads to Materialism and physicalism (`physicalism`): man a machine. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Materialism)
+- leads to Joscha Bach (`bach`): computationalism as the heir of mechanism. confidence: highly likely, [source](https://media.ccc.de/v/37c3-12167-synthetic_sentience)
 
 ## The Enlightenment
 
@@ -489,7 +489,7 @@ start here, joscha bach on it: [Computational Meta-Psychology (32C3)](https://me
 connections:
 
 - related to Immanuel Kant (`kant`): kant's 'dare to know'. confidence: highly likely, [source](https://en.wikipedia.org/wiki/What_Is_Enlightenment%3F)
-- leads to Utilitarianism (`utilitarianism`): ethics as calculation. confidence: likely. Bentham's cited influences (Helvetius, Beccaria, Hume) are Enlightenment figures, but no opened page states the link in these words.
+- leads to Utilitarianism (`utilitarianism`): ethics as calculation. confidence: likely. Bentham systematized utility and felicific calculation, but the broad Enlightenment-to-utilitarianism link is not explicitly stated on the checked page.
 
 ## Immanuel Kant
 
@@ -508,11 +508,10 @@ start here, mentioned by joscha bach in: [The California Institute for Machine C
 connections:
 
 - builds on Empiricism: Locke and Hume (`empiricism`): hume woke kant from his 'dogmatic slumber'. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Immanuel_Kant)
-- builds on Gottfried Wilhelm Leibniz (`leibniz`): the rationalist side kant tries to reconcile. confidence: likely, [source](https://en.wikipedia.org/wiki/Immanuel_Kant). Kant studied Leibniz and Wolff, then criticised Leibnizian-Wolffian rationalism; so partly against as well as builds.
+- builds on Gottfried Wilhelm Leibniz (`leibniz`): the rationalist side kant tries to reconcile. confidence: highly likely, [source](https://plato.stanford.edu/entries/kant-leibniz/)
 - related to The Enlightenment (`enlightenment`): kant's 'dare to know'. confidence: highly likely, [source](https://en.wikipedia.org/wiki/What_Is_Enlightenment%3F)
 - leads to G. W. F. Hegel (`hegel`): german idealism. confidence: highly likely, [source](https://en.wikipedia.org/wiki/German_idealism)
 - leads to Phenomenology (`husserl`): the mind's contribution to experience. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Edmund_Husserl)
-- leads to Joscha Bach (`bach`): we experience the mind's model, not the thing in itself. confidence: possible. No statement by Bach on Kant's phenomena/thing-in-itself was found; Kant work at CIMC is by colleagues.
 
 ### Critique of Pure Reason
 
@@ -530,7 +529,7 @@ by Jeremy Bentham; John Stuart Mill
 
 The ethical theory that the right action is the one producing the greatest total wellbeing, in principle a calculus over pleasures and pains. It was developed by Jeremy Bentham and John Stuart Mill and underlies much of effective altruism.
 
-confidence: likely, [source](https://plato.stanford.edu/entries/utilitarianism-history/). The theory, calculus, Bentham, and Mill are supported; the claim that it underlies much effective altruism is not covered here.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Utilitarianism)
 
 start here, read: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/utilitarianism-history/)
 
@@ -538,8 +537,8 @@ start here, joscha bach on it: [Joscha Bach PUSHES Roman Yampolskiy: Only ASI Ca
 
 connections:
 
-- builds on The Enlightenment (`enlightenment`): ethics as calculation. confidence: likely. Bentham's cited influences (Helvetius, Beccaria, Hume) are Enlightenment figures, but no opened page states the link in these words.
-- challenged by Joscha Bach (`bach`): values derived from how agents work, not a pleasure calculus. confidence: likely, [source](https://www.youtube.com/watch?v=ayW7SDyAjZo). Quote shows the rejection; the positive alternative in the note is not in the quote.
+- builds on The Enlightenment (`enlightenment`): ethics as calculation. confidence: likely. Bentham systematized utility and felicific calculation, but the broad Enlightenment-to-utilitarianism link is not explicitly stated on the checked page.
+- challenged by Joscha Bach (`bach`): values derived from how agents work, not a pleasure calculus. confidence: highly likely, [source](https://media.ccc.de/v/37c3-12167-synthetic_sentience)
 
 ## G. W. F. Hegel
 
@@ -549,7 +548,7 @@ by G. W. F. Hegel
 
 German idealist who saw history as the process by which Spirit (Geist) comes to know itself. Progress, for him, happens through contradictions that are overcome at a higher level.
 
-confidence: likely, [source](https://plato.stanford.edu/entries/hegel/). Hegel’s idealism and Spirit’s historical development are supported; “contradictions overcome at a higher level” compresses a disputed interpretation.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Georg_Wilhelm_Friedrich_Hegel)
 
 start here, read: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/hegel/)
 
@@ -573,10 +572,6 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Cell_theory)
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Cell_theory)
 
 start here, mentioned by joscha bach in: [Machine Dreams (33C3)](https://media.ccc.de/v/33c3-8369-machine_dreams#t=1344), from 22:26
-
-connections:
-
-- leads to Michael Levin: bioelectricity and collective intelligence (`levin`): cells as agents that cooperate to build bodies. confidence: possible. No source found tying Levin's work to cell theory; cell theory does not treat cells as cooperating agents.
 
 ## Charles Darwin
 
@@ -612,7 +607,7 @@ start here, mentioned by joscha bach in: [Machine Dreams (German-language lectur
 
 connections:
 
-- leads to Mysterianism (`mysterianism`): 'we will never know' returns a century later. confidence: possible. Thematic parallel; pages opened name Leibniz and Huxley as precursors, not du Bois-Reymond. No influence shown.
+- related to Mysterianism (`mysterianism`): the ignorabimus is seen as anticipating mysterianism, though the two views differ. confidence: highly likely, [source](https://www.cambridge.org/core/journals/science-in-context/article/reconsidering-the-ignorabimus-du-boisreymond-and-the-hard-problem-of-consciousness/8C19E49A253DD5011482AD4252FF563D)
 
 ## Cantor's set theory
 
@@ -632,7 +627,7 @@ connections:
 
 - challenged by Constructive mathematics and intuitionism (`brouwer`): intuitionism rejects completed infinities. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Intuitionism)
 - leads to Russell and Whitehead (`russell`): naive set theory runs into russell's paradox. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Russell%27s_paradox)
-- challenged by Joscha Bach (`bach`): no completed infinities. confidence: possible. Quotes only recount contradictions in Cantor's set theory; Bach's rejection of infinities is stated elsewhere, not about Cantor here.
+- challenged by Joscha Bach (`bach`): no completed infinities. confidence: highly likely, [source](https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine)
 
 ## Epiphenomenalism
 
@@ -687,7 +682,7 @@ start here, joscha bach on it: [Joscha Bach - Why Your Thoughts Aren't Yours. (M
 
 In the 19th century Wilhelm Wundt, Gustav Fechner and Hermann von Helmholtz turned the study of mind into a laboratory science, measuring sensation, attention and reaction and proposing theories of emotion and will.
 
-confidence: likely, [source](https://www.britannica.com/biography/Wilhelm-Wundt). Wundt’s laboratory psychology is supported; this source does not substantiate the combined roles and measurements attributed to Fechner and Helmholtz.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Wilhelm_Wundt)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/History_of_psychology)
 
@@ -695,8 +690,8 @@ start here, mentioned by joscha bach in: [How to Build a Mind: Artificial Intell
 
 connections:
 
-- related to William James: The Principles of Psychology (`james`): psychology becomes a laboratory science. confidence: likely. Pages opened name Wundt as founder of experimental psychology and James teaching it from 1875, but do not link them directly.
-- challenged by Behaviorism (`skinner`): behaviorism made observable behaviour, rather than introspection, its primary evidence. confidence: likely. The broad behaviorist turn fits, but Skinner retained private events and self-observation.
+- related to William James: The Principles of Psychology (`james`): psychology becomes a laboratory science. confidence: highly likely, [source](https://psychclassics.yorku.ca/Special/Institutions/labsintro.htm)
+- challenged by Behaviorism (`skinner`): watson's behaviorism rejected introspective methods; skinner's later treated introspection as behaviour. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Behaviorism)
 
 ## Gottlob Frege
 
@@ -716,8 +711,8 @@ connections:
 
 - builds on Gottfried Wilhelm Leibniz (`leibniz`): leibniz's dream of a calculus of thought. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Begriffsschrift)
 - leads to Russell and Whitehead (`russell`): russell finds the paradox in frege's system. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Russell%27s_paradox)
-- leads to Ludwig Wittgenstein (`wittgenstein`): logic as the form of language. confidence: likely, [source](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein). Wittgenstein read Frege, visited him in 1911; Frege sent him to Russell. The note's wording is a gloss.
-- leads to Alfred Tarski (`tarski`): a formal definition of truth. confidence: possible. SEP's Tarski and Tarski-truth entries do not mention Frege; any influence is indirect.
+- leads to Ludwig Wittgenstein (`wittgenstein`): logic as the form of language. confidence: highly likely, [source](https://plato.stanford.edu/entries/wittgenstein/)
+- related to Alfred Tarski (`tarski`): frege's semantics for his formal language anticipates tarski's theory of truth. confidence: highly likely, [source](https://jhaponline.org/jhap/article/download/3970/3666)
 
 ## Peano axioms
 
@@ -743,9 +738,9 @@ connections:
 
 by William James
 
-The founding textbook of American psychology, known for its descriptions of the stream of consciousness, attention and the self.
+A groundbreaking textbook by the man often called the father of American psychology, known for its descriptions of the stream of consciousness, attention and the self.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/The_Principles_of_Psychology). Influential textbook and stream of consciousness confirmed; page's key concepts are emotion, habit, will, not attention and the self; 'founding' not stated.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/William_James)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/The_Principles_of_Psychology)
 
@@ -753,7 +748,7 @@ start here, mentioned by joscha bach in: [The Machine Consciousness Hypothesis (
 
 connections:
 
-- related to Early experimental psychology (`wundt`): psychology becomes a laboratory science. confidence: likely. Pages opened name Wundt as founder of experimental psychology and James teaching it from 1875, but do not link them directly.
+- related to Early experimental psychology (`wundt`): psychology becomes a laboratory science. confidence: highly likely, [source](https://psychclassics.yorku.ca/Special/Institutions/labsintro.htm)
 - leads to Antonio Damasio (`damasio`): emotion as perception of the body. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Antonio_Damasio)
 
 ## Constructive mathematics and intuitionism
@@ -764,7 +759,7 @@ by L. E. J. Brouwer (intuitionism)
 
 A school of mathematics that accepts an object only if you can give a procedure to construct it, rejecting proofs that merely assert existence and treating infinity as a never-finished process.
 
-confidence: likely, [source](https://plato.stanford.edu/entries/intuitionism/). Construction-based truth is supported; the blanket claim that infinity is only a never-finished process oversimplifies Brouwer’s freely generated infinite sequences.
+confidence: highly likely, [source](https://plato.stanford.edu/entries/intuitionism/)
 
 start here, read: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/intuitionism/)
 
@@ -774,7 +769,7 @@ connections:
 
 - argues against Cantor's set theory (`cantor`): intuitionism rejects completed infinities. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Intuitionism)
 - related to Hilbert's programme (`hilbert`): the formalism versus intuitionism dispute. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Brouwer%E2%80%93Hilbert_controversy)
-- leads to Joscha Bach (`bach`): only what can be constructed exists. confidence: possible. Bach endorses constructive mathematics, but no opened source specifically tied his view to Brouwer.
+- leads to Joscha Bach (`bach`): only what can be constructed exists. confidence: possible. Bach strongly advocates constructive mathematics, but no opened source documented a specific debt to Brouwer or intuitionism.
 
 ## Russell and Whitehead
 
@@ -835,7 +830,7 @@ by David Hilbert
 
 Hilbert asked mathematicians to put all of mathematics into one formal axiom system and to prove, using only simple finite reasoning, that the system is consistent; he expected it also to be complete, so that every true statement could be derived.
 
-confidence: likely, [source](https://plato.stanford.edu/entries/hilbert-program/). The source confirms formalization and finitist consistency, but not the added expectation that every true statement would be derivable.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hilbert%27s_program)
 
 start here, read: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/hilbert-program/)
 
@@ -863,9 +858,9 @@ start here, joscha bach on it: [The Ghost in the Machine (35C3)](https://media.c
 
 connections:
 
-- builds on Gottlob Frege (`frege`): logic as the form of language. confidence: likely, [source](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein). Wittgenstein read Frege, visited him in 1911; Frege sent him to Russell. The note's wording is a gloss.
+- builds on Gottlob Frege (`frege`): logic as the form of language. confidence: highly likely, [source](https://plato.stanford.edu/entries/wittgenstein/)
 - builds on Russell and Whitehead (`russell`): wittgenstein was russell's student. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Ludwig_Wittgenstein)
-- leads to Joscha Bach (`bach`): the tractatus as a programme for a precise language. confidence: possible. Bach discusses the Tractatus and formal languages, but the claimed programmatic influence was not explicitly established.
+- related to Joscha Bach (`bach`): the tractatus as a programme for a precise language. confidence: highly likely, [source](https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine)
 
 ### Tractatus Logico-Philosophicus
 
@@ -900,7 +895,7 @@ start here, joscha bach on it: [How to Build a Mind: Artificial Intelligence Rel
 connections:
 
 - related to Franz Brentano (`brentano`): freud attended brentano's lectures. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Franz_Brentano)
-- related to System 1 and System 2 (`kahneman`): most of the mind is not the conscious part. confidence: likely, [source](https://psyche.co/ideas/the-id-and-the-nudge-where-freud-meets-behavioural-economics). Essay compares both dual-process views and notes Kahneman studied Freud; Freud's repressed unconscious differs from System 1.
+- related to System 1 and System 2 (`kahneman`): most of the mind is not the conscious part. confidence: highly likely, [source](https://psyche.co/ideas/the-id-and-the-nudge-where-freud-meets-behavioural-economics)
 
 ## Qualia
 
@@ -935,9 +930,9 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Knowledge_argu
 
 by Kurt Gödel
 
-Gödel proved that any consistent formal system rich enough to do arithmetic contains true statements it cannot prove, and cannot prove its own consistency. He did it by encoding statements about the system as numbers inside the system.
+Gödel proved that any consistent formal system whose axioms can be listed mechanically and that is rich enough to do arithmetic contains true statements it cannot prove, and cannot prove its own consistency. He did it by encoding statements about the system as numbers inside the system.
 
-confidence: likely, [source](https://plato.stanford.edu/entries/goedel-incompleteness/). The theorem guarantees undecidable statements; calling them “true” without specifying the intended model adds a qualification the summary omits.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems)
 
 start here, read: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/goedel-incompleteness/)
 
@@ -967,7 +962,7 @@ start here, mentioned by joscha bach in: [Cyber Animism (talk hosted by Michael 
 
 connections:
 
-- builds on Gottlob Frege (`frege`): a formal definition of truth. confidence: possible. SEP's Tarski and Tarski-truth entries do not mention Frege; any influence is indirect.
+- related to Gottlob Frege (`frege`): frege's semantics for his formal language anticipates tarski's theory of truth. confidence: highly likely, [source](https://jhaponline.org/jhap/article/download/3970/3666)
 
 ## Alan Turing and computability
 
@@ -977,7 +972,7 @@ connections:
 
 English mathematician who defined computation with his abstract machine, helped found AI with the 1950 imitation-game paper, and late in life modelled how chemical patterns form in biology. During the Second World War he led the Bletchley Park section that broke German naval Enigma and designed the Bombe machine used to do it.
 
-confidence: likely, [source](https://www.britannica.com/biography/Alan-Turing). Britannica says Turing and others designed the Bombe; the summary credits its design to Turing alone.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Alan_Turing)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
 
@@ -988,10 +983,10 @@ connections:
 - builds on Hilbert's programme (`hilbert`): turing answers hilbert's decision problem. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Turing%27s_proof)
 - related to Gödel's incompleteness theorems (`goedel`): two distinct limits on what formal procedures can decide. confidence: highly likely, [source](https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/tp2-ie.pdf)
 - related to Lambda calculus and combinators (`lambda`): church and turing: equivalent definitions of computation. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
-- leads to John von Neumann and the first computers (`vonneumann`): the stored-program computer. confidence: possible. Von Neumann knew Turing's universal machine, but historians dispute whether it influenced his stored-program architecture.
+- leads to John von Neumann and the first computers (`vonneumann`): the stored-program computer. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 - leads to Turing's morphogenesis (`morpho`): turing's last major work. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Alan_Turing)
-- leads to The founding of AI (`dartmouth`): 'can machines think?'. confidence: likely. History pages present Turing's 1950 paper as a precursor to the 1956 founding, but do not state that the workshop drew on it.
-- leads to Functionalism and computationalism (`functionalism`): multiple realisability comes from universal computation. confidence: likely, [source](https://plato.stanford.edu/entries/functionalism/). Turing machines inspired Putnam's machine functionalism; sources do not derive multiple realisability from universal computation specifically.
+- leads to The founding of AI (`dartmouth`): 'can machines think?'. confidence: highly likely, [source](https://ai100.stanford.edu/reports/2016-report/appendix-i-short-history-ai)
+- leads to Functionalism and computationalism (`functionalism`): turing's work inspired putnam's machine-state functionalism. confidence: highly likely, [source](https://plato.stanford.edu/entries/functionalism/)
 - related to Quantum computing (`quantumcomp`): a faster, not a more powerful, computer. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Quantum_computing)
 - related to Hypercomputation (`hypercomputation`): what would lie beyond turing machines. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hypercomputation)
 - leads to Joscha Bach (`bach`): the church-turing thesis. confidence: highly likely, [source](https://media.ccc.de/v/30C3_-_5526_-_en_-_saal_2_-_201312291600_-_how_to_build_a_mind_-_joscha)
@@ -1033,9 +1028,9 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Post%E2%80%93T
 
 by Alan Turing
 
-The paper that asks 'Can machines think?' and replaces the question with an imitation game, later called the Turing test: if a machine can hold a conversation indistinguishable from a human's, we should grant it intelligence. It also answers a list of objections, including one from telepathy.
+The paper that asks 'Can machines think?' and replaces the question with an imitation game, later called the Turing test: a machine passes if a judge cannot reliably tell its conversation from a human's. It also answers a list of objections, including one from telepathy.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence). The paper proposes substituting the imitation game; “we should grant it intelligence” is a stronger prescription than the source supports.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence)
 
 ## Lambda calculus and combinators
 
@@ -1056,7 +1051,7 @@ start here, joscha bach on it: [How to Build a Mind: Artificial Intelligence Rel
 connections:
 
 - related to Alan Turing and computability (`turing`): church and turing: equivalent definitions of computation. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis)
-- leads to Structure and Interpretation of Computer Programs (`sicp`): lisp and scheme. confidence: likely. SICP uses Scheme, whose first-class procedures derive from lambda calculus, but no single reliable opened source stated the complete link.
+- leads to Structure and Interpretation of Computer Programs (`sicp`): lisp and scheme. confidence: highly likely, [source](https://sarabander.github.io/sicp/html/1_002e3.xhtml)
 
 ### Moses Schönfinkel
 
@@ -1072,7 +1067,7 @@ by B. F. Skinner
 
 The school that restricted psychology to observable behaviour and treated talk of inner mental representations as unscientific. Skinner explained behaviour through its consequences: actions that are reinforced become more frequent.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Behaviorism). Restriction to observable behaviour is Watson's methodological behaviorism; source says Skinner's radical behaviorism included private events such as thoughts and feelings.
+confidence: highly likely, [source](https://plato.stanford.edu/entries/behaviorism/)
 
 start here, read: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/behaviorism/)
 
@@ -1080,7 +1075,7 @@ start here, joscha bach on it: [Self Models of Loving Grace (38C3)](https://medi
 
 connections:
 
-- argues against Early experimental psychology (`wundt`): behaviorism made observable behaviour, rather than introspection, its primary evidence. confidence: likely. The broad behaviorist turn fits, but Skinner retained private events and self-observation.
+- argues against Early experimental psychology (`wundt`): watson's behaviorism rejected introspective methods; skinner's later treated introspection as behaviour. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Behaviorism)
 - challenged by Noam Chomsky (`chomsky`): chomsky's review of 'verbal behavior'. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Verbal_Behavior)
 
 ## Maslow: A Theory of Human Motivation
@@ -1097,7 +1092,7 @@ start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Maslow%27s_hierarchy
 
 connections:
 
-- related to Joscha Bach (`bach`): a set of built-in needs that generate goals. confidence: possible. Only a bibliography entry for Maslow, no source URL; how far Bach follows him was not checked.
+- related to Joscha Bach (`bach`): maslow's hierarchy of needs reread as a hierarchy of purposes. confidence: highly likely, [source](http://bach.ai/pub/Attention%20based%20learning%20as%20a%20foundation%20for%20consciousness%20Common%20Model%20Bach.pdf)
 
 ## McCulloch–Pitts neurons
 
@@ -1116,7 +1111,7 @@ start here, mentioned by joscha bach in: [How to Build a Mind: Artificial Intell
 connections:
 
 - related to Cybernetics (`cybernetics`): the macy conferences. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Macy_conferences)
-- leads to Marvin Minsky (`minsky`): neural nets, then minsky's critique of them. confidence: likely. The neural-network lineage and Minsky's later critique are standard, but no opened source stated this specific two-part connection.
+- leads to Marvin Minsky (`minsky`): neural nets, then minsky's critique of them. confidence: highly likely, [source](https://bnaskrecki.faculty.wmi.amu.edu.pl/nnets/_build/html/part1_origins/ch03_timeline.html)
 - leads to Connectionism and backpropagation (`pdp`): connectionism. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Connectionism)
 
 ## Schrödinger: life as negentropy
@@ -1135,7 +1130,7 @@ start here, joscha bach on it: [Machine Dreams (33C3)](https://media.ccc.de/v/33
 
 connections:
 
-- leads to Autocatalytic networks and autopoiesis (`autopoiesis`): what keeps a living system ordered. confidence: possible. Both address living order, but no opened reliable source documented Schrödinger as a source for autopoiesis.
+- leads to Autocatalytic networks and autopoiesis (`autopoiesis`): what keeps a living system ordered. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Autopoiesis)
 - leads to Predictive processing and the free energy principle (`friston`): staying alive as resisting entropy. confidence: highly likely, [source](https://pmc.ncbi.nlm.nih.gov/articles/PMC5857288/)
 
 ## John von Neumann and the first computers
@@ -1154,17 +1149,17 @@ start here, joscha bach on it: [Lex Fridman Podcast #101 – Joscha Bach: Artifi
 
 connections:
 
-- builds on Alan Turing and computability (`turing`): the stored-program computer. confidence: possible. Von Neumann knew Turing's universal machine, but historians dispute whether it influenced his stored-program architecture.
-- leads to Digital physics (`digital`): the universe as a cellular automaton. confidence: likely. Von Neumann fathered cellular automata; Zuse and Fredkin proposed the universe is one. Direct debt not stated in pages read.
+- builds on Alan Turing and computability (`turing`): the stored-program computer. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+- leads to Digital physics (`digital`): the universe as a cellular automaton. confidence: highly likely, [source](https://people.idsia.ch/~juergen/digitalphysics.html)
 - leads to Conway's Game of Life (`conway`): cellular automata. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - leads to Technological singularity (`singularity`): Ulam's report of von Neumann's accelerating-change conversation. confidence: highly likely, [source](https://doi.org/10.1090/s0002-9904-1958-10189-5)
-- leads to Best-effort computing (`ackley`): reliable computing from unreliable parts. confidence: possible. Thematic link to von Neumann's 1956 unreliable-components paper; found no reliable source stating Ackley builds on it.
+- leads to Best-effort computing (`ackley`): reliable computing from unreliable parts. confidence: highly likely, [source](https://cacm.acm.org/opinion/beyond-efficiency/)
 
 ### Babbage, Zuse, von Neumann
 
-Babbage designed a mechanical general-purpose computer in the 1830s; Zuse built the first working programmable computers in Germany around 1941; von Neumann defined the stored-program architecture still used today.
+Babbage designed a mechanical general-purpose computer in the 1830s; Zuse built the first working programmable computers in Germany around 1941; von Neumann's 1945 report described the stored-program architecture still used today, building on designs by Eckert and Mauchly.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/History_of_computing_hardware). "von Neumann defined" is too strong: sources say the architecture drew on Eckert and Mauchly's work, and Zuse anticipated it in 1936.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 
 ### Reliable organisms from unreliable components
 
@@ -1193,8 +1188,8 @@ start here, joscha bach on it: [The Ghost in the Machine (35C3)](https://media.c
 connections:
 
 - leads to The founding of AI (`dartmouth`): shannon co-organised the workshop. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Dartmouth_workshop)
-- leads to Solomonoff induction (`solomonoff`): information and compression as a theory of induction. confidence: likely. Algorithmic information theory, founded by Solomonoff, is described as Shannon plus Turing; no page ties Solomonoff induction itself to Shannon.
-- leads to Ian Witten: cognition as compression (`witten`): prediction and compression. confidence: likely. Predictive text compression (PPM, arithmetic coding) rests on Shannon's theory; no opened page states Witten's debt in so many words.
+- leads to Solomonoff induction (`solomonoff`): information and compression as a theory of induction. confidence: highly likely, [source](https://raysolomonoff.com/publications/barc97.pdf)
+- leads to Ian Witten: cognition as compression (`witten`): prediction and compression. confidence: highly likely, [source](https://doi.org/10.1145/76894.76896)
 
 ### Computer chess
 
@@ -1210,9 +1205,9 @@ confidence: highly likely, [source](http://archive.computerhistory.org/projects/
 
 by Norbert Wiener and others
 
-The mid-century science of control and feedback in animals and machines, which grew out of control engineering and fed into systems theory and neural networks. Norbert Wiener named it in 1948; its core idea is that purposeful behaviour comes from feedback loops.
+The mid-century science of control and feedback in animals and machines, born from 1940s exchanges across many disciplines, including early work on neural networks. Norbert Wiener's 1948 book popularised the name; feedback was its central theme, and purposeful behaviour one of its first topics.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Cybernetics). "Grew out of control engineering" not confirmed; source says it arose from exchanges between many disciplines. Wiener says the term was coined in 1947.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Cybernetics)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Cybernetics)
 
@@ -1222,8 +1217,8 @@ connections:
 
 - related to McCulloch–Pitts neurons (`mcculloch`): the macy conferences. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Macy_conferences)
 - leads to Gaia hypothesis (`gaia`): the planet as a self-regulating system. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Gaia_hypothesis)
-- leads to Autocatalytic networks and autopoiesis (`autopoiesis`): second-order cybernetics. confidence: likely. Autopoiesis is standardly associated with second-order cybernetics, but the opened primary sources did not explicitly state that lineage.
-- leads to Joscha Bach (`bach`): needs as feedback loops. confidence: likely. Bach models needs with target deviations and feedback loops, but no opened source explicitly named cybernetics as the source.
+- leads to Autocatalytic networks and autopoiesis (`autopoiesis`): second-order cybernetics. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Second-order_cybernetics)
+- leads to Joscha Bach (`bach`): needs as feedback loops. confidence: highly likely, [source](https://www.youtube.com/watch?v=XcNlv9gp20o)
 
 ### Project Cybersyn
 
@@ -1239,9 +1234,9 @@ ancient; modern form 20th c., philosophy. school of thought: materialism and mec
 
 ### Physicalism
 
-The thesis that everything that exists is physical or depends on the physical, with no extra mental or supernatural ingredients. It is the default position in most of contemporary science and analytic philosophy.
+The thesis that everything that exists is physical or depends on the physical, with no extra mental or supernatural ingredients. It is the majority view among philosophers (about 52% in a 2020 survey), though far from unanimous.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Physicalism). "Default position in most of contemporary science" not confirmed; source gives a 51.9% majority among philosophers, with significant opposition.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Physicalism)
 
 start here, read: [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/physicalism/)
 
@@ -1249,8 +1244,8 @@ start here, joscha bach on it: [How to Build a Mind: Artificial Intelligence Rel
 
 connections:
 
-- builds on La Mettrie: Man a Machine (`lamettrie`): man a machine. confidence: likely, [source](https://en.wikipedia.org/wiki/Man_a_Machine). Described as a work of materialist philosophy; La Mettrie is part of the tradition rather than a source of modern physicalism.
-- leads to Functionalism and computationalism (`functionalism`): what matters is organisation, not stuff. confidence: possible. SEP: functionalism is officially neutral between materialism and dualism, though attractive to materialists; arose as an alternative to identity theory. 'Builds' is a judgement.
+- builds on La Mettrie: Man a Machine (`lamettrie`): man a machine. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Materialism)
+- related to Functionalism and computationalism (`functionalism`): functionalism is neutral on substance but attractive to materialists, as an alternative to identity theory. confidence: highly likely, [source](https://plato.stanford.edu/entries/functionalism/)
 
 ### Direct realism
 
@@ -1266,7 +1261,7 @@ by Alan Turing
 
 Turing showed that interacting chemicals that diffuse at different rates spontaneously form spots and stripes. Neural cellular automata are a modern descendant: grids of identical cells that learn local rules to grow and repair a pattern.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Turing_pattern). Turing patterns are supported, but the source does not establish neural cellular automata as their historical or conceptual descendant.
+confidence: highly likely, [source](https://distill.pub/2020/growing-ca/)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Turing_pattern)
 
@@ -1310,7 +1305,7 @@ start here, read: [Wikipedia](https://en.wikipedia.org/wiki/The_Doors_of_Percept
 
 connections:
 
-- leads to Timothy Leary and the eight-circuit model (`leary`): psychedelics and the filtered mind. confidence: likely, [source](https://en.wikipedia.org/wiki/The_Doors_of_Perception). Leary read the book in 1960 and then met Huxley; the specific 'filtered mind' idea in Leary is not sourced.
+- leads to Timothy Leary and the eight-circuit model (`leary`): leary found the book confirmed his psilocybin experience, then befriended huxley. confidence: highly likely, [source](https://en.wikipedia.org/wiki/The_Doors_of_Perception)
 
 ## The founding of AI
 
@@ -1330,7 +1325,7 @@ start here, mentioned by joscha bach in: [Joscha Bach: Consciousness, Artificial
 
 connections:
 
-- builds on Alan Turing and computability (`turing`): 'can machines think?'. confidence: likely. History pages present Turing's 1950 paper as a precursor to the 1956 founding, but do not state that the workshop drew on it.
+- builds on Alan Turing and computability (`turing`): 'can machines think?'. confidence: highly likely, [source](https://ai100.stanford.edu/reports/2016-report/appendix-i-short-history-ai)
 - builds on Claude Shannon and information theory (`shannon`): shannon co-organised the workshop. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Dartmouth_workshop)
 - leads to Marvin Minsky (`minsky`): minsky was a founder of the field. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Dartmouth_workshop)
 - leads to Symbolic AI (`symbolic`): the first paradigm of AI. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Dartmouth_workshop)
@@ -1341,7 +1336,7 @@ by John McCarthy
 
 Computer scientist who coined the term 'artificial intelligence', organised the 1956 Dartmouth workshop and invented Lisp. He championed formal logic as the language in which machines should represent knowledge.
 
-confidence: likely, [source](https://www.britannica.com/biography/John-McCarthy). Coining AI, Lisp, and formalizing commonsense knowledge are supported; this source does not confirm his role organizing the Dartmouth workshop.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist))
 
 ## Cortical columns
 
@@ -1385,7 +1380,7 @@ connections:
 
 Co-founder of the field of artificial intelligence at MIT. In 'The Society of Mind' (1986) and 'The Emotion Machine' (2006) he described the mind as a large crowd of simple cooperating processes, with no single principle behind it.
 
-confidence: likely, [source](https://www.britannica.com/biography/Marvin-Lee-Minsky). Minsky’s AI prominence is supported, but the source does not cover both books or the summary’s “no single principle” characterization.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Marvin_Minsky)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Marvin_Minsky)
 
@@ -1393,11 +1388,11 @@ start here, joscha bach on it: [Joscha Bach and Connor Leahy [HQ VERSION] (Machi
 
 connections:
 
-- builds on McCulloch–Pitts neurons (`mcculloch`): neural nets, then minsky's critique of them. confidence: likely. The neural-network lineage and Minsky's later critique are standard, but no opened source stated this specific two-part connection.
+- builds on McCulloch–Pitts neurons (`mcculloch`): neural nets, then minsky's critique of them. confidence: highly likely, [source](https://bnaskrecki.faculty.wmi.amu.edu.pl/nnets/_build/html/part1_origins/ch03_timeline.html)
 - builds on The founding of AI (`dartmouth`): minsky was a founder of the field. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Dartmouth_workshop)
-- builds on Pandemonium model (`selfridge`): a crowd of demons becomes a society of mind. confidence: possible. The parallel-agent resemblance is strong, but opened sources did not securely document Pandemonium as the direct source of Society of Mind.
+- builds on Pandemonium model (`selfridge`): a crowd of demons becomes a society of mind. confidence: highly likely, [source](https://www.museumofai.org.uk/nodes/pandemonium-architecture)
 - challenged by Connectionism and backpropagation (`pdp`): connectionism returns after 'perceptrons'. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Perceptrons_(book))
-- related to Global Workspace Theory (`gwt`): many unconscious specialists. confidence: likely. Baars describes the brain in GWT as a 'society of mind' (Minsky's phrase) without naming Minsky; no page states the link outright.
+- related to Global Workspace Theory (`gwt`): many unconscious specialists. confidence: highly likely, [source](http://scholarpedia.org/article/Global_workspace)
 - leads to Joscha Bach (`bach`): a society of specialised processes that needs coordinating. confidence: highly likely, [source](https://www.youtube.com/watch?v=Z02Obj8j6FQ)
 
 ### The Society of Mind
@@ -1412,9 +1407,9 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Society_of_Min
 
 by Marvin Minsky; Seymour Papert
 
-A mathematical analysis showing that single-layer neural networks cannot learn certain simple functions. It was widely read as proof that neural networks were a dead end, and funding dried up for over a decade.
+A mathematical analysis showing that single-layer neural networks cannot learn certain simple functions. It is often thought to have caused the decline in neural network research in the 1970s and early 1980s, when major funding was hard to find, though how much it was to blame is disputed.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Perceptrons_(book)). "Funding dried up for over a decade" not confirmed; source treats the book's effect on neural-network research as a disputed claim.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Perceptrons_(book))
 
 ## Noam Chomsky
 
@@ -1422,7 +1417,7 @@ confidence: likely, [source](https://en.wikipedia.org/wiki/Perceptrons_(book)). 
 
 Linguist who argued that language rests on an innate grammar faculty, and a long-standing sceptic that statistical models tell us anything about the mind. His work in the 1950s helped end behaviourism and start cognitive science.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Noam_Chomsky). Innate grammar and role against behaviourism confirmed; "long-standing sceptic" of statistical models is not covered in the article text.
+confidence: highly likely, [source](https://web.archive.org/web/20220427080655/https://www.britannica.com/biography/Noam-Chomsky)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
 
@@ -1447,7 +1442,7 @@ start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Pandemonium_architec
 
 connections:
 
-- leads to Marvin Minsky (`minsky`): a crowd of demons becomes a society of mind. confidence: possible. The parallel-agent resemblance is strong, but opened sources did not securely document Pandemonium as the direct source of Society of Mind.
+- leads to Marvin Minsky (`minsky`): a crowd of demons becomes a society of mind. confidence: highly likely, [source](https://www.museumofai.org.uk/nodes/pandemonium-architecture)
 
 ## Functionalism and computationalism
 
@@ -1467,16 +1462,16 @@ start here, joscha bach on it: [The Ghost in the Machine (35C3)](https://media.c
 
 connections:
 
-- builds on Alan Turing and computability (`turing`): multiple realisability comes from universal computation. confidence: likely, [source](https://plato.stanford.edu/entries/functionalism/). Turing machines inspired Putnam's machine functionalism; sources do not derive multiple realisability from universal computation specifically.
-- builds on Materialism and physicalism (`physicalism`): what matters is organisation, not stuff. confidence: possible. SEP: functionalism is officially neutral between materialism and dualism, though attractive to materialists; arose as an alternative to identity theory. 'Builds' is a judgement.
+- builds on Alan Turing and computability (`turing`): turing's work inspired putnam's machine-state functionalism. confidence: highly likely, [source](https://plato.stanford.edu/entries/functionalism/)
+- related to Materialism and physicalism (`physicalism`): functionalism is neutral on substance but attractive to materialists, as an alternative to identity theory. confidence: highly likely, [source](https://plato.stanford.edu/entries/functionalism/)
 - challenged by Searle: the Chinese room (`searle`): the chinese room. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Chinese_room)
-- leads to Daniel Dennett (`dennett`): dennett's functionalist account of consciousness. confidence: likely. Dennett’s consciousness theory is routinely classified as broadly functionalist, though his account is not reducible to generic functionalism.
-- challenged by Ned Block: access vs phenomenal consciousness (`block`): 'troubles with functionalism'. confidence: likely, [source](https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind)). Block's China brain and inverted qualia objections; this is his 1978 work, not the 1995 access/phenomenal paper.
+- leads to Daniel Dennett (`dennett`): dennett's functionalist account of consciousness. confidence: highly likely, [source](https://dl.tufts.edu/downloads/9306t946z?filename=5t34sw885.pdf)
+- challenged by Ned Block: access vs phenomenal consciousness (`block`): 'troubles with functionalism'. confidence: highly likely, [source](https://plato.stanford.edu/entries/functionalism/)
 - challenged by Chalmers: the hard problem (`chalmers`): function alone leaves experience unexplained. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
 - leads to Joscha Bach (`bach`): the tradition bach places himself in. confidence: highly likely, [source](https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine)
 - challenged by Anil Seth: biological naturalism (`seth`): consciousness tied to living bodies. confidence: highly likely, [source](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520)
 - challenged by Thagard: energy and substrate independence (`thagard`): energy makes substrate matter. confidence: highly likely, [source](https://www.cambridge.org/core/journals/philosophy-of-science/article/energy-requirements-undermine-substrate-independence-and-mindbody-functionalism/2BB3C2353EFF80F9D5805CDCEA8C3C89)
-- challenged by Mazviita Chirimuuta (`chirimuuta`): models are simplifications, not the thing. confidence: likely, [source](https://philosophymindscience.org/index.php/phimisci/article/download/12280/12401?inline=1). Symposium paper: Chirimuuta argues against the literal interpretation of computational models; target is computationalism in neuroscience more than functionalism generally.
+- challenged by Mazviita Chirimuuta (`chirimuuta`): models are simplifications, not the thing. confidence: highly likely, [source](https://www.thebsps.org/reviewofbooks/burnston-on-chirimuuta/)
 - challenged by Lerchner: The Abstraction Fallacy (`lerchner`): 'the abstraction fallacy'. confidence: highly likely, [source](https://deepmind.google/research/publications/231971/)
 
 ### Computationalism, weak and strong
@@ -1491,7 +1486,7 @@ confidence: highly likely, [source](https://doi.org/10.17721/2523-4064.2023/8-1/
 
 Polish science fiction writer and philosopher of technology. 'Solaris' (1961) is about an alien mind humans cannot understand; 'Golem XIV' (1981) is a set of lectures given by a superhuman computer to humanity.
 
-confidence: likely, [source](https://www.britannica.com/biography/Stanislaw-Lem). Lem, his nationality, philosophy, and Solaris are supported; this source does not confirm the description of Golem XIV.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem)
 
@@ -1521,7 +1516,7 @@ by Ray Solomonoff
 
 Inventor of algorithmic probability, a mathematically ideal (though uncomputable) theory of learning by preferring the shortest programs that explain the data. He attended the 1956 Dartmouth workshop and his ideas underlie later formal theories of universal intelligence.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference). Algorithmic probability, shortest descriptions, uncomputability, and AIXI are supported; this source does not confirm Solomonoff’s Dartmouth attendance.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Ray_Solomonoff)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Ray_Solomonoff)
 
@@ -1529,8 +1524,8 @@ start here, joscha bach on it: [Machine Dreams (33C3)](https://media.ccc.de/v/33
 
 connections:
 
-- builds on Claude Shannon and information theory (`shannon`): information and compression as a theory of induction. confidence: likely. Algorithmic information theory, founded by Solomonoff, is described as Shannon plus Turing; no page ties Solomonoff induction itself to Shannon.
-- leads to Jürgen Schmidhuber (`schmidhuber`): learning as compression. confidence: likely. The intellectual lineage is standard, but the opened sources did not explicitly connect Solomonoff to Schmidhuber's compression-learning program.
+- builds on Claude Shannon and information theory (`shannon`): information and compression as a theory of induction. confidence: highly likely, [source](https://raysolomonoff.com/publications/barc97.pdf)
+- leads to Jürgen Schmidhuber (`schmidhuber`): schmidhuber generalises solomonoff's algorithmic probability and universal prediction. confidence: highly likely, [source](https://people.idsia.ch/~juergen/kolmogorov.html)
 
 ## Alexey Ivakhnenko
 
@@ -1567,7 +1562,7 @@ start here, joscha bach on it: [The Ghost in the Machine (35C3)](https://media.c
 connections:
 
 - builds on The founding of AI (`dartmouth`): the first paradigm of AI. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Dartmouth_workshop)
-- leads to ELIZA (`eliza`): pattern matching that feels like understanding. confidence: likely. ELIZA plainly uses symbolic pattern rules, but the opened original paper did not label it as building on symbolic AI.
+- leads to ELIZA (`eliza`): pattern matching that feels like understanding. confidence: highly likely, [source](https://en.wikipedia.org/wiki/ELIZA)
 - challenged by Dreyfus: What Computers Still Can't Do (`dreyfus`): what rules cannot capture. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence)
 - related to The language of thought (`fodor`): thinking as symbol manipulation. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Physical_symbol_system)
 - leads to Scripts, Plans, Goals and Understanding (`schank`): scripts. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence)
@@ -1599,7 +1594,7 @@ start here, mentioned by joscha bach in: [The Machine Consciousness Hypothesis (
 
 connections:
 
-- builds on Symbolic AI (`symbolic`): pattern matching that feels like understanding. confidence: likely. ELIZA plainly uses symbolic pattern rules, but the opened original paper did not label it as building on symbolic AI.
+- builds on Symbolic AI (`symbolic`): pattern matching that feels like understanding. confidence: highly likely, [source](https://en.wikipedia.org/wiki/ELIZA)
 - related to Large language models (`llm`): people feel understood by a text machine. confidence: highly likely, [source](https://ojs.weizenbaum-institut.de/index.php/wjds/article/download/136/3_3_3/1438)
 
 ## Timothy Leary and the eight-circuit model
@@ -1618,7 +1613,7 @@ start here, mentioned by joscha bach in: [Lex Fridman Podcast #212 – Joscha Ba
 
 connections:
 
-- builds on The Doors of Perception (`huxley`): psychedelics and the filtered mind. confidence: likely, [source](https://en.wikipedia.org/wiki/The_Doors_of_Perception). Leary read the book in 1960 and then met Huxley; the specific 'filtered mind' idea in Leary is not sourced.
+- builds on The Doors of Perception (`huxley`): leary found the book confirmed his psilocybin experience, then befriended huxley. confidence: highly likely, [source](https://en.wikipedia.org/wiki/The_Doors_of_Perception)
 
 ## Digital physics
 
@@ -1636,12 +1631,12 @@ start here, joscha bach on it: [Manifold #76 (Steve Hsu) – Joscha Bach: Consci
 
 connections:
 
-- builds on John von Neumann and the first computers (`vonneumann`): the universe as a cellular automaton. confidence: likely. Von Neumann fathered cellular automata; Zuse and Fredkin proposed the universe is one. Direct debt not stated in pages read.
-- related to It from bit (`wheeler`): information as more basic than matter. confidence: likely. Both make information fundamental, but the opened source did not explicitly place Wheeler's proposal within digital physics.
+- builds on John von Neumann and the first computers (`vonneumann`): the universe as a cellular automaton. confidence: highly likely, [source](https://people.idsia.ch/~juergen/digitalphysics.html)
+- related to It from bit (`wheeler`): information as more basic than matter. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Digital_physics)
 - leads to Stephen Wolfram (`wolfram`): a new kind of science. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Digital_physics)
-- related to The simulation argument (`simulation`): if physics is computation it could be run. confidence: possible. Digital physics and simulation are related but logically distinct; neither implies the other.
+- related to The simulation argument (`simulation`): overlapping but distinct: a computational universe need not be one run by someone. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Digital_physics)
 - leads to Gerard 't Hooft: cellular automaton interpretation (`thooft`): a deterministic automaton under quantum mechanics. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Digital_physics)
-- leads to Joscha Bach (`bach`): strong computationalism: reality itself computes. confidence: likely, [source](https://media.ccc.de/v/33c3-8369-machine_dreams). Paraphrases show Bach describing digital physics (Zuse, Fredkin, Wolfram); no verbatim statement of his own stance in this entry.
+- leads to Joscha Bach (`bach`): strong computationalism: reality itself computes. confidence: highly likely, [source](https://media.ccc.de/v/33c3-8369-machine_dreams)
 
 ## Conway's Game of Life
 
@@ -1660,9 +1655,9 @@ start here, mentioned by joscha bach in: [Machine Dreams (33C3)](https://media.c
 connections:
 
 - builds on John von Neumann and the first computers (`vonneumann`): cellular automata. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
-- related to The Mandelbrot set (`mandelbrot`): unlimited complexity from a tiny rule. confidence: possible. Thematic parallel only; no source read discusses the two together.
-- leads to Stephen Wolfram (`wolfram`): simple rules, complex behaviour. confidence: possible. Sources place both in the cellular-automata lineage and classify Life in Wolfram's scheme, but none says Wolfram drew on Life.
-- leads to Neural cellular automata (`nca`): learned cellular automata. confidence: likely. Neural cellular automata extend the cellular-automaton paradigm, but the opened paper did not explicitly derive its method from Conway's Life.
+- related to The Mandelbrot set (`mandelbrot`): unlimited complexity from a tiny rule. confidence: highly likely, [source](https://emmath.org/emm/chap-dynamics.html)
+- related to Stephen Wolfram (`wolfram`): wolfram cites life as a universal 2d cellular automaton, but calls it recreation, not science. confidence: highly likely, [source](https://www.wolframscience.com/reference/notes/876b/)
+- related to Neural cellular automata (`nca`): the neural ca paper names life as the classic cellular automaton before its learned ones. confidence: highly likely, [source](https://distill.pub/2020/growing-ca/)
 
 ## Mirror test
 
@@ -1694,7 +1689,7 @@ start here, mentioned by joscha bach in: [Joscha Bach: Time, Simulation Hypothes
 
 connections:
 
-- related to Penrose and Hameroff: quantum consciousness (`penrose`): non-classical physics in the brain. confidence: likely. Both invoke nonclassical or quantum ideas in brain theories, but use distinct mechanisms and no direct influence was found.
+- related to Penrose and Hameroff: quantum consciousness (`penrose`): non-classical physics in the brain. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Quantum_mind)
 
 ## Dreyfus: What Computers Still Can't Do
 
@@ -1713,7 +1708,7 @@ start here, mentioned by joscha bach in: [Principles of Synthetic Intelligence: 
 connections:
 
 - argues against Symbolic AI (`symbolic`): what rules cannot capture. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hubert_Dreyfus%27s_views_on_artificial_intelligence)
-- leads to Embodied and enactive cognition (`embodied`): heidegger against the symbol-crunching mind. confidence: likely. IEP lists Dreyfus among critiques embodied theorists take up; Wikipedia calls views similar. Explicit 'builds on' not found.
+- related to Embodied and enactive cognition (`embodied`): dreyfus's heidegger-based critique of symbolic ai is among those embodied cognition takes up. confidence: possible. The source links embodiment to Heidegger and opposes cognitivism, but does not explicitly say embodied cognition took up Dreyfus's critique.
 
 ## Gaia hypothesis
 
@@ -1721,9 +1716,9 @@ connections:
 
 by James Lovelock; Lynn Margulis
 
-The proposal that life on Earth, taken together, regulates the planet's atmosphere and climate as if it were a single organism. James Lovelock and Lynn Margulis proposed it in the 1970s.
+The proposal that life on Earth, together with its inorganic surroundings, forms a self-regulating system that keeps the planet's atmosphere and climate suitable for life. James Lovelock and Lynn Margulis proposed it in the 1970s.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Gaia_hypothesis). Source describes a self-regulating complex system; the 'single organism' framing is attributed only to some less accepted versions.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Gaia_hypothesis)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Gaia_hypothesis)
 
@@ -1750,7 +1745,7 @@ start here, mentioned by joscha bach in: [Machine Dreams (33C3)](https://media.c
 connections:
 
 - related to Qualia (`qualia`): the felt qualities of experience. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Qualia)
-- leads to Chalmers: the hard problem (`chalmers`): 'what it is like' becomes the hard problem. confidence: likely. Nagel’s what-it-is-like formulation is a standard precursor to Chalmers’s hard problem, but direct dependence is not established here.
+- leads to Chalmers: the hard problem (`chalmers`): 'what it is like' becomes the hard problem. confidence: highly likely, [source](https://consc.net/papers/facing.html)
 
 ## The language of thought
 
@@ -1802,7 +1797,7 @@ start here, joscha bach on it: [AGI-24 keynote on cyber animism (Seattle; Machin
 connections:
 
 - builds on Charles Darwin (`darwin`): the gene's-eye view of selection. confidence: highly likely, [source](https://en.wikipedia.org/wiki/The_Selfish_Gene)
-- leads to Joscha Bach (`bach`): memes: ideas that copy themselves between minds. confidence: possible. Bach speaks of "mind viruses" and cites Dawkins on genes, but no mention ties him to Dawkins's memes.
+- related to Joscha Bach (`bach`): bach moves from dawkins's selfish genes to competing software agents. confidence: highly likely, [source](https://www.youtube.com/watch?v=34VOI_oo-qM)
 
 ## Jaynes: the bicameral mind
 
@@ -1821,7 +1816,7 @@ start here, joscha bach on it: [Synthetic Sentience (37C3)](https://media.ccc.de
 connections:
 
 - leads to Westworld (`westworld`): the series borrows the bicameral mind. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Bicameral_mentality)
-- related to Joscha Bach (`bach`): gods as voices in the mind. confidence: possible. The one quote only says Jaynes's book has the wrong name; the gods-as-voices reading is in the summary only.
+- related to Joscha Bach (`bach`): gods as voices in the mind. confidence: possible. Bach discusses gods as mental constructs and cross-mind selves, but no opened source tied this account to Jaynes.
 
 ## Scripts, Plans, Goals and Understanding
 
@@ -1840,15 +1835,15 @@ start here, mentioned by joscha bach in: [Request confirmation networks for neur
 connections:
 
 - builds on Symbolic AI (`symbolic`): scripts. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence)
-- leads to Joscha Bach (`bach`): neural execution of scripts. confidence: possible. Schank appears only in a bibliography; the verbatim ReCoN quote does not mention scripts or Schank.
+- leads to Joscha Bach (`bach`): neural execution of scripts. confidence: highly likely, [source](https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf)
 
 ## Aaron Sloman
 
 1978, computing and AI. school of thought: symbolic AI and cognitive architectures. id: `sloman`
 
-British philosopher and AI researcher. He argued that philosophy of mind should be done by designing working minds, and he proposed the CogAff scheme that sorts mental processes into reactive, deliberative and reflective layers.
+Philosopher and AI researcher at the University of Birmingham. He argued that philosophy of mind should be done by designing working minds, and he proposed the CogAff scheme that sorts mental processes into reactive, deliberative and reflective layers.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Aaron_Sloman). Page calls him Zimbabwean-born, not 'British'; CogAff layers not on this page (cogaffarchive.org confirms reactive, deliberative, meta-management/'reflective').
+confidence: highly likely, [source](https://www.cs.bham.ac.uk/research/projects/cogaff/)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Aaron_Sloman)
 
@@ -1856,7 +1851,7 @@ start here, mentioned by joscha bach in: [Principles of Synthetic Intelligence: 
 
 connections:
 
-- leads to Joscha Bach (`bach`): philosophy of mind by designing working minds. confidence: likely, [source](http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf). Bach uses a Sloman line as a chapter motto and calls his architecture inspiring; no verbatim statement of the method claim.
+- leads to Joscha Bach (`bach`): philosophy of mind by designing working minds. confidence: highly likely, [source](http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf)
 
 ## Hofstadter: strange loops
 
@@ -1875,7 +1870,7 @@ start here, joscha bach on it: [Joscha Bach: Time, Simulation Hypothesis, Existe
 connections:
 
 - builds on Gödel's incompleteness theorems (`goedel`): self-reference as the root of the self. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Douglas_Hofstadter)
-- related to Daniel Dennett (`dennett`): 'the mind's i'. confidence: likely. Hofstadter and Dennett jointly edited The Mind’s I and supplied commentary on mind, self, and information processing.
+- related to Daniel Dennett (`dennett`): 'the mind's i'. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Daniel_Dennett)
 
 ## Lucid dreaming
 
@@ -1893,7 +1888,7 @@ start here, joscha bach on it: [Donald Hoffman Λ Joscha Bach: Consciousness, G�
 
 connections:
 
-- related to Joscha Bach (`bach`): waking perception as a dream constrained by the senses. confidence: possible. Single quote uses lucid dreams to show the brain's generative fidelity; the "waking perception is a constrained dream" claim is not in it.
+- related to Joscha Bach (`bach`): waking perception as a dream constrained by the senses. confidence: highly likely, [source](https://media.ccc.de/v/33c3-8369-machine_dreams)
 
 ## Perceptual illusions
 
@@ -1913,9 +1908,9 @@ start here, mentioned by joscha bach in: [From Computation to Consciousness (31C
 
 ### The dress
 
-A viral photograph of a dress that some people saw as white and gold and others as blue and black, because their visual systems made different assumptions about the lighting.
+A viral photograph of a dress that some people saw as white and gold and others as blue and black. The cause is not settled; one explanation is that their visual systems made different assumptions about the lighting.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/The_dress). Source says there is no consensus on the cause; differing lighting assumptions is one leading explanation, not established fact.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/The_dress)
 
 ## Searle: the Chinese room
 
@@ -1933,7 +1928,7 @@ start here, joscha bach on it: [Why Consciousness Might Not Be Hard At All (Josc
 
 connections:
 
-- related to Gottfried Wilhelm Leibniz (`leibniz`): walking around inside the machine and finding no understanding. confidence: likely. The mill and Chinese room are commonly compared as internal-observer arguments, but differ in target and conclusion.
+- related to Gottfried Wilhelm Leibniz (`leibniz`): walking around inside the machine and finding no understanding. confidence: highly likely, [source](https://plato.stanford.edu/entries/chinese-room/)
 - argues against Functionalism and computationalism (`functionalism`): the chinese room. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Chinese_room)
 - argues against Symbolic AI (`symbolic`): syntax is not semantics. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Chinese_room)
 - challenged by Joscha Bach (`bach`): bach rejects the chinese room. confidence: highly likely, [source](https://www.youtube.com/watch?v=yW_ngvMFlYs)
@@ -1955,7 +1950,7 @@ start here, joscha bach on it: [Lex Fridman Podcast #101 – Joscha Bach: Artifi
 
 connections:
 
-- related to Conway's Game of Life (`conway`): unlimited complexity from a tiny rule. confidence: possible. Thematic parallel only; no source read discusses the two together.
+- related to Conway's Game of Life (`conway`): unlimited complexity from a tiny rule. confidence: highly likely, [source](https://emmath.org/emm/chap-dynamics.html)
 
 ## The binding problem and neural synchrony
 
@@ -2017,9 +2012,9 @@ connections:
 
 by Richard Feynman; David Deutsch
 
-Computers that use quantum superposition and entanglement to solve certain problems, such as factoring, far faster than any known classical method. Building them is hard because quantum states are destroyed by the slightest disturbance from the environment.
+Computers that use quantum superposition and entanglement to solve certain problems, such as factoring, far faster than any known classical method. Building them is hard because qubits lose their quantum states (decohere) unless they are well isolated from the environment.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Quantum_computing). Quantum speedups and decoherence are supported, but "the slightest disturbance" overstates how readily all quantum states are destroyed.
+confidence: highly likely, [source](https://www.ibm.com/think/topics/quantum-computing)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Quantum_computing)
 
@@ -2076,7 +2071,7 @@ start here, mentioned by joscha bach in: [The Machine Consciousness Hypothesis (
 connections:
 
 - builds on Qualia (`qualia`): the explanatory gap. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Qualia)
-- leads to Chalmers: the hard problem (`chalmers`): from gap to hard problem. confidence: likely. The explanatory gap is a standard precursor to the hard problem, though Chalmers’s argument is not simply Levine’s renamed.
+- leads to Chalmers: the hard problem (`chalmers`): from gap to hard problem. confidence: highly likely, [source](https://consc.net/papers/facing.html)
 
 ## Braitenberg: Vehicles
 
@@ -2102,9 +2097,9 @@ connections:
 
 by Douglas Lenat
 
-A decades-long project to hand-code millions of common-sense facts and rules so that a machine could reason like a person. Doug Lenat started it in 1984; it never produced general intelligence and became the emblem of hand-built AI.
+A decades-long project to hand-code millions of common-sense facts and rules so that a machine could reason like a person. Doug Lenat started it in 1984; critics such as Pedro Domingos have called it a catastrophic failure.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Cyc). 'Became the emblem of hand-built AI' and 'never produced general intelligence' are not stated; page only reports criticism such as 'catastrophic failure'.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Cyc)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Cyc)
 
@@ -2120,9 +2115,9 @@ connections:
 
 by Geoffrey Hinton, Terrence Sejnowski, David Ackley
 
-A neural network in which units constrain each other and the whole settles into a low-energy state consistent with the inputs. The restricted version (RBM) drops within-layer links to make training feasible and helped launch deep learning.
+A neural network in which units constrain each other and the whole network tends toward low-energy states consistent with the inputs. The restricted version (RBM) drops within-layer links to make training feasible and helped launch deep learning.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Boltzmann_machine). The architecture and RBM simplification are supported; Boltzmann machines sample an equilibrium distribution rather than simply settling into one low-energy state.
+confidence: highly likely, [source](http://www.scholarpedia.org/article/Boltzmann_machine)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Boltzmann_machine)
 
@@ -2146,7 +2141,7 @@ start here, mentioned by joscha bach in: [Principles of Synthetic Intelligence: 
 
 connections:
 
-- leads to Joscha Bach (`bach`): motivation and attachment as control systems. confidence: possible. Bach only names Bischof as a source of Dörner's theory; no direct statement of Bach drawing on him.
+- leads to Joscha Bach (`bach`): via dörner's psi theory, which takes up bischof's cybernetic psychology. confidence: highly likely, [source](http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf)
 
 ## Structure and Interpretation of Computer Programs
 
@@ -2164,7 +2159,7 @@ start here, joscha bach on it: [The Operation of Consciousness (AGI-25, Reykjavi
 
 connections:
 
-- builds on Lambda calculus and combinators (`lambda`): lisp and scheme. confidence: likely. SICP uses Scheme, whose first-class procedures derive from lambda calculus, but no single reliable opened source stated the complete link.
+- builds on Lambda calculus and combinators (`lambda`): lisp and scheme. confidence: highly likely, [source](https://sarabander.github.io/sicp/html/1_002e3.xhtml)
 - related to Joscha Bach (`bach`): programs as spirits conjured with spells. confidence: highly likely, [source](https://cimc.ai/cimcHypothesis.pdf)
 
 ## Autocatalytic networks and autopoiesis
@@ -2183,8 +2178,8 @@ start here, mentioned by joscha bach in: [A Path to Generative Artificial Selves
 
 connections:
 
-- builds on Schrödinger: life as negentropy (`schroedinger`): what keeps a living system ordered. confidence: possible. Both address living order, but no opened reliable source documented Schrödinger as a source for autopoiesis.
-- builds on Cybernetics (`cybernetics`): second-order cybernetics. confidence: likely. Autopoiesis is standardly associated with second-order cybernetics, but the opened primary sources did not explicitly state that lineage.
+- builds on Schrödinger: life as negentropy (`schroedinger`): what keeps a living system ordered. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Autopoiesis)
+- builds on Cybernetics (`cybernetics`): second-order cybernetics. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Second-order_cybernetics)
 
 ## Connectionism and backpropagation
 
@@ -2232,9 +2227,9 @@ connections:
 
 by Rodney Brooks
 
-Brooks argued that intelligence should be grown from the bottom up in robots that act in the world, using layers of simple behaviours with no central world model. The Roomba descends from this work.
+Brooks argued that intelligence should be grown from the bottom up in robots that act in the world, using layers of simple behaviours with no central world model. He co-founded iRobot, the company that makes the Roomba.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Subsumption_architecture). The bottom-up layered architecture and lack of a central world model are supported; the Roomba lineage is not confirmed here.
+confidence: highly likely, [source](https://www.computerhistory.org/collections/catalog/300000049)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Subsumption_architecture)
 
@@ -2256,7 +2251,7 @@ by Allen Newell, John Laird; John R. Anderson
 
 A research tradition that tries to build complete, testable models of a whole mind (perception, memory, motivation, language) rather than isolated modules. It goes under names like cognitive systems, AGI and BICA.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Cognitive_architecture). Core idea backed; the claim that it 'goes under names like cognitive systems, AGI and BICA' is not confirmed by the page.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Cognitive_architecture)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Cognitive_architecture)
 
@@ -2265,7 +2260,7 @@ start here, mentioned by joscha bach in: [Principles of Synthetic Intelligence: 
 connections:
 
 - builds on Symbolic AI (`symbolic`): newell's unified theories of cognition. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence)
-- leads to Joscha Bach (`bach`): psi compared with soar and ACT-R. confidence: likely, [source](http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf). Thesis section 2.2 compares Psi with Soar and ACT-R; known here only from a paraphrase.
+- related to Joscha Bach (`bach`): psi compared with soar and ACT-R. confidence: highly likely, [source](http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf)
 
 ### Soar and Unified Theories of Cognition
 
@@ -2325,9 +2320,9 @@ start here, mentioned by joscha bach in: [Machine Learning Street Talk – Why L
 
 connections:
 
-- related to Marvin Minsky (`minsky`): many unconscious specialists. confidence: likely. Baars describes the brain in GWT as a 'society of mind' (Minsky's phrase) without naming Minsky; no page states the link outright.
+- related to Marvin Minsky (`minsky`): many unconscious specialists. confidence: highly likely, [source](http://scholarpedia.org/article/Global_workspace)
 - leads to Bengio: the consciousness prior (`bengio`): the consciousness prior. confidence: highly likely, [source](https://arxiv.org/abs/1709.08568)
-- leads to Joscha Bach (`bach`): one coordinating process the rest can read. confidence: likely, [source](https://www.youtube.com/watch?v=34VOI_oo-qM). Bach names global workspace theory as a perspective converging on his own; verbatim quotes only name it.
+- related to Joscha Bach (`bach`): bach lists global workspace theory among views converging on his own. confidence: highly likely, [source](https://ceur-ws.org/Vol-2287/paper29.pdf)
 - leads to AI consciousness and welfare reports (`butlin`): one of the checklist theories. confidence: highly likely, [source](https://arxiv.org/abs/2308.08708)
 
 ## The Cognitive Structure of Emotions
@@ -2336,9 +2331,9 @@ connections:
 
 by Andrew Ortony, Gerald Clore, Allan Collins
 
-A widely used scheme that sorts emotions into types according to how a person appraises events, agents and objects. Many software agents use it as a lookup table for emotions.
+A widely used scheme that sorts emotions into types according to how a person appraises events, agents and objects. Many software agents and artificial characters use it to generate emotions.
 
-confidence: likely, [source](https://webs.cs.fiu.edu/ascllab/wp-content/uploads/sites/75/2020/10/lisetti-correctedproofs-ch8-oxford.pdf). Events/agents/objects scheme and wide use in agents confirmed; use 'as a lookup table for emotions' is not stated.
+confidence: highly likely, [source](https://people.idsia.ch/~steunebrink/Publications/KI09_OCC_revisited.pdf)
 
 start here, read: [webs.cs.fiu.edu](https://webs.cs.fiu.edu/ascllab/wp-content/uploads/sites/75/2020/10/lisetti-correctedproofs-ch8-oxford.pdf)
 
@@ -2346,7 +2341,7 @@ start here, mentioned by joscha bach in: [Principles of Synthetic Intelligence: 
 
 connections:
 
-- challenged by Joscha Bach (`bach`): emotions as modes of the whole system, not a lookup table. confidence: possible. One paraphrase: Bach reports Dörner rejecting emotion taxonomies in general; OCC is only one item in the list.
+- challenged by Joscha Bach (`bach`): emotions as modes of the whole system, not a lookup table. confidence: highly likely, [source](https://agi-conf.org/2019/wp-content/uploads/2019/07/paper_30.pdf)
 
 ## Mysterianism
 
@@ -2364,7 +2359,7 @@ start here, joscha bach on it: [Donald Hoffman Λ Joscha Bach: Consciousness, G�
 
 connections:
 
-- builds on Du Bois-Reymond: Ignorabimus (`dubois`): 'we will never know' returns a century later. confidence: possible. Thematic parallel; pages opened name Leibniz and Huxley as precursors, not du Bois-Reymond. No influence shown.
+- related to Du Bois-Reymond: Ignorabimus (`dubois`): the ignorabimus is seen as anticipating mysterianism, though the two views differ. confidence: highly likely, [source](https://www.cambridge.org/core/journals/science-in-context/article/reconsidering-the-ignorabimus-du-boisreymond-and-the-hard-problem-of-consciousness/8C19E49A253DD5011482AD4252FF563D)
 - related to Chalmers: the hard problem (`chalmers`): mcginn had already argued we may be unable to solve it. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
 
 ## Penrose and Hameroff: quantum consciousness
@@ -2377,7 +2372,7 @@ by Roger Penrose
 
 Penrose's bestseller arguing that minds do something no algorithm can: see the truth of statements that formal systems cannot prove. He concludes that brains exploit non-computable physics.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Roger_Penrose). Argument and non-computable physics confirmed; 'bestseller' not stated (page notes the 1990 Science Book Prize).
+confidence: highly likely, [source](https://iep.utm.edu/lp-argue/)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Roger_Penrose)
 
@@ -2386,7 +2381,7 @@ start here, joscha bach on it: [How to Build a Mind: Artificial Intelligence Rel
 connections:
 
 - builds on Gödel's incompleteness theorems (`goedel`): penrose's argument that minds are not algorithms. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Orchestrated_objective_reduction)
-- related to Holonomic brain theory (`pribram`): non-classical physics in the brain. confidence: likely. Both invoke nonclassical or quantum ideas in brain theories, but use distinct mechanisms and no direct influence was found.
+- related to Holonomic brain theory (`pribram`): non-classical physics in the brain. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Quantum_mind)
 - related to Quantum computing (`quantumcomp`): quantum effects in the brain. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Quantum_mind)
 - challenged by Joscha Bach (`bach`): against the gödelian argument for non-computable minds. confidence: highly likely, [source](https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-episode-87-joscha-bach-on-theories-of-consciousness/)
 
@@ -2437,13 +2432,13 @@ start here, joscha bach on it: [AGI-24 keynote on cyber animism (Seattle; Machin
 connections:
 
 - builds on The binding problem and neural synchrony (`binding`): 40 hz synchrony as a correlate of consciousness. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Gamma_wave)
-- leads to Integrated Information Theory (`iit`): koch became IIT's main advocate. confidence: likely. Koch moved from NCC research to prominent advocacy and development of IIT, but the theory was originated by Tononi.
+- related to Integrated Information Theory (`iit`): koch moved from NCC work with crick to working with tononi on IIT. confidence: highly likely, [source](https://christofkoch.com/my-science/)
 
 ### Christof Koch
 
-Neuroscientist who pioneered the search for neural correlates of consciousness with Francis Crick and later became IIT's most prominent advocate.
+Neuroscientist who pioneered the search for neural correlates of consciousness with Francis Crick and later helped develop and champion integrated information theory (IIT).
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Christof_Koch). Crick collaboration and IIT advocacy with Tononi confirmed; 'most prominent advocate' is not stated.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Christof_Koch)
 
 ## Ian Witten: cognition as compression
 
@@ -2451,7 +2446,7 @@ confidence: likely, [source](https://en.wikipedia.org/wiki/Christof_Koch). Crick
 
 English-born computer scientist at the University of Waikato, New Zealand, who co-invented prediction-based text compression (PPM) and popularised arithmetic coding; the idea is that to compress data well you must predict it, which requires modelling its structure.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Ian_H._Witten). Page omits PPM and arithmetic coding; Wikipedia's PPM page credits Cleary and Witten (1984); 'popularised arithmetic coding' unconfirmed.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Ian_H._Witten)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Ian_H._Witten)
 
@@ -2459,7 +2454,7 @@ start here, mentioned by joscha bach in: [Lex Fridman Podcast #212 – Joscha Ba
 
 connections:
 
-- builds on Claude Shannon and information theory (`shannon`): prediction and compression. confidence: likely. Predictive text compression (PPM, arithmetic coding) rests on Shannon's theory; no opened page states Witten's debt in so many words.
+- builds on Claude Shannon and information theory (`shannon`): prediction and compression. confidence: highly likely, [source](https://doi.org/10.1145/76894.76896)
 
 ## It from bit
 
@@ -2477,7 +2472,7 @@ start here, mentioned by joscha bach in: [The Machine Consciousness Hypothesis (
 
 connections:
 
-- related to Digital physics (`digital`): information as more basic than matter. confidence: likely. Both make information fundamental, but the opened source did not explicitly place Wheeler's proposal within digital physics.
+- related to Digital physics (`digital`): information as more basic than matter. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Digital_physics)
 
 ## Jürgen Schmidhuber
 
@@ -2485,9 +2480,9 @@ connections:
 
 by Jürgen Schmidhuber
 
-The idea that learning is data compression and that curiosity and beauty are rewards for finding better compressions.
+The idea that learning is data compression, that curiosity is the reward for finding better compressions, and that beauty is how compressible something already is to the observer.
 
-confidence: likely, [source](https://people.idsia.ch/~juergen/creativity.html). Reward is compression progress (curiosity/interestingness); Schmidhuber defines beauty as compressibility itself and distinguishes it from the reward.
+confidence: highly likely, [source](https://people.idsia.ch/~juergen/creativity.html)
 
 start here, read: [people.idsia.ch](https://people.idsia.ch/~juergen/creativity.html)
 
@@ -2495,7 +2490,7 @@ start here, joscha bach on it: [Computational Meta-Psychology (32C3)](https://me
 
 connections:
 
-- builds on Solomonoff induction (`solomonoff`): learning as compression. confidence: likely. The intellectual lineage is standard, but the opened sources did not explicitly connect Solomonoff to Schmidhuber's compression-learning program.
+- builds on Solomonoff induction (`solomonoff`): schmidhuber generalises solomonoff's algorithmic probability and universal prediction. confidence: highly likely, [source](https://people.idsia.ch/~juergen/kolmogorov.html)
 - leads to Deep learning (`deeplearning`): lstm and early deep learning. confidence: highly likely, [source](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)
 
 ## The symbol grounding problem
@@ -2531,11 +2526,11 @@ start here, joscha bach on it: [Singularity.FM – Joscha Bach: We need to under
 
 connections:
 
-- builds on Functionalism and computationalism (`functionalism`): dennett's functionalist account of consciousness. confidence: likely. Dennett’s consciousness theory is routinely classified as broadly functionalist, though his account is not reducible to generic functionalism.
-- related to Hofstadter: strange loops (`hofstadter`): 'the mind's i'. confidence: likely. Hofstadter and Dennett jointly edited The Mind’s I and supplied commentary on mind, self, and information processing.
+- builds on Functionalism and computationalism (`functionalism`): dennett's functionalist account of consciousness. confidence: highly likely, [source](https://dl.tufts.edu/downloads/9306t946z?filename=5t34sw885.pdf)
+- related to Hofstadter: strange loops (`hofstadter`): 'the mind's i'. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Daniel_Dennett)
 - challenged by Chalmers: the hard problem (`chalmers`): chalmers answers 'consciousness explained'. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Consciousness_Explained)
 - leads to Illusionism (`illusionism`): frankish names dennett's position. confidence: highly likely, [source](https://keithfrankish.github.io/articles/Frankish_2016_Illusionism_as_a_theory_of_consciousness_eprint.pdf)
-- leads to Joscha Bach (`bach`): the self as a centre of narrative gravity. confidence: possible. Bach places his theory near Dennett's functionalism, but no mention shows him using the "centre of narrative gravity" idea.
+- leads to Joscha Bach (`bach`): conductor theory as an extension of the multiple drafts model. confidence: highly likely, [source](http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf)
 
 ### Consciousness Explained
 
@@ -2572,7 +2567,7 @@ start here, joscha bach on it: [Seven Principles of Synthetic Intelligence (Proc
 connections:
 
 - builds on Phenomenology (`husserl`): phenomenology of the lived body. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Embodied_cognition)
-- builds on Dreyfus: What Computers Still Can't Do (`dreyfus`): heidegger against the symbol-crunching mind. confidence: likely. IEP lists Dreyfus among critiques embodied theorists take up; Wikipedia calls views similar. Explicit 'builds on' not found.
+- related to Dreyfus: What Computers Still Can't Do (`dreyfus`): dreyfus's heidegger-based critique of symbolic ai is among those embodied cognition takes up. confidence: possible. The source links embodiment to Heidegger and opposes cognitivism, but does not explicitly say embodied cognition took up Dreyfus's critique.
 - related to Rodney Brooks: subsumption architecture (`brooks`): the body in the world comes first. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Embodied_cognition)
 - challenged by Joscha Bach (`bach`): 'do not wait for robot bodies'. confidence: highly likely, [source](http://icontology.com/publications/assets/AGI%20Bach.pdf)
 - leads to Anil Seth: biological naturalism (`seth`): mind needs a living body. confidence: highly likely, [source](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520)
@@ -2610,7 +2605,7 @@ start here, joscha bach on it: [Joscha Bach Λ Ben Goertzel: Conscious Ai, LLMs,
 connections:
 
 - builds on John von Neumann and the first computers (`vonneumann`): Ulam's report of von Neumann's accelerating-change conversation. confidence: highly likely, [source](https://doi.org/10.1090/s0002-9904-1958-10189-5)
-- leads to AI risk: Bostrom, Yudkowsky and the doom debate (`airisk`): runaway self-improvement. confidence: likely. Recursive self-improvement connects singularity scenarios to modern AI-risk arguments, but the specific lineage is broader than one source.
+- leads to AI risk: Bostrom, Yudkowsky and the doom debate (`airisk`): runaway self-improvement. confidence: highly likely, [source](https://doi.org/10.1007/s11098-024-02143-5)
 
 ## Antonio Damasio
 
@@ -2629,7 +2624,7 @@ start here, mentioned by joscha bach in: [Principles of Synthetic Intelligence: 
 connections:
 
 - builds on William James: The Principles of Psychology (`james`): emotion as perception of the body. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Antonio_Damasio)
-- leads to Anil Seth: biological naturalism (`seth`): feeling grounded in body regulation. confidence: likely. Seth’s embodied, interoceptive account strongly aligns with Damasio’s body-regulation account, but direct dependence was not explicit in opened sources.
+- leads to Anil Seth: biological naturalism (`seth`): feeling grounded in body regulation. confidence: highly likely, [source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(13)00211-8)
 
 ## Greg Egan
 
@@ -2637,15 +2632,15 @@ connections:
 
 by Greg Egan
 
-Hard science fiction about minds that run as software: copies of people living in simulations, citizens who are programs, and what personal identity means when a mind can be copied or merged.
+Hard science fiction about minds that run as software: copies of people living in simulations, citizens who are programs, and what personal identity means when a mind can be copied.
 
-confidence: likely, [source](https://gregegan.net/PERMUTATION/Permutation.html). The source confirms software copies and simulations, but not the specific claim about minds being merged.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Permutation_City)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Permutation_City)
 
 connections:
 
-- related to The simulation argument (`simulation`): minds running as software. confidence: possible. Permutation City explores software minds and simulated reality, but no direct connection to Bostrom’s argument was found.
+- related to The simulation argument (`simulation`): minds running as software. confidence: highly likely, [source](https://www.gregegan.net/PERMUTATION/Permutation.html)
 
 ## Multilevel selection
 
@@ -2683,16 +2678,16 @@ start here, joscha bach on it: [Joscha Bach: "You Are Not Who You Think You Are!
 
 connections:
 
-- builds on Gottfried Wilhelm Leibniz (`leibniz`): the mill argument is the hard problem in 1714. confidence: possible. Sources name Leibniz's mill as a precursor of the hard problem; none says Chalmers drew on it. 'Related' would be documented.
+- related to Gottfried Wilhelm Leibniz (`leibniz`): the mill argument is cited as an early version of the hard problem. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
 - related to Epiphenomenalism (`epiphenomenalism`): experience that does no causal work. confidence: highly likely, [source](https://plato.stanford.edu/entries/epiphenomenalism/)
 - argues against Functionalism and computationalism (`functionalism`): function alone leaves experience unexplained. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
-- builds on Nagel: What Is It Like to Be a Bat? (`nagel`): 'what it is like' becomes the hard problem. confidence: likely. Nagel’s what-it-is-like formulation is a standard precursor to Chalmers’s hard problem, but direct dependence is not established here.
-- builds on The explanatory gap (`levine`): from gap to hard problem. confidence: likely. The explanatory gap is a standard precursor to the hard problem, though Chalmers’s argument is not simply Levine’s renamed.
+- builds on Nagel: What Is It Like to Be a Bat? (`nagel`): 'what it is like' becomes the hard problem. confidence: highly likely, [source](https://consc.net/papers/facing.html)
+- builds on The explanatory gap (`levine`): from gap to hard problem. confidence: highly likely, [source](https://consc.net/papers/facing.html)
 - related to Mysterianism (`mysterianism`): mcginn had already argued we may be unable to solve it. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness)
 - argues against Daniel Dennett (`dennett`): chalmers answers 'consciousness explained'. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Consciousness_Explained)
-- leads to Panpsychism (`panpsychism`): experience as fundamental. confidence: likely. Chalmers has prominently explored panpsychist and panprotopsychist responses to the hard problem; this is standard scholarship.
+- leads to Panpsychism (`panpsychism`): experience as fundamental. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Panpsychism)
 - challenged by Illusionism (`illusionism`): phenomenal consciousness is the illusion; the hard problem gives way to the 'illusion problem'. confidence: highly likely, [source](https://keithfrankish.github.io/articles/Frankish_2016_Illusionism_as_a_theory_of_consciousness_eprint.pdf)
-- challenged by Joscha Bach (`bach`): the hard problem dissolves if experience belongs to a simulated character. confidence: likely, [source](https://www.youtube.com/watch?v=SGZ784mBuU0). Quote shows the rejection; the simulated-character explanation is in the summaries, not this quote.
+- challenged by Joscha Bach (`bach`): the hard problem dissolves if experience belongs to a simulated character. confidence: highly likely, [source](https://www.youtube.com/watch?v=SGZ784mBuU0)
 
 ### Philosophical zombies
 
@@ -2736,7 +2731,7 @@ start here, joscha bach on it: [The Ghost in the Machine (35C3)](https://media.c
 
 connections:
 
-- argues against Functionalism and computationalism (`functionalism`): 'troubles with functionalism'. confidence: likely, [source](https://en.wikipedia.org/wiki/Functionalism_(philosophy_of_mind)). Block's China brain and inverted qualia objections; this is his 1978 work, not the 1995 access/phenomenal paper.
+- argues against Functionalism and computationalism (`functionalism`): 'troubles with functionalism'. confidence: highly likely, [source](https://plato.stanford.edu/entries/functionalism/)
 
 ## Dietrich Dörner and Psi theory
 
@@ -2784,9 +2779,9 @@ confidence: highly likely, [source](http://www.cognitive-ai.com/publications/ass
 
 1999, mathematics and logic. school of thought: computation, information and digital physics. id: `hypercomputation`
 
-Hypothetical machines that compute more than a Turing machine, for example by using infinitely precise real numbers ('geometric') or by sending results back in time ('causal').
+Hypothetical machines that compute more than a Turing machine, for example by using infinitely precise real numbers, or by exploiting special spacetimes in which an endless computation finishes in finite time for an observer.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Hypercomputation). Labels 'geometric' and 'causal' not found; source says time travel alone does not give hypercomputation.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hypercomputation)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Hypercomputation)
 
@@ -2795,7 +2790,7 @@ start here, joscha bach on it: [Machine Dreams (33C3)](https://media.ccc.de/v/33
 connections:
 
 - related to Alan Turing and computability (`turing`): what would lie beyond turing machines. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Hypercomputation)
-- challenged by Joscha Bach (`bach`): nothing computes beyond turing. confidence: likely, [source](https://media.ccc.de/v/37c3-12167-synthetic_sentience). Only a paraphrase says hypercomputational objects cannot exist; the verbatim quote is neutral.
+- challenged by Joscha Bach (`bach`): nothing computes beyond turing. confidence: possible. Bach defends Church–Turing universality and doubts physical hypercomputers, but the categorical note is stronger than the opened passages.
 
 ## The Matrix
 
@@ -2856,7 +2851,7 @@ start here, joscha bach on it: [Why Consciousness Might Not Be Hard At All (Josc
 connections:
 
 - builds on Digital physics (`digital`): a new kind of science. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Digital_physics)
-- builds on Conway's Game of Life (`conway`): simple rules, complex behaviour. confidence: possible. Sources place both in the cellular-automata lineage and classify Life in Wolfram's scheme, but none says Wolfram drew on Life.
+- related to Conway's Game of Life (`conway`): wolfram cites life as a universal 2d cellular automaton, but calls it recreation, not science. confidence: highly likely, [source](https://www.wolframscience.com/reference/notes/876b/)
 - related to CIMC: the Machine Consciousness Hypothesis (`cimc`): wolfram advises CIMC. confidence: highly likely, [source](https://cimc.ai/publications/research-program-whitepaper/)
 
 ### The Ruliad
@@ -2901,7 +2896,7 @@ start here, joscha bach on it: [Should we shut down AI? | Eliezer Yudkowsky + Jo
 
 connections:
 
-- builds on Technological singularity (`singularity`): runaway self-improvement. confidence: likely. Recursive self-improvement connects singularity scenarios to modern AI-risk arguments, but the specific lineage is broader than one source.
+- builds on Technological singularity (`singularity`): runaway self-improvement. confidence: highly likely, [source](https://doi.org/10.1007/s11098-024-02143-5)
 - related to Artificial general intelligence (`agi`): what happens if it works. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Artificial_general_intelligence)
 - challenged by Joscha Bach (`bach`): alignment by shared purpose rather than control. confidence: highly likely, [source](https://joscha.substack.com/p/the-existential-risk-of-agi)
 
@@ -2957,8 +2952,8 @@ start here, joscha bach on it: [From Computation to Consciousness (31C3)](https:
 
 connections:
 
-- related to Digital physics (`digital`): if physics is computation it could be run. confidence: possible. Digital physics and simulation are related but logically distinct; neither implies the other.
-- related to Greg Egan (`egan`): minds running as software. confidence: possible. Permutation City explores software minds and simulated reality, but no direct connection to Bostrom’s argument was found.
+- related to Digital physics (`digital`): overlapping but distinct: a computational universe need not be one run by someone. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Digital_physics)
+- related to Greg Egan (`egan`): minds running as software. confidence: highly likely, [source](https://www.gregegan.net/PERMUTATION/Permutation.html)
 - related to The Matrix (`matrix`): the popular image of a simulated world. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 
 ## Thomas Metzinger: Being No One
@@ -2979,8 +2974,8 @@ start here, joscha bach on it: [Lex Fridman Podcast #392 – Joscha Bach: Life, 
 
 connections:
 
-- related to Illusionism (`illusionism`): nobody ever had a self. confidence: possible. Metzinger's claim concerns the self, not phenomenal properties; Frankish's founding paper does not discuss him. Thematic parallel only.
-- leads to Joscha Bach (`bach`): the self as a model the brain cannot see as a model. confidence: possible. The self-model accounts strongly parallel each other, but no reliable opened source established direct influence on Bach.
+- related to Illusionism (`illusionism`): blackmore's illusionist account uses metzinger's self-model. confidence: highly likely, [source](https://www.susanblackmore.uk/articles/delusions-of-consciousness/)
+- leads to Joscha Bach (`bach`): the self is a representation, not an agent. confidence: highly likely, [source](https://ceur-ws.org/Vol-2287/paper29.pdf)
 
 ### Artificial suffering
 
@@ -3006,12 +3001,12 @@ start here, joscha bach on it: [Machine Learning Street Talk – Why Leibniz Cou
 
 connections:
 
-- builds on Crick and Koch: neural correlates of consciousness (`ncc`): koch became IIT's main advocate. confidence: likely. Koch moved from NCC research to prominent advocacy and development of IIT, but the theory was originated by Tononi.
+- related to Crick and Koch: neural correlates of consciousness (`ncc`): koch moved from NCC work with crick to working with tononi on IIT. confidence: highly likely, [source](https://christofkoch.com/my-science/)
 - related to Panpsychism (`panpsychism`): IIT implies a form of panpsychism. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Panpsychism)
 - challenged by Scott Aaronson (`aaronson`): simple grids with huge phi. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Integrated_information_theory)
 - leads to Max Tegmark (`tegmark`): consciousness as a state of matter. confidence: highly likely, [source](https://arxiv.org/abs/1401.1219)
 - challenged by Joscha Bach (`bach`): a functionalist alternative to IIT. confidence: highly likely, [source](http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf)
-- challenged by CIMC: the Machine Consciousness Hypothesis (`cimc`): IIT says an ordinary computer can never be conscious. confidence: likely, [source](https://cimc.ai/publications/research-program-whitepaper/). CIMC rejects IIT's intrinsic-property claim; the note's wording about ordinary computers is not in the quote.
+- challenged by CIMC: the Machine Consciousness Hypothesis (`cimc`): IIT says an ordinary computer can never be conscious. confidence: highly likely, [source](https://cimc.ai/publications/research-program-whitepaper/)
 
 ### Aaronson's critique
 
@@ -3065,9 +3060,9 @@ start here, joscha bach on it: [Lex Fridman Podcast #392 – Joscha Bach: Life, 
 
 connections:
 
-- builds on Chalmers: the hard problem (`chalmers`): experience as fundamental. confidence: likely. Chalmers has prominently explored panpsychist and panprotopsychist responses to the hard problem; this is standard scholarship.
+- builds on Chalmers: the hard problem (`chalmers`): experience as fundamental. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Panpsychism)
 - related to Integrated Information Theory (`iit`): IIT implies a form of panpsychism. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Panpsychism)
-- challenged by Joscha Bach (`bach`): matter is not conscious; only a simulation can be. confidence: likely, [source](https://lexfridman.com/joscha-bach-3-transcript). Quote shows the rejection; the "only a simulation can be conscious" part is not in the quote.
+- challenged by Joscha Bach (`bach`): matter is not conscious; only a simulation can be. confidence: highly likely, [source](https://www.youtube.com/watch?v=0-nI_MpiuSE)
 
 ## Peter Watts: Blindsight
 
@@ -3082,10 +3077,6 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/Blindsight_(Wa
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Blindsight_(Watts_novel))
 
 start here, mentioned by joscha bach in: [Salon with Stephen Wolfram × Joscha Bach_What if we had bigger brains. (California Institute for Machine Consciousness)](https://www.youtube.com/watch?v=-G1SdsRXL7k&t=9685s), from 2:41:27
-
-connections:
-
-- related to Illusionism (`illusionism`): intelligence without experience. confidence: possible. Blindsight treats consciousness as real but dispensable, which differs from illusionism; Watts's own notes cite Metzinger, and the novel predates the term.
 
 ## Predictive processing and the free energy principle
 
@@ -3170,16 +3161,16 @@ start here, mentioned by joscha bach in: [The Jim Rutt Show EP 334 – Worldview
 
 connections:
 
-- related to Freud and psychoanalysis (`freud`): most of the mind is not the conscious part. confidence: likely, [source](https://psyche.co/ideas/the-id-and-the-nudge-where-freud-meets-behavioural-economics). Essay compares both dual-process views and notes Kahneman studied Freud; Freud's repressed unconscious differs from System 1.
+- related to Freud and psychoanalysis (`freud`): most of the mind is not the conscious part. confidence: highly likely, [source](https://psyche.co/ideas/the-id-and-the-nudge-where-freud-meets-behavioural-economics)
 - related to The rider and the elephant (`haidt`): rider and elephant, system 2 and system 1. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Jonathan_Haidt)
 
 ## Chris Fields
 
 2012, physics and life. school of thought: cybernetics, systems and self-organisation. id: `fields`
 
-Independent physicist who applies quantum information theory to biology and cognition, often with Michael Levin and Karl Friston. He treats any system with a boundary as an observer exchanging information with its environment.
+Physicist at the Allen Discovery Center at Tufts University who applies quantum information theory to biology and cognition, often with Michael Levin and Karl Friston. He argues that generic physical systems can be regarded as observers exchanging information with their environment.
 
-confidence: likely, [source](https://chrisfieldsresearch.com/). 'Independent' not confirmed: his site lists Allen Discovery Center, Tufts. Rest is backed, including Levin and Friston co-authorship.
+confidence: highly likely, [source](https://chrisfieldsresearch.com/)
 
 start here, read: [chrisfieldsresearch.com](https://chrisfieldsresearch.com/)
 
@@ -3198,7 +3189,7 @@ by David Deutsch; Chiara Marletto
 
 Deutsch proposes restating physics in terms of which transformations are possible and which are impossible, rather than initial conditions and laws of motion. He also holds that science advances by explanation, not prediction.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Constructor_theory). Constructor theory part backed. 'Explanation, not prediction' is not stated; Wikipedia's Deutsch page only stresses hard-to-vary explanations.
+confidence: highly likely, [source](https://www.edge.org/conversation/constructor-theory)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Constructor_theory)
 
@@ -3229,9 +3220,9 @@ connections:
 - builds on Boltzmann machine (`boltzmannmachine`): hinton's line of work. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Deep_learning)
 - builds on Connectionism and backpropagation (`pdp`): backpropagation at scale. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Deep_learning)
 - builds on Jürgen Schmidhuber (`schmidhuber`): lstm and early deep learning. confidence: highly likely, [source](https://en.wikipedia.org/wiki/J%C3%BCrgen_Schmidhuber)
-- leads to Large language models (`llm`): the transformer. confidence: likely. Transformers are deep neural architectures and underpin modern LLMs, but the opened original paper did not itself discuss LLMs.
+- leads to Large language models (`llm`): the transformer. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Large_language_model)
 - leads to The Bitter Lesson (`bitter`): scale beats hand-built knowledge. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Bitter_lesson)
-- challenged by Chollet: On the Measure of Intelligence (`chollet`): skill is not intelligence. confidence: possible. Chollet argues against measuring intelligence by task skill; calling the paper 'against deep learning' is a judgement call.
+- challenged by Chollet: On the Measure of Intelligence (`chollet`): skill is not intelligence. confidence: highly likely, [source](https://arxiv.org/html/1911.01547)
 - leads to The universality hypothesis (`olah`): looking inside trained networks. confidence: highly likely, [source](https://distill.pub/2020/circuits/zoom-in/)
 - challenged by Gary Marcus (`marcus`): 'deep learning is hitting a wall'. confidence: highly likely, [source](https://nautil.us/deep-learning-is-hitting-a-wall-238440/)
 
@@ -3265,21 +3256,21 @@ by Ian Goodfellow (GANs)
 
 A GAN trains two networks against each other: a generator invents samples and a discriminator judges whether they look real. Ian Goodfellow introduced them in 2014; later GANs became a major method for synthesising photorealistic images.
 
-confidence: likely, [source](https://arxiv.org/abs/1406.2661). The original paper supports the method and date; the later photorealistic-image claim is not covered there.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Generative_adversarial_networks)
 
 ### Stable Diffusion
 
 by Stability AI / CompVis
 
-An openly released image-generation model whose weights fit in a couple of gigabytes yet can render almost any visual subject.
+An openly released image-generation model whose weights fit in about four gigabytes yet can generate photo-realistic images from any text prompt.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Stable_Diffusion). Public release confirmed; source gives 2.4 GB VRAM, not weight file size. 'Almost any visual subject' not stated.
+confidence: highly likely, [source](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original)
 
 ### Ilya Sutskever
 
 Co-author of AlexNet and co-founder of OpenAI, known for early conviction that scaling neural networks would lead to AGI. He left OpenAI in 2024 to found Safe Superintelligence.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Ilya_Sutskever). AlexNet, OpenAI, departure, and SSI are confirmed; his early scaling-to-AGI conviction is not documented here.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Ilya_Sutskever)
 
 ## John Vervaeke: relevance realization
 
@@ -3289,7 +3280,7 @@ by John Vervaeke
 
 Toronto cognitive scientist known for the lecture series 'Awakening from the Meaning Crisis'. He argues that the core of intelligence is 'relevance realization', and that wisdom traditions (Neoplatonism, Buddhism) cultivate it through practices rather than beliefs.
 
-confidence: likely, [source](https://deconstructingyourself.com/john-vervaeke-on-relevance-realization.html). Toronto, lecture series and relevance realization confirmed; 'core of intelligence' and Neoplatonism/Buddhism 'practices rather than beliefs' claims not stated on page.
+confidence: highly likely, [source](https://deconstructingyourself.com/john-vervaeke-on-relevance-realization.html)
 
 start here, read: [deconstructingyourself.com](https://deconstructingyourself.com/john-vervaeke-on-relevance-realization.html)
 
@@ -3330,7 +3321,7 @@ start here, joscha bach on it: [The Machine Consciousness Hypothesis (Joscha Bac
 
 connections:
 
-- builds on John von Neumann and the first computers (`vonneumann`): reliable computing from unreliable parts. confidence: possible. Thematic link to von Neumann's 1956 unreliable-components paper; found no reliable source stating Ackley builds on it.
+- builds on John von Neumann and the first computers (`vonneumann`): reliable computing from unreliable parts. confidence: highly likely, [source](https://cacm.acm.org/opinion/beyond-efficiency/)
 
 ## Her
 
@@ -3432,7 +3423,7 @@ start here, joscha bach on it: [Joscha Bach: Time, Simulation Hypothesis, Existe
 
 connections:
 
-- builds on Idealism (`idealism`): conscious agents as the base of reality. confidence: possible. Commentators read conscious realism as idealism, but Hoffman writes that his interface theory 'is not idealism' and distances conscious realism from Kant.
+- related to Idealism (`idealism`): hoffman grants the resemblance but says his theory is not idealism. confidence: highly likely, [source](https://sites.socsci.uci.edu/~ddhoff/MindBody)
 
 ## Gerard 't Hooft: cellular automaton interpretation
 
@@ -3470,8 +3461,7 @@ connections:
 
 - builds on Daniel Dennett (`dennett`): frankish names dennett's position. confidence: highly likely, [source](https://keithfrankish.github.io/articles/Frankish_2016_Illusionism_as_a_theory_of_consciousness_eprint.pdf)
 - argues against Chalmers: the hard problem (`chalmers`): phenomenal consciousness is the illusion; the hard problem gives way to the 'illusion problem'. confidence: highly likely, [source](https://keithfrankish.github.io/articles/Frankish_2016_Illusionism_as_a_theory_of_consciousness_eprint.pdf)
-- related to Thomas Metzinger: Being No One (`metzinger`): nobody ever had a self. confidence: possible. Metzinger's claim concerns the self, not phenomenal properties; Frankish's founding paper does not discuss him. Thematic parallel only.
-- related to Peter Watts: Blindsight (`watts`): intelligence without experience. confidence: possible. Blindsight treats consciousness as real but dispensable, which differs from illusionism; Watts's own notes cite Metzinger, and the novel predates the term.
+- related to Thomas Metzinger: Being No One (`metzinger`): blackmore's illusionist account uses metzinger's self-model. confidence: highly likely, [source](https://www.susanblackmore.uk/articles/delusions-of-consciousness/)
 
 ## Westworld
 
@@ -3522,58 +3512,57 @@ start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Joscha_Bach)
 connections:
 
 - builds on Animism (`animism`): spirits as self-organising software. confidence: highly likely, [source](https://cimc.ai/cimcHypothesis.pdf)
-- builds on Greek gods as archetypes (`greekgods`): gods as shared archetypes. confidence: possible. Gods as shared archetypes is compatible with Bach's multi-mind agents, but the specific Greek-archetype link was not documented.
+- related to Greek gods as archetypes (`greekgods`): gods as shared archetypes. confidence: highly likely, [source](https://www.youtube.com/watch?v=3MNBxfrmfmI)
 - builds on Genesis and the Hebrew Bible (`genesis`): genesis 1 read as consciousness booting up a world. confidence: highly likely, [source](https://c3subtitles.de/talk/2838)
-- builds on Buddhism and meditation (`buddhism`): the self is constructed and can be seen through; the 'enlightened mind' level. confidence: possible. Bach discusses meditation and constructed selfhood, but no opened source established Buddhism as a source for his levels.
-- related to Plato: forms and the cave (`plato`): the cave: we see a projection. confidence: possible. Bach discusses Platonism and Platonic forms, but no mention refers to the cave.
+- related to Buddhism and meditation (`buddhism`): bach's 'enlightened' stage is reached mostly by advanced buddhist meditators. confidence: highly likely, [source](https://lexfridman.com/joscha-bach-3-transcript)
+- related to Plato: forms and the cave (`plato`): vervaeke calls the cave the first simulation theory; bach answers 'almost'. confidence: highly likely, [source](https://www.youtube.com/watch?v=rK7ux_JhHM4)
 - builds on Aristotle (`aristotle`): the soul as the form of a living body. confidence: highly likely, [source](https://media.ccc.de/v/38c3-self-models-of-loving-grace)
-- builds on Christianity (`christianity`): the church as a collective agent; 1 corinthians 13. confidence: possible. Bach discusses collective agency, love, and 1 Corinthians 13, but the claimed Christianity-to-Bach dependency remains interpretive.
-- builds on Thomas Aquinas (`aquinas`): love among the theological virtues. confidence: possible. Aquinas treats charity as love, but no opened source showed Bach's framework building on that theological virtue.
-- builds on La Mettrie: Man a Machine (`lamettrie`): computationalism as the heir of mechanism. confidence: likely, [source](https://media.ccc.de/v/37c3-12167-synthetic_sentience). La Mettrie is consistently named as an ancestor; the quoted phrase "computationalism is the new mechanism" was not found in the evidence.
-- builds on Immanuel Kant (`kant`): we experience the mind's model, not the thing in itself. confidence: possible. No statement by Bach on Kant's phenomena/thing-in-itself was found; Kant work at CIMC is by colleagues.
-- argues against Utilitarianism (`utilitarianism`): values derived from how agents work, not a pleasure calculus. confidence: likely, [source](https://www.youtube.com/watch?v=ayW7SDyAjZo). Quote shows the rejection; the positive alternative in the note is not in the quote.
-- argues against Cantor's set theory (`cantor`): no completed infinities. confidence: possible. Quotes only recount contradictions in Cantor's set theory; Bach's rejection of infinities is stated elsewhere, not about Cantor here.
-- builds on Constructive mathematics and intuitionism (`brouwer`): only what can be constructed exists. confidence: possible. Bach endorses constructive mathematics, but no opened source specifically tied his view to Brouwer.
-- builds on Ludwig Wittgenstein (`wittgenstein`): the tractatus as a programme for a precise language. confidence: possible. Bach discusses the Tractatus and formal languages, but the claimed programmatic influence was not explicitly established.
+- related to Christianity (`christianity`): the church as a collective agent; 1 corinthians 13. confidence: highly likely, [source](https://www.youtube.com/watch?v=7bqdPHLIY8w)
+- builds on Thomas Aquinas (`aquinas`): love among the theological virtues. confidence: highly likely, [source](https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-currents-083-joscha-bach-on-synthetic-intelligence/)
+- builds on La Mettrie: Man a Machine (`lamettrie`): computationalism as the heir of mechanism. confidence: highly likely, [source](https://media.ccc.de/v/37c3-12167-synthetic_sentience)
+- argues against Utilitarianism (`utilitarianism`): values derived from how agents work, not a pleasure calculus. confidence: highly likely, [source](https://media.ccc.de/v/37c3-12167-synthetic_sentience)
+- argues against Cantor's set theory (`cantor`): no completed infinities. confidence: highly likely, [source](https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine)
+- builds on Constructive mathematics and intuitionism (`brouwer`): only what can be constructed exists. confidence: possible. Bach strongly advocates constructive mathematics, but no opened source documented a specific debt to Brouwer or intuitionism.
+- related to Ludwig Wittgenstein (`wittgenstein`): the tractatus as a programme for a precise language. confidence: highly likely, [source](https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine)
 - builds on Gödel's incompleteness theorems (`goedel`): bach reads incompleteness as the failure of classical mathematics. confidence: highly likely, [source](https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-episode-87-joscha-bach-on-theories-of-consciousness/)
 - builds on Alan Turing and computability (`turing`): the church-turing thesis. confidence: highly likely, [source](https://media.ccc.de/v/30C3_-_5526_-_en_-_saal_2_-_201312291600_-_how_to_build_a_mind_-_joscha)
-- related to Maslow: A Theory of Human Motivation (`maslow`): a set of built-in needs that generate goals. confidence: possible. Only a bibliography entry for Maslow, no source URL; how far Bach follows him was not checked.
-- builds on Cybernetics (`cybernetics`): needs as feedback loops. confidence: likely. Bach models needs with target deviations and feedback loops, but no opened source explicitly named cybernetics as the source.
+- related to Maslow: A Theory of Human Motivation (`maslow`): maslow's hierarchy of needs reread as a hierarchy of purposes. confidence: highly likely, [source](http://bach.ai/pub/Attention%20based%20learning%20as%20a%20foundation%20for%20consciousness%20Common%20Model%20Bach.pdf)
+- builds on Cybernetics (`cybernetics`): needs as feedback loops. confidence: highly likely, [source](https://www.youtube.com/watch?v=XcNlv9gp20o)
 - related to Developmental stage theories (`piaget`): both propose developmental stages; Bach says his levels derive from Kegan, not Piaget. confidence: highly likely, [source](https://joscha.substack.com/p/levels-of-lucidity)
 - builds on Marvin Minsky (`minsky`): a society of specialised processes that needs coordinating. confidence: highly likely, [source](https://www.youtube.com/watch?v=Z02Obj8j6FQ)
 - builds on Functionalism and computationalism (`functionalism`): the tradition bach places himself in. confidence: highly likely, [source](https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine)
-- builds on Digital physics (`digital`): strong computationalism: reality itself computes. confidence: likely, [source](https://media.ccc.de/v/33c3-8369-machine_dreams). Paraphrases show Bach describing digital physics (Zuse, Fredkin, Wolfram); no verbatim statement of his own stance in this entry.
-- builds on Dawkins: selfish genes and memes (`dawkins`): memes: ideas that copy themselves between minds. confidence: possible. Bach speaks of "mind viruses" and cites Dawkins on genes, but no mention ties him to Dawkins's memes.
-- related to Jaynes: the bicameral mind (`jaynes`): gods as voices in the mind. confidence: possible. The one quote only says Jaynes's book has the wrong name; the gods-as-voices reading is in the summary only.
-- builds on Scripts, Plans, Goals and Understanding (`schank`): neural execution of scripts. confidence: possible. Schank appears only in a bibliography; the verbatim ReCoN quote does not mention scripts or Schank.
-- builds on Aaron Sloman (`sloman`): philosophy of mind by designing working minds. confidence: likely, [source](http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf). Bach uses a Sloman line as a chapter motto and calls his architecture inspiring; no verbatim statement of the method claim.
+- builds on Digital physics (`digital`): strong computationalism: reality itself computes. confidence: highly likely, [source](https://media.ccc.de/v/33c3-8369-machine_dreams)
+- related to Dawkins: selfish genes and memes (`dawkins`): bach moves from dawkins's selfish genes to competing software agents. confidence: highly likely, [source](https://www.youtube.com/watch?v=34VOI_oo-qM)
+- related to Jaynes: the bicameral mind (`jaynes`): gods as voices in the mind. confidence: possible. Bach discusses gods as mental constructs and cross-mind selves, but no opened source tied this account to Jaynes.
+- builds on Scripts, Plans, Goals and Understanding (`schank`): neural execution of scripts. confidence: highly likely, [source](https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf)
+- builds on Aaron Sloman (`sloman`): philosophy of mind by designing working minds. confidence: highly likely, [source](http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf)
 - builds on The binding problem and neural synchrony (`binding`): von der malsburg's coherence. confidence: highly likely, [source](https://cimc.ai/cimcHypothesis.pdf)
-- related to Lucid dreaming (`lucid`): waking perception as a dream constrained by the senses. confidence: possible. Single quote uses lucid dreams to show the brain's generative fidelity; the "waking perception is a constrained dream" claim is not in it.
+- related to Lucid dreaming (`lucid`): waking perception as a dream constrained by the senses. confidence: highly likely, [source](https://media.ccc.de/v/33c3-8369-machine_dreams)
 - argues against Searle: the Chinese room (`searle`): bach rejects the chinese room. confidence: highly likely, [source](https://www.youtube.com/watch?v=yW_ngvMFlYs)
 - builds on Kegan's stages of adult development (`kegan`): seven levels that grew out of kegan's five stages. confidence: highly likely, [source](https://lexfridman.com/joscha-bach-3-transcript)
-- builds on Norbert Bischof (`bischof`): motivation and attachment as control systems. confidence: possible. Bach only names Bischof as a source of Dörner's theory; no direct statement of Bach drawing on him.
+- builds on Norbert Bischof (`bischof`): via dörner's psi theory, which takes up bischof's cybernetic psychology. confidence: highly likely, [source](http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf)
 - related to Structure and Interpretation of Computer Programs (`sicp`): programs as spirits conjured with spells. confidence: highly likely, [source](https://cimc.ai/cimcHypothesis.pdf)
 - related to Higher-order thought theory (`hot`): both use higher-order representation, but Bach distinguishes second-order perception from higher-order thought. confidence: highly likely, [source](https://cimc.ai/cimcHypothesis.pdf)
-- builds on Cognitive architectures: Soar and ACT-R (`cogarch`): psi compared with soar and ACT-R. confidence: likely, [source](http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf). Thesis section 2.2 compares Psi with Soar and ACT-R; known here only from a paraphrase.
-- argues against The Cognitive Structure of Emotions (`occ`): emotions as modes of the whole system, not a lookup table. confidence: possible. One paraphrase: Bach reports Dörner rejecting emotion taxonomies in general; OCC is only one item in the list.
-- builds on Global Workspace Theory (`gwt`): one coordinating process the rest can read. confidence: likely, [source](https://www.youtube.com/watch?v=34VOI_oo-qM). Bach names global workspace theory as a perspective converging on his own; verbatim quotes only name it.
+- related to Cognitive architectures: Soar and ACT-R (`cogarch`): psi compared with soar and ACT-R. confidence: highly likely, [source](http://cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf)
+- argues against The Cognitive Structure of Emotions (`occ`): emotions as modes of the whole system, not a lookup table. confidence: highly likely, [source](https://agi-conf.org/2019/wp-content/uploads/2019/07/paper_30.pdf)
+- related to Global Workspace Theory (`gwt`): bach lists global workspace theory among views converging on his own. confidence: highly likely, [source](https://ceur-ws.org/Vol-2287/paper29.pdf)
 - argues against Penrose and Hameroff: quantum consciousness (`penrose`): against the gödelian argument for non-computable minds. confidence: highly likely, [source](https://jimruttshow.blubrry.net/the-jim-rutt-show-transcripts/transcript-of-episode-87-joscha-bach-on-theories-of-consciousness/)
 - related to The symbol grounding problem (`harnad`): ground the system, but do not get stuck on symbol grounding. confidence: highly likely, [source](http://icontology.com/publications/assets/AGI%20Bach.pdf)
 - argues against Embodied and enactive cognition (`embodied`): 'do not wait for robot bodies'. confidence: highly likely, [source](http://icontology.com/publications/assets/AGI%20Bach.pdf)
-- builds on Daniel Dennett (`dennett`): the self as a centre of narrative gravity. confidence: possible. Bach places his theory near Dennett's functionalism, but no mention shows him using the "centre of narrative gravity" idea.
-- argues against Chalmers: the hard problem (`chalmers`): the hard problem dissolves if experience belongs to a simulated character. confidence: likely, [source](https://www.youtube.com/watch?v=SGZ784mBuU0). Quote shows the rejection; the simulated-character explanation is in the summaries, not this quote.
+- builds on Daniel Dennett (`dennett`): conductor theory as an extension of the multiple drafts model. confidence: highly likely, [source](http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf)
+- argues against Chalmers: the hard problem (`chalmers`): the hard problem dissolves if experience belongs to a simulated character. confidence: highly likely, [source](https://www.youtube.com/watch?v=SGZ784mBuU0)
 - builds on Dietrich Dörner and Psi theory (`doerner`): micropsi implements and extends dörner's psi theory. confidence: highly likely, [source](http://icontology.com/publications/assets/AGI%20Bach.pdf)
-- argues against Hypercomputation (`hypercomputation`): nothing computes beyond turing. confidence: likely, [source](https://media.ccc.de/v/37c3-12167-synthetic_sentience). Only a paraphrase says hypercomputational objects cannot exist; the verbatim quote is neutral.
-- builds on Thomas Metzinger: Being No One (`metzinger`): the self as a model the brain cannot see as a model. confidence: possible. The self-model accounts strongly parallel each other, but no reliable opened source established direct influence on Bach.
+- argues against Hypercomputation (`hypercomputation`): nothing computes beyond turing. confidence: possible. Bach defends Church–Turing universality and doubts physical hypercomputers, but the categorical note is stronger than the opened passages.
+- builds on Thomas Metzinger: Being No One (`metzinger`): the self is a representation, not an agent. confidence: highly likely, [source](https://ceur-ws.org/Vol-2287/paper29.pdf)
 - argues against AI risk: Bostrom, Yudkowsky and the doom debate (`airisk`): alignment by shared purpose rather than control. confidence: highly likely, [source](https://joscha.substack.com/p/the-existential-risk-of-agi)
 - argues against Integrated Information Theory (`iit`): a functionalist alternative to IIT. confidence: highly likely, [source](http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf)
-- argues against Panpsychism (`panpsychism`): matter is not conscious; only a simulation can be. confidence: likely, [source](https://lexfridman.com/joscha-bach-3-transcript). Quote shows the rejection; the "only a simulation can be conscious" part is not in the quote.
+- argues against Panpsychism (`panpsychism`): matter is not conscious; only a simulation can be. confidence: highly likely, [source](https://www.youtube.com/watch?v=0-nI_MpiuSE)
 - builds on Attention Schema Theory (`ast`): a model of the system's own attention. confidence: highly likely, [source](https://www.youtube.com/watch?v=34VOI_oo-qM)
-- builds on Large language models (`llm`): bach's reading of what language models are. confidence: possible. Bach analyzes LLMs, but the vague claim that his reading 'builds on' LLMs is not a documented intellectual dependency.
-- builds on Michael Levin: bioelectricity and collective intelligence (`levin`): cells running shared goals. confidence: likely, [source](https://www.youtube.com/watch?v=yW_ngvMFlYs). Bach endorses Levin's morphogenesis hypothesis; no verbatim quote states "cells running shared goals".
+- related to Large language models (`llm`): bach's reading of what language models are. confidence: highly likely, [source](https://lexfridman.com/joscha-bach-3-transcript)
+- builds on Michael Levin: bioelectricity and collective intelligence (`levin`): any cells can compute; morphogenesis and mind may share one algorithm. confidence: highly likely, [source](https://www.youtube.com/watch?v=yW_ngvMFlYs)
 - argues against Anil Seth: biological naturalism (`seth`): function versus living substrate. confidence: highly likely, [source](https://www.youtube.com/watch?v=yW_ngvMFlYs)
-- related to Murray Shanahan (`shanahan`): a model that plays characters. confidence: possible. Bach and Shanahan shared a 2025 panel, but no transcript was obtained; nothing said is verified.
-- leads to CIMC: the Machine Consciousness Hypothesis (`cimc`): the institute's hypothesis rests on his conductor model, his functionalism and the idea that consciousness comes first. confidence: likely, [source](https://cimc.ai/publications/research-program-whitepaper/). Whitepaper opened. It states computationalist functionalism; the conductor model is not named there.
+- related to Murray Shanahan (`shanahan`): shared a panel on machine sentience. confidence: highly likely, [source](https://lifeboat.com/blog/2026/02/sentience-beyond-biology-debate-w-dmitry-volkov-joscha-bach-matthew-macdougall-murray-shanahan)
+- leads to CIMC: the Machine Consciousness Hypothesis (`cimc`): the institute's hypothesis rests on his conductor model, his functionalism and the idea that consciousness comes first. confidence: highly likely, [source](https://cimc.ai/publications/the-machine-consciousness-hypothesis/)
 
 ### Motivated cognition: Psi theory and MicroPsi (2003)
 
@@ -3810,8 +3799,8 @@ start here, joscha bach on it: [Synthetic Sentience (37C3)](https://media.ccc.de
 connections:
 
 - related to ELIZA (`eliza`): people feel understood by a text machine. confidence: highly likely, [source](https://ojs.weizenbaum-institut.de/index.php/wjds/article/download/136/3_3_3/1438)
-- builds on Deep learning (`deeplearning`): the transformer. confidence: likely. Transformers are deep neural architectures and underpin modern LLMs, but the opened original paper did not itself discuss LLMs.
-- leads to Joscha Bach (`bach`): bach's reading of what language models are. confidence: possible. Bach analyzes LLMs, but the vague claim that his reading 'builds on' LLMs is not a documented intellectual dependency.
+- builds on Deep learning (`deeplearning`): the transformer. confidence: highly likely, [source](https://en.wikipedia.org/wiki/Large_language_model)
+- related to Joscha Bach (`bach`): bach's reading of what language models are. confidence: highly likely, [source](https://lexfridman.com/joscha-bach-3-transcript)
 - leads to AI consciousness and welfare reports (`butlin`): checking AI systems against theories of consciousness. confidence: highly likely, [source](https://arxiv.org/abs/2308.08708)
 - leads to Murray Shanahan (`shanahan`): language models as role-players. confidence: highly likely, [source](https://arxiv.org/abs/2305.16367)
 - leads to CIMC: the Machine Consciousness Hypothesis (`cimc`): chatbots show the same behaviour can be produced another way. confidence: highly likely, [source](https://cimc.ai/publications/research-program-whitepaper/)
@@ -3834,7 +3823,7 @@ confidence: highly likely, [source](https://en.wikipedia.org/wiki/LaMDA)
 
 Chatbot products that users talk to as friends or partners. Replika is marketed as an AI companion; Claude is Anthropic's assistant.
 
-confidence: likely, [source](https://help.replika.com/hc/en-us/articles/115001070951-What-is-Replika). Replika's friend, partner, and companion positioning is confirmed; this source does not cover Claude or Anthropic.
+confidence: highly likely, [source](https://en.wikipedia.org/wiki/Replika)
 
 ### Public AI discourse
 
@@ -3850,7 +3839,7 @@ by François Chollet (On the Measure of Intelligence)
 
 Chollet defines intelligence as the efficiency of acquiring new skills, not the possession of skills, and argues that current models mostly interpolate between things they have seen.
 
-confidence: likely, [source](https://arxiv.org/abs/1911.01547). Skill-acquisition efficiency definition confirmed; the claim that current models 'mostly interpolate' does not appear in this paper.
+confidence: highly likely, [source](https://arxiv.org/abs/1911.01547)
 
 start here, read: [arxiv.org](https://arxiv.org/abs/1911.01547)
 
@@ -3858,7 +3847,7 @@ start here, joscha bach on it: [Lex Fridman Podcast #392 – Joscha Bach: Life, 
 
 connections:
 
-- argues against Deep learning (`deeplearning`): skill is not intelligence. confidence: possible. Chollet argues against measuring intelligence by task skill; calling the paper 'against deep learning' is a judgement call.
+- argues against Deep learning (`deeplearning`): skill is not intelligence. confidence: highly likely, [source](https://arxiv.org/html/1911.01547)
 
 ## Michael Levin: bioelectricity and collective intelligence
 
@@ -3876,9 +3865,8 @@ start here, joscha bach on it: [Why Consciousness Might Not Be Hard At All (Josc
 
 connections:
 
-- builds on Cell theory (`celltheory`): cells as agents that cooperate to build bodies. confidence: possible. No source found tying Levin's work to cell theory; cell theory does not treat cells as cooperating agents.
 - related to Chris Fields (`fields`): frequent co-authors. confidence: highly likely, [source](https://drmichaellevin.org/publications/)
-- leads to Joscha Bach (`bach`): cells running shared goals. confidence: likely, [source](https://www.youtube.com/watch?v=yW_ngvMFlYs). Bach endorses Levin's morphogenesis hypothesis; no verbatim quote states "cells running shared goals".
+- leads to Joscha Bach (`bach`): any cells can compute; morphogenesis and mind may share one algorithm. confidence: highly likely, [source](https://www.youtube.com/watch?v=yW_ngvMFlYs)
 
 ## The Bitter Lesson
 
@@ -3927,7 +3915,7 @@ start here, joscha bach on it: [The Operation of Consciousness (AGI-25, Reykjavi
 connections:
 
 - builds on Turing's morphogenesis (`morpho`): patterns that grow from local rules. confidence: highly likely, [source](https://distill.pub/2020/growing-ca/)
-- builds on Conway's Game of Life (`conway`): learned cellular automata. confidence: likely. Neural cellular automata extend the cellular-automaton paradigm, but the opened paper did not explicitly derive its method from Conway's Life.
+- related to Conway's Game of Life (`conway`): the neural ca paper names life as the classic cellular automaton before its learned ones. confidence: highly likely, [source](https://distill.pub/2020/growing-ca/)
 - leads to CIMC: the Machine Consciousness Hypothesis (`cimc`): CIMC's self-organisation experiments. confidence: highly likely, [source](https://cimc.ai/publications/research-program-whitepaper/)
 
 ## The universality hypothesis
@@ -3967,7 +3955,7 @@ connections:
 - argues against Functionalism and computationalism (`functionalism`): consciousness tied to living bodies. confidence: highly likely, [source](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520)
 - builds on Searle: the Chinese room (`searle`): biological naturalism. confidence: highly likely, [source](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520)
 - builds on Embodied and enactive cognition (`embodied`): mind needs a living body. confidence: highly likely, [source](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520)
-- builds on Antonio Damasio (`damasio`): feeling grounded in body regulation. confidence: likely. Seth’s embodied, interoceptive account strongly aligns with Damasio’s body-regulation account, but direct dependence was not explicit in opened sources.
+- builds on Antonio Damasio (`damasio`): feeling grounded in body regulation. confidence: highly likely, [source](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(13)00211-8)
 - builds on Predictive processing and the free energy principle (`friston`): the 'beast machine': predicting one's own body. confidence: highly likely, [source](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520)
 - challenged by Joscha Bach (`bach`): function versus living substrate. confidence: highly likely, [source](https://www.youtube.com/watch?v=yW_ngvMFlYs)
 
@@ -3977,9 +3965,9 @@ connections:
 
 by Gary Marcus
 
-Cognitive scientist and the best-known critic of deep learning. He argues that neural networks cannot reason reliably without built-in symbolic structure and that scaling them up will not yield general intelligence.
+Cognitive scientist and a well-known critic of deep learning. He argues that neural networks cannot reason reliably without built-in symbolic structure and that scaling them up will not yield general intelligence.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Gary_Marcus). Critic of AI hype, symbol-manipulation and scaling limits confirmed; 'best-known critic of deep learning' is not stated by the source.
+confidence: highly likely, [source](https://www.technologyreview.com/2020/03/27/950247/ai-debate-gary-marcus-danny-lange/)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Gary_Marcus)
 
@@ -4028,7 +4016,7 @@ connections:
 - builds on Higher-order thought theory (`hot`): one of the checklist theories. confidence: highly likely, [source](https://arxiv.org/abs/2308.08708)
 - builds on Global Workspace Theory (`gwt`): one of the checklist theories. confidence: highly likely, [source](https://arxiv.org/abs/2308.08708)
 - builds on Large language models (`llm`): checking AI systems against theories of consciousness. confidence: highly likely, [source](https://arxiv.org/abs/2308.08708)
-- related to CIMC: the Machine Consciousness Hypothesis (`cimc`): look at architecture, not behaviour. confidence: possible. Butlin et al. appear only in CIMC's reference list and library, cited for Eleos AI; no stated positioning.
+- related to CIMC: the Machine Consciousness Hypothesis (`cimc`): cimc's whitepaper cites the report as ai welfare research. confidence: highly likely, [source](https://cimc.ai/publications/research-program-whitepaper/)
 
 ### Taking AI Welfare Seriously
 
@@ -4052,7 +4040,7 @@ start here, mentioned by joscha bach in: [Can we crack the AI enigma | Joscha Ba
 
 connections:
 
-- argues against Functionalism and computationalism (`functionalism`): models are simplifications, not the thing. confidence: likely, [source](https://philosophymindscience.org/index.php/phimisci/article/download/12280/12401?inline=1). Symposium paper: Chirimuuta argues against the literal interpretation of computational models; target is computationalism in neuroscience more than functionalism generally.
+- argues against Functionalism and computationalism (`functionalism`): models are simplifications, not the thing. confidence: highly likely, [source](https://www.thebsps.org/reviewofbooks/burnston-on-chirimuuta/)
 
 ## Murray Shanahan
 
@@ -4060,7 +4048,7 @@ connections:
 
 Imperial College and DeepMind researcher, author of 'Embodiment and the Inner Life', who describes LLMs as role-players simulating characters. He warns against describing such systems in human terms like 'knows' or 'believes' without care.
 
-confidence: likely, [source](https://en.wikipedia.org/wiki/Murray_Shanahan). Affiliations and book confirmed here; role-play view is in arxiv.org/abs/2305.16367, the 'knows/believes' caution was not directly checked.
+confidence: highly likely, [source](https://arxiv.org/abs/2212.03551)
 
 start here, read: [Wikipedia](https://en.wikipedia.org/wiki/Murray_Shanahan)
 
@@ -4069,7 +4057,7 @@ start here, mentioned by joscha bach in: [Sentience Beyond Biology — Debate w/
 connections:
 
 - builds on Large language models (`llm`): language models as role-players. confidence: highly likely, [source](https://arxiv.org/abs/2305.16367)
-- related to Joscha Bach (`bach`): a model that plays characters. confidence: possible. Bach and Shanahan shared a 2025 panel, but no transcript was obtained; nothing said is verified.
+- related to Joscha Bach (`bach`): shared a panel on machine sentience. confidence: highly likely, [source](https://lifeboat.com/blog/2026/02/sentience-beyond-biology-debate-w-dmitry-volkov-joscha-bach-matthew-macdougall-murray-shanahan)
 
 ## CIMC: the Machine Consciousness Hypothesis
 
@@ -4101,12 +4089,12 @@ connections:
 
 - argues against Alan Turing and computability (`turing`): behaviour cannot settle whether a system is conscious. confidence: highly likely, [source](https://cimc.ai/cimcHypothesis.pdf)
 - related to Stephen Wolfram (`wolfram`): wolfram advises CIMC. confidence: highly likely, [source](https://cimc.ai/publications/research-program-whitepaper/)
-- argues against Integrated Information Theory (`iit`): IIT says an ordinary computer can never be conscious. confidence: likely, [source](https://cimc.ai/publications/research-program-whitepaper/). CIMC rejects IIT's intrinsic-property claim; the note's wording about ordinary computers is not in the quote.
+- argues against Integrated Information Theory (`iit`): IIT says an ordinary computer can never be conscious. confidence: highly likely, [source](https://cimc.ai/publications/research-program-whitepaper/)
 - related to Predictive processing and the free energy principle (`friston`): friston advises CIMC. confidence: highly likely, [source](https://cimc.ai/publications/research-program-whitepaper/)
 - builds on Large language models (`llm`): chatbots show the same behaviour can be produced another way. confidence: highly likely, [source](https://cimc.ai/publications/research-program-whitepaper/)
-- builds on Joscha Bach (`bach`): the institute's hypothesis rests on his conductor model, his functionalism and the idea that consciousness comes first. confidence: likely, [source](https://cimc.ai/publications/research-program-whitepaper/). Whitepaper opened. It states computationalist functionalism; the conductor model is not named there.
+- builds on Joscha Bach (`bach`): the institute's hypothesis rests on his conductor model, his functionalism and the idea that consciousness comes first. confidence: highly likely, [source](https://cimc.ai/publications/the-machine-consciousness-hypothesis/)
 - builds on Neural cellular automata (`nca`): CIMC's self-organisation experiments. confidence: highly likely, [source](https://cimc.ai/publications/research-program-whitepaper/)
-- related to AI consciousness and welfare reports (`butlin`): look at architecture, not behaviour. confidence: possible. Butlin et al. appear only in CIMC's reference list and library, cited for Eleos AI; no stated positioning.
+- related to AI consciousness and welfare reports (`butlin`): cimc's whitepaper cites the report as ai welfare research. confidence: highly likely, [source](https://cimc.ai/publications/research-program-whitepaper/)
 - challenged by Lerchner: The Abstraction Fallacy (`lerchner`): 'the abstraction fallacy'; CIMC replied with 'against intrinsic properties'. confidence: highly likely, [source](https://cimc.ai/publications/against-intrinsic-properties/)
 
 ### No Turing test for consciousness (2025)

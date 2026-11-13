@@ -1,0 +1,198 @@
+[
+  {
+    "id": "chomsky",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://real.mtak.hu/105541/1/2062.2019.66.3.5.pdf",
+    "note": "Innateness and his role in the cognitive turn are supported; the sweeping claim about statistical models is not confirmed."
+  },
+  {
+    "id": "lem",
+    "facet": "Stanisław Lem",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Stanis%C5%82aw_Lem",
+    "note": ""
+  },
+  {
+    "id": "solomonoff",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Ray_Solomonoff",
+    "note": ""
+  },
+  {
+    "id": "gaia",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Gaia_hypothesis",
+    "note": ""
+  },
+  {
+    "id": "sloman",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.cs.bham.ac.uk/research/projects/cogaff/",
+    "note": ""
+  },
+  {
+    "id": "thatcher",
+    "facet": "The dress",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/The_dress",
+    "note": ""
+  },
+  {
+    "id": "quantumcomp",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.ibm.com/think/topics/quantum-computing",
+    "note": ""
+  },
+  {
+    "id": "cyc",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Cyc",
+    "note": ""
+  },
+  {
+    "id": "boltzmannmachine",
+    "facet": "",
+    "verdict": "supported",
+    "url": "http://www.scholarpedia.org/article/Boltzmann_machine",
+    "note": ""
+  },
+  {
+    "id": "brooks",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://en.wikipedia.org/wiki/Subsumption_architecture",
+    "note": "The architecture and bottom-up approach are supported; this source does not establish the claimed Roomba lineage."
+  },
+  {
+    "id": "cogarch",
+    "facet": "Cognitive architectures",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Cognitive_architecture",
+    "note": ""
+  },
+  {
+    "id": "occ",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://people.idsia.ch/~steunebrink/Publications/KI09_OCC_revisited.pdf",
+    "note": ""
+  },
+  {
+    "id": "penrose",
+    "facet": "The Gödelian argument and The Emperor's New Mind",
+    "verdict": "supported",
+    "url": "https://iep.utm.edu/lp-argue/",
+    "note": ""
+  },
+  {
+    "id": "ncc",
+    "facet": "Christof Koch",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Christof_Koch",
+    "note": ""
+  },
+  {
+    "id": "witten",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Ian_H._Witten",
+    "note": ""
+  },
+  {
+    "id": "schmidhuber",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://people.idsia.ch/~juergen/creativity.html",
+    "note": ""
+  },
+  {
+    "id": "egan",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Permutation_City",
+    "note": ""
+  },
+  {
+    "id": "hypercomputation",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://en.wikipedia.org/wiki/Hypercomputation",
+    "note": "Hypercomputation is supported, but time travel alone is insufficient; only special spacetime models may enable it."
+  },
+  {
+    "id": "fields",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://chrisfieldsresearch.com/",
+    "note": ""
+  },
+  {
+    "id": "deutsch",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.edge.org/conversation/constructor-theory",
+    "note": ""
+  },
+  {
+    "id": "deeplearning",
+    "facet": "GANs as a model of dreaming",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Generative_adversarial_networks",
+    "note": ""
+  },
+  {
+    "id": "deeplearning",
+    "facet": "Stable Diffusion",
+    "verdict": "supported",
+    "url": "https://huggingface.co/CompVis/stable-diffusion-v-1-4-original",
+    "note": ""
+  },
+  {
+    "id": "deeplearning",
+    "facet": "Ilya Sutskever",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever",
+    "note": ""
+  },
+  {
+    "id": "vervaeke",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://deconstructingyourself.com/john-vervaeke-on-relevance-realization.html",
+    "note": ""
+  },
+  {
+    "id": "llm",
+    "facet": "AI companions",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Replika",
+    "note": ""
+  },
+  {
+    "id": "chollet",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://arxiv.org/abs/1911.01547",
+    "note": ""
+  },
+  {
+    "id": "marcus",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.technologyreview.com/2020/03/27/950247/ai-debate-gary-marcus-danny-lange/",
+    "note": ""
+  },
+  {
+    "id": "shanahan",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://arxiv.org/abs/2212.03551",
+    "note": ""
+  }
+]
