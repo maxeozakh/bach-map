@@ -126,7 +126,7 @@ E = [
 ("morpho", "nca", "builds", "patterns that grow from local rules"),
 ("conway", "nca", "builds", "learned cellular automata"),
 ("braitenberg", "brooks", "related", "behaviour from simple wiring"),
-("embodied", "brooks", "related", "the body in the world comes first"),
+("brooks", "embodied", "related", "the body in the world comes first"),
 ("dreyfus", "embodied", "builds", "heidegger against the symbol-crunching mind"),
 ("llm", "shanahan", "builds", "language models as role-players"),
 ("llm", "butlin", "builds", "checking AI systems against theories of consciousness"),
