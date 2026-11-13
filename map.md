@@ -3511,7 +3511,7 @@ connections:
 
 ## Joscha Bach
 
-2003–2026, consciousness. school of thought: joscha bach and CIMC. id: `bach`
+2003–2026, consciousness. school of thought: functionalism and computational theories of mind. id: `bach`
 
 German cognitive scientist and AI researcher, born 1973. He treats the mind as software: the brain builds a simulated world with a simulated self in it, and consciousness is a property of that simulation, a process that makes the mind's many models cohere. He began with cognitive architectures (MicroPsi) and has led the California Institute for Machine Consciousness since 2025.
 
@@ -4073,7 +4073,7 @@ connections:
 
 ## CIMC: the Machine Consciousness Hypothesis
 
-2025, consciousness. school of thought: joscha bach and CIMC. id: `cimc`
+2025, consciousness. school of thought: functionalism and computational theories of mind. id: `cimc`
 
 ### The Machine Consciousness Hypothesis (2025)
 

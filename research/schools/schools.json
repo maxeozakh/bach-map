@@ -73,10 +73,5 @@
   "id": "fiction",
   "name": "fiction",
   "covers": "novels, films and stories about minds and machines"
- },
- {
-  "id": "bach",
-  "name": "joscha bach and CIMC",
-  "covers": "joscha bach himself and his institute; use only for the cards bach and cimc"
  }
 ]

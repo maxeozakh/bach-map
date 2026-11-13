@@ -612,7 +612,7 @@
   "alt": "science"
  },
  "bach": {
-  "school": "bach",
+  "school": "functionalism",
   "alt": null
  },
  "llm": {
@@ -668,8 +668,8 @@
   "alt": "functionalism"
  },
  "cimc": {
-  "school": "bach",
-  "alt": null
+  "school": "functionalism",
+  "alt": "science"
  },
  "lerchner": {
   "school": "sceptics",

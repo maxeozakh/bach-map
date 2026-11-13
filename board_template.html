@@ -431,7 +431,7 @@ el('strict').onchange = e => setStrict(e.target.checked);
 // ---- schools of thought: the same cards regrouped into families of ideas, each family in year order.
 // the timeline stays the home layout; dragging a card here is not remembered
 const SBLOCK = (() => {
-  const LAB = 64, BX = 120, BY = 70;
+  const LAB = 64, BX = 240, BY = 150;
   const blocks = D.schools.map(s => {
     const list = D.nodes.filter(n => n.school && n.school.id === s.id).sort((a, b) => a.year - b.year);
     const cols = Math.max(1, Math.ceil(Math.sqrt(list.length / 1.3))), rows = Math.ceil(list.length / cols);
