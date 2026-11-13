@@ -317,6 +317,63 @@ apage = open(os.path.join(HERE, "about_template.html")).read().replace(
     "__DATA__", json.dumps(aboutdata, ensure_ascii=False).replace("</", "<\\/"))
 open(os.path.join(HERE, "about.html"), "w").write(apage)
 
+# map.md: the whole map as one markdown file, for reading or handing to a language model
+SITE = "https://maxeozakh.github.io/bach-map/"
+LANES = {"rel": "myth and religion", "phil": "philosophy", "math": "mathematics and logic", "sci": "physics and life",
+         "mind": "psychology and mind", "cons": "consciousness", "ai": "computing and AI", "fic": "fiction",
+         "soc": "society", "eth": "ethics and AI risk"}
+VERB = {"builds": ("builds on", "leads to"), "against": ("argues against", "challenged by"), "related": ("related to", "related to")}
+md_title = {n["id"]: n["title"] for n in keep}
+md_year = {n["id"]: n["year"] for n in keep}
+md_adj = defaultdict(list)
+for e in pageout["edges"]:
+    md_adj[e[0]].append((e, e[1], 1)); md_adj[e[1]].append((e, e[0], 0))
+def md_conf(c):
+    if not c: return ""
+    lvl, url, why = c
+    return f"confidence: {lvl}" + (f", [source]({url})" if url else "") + (f". {why}" if why else "")
+md = [
+    "# a map of consciousness",
+    "",
+    f"ideas about mind and consciousness that joscha bach has mentioned in public, from the earliest myths to november 2026. "
+    f"unofficial: joscha bach didn't make or approve it. made with claude fable 5.2 and independently checked by gpt 5.6 sol "
+    f"as of 13 november 2026; not checked by a person. interactive version: {SITE}. "
+    f"how to read it and where it comes from: {SITE}about.html",
+    "",
+    f"{len(keep)} points, {len(pageout['edges'])} connections, in chronological order. each summary and connection carries a "
+    "confidence word (highly likely, likely, possible) that follows from source checks by two models; the lower verdict is shown. "
+    "summaries are general background, not joscha bach's words, except quotes marked as his.",
+    "",
+]
+for n in keep:
+    md += [f"## {n['title']}", "", f"{n['label']}, {LANES.get(n['theme'], n['theme'])}. id: `{n['id']}`", ""]
+    for i, f in enumerate(n["facets"]):
+        if i or (f["label"] and f["label"] != n["title"] and len(n["facets"]) > 1):
+            md += [f"### {f['label']}", ""]
+        if f.get("author"): md += [f"by {f['author']}", ""]
+        md += [f["tldr"], ""]
+        if f.get("conf"): md += [md_conf(f["conf"]), ""]
+        if f["mentions"]:
+            md += ["sources:", ""]
+            for m in f["mentions"]:
+                src = f"[{m['src']}]({m['url']})" if m["url"] else m["src"]
+                md.append(f"- {'verbatim' if m['v'] else 'paraphrase'}, {src}{', ' + m['date'] if m['date'] else ''}: {m['q']}")
+            md.append("")
+        if i == 0 and md_adj[n["id"]]:
+            md += ["connections:", ""]
+            for e, other, outgoing in sorted(md_adj[n["id"]], key=lambda x: md_year[x[1]]):
+                c = md_conf(e[4]) if len(e) > 4 else ""
+                md.append(f"- {VERB[e[2]][outgoing]} {md_title[other]} (`{other}`)" + (f": {e[3]}" if e[3] else "") + (f". {c}" if c else ""))
+            md.append("")
+open(os.path.join(HERE, "map.md"), "w").write("\n".join(md).rstrip() + "\n")
+open(os.path.join(HERE, "llms.txt"), "w").write(
+    "# a map of consciousness\n\n"
+    "> unofficial map of ideas about mind and consciousness that joscha bach has mentioned in public. AI-made and model-checked, "
+    "not checked by a person; joscha bach didn't make or approve it.\n\n"
+    f"- [the whole map as markdown]({SITE}map.md): every point, summary, confidence level, connection and source\n"
+    f"- [how to read it and where it comes from]({SITE}about.html)\n"
+    f"- [interactive map]({SITE})\n")
+
 nf = sum(len(n["facets"]) for n in nodes)
 nm = sum(len(f["mentions"]) for n in nodes for f in n["facets"])
 print(f"nodes {len(nodes)}  facets {nf}  mentions {nm}  images {sum(1 for n in nodes if n['img'])}")
