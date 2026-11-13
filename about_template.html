@@ -45,7 +45,7 @@ th { font-size: 13px; }
 <body>
 <p><a href="index.html">back to the map</a></p>
 <h1>how to read it and where it comes from</h1>
-<p><span id="stats"></span>. made with an AI model, claude fable 5.2, as of 13 november 2026, and not checked by a person. joscha bach didn't make or approve it.</p>
+<p><span id="stats"></span>. made with claude fable 5.2 and independently checked by gpt 5.6 sol as of 13 november 2026. not checked by a person. joscha bach didn't make or approve it.</p>
 
 <h2 id="read">how to read it</h2>
 <ul>
@@ -56,14 +56,14 @@ th { font-size: 13px; }
 </ul>
 
 <h2 id="confidence">what the confidence words mean</h2>
-<p>every summary and connection carries one of three words. the word is not a rating of how sure the model feels; it follows from what a source check on 13 november 2026 found. in that check claude fable 5.2 looked for a web page covering each item and opened it; most pages were searched for the relevant passages, not read end to end.</p>
+<p>every summary and connection carries one of three words. the word is not a rating of how sure a model feels. claude fable 5.2 and gpt 5.6 sol independently looked for and opened a source covering each item on 13 november 2026; the lower of their two verdicts is shown. most pages were searched for the relevant passages, not read end to end.</p>
 <table>
   <tr><th></th><th>a summary gets it when</th><th>a connection gets it when</th><th>summaries</th><th>connections</th></tr>
-  <tr><td><b>highly likely</b></td><td>a source was opened and backs its main claims</td><td>a source was opened that states the link itself; for links to joscha bach, a quote of his matched in a transcript shows it</td><td id="s-hl"></td><td id="c-hl"></td></tr>
-  <tr><td><b>likely</b></td><td>a source backs the core, but one claim in it was not confirmed; the card says which</td><td>the link is a commonplace of the field but no page stating it was found, or a source states it with a qualification</td><td id="s-l"></td><td id="c-l"></td></tr>
-  <tr><td><b>possible</b></td><td>no source was found</td><td>a reasonable reading or a parallel that no source was found making</td><td id="s-p"></td><td id="c-p"></td></tr>
+  <tr><td><b>highly likely</b></td><td>both checks found a source backing its main claims</td><td>both checks found a source stating the link itself; for links to joscha bach, a matched quote can establish it</td><td id="s-hl"></td><td id="c-hl"></td></tr>
+  <tr><td><b>likely</b></td><td>at least one check found the core supported but a claim unconfirmed; the card says which</td><td>at least one check called the link commonplace rather than directly documented, or found a qualification</td><td id="s-l"></td><td id="c-l"></td></tr>
+  <tr><td><b>possible</b></td><td>at least one check found no adequate source or a contradiction</td><td>at least one check found only an interpretation, or found the link wrong before it was corrected</td><td id="s-p"></td><td id="c-p"></td></tr>
 </table>
-<p>nothing is marked certain. the source link on a card is the page the item was checked against. a wrong level is possible in both directions: the same model wrote the items and judged the sources.</p>
+<p>nothing is marked certain. the source link on a card is the page used by the stricter check. two models can share errors and blind spots, so this reduces risk but is not a substitute for expert or primary-source review.</p>
 
 <h2 id="made">where it comes from</h2>
 <ul>
@@ -72,7 +72,7 @@ th { font-size: 13px; }
   <li><b>connections</b>: written by claude fable 5.2 from general knowledge, not taken from the transcripts, then checked against a source as described above. which idea 'builds on' which is often a judgement call</li>
   <li><b>quotes</b>: the ones marked "verbatim" were matched against the transcripts; "paraphrase" ones are claude fable 5.2's rewording</li>
   <li><b>years</b>: approximate for older items</li>
-  <li><b>review</b>: on 13 november 2026 claude fable 5.2 re-read every summary and connection, about 45 corrections were made (wrong by-lines, misstated positions, connections pointing the wrong way), and each item was then checked against a source to give it the confidence level below. still no person has checked any of it</li>
+  <li><b>review</b>: on 13 november 2026 claude fable 5.2 re-read every summary and connection and made about 45 corrections. claude fable 5.2 and gpt 5.6 sol then independently checked every item against web sources; the second pass prompted five more summary corrections and seven connection corrections. still no person has checked any of it</li>
 </ul>
 
 <h2>starting material</h2>

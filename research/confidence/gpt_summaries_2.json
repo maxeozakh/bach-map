@@ -1,0 +1,380 @@
+[
+  {
+    "id": "husserl",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/husserl/",
+    "note": ""
+  },
+  {
+    "id": "hilbert",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://plato.stanford.edu/entries/hilbert-program/",
+    "note": "The source confirms formalization and finitist consistency, but not the added expectation that every true statement would be derivable."
+  },
+  {
+    "id": "wittgenstein",
+    "facet": "Wittgenstein",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/wittgenstein/",
+    "note": ""
+  },
+  {
+    "id": "wittgenstein",
+    "facet": "Tractatus Logico-Philosophicus",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/wittgenstein/",
+    "note": ""
+  },
+  {
+    "id": "wittgenstein",
+    "facet": "Philosophical Investigations",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/wittgenstein/",
+    "note": ""
+  },
+  {
+    "id": "freud",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/science/psychoanalysis",
+    "note": ""
+  },
+  {
+    "id": "qualia",
+    "facet": "Qualia",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/qualia/",
+    "note": ""
+  },
+  {
+    "id": "qualia",
+    "facet": "Mary's room (Epiphenomenal Qualia)",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/qualia-knowledge/",
+    "note": ""
+  },
+  {
+    "id": "goedel",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://plato.stanford.edu/entries/goedel-incompleteness/",
+    "note": "The theorem guarantees undecidable statements; calling them “true” without specifying the intended model adds a qualification the summary omits."
+  },
+  {
+    "id": "tarski",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/tarski-truth/",
+    "note": ""
+  },
+  {
+    "id": "turing",
+    "facet": "Alan Turing",
+    "verdict": "partly",
+    "url": "https://www.britannica.com/biography/Alan-Turing",
+    "note": "Britannica says Turing and others designed the Bombe; the summary credits its design to Turing alone."
+  },
+  {
+    "id": "turing",
+    "facet": "Church–Turing thesis",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/church-turing/",
+    "note": ""
+  },
+  {
+    "id": "turing",
+    "facet": "The Turing machine",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/turing-machine/",
+    "note": ""
+  },
+  {
+    "id": "turing",
+    "facet": "Halting problem",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/turing-machine/",
+    "note": ""
+  },
+  {
+    "id": "turing",
+    "facet": "Post machine",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Post%E2%80%93Turing_machine",
+    "note": ""
+  },
+  {
+    "id": "turing",
+    "facet": "Computing Machinery and Intelligence (the Turing test)",
+    "verdict": "partly",
+    "url": "https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence",
+    "note": "The paper proposes substituting the imitation game; “we should grant it intelligence” is a stronger prescription than the source supports."
+  },
+  {
+    "id": "lambda",
+    "facet": "Lambda calculus",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/church-turing/",
+    "note": ""
+  },
+  {
+    "id": "lambda",
+    "facet": "Moses Schönfinkel",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Combinatory_logic",
+    "note": ""
+  },
+  {
+    "id": "skinner",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/behaviorism/",
+    "note": ""
+  },
+  {
+    "id": "maslow",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/science/self-actualization",
+    "note": ""
+  },
+  {
+    "id": "mcculloch",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/History_of_artificial_neural_networks",
+    "note": ""
+  },
+  {
+    "id": "schroedinger",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/What_Is_Life%3F",
+    "note": ""
+  },
+  {
+    "id": "vonneumann",
+    "facet": "John von Neumann",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/biography/John-von-Neumann",
+    "note": ""
+  },
+  {
+    "id": "vonneumann",
+    "facet": "Babbage, Zuse, von Neumann",
+    "verdict": "partly",
+    "url": "https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC",
+    "note": "“Von Neumann defined” overstates sole credit; the source says the architecture emerged from earlier work by Eckert and Mauchly."
+  },
+  {
+    "id": "vonneumann",
+    "facet": "Reliable organisms from unreliable components",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Probabilistic_logic",
+    "note": ""
+  },
+  {
+    "id": "shannon",
+    "facet": "Information theory",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication",
+    "note": ""
+  },
+  {
+    "id": "shannon",
+    "facet": "Computer chess",
+    "verdict": "supported",
+    "url": "https://www.chessprogramming.org/Claude_Shannon",
+    "note": ""
+  },
+  {
+    "id": "cybernetics",
+    "facet": "Cybernetics",
+    "verdict": "partly",
+    "url": "https://www.britannica.com/science/cybernetics",
+    "note": "The source confirms control, communication, feedback, animals, machines, and 1948, but does not substantiate the claimed influence on neural networks."
+  },
+  {
+    "id": "cybernetics",
+    "facet": "Project Cybersyn",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Project_Cybersyn",
+    "note": ""
+  },
+  {
+    "id": "physicalism",
+    "facet": "Physicalism",
+    "verdict": "partly",
+    "url": "https://plato.stanford.edu/entries/physicalism/",
+    "note": "The definition is supported; “default position in most contemporary science and analytic philosophy” is not established by the source."
+  },
+  {
+    "id": "physicalism",
+    "facet": "Direct realism",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/perception-problem/",
+    "note": ""
+  },
+  {
+    "id": "morpho",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://en.wikipedia.org/wiki/Turing_pattern",
+    "note": "Turing patterns are supported, but the source does not establish neural cellular automata as their historical or conceptual descendant."
+  },
+  {
+    "id": "piaget",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development",
+    "note": ""
+  },
+  {
+    "id": "huxley",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/The_Doors_of_Perception",
+    "note": ""
+  },
+  {
+    "id": "dartmouth",
+    "facet": "The Dartmouth workshop",
+    "verdict": "supported",
+    "url": "https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth",
+    "note": ""
+  },
+  {
+    "id": "dartmouth",
+    "facet": "John McCarthy",
+    "verdict": "partly",
+    "url": "https://www.britannica.com/biography/John-McCarthy",
+    "note": "Coining AI, Lisp, and formalizing commonsense knowledge are supported; this source does not confirm his role organizing the Dartmouth workshop."
+  },
+  {
+    "id": "mountcastle",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Cortical_column",
+    "note": ""
+  },
+  {
+    "id": "everett",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/qm-everett/",
+    "note": ""
+  },
+  {
+    "id": "minsky",
+    "facet": "Marvin Minsky",
+    "verdict": "partly",
+    "url": "https://www.britannica.com/biography/Marvin-Lee-Minsky",
+    "note": "Minsky’s AI prominence is supported, but the source does not cover both books or the summary’s “no single principle” characterization."
+  },
+  {
+    "id": "minsky",
+    "facet": "The Society of Mind",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Society_of_Mind",
+    "note": ""
+  },
+  {
+    "id": "minsky",
+    "facet": "Perceptrons",
+    "verdict": "partly",
+    "url": "https://en.wikipedia.org/wiki/Perceptrons_(book)",
+    "note": "The limitations and subsequent decline are supported, but “funding dried up for over a decade” is stronger than the documented decrease."
+  },
+  {
+    "id": "chomsky",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://www.britannica.com/biography/Noam-Chomsky",
+    "note": "Innateness, the cognitive revolution, and behaviorism are supported; the broad claim about his skepticism toward statistical models is not covered."
+  },
+  {
+    "id": "selfridge",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Pandemonium_architecture",
+    "note": ""
+  },
+  {
+    "id": "functionalism",
+    "facet": "Functionalism",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/functionalism/",
+    "note": ""
+  },
+  {
+    "id": "functionalism",
+    "facet": "Computationalism, weak and strong",
+    "verdict": "contradicted",
+    "url": "https://doi.org/10.17721/2523-4064.2023/8-1/8",
+    "note": "“Weak computationalism says minds are computer programs” reverses the distinction; that is strong computationalism. Pancomputationalism is a separate universe-wide thesis."
+  },
+  {
+    "id": "lem",
+    "facet": "Stanisław Lem",
+    "verdict": "partly",
+    "url": "https://www.britannica.com/biography/Stanislaw-Lem",
+    "note": "Lem, his nationality, philosophy, and Solaris are supported; this source does not confirm the description of Golem XIV."
+  },
+  {
+    "id": "lem",
+    "facet": "Solaris",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Solaris_(novel)",
+    "note": ""
+  },
+  {
+    "id": "lem",
+    "facet": "Summa Technologiae",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Summa_Technologiae",
+    "note": ""
+  },
+  {
+    "id": "solomonoff",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference",
+    "note": "Algorithmic probability, shortest descriptions, uncomputability, and AIXI are supported; this source does not confirm Solomonoff’s Dartmouth attendance."
+  },
+  {
+    "id": "ivakhnenko",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Alexey_Ivakhnenko",
+    "note": ""
+  },
+  {
+    "id": "symbolic",
+    "facet": "Symbolic AI and expert systems",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
+    "note": ""
+  },
+  {
+    "id": "symbolic",
+    "facet": "Newell and Simon",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Physical_symbol_system",
+    "note": ""
+  },
+  {
+    "id": "eliza",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/technology/ELIZA",
+    "note": ""
+  },
+  {
+    "id": "leary",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://en.wikipedia.org/wiki/Eight-circuit_model_of_consciousness",
+    "note": ""
+  }
+]

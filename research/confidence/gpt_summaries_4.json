@@ -1,0 +1,380 @@
+[
+  {
+    "id": "harnad",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://eprints.soton.ac.uk/250382/",
+    "note": ""
+  },
+  {
+    "id": "dennett",
+    "facet": "Daniel Dennett",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/consciousness/",
+    "note": ""
+  },
+  {
+    "id": "dennett",
+    "facet": "Consciousness Explained",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/consciousness/",
+    "note": ""
+  },
+  {
+    "id": "dennett",
+    "facet": "Zimbos",
+    "verdict": "supported",
+    "url": "https://dl.tufts.edu/downloads/rf55zm151?filename=6m312182x.pdf",
+    "note": ""
+  },
+  {
+    "id": "embodied",
+    "facet": "Phenomenology and enactivism",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/embodied-cognition/",
+    "note": ""
+  },
+  {
+    "id": "embodied",
+    "facet": "How the Body Shapes the Way We Think",
+    "verdict": "supported",
+    "url": "https://mitpress.mit.edu/9780262162395/how-the-body-shapes-the-way-we-think/",
+    "note": ""
+  },
+  {
+    "id": "embodied",
+    "facet": "Sensorimotor theory",
+    "verdict": "supported",
+    "url": "https://doi.org/10.1017/s0140525x01000115",
+    "note": ""
+  },
+  {
+    "id": "singularity",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.ibm.com/think/topics/technological-singularity",
+    "note": ""
+  },
+  {
+    "id": "damasio",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://books.google.com/books?id=_6gLAQAAIAAJ",
+    "note": ""
+  },
+  {
+    "id": "egan",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://gregegan.net/PERMUTATION/Permutation.html",
+    "note": "The source confirms software copies and simulations, but not the specific claim about minds being merged."
+  },
+  {
+    "id": "chalmers",
+    "facet": "The hard problem of consciousness",
+    "verdict": "supported",
+    "url": "https://consc.net/papers/facing.html",
+    "note": ""
+  },
+  {
+    "id": "chalmers",
+    "facet": "Philosophical zombies",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/zombies/",
+    "note": ""
+  },
+  {
+    "id": "chalmers",
+    "facet": "David Chalmers",
+    "verdict": "supported",
+    "url": "https://consc.net/the-conscious-mind/",
+    "note": ""
+  },
+  {
+    "id": "pearce",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.hedweb.com/hedethic/interview-2025may.html",
+    "note": ""
+  },
+  {
+    "id": "block",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/on-a-confusion-about-a-function-of-consciousness/061422BF0C50C5FF00927F9B6E879413",
+    "note": ""
+  },
+  {
+    "id": "doerner",
+    "facet": "Psi theory",
+    "verdict": "supported",
+    "url": "http://www.cognitive-ai.com/publications/assets/KI2006BachBauerVuine.pdf",
+    "note": ""
+  },
+  {
+    "id": "doerner",
+    "facet": "Bauplan für eine Seele",
+    "verdict": "supported",
+    "url": "http://www.cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf",
+    "note": ""
+  },
+  {
+    "id": "doerner",
+    "facet": "Die Mechanik des Seelenwagens",
+    "verdict": "supported",
+    "url": "http://www.cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf",
+    "note": ""
+  },
+  {
+    "id": "doerner",
+    "facet": "Dietrich Dörner",
+    "verdict": "supported",
+    "url": "http://www.cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf",
+    "note": ""
+  },
+  {
+    "id": "hypercomputation",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://arxiv.org/pdf/1210.7171",
+    "note": ""
+  },
+  {
+    "id": "matrix",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.nottingham.ac.uk/scope/documents/2003/may-2003/merrin.pdf",
+    "note": ""
+  },
+  {
+    "id": "agi",
+    "facet": "The term AGI",
+    "verdict": "supported",
+    "url": "https://www.goertzel.org/AGI_survey_early_draft.pdf",
+    "note": ""
+  },
+  {
+    "id": "agi",
+    "facet": "Ben Goertzel",
+    "verdict": "supported",
+    "url": "https://superintelligence.io/about/team/",
+    "note": ""
+  },
+  {
+    "id": "wolfram",
+    "facet": "Stephen Wolfram",
+    "verdict": "supported",
+    "url": "https://writings.stephenwolfram.com/2023/12/observer-theory/",
+    "note": ""
+  },
+  {
+    "id": "wolfram",
+    "facet": "The Ruliad",
+    "verdict": "supported",
+    "url": "https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/",
+    "note": ""
+  },
+  {
+    "id": "wolfram",
+    "facet": "Computational irreducibility",
+    "verdict": "supported",
+    "url": "https://www.wolframscience.com/nks/p737--computational-irreducibility/",
+    "note": ""
+  },
+  {
+    "id": "wolfram",
+    "facet": "Observer Theory",
+    "verdict": "supported",
+    "url": "https://writings.stephenwolfram.com/2023/12/observer-theory/",
+    "note": ""
+  },
+  {
+    "id": "airisk",
+    "facet": "Paperclip maximizer",
+    "verdict": "supported",
+    "url": "https://nickbostrom.com/papers/ethical-issues-in-advanced-ai/",
+    "note": ""
+  },
+  {
+    "id": "airisk",
+    "facet": "Eliezer Yudkowsky",
+    "verdict": "supported",
+    "url": "https://intelligence.org/2023/04/07/pausing-ai-developments-isnt-enough-we-need-to-shut-it-all-down/",
+    "note": ""
+  },
+  {
+    "id": "airisk",
+    "facet": "The existential-risk literature",
+    "verdict": "supported",
+    "url": "https://ai-safety-resources.com/topics/ai-existential-risk/",
+    "note": ""
+  },
+  {
+    "id": "airisk",
+    "facet": "Roko's basilisk",
+    "verdict": "supported",
+    "url": "https://rationalwiki.org/wiki/Roko%27s_basilisk/Original_post",
+    "note": ""
+  },
+  {
+    "id": "airisk",
+    "facet": "p(doom)",
+    "verdict": "supported",
+    "url": "https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai",
+    "note": ""
+  },
+  {
+    "id": "airisk",
+    "facet": "The pause letter",
+    "verdict": "supported",
+    "url": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
+    "note": ""
+  },
+  {
+    "id": "simulation",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://simulation-argument.com/simulation.pdf",
+    "note": ""
+  },
+  {
+    "id": "metzinger",
+    "facet": "Being No One (self-model theory)",
+    "verdict": "supported",
+    "url": "https://mitpress.mit.edu/9780262263801/being-no-one/",
+    "note": ""
+  },
+  {
+    "id": "metzinger",
+    "facet": "Artificial suffering",
+    "verdict": "supported",
+    "url": "https://www.worldscientific.com/doi/abs/10.1142/S270507852150003X",
+    "note": ""
+  },
+  {
+    "id": "iit",
+    "facet": "Integrated Information Theory",
+    "verdict": "contradicted",
+    "url": "https://royalsocietypublishing.org/doi/full/10.1098/rstb.2014.0167",
+    "note": "\"Could never be conscious\" is too absolute; IIT predicts digital computers experience next to nothing, not necessarily nothing."
+  },
+  {
+    "id": "iit",
+    "facet": "Aaronson's critique",
+    "verdict": "supported",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4574706/",
+    "note": ""
+  },
+  {
+    "id": "hawkins",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2018.00121/full",
+    "note": ""
+  },
+  {
+    "id": "drescher",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://mitpress.mit.edu/9780262293891/good-and-real/",
+    "note": ""
+  },
+  {
+    "id": "panpsychism",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/panpsychism/",
+    "note": ""
+  },
+  {
+    "id": "watts",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.revistahelice.com/revista_textos/n_36/Helice-36-Maclaughlin-InterviewWatts.pdf",
+    "note": ""
+  },
+  {
+    "id": "friston",
+    "facet": "The free energy principle",
+    "verdict": "supported",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3510653/",
+    "note": ""
+  },
+  {
+    "id": "friston",
+    "facet": "Predictive coding and predictive processing",
+    "verdict": "supported",
+    "url": "https://www.nature.com/articles/nn0199_79",
+    "note": ""
+  },
+  {
+    "id": "friston",
+    "facet": "Karl Friston",
+    "verdict": "supported",
+    "url": "https://www.nature.com/articles/nrn2787?code=dfc3876d-6755-4838-a3eb-2459cbc09032&error=cookies_not_supported",
+    "note": ""
+  },
+  {
+    "id": "haidt",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.theatlantic.com/membership/archive/2018/06/how-psychology-explains-partisanship/563888/",
+    "note": ""
+  },
+  {
+    "id": "chiang",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://subterraneanpress.com/exhalation/",
+    "note": ""
+  },
+  {
+    "id": "kahneman",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.scientificamerican.com/article/kahneman-excerpt-thinking-fast-and-slow/",
+    "note": ""
+  },
+  {
+    "id": "fields",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://arxiv.org/abs/2112.15242",
+    "note": "The source requires a bounded, macroscopically persistent system; merely having any boundary is not enough."
+  },
+  {
+    "id": "deutsch",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://arxiv.org/pdf/1210.7439",
+    "note": ""
+  },
+  {
+    "id": "deeplearning",
+    "facet": "Deep learning",
+    "verdict": "supported",
+    "url": "https://www.nature.com/articles/nature14539",
+    "note": ""
+  },
+  {
+    "id": "deeplearning",
+    "facet": "ImageNet",
+    "verdict": "supported",
+    "url": "https://proceedings.neurips.cc/paper%5Ffiles/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+    "note": ""
+  },
+  {
+    "id": "deeplearning",
+    "facet": "The Google Brain cat experiment",
+    "verdict": "supported",
+    "url": "https://research.google/pubs/building-high-level-features-using-large-scale-unsupervised-learning/",
+    "note": ""
+  },
+  {
+    "id": "deeplearning",
+    "facet": "Word embeddings",
+    "verdict": "supported",
+    "url": "https://aclanthology.org/N13-1090.pdf",
+    "note": ""
+  }
+]

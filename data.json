@@ -4569,7 +4569,7 @@
     },
     {
      "label": "Computationalism, weak and strong",
-     "tldr": "Weak computationalism says minds are computer programs realised in brains. Strong computationalism (digital physics, pancomputationalism) adds that the universe itself is best described as computation that generates patterns of information.",
+     "tldr": "Computationalism says minds can be understood as computational systems. Stronger versions identify mental states with computations; pancomputationalism is the separate claim that physical processes throughout the universe are computational.",
      "take": "This is Bach's core thesis across the series: a new monism in which information and computation are primary. Later he sharpens it: no implementable language can do more than a finite automaton.",
      "mentions": [
       {
@@ -5504,42 +5504,6 @@
    "nsrc": 2,
    "verified": true,
    "img": "img/feyerabend.jpg"
-  },
-  {
-   "id": "groupsel",
-   "title": "Multilevel selection",
-   "year": 1975,
-   "label": "1975",
-   "theme": "sci",
-   "facets": [
-    {
-     "label": null,
-     "tldr": "Natural selection acts at several levels at once: selfish individuals beat altruists within a group, but groups of altruists beat groups of egoists.",
-     "take": "Bach's explanation for norms, honour and the sense of the sacred: evolution needs ways to keep groups full of 'angels', and in humans that is an internalised reputation system.",
-     "mentions": [
-      {
-       "src": "Machine Dreams (33C3)",
-       "url": "https://media.ccc.de/v/33c3-8369-machine_dreams",
-       "date": "2016-12-29",
-       "q": "we are subject to multilevel selection inside of our organism.",
-       "v": true
-      },
-      {
-       "src": "The Ghost in the Machine (35C3)",
-       "url": "https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine",
-       "date": "2018-12-28",
-       "q": "we basically are multi-level selection species.",
-       "v": true
-      }
-     ],
-     "author": "D. S. Wilson; E. O. Wilson",
-     "verified": true,
-     "kind": "theory"
-    }
-   ],
-   "nsrc": 2,
-   "verified": true,
-   "img": "img/groupsel.jpg"
   },
   {
    "id": "fodor",
@@ -7218,7 +7182,7 @@
     },
     {
      "label": "The Road to Reality",
-     "tldr": "Penrose's huge survey of the mathematics behind modern physics, from numbers to quantum gravity, written for determined general readers. It runs to more than a thousand pages and does not avoid the equations.",
+     "tldr": "Published in 2004, Penrose's huge survey covers the mathematics behind modern physics, from numbers to quantum gravity, for determined general readers. It runs to more than a thousand pages and does not avoid the equations.",
      "take": "Bach praises it as a beautiful book that gives very good intuitions about what physicists are doing, even while rejecting Penrose on consciousness.",
      "mentions": [
       {
@@ -7879,6 +7843,42 @@
    "nsrc": 1,
    "verified": true,
    "img": "img/egan.jpg"
+  },
+  {
+   "id": "groupsel",
+   "title": "Multilevel selection",
+   "year": 1994,
+   "label": "1994",
+   "theme": "sci",
+   "facets": [
+    {
+     "label": null,
+     "tldr": "Natural selection acts at several levels at once: selfish individuals beat altruists within a group, but groups of altruists beat groups of egoists.",
+     "take": "Bach's explanation for norms, honour and the sense of the sacred: evolution needs ways to keep groups full of 'angels', and in humans that is an internalised reputation system.",
+     "mentions": [
+      {
+       "src": "Machine Dreams (33C3)",
+       "url": "https://media.ccc.de/v/33c3-8369-machine_dreams",
+       "date": "2016-12-29",
+       "q": "we are subject to multilevel selection inside of our organism.",
+       "v": true
+      },
+      {
+       "src": "The Ghost in the Machine (35C3)",
+       "url": "https://media.ccc.de/v/35c3-10030-the_ghost_in_the_machine",
+       "date": "2018-12-28",
+       "q": "we basically are multi-level selection species.",
+       "v": true
+      }
+     ],
+     "author": "David Sloan Wilson; Elliott Sober",
+     "verified": true,
+     "kind": "theory"
+    }
+   ],
+   "nsrc": 2,
+   "verified": true,
+   "img": "img/groupsel.jpg"
   },
   {
    "id": "chalmers",
@@ -9258,7 +9258,7 @@
    "facets": [
     {
      "label": "Integrated Information Theory",
-     "tldr": "IIT says consciousness is identical to integrated information: a system is conscious to the degree (phi) that its physical causal structure is unified and cannot be split into independent parts. On this view an ordinary computer could never be conscious, whatever program it runs.",
+     "tldr": "IIT says consciousness is identical to integrated information: a system is conscious to the degree (phi) that its physical causal structure is unified and cannot be split into independent parts. On this view an ordinary digital computer would have extremely little consciousness, whatever program it runs.",
      "take": "Bach's most developed critique. He credits its description of phenomenology but says IIT contradicts the Church–Turing thesis: emulate a 'conscious' neuromorphic chip on a normal computer and it says the same words, 'only now it's lying'. He sees IIT as an attempt at an alternative to functionalism and as bordering on pseudoscience.",
      "mentions": [
       {
@@ -10281,7 +10281,7 @@
     },
     {
      "label": "GANs as a model of dreaming",
-     "tldr": "A GAN trains two networks against each other: a generator invents samples and a discriminator judges whether they look real. Ian Goodfellow introduced them in 2014, and they produced the first convincing synthetic photographs.",
+     "tldr": "A GAN trains two networks against each other: a generator invents samples and a discriminator judges whether they look real. Ian Goodfellow introduced them in 2014; later GANs became a major method for synthesising photorealistic images.",
      "take": "Bach's 2018 illustration of latent variables and of how imagination might work, with the caveat that artificial neurons are very unlike biological ones.",
      "mentions": [
       {
@@ -15574,10 +15574,6 @@
    "page": "https://en.wikipedia.org/wiki/Paul_Feyerabend"
   },
   {
-   "title": "Multilevel selection",
-   "page": "https://en.wikipedia.org/wiki/E._O._Wilson"
-  },
-  {
    "title": "The language of thought",
    "page": "https://en.wikipedia.org/wiki/Jerry_Fodor"
   },
@@ -15724,6 +15720,10 @@
   {
    "title": "Greg Egan",
    "page": "https://en.wikipedia.org/wiki/Permutation_City"
+  },
+  {
+   "title": "Multilevel selection",
+   "page": "https://en.wikipedia.org/wiki/Group_selection"
   },
   {
    "title": "Chalmers: the hard problem",
@@ -15976,8 +15976,8 @@
   [
    "pythagoras",
    "plato",
-   "builds",
-   "number and ideal form as the basis of reality"
+   "related",
+   "a disputed Pythagorean influence on Plato's metaphysics and mathematics"
   ],
   [
    "logos",
@@ -16169,7 +16169,7 @@
    "wundt",
    "skinner",
    "against",
-   "behaviorism throws out introspection"
+   "behaviorism made observable behaviour, rather than introspection, its primary evidence"
   ],
   [
    "emergence",
@@ -16258,8 +16258,8 @@
   [
    "goedel",
    "turing",
-   "builds",
-   "undecidability restated for machines"
+   "related",
+   "two distinct limits on what formal procedures can decide"
   ],
   [
    "hilbert",
@@ -16349,7 +16349,7 @@
    "vonneumann",
    "singularity",
    "builds",
-   "the first use of 'singularity' for technology"
+   "Ulam's report of von Neumann's accelerating-change conversation"
   ],
   [
    "vonneumann",
@@ -16973,7 +16973,7 @@
    "friston",
    "fields",
    "builds",
-   "free energy applied to any bounded system"
+   "Fields later applies free energy to generic bounded systems"
   ],
   [
    "fields",
@@ -17146,8 +17146,8 @@
   [
    "hot",
    "b_conductor",
-   "builds",
-   "second-order perception"
+   "related",
+   "both use higher-order representation, but Bach distinguishes second-order perception from higher-order thought"
   ],
   [
    "iit",
@@ -17356,8 +17356,8 @@
   [
    "piaget",
    "b_lucidity",
-   "builds",
-   "development as a sequence of stages"
+   "related",
+   "both propose developmental stages; Bach says his levels derive from Kegan, not Piaget"
   ],
   [
    "buddhism",

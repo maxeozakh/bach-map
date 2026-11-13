@@ -1,0 +1,380 @@
+[
+  {
+    "id": "animism",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/topic/animism",
+    "note": ""
+  },
+  {
+    "id": "greekgods",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/topic/Greek-mythology",
+    "note": ""
+  },
+  {
+    "id": "genesis",
+    "facet": "Genesis 1",
+    "verdict": "supported",
+    "url": "https://www.biblegateway.com/passage/?search=Genesis%201&version=NRSVUE",
+    "note": ""
+  },
+  {
+    "id": "genesis",
+    "facet": "Adam and Eve",
+    "verdict": "supported",
+    "url": "https://www.biblegateway.com/passage/?search=Genesis%202-3&version=NRSVUE",
+    "note": ""
+  },
+  {
+    "id": "genesis",
+    "facet": "Tower of Babel",
+    "verdict": "partly",
+    "url": "https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NRSVUE",
+    "note": "The narrative is confirmed; this source does not itself state the traditional interpretation as a warning against overreach."
+  },
+  {
+    "id": "genesis",
+    "facet": "The God of Abraham",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/topic/Abrahamic-religions",
+    "note": ""
+  },
+  {
+    "id": "genesis",
+    "facet": "The Bible",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/topic/biblical-literature",
+    "note": ""
+  },
+  {
+    "id": "pythagoras",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://plato.stanford.edu/entries/pythagoras/",
+    "note": "The source confirms later numerical cosmology but does not confirm that irrational quantities threw the school into scandal."
+  },
+  {
+    "id": "logos",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/topic/logos",
+    "note": ""
+  },
+  {
+    "id": "buddhism",
+    "facet": "Buddhism",
+    "verdict": "partly",
+    "url": "https://www.britannica.com/topic/Buddhism",
+    "note": "Meditation, non-self, and craving are supported; reports by advanced practitioners deconstructing ordinary perception are not specifically confirmed."
+  },
+  {
+    "id": "buddhism",
+    "facet": "The Dalai Lama",
+    "verdict": "supported",
+    "url": "https://www.dalailama.com/the-dalai-lama/biography-and-daily-life/reincarnation",
+    "note": ""
+  },
+  {
+    "id": "buddhism",
+    "facet": "Michael Taft on enlightenment",
+    "verdict": "supported",
+    "url": "https://deconstructingyourself.com/michael-w-taft",
+    "note": ""
+  },
+  {
+    "id": "plato",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/platonism-mathematics/",
+    "note": ""
+  },
+  {
+    "id": "aristotle",
+    "facet": "Aristotle",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/aristotle-psychology/",
+    "note": ""
+  },
+  {
+    "id": "aristotle",
+    "facet": "De Anima (On the Soul)",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/aristotle-psychology/",
+    "note": ""
+  },
+  {
+    "id": "aristotle",
+    "facet": "The unmoved mover",
+    "verdict": "partly",
+    "url": "https://plato.stanford.edu/entries/aristotle-natphil/",
+    "note": "The unmoved mover is confirmed; describing it as having “no personality” and merely keeping things going is stronger than this source."
+  },
+  {
+    "id": "stoicism",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://iep.utm.edu/stoicism/",
+    "note": ""
+  },
+  {
+    "id": "christianity",
+    "facet": "The Catholic Church",
+    "verdict": "partly",
+    "url": "https://www.britannica.com/topic/Christianity",
+    "note": "Christianity’s basis in Jesus and the church’s institutional role are supported; the sweeping European-unification claim is not specifically confirmed."
+  },
+  {
+    "id": "christianity",
+    "facet": "1 Corinthians 13",
+    "verdict": "supported",
+    "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2013&version=NRSVUE",
+    "note": ""
+  },
+  {
+    "id": "christianity",
+    "facet": "Christian mind-body dualism",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/dualism/",
+    "note": ""
+  },
+  {
+    "id": "christianity",
+    "facet": "Protestantism",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/topic/Protestantism",
+    "note": ""
+  },
+  {
+    "id": "aquinas",
+    "facet": "Thomas Aquinas",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/aquinas/",
+    "note": ""
+  },
+  {
+    "id": "aquinas",
+    "facet": "The seven virtues",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/topic/virtue-in-Christianity",
+    "note": ""
+  },
+  {
+    "id": "golem",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://www.britannica.com/topic/golem-Jewish-folklore",
+    "note": "The servant, literal obedience, protector role, and Rabbi Löw version are supported; its first nineteenth-century recording is not confirmed."
+  },
+  {
+    "id": "descartes",
+    "facet": "Descartes",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/descartes/",
+    "note": ""
+  },
+  {
+    "id": "descartes",
+    "facet": "Meditations on First Philosophy",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/descartes/",
+    "note": ""
+  },
+  {
+    "id": "descartes",
+    "facet": "Mind-body dualism",
+    "verdict": "partly",
+    "url": "https://plato.stanford.edu/entries/dualism/",
+    "note": "Descartes’s distinction and interaction problem are supported; “most later philosophy of mind” attempting escape is an unverified overgeneralization."
+  },
+  {
+    "id": "occasionalism",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/occasionalism/",
+    "note": ""
+  },
+  {
+    "id": "empiricism",
+    "facet": "Empiricism vs rationalism",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/rationalism-empiricism/",
+    "note": ""
+  },
+  {
+    "id": "empiricism",
+    "facet": "Locke on consciousness",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/locke-personal-identity/",
+    "note": ""
+  },
+  {
+    "id": "empiricism",
+    "facet": "Hume: proportion belief to evidence",
+    "verdict": "supported",
+    "url": "https://davidhume.org/texts/e/10",
+    "note": ""
+  },
+  {
+    "id": "idealism",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://plato.stanford.edu/entries/idealism/",
+    "note": "The general characterization of idealism is supported; this source does not specifically establish Kastrup’s analytic idealism as a current version."
+  },
+  {
+    "id": "leibniz",
+    "facet": "Leibniz",
+    "verdict": "partly",
+    "url": "https://plato.stanford.edu/entries/leibniz/",
+    "note": "Leibniz’s polymathy and independent calculus development are supported; the universal-language project and quoted “let us calculate” are not confirmed here."
+  },
+  {
+    "id": "leibniz",
+    "facet": "Leibniz's mill",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/leibniz-mind/",
+    "note": ""
+  },
+  {
+    "id": "lamettrie",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.earlymoderntexts.com/assets/pdfs/lamettrie1748.pdf",
+    "note": ""
+  },
+  {
+    "id": "enlightenment",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/event/Enlightenment-European-history",
+    "note": ""
+  },
+  {
+    "id": "kant",
+    "facet": "Kant",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/kant-moral/",
+    "note": ""
+  },
+  {
+    "id": "kant",
+    "facet": "Critique of Pure Reason",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/kant-transcendental-idealism/",
+    "note": ""
+  },
+  {
+    "id": "utilitarianism",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://plato.stanford.edu/entries/utilitarianism-history/",
+    "note": "The theory, calculus, Bentham, and Mill are supported; the claim that it underlies much effective altruism is not covered here."
+  },
+  {
+    "id": "hegel",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://plato.stanford.edu/entries/hegel/",
+    "note": "Hegel’s idealism and Spirit’s historical development are supported; “contradictions overcome at a higher level” compresses a disputed interpretation."
+  },
+  {
+    "id": "celltheory",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/science/cell-theory",
+    "note": ""
+  },
+  {
+    "id": "darwin",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/biography/Charles-Darwin/On-the-Origin-of-Species",
+    "note": ""
+  },
+  {
+    "id": "dubois",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.deutschestextarchiv.de/book/download_html/dubois_naturerkennen_1872",
+    "note": ""
+  },
+  {
+    "id": "cantor",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/set-theory/",
+    "note": ""
+  },
+  {
+    "id": "epiphenomenalism",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/epiphenomenalism/",
+    "note": ""
+  },
+  {
+    "id": "brentano",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/brentano/",
+    "note": ""
+  },
+  {
+    "id": "emergence",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/properties-emergent/",
+    "note": ""
+  },
+  {
+    "id": "wundt",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://www.britannica.com/biography/Wilhelm-Wundt",
+    "note": "Wundt’s laboratory psychology is supported; this source does not substantiate the combined roles and measurements attributed to Fechner and Helmholtz."
+  },
+  {
+    "id": "frege",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/frege/",
+    "note": ""
+  },
+  {
+    "id": "peano",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/science/Peano-axioms",
+    "note": ""
+  },
+  {
+    "id": "james",
+    "facet": "",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/biography/William-James",
+    "note": ""
+  },
+  {
+    "id": "brouwer",
+    "facet": "",
+    "verdict": "partly",
+    "url": "https://plato.stanford.edu/entries/intuitionism/",
+    "note": "Construction-based truth is supported; the blanket claim that infinity is only a never-finished process oversimplifies Brouwer’s freely generated infinite sequences."
+  },
+  {
+    "id": "russell",
+    "facet": "Russell's paradox",
+    "verdict": "supported",
+    "url": "https://plato.stanford.edu/entries/russell-paradox/",
+    "note": ""
+  },
+  {
+    "id": "russell",
+    "facet": "Principia Mathematica",
+    "verdict": "supported",
+    "url": "https://www.britannica.com/topic/Principia-Mathematica",
+    "note": ""
+  }
+]

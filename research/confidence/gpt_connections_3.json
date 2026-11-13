@@ -1,0 +1,387 @@
+[
+  {
+    "from": "singularity",
+    "to": "airisk",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Recursive self-improvement connects singularity scenarios to modern AI-risk arguments, but the specific lineage is broader than one source."
+  },
+  {
+    "from": "lamettrie",
+    "to": "physicalism",
+    "verdict": "documented",
+    "url": "https://www.rep.routledge.com/articles/biographical/la-mettrie-julien-offroy-de-1709-51/",
+    "note_out": "Routledge identifies L’Homme machine as a materialist manifesto applying materialism explicitly to human beings."
+  },
+  {
+    "from": "physicalism",
+    "to": "functionalism",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Functionalism commonly develops within physicalist philosophy of mind, though it is not logically committed to physicalism."
+  },
+  {
+    "from": "turing",
+    "to": "functionalism",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/functionalism/",
+    "note_out": "SEP says Turing’s work was explicitly invoked and inspired Putnam’s machine-state theories in early functionalism."
+  },
+  {
+    "from": "functionalism",
+    "to": "searle",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/archives/spr2024/entries/chinese-room/",
+    "note_out": "SEP presents the Chinese room as an argument against computational accounts of mind and understanding."
+  },
+  {
+    "from": "functionalism",
+    "to": "block",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/functionalism/",
+    "note_out": "SEP discusses Block’s absent-qualia and Chinese-nation objections as major challenges to functionalism."
+  },
+  {
+    "from": "functionalism",
+    "to": "dennett",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Dennett’s consciousness theory is routinely classified as broadly functionalist, though his account is not reducible to generic functionalism."
+  },
+  {
+    "from": "functionalism",
+    "to": "chalmers",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/consciousness-neuroscience/",
+    "note_out": "SEP states Chalmers argues structural or functional explanations leave phenomenal consciousness unexplained."
+  },
+  {
+    "from": "functionalism",
+    "to": "thagard",
+    "verdict": "documented",
+    "url": "https://www.cambridge.org/core/journals/philosophy-of-science/article/energy-requirements-undermine-substrate-independence-and-mindbody-functionalism/2BB3C2353EFF80F9D5805CDCEA8C3C89",
+    "note_out": "Thagard explicitly argues energy’s dependence on material substrates undermines substrate independence and mind-body functionalism."
+  },
+  {
+    "from": "functionalism",
+    "to": "seth",
+    "verdict": "documented",
+    "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520",
+    "note_out": "Seth challenges computation’s sufficiency and argues consciousness depends on being a living organism."
+  },
+  {
+    "from": "functionalism",
+    "to": "lerchner",
+    "verdict": "documented",
+    "url": "https://deepmind.google/research/publications/231971/",
+    "note_out": "The paper explicitly calls the abstraction fallacy a physically grounded refutation of computational functionalism."
+  },
+  {
+    "from": "functionalism",
+    "to": "chirimuuta",
+    "verdict": "documented",
+    "url": "https://www.thebsps.org/reviewofbooks/burnston-on-chirimuuta/",
+    "note_out": "The review says Chirimuuta rejects inferring machine consciousness by mistaking computational models for the brain they simplify."
+  },
+  {
+    "from": "searle",
+    "to": "seth",
+    "verdict": "documented",
+    "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520",
+    "note_out": "Seth explicitly credits Searle’s original biological naturalism, while adopting a broader life-based version."
+  },
+  {
+    "from": "nagel",
+    "to": "chalmers",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Nagel’s what-it-is-like formulation is a standard precursor to Chalmers’s hard problem, but direct dependence is not established here."
+  },
+  {
+    "from": "qualia",
+    "to": "nagel",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/qualia/",
+    "note_out": "SEP treats Nagel’s what-it-is-like argument as centrally concerning the subjective qualitative character of experience."
+  },
+  {
+    "from": "qualia",
+    "to": "levine",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/qualia/",
+    "note_out": "SEP explicitly describes Levine’s explanatory gap as the problem of explaining qualia in physical terms."
+  },
+  {
+    "from": "levine",
+    "to": "chalmers",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "The explanatory gap is a standard precursor to the hard problem, though Chalmers’s argument is not simply Levine’s renamed."
+  },
+  {
+    "from": "leibniz",
+    "to": "chalmers",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Leibniz’s mill anticipates an explanatory concern, but calling it the hard problem in 1714 is retrospective interpretation."
+  },
+  {
+    "from": "leibniz",
+    "to": "searle",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "The mill and Chinese room are commonly compared as internal-observer arguments, but differ in target and conclusion."
+  },
+  {
+    "from": "chalmers",
+    "to": "panpsychism",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Chalmers has prominently explored panpsychist and panprotopsychist responses to the hard problem; this is standard scholarship."
+  },
+  {
+    "from": "mysterianism",
+    "to": "chalmers",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/consciousness/",
+    "note_out": "SEP discusses McGinn’s cognitive-closure claim alongside stronger explanatory-gap positions and Chalmers’s anti-physicalist argument."
+  },
+  {
+    "from": "chalmers",
+    "to": "illusionism",
+    "verdict": "documented",
+    "url": "https://keithfrankish.github.io/articles/Frankish_2016_Illusionism_as_a_theory_of_consciousness_eprint.pdf",
+    "note_out": "Frankish explicitly replaces Chalmers’s hard problem with the illusion problem by denying phenomenal realism."
+  },
+  {
+    "from": "dennett",
+    "to": "illusionism",
+    "verdict": "documented",
+    "url": "https://keithfrankish.github.io/articles/Frankish_2016_Illusionism_as_a_theory_of_consciousness_eprint.pdf",
+    "note_out": "Frankish names Dennett as illusionism’s pre-eminent defender."
+  },
+  {
+    "from": "dennett",
+    "to": "chalmers",
+    "verdict": "documented",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6074080/",
+    "note_out": "Dennett explicitly argues Chalmers’s hard problem misdirects inquiry and should be dissolved by functional scientific work."
+  },
+  {
+    "from": "hofstadter",
+    "to": "dennett",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Hofstadter and Dennett jointly edited The Mind’s I and supplied commentary on mind, self, and information processing."
+  },
+  {
+    "from": "goedel",
+    "to": "hofstadter",
+    "verdict": "documented",
+    "url": "https://www.worldscientific.com/doi/10.1142/S2705078522500011",
+    "note_out": "The journal abstract explicitly describes Hofstadter’s Gödelian proposal linking incompleteness-style self-reference to consciousness and mental causation."
+  },
+  {
+    "from": "goedel",
+    "to": "penrose",
+    "verdict": "documented",
+    "url": "https://iep.utm.edu/lp-argue/",
+    "note_out": "IEP details Penrose’s Gödelian argument that no formal system can capture human mathematical reasoning."
+  },
+  {
+    "from": "quantumcomp",
+    "to": "penrose",
+    "verdict": "documented",
+    "url": "https://doi.org/10.1098/rsta.1998.0254",
+    "note_out": "The Orch OR paper explicitly proposes quantum computation in neuronal microtubules."
+  },
+  {
+    "from": "ncc",
+    "to": "iit",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Koch moved from NCC research to prominent advocacy and development of IIT, but the theory was originated by Tononi."
+  },
+  {
+    "from": "binding",
+    "to": "ncc",
+    "verdict": "documented",
+    "url": "https://resolver.caltech.edu/CaltechAUTHORS:20130816-103136937",
+    "note_out": "Crick and Koch explicitly proposed 40–70 Hz synchronized oscillations binding features as a mechanism of visual awareness."
+  },
+  {
+    "from": "iit",
+    "to": "aaronson",
+    "verdict": "documented",
+    "url": "https://iep.utm.edu/integrated-information-theory-of-consciousness/",
+    "note_out": "IEP details Aaronson’s reductio: simple expander graphs or grids can receive implausibly high phi."
+  },
+  {
+    "from": "iit",
+    "to": "tegmark",
+    "verdict": "documented",
+    "url": "https://arxiv.org/pdf/1401.1219",
+    "note_out": "Tegmark explicitly generalizes Tononi’s IIT and proposes consciousness as a state of matter, perceptronium."
+  },
+  {
+    "from": "panpsychism",
+    "to": "iit",
+    "verdict": "documented",
+    "url": "https://iep.utm.edu/integrated-information-theory-of-consciousness/",
+    "note_out": "IEP explains IIT’s attribution of minimal consciousness to simple systems and its panpsychist implications."
+  },
+  {
+    "from": "gwt",
+    "to": "bengio",
+    "verdict": "documented",
+    "url": "https://arxiv.org/abs/1709.08568",
+    "note_out": "Bengio explicitly says the consciousness prior is anchored in Global Workspace Theory."
+  },
+  {
+    "from": "gwt",
+    "to": "butlin",
+    "verdict": "documented",
+    "url": "https://arxiv.org/pdf/2308.08708",
+    "note_out": "Butlin et al. derive four AI-consciousness indicators directly from Global Workspace Theory."
+  },
+  {
+    "from": "hot",
+    "to": "butlin",
+    "verdict": "documented",
+    "url": "https://arxiv.org/pdf/2308.08708",
+    "note_out": "Butlin et al. explicitly survey higher-order theories and derive corresponding AI-consciousness indicators."
+  },
+  {
+    "from": "hot",
+    "to": "ast",
+    "verdict": "documented",
+    "url": "https://cs.brown.edu/people/tdean/www/archive/2018/calendar_invited_talks/lectures/04/10/papers/GrazianoROUTLEDGE_HANDBOOK-18.pdf",
+    "note_out": "Graziano calls HOT a close cousin of AST while distinguishing representation of an item from representation of attention."
+  },
+  {
+    "from": "minsky",
+    "to": "gwt",
+    "verdict": "documented",
+    "url": "https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=1119&context=ccrg_papers",
+    "note_out": "The paper maps GWT’s unconscious specialized processors to Minsky’s agents."
+  },
+  {
+    "from": "freud",
+    "to": "kahneman",
+    "verdict": "documented",
+    "url": "https://psyche.co/ideas/the-id-and-the-nudge-where-freud-meets-behavioural-economics",
+    "note_out": "The source explicitly compares Freud’s unconscious primary process with Kahneman’s largely unconscious System 1."
+  },
+  {
+    "from": "haidt",
+    "to": "kahneman",
+    "verdict": "documented",
+    "url": "https://lawecommons.luc.edu/luclj/vol44/iss5/6",
+    "note_out": "The article explicitly equates Haidt’s elephant and rider with Kahneman’s System 1 and System 2."
+  },
+  {
+    "from": "friston",
+    "to": "seth",
+    "verdict": "documented",
+    "url": "https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/",
+    "note_out": "Seth explicitly develops his account using Friston’s free-energy principle and predictive models of bodily regulation."
+  },
+  {
+    "from": "damasio",
+    "to": "seth",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Seth’s embodied, interoceptive account strongly aligns with Damasio’s body-regulation account, but direct dependence was not explicit in opened sources."
+  },
+  {
+    "from": "james",
+    "to": "damasio",
+    "verdict": "documented",
+    "url": "https://www.amacad.org/publication/daedalus/minding-body",
+    "note_out": "Damasio explicitly uses James’s bodily-perception assumptions as a stepping stone for his account of emotional feeling."
+  },
+  {
+    "from": "friston",
+    "to": "fields",
+    "verdict": "wrong",
+    "url": "https://arxiv.org/abs/2112.15242",
+    "note_out": "Fields’s generic bounded-system FEP work is from 2021–2022, not the 2012 point claimed here."
+  },
+  {
+    "from": "fields",
+    "to": "levin",
+    "verdict": "documented",
+    "url": "https://drmichaellevin.org/publications/",
+    "note_out": "Levin’s publication list documents numerous Fields–Levin coauthored papers from 2018 onward."
+  },
+  {
+    "from": "jaynes",
+    "to": "westworld",
+    "verdict": "documented",
+    "url": "https://www.hollywoodreporter.com/tv/tv-news/westworld-creators-dissect-evan-rachel-woods-major-character-twist-1030368/",
+    "note_out": "Westworld’s creators explicitly name Julian Jaynes among their guides on consciousness."
+  },
+  {
+    "from": "idealism",
+    "to": "hoffman",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Hoffman’s conscious realism is nonphysicalist monism, but he distinguishes it from historical idealisms rather than presenting it as their extension."
+  },
+  {
+    "from": "metzinger",
+    "to": "illusionism",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Metzinger denies substantial selves; Frankish illusionism denies phenomenal properties. They are thematically related but target different claims."
+  },
+  {
+    "from": "piaget",
+    "to": "kegan",
+    "verdict": "documented",
+    "url": "https://ncsall.net/fileadmin/resources/research/19_c3.pdf",
+    "note_out": "The source explicitly says Kegan’s neo-Piagetian theory extends cognitive development across the adult lifespan."
+  },
+  {
+    "from": "huxley",
+    "to": "leary",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/The_Doors_of_Perception",
+    "note_out": "The page states Leary read Huxley after his first psilocybin experience, found corroboration, and then befriended him."
+  },
+  {
+    "from": "pribram",
+    "to": "penrose",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Both invoke nonclassical or quantum ideas in brain theories, but use distinct mechanisms and no direct influence was found."
+  },
+  {
+    "from": "embodied",
+    "to": "seth",
+    "verdict": "documented",
+    "url": "https://royalsocietypublishing.org/doi/10.1098/rstb.2016.0007",
+    "note_out": "Seth and Friston explicitly frame interoceptive inference in enactivist, embodied terms tied to bodily regulation."
+  },
+  {
+    "from": "matrix",
+    "to": "simulation",
+    "verdict": "documented",
+    "url": "https://simulation-argument.com/matrix/",
+    "note_out": "Bostrom explicitly uses The Matrix as the popular point of entry to his simulation argument."
+  },
+  {
+    "from": "egan",
+    "to": "simulation",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Permutation City explores software minds and simulated reality, but no direct connection to Bostrom’s argument was found."
+  },
+  {
+    "from": "watts",
+    "to": "illusionism",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Blindsight separates intelligence from consciousness; illusionism instead disputes phenomenal properties. The overlap is thematic, not the same thesis."
+  }
+]

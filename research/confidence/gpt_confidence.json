@@ -1,0 +1,2498 @@
+{
+ "checked": "2026-11-13",
+ "by": "gpt 5.6 sol",
+ "summaries": {
+  "animism|": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/topic/animism",
+   "note": ""
+  },
+  "greekgods|": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/topic/Greek-mythology",
+   "note": ""
+  },
+  "genesis|Genesis 1": {
+   "verdict": "supported",
+   "url": "https://www.biblegateway.com/passage/?search=Genesis%201&version=NRSVUE",
+   "note": ""
+  },
+  "genesis|Adam and Eve": {
+   "verdict": "supported",
+   "url": "https://www.biblegateway.com/passage/?search=Genesis%202-3&version=NRSVUE",
+   "note": ""
+  },
+  "genesis|Tower of Babel": {
+   "verdict": "partly",
+   "url": "https://www.biblegateway.com/passage/?search=Genesis%2011%3A1-9&version=NRSVUE",
+   "note": "The narrative is confirmed; this source does not itself state the traditional interpretation as a warning against overreach."
+  },
+  "genesis|The God of Abraham": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/topic/Abrahamic-religions",
+   "note": ""
+  },
+  "genesis|The Bible": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/topic/biblical-literature",
+   "note": ""
+  },
+  "pythagoras|": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/pythagoras/",
+   "note": "The source confirms later numerical cosmology but does not confirm that irrational quantities threw the school into scandal."
+  },
+  "logos|": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/topic/logos",
+   "note": ""
+  },
+  "buddhism|Buddhism": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/topic/Buddhism",
+   "note": "Meditation, non-self, and craving are supported; reports by advanced practitioners deconstructing ordinary perception are not specifically confirmed."
+  },
+  "buddhism|The Dalai Lama": {
+   "verdict": "supported",
+   "url": "https://www.dalailama.com/the-dalai-lama/biography-and-daily-life/reincarnation",
+   "note": ""
+  },
+  "buddhism|Michael Taft on enlightenment": {
+   "verdict": "supported",
+   "url": "https://deconstructingyourself.com/michael-w-taft",
+   "note": ""
+  },
+  "plato|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/platonism-mathematics/",
+   "note": ""
+  },
+  "aristotle|Aristotle": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/aristotle-psychology/",
+   "note": ""
+  },
+  "aristotle|De Anima (On the Soul)": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/aristotle-psychology/",
+   "note": ""
+  },
+  "aristotle|The unmoved mover": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/aristotle-natphil/",
+   "note": "The unmoved mover is confirmed; describing it as having “no personality” and merely keeping things going is stronger than this source."
+  },
+  "stoicism|": {
+   "verdict": "supported",
+   "url": "https://iep.utm.edu/stoicism/",
+   "note": ""
+  },
+  "christianity|The Catholic Church": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/topic/Christianity",
+   "note": "Christianity’s basis in Jesus and the church’s institutional role are supported; the sweeping European-unification claim is not specifically confirmed."
+  },
+  "christianity|1 Corinthians 13": {
+   "verdict": "supported",
+   "url": "https://www.biblegateway.com/passage/?search=1%20Corinthians%2013&version=NRSVUE",
+   "note": ""
+  },
+  "christianity|Christian mind-body dualism": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/dualism/",
+   "note": ""
+  },
+  "christianity|Protestantism": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/topic/Protestantism",
+   "note": ""
+  },
+  "aquinas|Thomas Aquinas": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/aquinas/",
+   "note": ""
+  },
+  "aquinas|The seven virtues": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/topic/virtue-in-Christianity",
+   "note": ""
+  },
+  "golem|": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/topic/golem-Jewish-folklore",
+   "note": "The servant, literal obedience, protector role, and Rabbi Löw version are supported; its first nineteenth-century recording is not confirmed."
+  },
+  "descartes|Descartes": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/descartes/",
+   "note": ""
+  },
+  "descartes|Meditations on First Philosophy": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/descartes/",
+   "note": ""
+  },
+  "descartes|Mind-body dualism": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/dualism/",
+   "note": "Descartes’s distinction and interaction problem are supported; “most later philosophy of mind” attempting escape is an unverified overgeneralization."
+  },
+  "occasionalism|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/occasionalism/",
+   "note": ""
+  },
+  "empiricism|Empiricism vs rationalism": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/rationalism-empiricism/",
+   "note": ""
+  },
+  "empiricism|Locke on consciousness": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/locke-personal-identity/",
+   "note": ""
+  },
+  "empiricism|Hume: proportion belief to evidence": {
+   "verdict": "supported",
+   "url": "https://davidhume.org/texts/e/10",
+   "note": ""
+  },
+  "idealism|": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/idealism/",
+   "note": "The general characterization of idealism is supported; this source does not specifically establish Kastrup’s analytic idealism as a current version."
+  },
+  "leibniz|Leibniz": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/leibniz/",
+   "note": "Leibniz’s polymathy and independent calculus development are supported; the universal-language project and quoted “let us calculate” are not confirmed here."
+  },
+  "leibniz|Leibniz's mill": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/leibniz-mind/",
+   "note": ""
+  },
+  "lamettrie|": {
+   "verdict": "supported",
+   "url": "https://www.earlymoderntexts.com/assets/pdfs/lamettrie1748.pdf",
+   "note": ""
+  },
+  "enlightenment|": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/event/Enlightenment-European-history",
+   "note": ""
+  },
+  "kant|Kant": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/kant-moral/",
+   "note": ""
+  },
+  "kant|Critique of Pure Reason": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/kant-transcendental-idealism/",
+   "note": ""
+  },
+  "utilitarianism|": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/utilitarianism-history/",
+   "note": "The theory, calculus, Bentham, and Mill are supported; the claim that it underlies much effective altruism is not covered here."
+  },
+  "hegel|": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/hegel/",
+   "note": "Hegel’s idealism and Spirit’s historical development are supported; “contradictions overcome at a higher level” compresses a disputed interpretation."
+  },
+  "celltheory|": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/science/cell-theory",
+   "note": ""
+  },
+  "darwin|": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/biography/Charles-Darwin/On-the-Origin-of-Species",
+   "note": ""
+  },
+  "dubois|": {
+   "verdict": "supported",
+   "url": "https://www.deutschestextarchiv.de/book/download_html/dubois_naturerkennen_1872",
+   "note": ""
+  },
+  "cantor|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/set-theory/",
+   "note": ""
+  },
+  "epiphenomenalism|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/epiphenomenalism/",
+   "note": ""
+  },
+  "brentano|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/brentano/",
+   "note": ""
+  },
+  "emergence|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/properties-emergent/",
+   "note": ""
+  },
+  "wundt|": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/Wilhelm-Wundt",
+   "note": "Wundt’s laboratory psychology is supported; this source does not substantiate the combined roles and measurements attributed to Fechner and Helmholtz."
+  },
+  "frege|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/frege/",
+   "note": ""
+  },
+  "peano|": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/science/Peano-axioms",
+   "note": ""
+  },
+  "james|": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/biography/William-James",
+   "note": ""
+  },
+  "brouwer|": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/intuitionism/",
+   "note": "Construction-based truth is supported; the blanket claim that infinity is only a never-finished process oversimplifies Brouwer’s freely generated infinite sequences."
+  },
+  "russell|Russell's paradox": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/russell-paradox/",
+   "note": ""
+  },
+  "russell|Principia Mathematica": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/topic/Principia-Mathematica",
+   "note": ""
+  },
+  "husserl|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/husserl/",
+   "note": ""
+  },
+  "hilbert|": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/hilbert-program/",
+   "note": "The source confirms formalization and finitist consistency, but not the added expectation that every true statement would be derivable."
+  },
+  "wittgenstein|Wittgenstein": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/wittgenstein/",
+   "note": ""
+  },
+  "wittgenstein|Tractatus Logico-Philosophicus": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/wittgenstein/",
+   "note": ""
+  },
+  "wittgenstein|Philosophical Investigations": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/wittgenstein/",
+   "note": ""
+  },
+  "freud|": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/science/psychoanalysis",
+   "note": ""
+  },
+  "qualia|Qualia": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/qualia/",
+   "note": ""
+  },
+  "qualia|Mary's room (Epiphenomenal Qualia)": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/qualia-knowledge/",
+   "note": ""
+  },
+  "goedel|": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/goedel-incompleteness/",
+   "note": "The theorem guarantees undecidable statements; calling them “true” without specifying the intended model adds a qualification the summary omits."
+  },
+  "tarski|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/tarski-truth/",
+   "note": ""
+  },
+  "turing|Alan Turing": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/Alan-Turing",
+   "note": "Britannica says Turing and others designed the Bombe; the summary credits its design to Turing alone."
+  },
+  "turing|Church–Turing thesis": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/church-turing/",
+   "note": ""
+  },
+  "turing|The Turing machine": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/turing-machine/",
+   "note": ""
+  },
+  "turing|Halting problem": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/turing-machine/",
+   "note": ""
+  },
+  "turing|Post machine": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Post%E2%80%93Turing_machine",
+   "note": ""
+  },
+  "turing|Computing Machinery and Intelligence (the Turing test)": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Computing_Machinery_and_Intelligence",
+   "note": "The paper proposes substituting the imitation game; “we should grant it intelligence” is a stronger prescription than the source supports."
+  },
+  "lambda|Lambda calculus": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/church-turing/",
+   "note": ""
+  },
+  "lambda|Moses Schönfinkel": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Combinatory_logic",
+   "note": ""
+  },
+  "skinner|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/behaviorism/",
+   "note": ""
+  },
+  "maslow|": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/science/self-actualization",
+   "note": ""
+  },
+  "mcculloch|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/History_of_artificial_neural_networks",
+   "note": ""
+  },
+  "schroedinger|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/What_Is_Life%3F",
+   "note": ""
+  },
+  "vonneumann|John von Neumann": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/biography/John-von-Neumann",
+   "note": ""
+  },
+  "vonneumann|Babbage, Zuse, von Neumann": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC",
+   "note": "“Von Neumann defined” overstates sole credit; the source says the architecture emerged from earlier work by Eckert and Mauchly."
+  },
+  "vonneumann|Reliable organisms from unreliable components": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Probabilistic_logic",
+   "note": ""
+  },
+  "shannon|Information theory": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication",
+   "note": ""
+  },
+  "shannon|Computer chess": {
+   "verdict": "supported",
+   "url": "https://www.chessprogramming.org/Claude_Shannon",
+   "note": ""
+  },
+  "cybernetics|Cybernetics": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/science/cybernetics",
+   "note": "The source confirms control, communication, feedback, animals, machines, and 1948, but does not substantiate the claimed influence on neural networks."
+  },
+  "cybernetics|Project Cybersyn": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Project_Cybersyn",
+   "note": ""
+  },
+  "physicalism|Physicalism": {
+   "verdict": "partly",
+   "url": "https://plato.stanford.edu/entries/physicalism/",
+   "note": "The definition is supported; “default position in most contemporary science and analytic philosophy” is not established by the source."
+  },
+  "physicalism|Direct realism": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/perception-problem/",
+   "note": ""
+  },
+  "morpho|": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Turing_pattern",
+   "note": "Turing patterns are supported, but the source does not establish neural cellular automata as their historical or conceptual descendant."
+  },
+  "piaget|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Piaget%27s_theory_of_cognitive_development",
+   "note": ""
+  },
+  "huxley|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/The_Doors_of_Perception",
+   "note": ""
+  },
+  "dartmouth|The Dartmouth workshop": {
+   "verdict": "supported",
+   "url": "https://home.dartmouth.edu/about/artificial-intelligence-ai-coined-dartmouth",
+   "note": ""
+  },
+  "dartmouth|John McCarthy": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/John-McCarthy",
+   "note": "Coining AI, Lisp, and formalizing commonsense knowledge are supported; this source does not confirm his role organizing the Dartmouth workshop."
+  },
+  "mountcastle|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Cortical_column",
+   "note": ""
+  },
+  "everett|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/qm-everett/",
+   "note": ""
+  },
+  "minsky|Marvin Minsky": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/Marvin-Lee-Minsky",
+   "note": "Minsky’s AI prominence is supported, but the source does not cover both books or the summary’s “no single principle” characterization."
+  },
+  "minsky|The Society of Mind": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Society_of_Mind",
+   "note": ""
+  },
+  "minsky|Perceptrons": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Perceptrons_(book)",
+   "note": "The limitations and subsequent decline are supported, but “funding dried up for over a decade” is stronger than the documented decrease."
+  },
+  "chomsky|": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/Noam-Chomsky",
+   "note": "Innateness, the cognitive revolution, and behaviorism are supported; the broad claim about his skepticism toward statistical models is not covered."
+  },
+  "selfridge|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Pandemonium_architecture",
+   "note": ""
+  },
+  "functionalism|Functionalism": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/functionalism/",
+   "note": ""
+  },
+  "functionalism|Computationalism, weak and strong": {
+   "verdict": "contradicted",
+   "url": "https://doi.org/10.17721/2523-4064.2023/8-1/8",
+   "note": "“Weak computationalism says minds are computer programs” reverses the distinction; that is strong computationalism. Pancomputationalism is a separate universe-wide thesis."
+  },
+  "lem|Stanisław Lem": {
+   "verdict": "partly",
+   "url": "https://www.britannica.com/biography/Stanislaw-Lem",
+   "note": "Lem, his nationality, philosophy, and Solaris are supported; this source does not confirm the description of Golem XIV."
+  },
+  "lem|Solaris": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Solaris_(novel)",
+   "note": ""
+  },
+  "lem|Summa Technologiae": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Summa_Technologiae",
+   "note": ""
+  },
+  "solomonoff|": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Solomonoff%27s_theory_of_inductive_inference",
+   "note": "Algorithmic probability, shortest descriptions, uncomputability, and AIXI are supported; this source does not confirm Solomonoff’s Dartmouth attendance."
+  },
+  "ivakhnenko|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Alexey_Ivakhnenko",
+   "note": ""
+  },
+  "symbolic|Symbolic AI and expert systems": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence",
+   "note": ""
+  },
+  "symbolic|Newell and Simon": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Physical_symbol_system",
+   "note": ""
+  },
+  "eliza|": {
+   "verdict": "supported",
+   "url": "https://www.britannica.com/technology/ELIZA",
+   "note": ""
+  },
+  "leary|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Eight-circuit_model_of_consciousness",
+   "note": ""
+  },
+  "digital|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Digital_physics",
+   "note": ""
+  },
+  "conway|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life",
+   "note": ""
+  },
+  "mirror|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Mirror_test",
+   "note": ""
+  },
+  "pribram|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Holonomic_brain_theory",
+   "note": ""
+  },
+  "dreyfus|": {
+   "verdict": "supported",
+   "url": "https://www.cs.swarthmore.edu/~meeden/phil27/s24/papers/RoleOfTheBody.pdf",
+   "note": ""
+  },
+  "gaia|": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Gaia_hypothesis",
+   "note": "Self-regulation is supported, but the single-organism framing is a less accepted version and Margulis explicitly rejected it."
+  },
+  "nagel|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/consciousness/",
+   "note": ""
+  },
+  "groupsel|": {
+   "verdict": "contradicted",
+   "url": "https://en.wikipedia.org/wiki/Group_selection",
+   "note": "\"1975\" is wrong: D. S. Wilson and Sober proposed multilevel selection in 1994; E. O. Wilson joined later."
+  },
+  "fodor|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/language-thought/",
+   "note": ""
+  },
+  "grossberg|": {
+   "verdict": "supported",
+   "url": "http://scholarpedia.org/article/Adaptive_resonance_theory",
+   "note": ""
+  },
+  "dawkins|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/The_Selfish_Gene",
+   "note": ""
+  },
+  "jaynes|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/The_Origin_of_Consciousness_in_the_Breakdown_of_the_Bicameral_Mind",
+   "note": ""
+  },
+  "schank|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Script_theory",
+   "note": ""
+  },
+  "sloman|": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Aaron_Sloman",
+   "note": "The biography and working-minds approach are supported; this page does not confirm the specific three-layer CogAff characterization."
+  },
+  "hofstadter|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Strange_loop",
+   "note": ""
+  },
+  "lucid|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Lucid_dream",
+   "note": ""
+  },
+  "thatcher|The Thatcher illusion": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Thatcher_effect",
+   "note": ""
+  },
+  "thatcher|The dress": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/The_dress",
+   "note": ""
+  },
+  "searle|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/chinese-room/",
+   "note": ""
+  },
+  "mandelbrot|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Mandelbrot_set",
+   "note": ""
+  },
+  "binding|The binding problem": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Binding_problem",
+   "note": ""
+  },
+  "binding|Wolf Singer and 40 Hz synchrony": {
+   "verdict": "supported",
+   "url": "https://resolver.caltech.edu/CaltechAUTHORS:20130816-103136937",
+   "note": ""
+  },
+  "binding|Christoph von der Malsburg": {
+   "verdict": "supported",
+   "url": "https://academic.oup.com/book/7915/chapter/153180890",
+   "note": ""
+  },
+  "kegan|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Robert_Kegan",
+   "note": ""
+  },
+  "quantumcomp|": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Quantum_computing",
+   "note": "Quantum speedups and decoherence are supported, but \"the slightest disturbance\" overstates how readily all quantum states are destroyed."
+  },
+  "streams|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Two-streams_hypothesis",
+   "note": ""
+  },
+  "libet|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Benjamin_Libet",
+   "note": ""
+  },
+  "levine|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/qualia/",
+   "note": ""
+  },
+  "braitenberg|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Braitenberg_vehicle",
+   "note": ""
+  },
+  "cyc|": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Cyc",
+   "note": "The project, date, hand-built knowledge base, and failure criticism are supported; \"emblem of hand-built AI\" is not specifically documented."
+  },
+  "boltzmannmachine|": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Boltzmann_machine",
+   "note": "The architecture and RBM simplification are supported; Boltzmann machines sample an equilibrium distribution rather than simply settling into one low-energy state."
+  },
+  "bischof|": {
+   "verdict": "supported",
+   "url": "https://doi.org/10.5282/ubm/epub.2863",
+   "note": ""
+  },
+  "sicp|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs",
+   "note": ""
+  },
+  "autopoiesis|": {
+   "verdict": "supported",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6315399/",
+   "note": ""
+  },
+  "pdp|": {
+   "verdict": "supported",
+   "url": "https://www.nature.com/articles/323533a0",
+   "note": ""
+  },
+  "hot|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/consciousness-higher/",
+   "note": ""
+  },
+  "brooks|": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Subsumption_architecture",
+   "note": "The bottom-up layered architecture and lack of a central world model are supported; the Roomba lineage is not confirmed here."
+  },
+  "cogarch|Cognitive architectures": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Cognitive_architecture",
+   "note": "Comprehensive computational models of minds are supported; treating cognitive systems, AGI, and BICA as interchangeable names is not confirmed."
+  },
+  "cogarch|Soar and Unified Theories of Cognition": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Soar_(cognitive_architecture)",
+   "note": ""
+  },
+  "cogarch|ACT-R": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/ACT-R",
+   "note": ""
+  },
+  "cogarch|A Standard Model of the Mind": {
+   "verdict": "supported",
+   "url": "https://onlinelibrary.wiley.com/doi/10.1609/aimag.v38i4.2744",
+   "note": ""
+  },
+  "edelman|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Neural_Darwinism",
+   "note": ""
+  },
+  "gwt|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Global_workspace_theory",
+   "note": ""
+  },
+  "occ|": {
+   "verdict": "partly",
+   "url": "https://www.scitepress.org/papers/2014/48155/48155.pdf",
+   "note": "The appraisal categories and software-agent use are supported; describing implementations generally as a \"lookup table\" is not confirmed."
+  },
+  "mysterianism|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/New_mysterianism",
+   "note": ""
+  },
+  "penrose|The Gödelian argument and The Emperor's New Mind": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/The_Emperor%27s_New_Mind",
+   "note": ""
+  },
+  "penrose|Orchestrated objective reduction (Orch OR)": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Orchestrated_objective_reduction",
+   "note": ""
+  },
+  "penrose|The Road to Reality": {
+   "verdict": "contradicted",
+   "url": "https://en.wikipedia.org/wiki/The_Road_to_Reality",
+   "note": "\"1989–1994\" is wrong for this facet: The Road to Reality was published in 2004."
+  },
+  "penrose|Stuart Hameroff": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Stuart_Hameroff",
+   "note": ""
+  },
+  "penrose|Roger Penrose": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Roger_Penrose",
+   "note": ""
+  },
+  "ncc|Neural correlates of consciousness": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Neural_correlates_of_consciousness",
+   "note": ""
+  },
+  "ncc|Christof Koch": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Christof_Koch",
+   "note": ""
+  },
+  "witten|": {
+   "verdict": "supported",
+   "url": "https://web.archive.org/web/20190122113346/https:/www.cs.waikato.ac.nz/~ihw/resume.html",
+   "note": ""
+  },
+  "wheeler|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/It_from_bit",
+   "note": ""
+  },
+  "schmidhuber|": {
+   "verdict": "supported",
+   "url": "https://people.idsia.ch/~juergen/driven2009.pdf",
+   "note": ""
+  },
+  "harnad|": {
+   "verdict": "supported",
+   "url": "https://eprints.soton.ac.uk/250382/",
+   "note": ""
+  },
+  "dennett|Daniel Dennett": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/consciousness/",
+   "note": ""
+  },
+  "dennett|Consciousness Explained": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/consciousness/",
+   "note": ""
+  },
+  "dennett|Zimbos": {
+   "verdict": "supported",
+   "url": "https://dl.tufts.edu/downloads/rf55zm151?filename=6m312182x.pdf",
+   "note": ""
+  },
+  "embodied|Phenomenology and enactivism": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/embodied-cognition/",
+   "note": ""
+  },
+  "embodied|How the Body Shapes the Way We Think": {
+   "verdict": "supported",
+   "url": "https://mitpress.mit.edu/9780262162395/how-the-body-shapes-the-way-we-think/",
+   "note": ""
+  },
+  "embodied|Sensorimotor theory": {
+   "verdict": "supported",
+   "url": "https://doi.org/10.1017/s0140525x01000115",
+   "note": ""
+  },
+  "singularity|": {
+   "verdict": "supported",
+   "url": "https://www.ibm.com/think/topics/technological-singularity",
+   "note": ""
+  },
+  "damasio|": {
+   "verdict": "supported",
+   "url": "https://books.google.com/books?id=_6gLAQAAIAAJ",
+   "note": ""
+  },
+  "egan|": {
+   "verdict": "partly",
+   "url": "https://gregegan.net/PERMUTATION/Permutation.html",
+   "note": "The source confirms software copies and simulations, but not the specific claim about minds being merged."
+  },
+  "chalmers|The hard problem of consciousness": {
+   "verdict": "supported",
+   "url": "https://consc.net/papers/facing.html",
+   "note": ""
+  },
+  "chalmers|Philosophical zombies": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/zombies/",
+   "note": ""
+  },
+  "chalmers|David Chalmers": {
+   "verdict": "supported",
+   "url": "https://consc.net/the-conscious-mind/",
+   "note": ""
+  },
+  "pearce|": {
+   "verdict": "supported",
+   "url": "https://www.hedweb.com/hedethic/interview-2025may.html",
+   "note": ""
+  },
+  "block|": {
+   "verdict": "supported",
+   "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/on-a-confusion-about-a-function-of-consciousness/061422BF0C50C5FF00927F9B6E879413",
+   "note": ""
+  },
+  "doerner|Psi theory": {
+   "verdict": "supported",
+   "url": "http://www.cognitive-ai.com/publications/assets/KI2006BachBauerVuine.pdf",
+   "note": ""
+  },
+  "doerner|Bauplan für eine Seele": {
+   "verdict": "supported",
+   "url": "http://www.cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf",
+   "note": ""
+  },
+  "doerner|Die Mechanik des Seelenwagens": {
+   "verdict": "supported",
+   "url": "http://www.cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf",
+   "note": ""
+  },
+  "doerner|Dietrich Dörner": {
+   "verdict": "supported",
+   "url": "http://www.cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf",
+   "note": ""
+  },
+  "hypercomputation|": {
+   "verdict": "supported",
+   "url": "https://arxiv.org/pdf/1210.7171",
+   "note": ""
+  },
+  "matrix|": {
+   "verdict": "supported",
+   "url": "https://www.nottingham.ac.uk/scope/documents/2003/may-2003/merrin.pdf",
+   "note": ""
+  },
+  "agi|The term AGI": {
+   "verdict": "supported",
+   "url": "https://www.goertzel.org/AGI_survey_early_draft.pdf",
+   "note": ""
+  },
+  "agi|Ben Goertzel": {
+   "verdict": "supported",
+   "url": "https://superintelligence.io/about/team/",
+   "note": ""
+  },
+  "wolfram|Stephen Wolfram": {
+   "verdict": "supported",
+   "url": "https://writings.stephenwolfram.com/2023/12/observer-theory/",
+   "note": ""
+  },
+  "wolfram|The Ruliad": {
+   "verdict": "supported",
+   "url": "https://writings.stephenwolfram.com/2021/11/the-concept-of-the-ruliad/",
+   "note": ""
+  },
+  "wolfram|Computational irreducibility": {
+   "verdict": "supported",
+   "url": "https://www.wolframscience.com/nks/p737--computational-irreducibility/",
+   "note": ""
+  },
+  "wolfram|Observer Theory": {
+   "verdict": "supported",
+   "url": "https://writings.stephenwolfram.com/2023/12/observer-theory/",
+   "note": ""
+  },
+  "airisk|Paperclip maximizer": {
+   "verdict": "supported",
+   "url": "https://nickbostrom.com/papers/ethical-issues-in-advanced-ai/",
+   "note": ""
+  },
+  "airisk|Eliezer Yudkowsky": {
+   "verdict": "supported",
+   "url": "https://intelligence.org/2023/04/07/pausing-ai-developments-isnt-enough-we-need-to-shut-it-all-down/",
+   "note": ""
+  },
+  "airisk|The existential-risk literature": {
+   "verdict": "supported",
+   "url": "https://ai-safety-resources.com/topics/ai-existential-risk/",
+   "note": ""
+  },
+  "airisk|Roko's basilisk": {
+   "verdict": "supported",
+   "url": "https://rationalwiki.org/wiki/Roko%27s_basilisk/Original_post",
+   "note": ""
+  },
+  "airisk|p(doom)": {
+   "verdict": "supported",
+   "url": "https://wiki.aiimpacts.org/ai_timelines/predictions_of_human-level_ai_timelines/ai_timeline_surveys/2023_expert_survey_on_progress_in_ai",
+   "note": ""
+  },
+  "airisk|The pause letter": {
+   "verdict": "supported",
+   "url": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
+   "note": ""
+  },
+  "simulation|": {
+   "verdict": "supported",
+   "url": "https://simulation-argument.com/simulation.pdf",
+   "note": ""
+  },
+  "metzinger|Being No One (self-model theory)": {
+   "verdict": "supported",
+   "url": "https://mitpress.mit.edu/9780262263801/being-no-one/",
+   "note": ""
+  },
+  "metzinger|Artificial suffering": {
+   "verdict": "supported",
+   "url": "https://www.worldscientific.com/doi/abs/10.1142/S270507852150003X",
+   "note": ""
+  },
+  "iit|Integrated Information Theory": {
+   "verdict": "contradicted",
+   "url": "https://royalsocietypublishing.org/doi/full/10.1098/rstb.2014.0167",
+   "note": "\"Could never be conscious\" is too absolute; IIT predicts digital computers experience next to nothing, not necessarily nothing."
+  },
+  "iit|Aaronson's critique": {
+   "verdict": "supported",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4574706/",
+   "note": ""
+  },
+  "hawkins|": {
+   "verdict": "supported",
+   "url": "https://www.frontiersin.org/journals/neural-circuits/articles/10.3389/fncir.2018.00121/full",
+   "note": ""
+  },
+  "drescher|": {
+   "verdict": "supported",
+   "url": "https://mitpress.mit.edu/9780262293891/good-and-real/",
+   "note": ""
+  },
+  "panpsychism|": {
+   "verdict": "supported",
+   "url": "https://plato.stanford.edu/entries/panpsychism/",
+   "note": ""
+  },
+  "watts|": {
+   "verdict": "supported",
+   "url": "https://www.revistahelice.com/revista_textos/n_36/Helice-36-Maclaughlin-InterviewWatts.pdf",
+   "note": ""
+  },
+  "friston|The free energy principle": {
+   "verdict": "supported",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3510653/",
+   "note": ""
+  },
+  "friston|Predictive coding and predictive processing": {
+   "verdict": "supported",
+   "url": "https://www.nature.com/articles/nn0199_79",
+   "note": ""
+  },
+  "friston|Karl Friston": {
+   "verdict": "supported",
+   "url": "https://www.nature.com/articles/nrn2787?code=dfc3876d-6755-4838-a3eb-2459cbc09032&error=cookies_not_supported",
+   "note": ""
+  },
+  "haidt|": {
+   "verdict": "supported",
+   "url": "https://www.theatlantic.com/membership/archive/2018/06/how-psychology-explains-partisanship/563888/",
+   "note": ""
+  },
+  "chiang|": {
+   "verdict": "supported",
+   "url": "https://subterraneanpress.com/exhalation/",
+   "note": ""
+  },
+  "kahneman|": {
+   "verdict": "supported",
+   "url": "https://www.scientificamerican.com/article/kahneman-excerpt-thinking-fast-and-slow/",
+   "note": ""
+  },
+  "fields|": {
+   "verdict": "partly",
+   "url": "https://arxiv.org/abs/2112.15242",
+   "note": "The source requires a bounded, macroscopically persistent system; merely having any boundary is not enough."
+  },
+  "deutsch|": {
+   "verdict": "supported",
+   "url": "https://arxiv.org/pdf/1210.7439",
+   "note": ""
+  },
+  "deeplearning|Deep learning": {
+   "verdict": "supported",
+   "url": "https://www.nature.com/articles/nature14539",
+   "note": ""
+  },
+  "deeplearning|ImageNet": {
+   "verdict": "supported",
+   "url": "https://proceedings.neurips.cc/paper%5Ffiles/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf",
+   "note": ""
+  },
+  "deeplearning|The Google Brain cat experiment": {
+   "verdict": "supported",
+   "url": "https://research.google/pubs/building-high-level-features-using-large-scale-unsupervised-learning/",
+   "note": ""
+  },
+  "deeplearning|Word embeddings": {
+   "verdict": "supported",
+   "url": "https://aclanthology.org/N13-1090.pdf",
+   "note": ""
+  },
+  "deeplearning|GANs as a model of dreaming": {
+   "verdict": "contradicted",
+   "url": "https://arxiv.org/abs/1406.2661",
+   "note": "\"produced the first convincing synthetic photographs\" is wrong; the paper generated MNIST, TFD, and 32×32 CIFAR-10 samples and claimed no superiority."
+  },
+  "deeplearning|Stable Diffusion": {
+   "verdict": "supported",
+   "url": "https://huggingface.co/CompVis/stable-diffusion-v-1-4-original",
+   "note": ""
+  },
+  "deeplearning|Ilya Sutskever": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Ilya_Sutskever",
+   "note": "AlexNet, OpenAI, departure, and SSI are confirmed; his early scaling-to-AGI conviction is not documented here."
+  },
+  "vervaeke|": {
+   "verdict": "supported",
+   "url": "https://meaningcrisis.co/ep-37-awakening-from-the-meaning-crisis-reverse-engineering-enlightenment-part-2/",
+   "note": ""
+  },
+  "ast|": {
+   "verdict": "supported",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2015.00500/full",
+   "note": ""
+  },
+  "ackley|": {
+   "verdict": "supported",
+   "url": "https://direct.mit.edu/artl/article/22/4/431/2851/The-ulam-Programming-Language-for-Artificial-Life",
+   "note": ""
+  },
+  "her|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Her_(2013_film)",
+   "note": ""
+  },
+  "exmachina|": {
+   "verdict": "supported",
+   "url": "https://en.wikipedia.org/wiki/Ex_Machina_(film)",
+   "note": ""
+  },
+  "tegmark|Max Tegmark": {
+   "verdict": "supported",
+   "url": "https://link.springer.com/article/10.1007/s10701-007-9186-9?code=98d95e7a-bfc5-425c-8ebd-0c0cf333a1a7&error=cookies_not_supported",
+   "note": ""
+  },
+  "tegmark|Consciousness as a State of Matter": {
+   "verdict": "supported",
+   "url": "https://dspace.mit.edu/server/api/core/bitstreams/6d35eb01-6119-4f33-8702-c5b93a4e5aa5/content",
+   "note": ""
+  },
+  "tegmark|Language Models Represent Space and Time": {
+   "verdict": "supported",
+   "url": "https://arxiv.org/abs/2310.02207",
+   "note": ""
+  },
+  "tegmark|Life 3.0": {
+   "verdict": "supported",
+   "url": "https://www.scientificamerican.com/blog/observations/will-ai-enable-the-third-stage-of-life-on-earth/",
+   "note": ""
+  },
+  "aaronson|": {
+   "verdict": "supported",
+   "url": "https://scottaaronson.blog/?p=6484",
+   "note": ""
+  },
+  "hoffman|": {
+   "verdict": "supported",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2024.1429376/full",
+   "note": ""
+  },
+  "thooft|": {
+   "verdict": "supported",
+   "url": "https://link.springer.com/book/10.1007/978-3-319-41285-6",
+   "note": ""
+  },
+  "illusionism|": {
+   "verdict": "supported",
+   "url": "https://keithfrankish.github.io/articles/Frankish_2016_Illusionism_as_a_theory_of_consciousness_eprint.pdf",
+   "note": ""
+  },
+  "westworld|": {
+   "verdict": "supported",
+   "url": "https://www.hollywoodreporter.com/tv/tv-news/westworld-season-two-spoilers-jonathan-nolan-lisa-joy-interview-952762/",
+   "note": ""
+  },
+  "bengio|": {
+   "verdict": "supported",
+   "url": "https://arxiv.org/abs/1709.08568",
+   "note": ""
+  },
+  "bach|Joscha Bach": {
+   "verdict": "partly",
+   "url": "https://en.wikipedia.org/wiki/Joscha_Bach",
+   "note": "Biography, MicroPsi, and CIMC role are confirmed; the detailed simulated-world and coherence account is not covered by this source."
+  },
+  "bach|Motivated cognition: Psi theory and MicroPsi (2003)": {
+   "verdict": "partly",
+   "url": "https://agi-conf.org/2015/wp-content/uploads/2015/07/agi15_bach.pdf",
+   "note": "Motivation, certainty, competence, affiliation, and personality extensions are supported; the specific food and safety examples are not confirmed here."
+  },
+  "bach|Seven principles of synthetic intelligence (2008)": {
+   "verdict": "supported",
+   "url": "https://cognitive-ai.com/publications/assets/AGI%20Bach.pdf",
+   "note": ""
+  },
+  "bach|Gods as selves that span many minds (2015)": {
+   "verdict": "supported",
+   "url": "https://cimc.ai/publications/the-machine-consciousness-hypothesis/",
+   "note": ""
+  },
+  "bach|Request Confirmation Networks (ReCoN) (2015)": {
+   "verdict": "partly",
+   "url": "https://ceur-ws.org/Vol-1583/CoCoNIPS_2015_paper_6.pdf",
+   "note": "The architecture and hierarchical verification are supported; the face example and CIMC starting-point claim are not confirmed."
+  },
+  "bach|From elementary computation to ethics (2016)": {
+   "verdict": "partly",
+   "url": "http://bach.ai/from-computation-to-ethics/",
+   "note": "The 16-step computation-to-ethics sketch is confirmed; the claimed 2023 restatement that values are not axioms is not covered."
+  },
+  "bach|Functionalism, weak and strong computationalism (2016)": {
+   "verdict": "supported",
+   "url": "https://cimc.ai/cimcWhitepaper.pdf",
+   "note": ""
+  },
+  "bach|Only what can be constructed exists (2016)": {
+   "verdict": "partly",
+   "url": "https://www.youtube.com/watch?v=3MNBxfrmfmI",
+   "note": "Bach's constructivist, Gödel, and Penrose claims are confirmed; the summary's characterization of most logicians is not covered."
+  },
+  "bach|Consciousness as conductor and coherence operator (2017)": {
+   "verdict": "supported",
+   "url": "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf",
+   "note": ""
+  },
+  "bach|Attention-based learning (2018)": {
+   "verdict": "supported",
+   "url": "http://bach.ai/pub/Attention%20based%20learning%20as%20a%20foundation%20for%20consciousness%20Common%20Model%20Bach.pdf",
+   "note": ""
+  },
+  "bach|Consciousness is a simulated property; the self is a story (2018)": {
+   "verdict": "supported",
+   "url": "https://tfpis.com/wp-content/uploads/2021/07/bach.pdf",
+   "note": ""
+  },
+  "bach|Love as the discovery of shared purpose (2021)": {
+   "verdict": "partly",
+   "url": "https://joscha.substack.com/p/the-existential-risk-of-agi",
+   "note": "Shared-purpose alignment is supported; the 2026 phrase \"hollow agency\" could not be confirmed in this source."
+  },
+  "bach|Consciousness comes before the self (2023)": {
+   "verdict": "partly",
+   "url": "https://cimc.ai/cimcHypothesis.pdf",
+   "note": "Early consciousness, later selfhood, Genesis, and the learning hypothesis are supported; the vegetative-state claim is not confirmed."
+  },
+  "bach|Levels of Lucidity (2023)": {
+   "verdict": "supported",
+   "url": "https://joscha.substack.com/p/levels-of-lucidity",
+   "note": ""
+  },
+  "bach|On large language models (2023)": {
+   "verdict": "partly",
+   "url": "https://cimc.ai/cimcHypothesis.pdf",
+   "note": "Uncertainty, role-playing, dreaming, and behavioral-test limits are supported; the 2026 phrase \"artificial idiot savants\" is not in this source."
+  },
+  "bach|Cyber-animism: software as spirit (2024)": {
+   "verdict": "partly",
+   "url": "https://utopai.substack.com/p/6-cyber-animism-digital-spirits-in",
+   "note": "Self-organizing software, non-superstitious animism, and evolutionary competition are supported; the claims about cultures and multi-mind gods are not covered."
+  },
+  "llm|LLMs and the transformer": {
+   "verdict": "supported",
+   "url": "https://ar5iv.labs.arxiv.org/html/2207.09238",
+   "note": ""
+  },
+  "llm|Scaling hypothesis": {
+   "verdict": "supported",
+   "url": "https://ai100.stanford.edu/reports/2026-report/deep-dives/deep-dive-two-scaling-era",
+   "note": ""
+  },
+  "llm|Blake Lemoine and LaMDA": {
+   "verdict": "supported",
+   "url": "https://www.bbc.com/news/technology-61784011",
+   "note": ""
+  },
+  "llm|AI companions": {
+   "verdict": "partly",
+   "url": "https://help.replika.com/hc/en-us/articles/115001070951-What-is-Replika",
+   "note": "Replika's friend, partner, and companion positioning is confirmed; this source does not cover Claude or Anthropic."
+  },
+  "llm|Public AI discourse": {
+   "verdict": "supported",
+   "url": "https://jime.open.ac.uk/articles/10.5334/jime.1079",
+   "note": ""
+  },
+  "chollet|": {
+   "verdict": "partly",
+   "url": "https://arxiv.org/html/1911.01547",
+   "note": "The skill-acquisition-efficiency definition is explicit; the stronger claim that current models mostly interpolate is not stated here."
+  },
+  "levin|": {
+   "verdict": "supported",
+   "url": "https://www.drmichaellevin.org/",
+   "note": ""
+  },
+  "bitter|": {
+   "verdict": "supported",
+   "url": "https://mlanthology.org/misc/2019/sutton2019misc-bitter/",
+   "note": ""
+  },
+  "metazoa|": {
+   "verdict": "supported",
+   "url": "https://books.google.com/books/about/Metazoa.html?id=yCLQDwAAQBAJ",
+   "note": ""
+  },
+  "nca|": {
+   "verdict": "supported",
+   "url": "https://research.google/pubs/growing-neural-cellular-automata/",
+   "note": ""
+  },
+  "olah|": {
+   "verdict": "supported",
+   "url": "https://princetonuniversity.github.io/NEU-PSY-502/_static/pdf/Class%2011/Olah2020.pdf",
+   "note": ""
+  },
+  "seth|": {
+   "verdict": "supported",
+   "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520",
+   "note": ""
+  },
+  "marcus|": {
+   "verdict": "partly",
+   "url": "https://nautil.us/deep-learning-is-hitting-a-wall-238440",
+   "note": "His symbolic-hybrid and anti-scaling arguments are supported; \"best-known critic\" is a subjective superlative not established by the source."
+  },
+  "thagard|": {
+   "verdict": "supported",
+   "url": "https://www.cambridge.org/core/journals/philosophy-of-science/article/energy-requirements-undermine-substrate-independence-and-mindbody-functionalism/2BB3C2353EFF80F9D5805CDCEA8C3C89",
+   "note": ""
+  },
+  "butlin|Consciousness in Artificial Intelligence": {
+   "verdict": "supported",
+   "url": "https://arxiv.org/html/2308.08708v3",
+   "note": ""
+  },
+  "butlin|Taking AI Welfare Seriously": {
+   "verdict": "supported",
+   "url": "https://arxiv.org/abs/2411.00986",
+   "note": ""
+  },
+  "chirimuuta|": {
+   "verdict": "supported",
+   "url": "https://doi.org/10.7551/mitpress/13804.001.0001",
+   "note": ""
+  },
+  "shanahan|": {
+   "verdict": "supported",
+   "url": "https://www.nature.com/articles/s41586-023-06647-8?code=b02cca2d-457b-4698-bcb1-c8c037812845&error=cookies_not_supported",
+   "note": ""
+  },
+  "cimc|The Machine Consciousness Hypothesis (2025)": {
+   "verdict": "supported",
+   "url": "https://cimc.ai/cimcHypothesis.pdf",
+   "note": ""
+  },
+  "cimc|No Turing test for consciousness (2025)": {
+   "verdict": "supported",
+   "url": "https://cimc.ai/cimcHypothesis.pdf",
+   "note": ""
+  },
+  "lerchner|": {
+   "verdict": "supported",
+   "url": "https://cimc.ai/publications/against-intrinsic-properties/",
+   "note": ""
+  }
+ },
+ "connections": {
+  "animism>greekgods": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Greek religion included spirits and anthropomorphic gods, but no source established the proposed historical transformation."
+  },
+  "animism>aristotle": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Aristotle's hylomorphic soul is documented; descent from prehistoric animism is not."
+  },
+  "plato>aristotle": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/simplicius/commentaries.html",
+   "note": "Aristotle explicitly criticizes Plato's transcendent Forms and makes forms predicates of primary substances."
+  },
+  "pythagoras>plato": {
+   "verdict": "wrong",
+   "url": "https://plato.stanford.edu/entries/pythagoreanism/",
+   "note": "Pythagorean influence was limited; SEP calls inferring it from Plato's mathematics a serious mistake and does not derive his core Forms from it."
+  },
+  "logos>stoicism": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Heraclitean and Stoic logos are a standard historical connection, though the opened pages did not explicitly state direct influence."
+  },
+  "logos>christianity": {
+   "verdict": "documented",
+   "url": "https://kids.britannica.com/scholars/article/logos/48773",
+   "note": "Britannica explicitly connects Greek logos with Christian theology and John's identification of Christ as the incarnate Word."
+  },
+  "genesis>christianity": {
+   "verdict": "documented",
+   "url": "https://kids.britannica.com/scholars/article/Hebrew-Bible/56983",
+   "note": "The Hebrew Bible, including Genesis, constitutes the major portion Christians call the Old Testament."
+  },
+  "aristotle>aquinas": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/aquinas/",
+   "note": "SEP describes Aquinas's systematic reworking of Aristotelianism within Christian commitments."
+  },
+  "christianity>aquinas": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/christiantheology-philosophy/",
+   "note": "Aquinas is explicitly presented as a foundational scholastic advocate integrating philosophy with revealed Christian theology."
+  },
+  "christianity>descartes": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/arnauld/",
+   "note": "Descartes styled himself a Christian philosopher and pursued the Church-backed project of proving the soul's immateriality."
+  },
+  "descartes>occasionalism": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/malebranche/",
+   "note": "SEP explicitly describes occasionalism's textbook role as a response to Cartesian mind-body interaction."
+  },
+  "descartes>leibniz": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/leibniz-mind/",
+   "note": "Leibniz found Cartesian interaction unintelligible and replaced it with pre-established harmony."
+  },
+  "descartes>lamettrie": {
+   "verdict": "documented",
+   "url": "https://www.ebsco.com/research-starters/literature-and-writing/man-machine-julien-offray-de-la-mettrie",
+   "note": "La Mettrie extends machine language to feeling animals and humans while making soul a material brain function."
+  },
+  "descartes>empiricism": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/innateness-history/",
+   "note": "Locke's founding empiricist polemic rejects innate ideas and supplies an experience-based alternative to Cartesian nativism."
+  },
+  "empiricism>idealism": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/idealism/",
+   "note": "Berkeley starts from Lockean ideas in the mind and argues toward immaterialism and esse est percipi."
+  },
+  "empiricism>kant": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/kant-hume-causality/",
+   "note": "Kant explicitly credited remembering Hume with interrupting his dogmatic slumber and redirecting his philosophy."
+  },
+  "leibniz>kant": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/kant-leibniz/",
+   "note": "SEP documents Leibniz's influence and the conventional account of Kant navigating Leibnizian rationalism and Humean empiricism."
+  },
+  "enlightenment>kant": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/kant/",
+   "note": "SEP explicitly presents Kant's thinking-for-oneself and public reason as expressions of Enlightenment commitments."
+  },
+  "enlightenment>utilitarianism": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Bentham's calculative ethics belongs to the late Enlightenment, but no opened source explicitly established this broad developmental link."
+  },
+  "kant>hegel": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/hegel/",
+   "note": "Hegel's project arose from Kantian critical philosophy and sought to systematize and complete transcendental idealism."
+  },
+  "idealism>hegel": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/idealism/",
+   "note": "SEP explains Hegelian idealism as knowledge becoming self-knowledge through the identity of thinking and being."
+  },
+  "darwin>dawkins": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.1093/oso/9780198862260.001.0001",
+   "note": "Oxford describes Dawkins's gene's-eye view as a later shift within evolutionary theory founded by Darwinian natural selection."
+  },
+  "darwin>groupsel": {
+   "verdict": "documented",
+   "url": "https://www.journals.uchicago.edu/doi/full/10.1086/522809",
+   "note": "The article explicitly identifies Darwin's between-tribe reasoning as the essential logic of modern multilevel selection."
+  },
+  "darwin>edelman": {
+   "verdict": "documented",
+   "url": "https://digitalcommons.rockefeller.edu/ru-authors/56",
+   "note": "Rockefeller describes Neural Darwinism as neuronal-group selection resembling natural selection in evolution, though using different mechanisms."
+  },
+  "celltheory>levin": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Levin documents cooperative cellular agency and body-building, but no source tied this specifically to historical cell theory."
+  },
+  "dubois>mysterianism": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.1515/9783110330571.63",
+   "note": "The source explicitly calls McGinn the contemporary continuator of du Bois-Reymond's unknowability claim."
+  },
+  "epiphenomenalism>chalmers": {
+   "verdict": "documented",
+   "url": "https://consc.net/papers/moving.html",
+   "note": "Chalmers explicitly discusses whether consciousness is causally inert, finding epiphenomenalism coherent but undesirable."
+  },
+  "brentano>husserl": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/consciousness-intentionality/",
+   "note": "Husserl adopted and transformed Brentano's descriptive, object-directed account of experience into phenomenology."
+  },
+  "brentano>freud": {
+   "verdict": "documented",
+   "url": "https://revistas.unicentro.br/index.php/guaiaraca/article/viewFile/5230/3564",
+   "note": "Archival research lists multiple Brentano courses Freud attended from 1874 through 1876."
+  },
+  "wundt>james": {
+   "verdict": "documented",
+   "url": "https://psychclassics.yorku.ca/Special/Institutions/labsintro.htm",
+   "note": "The source discusses James's teaching laboratory and Wundt's permanent research laboratory in psychology's institutionalization as laboratory science."
+  },
+  "wundt>skinner": {
+   "verdict": "wrong",
+   "url": "https://www.bfskinner.org/about-behaviorism-chapter-1-the-causes-of-behavior-quote-9/",
+   "note": "Skinner explicitly said radical behaviorism restores introspection and does not deny self-observation; the note fits Watson better than Skinner."
+  },
+  "kant>husserl": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/husserl/",
+   "note": "Husserl explicitly acknowledged Kant's legacy when calling phenomenology transcendental and broadened Kantian analysis of experience."
+  },
+  "husserl>embodied": {
+   "verdict": "documented",
+   "url": "http://ummoss.org/gall18path.pdf",
+   "note": "The source traces enactivism through phenomenology and identifies Husserl's lived body, kinaesthesia, and bodily 'I can' as enactive ideas."
+  },
+  "cantor>russell": {
+   "verdict": "documented",
+   "url": "https://iep.utm.edu/set-theo/",
+   "note": "IEP connects Russell's discovery to Cantor's theorem and the unrestricted comprehension associated with naïve set theory."
+  },
+  "frege>russell": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/russell-paradox/",
+   "note": "Russell's 1902 letter explicitly communicated the paradox that undermined Frege's Grundgesetze."
+  },
+  "frege>wittgenstein": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/analysis/s6.html",
+   "note": "Wittgenstein acknowledged Frege and inherited his function-argument analysis and conception of logic's relation to language."
+  },
+  "russell>wittgenstein": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/wittgenstein/",
+   "note": "Frege advised Wittgenstein to study with Russell, which he did at Cambridge from 1911."
+  },
+  "peano>goedel": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/goedel-incompleteness/",
+   "note": "SEP uses Peano Arithmetic as the standard arithmetic theory to which incompleteness applies."
+  },
+  "russell>goedel": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.1007/bf01700692",
+   "note": "Gödel's 1931 paper is explicitly titled for formally undecidable propositions of Principia Mathematica and related systems."
+  },
+  "hilbert>goedel": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/hilbert-program/",
+   "note": "Gödel's theorems are generally taken to block Hilbert's original completeness and finitary consistency program."
+  },
+  "cantor>brouwer": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/brouwer/",
+   "note": "Brouwer attempted to reconstruct Cantorian set theory but rejected completed higher number classes as incompatible with constructive intuitionism."
+  },
+  "brouwer>hilbert": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/brouwer/",
+   "note": "SEP explicitly chronicles the foundational dispute between Brouwer's intuitionism and Hilbert's formalist program."
+  },
+  "frege>tarski": {
+   "verdict": "documented",
+   "url": "https://jhaponline.org/jhap/article/download/3970/3666",
+   "note": "The historical study presents Frege's rigorous semantics as a close precursor to Tarski's formal truth theories."
+  },
+  "leibniz>frege": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/leibniz-logic-influence/",
+   "note": "Frege explicitly framed Begriffsschrift as first steps toward Leibniz's general characteristic and calculus of reasoning."
+  },
+  "goedel>turing": {
+   "verdict": "wrong",
+   "url": "https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/tp2-ie.pdf",
+   "note": "Turing explicitly says his Entscheidungsproblem result is quite different from Gödel's; calling it incompleteness merely restated for machines conflates distinct theorems."
+  },
+  "hilbert>turing": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/turing-machine/",
+   "note": "Turing introduced his machines to prove that Hilbert and Ackermann's Entscheidungsproblem has no general effective solution."
+  },
+  "lambda>turing": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/church-turing/",
+   "note": "Turing proved equivalence between lambda-definability and Turing computability."
+  },
+  "lambda>sicp": {
+   "verdict": "standard",
+   "url": "",
+   "note": "SICP uses Scheme, whose first-class procedures derive from lambda calculus, but no single reliable opened source stated the complete link."
+  },
+  "turing>vonneumann": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Von Neumann knew Turing's universal machine, but historians dispute whether it influenced his stored-program architecture."
+  },
+  "turing>morpho": {
+   "verdict": "documented",
+   "url": "https://royalsocietypublishing.org/rstb/issue/237/641",
+   "note": "The Royal Society records Turing's 1952 paper The Chemical Basis of Morphogenesis."
+  },
+  "turing>dartmouth": {
+   "verdict": "documented",
+   "url": "https://ai100.stanford.edu/reports/2016-report/appendix-i-short-history-ai",
+   "note": "Stanford's AI history says Turing's 1950 essay inspired AI and anticipated machine intelligence and learning before Dartmouth."
+  },
+  "turing>hypercomputation": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/computation-physicalsystems/",
+   "note": "SEP defines hypercomputation as yielding functions that are not Turing-computable."
+  },
+  "turing>quantumcomp": {
+   "verdict": "documented",
+   "url": "https://ir.cwi.nl/pub/22927/22927B.pdf",
+   "note": "Quantum Turing machines compute no additional functions; their prospective advantage is efficiency."
+  },
+  "shannon>solomonoff": {
+   "verdict": "documented",
+   "url": "https://raysolomonoff.com/publications/barc97.pdf",
+   "note": "Solomonoff explicitly says Shannon's information theory profoundly shaped his induction ideas through probability and information packing."
+  },
+  "shannon>dartmouth": {
+   "verdict": "documented",
+   "url": "https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html",
+   "note": "The original Dartmouth proposal names Shannon among its four originators."
+  },
+  "solomonoff>schmidhuber": {
+   "verdict": "standard",
+   "url": "",
+   "note": "The intellectual lineage is standard, but the opened sources did not explicitly connect Solomonoff to Schmidhuber's compression-learning program."
+  },
+  "shannon>witten": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Witten's compression and induction work fits Shannon's framework, but no opened source explicitly stated this influence."
+  },
+  "vonneumann>conway": {
+   "verdict": "documented",
+   "url": "https://embryo.asu.edu/pages/john-von-neumanns-cellular-automata",
+   "note": ""
+  },
+  "vonneumann>singularity": {
+   "verdict": "wrong",
+   "url": "https://doi.org/10.1090/s0002-9904-1958-10189-5",
+   "note": "The first documented technological use is Ulam's 1958 report of a conversation; it is not a publication or recorded coinage by von Neumann."
+  },
+  "vonneumann>ackley": {
+   "verdict": "documented",
+   "url": "https://cacm.acm.org/opinion/beyond-efficiency/",
+   "note": ""
+  },
+  "conway>wolfram": {
+   "verdict": "documented",
+   "url": "https://files.wolframcdn.com/pub/www.stephenwolfram.com/pdf/cellular-automata-models-complexity.pdf",
+   "note": ""
+  },
+  "vonneumann>digital": {
+   "verdict": "documented",
+   "url": "https://people.idsia.ch/~juergen/digitalphysics.html",
+   "note": ""
+  },
+  "digital>wolfram": {
+   "verdict": "documented",
+   "url": "https://people.idsia.ch/~juergen/digitalphysics.html",
+   "note": ""
+  },
+  "digital>thooft": {
+   "verdict": "documented",
+   "url": "https://link.springer.com/chapter/10.1007/978-3-319-41285-6_5",
+   "note": ""
+  },
+  "digital>simulation": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Digital physics and simulation are related but logically distinct; neither implies the other."
+  },
+  "digital>wheeler": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Both make information fundamental, but the opened source did not explicitly place Wheeler's proposal within digital physics."
+  },
+  "everett>deutsch": {
+   "verdict": "documented",
+   "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.1985.0070",
+   "note": ""
+  },
+  "quantumcomp>deutsch": {
+   "verdict": "documented",
+   "url": "https://edge.org/conversation/david_deutsch-constructor-theory",
+   "note": ""
+  },
+  "conway>mandelbrot": {
+   "verdict": "documented",
+   "url": "https://emmath.org/emm/chap-dynamics.html",
+   "note": ""
+  },
+  "mcculloch>cybernetics": {
+   "verdict": "documented",
+   "url": "https://search.amphilsoc.org/collections/style/pdfoutput/Mss.B.M139-ead.pdf",
+   "note": ""
+  },
+  "mcculloch>minsky": {
+   "verdict": "standard",
+   "url": "",
+   "note": "The neural-network lineage and Minsky's later critique are standard, but no opened source stated this specific two-part connection."
+  },
+  "mcculloch>pdp": {
+   "verdict": "documented",
+   "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00187/full",
+   "note": ""
+  },
+  "cybernetics>autopoiesis": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Autopoiesis is standardly associated with second-order cybernetics, but the opened primary sources did not explicitly state that lineage."
+  },
+  "cybernetics>gaia": {
+   "verdict": "documented",
+   "url": "https://www.jameslovelock.org/atmospheric-homeostasis-by-and-for-the-biosphere-the-gaia-hypothesis/",
+   "note": ""
+  },
+  "schroedinger>autopoiesis": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Both address living order, but no opened reliable source documented Schrödinger as a source for autopoiesis."
+  },
+  "schroedinger>friston": {
+   "verdict": "documented",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5857288/",
+   "note": ""
+  },
+  "dartmouth>minsky": {
+   "verdict": "documented",
+   "url": "https://spectrum.ieee.org/dartmouth-ai-workshop",
+   "note": ""
+  },
+  "dartmouth>symbolic": {
+   "verdict": "documented",
+   "url": "https://raysolomonoff.com/dartmouth/dartray.pdf",
+   "note": ""
+  },
+  "skinner>chomsky": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.2307/411334",
+   "note": ""
+  },
+  "chomsky>fodor": {
+   "verdict": "documented",
+   "url": "https://www.ebsco.com/research-starters/biography/jerry-fodor",
+   "note": ""
+  },
+  "symbolic>fodor": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.1017/cbo9780511781322.010",
+   "note": ""
+  },
+  "symbolic>cyc": {
+   "verdict": "documented",
+   "url": "https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf",
+   "note": ""
+  },
+  "symbolic>eliza": {
+   "verdict": "standard",
+   "url": "",
+   "note": "ELIZA plainly uses symbolic pattern rules, but the opened original paper did not label it as building on symbolic AI."
+  },
+  "symbolic>schank": {
+   "verdict": "documented",
+   "url": "https://books.google.com/books/about/Scripts_Plans_Goals_and_Understanding.html?id=YFuJABU1ABIC",
+   "note": ""
+  },
+  "symbolic>cogarch": {
+   "verdict": "documented",
+   "url": "https://iiif.library.cmu.edu/file/Newell_box00048_fld04131_doc0001/Newell_box00048_fld04131_doc0001.pdf",
+   "note": ""
+  },
+  "symbolic>dreyfus": {
+   "verdict": "documented",
+   "url": "https://www.4tu.nl/ethics/downloads/default/files/brey-2001-dreyfus.pdf",
+   "note": ""
+  },
+  "symbolic>harnad": {
+   "verdict": "documented",
+   "url": "https://arxiv.org/html/cs/9906002v1",
+   "note": ""
+  },
+  "symbolic>brooks": {
+   "verdict": "documented",
+   "url": "https://people.csail.mit.edu/brooks/papers/representation.pdf",
+   "note": ""
+  },
+  "symbolic>searle": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.1017/s0140525x00005756",
+   "note": ""
+  },
+  "selfridge>minsky": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "The parallel-agent resemblance is strong, but opened sources did not securely document Pandemonium as the direct source of Society of Mind."
+  },
+  "minsky>pdp": {
+   "verdict": "documented",
+   "url": "https://courses.edx.org/assets/courseware/v1/1d43fffe0d4527c250963b7eb31e1ac9/asset-v1:UniversityofCambridge+2324EDX001+2T2023+type@asset+block/J_History_Behavioral_Science_-_2018_-_Gibbons.pdf",
+   "note": ""
+  },
+  "ivakhnenko>deeplearning": {
+   "verdict": "documented",
+   "url": "http://www.scholarpedia.org/article/Deep_Learning",
+   "note": ""
+  },
+  "pdp>deeplearning": {
+   "verdict": "documented",
+   "url": "https://isl.stanford.edu/people/widrow/papers/j199030years.pdf",
+   "note": ""
+  },
+  "boltzmannmachine>deeplearning": {
+   "verdict": "documented",
+   "url": "https://www.cs.utoronto.ca/~hinton/absps/NatureDeepReview.pdf",
+   "note": ""
+  },
+  "schmidhuber>deeplearning": {
+   "verdict": "documented",
+   "url": "https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory",
+   "note": ""
+  },
+  "deeplearning>llm": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Transformers are deep neural architectures and underpin modern LLMs, but the opened original paper did not itself discuss LLMs."
+  },
+  "deeplearning>olah": {
+   "verdict": "documented",
+   "url": "https://princetonuniversity.github.io/NEU-PSY-502/_static/pdf/Class%2011/Olah2020.pdf",
+   "note": ""
+  },
+  "deeplearning>bitter": {
+   "verdict": "documented",
+   "url": "https://bitterlesson.org/",
+   "note": ""
+  },
+  "deeplearning>marcus": {
+   "verdict": "documented",
+   "url": "https://nautil.us/deep-learning-is-hitting-a-wall-238440",
+   "note": ""
+  },
+  "deeplearning>chollet": {
+   "verdict": "documented",
+   "url": "https://arxiv.org/html/1911.01547",
+   "note": ""
+  },
+  "mountcastle>hawkins": {
+   "verdict": "documented",
+   "url": "https://www.science.org/doi/pdf/10.1126/science.314.5796.76",
+   "note": ""
+  },
+  "morpho>nca": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.23915/distill.00023",
+   "note": ""
+  },
+  "conway>nca": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Neural cellular automata extend the cellular-automaton paradigm, but the opened paper did not explicitly derive its method from Conway's Life."
+  },
+  "braitenberg>brooks": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/Behavior-based_robotics",
+   "note": ""
+  },
+  "brooks>embodied": {
+   "verdict": "documented",
+   "url": "https://people.csail.mit.edu/brooks/papers/new-approaches.pdf",
+   "note": ""
+  },
+  "dreyfus>embodied": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.4324/9781315180809-12",
+   "note": ""
+  },
+  "llm>shanahan": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.1038/s41586-023-06647-8",
+   "note": ""
+  },
+  "llm>butlin": {
+   "verdict": "documented",
+   "url": "https://arxiv.org/html/2308.08708v3",
+   "note": ""
+  },
+  "eliza>llm": {
+   "verdict": "documented",
+   "url": "https://www.nature.com/articles/s42256-024-00850-6",
+   "note": ""
+  },
+  "agi>airisk": {
+   "verdict": "documented",
+   "url": "https://intelligence.org/files/EthicsofAI.pdf",
+   "note": ""
+  },
+  "singularity>airisk": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Recursive self-improvement connects singularity scenarios to modern AI-risk arguments, but the specific lineage is broader than one source."
+  },
+  "lamettrie>physicalism": {
+   "verdict": "documented",
+   "url": "https://www.rep.routledge.com/articles/biographical/la-mettrie-julien-offroy-de-1709-51/",
+   "note": "Routledge identifies L’Homme machine as a materialist manifesto applying materialism explicitly to human beings."
+  },
+  "physicalism>functionalism": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Functionalism commonly develops within physicalist philosophy of mind, though it is not logically committed to physicalism."
+  },
+  "turing>functionalism": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/functionalism/",
+   "note": "SEP says Turing’s work was explicitly invoked and inspired Putnam’s machine-state theories in early functionalism."
+  },
+  "functionalism>searle": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/archives/spr2024/entries/chinese-room/",
+   "note": "SEP presents the Chinese room as an argument against computational accounts of mind and understanding."
+  },
+  "functionalism>block": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/functionalism/",
+   "note": "SEP discusses Block’s absent-qualia and Chinese-nation objections as major challenges to functionalism."
+  },
+  "functionalism>dennett": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Dennett’s consciousness theory is routinely classified as broadly functionalist, though his account is not reducible to generic functionalism."
+  },
+  "functionalism>chalmers": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/consciousness-neuroscience/",
+   "note": "SEP states Chalmers argues structural or functional explanations leave phenomenal consciousness unexplained."
+  },
+  "functionalism>thagard": {
+   "verdict": "documented",
+   "url": "https://www.cambridge.org/core/journals/philosophy-of-science/article/energy-requirements-undermine-substrate-independence-and-mindbody-functionalism/2BB3C2353EFF80F9D5805CDCEA8C3C89",
+   "note": "Thagard explicitly argues energy’s dependence on material substrates undermines substrate independence and mind-body functionalism."
+  },
+  "functionalism>seth": {
+   "verdict": "documented",
+   "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520",
+   "note": "Seth challenges computation’s sufficiency and argues consciousness depends on being a living organism."
+  },
+  "functionalism>lerchner": {
+   "verdict": "documented",
+   "url": "https://deepmind.google/research/publications/231971/",
+   "note": "The paper explicitly calls the abstraction fallacy a physically grounded refutation of computational functionalism."
+  },
+  "functionalism>chirimuuta": {
+   "verdict": "documented",
+   "url": "https://www.thebsps.org/reviewofbooks/burnston-on-chirimuuta/",
+   "note": "The review says Chirimuuta rejects inferring machine consciousness by mistaking computational models for the brain they simplify."
+  },
+  "searle>seth": {
+   "verdict": "documented",
+   "url": "https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A/share/f0f282851a27c9743ea840b0f4f563c8ba56852235f1886bf932b36c3e0f2520",
+   "note": "Seth explicitly credits Searle’s original biological naturalism, while adopting a broader life-based version."
+  },
+  "nagel>chalmers": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Nagel’s what-it-is-like formulation is a standard precursor to Chalmers’s hard problem, but direct dependence is not established here."
+  },
+  "qualia>nagel": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/qualia/",
+   "note": "SEP treats Nagel’s what-it-is-like argument as centrally concerning the subjective qualitative character of experience."
+  },
+  "qualia>levine": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/qualia/",
+   "note": "SEP explicitly describes Levine’s explanatory gap as the problem of explaining qualia in physical terms."
+  },
+  "levine>chalmers": {
+   "verdict": "standard",
+   "url": "",
+   "note": "The explanatory gap is a standard precursor to the hard problem, though Chalmers’s argument is not simply Levine’s renamed."
+  },
+  "leibniz>chalmers": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Leibniz’s mill anticipates an explanatory concern, but calling it the hard problem in 1714 is retrospective interpretation."
+  },
+  "leibniz>searle": {
+   "verdict": "standard",
+   "url": "",
+   "note": "The mill and Chinese room are commonly compared as internal-observer arguments, but differ in target and conclusion."
+  },
+  "chalmers>panpsychism": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Chalmers has prominently explored panpsychist and panprotopsychist responses to the hard problem; this is standard scholarship."
+  },
+  "mysterianism>chalmers": {
+   "verdict": "documented",
+   "url": "https://plato.stanford.edu/entries/consciousness/",
+   "note": "SEP discusses McGinn’s cognitive-closure claim alongside stronger explanatory-gap positions and Chalmers’s anti-physicalist argument."
+  },
+  "chalmers>illusionism": {
+   "verdict": "documented",
+   "url": "https://keithfrankish.github.io/articles/Frankish_2016_Illusionism_as_a_theory_of_consciousness_eprint.pdf",
+   "note": "Frankish explicitly replaces Chalmers’s hard problem with the illusion problem by denying phenomenal realism."
+  },
+  "dennett>illusionism": {
+   "verdict": "documented",
+   "url": "https://keithfrankish.github.io/articles/Frankish_2016_Illusionism_as_a_theory_of_consciousness_eprint.pdf",
+   "note": "Frankish names Dennett as illusionism’s pre-eminent defender."
+  },
+  "dennett>chalmers": {
+   "verdict": "documented",
+   "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6074080/",
+   "note": "Dennett explicitly argues Chalmers’s hard problem misdirects inquiry and should be dissolved by functional scientific work."
+  },
+  "hofstadter>dennett": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Hofstadter and Dennett jointly edited The Mind’s I and supplied commentary on mind, self, and information processing."
+  },
+  "goedel>hofstadter": {
+   "verdict": "documented",
+   "url": "https://www.worldscientific.com/doi/10.1142/S2705078522500011",
+   "note": "The journal abstract explicitly describes Hofstadter’s Gödelian proposal linking incompleteness-style self-reference to consciousness and mental causation."
+  },
+  "goedel>penrose": {
+   "verdict": "documented",
+   "url": "https://iep.utm.edu/lp-argue/",
+   "note": "IEP details Penrose’s Gödelian argument that no formal system can capture human mathematical reasoning."
+  },
+  "quantumcomp>penrose": {
+   "verdict": "documented",
+   "url": "https://doi.org/10.1098/rsta.1998.0254",
+   "note": "The Orch OR paper explicitly proposes quantum computation in neuronal microtubules."
+  },
+  "ncc>iit": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Koch moved from NCC research to prominent advocacy and development of IIT, but the theory was originated by Tononi."
+  },
+  "binding>ncc": {
+   "verdict": "documented",
+   "url": "https://resolver.caltech.edu/CaltechAUTHORS:20130816-103136937",
+   "note": "Crick and Koch explicitly proposed 40–70 Hz synchronized oscillations binding features as a mechanism of visual awareness."
+  },
+  "iit>aaronson": {
+   "verdict": "documented",
+   "url": "https://iep.utm.edu/integrated-information-theory-of-consciousness/",
+   "note": "IEP details Aaronson’s reductio: simple expander graphs or grids can receive implausibly high phi."
+  },
+  "iit>tegmark": {
+   "verdict": "documented",
+   "url": "https://arxiv.org/pdf/1401.1219",
+   "note": "Tegmark explicitly generalizes Tononi’s IIT and proposes consciousness as a state of matter, perceptronium."
+  },
+  "panpsychism>iit": {
+   "verdict": "documented",
+   "url": "https://iep.utm.edu/integrated-information-theory-of-consciousness/",
+   "note": "IEP explains IIT’s attribution of minimal consciousness to simple systems and its panpsychist implications."
+  },
+  "gwt>bengio": {
+   "verdict": "documented",
+   "url": "https://arxiv.org/abs/1709.08568",
+   "note": "Bengio explicitly says the consciousness prior is anchored in Global Workspace Theory."
+  },
+  "gwt>butlin": {
+   "verdict": "documented",
+   "url": "https://arxiv.org/pdf/2308.08708",
+   "note": "Butlin et al. derive four AI-consciousness indicators directly from Global Workspace Theory."
+  },
+  "hot>butlin": {
+   "verdict": "documented",
+   "url": "https://arxiv.org/pdf/2308.08708",
+   "note": "Butlin et al. explicitly survey higher-order theories and derive corresponding AI-consciousness indicators."
+  },
+  "hot>ast": {
+   "verdict": "documented",
+   "url": "https://cs.brown.edu/people/tdean/www/archive/2018/calendar_invited_talks/lectures/04/10/papers/GrazianoROUTLEDGE_HANDBOOK-18.pdf",
+   "note": "Graziano calls HOT a close cousin of AST while distinguishing representation of an item from representation of attention."
+  },
+  "minsky>gwt": {
+   "verdict": "documented",
+   "url": "https://digitalcommons.memphis.edu/cgi/viewcontent.cgi?article=1119&context=ccrg_papers",
+   "note": "The paper maps GWT’s unconscious specialized processors to Minsky’s agents."
+  },
+  "freud>kahneman": {
+   "verdict": "documented",
+   "url": "https://psyche.co/ideas/the-id-and-the-nudge-where-freud-meets-behavioural-economics",
+   "note": "The source explicitly compares Freud’s unconscious primary process with Kahneman’s largely unconscious System 1."
+  },
+  "haidt>kahneman": {
+   "verdict": "documented",
+   "url": "https://lawecommons.luc.edu/luclj/vol44/iss5/6",
+   "note": "The article explicitly equates Haidt’s elephant and rider with Kahneman’s System 1 and System 2."
+  },
+  "friston>seth": {
+   "verdict": "documented",
+   "url": "https://www.quantamagazine.org/anil-seth-finds-consciousness-in-lifes-push-against-entropy-20210930/",
+   "note": "Seth explicitly develops his account using Friston’s free-energy principle and predictive models of bodily regulation."
+  },
+  "damasio>seth": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Seth’s embodied, interoceptive account strongly aligns with Damasio’s body-regulation account, but direct dependence was not explicit in opened sources."
+  },
+  "james>damasio": {
+   "verdict": "documented",
+   "url": "https://www.amacad.org/publication/daedalus/minding-body",
+   "note": "Damasio explicitly uses James’s bodily-perception assumptions as a stepping stone for his account of emotional feeling."
+  },
+  "friston>fields": {
+   "verdict": "wrong",
+   "url": "https://arxiv.org/abs/2112.15242",
+   "note": "Fields’s generic bounded-system FEP work is from 2021–2022, not the 2012 point claimed here."
+  },
+  "fields>levin": {
+   "verdict": "documented",
+   "url": "https://drmichaellevin.org/publications/",
+   "note": "Levin’s publication list documents numerous Fields–Levin coauthored papers from 2018 onward."
+  },
+  "jaynes>westworld": {
+   "verdict": "documented",
+   "url": "https://www.hollywoodreporter.com/tv/tv-news/westworld-creators-dissect-evan-rachel-woods-major-character-twist-1030368/",
+   "note": "Westworld’s creators explicitly name Julian Jaynes among their guides on consciousness."
+  },
+  "idealism>hoffman": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Hoffman’s conscious realism is nonphysicalist monism, but he distinguishes it from historical idealisms rather than presenting it as their extension."
+  },
+  "metzinger>illusionism": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Metzinger denies substantial selves; Frankish illusionism denies phenomenal properties. They are thematically related but target different claims."
+  },
+  "piaget>kegan": {
+   "verdict": "documented",
+   "url": "https://ncsall.net/fileadmin/resources/research/19_c3.pdf",
+   "note": "The source explicitly says Kegan’s neo-Piagetian theory extends cognitive development across the adult lifespan."
+  },
+  "huxley>leary": {
+   "verdict": "documented",
+   "url": "https://en.wikipedia.org/wiki/The_Doors_of_Perception",
+   "note": "The page states Leary read Huxley after his first psilocybin experience, found corroboration, and then befriended him."
+  },
+  "pribram>penrose": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Both invoke nonclassical or quantum ideas in brain theories, but use distinct mechanisms and no direct influence was found."
+  },
+  "embodied>seth": {
+   "verdict": "documented",
+   "url": "https://royalsocietypublishing.org/doi/10.1098/rstb.2016.0007",
+   "note": "Seth and Friston explicitly frame interoceptive inference in enactivist, embodied terms tied to bodily regulation."
+  },
+  "matrix>simulation": {
+   "verdict": "documented",
+   "url": "https://simulation-argument.com/matrix/",
+   "note": "Bostrom explicitly uses The Matrix as the popular point of entry to his simulation argument."
+  },
+  "egan>simulation": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Permutation City explores software minds and simulated reality, but no direct connection to Bostrom’s argument was found."
+  },
+  "watts>illusionism": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Blindsight separates intelligence from consciousness; illusionism instead disputes phenomenal properties. The overlap is thematic, not the same thesis."
+  },
+  "doerner>bach": {
+   "verdict": "documented",
+   "url": "http://www.cognitive-ai.com/publications/assets/MicroPsiArchitectureICCM03.pdf",
+   "note": ""
+  },
+  "cogarch>bach": {
+   "verdict": "documented",
+   "url": "http://www.cognitive-ai.com/publications/assets/KI2006BachBauerVuine.pdf",
+   "note": ""
+  },
+  "maslow>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Both posit built-in needs, but no opened source directly connected Bach's model to Maslow."
+  },
+  "bischof>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Bischof influenced Dörner's Psi indirectly; the specific attachment-control claim was not directly documented."
+  },
+  "occ>bach": {
+   "verdict": "documented",
+   "url": "https://agi-conf.org/2019/wp-content/uploads/2019/07/paper_30.pdf",
+   "note": ""
+  },
+  "sloman>bach": {
+   "verdict": "documented",
+   "url": "http://www.cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf",
+   "note": ""
+  },
+  "cybernetics>bach": {
+   "verdict": "standard",
+   "url": "",
+   "note": "Bach models needs with target deviations and feedback loops, but no opened source explicitly named cybernetics as the source."
+  },
+  "embodied>bach": {
+   "verdict": "documented",
+   "url": "http://www.cognitive-ai.com/publications/assets/AGI%20Bach.pdf",
+   "note": ""
+  },
+  "harnad>bach": {
+   "verdict": "documented",
+   "url": "http://www.cognitive-ai.com/publications/assets/AGI%20Bach.pdf",
+   "note": ""
+  },
+  "schank>bach": {
+   "verdict": "documented",
+   "url": "http://www.cognitive-ai.com/publications/assets/Draft-MicroPsi-JBach-07-03-30.pdf",
+   "note": ""
+  },
+  "minsky>bach": {
+   "verdict": "documented",
+   "url": "http://bach.ai/on-marvin-minsky/",
+   "note": ""
+  },
+  "gwt>bach": {
+   "verdict": "documented",
+   "url": "https://tfpis.com/wp-content/uploads/2021/07/bach.pdf",
+   "note": ""
+  },
+  "ast>bach": {
+   "verdict": "documented",
+   "url": "https://tfpis.com/wp-content/uploads/2021/07/bach.pdf",
+   "note": ""
+  },
+  "binding>bach": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/cimcHypothesis.pdf",
+   "note": ""
+  },
+  "hot>bach": {
+   "verdict": "wrong",
+   "url": "https://cimc.ai/cimcHypothesis.pdf",
+   "note": "Bach explicitly distinguishes second-order perception from Rosenthal's higher-order thought; his account does not build on HOT as claimed."
+  },
+  "iit>bach": {
+   "verdict": "documented",
+   "url": "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf",
+   "note": ""
+  },
+  "metzinger>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "The self-model accounts strongly parallel each other, but no reliable opened source established direct influence on Bach."
+  },
+  "dennett>bach": {
+   "verdict": "documented",
+   "url": "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf",
+   "note": ""
+  },
+  "kant>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "The model-versus-reality comparison is plausible, but no opened source explicitly tied Bach's account to Kant."
+  },
+  "plato>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "The cave analogy fits Bach's simulation view, but no opened reliable source made this specific Bach connection."
+  },
+  "buddhism>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Bach discusses meditation and constructed selfhood, but no opened source established Buddhism as a source for his levels."
+  },
+  "chalmers>bach": {
+   "verdict": "documented",
+   "url": "https://jimrutt.substack.com/p/ep87-joscha-bach-on-theories-of-consciousness-28f",
+   "note": ""
+  },
+  "panpsychism>bach": {
+   "verdict": "documented",
+   "url": "https://lexfridman.com/joscha-bach-3-transcript/",
+   "note": ""
+  },
+  "lucid>bach": {
+   "verdict": "documented",
+   "url": "https://bach.ai/machine-dreams/",
+   "note": ""
+  },
+  "genesis>bach": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/publications/the-machine-consciousness-hypothesis/",
+   "note": ""
+  },
+  "aristotle>bach": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/cimcHypothesis.pdf",
+   "note": ""
+  },
+  "animism>bach": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/publications/the-machine-consciousness-hypothesis/",
+   "note": ""
+  },
+  "levin>bach": {
+   "verdict": "documented",
+   "url": "https://www.youtube.com/watch?v=kgMFnfB5E_A",
+   "note": ""
+  },
+  "sicp>bach": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/cimcHypothesis.pdf",
+   "note": ""
+  },
+  "dawkins>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Bach discusses persistent informational agents, but no opened source explicitly connected his account to Dawkins's memes."
+  },
+  "greekgods>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Gods as shared archetypes is compatible with Bach's multi-mind agents, but the specific Greek-archetype link was not documented."
+  },
+  "christianity>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Bach discusses collective agency, love, and 1 Corinthians 13, but the claimed Christianity-to-Bach dependency remains interpretive."
+  },
+  "jaynes>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Jaynes's gods-as-voices thesis parallels Bach's account, but no opened source explicitly discussed the two together."
+  },
+  "functionalism>bach": {
+   "verdict": "documented",
+   "url": "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf",
+   "note": ""
+  },
+  "turing>bach": {
+   "verdict": "documented",
+   "url": "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf",
+   "note": ""
+  },
+  "digital>bach": {
+   "verdict": "documented",
+   "url": "https://futureoflife.org/podcast/joscha-bach-and-anthony-aguirre-on-digital-physics-and-moving-towards-beneficial-futures/",
+   "note": ""
+  },
+  "lamettrie>bach": {
+   "verdict": "documented",
+   "url": "http://bach.ai/pub/Bach%20-%20Cortical%20Conductor%20Theory%20(BICA%202018).pdf",
+   "note": ""
+  },
+  "searle>bach": {
+   "verdict": "documented",
+   "url": "http://www.cognitive-ai.com/publications/assets/AGI%20Bach.pdf",
+   "note": ""
+  },
+  "seth>bach": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/cimcHypothesis.pdf",
+   "note": ""
+  },
+  "cimc>lerchner": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/publications/against-intrinsic-properties/",
+   "note": ""
+  },
+  "goedel>bach": {
+   "verdict": "documented",
+   "url": "https://podcast.clearerthinking.org/episode/126/joscha-bach-is-the-universe-a-computer",
+   "note": ""
+  },
+  "brouwer>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Bach endorses constructive mathematics, but no opened source specifically tied his view to Brouwer."
+  },
+  "cantor>bach": {
+   "verdict": "documented",
+   "url": "https://podcast.clearerthinking.org/episode/126/joscha-bach-is-the-universe-a-computer",
+   "note": ""
+  },
+  "penrose>bach": {
+   "verdict": "documented",
+   "url": "https://jimrutt.substack.com/p/ep87-joscha-bach-on-theories-of-consciousness-28f",
+   "note": ""
+  },
+  "hypercomputation>bach": {
+   "verdict": "documented",
+   "url": "https://futureoflife.org/podcast/joscha-bach-and-anthony-aguirre-on-digital-physics-and-moving-towards-beneficial-futures/",
+   "note": ""
+  },
+  "wittgenstein>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Bach discusses the Tractatus and formal languages, but the claimed programmatic influence was not explicitly established."
+  },
+  "kegan>bach": {
+   "verdict": "documented",
+   "url": "https://joscha.substack.com/p/levels-of-lucidity",
+   "note": ""
+  },
+  "piaget>bach": {
+   "verdict": "wrong",
+   "url": "https://joscha.substack.com/p/levels-of-lucidity",
+   "note": "Bach says the model derives from Kegan; Piaget is merely listed among stage models that do not map well."
+  },
+  "aquinas>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Aquinas treats charity as love, but no opened source showed Bach's framework building on that theological virtue."
+  },
+  "airisk>bach": {
+   "verdict": "documented",
+   "url": "https://joscha.substack.com/p/the-existential-risk-of-agi",
+   "note": ""
+  },
+  "utilitarianism>bach": {
+   "verdict": "documented",
+   "url": "http://bach.ai/from-computation-to-ethics/",
+   "note": ""
+  },
+  "llm>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Bach analyzes LLMs, but the vague claim that his reading 'builds on' LLMs is not a documented intellectual dependency."
+  },
+  "shanahan>bach": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "Both describe LLMs as character simulators, but no reliable opened source established a direct relation between their accounts."
+  },
+  "turing>cimc": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/publications/the-machine-consciousness-hypothesis/",
+   "note": ""
+  },
+  "llm>cimc": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/publications/research-program-whitepaper/",
+   "note": ""
+  },
+  "butlin>cimc": {
+   "verdict": "interpretive",
+   "url": "",
+   "note": "CIMC cites Butlin's report, but the opened text did not explicitly attribute its architecture-over-behavior position to that report."
+  },
+  "bach>cimc": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/cimcWhitepaper.pdf",
+   "note": ""
+  },
+  "nca>cimc": {
+   "verdict": "documented",
+   "url": "https://cimcai.substack.com/p/best-wishes-for-2026-a-year-of-research",
+   "note": ""
+  },
+  "friston>cimc": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/cimcWhitepaper.pdf",
+   "note": ""
+  },
+  "wolfram>cimc": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/cimcWhitepaper.pdf",
+   "note": ""
+  },
+  "iit>cimc": {
+   "verdict": "documented",
+   "url": "https://cimc.ai/cimcWhitepaper.pdf",
+   "note": ""
+  }
+ }
+}

@@ -1,0 +1,387 @@
+[
+  {
+    "from": "solomonoff",
+    "to": "schmidhuber",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "The intellectual lineage is standard, but the opened sources did not explicitly connect Solomonoff to Schmidhuber's compression-learning program."
+  },
+  {
+    "from": "shannon",
+    "to": "witten",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Witten's compression and induction work fits Shannon's framework, but no opened source explicitly stated this influence."
+  },
+  {
+    "from": "vonneumann",
+    "to": "conway",
+    "verdict": "documented",
+    "url": "https://embryo.asu.edu/pages/john-von-neumanns-cellular-automata",
+    "note_out": ""
+  },
+  {
+    "from": "vonneumann",
+    "to": "singularity",
+    "verdict": "wrong",
+    "url": "https://doi.org/10.1090/s0002-9904-1958-10189-5",
+    "note_out": "The first documented technological use is Ulam's 1958 report of a conversation; it is not a publication or recorded coinage by von Neumann."
+  },
+  {
+    "from": "vonneumann",
+    "to": "ackley",
+    "verdict": "documented",
+    "url": "https://cacm.acm.org/opinion/beyond-efficiency/",
+    "note_out": ""
+  },
+  {
+    "from": "conway",
+    "to": "wolfram",
+    "verdict": "documented",
+    "url": "https://files.wolframcdn.com/pub/www.stephenwolfram.com/pdf/cellular-automata-models-complexity.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "vonneumann",
+    "to": "digital",
+    "verdict": "documented",
+    "url": "https://people.idsia.ch/~juergen/digitalphysics.html",
+    "note_out": ""
+  },
+  {
+    "from": "digital",
+    "to": "wolfram",
+    "verdict": "documented",
+    "url": "https://people.idsia.ch/~juergen/digitalphysics.html",
+    "note_out": ""
+  },
+  {
+    "from": "digital",
+    "to": "thooft",
+    "verdict": "documented",
+    "url": "https://link.springer.com/chapter/10.1007/978-3-319-41285-6_5",
+    "note_out": ""
+  },
+  {
+    "from": "digital",
+    "to": "simulation",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Digital physics and simulation are related but logically distinct; neither implies the other."
+  },
+  {
+    "from": "digital",
+    "to": "wheeler",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Both make information fundamental, but the opened source did not explicitly place Wheeler's proposal within digital physics."
+  },
+  {
+    "from": "everett",
+    "to": "deutsch",
+    "verdict": "documented",
+    "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.1985.0070",
+    "note_out": ""
+  },
+  {
+    "from": "quantumcomp",
+    "to": "deutsch",
+    "verdict": "documented",
+    "url": "https://edge.org/conversation/david_deutsch-constructor-theory",
+    "note_out": ""
+  },
+  {
+    "from": "conway",
+    "to": "mandelbrot",
+    "verdict": "documented",
+    "url": "https://emmath.org/emm/chap-dynamics.html",
+    "note_out": ""
+  },
+  {
+    "from": "mcculloch",
+    "to": "cybernetics",
+    "verdict": "documented",
+    "url": "https://search.amphilsoc.org/collections/style/pdfoutput/Mss.B.M139-ead.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "mcculloch",
+    "to": "minsky",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "The neural-network lineage and Minsky's later critique are standard, but no opened source stated this specific two-part connection."
+  },
+  {
+    "from": "mcculloch",
+    "to": "pdp",
+    "verdict": "documented",
+    "url": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2014.00187/full",
+    "note_out": ""
+  },
+  {
+    "from": "cybernetics",
+    "to": "autopoiesis",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Autopoiesis is standardly associated with second-order cybernetics, but the opened primary sources did not explicitly state that lineage."
+  },
+  {
+    "from": "cybernetics",
+    "to": "gaia",
+    "verdict": "documented",
+    "url": "https://www.jameslovelock.org/atmospheric-homeostasis-by-and-for-the-biosphere-the-gaia-hypothesis/",
+    "note_out": ""
+  },
+  {
+    "from": "schroedinger",
+    "to": "autopoiesis",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Both address living order, but no opened reliable source documented Schrödinger as a source for autopoiesis."
+  },
+  {
+    "from": "schroedinger",
+    "to": "friston",
+    "verdict": "documented",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5857288/",
+    "note_out": ""
+  },
+  {
+    "from": "dartmouth",
+    "to": "minsky",
+    "verdict": "documented",
+    "url": "https://spectrum.ieee.org/dartmouth-ai-workshop",
+    "note_out": ""
+  },
+  {
+    "from": "dartmouth",
+    "to": "symbolic",
+    "verdict": "documented",
+    "url": "https://raysolomonoff.com/dartmouth/dartray.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "skinner",
+    "to": "chomsky",
+    "verdict": "documented",
+    "url": "https://doi.org/10.2307/411334",
+    "note_out": ""
+  },
+  {
+    "from": "chomsky",
+    "to": "fodor",
+    "verdict": "documented",
+    "url": "https://www.ebsco.com/research-starters/biography/jerry-fodor",
+    "note_out": ""
+  },
+  {
+    "from": "symbolic",
+    "to": "fodor",
+    "verdict": "documented",
+    "url": "https://doi.org/10.1017/cbo9780511781322.010",
+    "note_out": ""
+  },
+  {
+    "from": "symbolic",
+    "to": "cyc",
+    "verdict": "documented",
+    "url": "https://faculty.cc.gatech.edu/~isbell/classes/reading/papers/lenat95cyc.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "symbolic",
+    "to": "eliza",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "ELIZA plainly uses symbolic pattern rules, but the opened original paper did not label it as building on symbolic AI."
+  },
+  {
+    "from": "symbolic",
+    "to": "schank",
+    "verdict": "documented",
+    "url": "https://books.google.com/books/about/Scripts_Plans_Goals_and_Understanding.html?id=YFuJABU1ABIC",
+    "note_out": ""
+  },
+  {
+    "from": "symbolic",
+    "to": "cogarch",
+    "verdict": "documented",
+    "url": "https://iiif.library.cmu.edu/file/Newell_box00048_fld04131_doc0001/Newell_box00048_fld04131_doc0001.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "symbolic",
+    "to": "dreyfus",
+    "verdict": "documented",
+    "url": "https://www.4tu.nl/ethics/downloads/default/files/brey-2001-dreyfus.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "symbolic",
+    "to": "harnad",
+    "verdict": "documented",
+    "url": "https://arxiv.org/html/cs/9906002v1",
+    "note_out": ""
+  },
+  {
+    "from": "symbolic",
+    "to": "brooks",
+    "verdict": "documented",
+    "url": "https://people.csail.mit.edu/brooks/papers/representation.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "symbolic",
+    "to": "searle",
+    "verdict": "documented",
+    "url": "https://doi.org/10.1017/s0140525x00005756",
+    "note_out": ""
+  },
+  {
+    "from": "selfridge",
+    "to": "minsky",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "The parallel-agent resemblance is strong, but opened sources did not securely document Pandemonium as the direct source of Society of Mind."
+  },
+  {
+    "from": "minsky",
+    "to": "pdp",
+    "verdict": "documented",
+    "url": "https://courses.edx.org/assets/courseware/v1/1d43fffe0d4527c250963b7eb31e1ac9/asset-v1:UniversityofCambridge+2324EDX001+2T2023+type@asset+block/J_History_Behavioral_Science_-_2018_-_Gibbons.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "ivakhnenko",
+    "to": "deeplearning",
+    "verdict": "documented",
+    "url": "http://www.scholarpedia.org/article/Deep_Learning",
+    "note_out": ""
+  },
+  {
+    "from": "pdp",
+    "to": "deeplearning",
+    "verdict": "documented",
+    "url": "https://isl.stanford.edu/people/widrow/papers/j199030years.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "boltzmannmachine",
+    "to": "deeplearning",
+    "verdict": "documented",
+    "url": "https://www.cs.utoronto.ca/~hinton/absps/NatureDeepReview.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "schmidhuber",
+    "to": "deeplearning",
+    "verdict": "documented",
+    "url": "https://direct.mit.edu/neco/article-abstract/9/8/1735/6109/Long-Short-Term-Memory",
+    "note_out": ""
+  },
+  {
+    "from": "deeplearning",
+    "to": "llm",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Transformers are deep neural architectures and underpin modern LLMs, but the opened original paper did not itself discuss LLMs."
+  },
+  {
+    "from": "deeplearning",
+    "to": "olah",
+    "verdict": "documented",
+    "url": "https://princetonuniversity.github.io/NEU-PSY-502/_static/pdf/Class%2011/Olah2020.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "deeplearning",
+    "to": "bitter",
+    "verdict": "documented",
+    "url": "https://bitterlesson.org/",
+    "note_out": ""
+  },
+  {
+    "from": "deeplearning",
+    "to": "marcus",
+    "verdict": "documented",
+    "url": "https://nautil.us/deep-learning-is-hitting-a-wall-238440",
+    "note_out": ""
+  },
+  {
+    "from": "deeplearning",
+    "to": "chollet",
+    "verdict": "documented",
+    "url": "https://arxiv.org/html/1911.01547",
+    "note_out": ""
+  },
+  {
+    "from": "mountcastle",
+    "to": "hawkins",
+    "verdict": "documented",
+    "url": "https://www.science.org/doi/pdf/10.1126/science.314.5796.76",
+    "note_out": ""
+  },
+  {
+    "from": "morpho",
+    "to": "nca",
+    "verdict": "documented",
+    "url": "https://doi.org/10.23915/distill.00023",
+    "note_out": ""
+  },
+  {
+    "from": "conway",
+    "to": "nca",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Neural cellular automata extend the cellular-automaton paradigm, but the opened paper did not explicitly derive its method from Conway's Life."
+  },
+  {
+    "from": "braitenberg",
+    "to": "brooks",
+    "verdict": "documented",
+    "url": "https://en.wikipedia.org/wiki/Behavior-based_robotics",
+    "note_out": ""
+  },
+  {
+    "from": "brooks",
+    "to": "embodied",
+    "verdict": "documented",
+    "url": "https://people.csail.mit.edu/brooks/papers/new-approaches.pdf",
+    "note_out": ""
+  },
+  {
+    "from": "dreyfus",
+    "to": "embodied",
+    "verdict": "documented",
+    "url": "https://doi.org/10.4324/9781315180809-12",
+    "note_out": ""
+  },
+  {
+    "from": "llm",
+    "to": "shanahan",
+    "verdict": "documented",
+    "url": "https://doi.org/10.1038/s41586-023-06647-8",
+    "note_out": ""
+  },
+  {
+    "from": "llm",
+    "to": "butlin",
+    "verdict": "documented",
+    "url": "https://arxiv.org/html/2308.08708v3",
+    "note_out": ""
+  },
+  {
+    "from": "eliza",
+    "to": "llm",
+    "verdict": "documented",
+    "url": "https://www.nature.com/articles/s42256-024-00850-6",
+    "note_out": ""
+  },
+  {
+    "from": "agi",
+    "to": "airisk",
+    "verdict": "documented",
+    "url": "https://intelligence.org/files/EthicsofAI.pdf",
+    "note_out": ""
+  }
+]

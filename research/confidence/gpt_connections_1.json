@@ -1,0 +1,387 @@
+[
+  {
+    "from": "animism",
+    "to": "greekgods",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Greek religion included spirits and anthropomorphic gods, but no source established the proposed historical transformation."
+  },
+  {
+    "from": "animism",
+    "to": "aristotle",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Aristotle's hylomorphic soul is documented; descent from prehistoric animism is not."
+  },
+  {
+    "from": "plato",
+    "to": "aristotle",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/simplicius/commentaries.html",
+    "note_out": "Aristotle explicitly criticizes Plato's transcendent Forms and makes forms predicates of primary substances."
+  },
+  {
+    "from": "pythagoras",
+    "to": "plato",
+    "verdict": "wrong",
+    "url": "https://plato.stanford.edu/entries/pythagoreanism/",
+    "note_out": "Pythagorean influence was limited; SEP calls inferring it from Plato's mathematics a serious mistake and does not derive his core Forms from it."
+  },
+  {
+    "from": "logos",
+    "to": "stoicism",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Heraclitean and Stoic logos are a standard historical connection, though the opened pages did not explicitly state direct influence."
+  },
+  {
+    "from": "logos",
+    "to": "christianity",
+    "verdict": "documented",
+    "url": "https://kids.britannica.com/scholars/article/logos/48773",
+    "note_out": "Britannica explicitly connects Greek logos with Christian theology and John's identification of Christ as the incarnate Word."
+  },
+  {
+    "from": "genesis",
+    "to": "christianity",
+    "verdict": "documented",
+    "url": "https://kids.britannica.com/scholars/article/Hebrew-Bible/56983",
+    "note_out": "The Hebrew Bible, including Genesis, constitutes the major portion Christians call the Old Testament."
+  },
+  {
+    "from": "aristotle",
+    "to": "aquinas",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/aquinas/",
+    "note_out": "SEP describes Aquinas's systematic reworking of Aristotelianism within Christian commitments."
+  },
+  {
+    "from": "christianity",
+    "to": "aquinas",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/christiantheology-philosophy/",
+    "note_out": "Aquinas is explicitly presented as a foundational scholastic advocate integrating philosophy with revealed Christian theology."
+  },
+  {
+    "from": "christianity",
+    "to": "descartes",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/arnauld/",
+    "note_out": "Descartes styled himself a Christian philosopher and pursued the Church-backed project of proving the soul's immateriality."
+  },
+  {
+    "from": "descartes",
+    "to": "occasionalism",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/malebranche/",
+    "note_out": "SEP explicitly describes occasionalism's textbook role as a response to Cartesian mind-body interaction."
+  },
+  {
+    "from": "descartes",
+    "to": "leibniz",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/leibniz-mind/",
+    "note_out": "Leibniz found Cartesian interaction unintelligible and replaced it with pre-established harmony."
+  },
+  {
+    "from": "descartes",
+    "to": "lamettrie",
+    "verdict": "documented",
+    "url": "https://www.ebsco.com/research-starters/literature-and-writing/man-machine-julien-offray-de-la-mettrie",
+    "note_out": "La Mettrie extends machine language to feeling animals and humans while making soul a material brain function."
+  },
+  {
+    "from": "descartes",
+    "to": "empiricism",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/innateness-history/",
+    "note_out": "Locke's founding empiricist polemic rejects innate ideas and supplies an experience-based alternative to Cartesian nativism."
+  },
+  {
+    "from": "empiricism",
+    "to": "idealism",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/idealism/",
+    "note_out": "Berkeley starts from Lockean ideas in the mind and argues toward immaterialism and esse est percipi."
+  },
+  {
+    "from": "empiricism",
+    "to": "kant",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/kant-hume-causality/",
+    "note_out": "Kant explicitly credited remembering Hume with interrupting his dogmatic slumber and redirecting his philosophy."
+  },
+  {
+    "from": "leibniz",
+    "to": "kant",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/kant-leibniz/",
+    "note_out": "SEP documents Leibniz's influence and the conventional account of Kant navigating Leibnizian rationalism and Humean empiricism."
+  },
+  {
+    "from": "enlightenment",
+    "to": "kant",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/kant/",
+    "note_out": "SEP explicitly presents Kant's thinking-for-oneself and public reason as expressions of Enlightenment commitments."
+  },
+  {
+    "from": "enlightenment",
+    "to": "utilitarianism",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "Bentham's calculative ethics belongs to the late Enlightenment, but no opened source explicitly established this broad developmental link."
+  },
+  {
+    "from": "kant",
+    "to": "hegel",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/hegel/",
+    "note_out": "Hegel's project arose from Kantian critical philosophy and sought to systematize and complete transcendental idealism."
+  },
+  {
+    "from": "idealism",
+    "to": "hegel",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/idealism/",
+    "note_out": "SEP explains Hegelian idealism as knowledge becoming self-knowledge through the identity of thinking and being."
+  },
+  {
+    "from": "darwin",
+    "to": "dawkins",
+    "verdict": "documented",
+    "url": "https://doi.org/10.1093/oso/9780198862260.001.0001",
+    "note_out": "Oxford describes Dawkins's gene's-eye view as a later shift within evolutionary theory founded by Darwinian natural selection."
+  },
+  {
+    "from": "darwin",
+    "to": "groupsel",
+    "verdict": "documented",
+    "url": "https://www.journals.uchicago.edu/doi/full/10.1086/522809",
+    "note_out": "The article explicitly identifies Darwin's between-tribe reasoning as the essential logic of modern multilevel selection."
+  },
+  {
+    "from": "darwin",
+    "to": "edelman",
+    "verdict": "documented",
+    "url": "https://digitalcommons.rockefeller.edu/ru-authors/56",
+    "note_out": "Rockefeller describes Neural Darwinism as neuronal-group selection resembling natural selection in evolution, though using different mechanisms."
+  },
+  {
+    "from": "celltheory",
+    "to": "levin",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Levin documents cooperative cellular agency and body-building, but no source tied this specifically to historical cell theory."
+  },
+  {
+    "from": "dubois",
+    "to": "mysterianism",
+    "verdict": "documented",
+    "url": "https://doi.org/10.1515/9783110330571.63",
+    "note_out": "The source explicitly calls McGinn the contemporary continuator of du Bois-Reymond's unknowability claim."
+  },
+  {
+    "from": "epiphenomenalism",
+    "to": "chalmers",
+    "verdict": "documented",
+    "url": "https://consc.net/papers/moving.html",
+    "note_out": "Chalmers explicitly discusses whether consciousness is causally inert, finding epiphenomenalism coherent but undesirable."
+  },
+  {
+    "from": "brentano",
+    "to": "husserl",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/consciousness-intentionality/",
+    "note_out": "Husserl adopted and transformed Brentano's descriptive, object-directed account of experience into phenomenology."
+  },
+  {
+    "from": "brentano",
+    "to": "freud",
+    "verdict": "documented",
+    "url": "https://revistas.unicentro.br/index.php/guaiaraca/article/viewFile/5230/3564",
+    "note_out": "Archival research lists multiple Brentano courses Freud attended from 1874 through 1876."
+  },
+  {
+    "from": "wundt",
+    "to": "james",
+    "verdict": "documented",
+    "url": "https://psychclassics.yorku.ca/Special/Institutions/labsintro.htm",
+    "note_out": "The source discusses James's teaching laboratory and Wundt's permanent research laboratory in psychology's institutionalization as laboratory science."
+  },
+  {
+    "from": "wundt",
+    "to": "skinner",
+    "verdict": "wrong",
+    "url": "https://www.bfskinner.org/about-behaviorism-chapter-1-the-causes-of-behavior-quote-9/",
+    "note_out": "Skinner explicitly said radical behaviorism restores introspection and does not deny self-observation; the note fits Watson better than Skinner."
+  },
+  {
+    "from": "kant",
+    "to": "husserl",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/husserl/",
+    "note_out": "Husserl explicitly acknowledged Kant's legacy when calling phenomenology transcendental and broadened Kantian analysis of experience."
+  },
+  {
+    "from": "husserl",
+    "to": "embodied",
+    "verdict": "documented",
+    "url": "http://ummoss.org/gall18path.pdf",
+    "note_out": "The source traces enactivism through phenomenology and identifies Husserl's lived body, kinaesthesia, and bodily 'I can' as enactive ideas."
+  },
+  {
+    "from": "cantor",
+    "to": "russell",
+    "verdict": "documented",
+    "url": "https://iep.utm.edu/set-theo/",
+    "note_out": "IEP connects Russell's discovery to Cantor's theorem and the unrestricted comprehension associated with naïve set theory."
+  },
+  {
+    "from": "frege",
+    "to": "russell",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/russell-paradox/",
+    "note_out": "Russell's 1902 letter explicitly communicated the paradox that undermined Frege's Grundgesetze."
+  },
+  {
+    "from": "frege",
+    "to": "wittgenstein",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/analysis/s6.html",
+    "note_out": "Wittgenstein acknowledged Frege and inherited his function-argument analysis and conception of logic's relation to language."
+  },
+  {
+    "from": "russell",
+    "to": "wittgenstein",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/wittgenstein/",
+    "note_out": "Frege advised Wittgenstein to study with Russell, which he did at Cambridge from 1911."
+  },
+  {
+    "from": "peano",
+    "to": "goedel",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/goedel-incompleteness/",
+    "note_out": "SEP uses Peano Arithmetic as the standard arithmetic theory to which incompleteness applies."
+  },
+  {
+    "from": "russell",
+    "to": "goedel",
+    "verdict": "documented",
+    "url": "https://doi.org/10.1007/bf01700692",
+    "note_out": "Gödel's 1931 paper is explicitly titled for formally undecidable propositions of Principia Mathematica and related systems."
+  },
+  {
+    "from": "hilbert",
+    "to": "goedel",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/hilbert-program/",
+    "note_out": "Gödel's theorems are generally taken to block Hilbert's original completeness and finitary consistency program."
+  },
+  {
+    "from": "cantor",
+    "to": "brouwer",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/brouwer/",
+    "note_out": "Brouwer attempted to reconstruct Cantorian set theory but rejected completed higher number classes as incompatible with constructive intuitionism."
+  },
+  {
+    "from": "brouwer",
+    "to": "hilbert",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/brouwer/",
+    "note_out": "SEP explicitly chronicles the foundational dispute between Brouwer's intuitionism and Hilbert's formalist program."
+  },
+  {
+    "from": "frege",
+    "to": "tarski",
+    "verdict": "documented",
+    "url": "https://jhaponline.org/jhap/article/download/3970/3666",
+    "note_out": "The historical study presents Frege's rigorous semantics as a close precursor to Tarski's formal truth theories."
+  },
+  {
+    "from": "leibniz",
+    "to": "frege",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/leibniz-logic-influence/",
+    "note_out": "Frege explicitly framed Begriffsschrift as first steps toward Leibniz's general characteristic and calculus of reasoning."
+  },
+  {
+    "from": "goedel",
+    "to": "turing",
+    "verdict": "wrong",
+    "url": "https://www.cs.ox.ac.uk/activities/ieg/e-library/sources/tp2-ie.pdf",
+    "note_out": "Turing explicitly says his Entscheidungsproblem result is quite different from Gödel's; calling it incompleteness merely restated for machines conflates distinct theorems."
+  },
+  {
+    "from": "hilbert",
+    "to": "turing",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/turing-machine/",
+    "note_out": "Turing introduced his machines to prove that Hilbert and Ackermann's Entscheidungsproblem has no general effective solution."
+  },
+  {
+    "from": "lambda",
+    "to": "turing",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/church-turing/",
+    "note_out": "Turing proved equivalence between lambda-definability and Turing computability."
+  },
+  {
+    "from": "lambda",
+    "to": "sicp",
+    "verdict": "standard",
+    "url": "",
+    "note_out": "SICP uses Scheme, whose first-class procedures derive from lambda calculus, but no single reliable opened source stated the complete link."
+  },
+  {
+    "from": "turing",
+    "to": "vonneumann",
+    "verdict": "interpretive",
+    "url": "",
+    "note_out": "Von Neumann knew Turing's universal machine, but historians dispute whether it influenced his stored-program architecture."
+  },
+  {
+    "from": "turing",
+    "to": "morpho",
+    "verdict": "documented",
+    "url": "https://royalsocietypublishing.org/rstb/issue/237/641",
+    "note_out": "The Royal Society records Turing's 1952 paper The Chemical Basis of Morphogenesis."
+  },
+  {
+    "from": "turing",
+    "to": "dartmouth",
+    "verdict": "documented",
+    "url": "https://ai100.stanford.edu/reports/2016-report/appendix-i-short-history-ai",
+    "note_out": "Stanford's AI history says Turing's 1950 essay inspired AI and anticipated machine intelligence and learning before Dartmouth."
+  },
+  {
+    "from": "turing",
+    "to": "hypercomputation",
+    "verdict": "documented",
+    "url": "https://plato.stanford.edu/entries/computation-physicalsystems/",
+    "note_out": "SEP defines hypercomputation as yielding functions that are not Turing-computable."
+  },
+  {
+    "from": "turing",
+    "to": "quantumcomp",
+    "verdict": "documented",
+    "url": "https://ir.cwi.nl/pub/22927/22927B.pdf",
+    "note_out": "Quantum Turing machines compute no additional functions; their prospective advantage is efficiency."
+  },
+  {
+    "from": "shannon",
+    "to": "solomonoff",
+    "verdict": "documented",
+    "url": "https://raysolomonoff.com/publications/barc97.pdf",
+    "note_out": "Solomonoff explicitly says Shannon's information theory profoundly shaped his induction ideas through probability and information packing."
+  },
+  {
+    "from": "shannon",
+    "to": "dartmouth",
+    "verdict": "documented",
+    "url": "https://www-formal.stanford.edu/jmc/history/dartmouth/dartmouth.html",
+    "note_out": "The original Dartmouth proposal names Shannon among its four originators."
+  }
+]

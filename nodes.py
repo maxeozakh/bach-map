@@ -170,7 +170,7 @@ N = [
 ("nagel", "Nagel: What Is It Like to Be a Bat?", 1974, "1974", "phil", "Thomas Nagel", [(None, r"nagel|what is it like")]),
 ("feyerabend", "Feyerabend: Against Method", 1975, "1975", "phil", "Paul Feyerabend", [(None, r"against method")]),
 ("fodor", "The language of thought", 1975, "1975", "mind", "Jerry Fodor", [(None, r"language of thought")]),
-("groupsel", "Multilevel selection", 1975, "1975", "sci", "E. O. Wilson", [(None, r"multilevel")]),
+("groupsel", "Multilevel selection", 1994, "1994", "sci", "Group selection", [(None, r"multilevel")]),
 ("dawkins", "Dawkins: selfish genes and memes", 1976, "1976", "sci", "Richard Dawkins", [(None, r"selfish gene|^memes")]),
 ("jaynes", "Jaynes: the bicameral mind", 1976, "1976", "mind", "Julian Jaynes", [(None, r"bicameral")]),
 ("grossberg", "Adaptive Resonance Theory", 1976, "1976", "ai", "Stephen Grossberg", [(None, r"adaptive resonance")]),
@@ -403,6 +403,15 @@ TLDR_FIX = [
     ("lem", "scientists orbiting a planet", "scientists on a station above a planet"),
     ("grossberg", "a 'resonance' between the two is what becomes conscious",
      "on his account every conscious state is such a 'resonance' between the two"),
+    # ---- independent cross-model check, 13 november 2026 (see research/confidence/gpt_*.json)
+    ("functionalism", "Weak computationalism says minds are computer programs realised in brains. Strong computationalism (digital physics, pancomputationalism) adds that the universe itself is best described as computation that generates patterns of information.",
+     "Computationalism says minds can be understood as computational systems. Stronger versions identify mental states with computations; pancomputationalism is the separate claim that physical processes throughout the universe are computational."),
+    ("penrose", "Penrose's huge survey of the mathematics behind modern physics, from numbers to quantum gravity, written for determined general readers.",
+     "Published in 2004, Penrose's huge survey covers the mathematics behind modern physics, from numbers to quantum gravity, for determined general readers."),
+    ("iit", "On this view an ordinary computer could never be conscious, whatever program it runs.",
+     "On this view an ordinary digital computer would have extremely little consciousness, whatever program it runs."),
+    ("deeplearning", "Ian Goodfellow introduced them in 2014, and they produced the first convincing synthetic photographs.",
+     "Ian Goodfellow introduced them in 2014; later GANs became a major method for synthesising photorealistic images."),
 ]
 
 # by-lines that were wrong: (node id, old by-line, new by-line)
@@ -415,6 +424,7 @@ AUTHOR_FIX = [
     ("utilitarianism", "Jeremy Bentham; Robert Nozick", "Jeremy Bentham; John Stuart Mill"),
     ("agi", "Shane Legg; Ben Goertzel", "Mark Gubrud; Shane Legg; Ben Goertzel"),
     ("doerner", "Dietrich Dörner, C. Bartl, F. Detje, J. Gerdes, D. Halcour", "Dietrich Dörner and six co-authors"),
+    ("groupsel", "D. S. Wilson; E. O. Wilson", "David Sloan Wilson; Elliott Sober"),
 ]
 
 # by-lines per facet label: (node id, facet label, new by-line)
