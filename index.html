@@ -73,6 +73,11 @@ input[type=search] { font: inherit; color: var(--text); background: var(--bg); b
 .key { display: inline-block; width: 26px; height: 0; border-top: 2px solid var(--muted); vertical-align: middle; margin-right: 4px; }
 .key.against { border-top-style: dashed; }
 .key.related { border-top-style: dotted; }
+.chk { white-space: nowrap; cursor: pointer; }
+.chk input { accent-color: var(--accent); margin: 0 4px 0 0; vertical-align: -2px; }
+#world.strict #edges path.weak { display: none; }
+#world.strict .node.weak { opacity: .3; }
+#world.strict.focus .node.weak.hi { opacity: 1; }
 
 #panel { position: fixed; top: 0; right: 0; bottom: 0; width: var(--pw, 460px); max-width: 100vw; background: var(--bg);
   border-left: 1px solid var(--muted); padding: 0 22px 60px; overflow-y: auto; z-index: 10; display: none; }
@@ -137,7 +142,7 @@ input[type=search] { font: inherit; color: var(--text); background: var(--bg); b
     <button class="btn" id="reset">reset<span class="deskhint"> layout</span></button>
     <button class="btn" id="theme"></button>
   </div>
-  <p style="margin:8px 0 0"><span class="key"></span>builds on &nbsp; <span class="key against"></span>argues against &nbsp; <span class="key related"></span>related</p>
+  <p style="margin:8px 0 0"><span class="key"></span>builds on &nbsp; <span class="key against"></span>argues against &nbsp; <span class="key related"></span>related &nbsp; <label class="chk"><input type="checkbox" id="strict">only highly likely</label></p>
   </div>
 </div>
 
@@ -175,6 +180,9 @@ LANES.forEach(([, , themes], i) => themes.forEach(t => laneIdx[t] = i));
 const byId = {};
 D.nodes.forEach(n => { byId[n.id] = n; n.lane = laneIdx[n.theme]; n.era = ERAS.findIndex(e => n.year >= e[0] && n.year < e[1]);
   n.text = [n.title, ...n.facets.map(f => (f.label || '') + ' ' + (f.author || ''))].join(' ').toLowerCase(); });
+// "only highly likely": hides connections and other parts below that level, and fades cards whose summary is below it
+const strong = x => !x.conf || x.conf[0] === 'highly likely';
+let strict = localStorage.getItem('bach-map-strict') === '1';
 const EDGES = D.edges.map(([a, b, kind, note, conf]) => ({ a, b, kind, note, conf })).filter(e => byId[e.a] && byId[e.b]);
 const adj = {};
 EDGES.forEach(e => { (adj[e.a] = adj[e.a] || []).push(e); (adj[e.b] = adj[e.b] || []).push(e); });
@@ -211,7 +219,7 @@ ERAS.forEach((e, i) => { html += `<div class="eralab" style="left:${ex[i]}px">${
 LANES.forEach((l, i) => { html += `<div class="lanelab" style="top:${ly[i]}px">${esc(l[1])}</div>`;
   if (i) html += `<div class="rule" style="top:${ly[i] - LANEGAP / 2}px;width:${WW}px"></div>`; });
 D.nodes.forEach(n => {
-  html += `<div class="node${n.theme === 'bach' ? ' own' : ''}" data-id="${n.id}" title="${esc(n.title)}">` +
+  html += `<div class="node${n.theme === 'bach' ? ' own' : ''}${n.facets[0] && !strong(n.facets[0]) ? ' weak' : ''}" data-id="${n.id}" title="${esc(n.title)}">` +
     (n.img ? `<img src="${n.img}" alt="" loading="lazy" draggable="false">` : '') +
     `<div class="yr">${esc(n.label)}</div><div class="name">${esc(n.title)}</div></div>`;
 });
@@ -235,7 +243,7 @@ function pathFor(e) {
   return `M${x1} ${y1}C${x1} ${y1 + c} ${x2} ${y2 - c} ${x2} ${y2}`;
 }
 const NS = 'http://www.w3.org/2000/svg';
-EDGES.forEach(e => { e.el = document.createElementNS(NS, 'path'); e.el.setAttribute('class', e.kind); e.el.setAttribute('d', pathFor(e)); svg.appendChild(e.el); });
+EDGES.forEach(e => { e.el = document.createElementNS(NS, 'path'); e.el.setAttribute('class', e.kind + (strong(e) ? '' : ' weak')); e.el.setAttribute('d', pathFor(e)); svg.appendChild(e.el); });
 
 // ---- pan and zoom
 let tx = 0, ty = 0, sc = 1;
@@ -319,7 +327,7 @@ function paint() {
   world.querySelectorAll('.hi,.sel').forEach(x => x.classList.remove('hi', 'sel'));
   if (f) {
     nodeEl[f].classList.add('hi', 'sel');
-    (adj[f] || []).forEach(e => { e.el.classList.add('hi'); nodeEl[e.a].classList.add('hi'); nodeEl[e.b].classList.add('hi'); });
+    (adj[f] || []).filter(e => !strict || strong(e)).forEach(e => { e.el.classList.add('hi'); nodeEl[e.a].classList.add('hi'); nodeEl[e.b].classList.add('hi'); });
   } else if (matches) matches.forEach(id => nodeEl[id].classList.add('hi'));
   world.classList.toggle('focus', !!(f || matches));
 }
@@ -338,7 +346,7 @@ function confHtml(c, lead) {
 }
 function connHtml(id) {
   const words = { builds: ['builds on', 'leads to'], against: ['argues against', 'challenged by'], related: ['related to', 'related to'] };
-  return (adj[id] || []).slice().sort((p, q) => byId[p.a === id ? p.b : p.a].year - byId[q.a === id ? q.b : q.a].year).map(e => {
+  return (adj[id] || []).filter(e => !strict || strong(e)).sort((p, q) => byId[p.a === id ? p.b : p.a].year - byId[q.a === id ? q.b : q.a].year).map(e => {
     const other = e.a === id ? e.b : e.a;
     return `<div class="conn">${words[e.kind][e.b === id ? 0 : 1]} <button class="btn" data-go="${other}">${esc(byId[other].title)}</button>${e.note ? ': ' + esc(e.note) : ''}${e.conf ? ' ' + confHtml(e.conf, '· ') : ''}</div>`;
   }).join('');
@@ -362,7 +370,7 @@ function select(id) {
   const c = connHtml(id);
   if (c) h += `<div class="lab">connections</div>` + c;
   if (lead) h += srcs(lead);
-  n.facets.slice(1).forEach(f => {
+  n.facets.slice(1).filter(f => !strict || strong(f)).forEach(f => {
     h += `<h4>${esc(f.label)}</h4>`;
     if (f.author) h += `<p class="small">${esc(f.author)}</p>`;
     h += `<p>${esc(f.tldr)}</p>` + confLine(f) + srcs(f);
@@ -385,6 +393,13 @@ el('search').addEventListener('keydown', e => { if (e.key === 'Enter' && matches
 el('zin').onclick = () => zoomAt(innerWidth / 2, innerHeight / 2, 1.35);
 el('zout').onclick = () => zoomAt(innerWidth / 2, innerHeight / 2, 1 / 1.35);
 el('fit').onclick = fit;
+function setStrict(on) {
+  strict = on; el('strict').checked = on; world.classList.toggle('strict', on);
+  localStorage.setItem('bach-map-strict', on ? '1' : '0');
+  if (selected) { const st = el('panel').scrollTop; select(selected); el('panel').scrollTop = st; } else paint();
+}
+el('strict').onchange = e => setStrict(e.target.checked);
+setStrict(strict);
 el('tobach').onclick = () => { select('cimc'); centerOn('cimc', 0.7); };
 el('reset').onclick = () => { saved = {}; localStorage.removeItem(PKEY); D.nodes.forEach(n => { pos[n.id] = { ...home[n.id] }; place(n.id); }); EDGES.forEach(e => e.el.setAttribute('d', pathFor(e))); };
 
